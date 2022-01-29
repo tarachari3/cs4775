@@ -4,7 +4,7 @@ dataExport.py
 
 		getNeuralData() #get’s necessary data from dataset, for neural net
 		#uses root directory of '/Users/tarachari/Desktop/CS/Final_Proj/cysdataset/profiles'
-		#change rooter variable to change directory of data
+		#change root variable to change directory of data
 
 
 neuralNet.py
@@ -16,7 +16,7 @@ neuralNet.py
 
 
 HNNlog.py
-	3command line call (OS x): python ~/HNNlog.py
+	command line call (OS x): python ~/HNNlog.py
 
 	#calls fwd,back, and viterbi functions to get predictions from HNN for cysteine bonding states
 	#prints results
