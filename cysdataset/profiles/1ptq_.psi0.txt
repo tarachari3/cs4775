@@ -1,0 +1,232 @@
+ID Pseudo hssp file.
+SEQ 
+SEQ gi|6755082|ref|NP_035233.1| protein kinase C, delta; protein kin...   114  2e-25
+SEQ gi|66731|pir||KIMSCD protein kinase C (EC 2.7.1.-) delta - mouse...   114  2e-25
+SEQ gi|1346392|sp|P28867|KPCD_MOUSE PROTEIN KINASE C, DELTA TYPE (NP...   114  2e-25
+SEQ gi|4115530|dbj|BAA36408.1| (AB011812) PKC delta II [Mus musculus]     114  2e-25
+SEQ gi|7019312|emb|CAB75578.1| (AJ230617) protein kinase C delta [Ra...   114  2e-25
+SEQ gi|125554|sp|P09215|KPCD_RAT PROTEIN KINASE C, DELTA TYPE (NPKC-...   113  4e-25
+SEQ gi|5453970|ref|NP_006245.1| protein kinase C, delta [Homo sapien...   112  7e-25
+SEQ gi|13648717|ref|XP_003106.3| protein kinase C, delta [Homo sapie...   112  7e-25
+SEQ gi|520587|dbj|BAA01381.1| (D10495) protein kinase C delta-type [...   112  7e-25
+SEQ gi|6942180|gb|AAF32345.1|AF219629_1 (AF219629) protein kinase C ...   112  9e-25
+SEQ gi|509050|emb|CAA80249.1| (Z22521) protein kinase C delta [Homo ...   108  9e-24
+SEQ gi|6679353|ref|NP_032885.1| protein kinase C, theta [Mus musculu...    97  4e-20
+SEQ gi|5453976|ref|NP_006248.1| protein kinase C, theta [Homo sapien...    96  6e-20
+SEQ gi|1346394|sp|Q04759|KPCT_HUMAN PROTEIN KINASE C, THETA TYPE (NP...    96  7e-20
+SEQ gi|1082746|pir||A47160 protein kinase C (EC 2.7.1.-) theta - human     96  7e-20
+SEQ gi|10799537|emb|CAC12904.1| (AL158043) bA5N23.1 (protein kinase ...    90  4e-18
+SEQ gi|1127235|pdb|1PTQ|    Protein Kinase C Delta Cys2 Domain >gi|1...    88  1e-17
+SEQ gi|6016444|sp|Q16975|KPC2_APLCA CALCIUM-INDEPENDENT PROTEIN KINA...    81  2e-15
+SEQ gi|125547|sp|P13678|KPC3_DROME PROTEIN KINASE C (PKC) (DPKC98F) ...    81  3e-15
+SEQ gi|7301734|gb|AAF56846.1| (AE003768) Pkc98E gene product [Drosop...    81  3e-15
+SEQ gi|2507188|sp|P34722|KPC1_CAEEL PROTEIN KINASE C-LIKE 1 (PKC) >g...    79  6e-15
+SEQ gi|6016442|sp|Q25378|KPC1_LYTPI PROTEIN KINASE C >gi|414286|gb|A...    79  8e-15
+SEQ gi|7511605|pir||T33399 protein kinase C homolog tpa-1, splice fo...    78  1e-14
+SEQ gi|7511604|pir||T33400 protein kinase C homolog tpa-1 - Caenorha...    78  2e-14
+SEQ gi|303529|dbj|BAA03556.1| (D14815) TPA-1 [Caenorhabditis elegans]      78  2e-14
+SEQ gi|155790|gb|AAA27770.1| (M94883) protein kinase C [Aplysia cali...    77  3e-14
+SEQ gi|228058|prf||1716374A protein kinase C I [Aplysia californica]       77  3e-14
+SEQ gi|6225593|sp|Q16974|KPC1_APLCA CALCIUM-DEPENDENT PROTEIN KINASE...    77  3e-14
+SEQ gi|104168|pir||B37237 protein kinase C (EC 2.7.1.-) II - African...    77  3e-14
+SEQ gi|227491|prf||1704381B protein kinase C II [Xenopus laevis]           77  3e-14
+SEQ gi|3114989|emb|CAA73554.1| (Y13100) Serine/Threonine protein kin...    77  3e-14
+SEQ gi|125545|sp|P05773|KPC2_RABIT PROTEIN KINASE C, BETA-II TYPE (P...    77  4e-14
+SEQ gi|125539|sp|P05772|KPC1_RABIT PROTEIN KINASE C, BETA-I TYPE (PK...    77  4e-14
+SEQ gi|4506069|ref|NP_002729.1| protein kinase C, beta 1; Protein ki...    77  4e-14
+SEQ gi|125544|sp|P05127|KPC2_HUMAN PROTEIN KINASE C, BETA-II TYPE (P...    77  4e-14
+SEQ gi|6679345|ref|NP_032881.1| protein kinase C, beta [Mus musculus...    77  4e-14
+SEQ gi|66721|pir||KIRTC1 protein kinase C (EC 2.7.1.-) beta-I - rat ...    77  4e-14
+SEQ gi|66724|pir||KIRTC2 protein kinase C (EC 2.7.1.-) beta-II - rat...    77  4e-14
+SEQ gi|125542|sp|P05126|KPC2_BOVIN PROTEIN KINASE C, BETA-II TYPE (P...    77  4e-14
+SEQ gi|125538|sp|P05771|KPC1_HUMAN PROTEIN KINASE C, BETA-I TYPE (PK...    77  4e-14
+SEQ gi|125540|sp|P04410|KPC1_RAT PROTEIN KINASE C, BETA-I TYPE (PKC-...    77  4e-14
+SEQ gi|6981398|ref|NP_036845.1| protein kinase C beta [Rattus norveg...    77  4e-14
+SEQ gi|554486|gb|AAA41864.1| (K03486) protein kinase C type III [Rat...    77  4e-14
+SEQ gi|7511603|pir||T15903 protein kinase C homolog - Caenorhabditis...    77  4e-14
+SEQ gi|1778590|gb|AAB40868.1| (U82935) protein kinase C2 A isoform [...    77  4e-14
+SEQ gi|1778592|gb|AAB40869.1| (U82936) protein kinase C2 B isoform [...    77  4e-14
+SEQ gi|4885563|ref|NP_005391.1| protein kinase C, epsilon [Homo sapi...    77  4e-14
+SEQ gi|125557|sp|P09216|KPCE_RAT PROTEIN KINASE C, EPSILON TYPE (NPK...    77  4e-14
+SEQ gi|6755084|ref|NP_035234.1| protein kinase C, epsilon [Mus muscu...    77  4e-14
+SEQ gi|66734|pir||KIRBCE protein kinase C (EC 2.7.1.-) epsilon - rabbit    77  4e-14
+SEQ gi|125556|sp|P10830|KPCE_RABIT PROTEIN KINASE C, EPSILON TYPE (N...    77  4e-14
+SEQ gi|13636657|ref|XP_010814.2| protein kinase C, epsilon [Homo sap...    77  4e-14
+SEQ gi|125551|sp|P10102|KPCA_RABIT PROTEIN KINASE C, ALPHA TYPE (PKC...    76  6e-14
+SEQ gi|4506067|ref|NP_002728.1| protein kinase C, alpha; Protein kin...    76  6e-14
+SEQ gi|66717|pir||KIMSCA protein kinase C (EC 2.7.1.-) alpha - mouse...    76  6e-14
+SEQ gi|125552|sp|P05696|KPCA_RAT PROTEIN KINASE C, ALPHA TYPE (PKC-A...    76  6e-14
+SEQ gi|125548|sp|P04409|KPCA_BOVIN PROTEIN KINASE C, ALPHA TYPE (PKC...    76  6e-14
+SEQ gi|189979|gb|AAA60098.1| (M22199) protein kinase C alpha-polypep...    76  6e-14
+SEQ gi|3114991|emb|CAA73557.1| (Y13103) Serine/Threonine protein kin...    76  7e-14
+SEQ gi|13592027|ref|NP_112347.1| protein kinase C-eta [Rattus norveg...    76  7e-14
+SEQ gi|462454|sp|P34885|KPC2_CAEEL PROTEIN KINASE C-LIKE 2 (PKC1B) >...    76  7e-14
+SEQ gi|7504545|pir||T22856 hypothetical protein F57F5.5 - Caenorhabd...    76  7e-14
+SEQ gi|6679347|ref|NP_032882.1| protein kinase C, eta [Mus musculus]...    76  7e-14
+SEQ gi|5453972|ref|NP_006246.1| protein kinase C, eta [Homo sapiens]...    76  9e-14
+SEQ gi|13631801|ref|XP_007374.3| protein kinase C, eta [Homo sapiens]      76  9e-14
+SEQ gi|6755080|ref|NP_035232.1| protein kinase C, gamma [Mus musculu...    76  9e-14
+SEQ gi|125558|sp|P05128|KPCG_BOVIN PROTEIN KINASE C, GAMMA TYPE (PKC...    76  9e-14
+SEQ gi|13384594|ref|NP_002730.1| protein kinase C, gamma; Protein ki...    76  9e-14
+SEQ gi|125560|sp|P10829|KPCG_RABIT PROTEIN KINASE C, GAMMA TYPE (PKC...    75  1e-13
+SEQ gi|206189|gb|AAA41875.1| (M13706) protein kinase C type II [Ratt...    75  1e-13
+SEQ gi|55132|emb|CAA36907.1| (X52684) protein kinase C [Mus musculus...    75  1e-13
+SEQ gi|104167|pir||A37237 protein kinase C (EC 2.7.1.-) I - African ...    75  1e-13
+SEQ gi|3114956|emb|CAA73553.1| (Y13099) Serine/Threonine protein kin...    74  2e-13
+SEQ gi|6755078|ref|NP_035231.1| protein kinase C, alpha [Mus musculu...    74  3e-13
+SEQ gi|125537|sp|P05130|KPC1_DROME PROTEIN KINASE C, BRAIN ISOZYME (...    74  3e-13
+SEQ gi|4938231|emb|CAA28890.2| (X05279) protein kinase C [Drosophila...    74  3e-13
+SEQ gi|7302859|gb|AAF57932.1| (AE003805) Pkc53E gene product [alt 1]...    74  3e-13
+SEQ gi|7302860|gb|AAF57933.1| (AE003805) Pkc53E gene product [alt 2]...    74  3e-13
+SEQ gi|125550|sp|P20444|KPCA_MOUSE PROTEIN KINASE C, ALPHA TYPE (PKC...    73  4e-13
+SEQ gi|5031689|ref|NP_005804.1| protein kinase C, nu; serine-threoni...    73  4e-13
+SEQ gi|4506075|ref|NP_002733.1| protein kinase C, mu [Homo sapiens] ...    73  5e-13
+SEQ gi|6679351|ref|NP_032884.1| protein kinase C, mu [Mus musculus] ...    73  5e-13
+SEQ gi|12738290|ref|XP_007234.2| protein kinase C, mu [Homo sapiens]       73  5e-13
+SEQ gi|189992|gb|AAA60102.1| (M13977) protein kinase C-gamma [Homo s...    73  7e-13
+SEQ gi|2065190|emb|CAA72926.1| (Y12237) protein kinase C [Hydra vulg...    71  2e-12
+SEQ gi|2073444|emb|CAA73363.1| (Y12858) protein kinase C [Hydra vulg...    71  2e-12
+SEQ gi|2073446|emb|CAA73362.1| (Y12857) protein kinase C [Hydra vulg...    71  2e-12
+SEQ gi|13386382|ref|NP_083515.1| RIKEN cDNA 4930557O20 gene [Mus mus...    70  4e-12
+SEQ gi|9507035|ref|NP_062084.1| RAS guanyl releasing protein 1 [Ratt...    68  2e-11
+SEQ gi|5032025|ref|NP_005730.1| RAS guanyl releasing protein 1; guan...    68  2e-11
+SEQ gi|3928857|gb|AAC79700.1| (AF081196) calcium and DAG-regulated g...    68  2e-11
+SEQ gi|7242201|ref|NP_035376.1| RAS guanyl releasing protein 1; RAS ...    68  2e-11
+SEQ gi|4038292|gb|AAC97349.1| (AF106071) ras activator RasGRP [Homo ...    68  2e-11
+SEQ gi|6650545|gb|AAF21898.1|AF081197_1 (AF081197) calcium and DAG-r...    68  2e-11
+SEQ gi|12659007|gb|AAK01149.1|AF309082_1 (AF309082) protein kinase D...    67  3e-11
+SEQ gi|4157977|emb|CAA76911.1| (Y17882) protein kinase C [Geodia cyd...    67  4e-11
+SEQ gi|3135778|emb|CAA05725.1| (AJ002799) protein kinase C beta [Hom...    67  4e-11
+SEQ gi|7662334|ref|NP_056191.1| KIAA0846 protein [Homo sapiens] >gi|...    67  4e-11
+SEQ gi|13636467|ref|XP_010840.2| KIAA0846 protein [Homo sapiens]           67  4e-11
+SEQ gi|7508444|pir||T20881 hypothetical protein T25E12.4a - Caenorha...    67  4e-11
+SEQ gi|7300377|gb|AAF55536.1| (AE003721) CG7125 gene product [Drosop...    66  5e-11
+SEQ gi|88209|pir||S08242 N-chimerin - human >gi|35013|emb|CAA35769.1...    66  6e-11
+SEQ gi|14091777|ref|NP_114472.1| chimerin (chimaerin) 1 [Rattus norv...    66  6e-11
+SEQ gi|285300|pir||A43953 N-chimerin - common canary >gi|249118|gb|A...    66  6e-11
+SEQ gi|4502813|ref|NP_001813.1| chimerin (chimaerin) 1; Chimerin 1 (...    66  6e-11
+SEQ gi|399249|sp|P15882|CHIN_HUMAN N-CHIMAERIN (NC) (N-CHIMERIN) (AL...    66  6e-11
+SEQ gi|14193705|gb|AAK56097.1|AF332069_1 (AF332069) n-chimaerin [Mus...    66  6e-11
+SEQ gi|631095|pir||A53764 beta2-chimerin, cerebellar - human >gi|457...    66  8e-11
+SEQ gi|631806|pir||B53764 beta2-chimerin, cerebellar - rat (fragment)      66  8e-11
+SEQ gi|4757980|ref|NP_004058.1| chimerin (chimaerin) 2; Chimerin 2 (...    66  8e-11
+SEQ gi|3212616|pdb|1TBN|    Nmr Structure Of A Protein Kinase C-G Ph...    66  1e-10
+SEQ gi|12839480|dbj|BAB24568.1| (AK006398) putative [Mus musculus]         65  1e-10
+SEQ gi|10178915|emb|CAC08453.1| (AJ279014) beta chimaerin [Mus muscu...    65  1e-10
+SEQ gi|4150896|emb|CAA73682.1| (Y13229) serine /threonine protein ki...    65  1e-10
+SEQ gi|3114958|emb|CAA73556.1| (Y13102) Serine/Threonine protein kin...    65  1e-10
+SEQ gi|14091779|ref|NP_114473.1| chimerin (chimaerin) 2 [Rattus norv...    64  2e-10
+SEQ gi|7503773|pir||T28745 hypothetical protein F48G7.10 - Caenorhab...    63  5e-10
+SEQ gi|125543|sp|P13677|KPC2_DROME PROTEIN KINASE C, EYE ISOZYME (PK...    63  5e-10
+SEQ gi|7506686|pir||T24200 hypothetical protein R12G8.1 - Caenorhabd...    61  2e-09
+SEQ gi|3393042|emb|CAA06507.1| (AJ005377) eye-specific protein kinas...    61  2e-09
+SEQ gi|7499779|pir||T21321 hypothetical protein F25B3.3 - Caenorhabd...    60  4e-09
+SEQ gi|102539|pir||A41101 phorbol ester-binding protein unc-13 - Cae...    59  9e-09
+SEQ gi|1718026|sp|P27715|UN13_CAEEL PHORBOL ESTER/DIACYLGLYCEROL-BIN...    59  9e-09
+SEQ gi|7511186|pir||T19295 hypothetical protein ZK524.2a - Caenorhab...    59  9e-09
+SEQ gi|7511187|pir||T27886 hypothetical protein ZK524.2b - Caenorhab...    59  9e-09
+SEQ gi|7508401|pir||T25245 hypothetical protein T24F1.3 - Caenorhabd...    58  1e-08
+SEQ gi|12408320|ref|NP_074053.1| Munc13-2 protein [Rattus norvegicus...    57  3e-08
+SEQ gi|5306123|gb|AAD41910.1|AF159706_1 (AF159706) Munc13-2 protein ...    57  3e-08
+SEQ gi|10801630|dbj|BAB16732.1| (AB049846) hypothetical protein [Mac...    57  3e-08
+SEQ gi|13637580|ref|XP_002659.2| protein kinase C, nu [Homo sapiens]       56  5e-08
+SEQ gi|7509169|pir||T26297 hypothetical protein W09C5.5 - Caenorhabd...    56  5e-08
+SEQ gi|5454148|ref|NP_006368.1| UNC13 (C. elegans)-like; homolog of ...    56  7e-08
+SEQ gi|1763306|gb|AAB39720.1| (U75361) Munc13-3 [Rattus norvegicus]        56  7e-08
+SEQ gi|2143860|pir||I61777 Munc13-3 - rat (fragment)                       56  7e-08
+SEQ gi|11360401|pir||T42759 Munc13-3 protein - rat                         56  7e-08
+SEQ gi|2218021|emb|CAA73008.1| (Y12339) F25B3.3 kinase like protein ...    56  8e-08
+SEQ gi|12408318|ref|NP_074052.1| Munc13-1 [Rattus norvegicus] >gi|21...    56  8e-08
+SEQ gi|5031623|ref|NP_005816.1| RAS guanyl releasing protein 2 (calc...    54  2e-07
+SEQ gi|6755290|ref|NP_035372.1| RAS, guanyl releasing protein 2; RAP...    54  2e-07
+SEQ gi|6358505|gb|AAF07219.1|AF043722_1 (AF043722) guanine exchange ...    54  2e-07
+SEQ gi|7512052|pir||T13942 UNC-13-B protein - fruit fly (Drosophila ...    54  2e-07
+SEQ gi|4377454|emb|CAA76941.1| (Y17921) UNC-13 protein [Drosophila m...    54  2e-07
+SEQ gi|6665667|gb|AAF22962.1|AF169141_1 (AF169141) UNC-13 [Drosophil...    54  2e-07
+SEQ gi|10728144|gb|AAF59405.2| (AE003847) unc-13 gene product [Droso...    54  2e-07
+SEQ gi|10946864|ref|NP_067443.1| UNC-13 homolog (C. elegans) 1 [Mus ...    54  3e-07
+SEQ gi|7290597|gb|AAF46047.1| (AE003434) CG3208 gene product [Drosop...    54  3e-07
+SEQ gi|2772930|gb|AAB96643.1| (AF029395) Genghis Khan [Drosophila me...    54  4e-07
+SEQ gi|7291742|gb|AAF47163.1| (AE003463) gek gene product [Drosophil...    54  4e-07
+SEQ gi|3851594|gb|AAC72365.1| (AF093637) SET domain binding factor [...    53  7e-07
+SEQ gi|7299513|gb|AAF54700.1| (AE003693) Sbf gene product [Drosophil...    53  7e-07
+SEQ gi|7446380|pir||T14050 protein kinase (EC 2.7.1.37) beta, myoton...    52  8e-07
+SEQ gi|5174413|ref|NP_006026.1| CDC42-binding protein kinase beta (D...    51  2e-06
+SEQ gi|13647955|ref|XP_007257.2| CDC42-binding protein kinase beta (...    51  2e-06
+SEQ gi|14133241|dbj|BAA86438.2| (AB032950) KIAA1124 protein [Homo sa...    51  2e-06
+SEQ gi|13383929|gb|AAK21200.1|AF333027_2 (AF333027) Ras association ...    50  4e-06
+SEQ gi|5524227|gb|AAD44174.1|AF132675_1 (AF132675) Ras association (...    50  4e-06
+SEQ gi|9055147|gb|AAF35129.2|AF102772_1 (AF102772) pancreas-specific...    50  4e-06
+SEQ gi|4507247|ref|NP_003140.1| src homology three (SH3) and cystein...    49  8e-06
+SEQ gi|7446379|pir||T14039 protein kinase (EC 2.7.1.37), myotonic dy...    49  9e-06
+SEQ gi|7512000|pir||T09144 probable guanine nucleotide exchange fact...    48  1e-05
+SEQ gi|7512001|pir||T09223 probable guanine nucleotide exchange fact...    48  1e-05
+SEQ gi|7302841|gb|AAF57915.1| (AE003804) RhoGEF2 gene product [Droso...    48  1e-05
+SEQ gi|2695573|gb|AAB91430.1| (AC002302) Protein kinase C beta (PRKC...    48  2e-05
+SEQ gi|9055145|gb|AAF35128.2|AF102771_1 (AF102771) cardiac-specific ...    47  4e-05
+SEQ gi|7505496|pir||T25808 hypothetical protein K08B12.5 - Caenorhab...    46  5e-05
+SEQ gi|8394367|ref|NP_058549.1| src homology three (SH3) and cystein...    46  6e-05
+SEQ gi|1175425|sp|Q09746|YB65_SCHPO HYPOTHETICAL 72.2 KDA PROTEIN C1...    46  7e-05
+SEQ gi|13638127|ref|XP_002766.2| chimerin (chimaerin) 1 [Homo sapiens]     46  7e-05
+SEQ gi|7301078|gb|AAF56213.1| (AE003745) CG5875 gene product [Drosop...    46  8e-05
+SEQ gi|6822326|gb|AAF28765.1|AF218780_1 (AF218780) VAV protein [Dros...    44  2e-04
+SEQ gi|10728336|gb|AAF48943.2| (AE003511) vav gene product [Drosophi...    44  2e-04
+SEQ gi|7303111|gb|AAF58177.1| (AE003812) l(2)k06403 gene product [Dr...    44  2e-04
+SEQ gi|9885776|gb|AAG01528.1|AF288482_1 (AF288482) atypical protein ...    44  2e-04
+SEQ gi|7294618|gb|AAF49957.1| (AE003542) CG11534 gene product [Droso...    44  3e-04
+SEQ gi|7494577|pir||T28793 diacylglycerol kinase - Caenorhabditis el...    44  4e-04
+SEQ gi|7494576|pir||T28792 diacylglycerol kinase - Caenorhabditis el...    44  4e-04
+SEQ 
+## SEQUENCE PROFILE AND ENTROPY
+ SeqNo PDBNo   V   L   I   M   F   W   Y   G   A   P   S   T   C   H   R   K   Q   E   N   D  NOCC NDEL NINS ENTROPY RELENT WEIGHT
+    1    1     0   0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+    2    2     0   0   1   0   0   0   1   0   3   1   2   4   1   1  14  42   4   7  18   1     0    0    0   1.865     62  0.00
+    3    3     0   5   0   1  92   2   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.354     11  0.00
+    4    4     7   4  12   6   2   0   1   3   3   0   3  10   0   0   3  29   8   8   2   0     0    0    0   2.355     78  0.00
+    5    5    27   7  16   0   0   0   0   0  30   5   0   5   0   0   0   3   0   6   0   0     0    0    0   1.838     61  0.00
+    6    6     0   1   0   2   2   5   8   0   2   0   2  18   0  37  18   5   1   0   0   0     0    0    0   1.880     62  0.00
+    7    7     0   0   0   0  28   0   5   2   0   1  17  30   0   0   1   0   1   0  14   0     0    0    0   1.697     56  0.00
+    8    8     0   6   0   0  42   0  44   0   4   1   1   0   0   0   0   0   0   0   0   0     0    0    0   1.180     39  0.00
+    9    9     0   6   0   5   0   0   1  11   3   2  12  10   0   1  16  30   1   0   1   1     0    0    0   2.122     70  0.00
+   10   10     4   1   0   0   0   0   0   8   3   0  28   9   0   1   8   5  31   1   0   0     0    0    0   1.934     64  0.00
+   11   11     1   0   0   0   3   0   0   0   1  93   0   0   0   1   1   0   0   0   0   0     0    0    0   0.372     12  0.00
+   12   12     1   0   0   0   0   0   0   0   3   0   0  89   0   6   0   0   0   0   0   0     0    0    0   0.470     15  0.00
+   13   13     2   0   1   0  70   8  11   0   1   0   0   1   0   1   0   1   1   0   1   0     0    0    0   1.177     39  0.00
+   14   14     0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0     0    0    0   0.025      0  0.00
+   15   15     0   0   0   0   0   0   6   2   3   0  30   0   0   1   2   0   3   8   3  41     0    0    0   1.662     55  0.00
+   16   16     7   3   0   0   2   0   9   0   0   0   0   0   0  68   0   0   0   6   2   0     0    0    0   1.222     40  0.00
+   17   17     0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   18   18     0   0   0   0   0   0   0  40   8   0   3  16   1   2   6  15   2   6   1   0     0    0    0   1.833     61  0.00
+   19   19     0   1   0   0   0   0   0   9   1   0  33   5   0   1   2   4   1  12   6  25     0    0    0   1.886     62  0.00
+   20   20     0  46   2   7  43   0   0   0   0   0   0   0   0   0   1   1   0   0   0   0     0    0    0   1.065     35  0.00
+   21   21     6  55  30  10   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.085     36  0.00
+   22   22     4   1   0   0   1  65  23   0   0   0   0   0   0   1   0   4   0   0   0   0     0    0    0   1.071     35  0.00
+   23   23     0   0   0   0   0   0   0  99   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.049      1  0.00
+   24   24    12  55  17   1  13   0   0   0   0   1   0   1   0   0   1   0   0   0   0   0     0    0    0   1.306     43  0.00
+   25   25    15   6  26   2   7   0   4  18   9   0   2   3   0   0   0   0   0   0   7   0     0    0    0   2.127     71  0.00
+   26   26     0   0   0   0   0   0   0   0   6   2   0   1   0  18  26  45   1   0   2   0     0    0    0   1.404     46  0.00
+   27   27     0   0   0   0   0   0   0   0   0   0   0   1   0   1   0   1  95   0   1   0     0    0    0   0.276      9  0.00
+   28   28     0   0   0   0   0   0   0  99   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.073      2  0.00
+   29   29    10  31   0  18  16   0  24   0   0   0   0   0   1   0   0   0   0   0   0   0     0    0    0   1.598     53  0.00
+   30   30     1   0   0   0   0   0   0   0   1   0   1   0   0   1  13  41  39   0   0   0     0    0    0   1.332     44  0.00
+   31   31     0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   32   32     0   1   1   1   0   0   0   2   4   0  10   5   0   0   9  13  24  16   0  13     0    0    0   2.163     72  0.00
+   33   33    29   2   3   1   0   0   0   3   8   0   3  11   2   1   0   0   9   5   2  22     0    0    0   2.157     71  0.00
+   34   34     0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   35   35     0   0   0   6   0   0   0  30   1   0   8   7   9   0   2  11   3   3  10  10     0    0    0   2.189     73  0.00
+   36   36    10  15   2  30  23   0   3   0   9   0   0   1   4   0   0   0   1   0   1   0     0    0    0   1.898     63  0.00
+   37   37    23   1   0   0   0   0   0   1  12   0   3   2   0   0   0   6   0   0  51   0     0    0    0   1.409     47  0.00
+   38   38    64   0  10   0   0   0   4   0   0   0   0   0  20   0   0   0   0   0   0   0     0    0    0   1.063     35  0.00
+   39   39     0   0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   40   40     2   0   2   0   0   0   1   0   2   0   1   1   0  12  10  59   1   6   0   1     0    0    0   1.515     50  0.00
+   41   41     0   0   1   0   0   0   0   1   0   0   2   0   0   0  53  27  14   0   0   0     0    0    0   1.251     41  0.00
+   42   42     0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   43   43    15   1   6   0   0   0   0   0   7   0   7   1   1  25   8  11  10   6   0   0     0    0    0   2.207     73  0.00
+   44   44     0   1   4   6   2   0   0   1   4   2   3   5   0   2   6  12   2  33   1  19     0    0    0   2.182     72  0.00
+   45   45     1  15   0   3  17   0   3   2   0   0   6   2   0   4   2  23   0   0  21   1     0    0    0   2.118     70  0.00
+   46   46    75   5  13   2   0   0   0   0   3   0   1   0   0   0   0   0   0   0   0   1     0    0    0   0.901     30  0.00
+   47   47    10   1  10   1   0   0   0   0  16  35   7  14   3   0   0   0   1   0   1   1     0    0    0   1.941     64  0.00
+   48   48     2   4   0   2  21   1   0   6   4   6  16   6   0   0   2   4   2   1  24   0     0    0    0   2.244     74  0.00
+   49   49     2  28   3   2   0   0   1   0   4   0  12   3   0   1   4   9   2   6  13  11     0    0    0   2.294     76  0.00
+   50   50     0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+//

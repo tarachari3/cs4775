@@ -1,0 +1,932 @@
+ID Pseudo hssp file.
+SEQ 
+SEQ gi|129614|sp|P00784|PAPA_CARPA PAPAIN PRECURSOR (PAPAYA PROTEINA...   435  e-121
+SEQ gi|494472|pdb|1PPN|    Papain Cys-25 With Bound Atom                  414  e-115
+SEQ gi|10120627|pdb|1CVZ|A Chain A, Crystal Structure Analysis Of Pa...   409  e-113
+SEQ gi|1421115|pdb|1PAD|    Papain (E.C.3.4.22.2) -Acetyl-Alanyl-Ala...   407  e-113
+SEQ gi|809345|pdb|1PPP|    Papain (E.C.4.3.22.2) Complex With E64-C ...   407  e-113
+SEQ gi|484398|pir||JN0634 caricain (EC 3.4.22.30) II precursor - pap...   285  4e-76
+SEQ gi|1709574|sp|P10056|PAP3_CARPA CARICAIN PRECURSOR (PAPAYA PROTE...   284  7e-76
+SEQ gi|2098464|pdb|1PCI|A Chain A, Procaricain >gi|2098465|pdb|1PCI|...   280  9e-75
+SEQ gi|443198|pdb|1PPO|    Protease Omega (E.C.3.4.22.30) (Cys 25 Wi...   277  7e-74
+SEQ gi|1709576|sp|P05994|PAP4_CARPA PAPAYA PROTEINASE IV PRECURSOR (...   276  2e-73
+SEQ gi|1942644|pdb|1MEG|    Crystal Structure Of A Caricain D158e Mu...   275  2e-73
+SEQ gi|81564|pir||S06837 glycyl endopeptidase (EC 3.4.22.25) - papay...   267  8e-71
+SEQ gi|1085731|pir||S46476 cysteine proteinase (EC 3.4.22.-) III - m...   262  3e-69
+SEQ gi|2507252|sp|P14080|PAP2_CARPA CHYMOPAPAIN PRECURSOR (PAPAYA PR...   259  2e-68
+SEQ gi|4469153|emb|CAB38314.1| (AJ131995) chymopapain isoform II [Ca...   258  6e-68
+SEQ gi|4469155|emb|CAB38315.1| (AJ131996) chymopapain isoform III [C...   254  7e-67
+SEQ gi|4469157|emb|CAB38316.1| (AJ131997) chymopapain isoform IV [Ca...   254  8e-67
+SEQ gi|81561|pir||S04222 chymopapain (EC 3.4.22.6) - papaya               251  7e-66
+SEQ gi|4469159|emb|CAB38317.1| (AJ131998) chymopapain isoform V [Car...   248  5e-65
+SEQ gi|1942769|pdb|1YAL|    Carica Papaya Chymopapain At 1.7 Angstro...   248  5e-65
+SEQ gi|7435797|pir||T06208 cysteine proteinase (EC 3.4.22.-) - barle...   213  2e-54
+SEQ gi|4100157|gb|AAD10337.1| (U94591) cysteine proteinase precursor...   213  2e-54
+SEQ gi|7435798|pir||T06206 probable cysteine proteinase (EC 3.4.22.-...   212  3e-54
+SEQ gi|7435808|pir||T06122 cysteine proteinase (EC 3.4.22.-) F23E12....   208  4e-53
+SEQ gi|10336513|dbj|BAB13759.1| (AB040454) cysteine proteinase [Astr...   207  1e-52
+SEQ gi|537437|gb|AAC35211.1| (U12637) cysteine proteinase [Hemerocal...   206  2e-52
+SEQ gi|5823018|gb|AAD53011.1|AF089848_1 (AF089848) senescence-specif...   205  5e-52
+SEQ gi|7435809|pir||T06529 cysteine proteinase (EC 3.4.22.-) - garde...   204  7e-52
+SEQ gi|7435773|pir||S71773 cysteine proteinase (EC 3.4.22.-) precurs...   204  1e-51
+SEQ gi|9758936|dbj|BAB09317.1| (AB016870) senescence-specific cystei...   203  1e-51
+SEQ gi|7435817|pir||T08122 cysteine endopeptidase (EC 3.4.22.-) prec...   203  2e-51
+SEQ gi|1046373|gb|AAC49135.1| (U37336) SAG12 protein [Arabidopsis th...   203  2e-51
+SEQ gi|11265448|pir||A59041 cysteine proteinase II (EC 3.4.22.-) - g...   202  3e-51
+SEQ gi|7435791|pir||T12041 cysteine proteinase (EC 3.4.22.-) 3 precu...   202  3e-51
+SEQ gi|7435800|pir||T03941 cysteine proteinase (EC 3.4.22.-) precurs...   202  3e-51
+SEQ gi|544129|sp|P25803|CYSP_PHAVU VIGNAIN PRECURSOR (BEAN ENDOPEPTI...   202  4e-51
+SEQ gi|100001|pir||S16251 endopeptidase C1 - kidney bean >gi|1345573...   202  4e-51
+SEQ gi|445927|prf||1910332A Cys endopeptidase [Vigna mungo]               202  4e-51
+SEQ gi|7435774|pir||S22502 cysteine proteinase (EC 3.4.22.-) - kidne...   202  4e-51
+SEQ gi|13897890|gb|AAK48495.1|AF259983_1 (AF259983) putative cystein...   201  4e-51
+SEQ gi|4836904|gb|AAD30607.1|AC007369_17 (AC007369) lcl|prt_seq No d...   201  5e-51
+SEQ gi|118158|sp|P12412|CYSP_VIGMU VIGNAIN PRECURSOR (BEAN ENDOPEPTI...   201  6e-51
+SEQ gi|7435811|pir||T06708 cysteine proteinase (EC 3.4.22.-) T29H11....   200  1e-50
+SEQ gi|9759028|dbj|BAB09397.1| (AB024031) cysteine endopeptidase [Ar...   200  1e-50
+SEQ gi|629792|pir||S47434 cysteine proteinase (EC 3.4.22.-) - rice >...   200  1e-50
+SEQ gi|535454|gb|AAA50755.1| (U13940) cysteine proteinase [Alnus glu...   200  1e-50
+SEQ gi|1223922|gb|AAA92063.1| (U49445) Vigna radiata vicilin peptido...   200  2e-50
+SEQ gi|11265450|pir||A59040 cysteine proteinase I (EC 3.4.22.-) - gi...   200  2e-50
+SEQ gi|1361974|pir||S57776 cysteine proteinase (EC 3.4.22.-) - clove...   199  2e-50
+SEQ gi|7435801|pir||T06416 cysteine proteinase (EC 3.4.22.-) precurs...   199  2e-50
+SEQ gi|7435794|pir||T12039 cysteine proteinase (EC 3.4.22.-) 1 precu...   199  2e-50
+SEQ gi|11265608|pir||T46630 cysteine proteinase (EC 3.4.22.-) 1 prec...   199  3e-50
+SEQ gi|118127|sp|P25251|CYS4_BRANA CYSTEINE PROTEINASE COT44 PRECURS...   198  4e-50
+SEQ gi|255032|gb|AAB23155.1| COT44=cysteine proteinase homolog [Bras...   198  4e-50
+SEQ gi|4006883|emb|CAB16767.1| (Z99707) cysteine proteinase [Arabido...   198  7e-50
+SEQ gi|7435806|pir||T01207 cysteine proteinase mir3 (EC 3.4.22.-) - ...   197  1e-49
+SEQ gi|1169186|sp|P43156|CYSP_HEMSP THIOL PROTEASE SEN102 PRECURSOR ...   197  1e-49
+SEQ gi|629651|pir||S47312 cysteine proteinase (EC 3.4.22.-) precurso...   197  1e-49
+SEQ gi|2118132|pir||JC4848 cysteine proteinase (EC 3.4.22.-) - Dougl...   196  2e-49
+SEQ gi|13491750|gb|AAK27968.1|AF242372_1 (AF242372) cysteine proteas...   196  2e-49
+SEQ gi|5731354|gb|AAB70820.2| (AF019145) cysteine protease Mir1 [Zea...   196  2e-49
+SEQ gi|5777889|emb|CAB53515.1| (AJ245924) cysteine protease [Solanum...   196  3e-49
+SEQ gi|10241433|emb|CAC09354.1| (AL442007) putative oryzain alpha pr...   195  4e-49
+SEQ gi|1172873|sp|P43297|RD21_ARATH CYSTEINE PROTEINASE RD21A PRECUR...   195  4e-49
+SEQ gi|14517542|gb|AAK62661.1| (AY039606) F2G19.31/F2G19.31 [Arabido...   195  4e-49
+SEQ gi|118124|sp|P25250|CYS2_HORVU CYSTEINE PROTEINASE EP-B 2 PRECUR...   195  7e-49
+SEQ gi|118120|sp|P25249|CYS1_HORVU CYSTEINE PROTEINASE EP-B 1 PRECUR...   194  7e-49
+SEQ gi|7435804|pir||T03694 cysteine proteinase (EC 3.4.22.-) - rice ...   194  8e-49
+SEQ gi|4426617|gb|AAD20453.1| (AF099203) cysteine endopeptidase prec...   194  8e-49
+SEQ gi|5761329|dbj|BAA83473.1| (AB004819) cysteine endopeptidase [Or...   194  9e-49
+SEQ gi|129231|sp|P25776|ORYA_ORYSA ORYZAIN ALPHA CHAIN PRECURSOR >gi...   194  1e-48
+SEQ gi|6682829|dbj|BAA88898.1| (AB020961) cysteine protease componen...   193  1e-48
+SEQ gi|7435810|pir||T06707 cysteine proteinase (EC 3.4.22.-) T29H11....   192  3e-48
+SEQ gi|2342728|gb|AAB67626.1| (AC002341) putative cysteine proteinas...   192  3e-48
+SEQ gi|129232|sp|P25777|ORYB_ORYSA ORYZAIN BETA CHAIN PRECURSOR >gi|...   192  4e-48
+SEQ gi|8844131|gb|AAF80223.1|AC025290_12 (AC025290) Contains similar...   191  6e-48
+SEQ gi|118145|sp|P20721|CYSL_LYCES LOW-TEMPERATURE-INDUCED CYSTEINE ...   191  7e-48
+SEQ gi|100069|pir||S24602 cysteine proteinase tpp (EC 3.4.22.-) - ga...   191  8e-48
+SEQ gi|11265606|pir||T45839 probable cysteine proteinase (EC 3.4.22....   191  1e-47
+SEQ gi|11994461|dbj|BAB02463.1| (AB025624) cysteine proteinase [Arab...   190  1e-47
+SEQ gi|3688528|emb|CAA06243.1| (AJ004958) pre-pro-TPE4A protein [Pis...   190  2e-47
+SEQ gi|2144501|pir||TAGB actinidain (EC 3.4.22.14) precursor - kiwi ...   189  3e-47
+SEQ gi|12744965|gb|AAK06862.1|AF343446_1 (AF343446) actinidin protea...   189  4e-47
+SEQ gi|4731374|gb|AAD28477.1|AF133839_1 (AF133839) papain-like cyste...   188  7e-47
+SEQ gi|113285|sp|P00785|ACTN_ACTCH ACTINIDAIN PRECURSOR (ACTINIDIN) ...   188  7e-47
+SEQ gi|13432122|sp|P80884|ANAN_ANACO ANANAIN PRECURSOR >gi|7435823|p...   188  8e-47
+SEQ gi|1173630|gb|AAB37233.1| (U34747) cysteine proteinase [Phalaeno...   187  9e-47
+SEQ gi|4731372|gb|AAD28476.1|AF133838_1 (AF133838) papain-like cyste...   187  9e-47
+SEQ gi|7489849|pir||T10518 fruit bromelain (EC 3.4.22.33) FB1035 pre...   187  1e-46
+SEQ gi|7435828|pir||T10503 fruit bromelain (EC 3.4.22.33) FB18 precu...   186  3e-46
+SEQ gi|7435820|pir||T10514 probable stem bromelain (EC 3.4.22.32) pr...   185  4e-46
+SEQ gi|4314384|gb|AAD15594.1| (AC006232) putative cysteine proteinas...   184  9e-46
+SEQ gi|9757832|dbj|BAB08269.1| (AB008267) cysteine protease componen...   184  9e-46
+SEQ gi|7523482|dbj|BAA94210.1| (AP001633) Similar to Zea mays cystei...   183  1e-45
+SEQ gi|442619|pdb|1AEC|    Actinidin (E.C.3.4.22.14) Complex With Th...   183  2e-45
+SEQ gi|600111|emb|CAA84378.1| (Z34895) cysteine proteinase [Vicia sa...   183  2e-45
+SEQ gi|9502421|gb|AAF88120.1|AC021043_13 (AC021043) Putative cystein...   182  3e-45
+SEQ gi|1071886|pir||S49451 cysteine proteinase (EC 3.4.22.-) - chick...   182  4e-45
+SEQ gi|7435827|pir||T10501 fruit bromelain (EC 3.4.22.33) FB13 precu...   181  5e-45
+SEQ gi|230417|pdb|2ACT|    Actinidin (Sulfhydryl Proteinase) (E.C. N...   181  7e-45
+SEQ gi|7435822|pir||T07840 ananain (EC 3.4.22.31) AN8 precursor - pi...   181  8e-45
+SEQ gi|7435824|pir||T07851 ananain (EC 3.4.22.31) precursor AN11 - p...   181  8e-45
+SEQ gi|7489850|pir||T10516 fruit bromelain (EC 3.4.22.33) FB22 precu...   179  2e-44
+SEQ gi|7435790|pir||T12382 cysteine proteinase (EC 3.4.22.-) - commo...   179  2e-44
+SEQ gi|7435813|pir||T05390 probable cysteine proteinase (EC 3.4.22.-...   179  3e-44
+SEQ gi|2351107|dbj|BAA21929.1| (D14057) bromelain [Ananas comosus]        179  3e-44
+SEQ gi|115139|sp|P14518|BROM_ANACO BROMELAIN, STEM >gi|82761|pir||S0...   178  6e-44
+SEQ gi|2160175|gb|AAB60738.1| (AC000132) Strong similarity to Dianth...   177  1e-43
+SEQ gi|81542|pir||S02728 actinidain (EC 3.4.22.14) precursor (clone ...   176  2e-43
+SEQ gi|7435788|pir||T13022 drought-inducible cysteine proteinase (EC...   176  2e-43
+SEQ gi|5823020|gb|AAD53012.1|AF089849_1 (AF089849) senescence-specif...   176  3e-43
+SEQ gi|13365805|dbj|BAB39243.1| (AP002869) putative bromelain FB18 p...   173  1e-42
+SEQ gi|7435826|pir||T13023 drought-inducible cysteine proteinase (EC...   173  2e-42
+SEQ gi|7435805|pir||T01206 cysteine proteinase mir2 (EC 3.4.22.-) - ...   173  3e-42
+SEQ gi|9502427|gb|AAF88126.1|AC021043_19 (AC021043) Putative cystein...   171  5e-42
+SEQ gi|11994462|dbj|BAB02464.1| (AB025624) cysteine proteinase [Arab...   171  9e-42
+SEQ gi|7523481|dbj|BAA94209.1| (AP001633) Similar to Ananas comosus ...   169  3e-41
+SEQ gi|5853329|gb|AAD54424.1|AF182079_1 (AF182079) thiol protease [M...   166  2e-40
+SEQ gi|11034572|dbj|BAB17096.1| (AP002866) putative cysteine protein...   165  6e-40
+SEQ gi|4503153|ref|NP_001324.1| cathepsin L2 [Homo sapiens] >gi|3087...   161  9e-39
+SEQ gi|13641486|ref|XP_005571.2| cathepsin L2 [Homo sapiens] >gi|126...   161  9e-39
+SEQ gi|67650|pir||KHRTL cathepsin L (EC 3.4.22.15) precursor - rat        158  8e-38
+SEQ gi|115743|sp|P07154|CATL_RAT CATHEPSIN L PRECURSOR (MAJOR EXCRET...   158  8e-38
+SEQ gi|246148|gb|AAB21516.1| (S85184) Cyclic Protein-2; CP-2 [Rattus...   158  8e-38
+SEQ gi|13365804|dbj|BAB39242.1| (AP002869) putative bromelain FB1035...   157  1e-37
+SEQ gi|6978723|ref|NP_037288.1| cathepsin L [Rattus norvegicus] >gi|...   157  1e-37
+SEQ gi|463046|gb|AAA49207.1| (L30111) cysteine proteinase [Cyprinus ...   156  2e-37
+SEQ gi|1168794|sp|P43236|CATK_RABIT CATHEPSIN K PRECURSOR (OC-2 PROT...   156  2e-37
+SEQ gi|8886940|gb|AAF80626.1|AC069251_19 (AC069251) F2D10.37 [Arabid...   156  4e-37
+SEQ gi|1076552|pir||S49166 cysteine proteinase (EC 3.4.22.-) precurs...   155  4e-37
+SEQ gi|1834307|dbj|BAA09820.1| (D63670) cysteine proteinase [Spirome...   154  1e-36
+SEQ gi|4503151|ref|NP_000387.1| cathepsin K (pycnodysostosis); Cathe...   154  1e-36
+SEQ gi|836934|gb|AAA95998.1| (U20280) cathepsin X [Homo sapiens]          154  1e-36
+SEQ gi|12585201|sp|O77641|CATK_MACFA CATHEPSIN K PRECURSOR >gi|32364...   154  1e-36
+SEQ gi|6435592|pdb|1BY8|A Chain A, The Crystal Structure Of Human Pr...   154  1e-36
+SEQ gi|12847813|dbj|BAB27719.1| (AK011589) putative [Mus musculus]        154  1e-36
+SEQ gi|13928758|ref|NP_113748.1| cathepsin K [Rattus norvegicus] >gi...   154  1e-36
+SEQ gi|11427057|ref|XP_002028.1| cathepsin S [Homo sapiens]               153  1e-36
+SEQ gi|12803615|gb|AAH02642.1|AAH02642 (BC002642) cathepsin S [Homo ...   153  1e-36
+SEQ gi|6753558|ref|NP_034114.1| cathepsin L [Mus musculus] >gi|11574...   153  2e-36
+SEQ gi|200501|gb|AAA39984.1| (M20495) preprocathepsin L precursor [M...   153  2e-36
+SEQ gi|4758098|ref|NP_004070.1| cathepsin S [Homo sapiens] >gi|11574...   153  2e-36
+SEQ gi|179957|gb|AAC37592.1| (M90696) cathepsin S [Homo sapiens]          152  3e-36
+SEQ gi|7239343|gb|AAF43193.1|AF228731_1 (AF228731) cathepsin L [Styl...   152  4e-36
+SEQ gi|10048286|gb|AAG12340.1|AF292030_1 (AF292030) cathepsin K prec...   152  4e-36
+SEQ gi|5306071|gb|AAD41898.1|AF158182_1 (AF158182) preprocathepsin P...   152  5e-36
+SEQ gi|7770062|ref|NP_036137.1| cathepsin J; cathepsin P; rat gene/C...   152  5e-36
+SEQ gi|5915887|sp|O17473|CATL_BRUPA CATHEPSIN L-LIKE PRECURSOR >gi|2...   151  1e-35
+SEQ gi|5081735|gb|AAD39513.1|AF147207_1 (AF147207) cathepsin L-like ...   151  1e-35
+SEQ gi|6630974|gb|AAF19631.1|AF194427_1 (AF194427) cysteine proteina...   150  2e-35
+SEQ gi|2914174|pdb|1ATK|    Crystal Structure Of The Cysteine Protea...   150  2e-35
+SEQ gi|12644320|sp|P55097|CATK_MOUSE CATHEPSIN K PRECURSOR >gi|35504...   149  2e-35
+SEQ gi|7435799|pir||T06207 cysteine proteinase (EC 3.4.22.-) - barle...   149  3e-35
+SEQ gi|4758096|ref|NP_004381.1| cathepsin H [Homo sapiens] >gi|11572...   149  3e-35
+SEQ gi|118119|sp|P13277|CYS1_HOMAM DIGESTIVE CYSTEINE PROTEINASE 1 P...   149  4e-35
+SEQ gi|228244|prf||1801240B Cys protease 2 [Homarus americanus]           149  4e-35
+SEQ gi|118123|sp|P25782|CYS2_HOMAM DIGESTIVE CYSTEINE PROTEINASE 2 P...   148  6e-35
+SEQ gi|6681085|ref|NP_031828.1| cathepsin K [Mus musculus] >gi|74357...   148  7e-35
+SEQ gi|3097321|dbj|BAA25899.1| (AB013289) Bd 30K [Glycine max]            148  9e-35
+SEQ gi|29708|emb|CAA30428.1| (X07549) cathepsin H [Homo sapiens]          148  9e-35
+SEQ gi|12803323|gb|AAH02479.1|AAH02479 (BC002479) cathepsin H [Homo ...   147  1e-34
+SEQ gi|6650705|gb|AAF21977.1|AF115280_1 (AF115280) thiolproteinase S...   147  1e-34
+SEQ gi|4972585|gb|AAD34707.1|AF071801_1 (AF071801) cysteine proteina...   147  1e-34
+SEQ gi|1017831|gb|AAC59739.1| (U37691) JTAP-1 [Gallus gallus]             147  2e-34
+SEQ gi|7296777|gb|AAF52055.1| (AE003603) CG12163 gene product [alt 2...   146  2e-34
+SEQ gi|7381610|gb|AAF61565.1|AF227957_1 (AF227957) cathepsin L-like ...   146  2e-34
+SEQ gi|11265515|pir||T48950 cysteine proteinase-like protein - Arabi...   146  2e-34
+SEQ gi|10185020|emb|CAC08809.1| (AJ279008) cathepsin L [Canis famili...   146  3e-34
+SEQ gi|115747|sp|P25326|CATS_BOVIN CATHEPSIN S >gi|108587|pir||S1584...   146  3e-34
+SEQ gi|633096|dbj|BAA04664.1| (D21124) prepro NTP [Paragonimus weste...   146  4e-34
+SEQ gi|2499874|sp|Q28944|CATL_PIG CATHEPSIN L PRECURSOR >gi|2118126|...   145  5e-34
+SEQ gi|1079183|pir||A53810 cathepsin L (EC 3.4.22.15) precursor - fl...   145  5e-34
+SEQ gi|11493685|gb|AAG35605.1|AF201700_1 (AF201700) cysteine proteas...   145  5e-34
+SEQ gi|630816|pir||S47433 cathepsin L (EC 3.4.22.15) - Norway lobste...   145  6e-34
+SEQ gi|12805315|gb|AAH02125.1|AAH02125 (BC002125) cathepsin S [Mus m...   144  7e-34
+SEQ gi|1705639|sp|Q10991|CATL_SHEEP CATHEPSIN L                           144  7e-34
+SEQ gi|9502426|gb|AAF88125.1|AC021043_18 (AC021043) Putative cystein...   144  8e-34
+SEQ gi|630815|pir||S47432 cathepsin L (EC 3.4.22.15) - Norway lobste...   144  9e-34
+SEQ gi|10946582|ref|NP_067256.1| cathepsin S [Mus musculus] >gi|2746...   144  1e-33
+SEQ gi|3850787|emb|CAA05360.1| (AJ002386) cathepsin S [Mus musculus]      144  1e-33
+SEQ gi|7435775|pir||JC5443 cathepsin L-like cysteine proteinase (EC ...   144  1e-33
+SEQ gi|12643318|sp|O70370|CATS_MOUSE CATHEPSIN S PRECURSOR >gi|29616...   144  1e-33
+SEQ gi|7507001|pir||T24387 probable cysteine proteinase (EC 3.4.22.-...   144  1e-33
+SEQ gi|2731635|gb|AAB93494.1| (U70537) pre-procathepsin L [Paragonim...   144  1e-33
+SEQ gi|13625989|gb|AAK35220.1|AF362769_1 (AF362769) pre-procathepsin...   143  2e-33
+SEQ gi|8547325|gb|AAF76330.1|AF271385_1 (AF271385) cathepsin L [Fasc...   143  2e-33
+SEQ gi|1809286|gb|AAB41670.1| (U62288) secreted cathepsin L 1 [Fasci...   143  2e-33
+SEQ gi|2239109|emb|CAA70694.1| (Y09499) cathepsin S-like cysteine pr...   143  2e-33
+SEQ gi|4503155|ref|NP_001903.1| cathepsin L [Homo sapiens] >gi|12734...   143  3e-33
+SEQ gi|9506579|ref|NP_062414.1| ectoplacental cone, invasive trophob...   143  3e-33
+SEQ gi|1199563|gb|AAB09252.1| (J05560) 34 kDa maturing seed vacuolar...   143  3e-33
+SEQ gi|8917575|gb|AAF81274.1| (AF250837) EPCS24 [Mus musculus]            142  3e-33
+SEQ gi|129353|sp|P22895|P34_SOYBN P34 PROBABLE THIOL PROTEASE PRECUR...   142  4e-33
+SEQ gi|1246519|emb|CAA62834.1| (X91643) cysteine proteinase [Entamoe...   142  5e-33
+SEQ gi|10798509|emb|CAC12805.1| (AJ279091) procathepsin L3 [Fasciola...   141  6e-33
+SEQ gi|1085124|pir||JX0366 cysteine endopeptidase (EC 3.4.22.-) prec...   141  7e-33
+SEQ gi|1360713|emb|CAA36180.1| (X51899) protease omega (112 AA) [Car...   141  7e-33
+SEQ gi|1246523|emb|CAA62833.1| (X91642) cysteine proteinase [Entamoe...   141  7e-33
+SEQ gi|1353726|gb|AAB01769.1| (U42758) cysteine proteinase homolog [...   141  7e-33
+SEQ gi|1705638|sp|P25975|CATL_BOVIN CATHEPSIN L PRECURSOR >gi|154285...   141  8e-33
+SEQ gi|6630972|gb|AAF19630.1|AF194426_1 (AF194426) cysteine proteina...   141  9e-33
+SEQ gi|1483570|emb|CAA68066.1| (X99730) cathepsin l [Litopenaeus van...   141  1e-32
+SEQ gi|2239107|emb|CAA70693.1| (Y09498) cathepsin L-like cysteine pr...   141  1e-32
+SEQ gi|1809288|gb|AAC47721.1| (U62289) secreted cathepsin L 2 [Fasci...   140  2e-32
+SEQ gi|5822035|pdb|1CS8|A Chain A, Crystal Structure Of Procathepsin L    139  2e-32
+SEQ gi|13242029|gb|AAK16515.1|AF331037_1 (AF331037) cathepsin L-like...   139  2e-32
+SEQ gi|535600|gb|AAA29137.1| (L33772) cathepsin [Fasciola hepatica]       139  2e-32
+SEQ gi|630489|pir||S43991 cathepsin L-like proteinases (EC 3.4.22.-)...   139  2e-32
+SEQ gi|1174639|sp|P15242|TES1_RAT TESTIN 1/2 PRECURSOR (CMB-22/CMB-2...   139  2e-32
+SEQ gi|13124009|sp|Q95029|CATL_DROME CATHEPSIN L PRECURSOR (CYSTEINE...   139  2e-32
+SEQ gi|5915886|sp|O46427|CATH_PIG CATHEPSIN H PRECURSOR >gi|2735659|...   139  3e-32
+SEQ gi|4139678|pdb|8PCH|A Chain A, Crystal Structure Of Porcine Cath...   139  3e-32
+SEQ gi|2392232|pdb|1CJL|    Crystal Structure Of A Cysteine Protease...   139  3e-32
+SEQ gi|7435780|pir||T09259 cathepsin L-like proteinase (EC 3.4.22.-)...   139  3e-32
+SEQ gi|2765358|emb|CAA74241.1| (Y13924) cathepsin L [Litopenaeus van...   139  4e-32
+SEQ gi|12585196|sp|Q63088|CATJ_RAT CATHEPSIN J PRECURSOR (CATHEPSIN ...   139  4e-32
+SEQ gi|1272388|gb|AAB17051.1| (U51913) cysteine protease [Spirometra...   138  5e-32
+SEQ gi|2144502|pir||KHCHL cathepsin L (EC 3.4.22.15) - chicken            138  5e-32
+SEQ gi|7271889|gb|AAF44675.1|AF239264_1 (AF239264) cathepsin L [Fasc...   138  6e-32
+SEQ gi|12856980|dbj|BAB30850.1| (AK017638) putative [Mus musculus]        138  9e-32
+SEQ gi|6959769|gb|AAF33213.1|AF217445_1 (AF217445) cysteine protease...   137  1e-31
+SEQ gi|1085687|pir||S53027 cathepsin L (EC 3.4.22.15) precursor - pe...   137  1e-31
+SEQ gi|4210800|emb|CAA76927.1| (Y17903) thiol protease [Phaedon coch...   137  1e-31
+SEQ gi|2507251|sp|P36184|ACP1_ENTHI CYSTEINE PROTEINASE ACP1 PRECURS...   137  1e-31
+SEQ gi|10798513|emb|CAC12807.1| (AJ279093) procathepsin L3 [Fasciola...   137  1e-31
+SEQ gi|118154|sp|P25781|CYSP_THEAN CYSTEINE PROTEINASE PRECURSOR >gi...   137  2e-31
+SEQ gi|8347420|dbj|BAA96501.1| (AB032168) cysteine protease [Nicotia...   136  2e-31
+SEQ gi|1460063|emb|CAA60672.1| (X87213) cysteine proteine [Entamoeba...   136  2e-31
+SEQ gi|13774082|gb|AAK38169.1| (AY029229) cathepsin L-like [Fasciola...   136  3e-31
+SEQ gi|7106279|ref|NP_031827.1| cathepsin H [Mus musculus] >gi|17056...   136  3e-31
+SEQ gi|10798511|emb|CAC12806.1| (AJ279092) cathepsin L1 [Fasciola he...   135  4e-31
+SEQ gi|7271895|gb|AAF44678.1|AF239267_1 (AF239267) cathepsin L [Fasc...   135  5e-31
+SEQ gi|4574304|gb|AAD23996.1|AF112566_1 (AF112566) cathepsin [Fascio...   135  5e-31
+SEQ gi|6978721|ref|NP_037071.1| cathepsin H [Rattus norvegicus] >gi|...   135  5e-31
+SEQ gi|203341|gb|AAA63484.1| (M38135) cathepsin H [Rattus norvegicus]     135  5e-31
+SEQ gi|7271891|gb|AAF44676.1|AF239265_1 (AF239265) cathepsin L [Fasc...   135  5e-31
+SEQ gi|13905172|gb|AAH06878.1|AAH06878 (BC006878) cathepsin H [Mus m...   135  5e-31
+SEQ gi|5381317|gb|AAD42940.1|AF091366_1 (AF091366) cryptopain precur...   135  6e-31
+SEQ gi|11034574|dbj|BAB17098.1| (AP002866) putative cysteine protein...   134  7e-31
+SEQ gi|8393221|ref|NP_059016.1| cathepsin S [Rattus norvegicus] >gi|...   134  8e-31
+SEQ gi|945081|gb|AAC49361.1| (U31094) P21 [Petunia x hybrida]             134  8e-31
+SEQ gi|480567|pir||S37048 cysteine proteinase - Trypanosoma congolense    134  9e-31
+SEQ gi|1163075|emb|CAA81061.1| (Z25813) cysteine proteinase [Trypano...   134  9e-31
+SEQ gi|1093503|prf||2104214A Cys protease [Drosophila melanogaster]       134  9e-31
+SEQ gi|228245|prf||1801240C Cys protease 3 [Homarus americanus]           134  1e-30
+SEQ gi|1246527|emb|CAA62836.1| (X91645) cysteine proteinase [Entamoe...   134  1e-30
+SEQ gi|14349351|gb|AAC38832.2| (AF004592) cysteine protease [Leishma...   134  1e-30
+SEQ gi|2706547|emb|CAA75862.1| (Y15901) putative cathepsin L [Xenopu...   134  1e-30
+SEQ gi|11875976|emb|CAC18865.1| (AL499615) cysteine protease [Leishm...   133  2e-30
+SEQ gi|1749812|emb|CAA90237.1| (Z49963) cysteine proteinase LmCPB1 [...   133  2e-30
+SEQ gi|1752664|emb|CAA69623.1| (Y08321) cathepsin L [Danio rerio]         133  2e-30
+SEQ gi|13242027|gb|AAK16514.1|AF331036_1 (AF331036) cathepsin L-like...   133  3e-30
+SEQ gi|10946820|ref|NP_067420.1| cathepsin 6 [Mus musculus] >gi|9931...   133  3e-30
+SEQ gi|1706263|sp|P54640|CYS5_DICDI CYSTEINE PROTEINASE 5 PRECURSOR ...   132  3e-30
+SEQ gi|11055|emb|CAA45129.1| (X63569) cysteine proteinase preproenzy...   132  5e-30
+SEQ gi|118125|sp|P25784|CYS3_HOMAM DIGESTIVE CYSTEINE PROTEINASE 3 P...   132  5e-30
+SEQ gi|321019|pir||S19651 cysteine proteinase (EC 3.4.22.-) precurso...   132  5e-30
+SEQ gi|6649575|gb|AAF21461.1|U69120_1 (U69120) cysteine proteinase P...   132  5e-30
+SEQ gi|7271893|gb|AAF44677.1|AF239266_1 (AF239266) cathepsin L [Fasc...   132  5e-30
+SEQ gi|1498185|dbj|BAA06738.1| (D31970) cysteine proteinase-1 precur...   131  6e-30
+SEQ gi|2146900|pir||S67481 cathepsin L-like cysteine proteinase (EC ...   131  6e-30
+SEQ gi|10441624|gb|AAG17127.1|AF190653_1 (AF190653) cathepsin L-like...   131  6e-30
+SEQ gi|4902840|emb|CAB43538.1| (AJ130942) cysteine proteinase A [Lei...   131  6e-30
+SEQ gi|545734|gb|AAB30089.1| (S70380) cysteine protease [Fasciola sp...   131  6e-30
+SEQ gi|1730100|sp|P36400|LCPB_LEIME CYSTEINE PROTEINASE B PRECURSOR ...   131  7e-30
+SEQ gi|102074|pir||S12099 cysteine proteinase (EC 3.4.22.-) precurso...   131  7e-30
+SEQ gi|478768|pir||S29245 cysteine proteinase (EC 3.4.22.-) precurso...   131  8e-30
+SEQ gi|6851030|emb|CAB71032.1| (AJ249847) cysteine protease [Lolium ...   131  9e-30
+SEQ gi|1929343|emb|CAA62835.1| (X91644) cysteine proteinase [Entamoe...   131  9e-30
+SEQ gi|4581057|gb|AAD24589.1|AF139913_1 (AF139913) cysteine protease...   131  9e-30
+SEQ gi|1706261|sp|Q10717|CYS2_MAIZE CYSTEINE PROTEINASE 2 PRECURSOR ...   131  1e-29
+SEQ gi|3243102|gb|AAC23951.1| (AF032117) silicatein alpha [Tethya au...   131  1e-29
+SEQ gi|461905|sp|Q05094|CYS2_LEIPI CYSTEINE PROTEINASE 2 PRECURSOR (...   131  1e-29
+SEQ gi|542419|pir||S41427 cysteine proteinase (EC 3.4.22.-) CP1 prec...   131  1e-29
+SEQ gi|118156|sp|P14658|CYSP_TRYBB CYSTEINE PROTEINASE PRECURSOR >gi...   131  1e-29
+SEQ gi|2780176|emb|CAA71085.1| (Y09958) cystein proteinase [Leishman...   131  1e-29
+SEQ gi|12837968|dbj|BAB24022.1| (AK005428) putative [Mus musculus] >...   130  1e-29
+SEQ gi|9843862|emb|CAC03737.1| (AJ272013) silicatein protein [Suberi...   130  1e-29
+SEQ gi|7271897|gb|AAF44679.1|AF239268_1 (AF239268) cathepsin L [Fasc...   130  2e-29
+SEQ gi|3023456|sp|Q26534|CATL_SCHMA CATHEPSIN L PRECURSOR (SMCL1) >g...   130  2e-29
+SEQ gi|9931986|ref|NP_064680.1| cathepsin R [Mus musculus] >gi|96231...   130  2e-29
+SEQ gi|13242025|gb|AAK16513.1|AF331035_1 (AF331035) cathepsin L-like...   130  2e-29
+SEQ gi|7435779|pir||S71923 cysteine proteinase (EC 3.4.22.-) - garde...   130  2e-29
+SEQ gi|14422331|emb|CAC41636.1| (AJ278699) early leaf senescence abu...   130  2e-29
+SEQ gi|7435777|pir||JC5442 cathepsin L-like cysteine proteinase (EC ...   130  2e-29
+SEQ gi|6650391|gb|AAF21819.1|AF098670_1 (AF098670) silicatein beta [...   129  2e-29
+SEQ gi|11612507|ref|NP_071721.1| cathepsin M [Mus musculus] >gi|7715...   129  2e-29
+SEQ gi|7230640|gb|AAF43041.1|AF233883_1 (AF233883) AALP protein [Ara...   129  3e-29
+SEQ gi|7435776|pir||JC5441 cathepsin L-like cysteine proteinase (EC ...   129  4e-29
+SEQ gi|7327279|gb|AAB26209.2| (S58669) cysteine proteinase precursor...   129  4e-29
+SEQ gi|4733887|gb|AAD02173.3| (AF039554) cysteine proteinase; ACCP2 ...   129  4e-29
+SEQ gi|67656|pir||KHBH aleurain (EC 3.4.22.-) precursor - barley          128  5e-29
+SEQ gi|2499879|sp|Q40143|CYS3_LYCES CYSTEINE PROTEINASE 3 PRECURSOR ...   128  5e-29
+SEQ gi|408009|gb|AAA18215.1| (L25130) cysteine protease [Trypanosoma...   128  6e-29
+SEQ gi|542420|pir||S41428 cysteine proteinase (EC 3.4.22.-) CP2 prec...   128  6e-29
+SEQ gi|113603|sp|P05167|ALEU_HORVU THIOL PROTEASE ALEURAIN PRECURSOR...   128  7e-29
+SEQ gi|14348750|emb|CAC41275.1| (AJ319727) CPB2 protein [Leishmania ...   127  9e-29
+SEQ gi|1848231|gb|AAB48120.1| (U43706) cathepsin L-like protease [Le...   127  9e-29
+SEQ gi|12597541|ref|NP_075125.1| cathepsin [Heliocoverpa armigera nu...   127  1e-28
+SEQ gi|1491774|emb|CAA68192.1| (X99936) cysteine protease [Zea mays]      127  1e-28
+SEQ gi|7239345|gb|AAF43194.1| (AF228732) cathepsin L [Stylonychia le...   127  2e-28
+SEQ gi|129233|sp|P25778|ORYC_ORYSA ORYZAIN GAMMA CHAIN PRECURSOR >gi...   127  2e-28
+SEQ gi|1185457|gb|AAA87848.1| (U38475) cathepsin L [Schistosoma japo...   127  2e-28
+SEQ gi|14041143|emb|CAA71554.1| (Y10527) cathepsin [Geodia cydonium]      126  2e-28
+SEQ gi|5231178|gb|AAD41105.1|AF157961_1 (AF157961) cysteine proteina...   126  2e-28
+SEQ gi|6649593|gb|AAF21470.1|U85983_1 (U85983) cysteine proteinase [...   126  2e-28
+SEQ gi|476938|pir||A47306 cysteine proteinase - Tetrahymena thermoph...   126  3e-28
+SEQ gi|13124000|sp|O91466|CATV_GVCP VIRAL CATHEPSIN (V-CATH) (CYSTEI...   126  3e-28
+SEQ gi|5881566|dbj|BAA84280.1| (AB020036) Cysteine proteinase [Clono...   126  3e-28
+SEQ gi|14349349|gb|AAC38833.2| (AF004593) cysteine protease [Leishma...   126  3e-28
+SEQ gi|12585197|sp|Q9QZE3|CATQ_RAT CATHEPSIN Q PRECURSOR >gi|1126561...   126  3e-28
+SEQ gi|118155|sp|P22497|CYSP_THEPA CYSTEINE PROTEINASE PRECURSOR >gi...   126  3e-28
+SEQ gi|161879|gb|AAA98600.1| (M67476) cathepsin L-like cysteine prot...   126  3e-28
+SEQ gi|118117|sp|P04988|CYS1_DICDI CYSTEINE PROTEINASE 1 PRECURSOR >...   126  3e-28
+SEQ gi|13518086|gb|AAK27384.1| (AY028171) cysteine proteinase-like p...   126  4e-28
+SEQ gi|7219908|gb|AAF40479.1| (AF093242) cystein protease [Clonorchi...   125  6e-28
+SEQ gi|454890|emb|CAA54438.1| (X77221) cysteine proteinase, putative...   125  6e-28
+SEQ gi|8050826|gb|AAF71757.1| (AF258791) cysteine protease falcipain...   124  8e-28
+SEQ gi|8572753|gb|AAF77192.1|AF269253_1 (AF269253) falcipain-3 [Plas...   124  8e-28
+SEQ gi|9255922|gb|AAF86352.1|AF282974_1 (AF282974) cysteine protease...   124  8e-28
+SEQ gi|5901663|gb|AAD55363.1| (AF134153) cysteine protease [Hordeum ...   124  1e-27
+SEQ gi|7542559|gb|AAF63497.1|AF239801_1 (AF239801) falcipain 2 [Plas...   123  2e-27
+SEQ gi|2677828|gb|AAB97142.1| (U93166) cysteine protease [Prunus arm...   123  2e-27
+SEQ gi|4760897|gb|AAD29130.1| (AF093243) cysteine proteinase 1 precu...   123  2e-27
+SEQ gi|7381223|gb|AAF61442.1|AF138266_1 (AF138266) papain-like cyste...   123  2e-27
+SEQ gi|7638427|gb|AAF65468.1| (AF251193) cysteine protease falcipain...   123  2e-27
+SEQ gi|9719452|gb|AAF97808.1|AF282978_1 (AF282978) falcipain 2 [Plas...   123  2e-27
+SEQ gi|9719454|gb|AAF97809.1|AF282979_1 (AF282979) falcipain 2 [Plas...   123  2e-27
+SEQ gi|577617|gb|AAC37213.1| (M90067) cysteine proteinase [Trypanoso...   123  2e-27
+SEQ gi|2245510|gb|AAB62536.1| (AF001101) cysteine protease [Dirofila...   122  3e-27
+SEQ gi|630486|pir||S44151 cathepsin L (EC 3.4.22.15) - fluke (Schist...   122  3e-27
+SEQ gi|1169188|sp|P46102|CYSP_PLAVN CYSTEINE PROTEINASE PRECURSOR >g...   122  4e-27
+SEQ gi|6448469|dbj|BAA86911.1| (AB011377) homologue of Sarcophaga 26...   122  4e-27
+SEQ gi|7381219|gb|AAF61440.1|AF138264_1 (AF138264) papain-like cyste...   122  4e-27
+SEQ gi|7435795|pir||T12040 cysteine proteinase (EC 3.4.22.-) 2 precu...   122  5e-27
+SEQ gi|1141745|gb|AAB04163.1| (U13154) putative cysteine proteinase ...   122  5e-27
+SEQ gi|7503178|pir||T31871 hypothetical protein F41E6.6 - Caenorhabd...   122  5e-27
+SEQ gi|9631045|ref|NP_047715.1| cathepsin-like proteinase [Lymantria...   122  5e-27
+SEQ gi|1076384|pir||S46535 cysteine proteinase (EC 3.4.22.-) (clone ...   122  6e-27
+SEQ gi|12643282|sp|P43295|A494_ARATH PROBABLE CYSTEINE PROTEINASE A4...   122  6e-27
+SEQ gi|7381221|gb|AAF61441.1|AF138265_1 (AF138265) papain-like cyste...   122  6e-27
+SEQ gi|7435816|pir||T08844 cysteine proteinase (EC 3.4.22.-) isoform...   121  6e-27
+SEQ gi|118121|sp|P04989|CYS2_DICDI CYSTEINE PROTEINASE 2 PRECURSOR (...   121  6e-27
+SEQ gi|118157|sp|P25779|CYSP_TRYCR CRUZIPAIN PRECURSOR (MAJOR CYSTEI...   121  6e-27
+SEQ gi|11464864|gb|AAG35357.1|AF314929_1 (AF314929) cruzipain [Trypa...   121  6e-27
+SEQ gi|1136308|gb|AAB41119.1| (U41454) cruzipain [Trypanosoma cruzi]      121  7e-27
+SEQ gi|1136312|gb|AAB41118.1| (U41444) cruzipain [Trypanosoma cruzi]      121  7e-27
+SEQ gi|1706260|sp|Q10716|CYS1_MAIZE CYSTEINE PROTEINASE 1 PRECURSOR ...   121  7e-27
+SEQ gi|8569514|pdb|1EWP|A Chain A, Cruzain Bound To Mor-Leu-Hpq >gi|...   121  8e-27
+SEQ gi|323055|pir||A45629 cysteine proteinase cruzipain (EC 3.4.22.-...   121  9e-27
+SEQ gi|4521167|dbj|BAA76272.1| (AB011375) 26,29kDa proteinase [Sarco...   121  9e-27
+SEQ gi|126021|sp|P25775|LCPA_LEIME CYSTEINE PROTEINASE A PRECURSOR >...   121  1e-26
+SEQ gi|1706259|sp|P35591|CYS1_LEIPI CYSTEINE PROTEINASE 1 PRECURSOR ...   121  1e-26
+SEQ gi|929719|emb|CAA27980.1| (X04392) MEP (213aa) (638 is 2nd base ...   121  1e-26
+SEQ gi|1141743|gb|AAB04162.1| (U13153) putative cysteine proteinase ...   121  1e-26
+SEQ gi|2624670|pdb|1AIM|    Cruzain Inhibited By Benzoyl-Tyrosine-Al...   121  1e-26
+SEQ gi|12024965|gb|AAG45727.1| (AF217087) cathepsin L-like cysteine ...   120  1e-26
+SEQ gi|8468605|gb|AAF75546.1| (AF265226) cruzipain [Trypanosoma cruzi]    120  2e-26
+SEQ gi|8468607|gb|AAF75547.1| (AF265227) cruzipain [Trypanosoma cruzi]    120  2e-26
+SEQ gi|1172872|sp|P43296|RD19_ARATH CYSTEINE PROTEINASE RD19A PRECUR...   119  2e-26
+SEQ gi|162815|gb|AAA30435.1| (M95211) cathepsin S [Bos taurus] >gi|3...   119  3e-26
+SEQ gi|11265612|pir||T47471 cysteine proteinase (EC 3.4.22.-) F18N11...   119  3e-26
+SEQ gi|5917765|gb|AAD56028.1|AF181567_1 (AF181567) cysteine protease...   119  3e-26
+SEQ gi|9635308|ref|NP_059206.1| ORF58 [Xestia c-nigrum granulovirus]...   119  4e-26
+SEQ gi|1362047|pir||S55923 cysteine proteinase (EC 3.4.22.-) precurs...   119  5e-26
+SEQ gi|13386176|ref|NP_081182.1| RIKEN cDNA 1600000I23 gene [Mus mus...   119  5e-26
+SEQ gi|7242888|dbj|BAA92495.1| (AB038598) cysteine protease [Vigna m...   118  5e-26
+SEQ gi|118152|sp|P25805|CYSP_PLAFA THROPHOZOITE CYSTEINE PROTEINASE ...   118  6e-26
+SEQ gi|6980666|pdb|1ICF|A Chain A, Crystal Structure Of Mhc Class Ii...   118  8e-26
+SEQ gi|1581746|prf||2117247B Cys protease:ISOTYPE=2 [Trypanosoma ran...   118  8e-26
+SEQ gi|6649569|gb|AAF21458.1|U56865_1 (U56865) cysteine proteinase [...   118  8e-26
+SEQ gi|102196|pir||A23705 cysteine proteinase (EC 3.4.22.-) - Entamo...   117  8e-26
+SEQ gi|544088|sp|Q01957|CPP1_ENTHI CYSTEINE PROTEINASE 1 PRECURSOR >...   117  8e-26
+SEQ gi|13124026|sp|Q9WGE0|CATV_NPVHC VIRAL CATHEPSIN (V-CATH) (CYSTE...   117  8e-26
+SEQ gi|6649577|gb|AAF21462.1|U69121_1 (U69121) cysteine proteinase P...   117  9e-26
+SEQ gi|1581745|prf||2117247A Cys protease:ISOTYPE=1 [Trypanosoma ran...   117  1e-25
+SEQ gi|1581747|prf||2117247C Cys protease:ISOTYPE=3 [Trypanosoma ran...   117  1e-25
+SEQ gi|5679322|gb|AAD46920.1|AF167986_1 (AF167986) putative cysteine...   117  1e-25
+SEQ gi|542004|pir||S42882 cysteine proteinase (EC 3.4.22.-) precurso...   117  1e-25
+SEQ gi|6448467|dbj|BAA86910.1| (AB011376) homologue of Sarcophaga 26...   116  2e-25
+SEQ gi|1401242|gb|AAB67878.1| (U59465) pre-pro-cysteine proteinase [...   116  3e-25
+SEQ gi|3641698|dbj|BAA33398.1| (AB017648) preprocathepsin L [Bos tau...   116  3e-25
+SEQ gi|118150|sp|P25804|CYSP_PEA CYSTEINE PROTEINASE 15A PRECURSOR (...   116  4e-25
+SEQ gi|2352469|gb|AAC00067.1| (AF004594) cysteine protease [Trypanos...   116  4e-25
+SEQ gi|7435814|pir||T10949 cysteine proteinase (EC 3.4.22.-) precurs...   116  4e-25
+SEQ gi|4757570|gb|AAD29084.1|AF082181_1 (AF082181) cysteine proteina...   116  4e-25
+SEQ gi|11464866|gb|AAG35358.1|AF314930_1 (AF314930) cruzipain [Trypa...   116  4e-25
+SEQ gi|7435793|pir||T09528 probable cysteine proteinase (EC 3.4.22.-...   116  4e-25
+SEQ gi|544090|sp|Q06964|CPP3_ENTHI CYSTEINE PROTEINASE 3 PRECURSOR (...   115  5e-25
+SEQ gi|7435789|pir||T06276 benzothiadiazole-induced protein (clone W...   115  5e-25
+SEQ gi|7435812|pir||T06726 cysteine proteinase (EC 3.4.22.-) F28P10....   115  5e-25
+SEQ gi|1096488|prf||2111414A cathepsin L-related protein [Rattus nor...   115  5e-25
+SEQ gi|13491752|gb|AAK27969.1|AF242373_1 (AF242373) cysteine proteas...   115  5e-25
+SEQ gi|544089|sp|Q01958|CPP2_ENTHI CYSTEINE PROTEINASE 2 PRECURSOR >...   115  6e-25
+SEQ gi|102197|pir||B23705 cysteine proteinase (EC 3.4.22.-) - Entamo...   114  8e-25
+SEQ gi|9630063|ref|NP_046281.1| cathepsin [Orgyia pseudotsugata nucl...   114  1e-24
+SEQ gi|7435815|pir||T08845 cysteine proteinase (EC 3.4.22.-) isoform...   114  1e-24
+SEQ gi|9627870|ref|NP_054157.1| viral cathepsin-like protein [Autogr...   114  1e-24
+SEQ gi|100203|pir||S24988 cysteine proteinase (EC 3.4.22.-) precurso...   113  2e-24
+SEQ gi|7302775|gb|AAF57850.1| (AE003803) CG4847 gene product [Drosop...   113  2e-24
+SEQ gi|1185459|gb|AAA87849.1| (U38476) preprocathepsin cathepsin L [...   113  2e-24
+SEQ gi|7435792|pir||T12042 cysteine proteinase (EC 3.4.22.-) 4 precu...   113  2e-24
+SEQ gi|5901661|gb|AAD55362.1| (AF134152) cysteine protease [Hordeum ...   113  2e-24
+SEQ gi|3916212|gb|AAC78838.1| (AF071748) cathepsin F [Homo sapiens]       113  2e-24
+SEQ gi|3916214|gb|AAC78839.1| (AF071749) cathepsin F [Homo sapiens]       113  2e-24
+SEQ gi|6042196|ref|NP_003784.2| cathepsin F [Homo sapiens] >gi|12643...   113  2e-24
+SEQ gi|81543|pir||S02729 actinidain (EC 3.4.22.14) precursor (clone ...   113  3e-24
+SEQ gi|419781|pir||S30149 cysteine proteinase (EC 3.4.22.-) precurso...   112  3e-24
+SEQ gi|1169187|sp|P42666|CYSP_PLAVI CYSTEINE PROTEINASE PRECURSOR >g...   112  4e-24
+SEQ gi|5051468|emb|CAB44983.1| (AJ242994) putative preprocysteine pr...   112  5e-24
+SEQ gi|4826565|emb|CAB42884.1| (AJ131851) cathepsin F [Mus musculus]      112  5e-24
+SEQ gi|9845246|ref|NP_063914.1| cathepsin F; cathepsin F precursor [...   112  5e-24
+SEQ gi|11066228|gb|AAG28508.1|AF197480_1 (AF197480) cathepsin F [Mus...   112  5e-24
+SEQ gi|13278510|gb|AAH04054.1|AAH04054 (BC004054) Similar to catheps...   112  5e-24
+SEQ gi|419782|pir||S30150 cysteine proteinase (EC 3.4.22.-) precurso...   112  5e-24
+SEQ gi|13124016|sp|O41479|CATV_NPVCD VIRAL CATHEPSIN (V-CATH) (CYSTE...   112  5e-24
+SEQ gi|7296644|gb|AAF51924.1| (AE003601) CG11459 gene product [Droso...   112  5e-24
+SEQ gi|9630927|ref|NP_047524.1| Cystein Protease= Cathepsin=AcMNPV o...   112  6e-24
+SEQ gi|281167|pir||S27044 papain-like protein - Autographa californi...   112  6e-24
+SEQ gi|6467382|gb|AAF13146.1|AF136279_1 (AF136279) cathepsin F precu...   111  7e-24
+SEQ gi|7509743|pir||T26792 hypothetical protein Y40H7A.10 - Caenorha...   111  1e-23
+SEQ gi|2133430|pir||S68783 cathepsin L (EC 3.4.22.15) precursor - Pa...   110  1e-23
+SEQ gi|6649595|gb|AAF21471.1|U85984_1 (U85984) cysteine proteinase [...   110  2e-23
+SEQ gi|115738|sp||CATL_CHICK_1 [Segment 1 of 2] CATHEPSIN L               109  3e-23
+SEQ gi|12621903|gb|AAB60643.2|AAB60643 (U07374) cathepsin S [Homo sa...   109  4e-23
+SEQ gi|13507095|gb|AAK28439.1| (AF271091) cysteine protease 3 precur...   109  4e-23
+SEQ gi|415567|gb|AAB28289.1| cysteine proteinase=39 kda activated fo...   109  5e-23
+SEQ gi|950250|gb|AAC47038.1| (U33426) cysteine proteinase [Plasmodiu...   108  5e-23
+SEQ gi|7435803|pir||D71428 cysteine proteinase (EC 3.4.22.-) - Arabi...   108  6e-23
+SEQ gi|1168799|sp|P41715|CATV_NPVCF VIRAL CATHEPSIN (V-CATH) (CYSTEI...   108  7e-23
+SEQ gi|6959771|gb|AAF33214.1|AF217446_1 (AF217446) cysteine protease...   107  1e-22
+SEQ gi|1594287|gb|AAC48340.1| (U53172) cathepsin L-like cysteine pro...   107  2e-22
+SEQ gi|13124011|sp|Q9YWK4|CATV_NPVBS VIRAL CATHEPSIN (V-CATH) (CYSTE...   107  2e-22
+SEQ gi|9634237|ref|NP_037776.1| ORF16 cathepsin [Spodoptera exigua n...   106  3e-22
+SEQ gi|3378493|emb|CAA07567.1| (AJ007579) cysteine proteinase [Ribes...   106  3e-22
+SEQ gi|2133431|pir||S68784 cathepsin L - Paramecium tetraurelia (fra...   106  3e-22
+SEQ gi|950238|gb|AAC47032.1| (U33420) cysteine proteinase [Plasmodiu...   105  4e-22
+SEQ gi|7106281|ref|NP_034115.1| cathepsin W [Mus musculus] >gi|28294...   105  5e-22
+SEQ gi|4503141|ref|NP_001805.1| cathepsin C [Homo sapiens] >gi|17056...   105  7e-22
+SEQ gi|1582221|prf||2118248A prepro-cathepsin C [Homo sapiens]            105  7e-22
+SEQ gi|13631727|ref|XP_006261.3| cathepsin C [Homo sapiens]               105  7e-22
+SEQ gi|14276828|gb|AAK58415.1| (AF277840) cysteine protease precurso...   104  8e-22
+SEQ gi|950240|gb|AAC47033.1| (U33422) cysteine proteinase [Plasmodiu...   103  3e-21
+SEQ gi|115716|sp|P80067|CATC_RAT DIPEPTIDYL-PEPTIDASE I PRECURSOR (D...   102  3e-21
+SEQ gi|543765|sp|P36185|ACP2_ENTHI CYSTEINE PROTEINASE ACP2 PRECURSO...   102  3e-21
+SEQ gi|6753554|ref|NP_034112.1| cathepsin C [Mus musculus] >gi|30234...   102  4e-21
+SEQ gi|3929737|emb|CAA77180.1| (Y18462) cathepsin L [Homo sapiens]        102  5e-21
+SEQ gi|8393218|ref|NP_058793.1| cathepsin C (dipeptidyl peptidase I)...   102  5e-21
+SEQ gi|10798861|gb|AAG23124.1| (AF184984) cathepsin L-like thiolprot...   102  6e-21
+SEQ gi|3273233|dbj|BAA31161.1| (D86408) tetrain [Tetrahymena pyrifor...   101  9e-21
+SEQ gi|2665820|gb|AAB88506.1| (AF035755) thiol-(cysteine-)proteinase...   100  2e-20
+SEQ gi|7506429|pir||T24030 hypothetical protein R07E3.1 - Caenorhabd...   100  2e-20
+SEQ gi|4106126|gb|AAD02704.1| (AF060171) dipeptidyl peptidase I [Can...   100  2e-20
+SEQ gi|950242|gb|AAC47034.1| (U33421) cysteine proteinase [Plasmodiu...    99  4e-20
+SEQ gi|419926|pir||A44938 cysteine proteinase (EC 3.4.22.-) - Trypan...    99  6e-20
+SEQ gi|1706262|sp|P54639|CYS4_DICDI CYSTEINE PROTEINASE 4 PRECURSOR ...    99  7e-20
+SEQ gi|4557501|ref|NP_001325.1| cathepsin O [Homo sapiens] >gi|11687...    98  7e-20
+SEQ gi|419927|pir||C44938 cysteine proteinase (EC 3.4.22.-) - Entamo...    98  9e-20
+SEQ gi|4503157|ref|NP_001326.1| cathepsin W (lymphopain); lymphopain...    98  9e-20
+SEQ gi|542417|pir||S41425 cysteine proteinase (EC 3.4.22.-) CP3 prec...    98  1e-19
+SEQ gi|13638847|ref|XP_006505.3| cathepsin W (lymphopain) [Homo sapi...    98  1e-19
+SEQ gi|3929735|emb|CAA77179.1| (Y18461) cathepsin H [Homo sapiens]         98  1e-19
+SEQ gi|1644500|gb|AAC47481.1| (U72745) cysteine proteinase [Dictyost...    98  1e-19
+SEQ gi|950248|gb|AAC47037.1| (U33423) cysteine proteinase [Plasmodiu...    96  3e-19
+SEQ gi|7499188|pir||T20981 hypothetical protein F15D4.4 - Caenorhabd...    96  4e-19
+SEQ gi|1644502|gb|AAC47482.1| (U72746) cysteine proteinase [Dictyost...    94  1e-18
+SEQ gi|3170019|gb|AAC18005.1| (AF036252) cysteine protease [Theileri...    93  4e-18
+SEQ gi|3929821|emb|CAA77183.1| (Y18465) cathepsin L [Mus musculus]         93  4e-18
+SEQ gi|6635844|gb|AAF20005.1|AF213939_1 (AF213939) cysteine protease...    92  8e-18
+SEQ gi|13638879|ref|XP_011994.2| cathepsin F [Homo sapiens]                90  2e-17
+SEQ gi|3941390|gb|AAC82352.1| (AF047611) group 1 allergen Eur m 1 01...    90  2e-17
+SEQ gi|10798863|gb|AAG23125.1| (AF184985) thiolproteinase [Babesia d...    90  2e-17
+SEQ gi|7510114|pir||T27079 hypothetical protein Y51A2D.8 - Caenorhab...    89  3e-17
+SEQ gi|1835296|gb|AAB46484.1| (U70894) cysteine protease homolog [Xe...    89  3e-17
+SEQ gi|1698586|gb|AAB37252.1| (U61296) cathepsin L [Oncorhynchus myk...    89  5e-17
+SEQ gi|452260|emb|CAA80447.1| (Z22766) cathepsin L-like protease [Fa...    89  6e-17
+SEQ gi|12832450|dbj|BAB22112.1| (AK002454) putative [Mus musculus]         88  9e-17
+SEQ gi|2499875|sp|Q26563|CATC_SCHMA CATHEPSIN C PRECURSOR >gi|126241...    88  9e-17
+SEQ gi|1584943|prf||2123443A cathepsin C [Schistosoma mansoni]             88  9e-17
+SEQ gi|3929823|emb|CAA77184.1| (Y18466) cathepsin S [Mus musculus]         88  1e-16
+SEQ gi|452256|emb|CAA80445.1| (Z22764) cathepsin L-like protease [Fa...    88  1e-16
+SEQ gi|13386424|ref|NP_083912.1| RIKEN cDNA 1600010J02 gene [Mus mus...    88  1e-16
+SEQ gi|627141|pir||A61500 allergen Der f I precursor - house-dust mi...    88  2e-16
+SEQ gi|730035|sp|P16311|MMAL_DERFA MAJOR MITE FECAL ALLERGEN DER F 1...    88  2e-16
+SEQ gi|3928766|dbj|BAA34704.1| (AB020491) cathepsin L-like tick cyst...    87  2e-16
+SEQ gi|14424447|sp|P25780|EUM1_EURMA MITE GROUP 1 ALLERGEN EUR M 1 P...    87  2e-16
+SEQ gi|3941392|gb|AAC82353.1| (AF047612) group 1 allergen Eur m 1 01...    87  2e-16
+SEQ gi|7413|emb|CAA46316.1| (X65196) asthma allergen (group I) [Derm...    87  2e-16
+SEQ gi|2599293|gb|AAC32040.1| (U77932) preprocathepsin C [Schistosom...    87  2e-16
+SEQ gi|9837301|gb|AAG00520.1| (AF285763) allergen Der fI [Dermatopha...    87  3e-16
+SEQ gi|102835|pir||S21864 probable cysteine proteinase (EC 3.4.22.-)...    86  3e-16
+SEQ gi|11359985|pir||T46294 hypothetical protein DKFZp434F0610.1 - h...    86  3e-16
+SEQ gi|3169890|gb|AAC17994.1| (AF036251) cysteine protease [Babesia ...    86  3e-16
+SEQ gi|7509325|pir||T26446 hypothetical protein Y113G7B.15 - Caenorh...    85  8e-16
+SEQ gi|3929819|emb|CAA77182.1| (Y18464) cathepsin H [Mus musculus]         85  9e-16
+SEQ gi|13559782|gb|AAK29985.1| (AC024860) Hypothetical protein Y71H2...    84  1e-15
+SEQ gi|730036|sp|P08176|MMAL_DERPT MAJOR MITE FECAL ALLERGEN DER P 1...    84  1e-15
+SEQ gi|1460058|emb|CAA46317.1| (X65197) cysteine protease [Dermatoph...    84  2e-15
+SEQ gi|13877861|gb|AAK44008.1|AF370193_1 (AF370193) putative catheps...    84  2e-15
+SEQ gi|452266|emb|CAA80450.1| (Z22769) cathepsin L-like protease [Fa...    83  4e-15
+SEQ gi|14532526|gb|AAK63991.1| (AY039887) At1g02300/T6A9_10 [Arabido...    82  5e-15
+SEQ gi|1465857|gb|AAC69091.1| (U64859) Contains similarity to Pfam d...    82  6e-15
+SEQ gi|7435825|pir||T14625 hypothetical protein - Trypanosoma cruzi ...    81  9e-15
+SEQ gi|84700|pir||JQ0337 allergen Der p 1 - house-dust mite (Dermato...    80  2e-14
+SEQ gi|7435784|pir||T02011 probable cathepsin B-like cysteine protei...    80  2e-14
+SEQ gi|13631276|ref|XP_011168.2| cathepsin O [Homo sapiens]                80  3e-14
+SEQ gi|5777611|emb|CAB53397.1| (AJ245868) cysteine protease [Medicag...    79  4e-14
+SEQ gi|452262|emb|CAA80448.1| (Z22767) cathepsin L-like protease [Fa...    79  5e-14
+SEQ gi|11691658|emb|CAC18647.1| (AJ302012) cathepsin B-like protease...    79  7e-14
+SEQ gi|2317912|gb|AAC24376.1| (U89959) cathepsin B-like cysteine pro...    78  1e-13
+SEQ gi|1763663|gb|AAB58260.1| (U83277) cysteine protease [Giardia in...    78  1e-13
+SEQ gi|950244|gb|AAC47035.1| (U33424) cysteine proteinase [Plasmodiu...    78  1e-13
+SEQ gi|416767|sp|P32957|CC4_CARCN CYSTEINE PROTEINASE IV (CC-IV)           78  2e-13
+SEQ gi|18088|emb|CAA27608.1| (X03970) pot. cysteine proteinase [Cari...    77  2e-13
+SEQ gi|162044|gb|AAA30180.1| (M27305) cysteine protease [Trypanosoma...    77  2e-13
+SEQ gi|1763659|gb|AAB58258.1| (U83275) cysteine protease [Giardia in...    77  2e-13
+SEQ gi|11691656|emb|CAC18646.1| (AJ302011) cathepsin B-like protease...    77  2e-13
+SEQ gi|322688|pir||S31914 cysteine proteinase - chickpea (fragment) ...    77  2e-13
+SEQ gi|7291390|gb|AAF46818.1| (AE003456) CG3074 gene product [Drosop...    76  3e-13
+SEQ gi|162335|gb|AAA30270.1| (M69121) cysteine proteinase [Trypanoso...    76  3e-13
+SEQ gi|881588|gb|AAB42051.1| (U28755) cysteine proteinase [Entamoeba...    76  3e-13
+SEQ gi|115711|sp|P07858|CATB_HUMAN CATHEPSIN B PRECURSOR (CATHEPSIN ...    76  3e-13
+SEQ gi|4503139|ref|NP_001899.1| cathepsin B [Homo sapiens] >gi|29188...    76  3e-13
+SEQ gi|2982152|pdb|3PBH|    Refined Crystal Structure Of Human Proca...    76  3e-13
+SEQ gi|452254|emb|CAA80444.1| (Z22763) cathepsin L-like protease [Fa...    76  4e-13
+SEQ gi|1169083|sp|P43507|CPR3_CAEEL CATHEPSIN B-LIKE CYSTEINE PROTEI...    75  8e-13
+SEQ gi|12018262|ref|NP_072119.1| cathepsin B [Rattus norvegicus] >gi...    75  8e-13
+SEQ gi|1777779|gb|AAB40605.1| (U51892) cathepsin B-like cysteine pro...    75  9e-13
+SEQ gi|7435782|pir||T06466 cathepsin B-like cysteine proteinase (EC ...    75  1e-12
+SEQ gi|8272379|dbj|BAA96443.1| (AB021784) cysteine protease [Pyrus p...    74  1e-12
+SEQ gi|1421562|pdb|1THE|B Chain B, Thiol Protease Mol_id: 1; Molecul...    74  1e-12
+SEQ gi|984958|gb|AAC46877.1| (U18911) cathepsin B-like proteinase [A...    74  1e-12
+SEQ gi|1181143|emb|CAA93278.1| (Z69345) cysteine proteinase [Haemonc...    74  1e-12
+SEQ gi|118116|sp|P25807|CYS1_CAEEL GUT-SPECIFIC CYSTEINE PROTEINASE ...    74  1e-12
+SEQ gi|1395200|gb|AAB88058.1| (M74797) gut-specific cysteine proteas...    74  1e-12
+SEQ gi|7497829|pir||T20148 probable cysteine proteinase (EC 3.4.22.-...    74  1e-12
+SEQ gi|1698589|gb|AAB37253.1| (U61499) cathepsin K [Oncorhynchus myk...    74  1e-12
+SEQ gi|6681079|ref|NP_031824.1| cathepsin B [Mus musculus] >gi|11571...    74  2e-12
+SEQ gi|984960|gb|AAC46878.1| (U18912) cathepsin B proteinase [Ancylo...    74  2e-12
+SEQ gi|1127276|pdb|1CTE|B Chain B, Molecule: Cathepsin B; Ec: 3.4.22...    74  2e-12
+SEQ gi|7497773|pir||T20110 hypothetical protein C50F4.3 - Caenorhabd...    74  2e-12
+SEQ gi|7292926|gb|AAF48317.1| (AE003493) CG10992 gene product [Droso...    74  2e-12
+SEQ gi|1364030|pir||S57422 cysteine proteinase (EC 3.4.22.-) 8 - Tri...    74  2e-12
+SEQ gi|2129942|pir||S60479 cathepsin B-like cysteine proteinase (EC ...    73  3e-12
+SEQ gi|203648|gb|AAA40993.1| (M11305) cathepsin (EC 3.4.22.1) [Rattu...    73  3e-12
+SEQ gi|1084357|pir||S46541 cysteine proteinase (EC 3.4.22.-) - chick...    73  4e-12
+SEQ gi|14141821|gb|AAK07477.2|AF329480_1 (AF329480) probable catheps...    73  4e-12
+SEQ gi|1019667|gb|AAA79287.1| (L38513) rangelipain [Trypanosoma rang...    73  4e-12
+SEQ gi|162042|gb|AAA30179.1| (M27306) cysteine protease [Trypanosoma...    73  5e-12
+SEQ gi|10441924|gb|AAG17239.1|AF217997_1 (AF217997) unknown [Homo sa...    72  6e-12
+SEQ gi|1076610|pir||S52212 cathepsin B-like cysteine proteinase (EC ...    72  6e-12
+SEQ gi|7499925|pir||T21421 hypothetical protein F26E4.3 - Caenorhabd...    72  6e-12
+SEQ gi|4809232|gb|AAD30154.1|AF143817_1 (AF143817) cathepsin Z1 prep...    72  7e-12
+SEQ gi|13386224|ref|NP_081620.1| RIKEN cDNA 2310051M13 gene [Mus mus...    71  9e-12
+SEQ gi|1942645|pdb|1MIR|A Chain A, Rat Procathepsin B >gi|1942646|pd...    71  9e-12
+SEQ gi|7505149|pir||T32392 hypothetical protein K02E7.10 - Caenorhab...    71  9e-12
+SEQ gi|1019664|gb|AAA79285.1| (L38512) rangelipain [Trypanosoma rang...    71  1e-11
+SEQ gi|1019670|gb|AAA79289.1| (L38514) rangelipain [Trypanosoma rang...    71  1e-11
+SEQ gi|309202|gb|AAA37494.1| (M14222) mouse preprocathepsin B [Mus m...    71  1e-11
+SEQ gi|3088522|gb|AAD03404.1| (AF043246) cathepsin B-like protease p...    71  1e-11
+SEQ gi|416766|sp|P32956|CC3_CARCN CYSTEINE PROTEINASE III (CC-III)         71  1e-11
+SEQ gi|6649567|gb|AAF21457.1|U56958_1 (U56958) cysteine proteinase [...    71  2e-11
+SEQ gi|7504541|pir||T22853 probable cathepsin B (EC 3.4.22.1) F57F5....    71  2e-11
+SEQ gi|7435783|pir||T06413 cathepsin B-like cysteine proteinase (EC ...    71  2e-11
+SEQ gi|1169087|sp|P43510|CPR6_CAEEL CATHEPSIN B-LIKE CYSTEINE PROTEI...    71  2e-11
+SEQ gi|477808|pir||B48435 cysteine proteinase AC-5 - nematode (Haemo...    70  2e-11
+SEQ gi|479895|pir||S35580 cysteine proteinase (EC 3.4.22.-) IV - mou...    70  2e-11
+SEQ gi|416763|sp|P32954|CC1_CARCN CYSTEINE PROTEINASE I (CC-I)             70  2e-11
+SEQ gi|7297670|gb|AAF52922.1| (AE003628) CG5367 gene product [Drosop...    70  3e-11
+SEQ gi|1169086|sp|P43509|CPR5_CAEEL CATHEPSIN B-LIKE CYSTEINE PROTEI...    70  3e-11
+SEQ gi|6165885|gb|AAF04727.1|AF101239_1 (AF101239) cathepsin B-like ...    70  3e-11
+SEQ gi|419920|pir||B44938 cysteine proteinase (EC 3.4.22.-) - Trypan...    69  4e-11
+SEQ gi|1169189|sp|P43157|CYSP_SCHJA CATHEPSIN B-LIKE CYSTEINE PROTEI...    69  4e-11
+SEQ gi|12658197|gb|AAK01059.1| (AF125905) cysteine proteinase [Metag...    69  4e-11
+SEQ gi|11499528|ref|NP_070770.1| cysteine proteinase, putative [Arch...    69  5e-11
+SEQ gi|1808680|emb|CAA71752.1| (Y10780) hypothetical protein [Sporob...    69  5e-11
+SEQ gi|3928768|dbj|BAA34705.1| (AB020492) cathepsin L-like tick cyst...    69  5e-11
+SEQ gi|1008858|gb|AAA79004.1| (L41940) cathepsin B-like thiol protea...    69  6e-11
+SEQ gi|7509105|pir||T31728 probable cysteine proteinase (EC 3.4.22.-...    69  6e-11
+SEQ gi|7537454|gb|AAF35867.2| (AF222788) cathepsin B-like cysteine p...    68  8e-11
+SEQ gi|7507648|pir||T24819 hypothetical protein T10H4.12 - Caenorhab...    68  8e-11
+SEQ gi|1364026|pir||S57427 cysteine proteinase (EC 3.4.22.-) 4 - Tri...    68  8e-11
+SEQ gi|6165261|emb|CAB59816.1| (AJ012326) cysteine protease [Felis c...    68  9e-11
+SEQ gi|2330009|gb|AAB66719.1| (AF006198) cysteine protease [Giardia ...    68  1e-10
+SEQ gi|1680720|gb|AAC47348.1| (U71150) cysteine protease precursor [...    68  1e-10
+SEQ gi|481614|pir||S38939 probable cathepsin B-like cysteine protein...    68  1e-10
+SEQ gi|13548667|dbj|BAB40804.1| (AB045595) cathepsin B [Bombyx mori]       68  1e-10
+SEQ gi|538255|gb|AAA21470.1| (M99496) cysteine proteinase [Trypanoso...    68  1e-10
+SEQ gi|1644295|emb|CAB03627.1| (Z81327) cysteine proteinase [Haemonc...    68  2e-10
+SEQ gi|541900|pir||PQ0650 senescence-associated protein SAG2 - Arabi...    68  2e-10
+SEQ gi|1168790|sp|P43233|CATB_CHICK CATHEPSIN B PRECURSOR (CATHEPSIN...    68  2e-10
+SEQ gi|118153|sp|P25792|CYSP_SCHMA CATHEPSIN B-LIKE CYSTEINE PROTEIN...    67  2e-10
+SEQ gi|7303270|gb|AAF58331.1| (AE003817) CG6347 gene product [Drosop...    67  2e-10
+SEQ gi|5764077|emb|CAB53367.1| (AJ132421) necpain [Necator americanus]     67  2e-10
+SEQ gi|7500618|pir||T21856 probable cysteine proteinase (EC 3.4.22.-...    67  2e-10
+SEQ gi|4096587|gb|AAC99957.1| (U33215) cysteine proteinase [Paragoni...    67  2e-10
+SEQ gi|416764|sp|P32955|CC2_CARCN CYSTEINE PROTEINASE II (CC-II)           67  2e-10
+SEQ gi|7509102|pir||T31730 hypothetical protein W07B8.1 - Caenorhabd...    67  3e-10
+SEQ gi|2134308|pir||S58770 cathepsin B (EC 3.4.22.1) precursor - chi...    67  3e-10
+SEQ gi|4204370|gb|AAD11445.1| (U58000) cathepsin B protease [Fasciol...    66  3e-10
+SEQ gi|13559772|gb|AAK29976.1| (AC024859) Hypothetical protein Y71H2...    66  3e-10
+SEQ gi|3087801|emb|CAA93277.1| (Z69344) cysteine proteinase [Haemonc...    66  4e-10
+SEQ gi|477253|pir||A48454 cathepsin B-like cysteine proteinase (EC 3...    66  5e-10
+SEQ gi|1364029|pir||S57425 cysteine proteinase (EC 3.4.22.-) 7 - Tri...    66  5e-10
+SEQ gi|9309275|dbj|BAA96736.1| (AB006743) cruzipain [Trypanosoma cruzi]    66  5e-10
+SEQ gi|227293|prf||1701299A cathepsin B [Mus musculus]                     66  6e-10
+SEQ gi|7496825|pir||T25582 hypothetical protein C32B5.7 - Caenorhabd...    66  6e-10
+SEQ gi|478007|pir||C48435 cysteine proteinase AC-4 - nematode (Haemo...    66  6e-10
+SEQ gi|2944340|gb|AAC05262.1| (AF046229) cathepsin B-like cysteine p...    65  6e-10
+SEQ gi|115740|sp|P25773|CATL_FELCA CATHEPSIN L (PROGESTERONE-DEPENDE...    65  8e-10
+SEQ gi|4379391|emb|CAA75189.1| (Y14966) unnamed protein product [Lit...    65  8e-10
+SEQ gi|1345924|sp|P25802|CYS1_OSTOS CATHEPSIN B-LIKE CYSTEINE PROTEI...    65  9e-10
+SEQ gi|345308|pir||S31909 cathepsin B-like cysteine proteinase (EC 3...    65  9e-10
+SEQ gi|1070500|pir||KHBOB cathepsin B (EC 3.4.22.1) precursor - bovi...    64  1e-09
+SEQ gi|4903296|gb|AAD32861.1| (AF149847) cysteine proteinase CPW1 [A...    64  1e-09
+SEQ gi|6959775|gb|AAF33216.1|AF217448_1 (AF217448) cysteine protease...    64  1e-09
+SEQ gi|1841466|emb|CAA71892.1| (Y11003) putative pre-pro-cysteine pr...    64  2e-09
+SEQ gi|4325188|gb|AAD17297.1| (AF120501) cysteine proteinase [Ancylo...    64  2e-09
+SEQ gi|478099|pir||D48435 cysteine proteinase AC-3 - nematode (Haemo...    64  2e-09
+SEQ gi|2765360|emb|CAA74242.1| (Y13925) cathepsin L2 [Litopenaeus va...    64  2e-09
+SEQ gi|1168789|sp|P07688|CATB_BOVIN CATHEPSIN B PRECURSOR                  63  3e-09
+SEQ gi|479892|pir||S35577 cysteine proteinase (EC 3.4.22.-) I - moun...    63  3e-09
+SEQ gi|12330248|gb|AAG52661.1| (AF121843) cysteine proteinase [Metag...    63  3e-09
+SEQ gi|388970|gb|AAB27247.1| SAG2=senescence-associated gene SAG2 pr...    63  4e-09
+SEQ gi|9955277|pdb|1QDQ|A Chain A, X-Ray Crystal Structure Of Bovine...    63  5e-09
+SEQ gi|9309273|dbj|BAA96735.1| (AB006742) cruzipain [Trypanosoma cru...    62  6e-09
+SEQ gi|6959773|gb|AAF33215.1|AF217447_1 (AF217447) cysteine protease...    62  7e-09
+SEQ gi|2499876|sp|Q23894|CYS3_DICDI CYSTEINE PROTEINASE 3 (CYSTEINE ...    62  8e-09
+SEQ gi|7500321|pir||T29872 hypothetical protein F32B5.8 - Caenorhabd...    62  9e-09
+SEQ gi|7484425|pir||T08153 cysteine proteinase (EC 3.4.22.-) - Volvo...    62  9e-09
+SEQ gi|1169085|sp|P43508|CPR4_CAEEL CATHEPSIN B-LIKE CYSTEINE PROTEI...    61  9e-09
+SEQ gi|1364028|pir||S57421 cysteine proteinase (EC 3.4.22.-) 6 - Tri...    61  1e-08
+SEQ gi|118118|sp|P19092|CYS1_HAECO CATHEPSIN B-LIKE CYSTEINE PROTEIN...    61  2e-08
+SEQ gi|21695|emb|CAA46812.1| (X66014) cathepsin B [Triticum aestivum]      61  2e-08
+SEQ gi|3170021|gb|AAC18006.1| (AF036253) cysteine protease [Theileri...    61  2e-08
+SEQ gi|1364025|pir||S57451 cysteine proteinase (EC 3.4.22.-) 3 - Tri...    60  2e-08
+SEQ gi|7296643|gb|AAF51923.1| (AE003601) CG1075 gene product [Drosop...    60  2e-08
+SEQ gi|1364027|pir||S57426 cysteine proteinase (EC 3.4.22.-) 5 - Tri...    60  3e-08
+SEQ gi|118122|sp|P25793|CYS2_HAECO CATHEPSIN B-LIKE CYSTEINE PROTEIN...    60  3e-08
+SEQ gi|7510099|pir||T27076 hypothetical protein Y51A2D.1 - Caenorhab...    60  3e-08
+SEQ gi|479893|pir||S35578 cysteine proteinase (EC 3.4.22.-) II - mou...    60  3e-08
+SEQ gi|2584884|gb|AAB82743.1| (AF020304) cysteine proteinase [Oncorh...    60  3e-08
+SEQ gi|5764411|gb|AAD51292.1|AF165115_1 (AF165115) evansain cysteine...    60  3e-08
+SEQ gi|2253415|gb|AAB62937.1| (AF007215) stress-induced cysteine pro...    60  3e-08
+SEQ gi|1364031|pir||S57423 cysteine proteinase (EC 3.4.22.-) 9 - Tri...    59  4e-08
+SEQ gi|12330242|gb|AAG52658.1| (AF121840) cysteine proteinase [Metag...    59  4e-08
+SEQ gi|728602|emb|CAA88490.1| (Z48599) cathepsin B-like enzyme [Leis...    59  6e-08
+SEQ gi|1340178|emb|CAA28877.1| (X05256) cathepsin L (AA 42) [Homo sa...    59  6e-08
+SEQ gi|11545918|ref|NP_071447.1| P3ECSL [Homo sapiens] >gi|11275667|...    59  6e-08
+SEQ gi|3087797|emb|CAA93275.1| (Z69342) cysteine proteinase [Haemonc...    59  6e-08
+SEQ gi|1019663|gb|AAA79284.1| (L38512) rangelipain [Trypanosoma rang...    59  6e-08
+SEQ gi|1763661|gb|AAB58259.1| (U83276) cysteine protease [Giardia in...    58  8e-08
+SEQ gi|3087799|emb|CAA93276.1| (Z69343) cysteine proteinase [Haemonc...    58  1e-07
+SEQ gi|1848229|gb|AAB48119.1| (U43705) cathepsin B-like protease [Le...    58  1e-07
+SEQ gi|10727571|gb|AAG22272.1| (AE003817) CG6337 gene product [Droso...    58  1e-07
+SEQ gi|7435802|pir||T02166 cysteine proteinase (EC 3.4.22.-) precurs...    58  1e-07
+SEQ gi|5230687|gb|AAD40962.1| (AF072190) cathepsinS related protein ...    58  1e-07
+SEQ gi|12005276|gb|AAG44365.1| (AF233525) cathepsin B-like cysteine ...    58  1e-07
+SEQ gi|3912916|gb|AAC78691.1| (AF027132) thiol protease [Trichuris s...    57  2e-07
+SEQ gi|3087803|emb|CAA93279.1| (Z69346) cysteine protease [Haemonchu...    57  3e-07
+SEQ gi|387592|gb|AAA28296.1| (M24794) major house dust allergen [Der...    57  3e-07
+SEQ gi|13486872|dbj|BAB40102.1| (AP003210) hypothetical protein [Ory...    56  3e-07
+SEQ gi|13625987|gb|AAK35219.1|AF362768_1 (AF362768) cysteine protein...    56  4e-07
+SEQ gi|12963691|ref|NP_075965.1| androgen-inducible lipocarin protei...    56  4e-07
+SEQ gi|13543125|gb|AAH05738.1|AAH05738 (BC005738) Unknown (protein f...    56  4e-07
+SEQ gi|162334|gb|AAA30269.1| (M69121) cysteine proteinase [Trypanoso...    56  4e-07
+SEQ gi|13774176|gb|AAK38775.1| (AF145249) cysteine proteinase [Derma...    56  4e-07
+SEQ gi|1839276|gb|AAB47011.1| phytolacain R=papain homolog {N-termin...    56  5e-07
+SEQ gi|6562772|emb|CAB62590.1| (AJ251536) putative cathepsin B-like ...    56  5e-07
+SEQ gi|5031250|gb|AAD38132.1|AF127592_1 (AF127592) vitellogenic cath...    55  7e-07
+SEQ gi|12004577|gb|AAG44098.1| (AF216830) cathepsin B cysteine prote...    55  8e-07
+SEQ gi|11066226|gb|AAG28507.1|AF197479_1 (AF197479) cathepsin Z [Mus...    55  8e-07
+SEQ gi|12585198|sp|Q9R1T3|CATZ_RAT CATHEPSIN Z (CATHEPSIN Y) >gi|568...    55  9e-07
+SEQ gi|3650498|gb|AAC61477.1| (AF073890) cathepsin X precursor [Homo...    55  1e-06
+SEQ gi|4903298|gb|AAD32862.1| (AF149848) cysteine proteinase CPW2 [A...    55  1e-06
+SEQ gi|7542602|gb|AAF63517.1|AF242733_1 (AF242733) putative cystein ...    54  1e-06
+SEQ gi|11968166|ref|NP_071720.1| cathepsin Z [Mus musculus] >gi|1258...    54  1e-06
+SEQ gi|2118130|pir||S60456 cysteine proteinase (EC 3.4.22.-), glucos...    54  1e-06
+SEQ gi|12835144|dbj|BAB23167.1| (AK004095) putative [Mus musculus]         54  2e-06
+SEQ gi|11527795|dbj|BAB18637.1| (AB050717) glucocorticoid-inducible ...    54  2e-06
+SEQ gi|13642524|ref|XP_004259.3| tubulointerstitial nephritis antige...    54  2e-06
+SEQ gi|7657645|ref|NP_055279.1| tubulointerstitial nephritis antigen...    54  2e-06
+SEQ gi|1362546|pir||S57624 cysteine proteinase LmCPb19 - Leishmania ...    53  3e-06
+SEQ gi|11863537|emb|CAC18798.1| (AJ303074) cathepsin Z [Cricetulus g...    53  3e-06
+SEQ gi|950246|gb|AAC47036.1| (U33425) cysteine proteinase [Plasmodiu...    53  3e-06
+SEQ gi|6755797|ref|NP_036163.1| tubulointerstitial nephritis antigen...    53  4e-06
+SEQ gi|7245728|pdb|1DEU|A Chain A, Crystal Structure Of Human Procat...    52  4e-06
+SEQ gi|12832453|dbj|BAB22113.1| (AK002456) putative [Mus musculus]         52  5e-06
+SEQ gi|7546545|pdb|1EF7|A Chain A, Crystal Structure Of Human Cathep...    52  5e-06
+SEQ gi|3719219|gb|AAC63141.1| (AF009923) preprocathepsin P [Homo sap...    52  7e-06
+SEQ gi|4503159|ref|NP_001327.1| cathepsin Z [Homo sapiens] >gi|32945...    52  8e-06
+SEQ gi|13630372|ref|XP_009586.2| cathepsin Z [Homo sapiens] >gi|1264...    52  8e-06
+SEQ gi|1911708|gb|AAB50811.1| (S83552) cysteine proteinase=cathepsin...    52  9e-06
+SEQ gi|6449322|gb|AAF08931.1| (AF195116) tubulointerstitial nephriti...    51  1e-05
+SEQ gi|6562768|emb|CAB62588.1| (AJ251534) putative cathepsin B-like ...    51  2e-05
+SEQ gi|6562770|emb|CAB62589.1| (AJ251535) putative cathepsin B-like ...    51  2e-05
+SEQ gi|7506009|pir||T23720 hypothetical protein M04G12.2 - Caenorhab...    51  2e-05
+SEQ gi|477821|pir||B48566 cysteine proteinase Lpcys1 (EC 3.4.22.-) -...    49  6e-05
+SEQ gi|7509752|pir||T26798 hypothetical protein Y40H7A.9 - Caenorhab...    48  9e-05
+SEQ gi|159950|gb|AAA29435.1| (M88504) cathepsin B-like cysteine prot...    48  1e-04
+SEQ gi|1363085|pir||A57480 tubulointerstitial nephritis antigen prec...    48  1e-04
+SEQ gi|13242547|ref|NP_077560.1| EsV-1-75 [Ectocarpus siliculosus vi...    48  1e-04
+SEQ gi|14290553|gb|AAH09048.1|AAH09048 (BC009048) P3ECSL [Homo sapiens]    48  1e-04
+SEQ gi|3929733|emb|CAA77178.1| (Y18460) cathepsin B [Homo sapiens]         47  2e-04
+SEQ gi|14042811|dbj|BAB55403.1| (AK027839) unnamed protein product [...    47  2e-04
+SEQ gi|13774172|gb|AAK38773.1| (AF145247) cysteine proteinase [Derma...    47  2e-04
+SEQ gi|7435796|pir||T08595 cysteine proteinase (EC 3.4.22.-) - rape ...    47  2e-04
+SEQ gi|312266|emb|CAA51531.1| (X73074) cathepsin B-like enzyme [Gall...    47  2e-04
+SEQ gi|1421164|pdb|1CSB|B Chain B, Papain-Like Lysosomal Dicarboxy-P...    46  3e-04
+SEQ gi|945054|gb|AAA74445.1| (U30877) cathepsin B-like protease [Ure...    46  3e-04
+SEQ gi|181178|gb|AAA52125.1| (M13230) lysosomal proteinase cathepsin...    46  3e-04
+SEQ gi|1006696|emb|CAA89835.1| (Z49765) cysteine protease [Pseudotsu...    46  7e-04
+SEQ gi|129613|sp|P05993|PAP5_CARPA CYSTEINE PROTEINASE (CLONE PLBPC1...    45  7e-04
+SEQ gi|4099307|gb|AAD00578.1| (U86014) cysteine proteinase [Clonorch...    45  0.001
+SEQ 
+## SEQUENCE PROFILE AND ENTROPY
+ SeqNo PDBNo   V   L   I   M   F   W   Y   G   A   P   S   T   C   H   R   K   Q   E   N   D  NOCC NDEL NINS ENTROPY RELENT WEIGHT
+    1    1    25  60  14   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.964     32  0.00
+    2    2     0   0   0   0   0   0   0   1   0  99   0   0   0   0   0   0   0   0   0   0     0    0    0   0.065      2  0.00
+    3    3     2   2   0   0   0   0   0   0   9   5   8   3   1   0   3  12   4  31   1  18     0    0    0   2.155     71  0.00
+    4    4     1   0   1   0   3   2   4   0  11   0  43   9   1   2   2   3   2   6   5   4     0    0    0   2.082     69  0.00
+    5    5    44   5  16   3  20   5   2   0   0   0   0   0   1   0   0   5   0   0   0   0     0    0    0   1.652     55  0.00
+    6    6     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   2  98     0    0    0   0.130      4  0.00
+    7    7     0   3   0   0   1  89   3   0   3   1   1   0   0   0   0   0   0   0   0   0     0    0    0   0.526     17  0.00
+    8    8     0   0   0   0   0   0   0   0   1   5   1   1   0   0  90   1   0   0   0   0     0    0    0   0.500     16  0.00
+    9    9     0   2   0   1   0   0   0   0   8   1   6   5   0   0   2  19   9  26  10  10     0    0    0   2.169     72  0.00
+   10   10     3   3   0   1   0   0   3   0   2   0   3   1   8   5   7  49   4   7   1   2     0    0    0   1.981     66  0.00
+   11   11     1   0   0   1   0   4   1  72   1   2   4   1   0   1   3   2   1   0   5   2     0    0    0   1.287     42  0.00
+   12   12     4   1   6   0   0   0  11   6  46   2   7   6   5   0   0   5   0   0   1   0     0    0    0   1.944     64  0.00
+   13   13    82   3  10   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   2   0     0    0    0   0.741     24  0.00
+   14   14     3   1   0   0   0   0   0   6   3   1  12  63   3   1   0   3   0   0   4   0     0    0    0   1.417     47  0.00
+   15   15     1   1   1   0   0   0   1   5   7  51   5   1   0   2   1   2   1  14   2   4     0    0    0   1.807     60  0.00
+   16   16    68   0  26   0   0   0   0   0   1   1   0   2   0   0   0   0   0   0   0   0     0    0    0   0.859     28  0.00
+   17   17     0   3   0   0   0   0   0   0   0   1   0   0   0   0  22  70   0   1   0   0     0    0    0   0.896     29  0.00
+   18   18     0   0   0   2   0   0   3   0   0   0   1   1   0   2   1   0   0   1  34  53     0    0    0   1.260     42  0.00
+   19   19     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  99   0   0   0     0    0    0   0.054      1  0.00
+   20   20     0   0   0   0   0   0   0  78   6   0   5   0   0   0   0   3   3   2   2   0     0    0    0   0.956     31  0.00
+   21   21     1   3   1   4   0   0   3   6   6   2  20   3   0   5   2   5  25   3   9   3     0    0    0   2.421     80  0.00
+   22   22     0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0     0    0    0   0.023      0  0.00
+   23   23     0   0   0   0   0   0   0  92   3   0   1   0   0   0   0   0   0   0   2   0     0    0    0   0.404     13  0.00
+   24   24     0   0   0   0   0   0   0   4   7   0  84   1   3   0   1   0   0   0   0   0     0    0    0   0.667     22  0.00
+   25   25     0   0   0   0   0   0   0   1   0   0   4   0  95   0   0   0   0   0   0   0     0    0    0   0.223      7  0.00
+   26   26     0   0   0   0   0  94   5   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.258      8  0.00
+   27   27     0   0   0   0   0   0   0   0  84   0   8   7   0   0   0   0   0   0   0   0     0    0    0   0.609     20  0.00
+   28   28     4   0   1   1  91   0   0   0   0   0   0   0   0   2   0   0   0   0   0   0     0    0    0   0.464     15  0.00
+   29   29     0   0   0   0   0   0   0  10  16   0  72   0   1   0   0   0   0   0   0   0     0    0    0   0.860     28  0.00
+   30   30     5   0   0   0   0   0   0   2  42   0  13  36   0   0   0   0   0   0   0   0     0    0    0   1.322     44  0.00
+   31   31    30   3  19   1   0   0   0   0  11   0   3  31   0   0   0   0   0   0   0   0     0    0    0   1.596     53  0.00
+   32   32     4   0   0   0   0   0   0  52  26   0   5   0   1   0   0   0   2   9   0   1     0    0    0   1.390     46  0.00
+   33   33     4   0   0   2   0   0   0   1  53   0  12  11   2   0   0   0   0   0  15   0     0    0    0   1.508     50  0.00
+   34   34    29  31  21  10   1   0   0   0   3   0   0   4   0   0   0   0   1   0   0   0     0    0    0   1.601     53  0.00
+   35   35     1   0   0   0   0   0   0   0   3   0  12   1   0   0   0   0   1  82   0   0     0    0    0   0.709     23  0.00
+   36   36     0   0   0   0   0   0   0  56   9   0  15   1   3   0   0   0   0   0   0  15     0    0    0   1.302     43  0.00
+   37   37     3   5  18   1   1   0   1   0  16   0   0   0   0   0  19   0  34   0   0   1     0    0    0   1.811     60  0.00
+   38   38     4   7  12   5   6  14  15   0   2   0   0   4   0   9   1   0   1   0  19   0     0    0    0   2.332     77  0.00
+   39   39     1   4   0   3  22   0   3   0  16   0   2   1  12   2   4  19   8   0   4   0     0    0    0   2.270     75  0.00
+   40   40     4  21  48   0   0   0   0   0   4   0   0   1   0   0   9   8   3   0   0   0     0    0    0   1.639     54  0.00
+   41   41     9   1   0   0   0   0   2   0  22   0   3   3   0   7   8  32   5   2   5   1     0    0    0   2.120     70  0.00
+   42   42     1   1   0   0   3   0   2   9   1   0  10  48   0   3   5   7   2   2   5   0     0    0    0   1.932     64  0.00
+   43   43     0   0   0   0   0   0   0  62   1   0   2   0   0   6   3   8   1   0  14   2     0    0    0   1.382     46  0.00
+   44   44     3   0   1   2   0   0   1   6   4   5   4   6   0   2   6  30   4   9  12   4     0    0    0   2.394     79  0.00
+   45   45     3  64   2   3   2   0   0   1   4   1   9   3   0   0   1   2   1   1   2   1     0    0    0   1.560     52  0.00
+   46   46    32  15  21   1   1   0   1   0   1   1   2  10   0   0   1   3   4   2   5   0     0    0    0   2.044     68  0.00
+   47   47     1   2   0   0   0   0   1   1   2   5  52   6   0   1   2   1   4   8   6   7     0    0    0   1.865     62  0.00
+   48   48     5  81   1   0   8   0   3   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.784     26  0.00
+   49   49     0   0   0   0   0   0   0   0   4   0  95   0   0   0   0   0   0   0   0   0     0    0    0   0.228      7  0.00
+   50   50     7   0   0   0   0   0   0   0  10   7   1   1   0   0   0   1   1  69   0   2     0    0    0   1.188     39  0.00
+   51   51     0   0   0   0   0   0   0   0   0   0   0   2   0   0   0   0  87   5   2   2     0    0    0   0.619     20  0.00
+   52   52     1   0   0   6   0   0   1   0   0   0   0   0   0   2   0   0  29  27  21  11     0    0    0   1.712     57  0.00
+   53   53     8  81   6   3   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.729     24  0.00
+   54   54    63  20  13   1   0   0   0   0   0   0   1   0   1   0   0   0   0   0   0   0     0    0    0   1.099     36  0.00
+   55   55     0   0   0   0   0   0   0   0   2   0  16   4   1   0   0   0   1   0   1  73     0    0    0   0.974     32  0.00
+   56   56     0   0   0   0   0   0   0   0   0   0   0   0  99   0   0   0   0   0   0   0     0    0    0   0.073      2  0.00
+   57   57     4   0   2   0   1   0   0   4   8   1  23   4   6   0   0   1   0   3   2  42     0    0    0   1.865     62  0.00
+   58   58     2   1   1   1   4   1   5  11   3   2   6  14   0   6  13  12   6   3   7   4     0    0    0   2.638     88  0.00
+   59   59     6   3   2   3   2   0   2  10   7   5   7   6   7   2   5   6   5  11   9   2     0    0    0   2.816     94  0.00
+   60   60     0   0   0   0   0   0   0  14   2   0   9   2   2   0   1   2   2   0  43  21     0    0    0   1.699     56  0.00
+   61   61     0   1   1   3   9   1  15   1   2   0   9   1   0   7   2   4  11   9  15  10     0    0    0   2.516     83  0.00
+   62   62     0   0   0   0   0   0   0  93   3   0   2   0   0   0   0   0   0   0   1   0     0    0    0   0.358     11  0.00
+   63   63     0   0   0   0   0   0   0   0   0   0   1   0  99   0   0   0   0   0   0   0     0    0    0   0.097      3  0.00
+   64   64     0   1   0   2   0   0   2   9   1   0   6   0   0   3   3   5   4   8  40  14     0    0    0   2.036     67  0.00
+   65   65     0   0   0   0   0   1   0  95   0   0   2   0   0   0   1   0   0   1   0   0     0    0    0   0.317     10  0.00
+   66   66     0   0   0   0   0   0   0  96   0   0   0   0   0   0   0   0   0   0   0   2     0    0    0   0.205      6  0.00
+   67   67     0  45   2   1   8   8  17   1   0   0   3   4   0   3   2   0   0   2   4   2     0    0    0   1.913     63  0.00
+   68   68     3   5   5  44   0   0   0   1   2  28   2   2   0   0   0   0   2   1   0   3     0    0    0   1.740     58  0.00
+   69   69     1   5   5   1   4   4   5   2   2   4  12  11   0   3   0   0   1   8   8  24     0    0    0   2.494     83  0.00
+   70   70     1   5   1   1   1   0  11   4   4   3   9   8   0   0   5   3  12   5  22   5     0    0    0   2.511     83  0.00
+   71   71     4   0   1   0   1   0   1   4  81   0   6   1   0   0   0   0   0   0   0   0     0    0    0   0.826     27  0.00
+   72   72     1  10   3   2  53  14  13   1   1   0   0   0   0   0   0   0   0   1   0   0     0    0    0   1.533     51  0.00
+   73   73     0   2   1   0   0   2   1   2   2   0   3   1   0   0   6   8  19  34   7  10     0    0    0   2.111     70  0.00
+   74   74     1   4  12   2  17  10  48   0   3   0   0   0   0   1   0   2   0   0   0   0     0    0    0   1.677     55  0.00
+   75   75    19  13  43   3   4   7   1   1   5   0   0   3   0   0   0   1   0   0   0   0     0    0    0   1.803     60  0.00
+   76   76    10   7   9   4   0   0   2   2   9   0   4   5   0   3   5  22   8   4   2   3     0    0    0   2.539     84  0.00
+   77   77     0   1   0   3   0   1   1   0   2   0   3   2   0   3   8  18  16  10  24   8     0    0    0   2.227     74  0.00
+   78   78     2   2   0   2   5   0   3  14   3   0   5   2   0   7   5  13   2   4  29   1     0    0    0   2.336     77  0.00
+   79   79     0   0   0   0   0   0   0  89   3   0   1   2   0   0   0   1   0   0   2   0     0    0    0   0.561     18  0.00
+   80   80    23  35  36   0   1   0   0   1   2   0   0   1   0   0   0   0   0   0   0   0     0    0    0   1.358     45  0.00
+   81   81    14   0   1   4   2   0   5   1   6   4   3   7   4   6   1   1   3  14   2  21     0    0    0   2.512     83  0.00
+   82   82     0   7   0   1   2   0   3   2   4   1  22  40   0   1   2   3   3   4   0   3     0    0    0   2.040     68  0.00
+   83   83     0   1   0   0   0   0   0   8   3   0   2   0   0   1   3   2   2  66   2   9     0    0    0   1.364     45  0.00
+   84   84     1   1   0   0   0   0   0   9  15   0  18   4   0   1   1  10   3  17   5  15     0    0    0   2.242     74  0.00
+   85   85     3   2   1   0   0   0   2   0   6   2  27   8   8   1   1   3   0   4   6  27     0    0    0   2.155     71  0.00
+   86   86     1   1   1   0   2   0  89   0   0   0   0   0   0   0   1   0   0   0   3   1     0    0    0   0.595     19  0.00
+   87   87     0   0   0   0   0   0   0   1   1  86   2   0   0   1   1   2   0   1   2   0     0    0    0   0.721     24  0.00
+   88   88     0   1   0   0   4   0  88   1   0   1   0   3   0   0   0   0   0   1   0   0     0    0    0   0.596     19  0.00
+   89   89     9   3   3   1   0   0   0   1   3   3   4  19   0   2   4  14  11  17   4   2     0    0    0   2.446     81  0.00
+   90   90     0   0   0   1   0   0   0  47  38   1   3   1   0   0   1   2   1   2   1   1     0    0    0   1.345     44  0.00
+   91   91    12   1   5   3   1   1   1   2   4   0   6   9   6   3  10  17   7   7   3   2     0    0    0   2.656     88  0.00
+   92   92     2   0   0   2   0   0   1   2   3   0   6   2   1   0   6   5  10  15  10  36     0    0    0   2.093     69  0.00
+   93   93     0   1   0   1   0   0   2  39   2   9   5   3   0   2   7   4  10   9   3   3     0    0    0   2.155     71  0.00
+   94   94     4   2   2   0   2   0   5   2   2  11  14  17   0   3   5  12   6   5   3   2     0    0    0   2.593     86  0.00
+   95   95     1   0   0   0   0   0   0   1   1   1   3   1  90   1   0   0   0   0   0   0     0    0    0   0.543     18  0.00
+   96   96     2   2   0   2   0   0   1   1   1   1   2   6   4   7  23  21   6   2   8  11     0    0    0   2.355     78  0.00
+   97   97     3   3   1   3  14   1  15   5  11   4  10   7   1   1   4   5   3   1   6   2     0    0    0   2.670     89  0.00
+   98   98     2   2   1   2   4   0   7   3   3   3  13   5   0   3  12  11   2   5  17   8     0    0    0   2.595     86  0.00
+   99   99     2   3   1   0   2   0   3   9   7   8   9   2   3   0   6   9   5   9   9  12     0    0    0   2.673     89  0.00
+  100  100     3   3   1   0   0   0   1   2   5   4   7   4   1   4   7  29   7  10   5   6     0    0    0   2.492     83  0.00
+  101  101     3   4   1   1   1   1   1  14   7   3  11  10   3   1   3   9   3   6  20   2     0    0    0   2.521     84  0.00
+  102  102     9   2   2   0   3   1   1   7  13  15   9   5   2   2   3  15   2   3   2   3     0    0    0   2.619     87  0.00
+  103  103    13   5   7   0   4   0  16   8   3   5   4   3   3   3   6  14   1   1   4   1     0    0    0   2.614     87  0.00
+  104  104    22   2   2   0   2   0   2  12  29   1   7   3   6   1   2   4   2   3   1   1     0    0    0   2.269     75  0.00
+  105  105    23   2   3   0   1   0   3   3  35   1   4   8   2   1   1   4   2   2   4   1     0    0    0   2.152     71  0.00
+  106  106     5   1  10   0   2   0   3   1   5   1  11  15   1   1   5  26   3   4   3   3     0    0    0   2.435     81  0.00
+  107  107    13   4  28   1   1   0   2   1   1   0   6  15   5   1   1   5   1   1  10   4     0    0    0   2.284     76  0.00
+  108  108     3   0   1   0   2   0   4   6   2   2  13  14   3   1   4   7   2   2   6  29     0    0    0   2.367     79  0.00
+  109  109     2   0   0   0   2   0   3  45   2   0  13   7   1   4   3   4   1   3   7   4     0    0    0   2.049     68  0.00
+  110  110    21   4   5   0  13   0  32   3   3   1   4   2   2   6   0   1   1   0   0   0     0    0    0   2.125     70  0.00
+  111  111    10   2   4   2   4   1   9   4   4   0   8   5   2   2   9   7   3  17   4   2     0    0    0   2.713     90  0.00
+  112  112     9   5   2   1   1   1   6   2   3   1   5   8   1   1   7   5   9   6  12  16     0    0    0   2.673     89  0.00
+  113  113    43   8  22   1   1   0   3   1   2   2   4   3   1   1   0   1   0   1   1   5     0    0    0   1.908     63  0.00
+  114  114     2   7   4   0   0   0   3   5   3  26   7  11   0   3   3   5  10   5   2   2     0    0    0   2.498     83  0.00
+  115  115     5   7   2   1   2   0   1   2   8  27  17   2   0   2   4   3   3   5   2   6     0    0    0   2.439     81  0.00
+  116  116     4   2   1   0   2   0  16  17   1   3   4   0   0   3   3   5   7   3  22   5     0    0    0   2.417     80  0.00
+  117  117     1   0   0   0   0   0   1   6   2   0  12   3   2   1   2   5   3  10  23  29     0    0    0   2.126     70  0.00
+  118  118     2   0   2   0   0   0   1   0   2   1   1   0   0   1   1   4   3  75   1   5     0    0    0   1.188     39  0.00
+  119  119     5   2   1   3   0   1   0   9  11   1   5   5   0   1   3  18   8   9   8  11     0    0    0   2.551     85  0.00
+  120  120     3   2   6   3   0   0   2   2  35   0  12   1   1   0   2   6   6  11   3   5     0    0    0   2.248     75  0.00
+  121  121     1  54  12  10   2   0   1   0   9   0   1   2   0   0   1   2   2   1   0   0     0    0    0   1.699     56  0.00
+  122  122     4  12   3  14   0   2   0   0  22   1   3   2   0   0   4  20  11   1   0   1     0    0    0   2.248     75  0.00
+  123  123     2   3   2   1   0   3  13   1  12   0   2   3   0   2   5  20   4  15   9   1     0    0    0   2.464     82  0.00
+  124  124     2  14   3   1   0   5   2   1  50   1   7   1   1   0   0   4   1   4   1   1     0    0    0   1.893     63  0.00
+  125  125    53  20  12   2   0   0   3   1   5   1   0   1   0   0   1   0   0   0   0   0     0    0    0   1.476     49  0.00
+  126  126     1   3   0   1   0   0   1   6  50   1   9   6   0   1   2  10   2   4   2   1     0    0    0   1.892     63  0.00
+  127  127     4   0   1   0   1   0   4   2   2   0   4  13   0  10   5   8   5   4  36   2     0    0    0   2.198     73  0.00
+  128  128     0   0   0   0   0   0   2  48   0   1   4   2   0   2   6   5  22   3   4   1     0    0    0   1.715     57  0.00
+  129  129     1   1   0   0   0   0   0   4   1  87   0   0   0   1   0   0   0   3   0   0     0    0    0   0.656     21  0.00
+  130  130    48  13  25   2   1   0   0   0   1   4   0   2   0   0   1   3   0   0   0   0     0    0    0   1.548     51  0.00
+  131  131     3   0   0   0   1   0   0   0  25   2  51   4   0   0   0   0   3   6   0   2     0    0    0   1.577     52  0.00
+  132  132    62   1  15   1   2   0   0   1  10   0   1   2   3   0   0   0   0   0   0   0     0    0    0   1.324     44  0.00
+  133  133     7   3   2   4   0   0   1  14  56   0   6   3   2   0   0   0   1   0   1   0     0    0    0   1.619     54  0.00
+  134  134    18   8  45   6  12   0   1   0   7   0   1   1   0   0   0   0   0   0   0   0     0    0    0   1.693     56  0.00
+  135  135     2   1   3   2   2   0   1   0   0   0   2   3   0   1   0   0   3  22  12  45     0    0    0   1.776     59  0.00
+  136  136    15   1   3   1   0   0   0   5  64   0   4   3   0   0   0   0   0   0   0   2     0    0    0   1.339     44  0.00
+  137  137    15   2   3   0   2   0   6  15  12   0  28   9   0   3   2   1   0   1   1   1     0    0    0   2.239     74  0.00
+  138  138     0   3   3   0   5   2  10  27   4   2   7   3   0  18   2   1   3   4   3   3     0    0    0   2.404     80  0.00
+  139  139     1   1   1   0   2   1   3   0   5   8  16   3   0   1  13  11   5  18   3  10     0    0    0   2.456     81  0.00
+  140  140     1   1   0   0   1   0   0   4   7   4  28   5   0   0   0   2   1   4   3  39     0    0    0   1.860     62  0.00
+  141  141     0  11   2   8  73   5   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.967     32  0.00
+  142  142     3   8   1  12   4   0   2   0   5   0   4   1   0   1   5   4  45   1   1   1     0    0    0   2.050     68  0.00
+  143  143     0  23   0   6  29   0   4   1   3   0   4   9   0   9   0   1   3   0   5   1     0    0    0   2.167     72  0.00
+  144  144     0   0   0   0   1   0  98   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.139      4  0.00
+  145  145     1   1   3   1   2   0   1   1   1   0  21   8   0   2  12  33   5   3   2   3     0    0    0   2.140     71  0.00
+  146  146     0   0   0   0   0   0   0  27   1   0  43   4   0   4   4   6   1   8   1   3     0    0    0   1.679     56  0.00
+  147  147     0   0   0   0   0   0   0  98   0   0   0   1   0   0   0   0   0   0   0   0     0    0    0   0.097      3  0.00
+  148  148    52   0  44   0   1   0   0   0   1   0   0   1   0   0   1   0   0   0   0   0     0    0    0   0.914     30  0.00
+  149  149     1   6   4   3  25   1  53   0   0   0   6   1   0   0   0   0   0   0   0   0     0    0    0   1.401     46  0.00
+  150  150     4   1   2   0   3   0  11   0   3   1   9  21   6   3   4   8   7   3   6   9     0    0    0   2.572     85  0.00
+  151  151     0   1   0   1   0   0   1  26   4   6  14   1   0  15   2   1   1  15   3   9     0    0    0   2.208     73  0.00
+  152  152     6   2   6   0   0   0   1   0   1  28   5  10  11   2   2   8   3   9   1   5     0    0    0   2.383     79  0.00
+  153  153     4   2   3   0   2   1   1   0   6   0   9  10  52   1   0   1   2   1   2   0     0    0    0   1.834     61  0.00
+  154  154     1   0   0   0   1   0   0  41   4   4  27   5   5   0   1   2   0   1   3   4     0    0    0   1.843     61  0.00
+  155  155     1   1   1   0   0   0   2   3   2   2  16  25   0   1   4   8   4  11   9   9     0    0    0   2.354     78  0.00
+  156  156     2   3   1   3   1   1   2   3   6   1   9   5   0   3  10  13  11  11   9   7     0    0    0   2.649     88  0.00
+  157  157    18  52   7   6   0   0   1   4   1   3   1   3   0   0   0   1   1   0   0   0     0    0    0   1.662     55  0.00
+  158  158     0   0   0   0   0   0   1  11   1   0   1   3   0   0   0   0   1   1  40  39     0    0    0   1.419     47  0.00
+  159  159     0   0   0   0   0   0   0   0   0   0   0   0   0  99   0   0   0   0   0   0     0    0    0   0.062      2  0.00
+  160  160     1   0   1   0   1   0   0  38  51   0   5   0   1   0   0   0   0   1   0   0     0    0    0   1.157     38  0.00
+  161  161    88   2   8   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.513     17  0.00
+  162  162     7  52   1   1   0   0   0   2   8   0   2  10   1   0   4   9   0   1   2   0     0    0    0   1.718     57  0.00
+  163  163    21  29  19   2   0   0   0   0  25   0   0   2   1   0   0   0   0   0   0   0     0    0    0   1.590     53  0.00
+  164  164    80   4   9   0   0   0   0   0   3   0   0   3   0   0   0   0   0   0   0   0     0    0    0   0.794     26  0.00
+  165  165     0   0   0   0   0   0   0  98   0   0   1   0   0   0   0   0   0   0   0   0     0    0    0   0.113      3  0.00
+  166  166     0   0   0   0   5  17  75   1   0   0   0   0   0   0   0   0   0   1   0   0     0    0    0   0.837     27  0.00
+  167  167     0   0   0   0   0   0   0  90   0   0   1   0   0   0   0   0   0   0   6   3     0    0    0   0.434     14  0.00
+  168  168    14   0   2   2   0   0   0   0   4   5  13  23   0   0   1  15   3   7   7   4     0    0    0   2.305     76  0.00
+  169  169     0   0   0   0   0   0   1   3   2   5   7   4   0   1   2  15   3  16   7  36     0    0    0   2.017     67  0.00
+  170  170     0   0   0   0   7   0  90   0   0   0   0   0   1   2   0   0   0   0   0   0     0    0    0   0.468     15  0.00
+  171  171     0   0   4   0   0  93   2   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.323     10  0.00
+  172  172     3  32  58   0   0   0   0   0   1   0   0   4   0   0   0   1   0   0   0   0     0    0    0   1.069     35  0.00
+  173  173    52   5  33   1   1   0   0   1   5   0   0   0   1   0   0   0   0   0   0   0     0    0    0   1.209     40  0.00
+  174  174     0   0   0   0   0   0   0   0  14   0   0   0   0   0  16  68   0   0   0   0     0    0    0   0.926     30  0.00
+  175  175     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  99   0     0    0    0   0.076      2  0.00
+  176  176     0   0   0   0   0   0   0   0   0   0  95   3   0   0   0   0   2   0   0   0     0    0    0   0.284      9  0.00
+  177  177     0   0   0   0   1  97   1   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.160      5  0.00
+  178  178     0   0   0   0   0   0   0  77   1   0   5   2   0   2   0   0   0   0   9   3     0    0    0   0.917     30  0.00
+  179  179     2   3   0   0   0   0   0   2   9  10  10  31   0   1   3   6   2  16   2   3     0    0    0   2.192     73  0.00
+  180  180     0   0   0   1   0   2   1   7   3   2  18   7   0   1   3   4   6   8  11  23     0    0    0   2.367     79  0.00
+  181  181     0   0   0   0   3  95   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.223      7  0.00
+  182  182     0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.024      0  0.00
+  183  183     1   1   1   5   0   0   0   0   0   0   0   0   0   0   0   1   0  67   4  17     0    0    0   1.184     39  0.00
+  184  184     0   0   0   0   0   0   0   5   4   0   8   0   0   3   6  20   8   9  25  12     0    0    0   2.147     71  0.00
+  185  185     0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.012      0  0.00
+  186  186     0   0   0   0  11   3  83   0   0   0   0   0   0   1   0   0   0   0   0   0     0    0    0   0.624     20  0.00
+  187  187     8   3  38  10  30   0   7   1   1   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.601     53  0.00
+  188  188     0   7   0   1   0   1   4   0   0   0   0   0   0   1  54  28   1   0   3   0     0    0    0   1.310     43  0.00
+  189  189     7  15  43  33   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.304     43  0.00
+  190  190     8   9   4   0   0   0   4   0  25   0   6   1   5   2   6   9   9  12   0   0     0    0    0   2.345     78  0.00
+  191  191     0   0   1   6   0   0   0   1   1   0   0   1   0   0  73  13   2   0   0   1     0    0    0   1.040     34  0.00
+  192  192     0   0   0   0   0   0   0  52   2   0   0   0   0   0   0   1   1   0  27  15     0    0    0   1.246     41  0.00
+  193  193    14   1   8   0   0   0   0   0   1   2  14  13   0   1  16  17   3   4   3   3     0    0    0   2.301     76  0.00
+  194  194     0   0   0   0   0   1   0  33   5   0  10   0   0   1   2   8   1   4  26  10     0    0    0   1.872     62  0.00
+  195  195     1   0   1   1   0   2   1   5   6   1   8   5   0   2   1   3   1   6  53   6     0    0    0   1.848     61  0.00
+  196  196     1   2   0   6   0   0   1   2   6   8  23   6   1  15   3   9   5   1   7   3     0    0    0   2.460     82  0.00
+  197  197     0   2   0   2   1   0  11   3   0   5  12   6  20   7   3   2   8  12   3   1     0    0    0   2.499     83  0.00
+  198  198     1   0   0   0   0   0   0  67   0   0   0   0   0   1   2   1   0   0  25   2     0    0    0   0.933     31  0.00
+  199  199    16  19  18  18   1   0   1   0   4   0   0   8   0   0   1  13   2   0   0   0     0    0    0   2.033     67  0.00
+  200  200     0   0   0   0   0   0   0   0   7   0   0   0  90   0   0   0   0   1   0   0     0    0    0   0.429     14  0.00
+  201  201     0   0   0   0   0   0   0  87   2   0   5   0   0   1   0   0   0   0   3   0     0    0    0   0.575     19  0.00
+  202  202    19  20  57   3   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0     0    0    0   1.133     37  0.00
+  203  203     1   3   0   1   0   0   8   4  70   0   1   1   0   0   0   0   0   4   6   0     0    0    0   1.225     40  0.00
+  204  204     4   1   5  18   0   0   1   0   4   0  19  33   0   0   2   5   2   2   2   1     0    0    0   2.044     68  0.00
+  205  205     2   4   0  10   3   0   7   1   9   1  15   1   7   0   1   2   5  18   1  12     0    0    0   2.469     82  0.00
+  206  206     2   0   0   0   0   0   0   2  57  21  15   0   3   0   0   0   0   0   0   0     0    0    0   1.225     40  0.00
+  207  207     3   7   1   1   7   0   8   0   2   0  65   2   2   1   0   0   1   0   1   0     0    0    0   1.370     45  0.00
+  208  208     1   1   2   0   7   0  85   0   0   0   1   0   0   0   0   0   0   0   1   0     0    0    0   0.672     22  0.00
+  209  209     0   0   0   0   0   0   0   0   2  98   0   0   0   0   0   0   0   0   0   0     0    0    0   0.129      4  0.00
+  210  210    32  20  34   0   4   0   0   0   0   0   0  10   0   0   0   0   0   0   0   0     0    0    0   1.434     47  0.00
+  211  211     9   1   2   0   0   0   0   0   0   0   0   0   0   0   0  87   1   1   0   0     0    0    0   0.528     17  0.00
+  212  212     0   0   0   0   0   0   0   0   0   0  17   0   0   0   0   0   0   0  80   4     0    0    0   0.602     20  0.00
+//

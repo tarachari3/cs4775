@@ -1,0 +1,60 @@
+             precision    recall  f1-score   support
+
+       -1.0       0.57      0.98      0.72        49
+        1.0       0.98      0.59      0.74        88
+
+avg / total       0.83      0.73      0.73       137
+             precision    recall  f1-score   support
+
+       -1.0       0.87      0.95      0.91       127
+        1.0       0.75      0.50      0.60        36
+
+avg / total       0.84      0.85      0.84       163
+             precision    recall  f1-score   support
+
+       -1.0       0.59      0.90      0.71        89
+        1.0       0.70      0.27      0.39        77
+
+avg / total       0.64      0.61      0.56       166
+             precision    recall  f1-score   support
+
+       -1.0       0.80      0.94      0.86       140
+        1.0       0.82      0.51      0.63        70
+
+avg / total       0.80      0.80      0.79       210
+             precision    recall  f1-score   support
+
+       -1.0       0.91      0.96      0.94       223
+        1.0       0.74      0.53      0.62        43
+
+avg / total       0.89      0.89      0.89       266
+             precision    recall  f1-score   support
+
+       -1.0       0.84      0.89      0.86       118
+        1.0       0.73      0.64      0.69        56
+
+avg / total       0.81      0.81      0.81       174
+             precision    recall  f1-score   support
+
+       -1.0       0.81      0.86      0.84       131
+        1.0       0.62      0.53      0.57        55
+
+avg / total       0.76      0.76      0.76       186
+             precision    recall  f1-score   support
+
+       -1.0       0.78      0.95      0.86       117
+        1.0       0.71      0.33      0.45        46
+
+avg / total       0.76      0.77      0.74       163
+             precision    recall  f1-score   support
+
+       -1.0       0.83      0.90      0.86       138
+        1.0       0.68      0.54      0.60        56
+
+avg / total       0.78      0.79      0.79       194
+             precision    recall  f1-score   support
+
+       -1.0       0.75      0.97      0.84       100
+        1.0       0.91      0.48      0.63        64
+
+avg / total       0.81      0.78      0.76       164

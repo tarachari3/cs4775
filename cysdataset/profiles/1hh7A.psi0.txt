@@ -1,0 +1,349 @@
+ID Pseudo hssp file.
+SEQ 
+SEQ gi|13096781|pdb|1HH7|A Chain A, Refined Crystal Structure Of Cyt...   213  5e-55
+SEQ gi|117772|sp|P00091|CY22_RHOPA CYTOCHROME C2 >gi|65536|pir||CCRF...   207  5e-53
+SEQ gi|117769|sp|P00090|CY21_RHOPA CYTOCHROME C2 >gi|65535|pir||CCRF...   189  1e-47
+SEQ gi|3121949|sp|P81153|CY21_RHOCE CYTOCHROME C2, ISO-1 (C552)           146  7e-35
+SEQ gi|3121950|sp|P81154|CY22_RHOCE CYTOCHROME C2, ISO-2 (C552)           145  1e-34
+SEQ gi|115226|sp|P07625|C551_ERYSP CYTOCHROME C-551 (C551) >gi|65540...    76  2e-13
+SEQ gi|13471158|ref|NP_102727.1| cytochrome c [Mesorhizobium loti] >...    75  3e-13
+SEQ gi|115216|sp|P12832|C550_AQUIT CYTOCHROME C-550 (C550) >gi|77533...    74  5e-13
+SEQ gi|117973|sp|P00078|CYC_CRIFA CYTOCHROME C >gi|65523|pir||CCCRCF...    71  5e-12
+SEQ gi|14278501|pdb|1IO3|A Chain A, Crystal Structure Of Ferricytoch...    70  8e-12
+SEQ gi|117783|sp|P00083|CY2_RHOVI CYTOCHROME C2 PRECURSOR >gi|65528|...    70  8e-12
+SEQ gi|117779|sp|P00092|CY2_RHORU CYTOCHROME C2 PRECURSOR >gi|65537|...    66  1e-10
+SEQ gi|809325|pdb|3C2C|    Cytochrome c2 (Reduced) >gi|809175|pdb|2C...    66  1e-10
+SEQ gi|11347245|pir||T46966 cytochrome c [imported] - Paracoccus den...    66  1e-10
+SEQ gi|117775|sp|P00094|CY2_RHOCA CYTOCHROME C2 PRECURSOR >gi|65539|...    66  1e-10
+SEQ gi|117778|sp|P00093|CY2_RHOPH CYTOCHROME C2 >gi|65538|pir||CCQF2...    66  1e-10
+SEQ gi|117979|sp|P00030|CYC_EISFO CYTOCHROME C >gi|65474|pir||CCWB c...    66  2e-10
+SEQ gi|229253|prf||671050A cytochrome c [Rana catesbeiana]                 66  2e-10
+SEQ gi|229728|pdb|1C2R|A Chain A, Cytochrome c2 >gi|229729|pdb|1C2R|...    65  2e-10
+SEQ gi|117974|sp|P00077|CYC_CRION CYTOCHROME C >gi|65522|pir||CCCRCO...    65  3e-10
+SEQ gi|118015|sp|P00024|CYC_RANCA CYTOCHROME C >gi|65466|pir||CCFG c...    65  3e-10
+SEQ gi|229410|prf||720975A cytochrome c [Crithidia oncopelti]              65  3e-10
+SEQ gi|117780|sp|P00095|CY2_RHOSH CYTOCHROME C2 PRECURSOR (CYT C2) >...    65  3e-10
+SEQ gi|65541|pir||CCRF2S cytochrome c2 precursor [validated] - Rhodo...    65  3e-10
+SEQ gi|1311208|pdb|2CXB|A Chain A, Mol_id: 1; Molecule: Cytochrome C...    65  3e-10
+SEQ gi|117774|sp|P00084|CY2_RHOAC CYTOCHROME C2 >gi|65529|pir||CCRF2...    64  7e-10
+SEQ gi|117989|sp|P00069|CYC_GUIAB CYTOCHROME C >gi|65514|pir||CCNG c...    64  7e-10
+SEQ gi|229658|pdb|155C|    Cytochrome C550                                 63  1e-09
+SEQ gi|117782|sp|P00082|CY2_RHOVA CYTOCHROME C2 >gi|65527|pir||CCRD2...    63  1e-09
+SEQ gi|117900|sp|P04657|CYC1_DROME CYTOCHROME C-1 >gi|625188|pir||B2...    62  2e-09
+SEQ gi|117967|sp|P25400|CYC_CANGA CYTOCHROME C >gi|101985|pir||S1676...    62  2e-09
+SEQ gi|118037|sp||CYC_TRYBB_3 [Segment 3 of 3] CYTOCHROME C                62  3e-09
+SEQ gi|117954|sp|P00064|CYC_ALLPO CYTOCHROME C >gi|65509|pir||CCLK c...    62  3e-09
+SEQ gi|13472452|ref|NP_104019.1| cytochrome c2 [Mesorhizobium loti] ...    62  3e-09
+SEQ gi|84002|pir||A31558 cytochrome c - Trypanosoma brucei (fragments)     62  3e-09
+SEQ gi|97412|pir||JU0381 cytochrome c550 - Thiobacillus novellus           61  4e-09
+SEQ gi|115223|sp|P23021|C550_THINO CYTOCHROME C-550 (C550)                 61  4e-09
+SEQ gi|117988|sp|P00058|CYC_GOSBA CYTOCHROME C >gi|65503|pir||CCCN c...    61  5e-09
+SEQ gi|118038|sp|P00049|CYC_USTSP CYTOCHROME C >gi|65493|pir||CCUS c...    61  5e-09
+SEQ gi|117771|sp|P00088|CY22_RHOMO CYTOCHROME C2, ISO-2 >gi|65533|pi...    61  5e-09
+SEQ gi|1827479|dbj|BAA11131.1| (D73391) type-1 cytochrome c [Ascaris...    61  6e-09
+SEQ gi|6686286|sp|P92504|CYC1_ASCSU CYTOCHROME C, TYPE-1                   61  6e-09
+SEQ gi|117960|sp|P00029|CYC_ASTRU CYTOCHROME C >gi|65473|pir||CCSF c...    61  7e-09
+SEQ gi|117981|sp|P00028|CYC_LAMTR CYTOCHROME C >gi|65470|pir||CCLM c...    60  8e-09
+SEQ gi|117965|sp|P19974|CYC_CAEEL CYTOCHROME C >gi|102467|pir||S1304...    60  8e-09
+SEQ gi|421341|pir||B40638 isocytochrome c2 - Rhodobacter sphaeroides...    60  9e-09
+SEQ gi|640328|pdb|1COT|    Cytochrome C2 (Formerly Cytochrome C550)        60  9e-09
+SEQ gi|7498369|pir||T32611 cytochrome c [validated] - Caenorhabditis...    60  1e-08
+SEQ gi|6978727|ref|NP_036972.1| cytochrome C, testis specific [Rattu...    60  1e-08
+SEQ gi|461666|sp|P80288|C550_PARDT CYTOCHROME C-550 (C550) >gi|63197...    59  1e-08
+SEQ gi|8517648|emb|CAA55828.2| (X79242) cytochrome [Paracoccus denit...    59  1e-08
+SEQ gi|11347246|pir||T46967 cytochrome c [imported] - Paracoccus den...    59  1e-08
+SEQ gi|115221|sp|P00096|C550_PARDE CYTOCHROME C-550 PRECURSOR (C550)...    59  2e-08
+SEQ gi|118022|sp|P00054|CYC_SESIN CYTOCHROME C >gi|65499|pir||CCES c...    59  2e-08
+SEQ gi|13422536|gb|AAK23192.1| (AE005798) cytochrome c family protei...    59  2e-08
+SEQ gi|118001|sp|P00014|CYC_MACGI CYTOCHROME C >gi|65455|pir||CCKGG ...    59  2e-08
+SEQ gi|117975|sp|P00023|CYC_CROAT CYTOCHROME C >gi|65471|pir||CCRS c...    59  2e-08
+SEQ gi|118004|sp|P00056|CYC_MAIZE CYTOCHROME C                             59  2e-08
+SEQ gi|118013|sp|P00052|CYC_PHAAU CYTOCHROME C >gi|65497|pir||CCMB c...    59  2e-08
+SEQ gi|117986|sp|P00072|CYC_FAGES CYTOCHROME C >gi|65517|pir||CCFA c...    59  2e-08
+SEQ gi|476418|pir||CCZM cytochrome c - maize                               59  2e-08
+SEQ gi|6753560|ref|NP_034119.1| cytochrome c, testis [Mus musculus] ...    59  2e-08
+SEQ gi|117961|sp|P00003|CYC_ATESP CYTOCHROME C >gi|65438|pir||CCMKP ...    59  2e-08
+SEQ gi|118030|sp|P00067|CYC_TROMA CYTOCHROME C >gi|65512|pir||CCNS c...    59  2e-08
+SEQ gi|2493984|sp|Q05389|CYCY_RHOCA CYTOCHROME C-TYPE CYT CY >gi|322...    59  2e-08
+SEQ gi|3329527|gb|AAC26877.1| (AF076611) cytochrome c-type cyt cy [R...    59  3e-08
+SEQ gi|117976|sp|P00051|CYC_CUCMA CYTOCHROME C >gi|65496|pir||CCPU c...    58  3e-08
+SEQ gi|2641197|gb|AAB86850.1| (AF031540) cytochrome C [Fritillaria a...    58  3e-08
+SEQ gi|1087063|gb|AAB35302.1| cytochrome c-550 [Magnetospirillum mag...    58  3e-08
+SEQ gi|117959|sp|P00065|CYC_ARUMA CYTOCHROME C                             58  3e-08
+SEQ gi|399148|sp|Q00499|C550_PARVE CYTOCHROME C-550 PRECURSOR (C550)...    58  3e-08
+SEQ gi|476417|pir||CCRM cytochrome c - cuckoopint                          58  4e-08
+SEQ gi|1942612|pdb|1HRO|B Chain B, Molecular Structure Of A High Pot...    58  4e-08
+SEQ gi|118023|sp|P00061|CYC_SOLTU CYTOCHROME C >gi|65506|pir||CCPO c...    58  4e-08
+SEQ gi|14523937|gb|AAK65467.1| (AE007268) Probable c-type cytochrome...    58  4e-08
+SEQ gi|118016|sp|P00057|CYC_RICCO CYTOCHROME C >gi|65502|pir||CCCS c...    58  4e-08
+SEQ gi|11514606|pdb|1QN2|A Chain A, Cytochrome Ch From Methylobacter...    58  4e-08
+SEQ gi|118011|sp|P00055|CYC_ORYSA CYTOCHROME C >gi|625189|pir||CCRZ ...    58  5e-08
+SEQ gi|2493977|sp|Q45233|C550_BRAJA CYTOCHROME C-550 PRECURSOR (C550...    58  5e-08
+SEQ gi|6681095|ref|NP_031834.1| cytochrome c, somatic [Mus musculus]...    58  6e-08
+SEQ gi|11128019|ref|NP_061820.1| cytochrome c [Homo sapiens] >gi|136...    58  6e-08
+SEQ gi|65436|pir||CCCZ cytochrome c - chimpanzee (tentative sequence...    58  6e-08
+SEQ gi|117773|sp|P00081|CY2_AGRTC CYTOCHROME C2 >gi|65526|pir||CCAG2...    58  6e-08
+SEQ gi|483111|pir||C04604 cytochrome c - guinea pig (tentative seque...    58  6e-08
+SEQ gi|117952|sp|P00059|CYC_ABUTH CYTOCHROME C >gi|65504|pir||CCAB c...    58  6e-08
+SEQ gi|117968|sp|P00053|CYC_CANSA CYTOCHROME C >gi|65498|pir||CCHECC...    57  7e-08
+SEQ gi|117957|sp|P00017|CYC_APTPA CYTOCHROME C >gi|65464|pir||CCPN c...    57  7e-08
+SEQ gi|350295|prf||0602215A cytochrome c [Oryza sativa]                    57  7e-08
+SEQ gi|117964|sp|P00050|CYC_BRAOL CYTOCHROME C >gi|65494|pir||CCRPBN...    57  7e-08
+SEQ gi|117995|sp|P00004|CYC_HORSE CYTOCHROME C >gi|65450|pir||CCHO c...    57  8e-08
+SEQ gi|4139756|pdb|1WEJ|F Chain F, Igg1 Fab Fragment (Of E8 Antibody...    57  8e-08
+SEQ gi|4139715|pdb|1GIW|    Solution Structure Of Reduced Horse Hear...    57  8e-08
+SEQ gi|118028|sp|P00047|CYC_THELA CYTOCHROME C >gi|65491|pir||CCHL c...    57  8e-08
+SEQ gi|13423034|gb|AAK23610.1| (AE005838) cytochrome c family protei...    57  8e-08
+SEQ gi|117955|sp|P00020|CYC_ANAPL CYTOCHROME C >gi|65461|pir||CCDK c...    57  8e-08
+SEQ gi|118014|sp|P00008|CYC_RABIT CYTOCHROME C >gi|65441|pir||CCRB c...    57  8e-08
+SEQ gi|117987|sp|P00074|CYC_GINBI CYTOCHROME C >gi|65519|pir||CCGK c...    57  9e-08
+SEQ gi|2493969|sp|P92505|CYC2_ASCSU CYTOCHROME C, TYPE-2 >gi|1834313...    57  9e-08
+SEQ gi|117902|sp|P00034|CYC2_DROME CYTOCHROME C-2 >gi|625187|pir||CC...    57  1e-07
+SEQ gi|115220|sp|P00085|C550_NITWI CYTOCHROME C-550 (C550) >gi|65530...    57  1e-07
+SEQ gi|117978|sp|P00018|CYC_DRONO CYTOCHROME C >gi|65463|pir||CCEU c...    56  1e-07
+SEQ gi|65477|pir||CCFFCM cytochrome c - Mediterranean fruit fly >gi|...    56  1e-07
+SEQ gi|118003|sp|P00002|CYC_MACMU CYTOCHROME C >gi|65437|pir||CCMQR ...    56  1e-07
+SEQ gi|118026|sp|P00019|CYC_STRCA CYTOCHROME C >gi|65462|pir||CCOS c...    56  1e-07
+SEQ gi|9955200|pdb|1C7M|A Chain A, Solution Structure Of The Functio...    56  1e-07
+SEQ gi|914117|gb|AAB33495.1| apocytochrome c [horses, heart, Peptide...    56  1e-07
+SEQ gi|117972|sp|P00021|CYC_COLLI CYTOCHROME C >gi|65458|pir||CCPY c...    56  1e-07
+SEQ gi|117770|sp|P00089|CY22_RHOFU CYTOCHROME C2, ISO-2 >gi|65534|pi...    56  1e-07
+SEQ gi|7245926|pdb|1QL3|A Chain A, Structure Of The Soluble Domain O...    56  1e-07
+SEQ gi|2506328|sp|P00070|CYC_HELAN CYTOCHROME C >gi|1235929|gb|AAA92...    56  1e-07
+SEQ gi|2493970|sp|Q23240|CYC2_CAEEL PROBABLE CYTOCHROME C >gi|751058...    56  1e-07
+SEQ gi|3913386|sp|P81280|CYC_ALLMI CYTOCHROME C >gi|7430456|pir||S30...    56  1e-07
+SEQ gi|229737|pdb|1CCR|    Cytochrome c                                    56  1e-07
+SEQ gi|117777|sp|P00080|CY2_RHOGL CYTOCHROME C2 >gi|65525|pir||CCRF2...    56  1e-07
+SEQ gi|14277932|pdb|1I54|A Chain A, Cytochrome C (Tuna) 2fe:1zn Mixe...    56  2e-07
+SEQ gi|230839|pdb|3CYT|I Chain I, Cytochrome c (Oxidized) >gi|230838...    56  2e-07
+SEQ gi|117970|sp|P00016|CYC_CHICK CYTOCHROME C >gi|625186|pir||CCCH ...    56  2e-07
+SEQ gi|65460|pir||CCTK cytochrome c - turkey (tentative sequence)          56  2e-07
+SEQ gi|224144|prf||1011182A cytochrome c [Musca sp.]                       56  2e-07
+SEQ gi|117969|sp|P00022|CYC_CHESE CYTOCHROME C >gi|65465|pir||CCST c...    56  2e-07
+SEQ gi|117982|sp|P00005|CYC_EQUAS CYTOCHROME C >gi|65448|pir||CCHOD ...    56  2e-07
+SEQ gi|117977|sp|P00026|CYC_CYPCA CYTOCHROME C, ISO-1 AND ISO-2 >gi|...    56  2e-07
+SEQ gi|117984|sp|P00076|CYC_EUGGR CYTOCHROME C >gi|65521|pir||CCEG c...    56  2e-07
+SEQ gi|118018|sp|P00062|CYC_SAMNI CYTOCHROME C >gi|65507|pir||CCED c...    56  2e-07
+SEQ gi|6116892|dbj|BAA85768.1| (AB033762) cytochrome c549 [Fusarium ...    56  2e-07
+SEQ gi|118000|sp|P00060|CYC_LYCES CYTOCHROME C >gi|65505|pir||CCTO c...    56  2e-07
+SEQ gi|65515|pir||CCFS cytochrome c - common sunflower (tentative se...    56  2e-07
+SEQ gi|443201|pdb|1RAQ|    Rep A2 Iso-1-Cytochrome C (Reduced State)...    56  2e-07
+SEQ gi|1705527|sp|P54820|C552_PARDE CYTOCHROME C-552 (C552) >gi|3216...    55  2e-07
+SEQ gi|117985|sp|P22342|CYC_EUGVI CYTOCHROME C >gi|7430455|pir||S154...    55  3e-07
+SEQ gi|229351|prf||711086A cytochrome c [Equus burchelli]                  55  3e-07
+SEQ gi|13474583|ref|NP_106152.1| cytochrome c [Mesorhizobium loti] >...    55  3e-07
+SEQ gi|117963|sp|P00006|CYC_BOVIN CYTOCHROME C >gi|65445|pir||CCPG c...    55  3e-07
+SEQ gi|117990|sp|P00035|CYC_HAEIR CYTOCHROME C >gi|65479|pir||CCFHHF...    55  3e-07
+SEQ gi|118005|sp|P00039|CYC_MANSE CYTOCHROME C                             55  3e-07
+SEQ gi|914118|gb|AAB33496.1| apocytochrome c [chickens, heart, Pepti...    55  3e-07
+SEQ gi|1169167|sp|P00046|CYC_SCHPO CYTOCHROME C >gi|7430457|pir||T42...    55  4e-07
+SEQ gi|117983|sp|P00010|CYC_ESCGI CYTOCHROME C >gi|65442|pir||CCGW c...    55  4e-07
+SEQ gi|117956|sp|P00038|CYC_APIME CYTOCHROME C >gi|65484|pir||CCHB c...    55  4e-07
+SEQ gi|443200|pdb|1RAP|    Rep A2 Iso-1-Cytochrome C (Reduced State)...    55  4e-07
+SEQ gi|118025|sp|P00027|CYC_SQUSU CYTOCHROME C >gi|65469|pir||CCDF c...    54  4e-07
+SEQ gi|117962|sp|P12831|CYC_SARPE CYTOCHROME C >gi|85278|pir||B25506...    54  4e-07
+SEQ gi|117998|sp|P00025|CYC_KATPE CYTOCHROME C >gi|65467|pir||CCBN c...    54  4e-07
+SEQ gi|224145|prf||1011182B cytochrome c [Musca sp.]                       54  4e-07
+SEQ gi|118024|sp|P00073|CYC_SPIOL CYTOCHROME C >gi|65518|pir||CCSP c...    54  5e-07
+SEQ gi|3986693|gb|AAC84135.1| (AF101422) cytochrome [Cichorium intybus]    54  5e-07
+SEQ gi|117958|sp|P29380|CYC_ARATH CYTOCHROME C >gi|16177|emb|CAA4206...    54  6e-07
+SEQ gi|13649176|ref|XP_018139.1| similar to cytochrome c (H. sapiens...    54  6e-07
+SEQ gi|118010|sp|P00066|CYC_NIGDA CYTOCHROME C >gi|65511|pir||CCND c...    54  6e-07
+SEQ gi|13474101|ref|NP_105669.1| cytochrome c-1 [Mesorhizobium loti]...    54  7e-07
+SEQ gi|117966|sp|P00011|CYC_CANFA CYTOCHROME C >gi|65452|pir||CCDG c...    54  7e-07
+SEQ gi|118007|sp|P00012|CYC_MIRLE CYTOCHROME C >gi|65453|pir||CCSLE ...    54  7e-07
+SEQ gi|117999|sp|P00036|CYC_LUCCU CYTOCHROME C >gi|65480|pir||CCHFGB...    54  7e-07
+SEQ gi|118017|sp|P00037|CYC_SAMCY CYTOCHROME C >gi|65482|pir||CCMT c...    54  7e-07
+SEQ gi|117953|sp|P00063|CYC_ACENE CYTOCHROME C >gi|65508|pir||CCBX c...    54  7e-07
+SEQ gi|118002|sp|P00031|CYC_MACMA CYTOCHROME C >gi|65475|pir||CCMM c...    54  7e-07
+SEQ gi|117993|sp|P00032|CYC_HELAS CYTOCHROME C >gi|65476|pir||CCHA c...    54  8e-07
+SEQ gi|117971|sp|P15451|CYC_CHLRE CYTOCHROME C >gi|322374|pir||S2951...    54  9e-07
+SEQ gi|118039|sp|P21665|CYC_VARVA CYTOCHROME C                             54  9e-07
+SEQ gi|117994|sp|P00007|CYC_HIPAM CYTOCHROME C >gi|65451|pir||CCHP c...    53  1e-06
+SEQ gi|65483|pir||CCWOT cytochrome c - tobacco hornworm (tentative s...    53  1e-06
+SEQ gi|6322508|ref|NP_012582.1| iso-1-cytochrome c; Cyc1p [Saccharom...    53  1e-06
+SEQ gi|230404|pdb|1YCC|    Cytochrome C (Isozyme 1) (Reduced) >gi|44...    53  1e-06
+SEQ gi|230789|pdb|2YCC|    Cytochrome c (Isozyme 1) (Oxidized) (Muta...    53  1e-06
+SEQ gi|2462840|gb|AAB72175.1| (AF000657) cytochrome C [Arabidopsis t...    53  1e-06
+SEQ gi|1942620|pdb|1IRV|    Cytochrome C Isozyme 1, Reduced, Mutant ...    53  1e-06
+SEQ gi|1706238|sp|P53698|CYC_CANAL CYTOCHROME C >gi|1373423|gb|AAB68...    53  1e-06
+SEQ gi|4416526|gb|AAB86817.3| (AF030426) cytochrome c [Pichia stipitis]    53  1e-06
+SEQ gi|118019|sp|P00040|CYC_SCHGR CYTOCHROME C >gi|65481|pir||CCLQ c...    53  1e-06
+SEQ gi|1942082|pdb|1YFC|    Solution Nmr Structure Of A Semi-Synthet...    53  1e-06
+SEQ gi|2392633|pdb|1YIC|    The Oxidized Saccharomyces Cerevisiae Is...    53  1e-06
+SEQ gi|118020|sp|P19681|CYC_DEBOC CYTOCHROME C >gi|83632|pir||S11172...    52  2e-06
+SEQ gi|118006|sp|P00013|CYC_MINSC CYTOCHROME C >gi|65454|pir||CCBTS ...    52  2e-06
+SEQ gi|118029|sp|P00043|CYC_DEBHA CYTOCHROME C >gi|65486|pir||CCDBK ...    52  2e-06
+SEQ gi|999610|pdb|1CSW|    Cytochrome C (Isozyme 1) (Reduced) Mutant...    52  2e-06
+SEQ gi|2394300|gb|AAB70265.1| (AF017367) cytochrome C [Oryza sativa]       52  2e-06
+SEQ gi|3930736|gb|AAC80537.1| (AF091469) cytochrome c-1 [Tigriopus c...    52  2e-06
+SEQ gi|118009|sp|P00048|CYC_NEUCR CYTOCHROME C >gi|2144283|pir||CCNC...    52  2e-06
+SEQ gi|118012|sp|P00071|CYC_PASSA CYTOCHROME C >gi|65516|pir||CCPZ c...    52  2e-06
+SEQ gi|999613|pdb|1CSX|    Cytochrome C (Isozyme 1) (Reduced) Mutant...    52  2e-06
+SEQ gi|809293|pdb|1CHJ|    Cytochrome C (Isozyme 1) (Reduced) Mutant...    52  2e-06
+SEQ gi|515755|gb|AAA30178.1| (M23360) cytochrome C [Trypanosoma brucei]    52  3e-06
+SEQ gi|809291|pdb|1CHH|    Cytochrome C (Isozyme 1) (Reduced) Mutant...    52  3e-06
+SEQ gi|2493971|sp|Q41346|CYC_STELP CYTOCHROME C >gi|440586|emb|CAA79...    52  3e-06
+SEQ gi|999608|pdb|1CSV|    Cytochrome C (Isozyme 1) (Reduced) Mutant...    52  3e-06
+SEQ gi|442771|pdb|1CTZ|    Cytochrome c (Isozyme 1) (Reduced) Mutant...    52  3e-06
+SEQ gi|3930728|gb|AAC80533.1| (AF091465) cytochrome c-1 [Tigriopus c...    52  3e-06
+SEQ gi|3930746|gb|AAC80542.1| (AF091474) cytochrome c-1 [Tigriopus c...    52  3e-06
+SEQ gi|1127150|pdb|1FHB|    Mol_id: 1; Molecule: Ferricytochrome C; ...    51  4e-06
+SEQ gi|443333|pdb|1YEB|    Cytochrome C (B-2036 Composite, Reduced S...    51  4e-06
+SEQ gi|229426|prf||721942A cytochrome c iso2 [Saccharomyces cerevisiae]    51  4e-06
+SEQ gi|118040|sp|P00068|CYC_WHEAT CYTOCHROME C >gi|65513|pir||CCWT c...    51  4e-06
+SEQ gi|999607|pdb|1CSU|    Cytochrome C (Isozyme 1) (Reduced) Mutant...    51  5e-06
+SEQ gi|3930756|gb|AAC80547.1| (AF091479) cytochrome c-1 [Tigriopus c...    51  5e-06
+SEQ gi|3930762|gb|AAC80550.1| (AF091482) cytochrome c-1 [Tigriopus c...    51  5e-06
+SEQ gi|117991|sp|P00042|CYC_HANAN CYTOCHROME C >gi|65485|pir||CCHQ c...    51  5e-06
+SEQ gi|1942621|pdb|1IRW|    Cytochrome C Isozyme 1, Reduced, Mutant ...    51  5e-06
+SEQ gi|6320796|ref|NP_010875.1| iso-2-cytochrome c; Cyc7p [Saccharom...    51  5e-06
+SEQ gi|443332|pdb|1YEA|    Cytochrome C (Iso-2, Reduced State)             51  5e-06
+SEQ gi|809292|pdb|1CHI|    Cytochrome C (Isozyme 1) (Reduced) Mutant...    51  6e-06
+SEQ gi|7430458|pir||T04008 cytochrome c - Arabidopsis thaliana >gi|4...    51  6e-06
+SEQ gi|4336675|gb|AAD17888.1| (AF101072) cytochrome C2 [Bradyrhizobi...    51  6e-06
+SEQ gi|3930750|gb|AAC80544.1| (AF091476) cytochrome c-1 [Tigriopus c...    51  7e-06
+SEQ gi|3930752|gb|AAC80545.1| (AF091477) cytochrome c-1 [Tigriopus c...    51  7e-06
+SEQ gi|542379|pir||S41568 cytochrome c - Emericella nidulans               50  1e-05
+SEQ gi|117980|sp|P00075|CYC_ENTIN CYTOCHROME C >gi|65520|pir||CCEI c...    50  1e-05
+SEQ gi|3930720|gb|AAC80529.1| (AF091461) cytochrome c-1 [Tigriopus c...    50  1e-05
+SEQ gi|3930768|gb|AAC80553.1| (AF091485) cytochrome c-1 [Tigriopus c...    50  1e-05
+SEQ gi|4105488|gb|AAD02430.1| (AF047169) cytochrome c [Pachysolen ta...    50  1e-05
+SEQ gi|13644157|ref|XP_018248.1| similar to cytochrome c (H. sapiens...    50  1e-05
+SEQ gi|2506327|sp|P38091|CYC_EMENI CYTOCHROME C >gi|1899007|gb|AAB50...    50  1e-05
+SEQ gi|3930732|gb|AAC80535.1| (AF091467) cytochrome c-1 [Tigriopus c...    49  2e-05
+SEQ gi|3930722|gb|AAC80530.1| (AF091462) cytochrome c-1 [Tigriopus c...    49  2e-05
+SEQ gi|2829474|sp|P56205|CYC_ASPNG CYTOCHROME C >gi|626996|pir||A614...    49  3e-05
+SEQ gi|996099|pdb|1CIF|    Cytochrome C (Isozyme 1) (Reduced) Mutant...    49  3e-05
+SEQ gi|493951|pdb|1CRG|    Cytochrome C (Isozyme 1) (Oxidized) Mutan...    48  3e-05
+SEQ gi|493952|pdb|1CRH|    Cytochrome C (Isozyme 1) (Reduced) Mutant...    48  3e-05
+SEQ gi|416862|sp|P32556|CYC_KLULA CYTOCHROME C >gi|283087|pir||S1797...    48  4e-05
+SEQ gi|996096|pdb|1CIE|    Cytochrome C (Isozyme 1) (Reduced) Mutant...    48  4e-05
+SEQ gi|1421427|pdb|1YTC|    Mol_id: 1; Molecule: Yeast Iso-2 Cytochr...    47  5e-05
+SEQ gi|996103|pdb|1CIG|    Cytochrome C (Isozyme 1) (Reduced) Mutant...    47  7e-05
+SEQ gi|159497|gb|AAA29308.1| (M11382) cytochrome C [Manduca sexta]         47  7e-05
+SEQ gi|13424561|gb|AAK24897.1| (AE005958) cytochrome c, membrane-bou...    47  7e-05
+SEQ gi|493953|pdb|1CRI|    Cytochrome C (Isozyme 1) (Oxidized) Mutan...    47  9e-05
+SEQ gi|117768|sp|P00087|CY21_RHOMO CYTOCHROME C2, ISO-1 >gi|65532|pi...    46  1e-04
+SEQ gi|13645951|ref|XP_016876.1| similar to cytochrome c (H. sapiens...    46  2e-04
+SEQ gi|996107|pdb|1CIH|    Cytochrome C (Isozyme 1) (Reduced) Mutant...    45  3e-04
+SEQ gi|117997|sp|P00041|CYC_ISSOR CYTOCHROME C >gi|65487|pir||CCCK c...    45  3e-04
+SEQ gi|118027|sp|P00079|CYC_TETPY CYTOCHROME C >gi|65524|pir||CCTE c...    45  4e-04
+SEQ 
+## SEQUENCE PROFILE AND ENTROPY
+ SeqNo PDBNo   V   L   I   M   F   W   Y   G   A   P   S   T   C   H   R   K   Q   E   N   D  NOCC NDEL NINS ENTROPY RELENT WEIGHT
+    1    1     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+    2    2     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   6  94     0    0    0   0.258      8  0.00
+    3    3    26   1   9   0   1   0   3   0  45   8   4   1   0   0   0   1   0   1   1   0     0    0    0   1.601     53  0.00
+    4    4     2   0   0   0   0   0   0   0  16   1   1   1   0   0   0  38   0  34   0   5     0    0    0   1.473     49  0.00
+    5    5     1   1   0   0   0   0   0   1  25   0   6   0   0   1   2  59   0   0   2   0     0    0    0   1.238     41  0.00
+    6    6     0   0   0   0   1   0   0  97   0   0   0   0   0   0   0   1   0   0   0   0     0    0    0   0.182      6  0.00
+    7    7     0   0   0   0   0   0   0   0  27   0   0   0   0   0   1  38   3  29   0   0     0    0    0   1.332     44  0.00
+    8    8     1   0   0   0   0   0   0   0   5   0   1  20   0   0   1  63   2   0   4   0     0    0    0   1.238     41  0.00
+    9    9    14  25  48   0   2   0   0   0   5   0   0   0   0   0   1   1   0   3   0   0     0    0    0   1.434     47  0.00
+   10   10     1   0   0   0  94   0   1   0   1   0   1   0   1   0   0   0   0   0   0   0     0    0    0   0.325     10  0.00
+   11   11    13   0   0   0   0   1   0   2  11   0   9   1   0   0   1  50   2   2   8   0     0    0    0   1.674     55  0.00
+   12   12     0   1   0   0   0   0   0   0   0   0   1   0   0   0  21  30  44   1   0   0     0    0    0   1.252     41  0.00
+   13   13     0   0   0   0   0   0   0   0   1   0   0   0  99   0   0   0   0   0   0   0     0    0    0   0.051      1  0.00
+   14   14     0  19   1   4   0   0   0   2  30   0   1   6   0  21   1   8   5   0   0   0     0    0    0   1.944     64  0.00
+   15   15     1   0   2   1   0   0   0   0  15   0   1  27   0   0   0   0  51   0   0   0     0    0    0   1.272     42  0.00
+   16   16    17   1   0   0   0   0   0   1   0   0   0   0  80   0   0   0   0   0   0   0     0    0    0   0.632     21  0.00
+   17   17     0   0   0   0   0   0   0   1   1   0   0   0   0  79   0   0   0  19   0   0     0    0    0   0.632     21  0.00
+   18   18     4   0   0   2   0   0   0   0   3   0   6  50   0   0   4  23   2   4   1   1     0    0    0   1.631     54  0.00
+   19   19    45   3  12   0   3   0   0  26   8   0   1   0   0   0   0   0   0   1   0   0     0    0    0   1.558     51  0.00
+   20   20     0   0   0   0   0   0   0  29   5   0   0   0   0   0   0   1   4  42   1  18     0    0    0   1.435     47  0.00
+   21   21     0   0   0   0   0   0   0   5   7   2   2   0   0   0   4  71   4   4   0   1     0    0    0   1.160     38  0.00
+   22   22     0   0   0   0   0   0   0   3   1   0   0   1   0  63   0   1   0   0  28   1     0    0    0   1.021     34  0.00
+   23   23     0   2   0   2   0   0   0   9   5   0   1   0   0   0   0  81   0   0   0   0     0    0    0   0.785     26  0.00
+   24   24    49   0   4   0   0   0   0   0   1   0   0  29   0   0   0   0  15   1   0   0     0    0    0   1.294     43  0.00
+   25   25     0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.028      0  0.00
+   26   26     0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   27   27     2   0   0   0   0   0   0   0   4   1   4   3   0   3   1   0   0   3  78   0     0    0    0   1.027     34  0.00
+   28   28     0 100   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.028      0  0.00
+   29   29     0   0   0   0   3   4   9   3   2   0   2   1   0  48   0   1   0   0  25   1     0    0    0   1.602     53  0.00
+   30   30     0   0   0   0   0   0   0  97   0   0   0   0   0   0   0   0   0   0   0   2     0    0    0   0.144      4  0.00
+   31   31    24  45  23   5   2   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.298     43  0.00
+   32   32    16   1   8   0  64   0   8   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.175     39  0.00
+   33   33     0   0   0   0   0   0   0  95   0   0   0   0   0   0   0   0   0   1   1   1     0    0    0   0.272      9  0.00
+   34   34     0   0   0   0   0   0   0   0   2   0   0   0   0   0  96   0   0   0   1   0     0    0    0   0.238      7  0.00
+   35   35     0   0   0   0   0   0   0   0   2   1   0   9   0  18   1  45  23   0   0   0     0    0    0   1.463     48  0.00
+   36   36     3   0   2   1   0   0   1   0  14   1  42  35   0   0   0   0   0   0   0   0     0    0    0   1.371     45  0.00
+   37   37     0   0   0   0   0   0   0  92   8   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.275      9  0.00
+   38   38     1   1   1   0   0   0   0   2   3   0   8  30   0   1   0   3  48   1   0   0     0    0    0   1.474     49  0.00
+   39   39    15   2   3   0   1   0   1   0  55   0   1  14   0   1   0   1   1   3   0   0     0    0    0   1.547     51  0.00
+   40   40     2   0   0   0   0   0   0   1  30  24   3   0   0   0   0   3   1  32   0   3     0    0    0   1.570     52  0.00
+   41   41     0   0   0   0   0   0   0  92   0   0   1   0   0   0   0   0   0   1   1   5     0    0    0   0.354     11  0.00
+   42   42     0   0   0   0  50   0  50   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.718     23  0.00
+   43   43     0   0   0   0   0   0   0   0  13   0  59   6   0   0   1   8   0   0   9   3     0    0    0   1.372     45  0.00
+   44   44     0   0   0   0   2   0  98   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.088      2  0.00
+   45   45     0   0   0   0   0   0   0   4   0   0  43  51   0   0   0   1   0   0   0   0     0    0    0   0.896     29  0.00
+   46   46     0   0   0   0   0   0   0   0  21   6   0   4   0   0   1   5   0   7   4  53     0    0    0   1.479     49  0.00
+   47   47     0   5   0   2   0   0   0   4  83   1   2   2   0   0   0   0   0   0   0   0     0    0    0   0.766     25  0.00
+   48   48     0   4   2   6   0   0   2   0   0   0   0   0   0   1   0   2   0   2  80   1     0    0    0   0.909     30  0.00
+   49   49     4   1  14   0   0   0   0   0   2   0   0   2   0   3   1  68   2   0   0   4     0    0    0   1.221     40  0.00
+   50   50     1   0   0   0   0   0   0   3  14   0  13   0   0   2   1   3   0   6  54   3     0    0    0   1.531     51  0.00
+   51   51     1   2   4   3   1   0   0   2   8   0  15   0   0   3   1  58   0   3   0   0     0    0    0   1.533     51  0.00
+   52   52     2   0  13   0   0   0   0  44  15   0   2   2   0   0   2  17   0   0   4   0     0    0    0   1.624     54  0.00
+   53   53     1   0   0   0   0   0   0   1  28   0   1   0   0   0   1  37  11  10   8   3     0    0    0   1.682     56  0.00
+   54   54     0   0   0  16   0   0   0   1  17   4   5   0   0   0   0  51   0   3   0   3     0    0    0   1.473     49  0.00
+   55   55     0   0   0   0   0   0   0  63  18   0   0   0   0   0   0   0   0   0  15   4     0    0    0   1.075     35  0.00
+   56   56    46  13  35   0   3   0   0   0   0   1   0   0   0   0   0   0   0   0   0   1     0    0    0   1.266     42  0.00
+   57   57    17  13  10   1   0   0   0   0   3   0   0  41   0   1   0   3   1   5   4   0     0    0    0   1.800     60  0.00
+   58   58     0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.028      0  0.00
+   59   59     0   0   0   0   0   0   0  19   1   0   3  22   0   0   0   4   2  10  12  27     0    0    0   1.841     61  0.00
+   60   60     0   1   0   0   0   0   1   0   6   6   0   0   0   0   2   2   2  71   2   5     0    0    0   1.204     40  0.00
+   61   61     0   0   0   0   0   0   0   0   9   2   1   0   0   0   0   4   6  27  22  28     0    0    0   1.721     57  0.00
+   62   62     4   0   1   0   0   0   0   0   3   0   5  61   0   2   0   1   0   1  17   4     0    0    0   1.380     46  0.00
+   63   63     0  75   4  17   4   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.781     26  0.00
+   64   64     3   0   3  19  15   0  17   0   2   0  18   3   0   1   2   2   2   1   1  11     0    0    0   2.231     74  0.00
+   65   65     4   0   6   0   0   0   0   0   5   1   1   2   0   0   0   5   3  52   0  20     0    0    0   1.600     53  0.00
+   66   66     0   0   0   0   7   1  92   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.321     10  0.00
+   67   67     6  88   5   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.473     15  0.00
+   68   68     1  18   0   0   0   0   0   0   6   1   1  24   0   0   1   4   1  41   0   0     0    0    0   1.633     54  0.00
+   69   69     0   0   0   0   0   0   0   0   2   0   1   0   0   1   0   0   0   0  81  14     0    0    0   0.658     21  0.00
+   70   70     0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   71   71     0   0   0   0   0   0   0   2   0   0   0   2   0   0   1  89   1   0   3   0     0    0    0   0.551     18  0.00
+   72   72     0   0   0   0   0   0   0   3  12   2   0   0   0   0   0  81   0   0   0   0     0    0    0   0.698     23  0.00
+   73   73     2   1   0   1  13   2  80   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.733     24  0.00
+   74   74     5   9  80   6   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.722     24  0.00
+   75   75     2   1   0   0   0   0   0   0   0  86   0   0   0   0   2   9   0   0   0   0     0    0    0   0.578     19  0.00
+   76   76     0   0   0   1   0   0   0  88   1   0   0   0   0   0   0   6   0   5   1   0     0    0    0   0.492     16  0.00
+   77   77     6   0   0  19  38   0  25   0   0   0   0   0   0   6   0   0   0   6   0   0     0    0    0   1.548     51  0.00
+   78   78     7  43   7   0   7   0   0   0   0   0   0  36   0   0   0   0   0   0   0   0     0    0    0   1.296     43  0.00
+   79   79     0   0   7   0   0   0   0   7  13   7   0  47   0   0   0   0   0   0   0  20     0    0    0   1.488     49  0.00
+   80   80     0   0   0   0   0   0   0  20   0   7   0   0   0   0   0   0   0  20   0  53     0    0    0   1.160     38  0.00
+   81   81     0   7   0   0   0   0   0   7  14   0   0   0   0   0   0  50   7   0   0  14     0    0    0   1.468     49  0.00
+   82   82     0   0   0   0   0   0   0  64  21   0   0   0   0   0   0   7   0   0   7   0     0    0    0   0.991     33  0.00
+   83   83     0   0   0   0   0   0   0   0  14   0   0   0   0   5   0  71   5   0   5   0     0    0    0   0.953     31  0.00
+   84   84     0  10   0   5   0   0   0   0  38   5  14  14   0   0   0  14   0   0   0   0     0    0    0   1.716     57  0.00
+   85   85     0   0   0   0   0   0   0  37   0   0   0   0   0   0   0  11   0  11   0  42     0    0    0   1.206     40  0.00
+   86   86     0   0   0   0   0   0   0   0   7   0   0   0   0   0   0  41  15   4   0  33     0    0    0   1.330     44  0.00
+   87   87     6   0   6   0   0   0   9   0  29  12   9   0   0   3   3  21   0   3   0   0     0    0    0   2.010     67  0.00
+   88   88    48   0  13   3   3   0   0   0  10   0   0   3   0   0   0  23   0   0   0   0     0    0    0   1.456     48  0.00
+   89   89     0   0   0   0   0   0   0  27  22  42   2   4   0   0   0   0   0   0   0   2     0    0    0   1.358     45  0.00
+   90   90    11   2   0   0   0   0   0  50   0   0   7   7   0   0   2  18   0   0   2   0     0    0    0   1.528     51  0.00
+   91   91     0   0   0   0   0   0   0   1   0   0   2  91   0   0   0   2   0   0   2   0     0    0    0   0.446     14  0.00
+   92   92     0   0   0   2   0   0   0   1   0   0   0   0   0   0   2  94   0   0   0   0     0    0    0   0.304     10  0.00
+   93   93     1   0   0  97   0   0   0   0   2   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.141      4  0.00
+   94   94    31   0  25   0   1   0   0   2  26   0   6   9   0   0   0   0   0   0   0   0     0    0    0   1.581     52  0.00
+   95   95     0   0   0   0  93   0   3   1   1   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.347     11  0.00
+   96   96     0   0   0   0   0   0   0  26  44  18   1   0   0   0   2   9   0   0   0   0     0    0    0   1.372     45  0.00
+   97   97     1  70  23   2   1   0   0   1   0   0   0   0   0   0   0   0   1   0   0   0     0    0    0   0.922     30  0.00
+   98   98     0   0   0   0   0   0   0   2   5   7   0   1   0   0   0  82   0   0   0   0     0    0    0   0.751     25  0.00
+   99   99     0   0   0   0   0   0   0   0   1   0   1   0   0   0   0  86   0   0   7   4     0    0    0   0.576     19  0.00
+  100  100     0   0   1   0   0   0   0   1   7  31   0   2   0   0   0  24   1  24   3   5     0    0    0   1.767     58  0.00
+  101  101     0   0   1   0   0   0   0  12   6   0   5   4   0   0   0  27  27   8   5   6     0    0    0   1.976     65  0.00
+  102  102     0   0   0   0   0   0   0   1   1   0   0   0   0   0   1   2   2  46   0  46     0    0    0   1.047     34  0.00
+  103  103     4   0   1   0   0   0   0   1   2   0   0   0   0   0  91   0   0   0   0   0     0    0    0   0.432     14  0.00
+  104  104     2   0   1   0   0   0   0   3  48   0   1   0   0   1   0   4   3  11  22   2     0    0    0   1.651     55  0.00
+  105  105     0   0   0   0   0   0   0   0   4   0   0   0   0   0   0   0   0   0   8  88     0    0    0   0.478     15  0.00
+  106  106    14  78   7   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0     0    0    0   0.714     23  0.00
+  107  107    10   1  84   1   0   2   0   0   2   0   0   0   0   0   0   0   0   1   0   0     0    0    0   0.645     21  0.00
+  108  108     0   0   0   0   0   0   0   0  73   0   2  21   0   0   0   2   0   0   0   0     0    0    0   0.798     26  0.00
+  109  109     0   0   0   0   5   0  95   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.209      6  0.00
+  110  110     0  91   4   5   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.361     12  0.00
+  111  111     0   0   0   0   0   0   0   0  37   0   2   0   0   4   2  35   0  16   2   2     0    0    0   1.461     48  0.00
+  112  112     0   0   0   0   0   0   0   0   0   0  23  68   0   0   0   0   5   0   5   0     0    0    0   0.879     29  0.00
+  113  113    21  71   0   3   3   0   0   0   0   0   0   0   0   0   0   0   0   0   3   0     0    0    0   0.882     29  0.00
+  114  114     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  96   4   0   0   0     0    0    0   0.173      5  0.00
+//

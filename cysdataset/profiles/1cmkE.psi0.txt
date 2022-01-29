@@ -1,0 +1,1356 @@
+ID Pseudo hssp file.
+SEQ 
+SEQ gi|576052|pdb|1CMK|E Chain E, Camp-Dependent Protein Kinase Cata...   695  0.0
+SEQ gi|493956|pdb|1CTP|E Chain E, Camp-Dependent Protein Kinase (E.C...   693  0.0
+SEQ gi|4506055|ref|NP_002721.1| protein kinase, cAMP-dependent, cata...   688  0.0
+SEQ gi|8568075|gb|AAF76423.1|AF238979_1 (AF238979) cAMP-dependent pr...   688  0.0
+SEQ gi|1346363|sp|P00517|KAPA_BOVIN CAMP-DEPENDENT PROTEIN KINASE, A...   688  0.0
+SEQ gi|2098412|pdb|1YDR|E Chain E, Structure Of Camp-Dependent Prote...   683  0.0
+SEQ gi|2982123|pdb|1STC|E Chain E, Camp-Dependent Protein Kinase, Al...   683  0.0
+SEQ gi|200367|gb|AAA39936.1| (M12303) cAMP-dependent protein kinase ...   680  0.0
+SEQ gi|125207|sp|P27791|KAPA_RAT CAMP-DEPENDENT PROTEIN KINASE, ALPH...   679  0.0
+SEQ gi|125204|sp|P25321|KAPA_CRIGR CAMP-DEPENDENT PROTEIN KINASE, AL...   679  0.0
+SEQ gi|7110693|ref|NP_032880.1| protein kinase, cAMP dependent, cata...   678  0.0
+SEQ gi|349839|pdb|1ATP|E Chain E, c-AMP-Dependent Protein Kinase (E....   678  0.0
+SEQ gi|349816|pdb|1APM|E Chain E, c-AMP-Dependent Protein Kinase (E....   677  0.0
+SEQ gi|2914581|pdb|1FMO|E Chain E, Crystal Structure Of A Polyhistid...   674  0.0
+SEQ gi|4929932|pdb|1BX6|    Crystal Structure Of The Potent Natural ...   672  0.0
+SEQ gi|8568077|gb|AAF76424.1|AF238980_1 (AF238980) sperm cAMP-depend...   664  0.0
+SEQ gi|125209|sp|P05131|KAPB_BOVIN CAMP-DEPENDENT PROTEIN KINASE, BE...   646  0.0
+SEQ gi|4506057|ref|NP_002722.1| protein kinase, cAMP-dependent, cata...   645  0.0
+SEQ gi|6755076|ref|NP_035230.1| protein kinase, cAMP dependent, cata...   639  0.0
+SEQ gi|125212|sp|P05383|KAPB_PIG CAMP-DEPENDENT PROTEIN KINASE, BETA...   629  e-179
+SEQ gi|125218|sp|P24256|KAPI_BOVIN CAMP-DEPENDENT PROTEIN KINASE, BE...   626  e-178
+SEQ gi|285145|pir||A60543 protein kinase (EC 2.7.1.37), cAMP-depende...   615  e-175
+SEQ gi|102679|pir||S19028 protein kinase (EC 2.7.1.37) A, cAMP-depen...   599  e-170
+SEQ gi|102678|pir||S19027 protein kinase A (EC 2.7.1.-) catalytic ch...   597  e-170
+SEQ gi|125217|sp|P22612|KAPG_HUMAN CAMP-DEPENDENT PROTEIN KINASE, GA...   593  e-168
+SEQ gi|4506059|ref|NP_002723.1| protein kinase, cAMP-dependent, cata...   593  e-168
+SEQ gi|7511413|pir||T21211 hypothetical protein ZK909.2a - Caenorhab...   591  e-168
+SEQ gi|3115220|emb|CAA04863.1| (AJ001597) cAMP-dependent protein kin...   591  e-168
+SEQ gi|125214|sp|P21137|KAPC_CAEEL CAMP-DEPENDENT PROTEIN KINASE CAT...   589  e-167
+SEQ gi|665540|gb|AAC46513.1| (U15983) cAMP-dependent protein kinase ...   586  e-166
+SEQ gi|125215|sp|P12370|KAPC_DROME CAMP-DEPENDENT PROTEIN KINASE CAT...   584  e-166
+SEQ gi|9650645|emb|CAC00652.1| (AJ271674) putative cAMP-dependent pr...   584  e-166
+SEQ gi|4322296|gb|AAD16002.1| (AF077331) cAMP-dependent protein kina...   579  e-164
+SEQ gi|4322300|gb|AAD16004.1| (AF077333) cAMP-dependent protein kina...   576  e-163
+SEQ gi|4322298|gb|AAD16003.1| (AF077332) cAMP-dependent protein kina...   575  e-163
+SEQ gi|1890142|dbj|BAA18952.1| (D83380) catalytic subunit of cAMP-de...   564  e-160
+SEQ gi|7511414|pir||T21212 hypothetical protein ZK909.2b - Caenorhab...   536  e-151
+SEQ gi|476513|pir||OKKWC2 protein kinase (EC 2.7.1.37), cAMP-depende...   534  e-151
+SEQ gi|13639594|ref|XP_005375.2| protein kinase, cAMP-dependent, cat...   527  e-149
+SEQ gi|284054|pir||A38143 protein kinase (EC 2.7.1.37), cAMP-depende...   385  e-106
+SEQ gi|631936|pir||S41099 protein kinase (EC 2.7.1.37), cAMP-depende...   376  e-103
+SEQ gi|507141|gb|AAA19440.1| (M81709) cAMP-dependent protein kinase ...   376  e-103
+SEQ gi|545623|gb|AAB30032.1| cAMP-dependent protein kinase C subunit...   376  e-103
+SEQ gi|6016421|sp|O62846|KAPG_MACMU CAMP-DEPENDENT PROTEIN KINASE, G...   360  2e-98
+SEQ gi|462434|sp|P34099|KAPC_DICDI CAMP-DEPENDENT PROTEIN KINASE CAT...   355  5e-97
+SEQ gi|125318|sp|P16912|KDC2_DROME PROTEIN KINASE DC2 >gi|85238|pir|...   353  2e-96
+SEQ gi|4826948|ref|NP_005035.1| protein kinase, X-linked [Homo sapie...   353  2e-96
+SEQ gi|11096026|gb|AAG30145.1|AF288613_1 (AF288613) cAMP dependent p...   350  2e-95
+SEQ gi|773642|gb|AAA75366.1| (U23730) vinclozolin resistance protein...   344  8e-94
+SEQ gi|516040|gb|AAA93199.1| (U12335) cAMP-dependent protein kinase ...   343  2e-93
+SEQ gi|2911458|gb|AAC04355.1| (AF046921) cAMP-dependent protein kina...   343  2e-93
+SEQ gi|241277|gb|AAB20716.1| serine/threonine protein kinase [Dictyo...   342  4e-93
+SEQ gi|13905166|gb|AAH06875.1|AAH06875 (BC006875) Similar to putativ...   342  4e-93
+SEQ gi|4587211|dbj|BAA76665.1| (AB021126) cAMP-dependent protein kin...   342  5e-93
+SEQ gi|8453189|gb|AAF75276.1|AF264760_1 (AF264760) cAMP-dependent pr...   341  1e-92
+SEQ gi|11493951|gb|AAG35720.1|AF208004_1 (AF208004) cAMP-dependent p...   339  3e-92
+SEQ gi|9858805|gb|AAG01142.1|AF283106_1 (AF283106) protein kinase A ...   338  7e-92
+SEQ gi|173011|gb|AAA35165.1| (M17073) cAMP-dependent protein kinase ...   337  1e-91
+SEQ gi|11596395|gb|AAG38600.1|AF317473_1 (AF317473) cAMP-dependent p...   337  1e-91
+SEQ gi|6325053|ref|NP_015121.1| cAMP-dependent protein kinase cataly...   337  2e-91
+SEQ gi|1438885|gb|AAC47172.1| (U43906) putative protein kinase A cat...   336  3e-91
+SEQ gi|4325024|gb|AAD17221.1| (AF116597) cAMP-dependent protein kina...   336  3e-91
+SEQ gi|7578502|gb|AAF64072.1|AF134300_1 (AF134300) protein kinase A ...   336  3e-91
+SEQ gi|6010221|emb|CAB57279.1| (AJ238004) putative PKA-related prote...   335  6e-91
+SEQ gi|8489808|gb|AAF75762.1|AF262987_1 (AF262987) cAMP-dependent pr...   334  1e-90
+SEQ gi|6456802|emb|CAB61490.1| (AJ243654) cAMP-dependent protein kin...   334  2e-90
+SEQ gi|9858999|gb|AAD00706.3| (U91743) putative protein kinase A cat...   331  7e-90
+SEQ gi|10765029|gb|AAG22843.1|AC009602_5 (AC009602) putative protein...   331  7e-90
+SEQ gi|7434317|pir||T16391 hypothetical protein F47F2.1 - Caenorhabd...   331  9e-90
+SEQ gi|125208|sp|P06244|KAPA_YEAST CAMP-DEPENDENT PROTEIN KINASE TYP...   331  1e-89
+SEQ gi|2144416|pir||OKBYC1 protein kinase (EC 2.7.1.37), cAMP-depend...   331  1e-89
+SEQ gi|4625|emb|CAA68689.1| (Y00694) put. kinase (AA 1-380) [Sacchar...   329  4e-89
+SEQ gi|2113796|emb|CAA64172.1| (X94399) cAMP-dependent protein kinas...   329  5e-89
+SEQ gi|6322297|ref|NP_012371.1| putative catalytic subunit of cAMP-d...   328  6e-89
+SEQ gi|125219|sp|P21901|KAPL_APLCA SPERMATOZOON ASSOCIATED PROTEIN K...   327  2e-88
+SEQ gi|2565329|gb|AAC24242.1| (AF025290) cAMP-dependent protein kina...   326  2e-88
+SEQ gi|2565330|gb|AAC24243.1| (AF025290) cAMP-dependent protein kina...   326  2e-88
+SEQ gi|6322682|ref|NP_012755.1| cAMP-dependent protein kinase cataly...   324  2e-87
+SEQ gi|1346364|sp|P49673|KAPC_ASCSU CAMP-DEPENDENT PROTEIN KINASE CA...   323  3e-87
+SEQ gi|173013|gb|AAA35166.1| (M17074) cAMP-dependent protein kinase ...   322  5e-87
+SEQ gi|2133428|pir||S60029 protein kinase (EC 2.7.1.37), cAMP-depend...   322  6e-87
+SEQ gi|547756|sp|P36887|KAPA_PIG CAMP-DEPENDENT PROTEIN KINASE, ALPH...   320  1e-86
+SEQ gi|12698444|gb|AAK01549.1|AF288604_1 (AF288604) cAMP-dependent p...   319  4e-86
+SEQ gi|2393773|gb|AAB70118.1| (U78291) cAMP-dependent protein kinase...   319  6e-86
+SEQ gi|729868|sp|P40376|KAPB_SCHPO CAMP-DEPENDENT PROTEIN KINASE CAT...   315  5e-85
+SEQ gi|7301971|gb|AAF57076.1| (AE003775) CG12069 gene product [Droso...   314  2e-84
+SEQ gi|2916777|emb|CAA11945.1| (AJ224444) PKA [Plasmodium falciparum]     312  5e-84
+SEQ gi|125319|sp|P16910|KDCA_DROME PROTEIN KINASE DC1A >gi|85236|pir...   310  3e-83
+SEQ gi|172691|gb|AAA35088.1| (M17224) cAMP-dependent protein kinase ...   304  1e-81
+SEQ gi|13775423|gb|AAK39236.1| (U40943) Contains similarity to Pfam ...   285  7e-76
+SEQ gi|464395|sp|P28178|PK2_DICDI PROTEIN KINASE 2 >gi|102261|pir||A...   276  4e-73
+SEQ gi|2642296|gb|AAC23588.1| (AF031931) cyclic GMP-dependent protei...   270  2e-71
+SEQ gi|1730069|sp|P54644|KRAC_DICDI RAC-FAMILY SERINE/THREONINE KINA...   270  2e-71
+SEQ gi|5453978|ref|NP_006250.1| protein kinase, cGMP-dependent, type...   270  3e-71
+SEQ gi|6981402|ref|NP_037144.1| cGMP dependent protein kinase type I...   268  8e-71
+SEQ gi|2134904|pir||S68217 protein kinase (EC 2.7.1.37) II, cGMP-dep...   268  1e-70
+SEQ gi|6679467|ref|NP_032952.1| protein kinase, cGMP-dependent, type...   267  1e-70
+SEQ gi|8568081|gb|AAF76426.1|AF239744_1 (AF239744) sperm cAMP-depend...   267  2e-70
+SEQ gi|125377|sp|P00516|KGPA_BOVIN CGMP-DEPENDENT PROTEIN KINASE 1, ...   267  2e-70
+SEQ gi|10835242|ref|NP_006249.1| protein kinase, cGMP-dependent, typ...   267  2e-70
+SEQ gi|6225588|sp|Q13976|KGPA_HUMAN CGMP-DEPENDENT PROTEIN KINASE 1,...   267  2e-70
+SEQ gi|2827754|sp|P21136|KGPB_BOVIN CGMP-DEPENDENT PROTEIN KINASE 1,...   267  2e-70
+SEQ gi|6755156|ref|NP_035290.1| protein kinase, cGMP-dependent, type...   267  2e-70
+SEQ gi|6225589|sp|O77676|KGPA_RABIT CGMP-DEPENDENT PROTEIN KINASE 1,...   267  2e-70
+SEQ gi|7509200|pir||T26334 hypothetical protein W10G6.2 - Caenorhabd...   265  7e-70
+SEQ gi|732542|gb|AAA64341.1| (L41064) cAMP-dependent protein kinase ...   263  2e-69
+SEQ gi|11346414|pir||T50414 probable proliferation-associated serine...   261  1e-68
+SEQ gi|125320|sp|P16911|KDCB_DROME PROTEIN KINASE DC1B >gi|85237|pir...   260  2e-68
+SEQ gi|7301972|gb|AAF57077.1| (AE003775) Pka-C2 gene product [Drosop...   260  2e-68
+SEQ gi|3116066|emb|CAA11528.1| (AJ223716) s-sgk2 [Squalus acanthias]      260  2e-68
+SEQ gi|7495894|pir||T19224 hypothetical protein C12D8.10a - Caenorha...   259  4e-68
+SEQ gi|3123587|emb|CAA76073.1| (Y16106) cGMP-dependant protein kinas...   258  1e-67
+SEQ gi|9957600|gb|AAG09429.1|AF181097_1 (AF181097) cAMP-dependent pr...   257  1e-67
+SEQ gi|10835065|ref|NP_002751.1| protein kinase, Y-linked [Homo sapi...   257  1e-67
+SEQ gi|8568079|gb|AAF76425.1|AF239743_1 (AF239743) sperm cAMP-depend...   257  1e-67
+SEQ gi|172181|gb|AAA34880.1| (M21307) protein kinase [Saccharomyces ...   257  2e-67
+SEQ gi|445069|prf||1908384A protein kinase [Saccharomyces cerevisiae]     257  2e-67
+SEQ gi|3116064|emb|CAA11527.1| (AJ223715) s-sgk1 [Squalus acanthias]      257  2e-67
+SEQ gi|4426|emb|CAA31073.1| (X12560) SCH9 protein (AA 1-824) [Saccha...   256  3e-67
+SEQ gi|6321999|ref|NP_012075.1| cAMP-dependent protein kinase homolo...   256  3e-67
+SEQ gi|227604|prf||1707301A protein kinase [Saccharomyces cerevisiae]     256  3e-67
+SEQ gi|730723|sp|P11792|SCH9_YEAST CAMP-DEPENDENT PROTEIN KINASE SCH...   256  3e-67
+SEQ gi|7512664|pir||T17287 hypothetical protein DKFZp434N0250.1 - hu...   256  3e-67
+SEQ gi|2760821|gb|AAB95270.1| (L06196) serine/threonine protein kina...   256  4e-67
+SEQ gi|6322723|ref|NP_012796.1| protein kinase YPK1 (EC 2.7.1.-); Yp...   256  4e-67
+SEQ gi|7305483|ref|NP_038759.1| serum/glucocorticoid regulated kinas...   255  5e-67
+SEQ gi|13928778|ref|NP_113763.1| thymoma viral proto-oncogene 3 [Rat...   255  5e-67
+SEQ gi|13431833|sp|Q9XT18|SGK_RABIT SERINE/THREONINE-PROTEIN KINASE ...   255  7e-67
+SEQ gi|3688803|gb|AAC62398.1| (AF057138) unknown [Xenopus laevis]         255  8e-67
+SEQ gi|538540|pir||A40831 gag-akt polyprotein - AKT8 murine leukemia...   255  1e-66
+SEQ gi|6753034|ref|NP_033782.1| thymoma viral proto-oncogene [Mus mu...   255  1e-66
+SEQ gi|400112|sp|P31748|KAKT_MLVAT AKT KINASE TRANSFORMING PROTEIN        255  1e-66
+SEQ gi|1346401|sp|P47196|KRAC_RAT RAC-ALPHA SERINE/THREONINE KINASE ...   255  1e-66
+SEQ gi|7706699|ref|NP_057360.1| serum/glucocorticoid regulated kinas...   254  1e-66
+SEQ gi|10441382|gb|AAG17012.1|AF186470_1 (AF186470) protein kinase [...   254  1e-66
+SEQ gi|477098|pir||A48094 serum and glucocorticoid-regulated kinase ...   254  2e-66
+SEQ gi|2745889|gb|AAB94767.1| (AF039943) serine/threonine protein ki...   253  2e-66
+SEQ gi|6755490|ref|NP_035491.1| serum/glucocorticoid regulated kinas...   253  2e-66
+SEQ gi|4885549|ref|NP_005456.1| v-akt murine thymoma viral oncogene ...   253  3e-66
+SEQ gi|6753032|ref|NP_035915.1| thymoma viral proto-oncogene 3; PKB ...   253  3e-66
+SEQ gi|12539654|gb|AAG59601.1|AF317656_1 (AF317656) Akt [Xenopus lae...   252  5e-66
+SEQ gi|4885061|ref|NP_005154.1| serine/threonine protein kinase; Mur...   252  6e-66
+SEQ gi|13654627|ref|XP_015191.1| serine/threonine protein kinase [Ho...   252  6e-66
+SEQ gi|400144|sp|P31750|KRAC_MOUSE RAC-ALPHA SERINE/THREONINE KINASE...   252  6e-66
+SEQ gi|6680674|ref|NP_031460.1| thymoma viral proto-oncogene 2 [Mus ...   252  7e-66
+SEQ gi|4502023|ref|NP_001617.1| v-akt murine thymoma viral oncogene ...   251  9e-66
+SEQ gi|337491|gb|AAA36585.1| (M77198) rac protein kinase-beta [Homo ...   251  9e-66
+SEQ gi|11418439|ref|XP_004255.1| serum/glucocorticoid regulated kina...   251  1e-65
+SEQ gi|458284|gb|AAA57318.1| (U05811) serine/threonine protein kinas...   251  1e-65
+SEQ gi|9507093|ref|NP_062105.1| serum/glucocorticoid regulated kinas...   250  3e-65
+SEQ gi|1170702|sp|Q01314|KRAC_BOVIN RAC-ALPHA SERINE/THREONINE KINAS...   249  3e-65
+SEQ gi|6323751|ref|NP_013822.1| Ypk2p [Saccharomyces cerevisiae] >gi...   249  4e-65
+SEQ gi|8392888|ref|NP_058789.1| murine thymoma viral (v-akt) oncogen...   249  4e-65
+SEQ gi|5032091|ref|NP_005618.1| serum/glucocorticoid regulated kinas...   249  4e-65
+SEQ gi|445070|prf||1908384B protein kinase [Saccharomyces cerevisiae]     248  1e-64
+SEQ gi|398924|emb|CAA81204.1| (Z26242) Dakt1 serine-threonine protei...   247  2e-64
+SEQ gi|603542|emb|CAA58500.1| (X83510) RAC protein kinase DRAC-PK66 ...   247  2e-64
+SEQ gi|1079127|pir||A55888 protein kinase RAC (EC 2.7.1.-) - fruit f...   247  2e-64
+SEQ gi|7509906|pir||T31529 hypothetical protein Y47D3A.16 - Caenorha...   247  3e-64
+SEQ gi|7495895|pir||T19222 hypothetical protein C12D8.10b - Caenorha...   247  3e-64
+SEQ gi|9844082|emb|CAC03748.1| (AJ290951) cAMP-dependent protein kin...   246  3e-64
+SEQ gi|11260035|pir||T43234 Akt/PKB serine/threonine kinase - Caenor...   246  3e-64
+SEQ gi|7500109|pir||T21523 hypothetical protein F28H6.1 - Caenorhabd...   245  7e-64
+SEQ gi|103323|pir||A34106 protein kinase (EC 2.7.1.37), cGMP-depende...   245  9e-64
+SEQ gi|400128|sp|Q03042|KGP1_DROME CGMP-DEPENDENT PROTEIN KINASE, IS...   245  9e-64
+SEQ gi|1401293|gb|AAB03405.1| (U59901) cGMP-dependent protein kinase...   245  9e-64
+SEQ gi|12060812|gb|AAG48248.1|AF282407_1 (AF282407) p70 ribosomal pr...   243  3e-63
+SEQ gi|1362152|pir||S56639 ribosomal protein S6 kinase homolog (clon...   243  4e-63
+SEQ gi|480070|pir||S36389 protein kinase B (EC 2.7.1.-) - human (fra...   242  7e-63
+SEQ gi|1710880|sp|P50530|SCK1_SCHPO CAMP-DEPENDENT PROTEIN KINASE SC...   242  8e-63
+SEQ gi|7493196|pir||T38040 protein kinase (EC 2.7.1.37) sck1, cAMP-d...   242  8e-63
+SEQ gi|4157977|emb|CAA76911.1| (Y17882) protein kinase C [Geodia cyd...   240  2e-62
+SEQ gi|10727350|gb|AAF51082.2| (AE003579) for gene product [alt 3] [...   240  2e-62
+SEQ gi|10727351|gb|AAG22251.1| (AE003579) for gene product [alt 1] [...   240  2e-62
+SEQ gi|10727352|gb|AAG22252.1| (AE003579) for gene product [alt 2] [...   240  2e-62
+SEQ gi|10727353|gb|AAG22253.1| (AE003579) for gene product [alt 4] [...   240  2e-62
+SEQ gi|11321321|gb|AAG34115.1|AF312007_1 (AF312007) serine/threonine...   238  8e-62
+SEQ gi|7512016|pir||T08418 protein kinase (EC 2.7.1.37), cGMP-depend...   238  9e-62
+SEQ gi|482957|pir||B34106 protein kinase (EC 2.7.1.37), cGMP-depende...   238  9e-62
+SEQ gi|157214|gb|AAA28456.1| (M30147) cGMP-dependent protein kinase ...   238  9e-62
+SEQ gi|157220|gb|AAA28457.1| (M27124) cGMP-dependent protein kinase ...   238  9e-62
+SEQ gi|157224|gb|AAA28459.1| (M30413) cGMP-dependent protein kinase ...   238  9e-62
+SEQ gi|400129|sp|Q03043|KGP2_DROME CGMP-DEPENDENT PROTEIN KINASE, IS...   238  9e-62
+SEQ gi|400130|sp|P32023|KGP3_DROME CGMP-DEPENDENT PROTEIN KINASE, IS...   238  9e-62
+SEQ gi|7649389|emb|CAB89082.1| (AJ277534) S6 ribosomal protein kinas...   237  2e-61
+SEQ gi|12322721|gb|AAG51345.1|AC012562_6 (AC012562) putative ribosom...   236  4e-61
+SEQ gi|7019527|ref|NP_037389.1| serum/glucocorticoid regulated kinas...   235  5e-61
+SEQ gi|11426311|ref|XP_005258.1| serum/glucocorticoid regulated kina...   235  5e-61
+SEQ gi|6729688|gb|AAF27051.1|AF085233_1 (AF085233) SGK-like protein ...   235  7e-61
+SEQ gi|13592027|ref|NP_112347.1| protein kinase C-eta [Rattus norveg...   234  1e-60
+SEQ gi|2073444|emb|CAA73363.1| (Y12858) protein kinase C [Hydra vulg...   234  1e-60
+SEQ gi|2073446|emb|CAA73362.1| (Y12857) protein kinase C [Hydra vulg...   234  1e-60
+SEQ gi|6679347|ref|NP_032882.1| protein kinase C, eta [Mus musculus]...   234  2e-60
+SEQ gi|13631801|ref|XP_007374.3| protein kinase C, eta [Homo sapiens]     233  2e-60
+SEQ gi|11133008|sp|Q39030|KP19_ARATH SERINE/THREONINE-PROTEIN KINASE...   233  3e-60
+SEQ gi|6650370|gb|AAF21806.1| (AF093877) rac serine/threonine kinase...   233  3e-60
+SEQ gi|4982489|gb|AAD36953.1|AF067612_2 (AF067612) Contains similari...   232  5e-60
+SEQ gi|4982490|gb|AAD36954.1|AF067612_3 (AF067612) Contains similari...   232  5e-60
+SEQ gi|5453972|ref|NP_006246.1| protein kinase C, eta [Homo sapiens]...   232  6e-60
+SEQ gi|1170689|sp|P42818|KPK1_ARATH SERINE/THREONINE-PROTEIN KINASE ...   232  7e-60
+SEQ gi|7504545|pir||T22856 hypothetical protein F57F5.5 - Caenorhabd...   231  1e-59
+SEQ gi|462454|sp|P34885|KPC2_CAEEL PROTEIN KINASE C-LIKE 2 (PKC1B) >...   230  2e-59
+SEQ gi|7495764|pir||T29830 hypothetical protein C09G4.2 - Caenorhabd...   230  3e-59
+SEQ gi|125547|sp|P13678|KPC3_DROME PROTEIN KINASE C (PKC) (DPKC98F) ...   230  3e-59
+SEQ gi|7301734|gb|AAF56846.1| (AE003768) Pkc98E gene product [Drosop...   230  3e-59
+SEQ gi|6537166|gb|AAF15553.1|AF165162_1 (AF165162) Rsk-2 [Xenopus la...   229  4e-59
+SEQ gi|10946894|ref|NP_067460.1| ribosomal protein S6 kinase, 70kD, ...   229  5e-59
+SEQ gi|401772|gb|AAC82496.1| (L07598) ribosomal protein S6 kinase 2 ...   228  7e-59
+SEQ gi|10863933|ref|NP_066958.1| ribosomal protein S6 kinase, 90kD, ...   228  9e-59
+SEQ gi|1778590|gb|AAB40868.1| (U82935) protein kinase C2 A isoform [...   228  9e-59
+SEQ gi|7434394|pir||JE0377 p70 S6 kinase (EC 2.7.-.-) - human >gi|41...   228  9e-59
+SEQ gi|11418908|ref|XP_004469.1| ribosomal protein S6 kinase, 90kD, ...   228  1e-58
+SEQ gi|4506739|ref|NP_003943.1| p70 ribosomal S6 kinase beta [Homo s...   228  1e-58
+SEQ gi|12643872|sp|Q9UBS0|K6B2_HUMAN RIBOSOMAL PROTEIN S6 KINASE BET...   228  1e-58
+SEQ gi|13543928|gb|AAH06106.1|AAH06106 (BC006106) Unknown (protein f...   228  1e-58
+SEQ gi|13640636|ref|XP_006379.3| p70 ribosomal S6 kinase beta [Homo ...   228  1e-58
+SEQ gi|3411161|gb|AAC67395.1| (AF074715) mitogen- and stress-activat...   227  2e-58
+SEQ gi|4506735|ref|NP_003933.1| ribosomal protein S6 kinase, 90kD, p...   227  2e-58
+SEQ gi|6016442|sp|Q25378|KPC1_LYTPI PROTEIN KINASE C >gi|414286|gb|A...   227  2e-58
+SEQ gi|11230692|emb|CAC16654.1| (AJ297954) putative protein kinase A...   227  2e-58
+SEQ gi|6016441|sp|O42632|KPC1_COCHE PROTEIN KINASE C-LIKE >gi|112593...   226  2e-58
+SEQ gi|125539|sp|P05772|KPC1_RABIT PROTEIN KINASE C, BETA-I TYPE (PK...   226  2e-58
+SEQ gi|6755374|ref|NP_035429.1| ribosomal protein S6 kinase, 90kD, p...   226  3e-58
+SEQ gi|13631222|ref|XP_001729.2| v-akt murine thymoma viral oncogene...   226  3e-58
+SEQ gi|4506069|ref|NP_002729.1| protein kinase C, beta 1; Protein ki...   226  4e-58
+SEQ gi|125538|sp|P05771|KPC1_HUMAN PROTEIN KINASE C, BETA-I TYPE (PK...   226  4e-58
+SEQ gi|125540|sp|P04410|KPC1_RAT PROTEIN KINASE C, BETA-I TYPE (PKC-...   226  4e-58
+SEQ gi|6981398|ref|NP_036845.1| protein kinase C beta [Rattus norveg...   226  4e-58
+SEQ gi|2822146|gb|AAB97933.1| (AC002299) Protein kinase C beta (5' p...   226  4e-58
+SEQ gi|13648775|ref|XP_012528.2| protein kinase C, beta 1 [Homo sapi...   226  4e-58
+SEQ gi|5919226|gb|AAC47312.4| (U66562) p70s6k protein kinase homolog...   226  4e-58
+SEQ gi|4587520|gb|AAD25751.1|AC007060_9 (AC007060) Strong similarity...   226  4e-58
+SEQ gi|12860267|dbj|BAB31901.1| (AK019881) putative [Mus musculus]        225  6e-58
+SEQ gi|401774|gb|AAC82495.1| (L07599) ribosomal protein S6 kinase 3 ...   225  7e-58
+SEQ gi|4759050|ref|NP_004577.1| ribosomal protein S6 kinase, 90kD, p...   225  7e-58
+SEQ gi|4506067|ref|NP_002728.1| protein kinase C, alpha; Protein kin...   225  7e-58
+SEQ gi|66717|pir||KIMSCA protein kinase C (EC 2.7.1.-) alpha - mouse...   225  7e-58
+SEQ gi|125552|sp|P05696|KPCA_RAT PROTEIN KINASE C, ALPHA TYPE (PKC-A...   225  7e-58
+SEQ gi|125551|sp|P10102|KPCA_RABIT PROTEIN KINASE C, ALPHA TYPE (PKC...   225  7e-58
+SEQ gi|6016444|sp|Q16975|KPC2_APLCA CALCIUM-INDEPENDENT PROTEIN KINA...   225  8e-58
+SEQ gi|66721|pir||KIRTC1 protein kinase C (EC 2.7.1.-) beta-I - rat ...   225  9e-58
+SEQ gi|4885563|ref|NP_005391.1| protein kinase C, epsilon [Homo sapi...   225  9e-58
+SEQ gi|66734|pir||KIRBCE protein kinase C (EC 2.7.1.-) epsilon - rabbit   225  9e-58
+SEQ gi|125556|sp|P10830|KPCE_RABIT PROTEIN KINASE C, EPSILON TYPE (N...   225  9e-58
+SEQ gi|1778160|gb|AAC47429.1| (U67304) 70 kDa S6 kinase [Drosophila ...   225  1e-57
+SEQ gi|455163|gb|AAA50509.1| (L28945) p90 ribosomal S6 kinase [Droso...   225  1e-57
+SEQ gi|7295638|gb|AAF50945.1| (AE003574) S6kII gene product [Drosoph...   225  1e-57
+SEQ gi|6755084|ref|NP_035234.1| protein kinase C, epsilon [Mus muscu...   225  1e-57
+SEQ gi|13676454|dbj|BAB41150.1| (AB060213) hypothetical protein [Mac...   224  1e-57
+SEQ gi|4506733|ref|NP_002944.1| ribosomal protein S6 kinase, 90kD, p...   224  1e-57
+SEQ gi|125548|sp|P04409|KPCA_BOVIN PROTEIN KINASE C, ALPHA TYPE (PKC...   224  1e-57
+SEQ gi|125692|sp|P18652|K6AA_CHICK RIBOSOMAL PROTEIN S6 KINASE II AL...   224  1e-57
+SEQ gi|2130466|pir||JC4516 protein kinase (EC 2.7.1.37) - fission ye...   224  1e-57
+SEQ gi|4582255|emb|CAB40193.1| (AJ131521) kinase [Xenopus laevis]         224  1e-57
+SEQ gi|7503594|pir||T22318 hypothetical protein F46F6.2 - Caenorhabd...   224  1e-57
+SEQ gi|13592065|ref|NP_112369.1| S6 protein kinase (Rsk-1) [Rattus n...   224  2e-57
+SEQ gi|109371|pir||S12906 probable ribosomal protein S6 kinase (EC 2...   223  2e-57
+SEQ gi|4506737|ref|NP_003152.1| serine/threonine kinase 14 alpha [Ho...   223  2e-57
+SEQ gi|125695|sp|P23443|K6B1_HUMAN RIBOSOMAL PROTEIN S6 KINASE (S6K)...   223  2e-57
+SEQ gi|125696|sp|P21425|K6B1_RAT RIBOSOMAL PROTEIN S6 KINASE I (S6K)...   223  2e-57
+SEQ gi|2586064|gb|AAC13357.1| (AF027183) protein kinase C-related ki...   223  2e-57
+SEQ gi|14010889|ref|NP_114191.1| S6 kinase [Rattus norvegicus] >gi|6...   223  2e-57
+SEQ gi|11994315|dbj|BAB02274.1| (AB015474) protein kinase [Arabidops...   223  3e-57
+SEQ gi|55132|emb|CAA36907.1| (X52684) protein kinase C [Mus musculus...   223  3e-57
+SEQ gi|7511603|pir||T15903 protein kinase C homolog - Caenorhabditis...   223  4e-57
+SEQ gi|1778592|gb|AAB40869.1| (U82936) protein kinase C2 B isoform [...   223  4e-57
+SEQ gi|2996092|gb|AAC08427.1| (U63742) rac serine-threonine kinase h...   223  4e-57
+SEQ gi|7506915|pir||T23927 hypothetical protein T01H8.1a - Caenorhab...   222  4e-57
+SEQ gi|7506916|pir||T24340 hypothetical protein T01H8.1b - Caenorhab...   222  4e-57
+SEQ gi|7506247|pir||T16679 hypothetical protein R04A9.5 - Caenorhabd...   222  4e-57
+SEQ gi|104167|pir||A37237 protein kinase C (EC 2.7.1.-) I - African ...   222  4e-57
+SEQ gi|4558499|gb|AAD22633.1|AF124792_1 (AF124792) protein kinase C;...   222  4e-57
+SEQ gi|5453974|ref|NP_006247.1| protein kinase C-like 2 [Homo sapien...   222  5e-57
+SEQ gi|11493219|emb|CAC17575.1| (AL136381) dJ905H16.1 (protein kinas...   222  5e-57
+SEQ gi|125550|sp|P20444|KPCA_MOUSE PROTEIN KINASE C, ALPHA TYPE (PKC...   222  5e-57
+SEQ gi|6755078|ref|NP_035231.1| protein kinase C, alpha [Mus musculu...   222  5e-57
+SEQ gi|3114991|emb|CAA73557.1| (Y13103) Serine/Threonine protein kin...   222  6e-57
+SEQ gi|2499576|sp|Q00078|KPC1_ASPNG PROTEIN KINASE C-LIKE >gi|213325...   222  7e-57
+SEQ gi|9910454|ref|NP_064308.1| ribosomal protein S6 kinase, 90kD, p...   221  8e-57
+SEQ gi|7657526|ref|NP_055311.1| ribosomal protein S6 kinase, 90kD, p...   221  1e-56
+SEQ gi|11181910|emb|CAC16111.1| (AL389887) bA54F22.1.1 (ribosomal pr...   221  1e-56
+SEQ gi|541816|pir||S42864 protein kinase (EC 2.7.1.-) - common ice p...   221  1e-56
+SEQ gi|7339534|emb|CAB82852.1| (Z30329) protein kinase MK6 [Mesembry...   221  1e-56
+SEQ gi|3114956|emb|CAA73553.1| (Y13099) Serine/Threonine protein kin...   221  2e-56
+SEQ gi|7302859|gb|AAF57932.1| (AE003805) Pkc53E gene product [alt 1]...   221  2e-56
+SEQ gi|7302860|gb|AAF57933.1| (AE003805) Pkc53E gene product [alt 2]...   221  2e-56
+SEQ gi|155790|gb|AAA27770.1| (M94883) protein kinase C [Aplysia cali...   221  2e-56
+SEQ gi|6225593|sp|Q16974|KPC1_APLCA CALCIUM-DEPENDENT PROTEIN KINASE...   221  2e-56
+SEQ gi|228058|prf||1716374A protein kinase C I [Aplysia californica]      221  2e-56
+SEQ gi|6755082|ref|NP_035233.1| protein kinase C, delta; protein kin...   220  2e-56
+SEQ gi|125557|sp|P09216|KPCE_RAT PROTEIN KINASE C, EPSILON TYPE (NPK...   220  2e-56
+SEQ gi|4204296|gb|AAD10677.1| (AC003027) lcl|prt_seq No definition l...   220  2e-56
+SEQ gi|3114989|emb|CAA73554.1| (Y13100) Serine/Threonine protein kin...   220  3e-56
+SEQ gi|13324795|gb|AAK18843.1|AC082645_13 (AC082645) putative protei...   220  3e-56
+SEQ gi|13648717|ref|XP_003106.3| protein kinase C, delta [Homo sapie...   220  3e-56
+SEQ gi|520587|dbj|BAA01381.1| (D10495) protein kinase C delta-type [...   220  3e-56
+SEQ gi|6225860|sp|O08874|PKL2_RAT PROTEIN KINASE C-LIKE 2 (PROTEIN-K...   220  3e-56
+SEQ gi|4586029|gb|AAD25647.1|AC007109_5 (AC007109) putative protein ...   219  4e-56
+SEQ gi|13632515|ref|XP_007384.2| ribosomal protein S6 kinase, 90kD, ...   219  6e-56
+SEQ gi|4759052|ref|NP_004746.1| ribosomal protein S6 kinase, 90kD, p...   219  6e-56
+SEQ gi|125545|sp|P05773|KPC2_RABIT PROTEIN KINASE C, BETA-II TYPE (P...   218  6e-56
+SEQ gi|6729346|dbj|BAA89783.1| (AB037133) IRE [Arabidopsis thaliana]...   218  9e-56
+SEQ gi|125544|sp|P05127|KPC2_HUMAN PROTEIN KINASE C, BETA-II TYPE (P...   218  1e-55
+SEQ gi|6679345|ref|NP_032881.1| protein kinase C, beta [Mus musculus...   218  1e-55
+SEQ gi|206189|gb|AAA41875.1| (M13706) protein kinase C type II [Ratt...   218  1e-55
+SEQ gi|2822147|gb|AAB97934.1| (AC002299) Protein kinase C beta (5' p...   218  1e-55
+SEQ gi|1076632|pir||S49077 protein kinase PKTL7 (EC 2.7.1.-) - commo...   218  1e-55
+SEQ gi|5302770|emb|CAB10237.2| (Z97336) protein kinase [Arabidopsis ...   218  1e-55
+SEQ gi|7446413|pir||D71405 probable protein kinase - Arabidopsis tha...   218  1e-55
+SEQ gi|125542|sp|P05126|KPC2_BOVIN PROTEIN KINASE C, BETA-II TYPE (P...   218  1e-55
+SEQ gi|1708622|sp|Q10364|KDBE_SCHPO PUTATIVE SERINE/THREONINE-PROTEI...   218  1e-55
+SEQ gi|4589574|dbj|BAA76809.1| (AB023182) KIAA0965 protein [Homo sap...   218  1e-55
+SEQ gi|13605770|gb|AAK32877.1|AF363966_1 (AF363966) 90-kDa ribosomal...   218  1e-55
+SEQ gi|7404419|sp|P36583|PCK2_SCHPO PROTEIN KINASE C-LIKE 2 >gi|4220...   217  2e-55
+SEQ gi|303941|dbj|BAA03268.1| (D14338) protein kinase [Schizosacchar...   217  2e-55
+SEQ gi|2499577|sp|Q99014|KPC1_TRIRE PROTEIN KINASE C-LIKE >gi|213330...   217  2e-55
+SEQ gi|125554|sp|P09215|KPCD_RAT PROTEIN KINASE C, DELTA TYPE (NPKC-...   217  2e-55
+SEQ gi|7019312|emb|CAB75578.1| (AJ230617) protein kinase C delta [Ra...   217  2e-55
+SEQ gi|5453970|ref|NP_006245.1| protein kinase C, delta [Homo sapien...   217  2e-55
+SEQ gi|66724|pir||KIRTC2 protein kinase C (EC 2.7.1.-) beta-II - rat...   217  2e-55
+SEQ gi|2707262|gb|AAB92244.1| (AF035554) protein kinase C-related ki...   216  3e-55
+SEQ gi|12005625|gb|AAG44542.1|AF247001_1 (AF247001) protein kinase C...   216  3e-55
+SEQ gi|6016443|sp|P87253|KPC1_NEUCR PROTEIN KINASE C-LIKE >gi|222277...   216  3e-55
+SEQ gi|9716257|emb|CAC01625.1| (AJ245437) protein kinase C homologue...   216  3e-55
+SEQ gi|125694|sp|P10666|K6AB_XENLA RIBOSOMAL PROTEIN S6 KINASE II BE...   216  4e-55
+SEQ gi|1346392|sp|P28867|KPCD_MOUSE PROTEIN KINASE C, DELTA TYPE (NP...   216  4e-55
+SEQ gi|6102720|emb|CAB59301.1| (Y18252) protein kinase C [Botryotini...   216  5e-55
+SEQ gi|13129502|gb|AAK13156.1|AC078829_8 (AC078829) putative protein...   215  6e-55
+SEQ gi|6678958|ref|NP_032667.1| microtubule associated testis specif...   215  8e-55
+SEQ gi|2911462|gb|AAC04357.1| (AF046923) serine/threonine protein ki...   215  8e-55
+SEQ gi|12620233|gb|AAG60621.1|AF294915_1 (AF294915) S6 kinase [Aplys...   215  9e-55
+SEQ gi|4506071|ref|NP_002731.1| protein kinase C, iota [Homo sapiens...   214  1e-54
+SEQ gi|631750|pir||A53758 protein kinase C (EC 2.7.1.-) lambda - mouse    214  1e-54
+SEQ gi|6679349|ref|NP_032883.1| protein kinase C, lamda [Mus musculu...   214  1e-54
+SEQ gi|66731|pir||KIMSCD protein kinase C (EC 2.7.1.-) delta - mouse...   213  2e-54
+SEQ gi|4115530|dbj|BAA36408.1| (AB011812) PKC delta II [Mus musculus]     213  2e-54
+SEQ gi|6679353|ref|NP_032885.1| protein kinase C, theta [Mus musculu...   213  3e-54
+SEQ gi|7446438|pir||T05188 protein kinase F4I10.10 (EC 2.7.1.-) - Ar...   213  3e-54
+SEQ gi|14326578|gb|AAK60333.1|AF385743_1 (AF385743) At1g48490/T1N15_...   213  3e-54
+SEQ gi|303529|dbj|BAA03556.1| (D14815) TPA-1 [Caenorhabditis elegans]     213  4e-54
+SEQ gi|2507188|sp|P34722|KPC1_CAEEL PROTEIN KINASE C-LIKE 1 (PKC) >g...   213  4e-54
+SEQ gi|7511604|pir||T33400 protein kinase C homolog tpa-1 - Caenorha...   213  4e-54
+SEQ gi|7511605|pir||T33399 protein kinase C homolog tpa-1, splice fo...   213  4e-54
+SEQ gi|3882335|dbj|BAA34527.1| (AB018350) KIAA0807 protein [Homo sap...   213  4e-54
+SEQ gi|14149671|ref|NP_055927.1| KIAA0807 protein [Homo sapiens] >gi...   213  4e-54
+SEQ gi|7297611|gb|AAF52864.1| (AE003627) CG4839 gene product [Drosop...   213  4e-54
+SEQ gi|5453976|ref|NP_006248.1| protein kinase C, theta [Homo sapien...   212  5e-54
+SEQ gi|1346394|sp|Q04759|KPCT_HUMAN PROTEIN KINASE C, THETA TYPE (NP...   212  5e-54
+SEQ gi|10334453|emb|CAC10200.1| (AL137145) bA563J2.2 (protein kinase...   212  5e-54
+SEQ gi|4996216|dbj|BAA78372.1| (AB020615) PKC lambda [Rattus norvegi...   212  5e-54
+SEQ gi|4928705|gb|AAD33693.1|AF136600_1 (AF136600) protein kinase C ...   212  5e-54
+SEQ gi|486786|pir||S35362 protein kinase C (EC 2.7.1.-) pck1 - fissi...   212  7e-54
+SEQ gi|7522559|pir||T37866 protein kinase c-like 1 (EC 2.7.1.-) - fi...   212  7e-54
+SEQ gi|1709606|sp|P36582|PCK1_SCHPO PROTEIN KINASE C-LIKE 1               212  7e-54
+SEQ gi|2224547|dbj|BAA20762.1| (AB002301) KIAA0303 [Homo sapiens]         211  8e-54
+SEQ gi|104168|pir||B37237 protein kinase C (EC 2.7.1.-) II - African...   211  1e-53
+SEQ gi|542984|pir||JC2129 protein kinase PKN (EC 2.7.1.-) - human >g...   210  2e-53
+SEQ gi|4506073|ref|NP_002732.1| protein kinase C-like 1; serine-thre...   210  2e-53
+SEQ gi|543444|pir||JC2130 protein kinase (EC 2.7.1.37) - rat              210  2e-53
+SEQ gi|8394047|ref|NP_058871.1| serine/threonine kinase 3 [Rattus no...   210  2e-53
+SEQ gi|227491|prf||1704381B protein kinase C II [Xenopus laevis]          210  2e-53
+SEQ gi|1093486|prf||2104208A protein kinase C-related kinase:ISOTYPE...   210  2e-53
+SEQ gi|7019489|ref|NP_037487.1| protein kinase PKNbeta [Homo sapiens...   210  2e-53
+SEQ gi|125693|sp|P10665|K6AA_XENLA RIBOSOMAL PROTEIN S6 KINASE II AL...   210  2e-53
+SEQ gi|1200509|gb|AAA89096.1| (U47679) protein kinase [Euplotes cras...   209  4e-53
+SEQ gi|6677811|ref|NP_033123.1| ribosomal protein S6 kinase polypept...   209  4e-53
+SEQ gi|1082746|pir||A47160 protein kinase C (EC 2.7.1.-) theta - human    209  4e-53
+SEQ gi|4938231|emb|CAA28890.2| (X05279) protein kinase C [Drosophila...   209  4e-53
+SEQ gi|2065190|emb|CAA72926.1| (Y12237) protein kinase C [Hydra vulg...   209  4e-53
+SEQ gi|125537|sp|P05130|KPC1_DROME PROTEIN KINASE C, BRAIN ISOZYME (...   209  5e-53
+SEQ gi|1085218|pir||S53726 protein kinase PKN - African clawed frog ...   209  5e-53
+SEQ gi|3043646|dbj|BAA25487.1| (AB011133) KIAA0561 protein [Homo sap...   209  5e-53
+SEQ gi|125558|sp|P05128|KPCG_BOVIN PROTEIN KINASE C, GAMMA TYPE (PKC...   209  6e-53
+SEQ gi|13639360|ref|XP_005368.3| protein kinase PKNbeta [Homo sapiens]    208  7e-53
+SEQ gi|125400|sp|P25341|KI82_YEAST PROBABLE SERINE/THREONINE-PROTEIN...   208  8e-53
+SEQ gi|6755080|ref|NP_035232.1| protein kinase C, gamma [Mus musculu...   208  9e-53
+SEQ gi|1085381|pir||S48705 serine/threonine protein kinase - human >...   208  1e-52
+SEQ gi|125560|sp|P10829|KPCG_RABIT PROTEIN KINASE C, GAMMA TYPE (PKC...   208  1e-52
+SEQ gi|35497|emb|CAA78820.1| (Z15114) protein kinase C gamma [Homo s...   208  1e-52
+SEQ gi|13384594|ref|NP_002730.1| protein kinase C, gamma; Protein ki...   208  1e-52
+SEQ gi|13650337|ref|XP_017991.1| protein kinase C, gamma [Homo sapiens]   208  1e-52
+SEQ gi|9910296|ref|NP_064329.1| syntrophin associated serine/threoni...   207  2e-52
+SEQ gi|3005054|gb|AAC09291.1| (AF041843) protein kinase Ukc1p [Ustil...   207  2e-52
+SEQ gi|10383810|ref|NP_010015.2| Putative serine/threonine protein k...   207  2e-52
+SEQ gi|4589590|dbj|BAA76817.1| (AB023190) KIAA0973 protein [Homo sap...   207  2e-52
+SEQ gi|3114958|emb|CAA73556.1| (Y13102) Serine/Threonine protein kin...   207  2e-52
+SEQ gi|11360323|pir||T45070 protein kinase homolog R31240_1 [importe...   206  3e-52
+SEQ gi|7495822|pir||T19188 hypothetical protein C10C6.1 - Caenorhabd...   206  3e-52
+SEQ gi|125543|sp|P13677|KPC2_DROME PROTEIN KINASE C, EYE ISOZYME (PK...   206  3e-52
+SEQ gi|7446410|pir||T01288 protein kinase F27F23.20 (EC 2.7.1.-) - A...   206  4e-52
+SEQ gi|7303914|gb|AAF58958.1| (AE003834) CG2055 gene product [Drosop...   206  4e-52
+SEQ gi|7303915|gb|AAF58959.1| (AE003834) CG2049 gene product [Drosop...   206  4e-52
+SEQ gi|7446458|pir||JC7083 protein kinase (EC 2.7.1.37) N beta - human    206  4e-52
+SEQ gi|5726308|gb|AAD48407.1|AF142061_1 (AF142061) protein kinase JI...   206  5e-52
+SEQ gi|9558490|dbj|BAB03409.1| (AP002816) Similar to Spinacia olerac...   205  6e-52
+SEQ gi|4885583|ref|NP_005397.1| Rho-associated, coiled-coil containi...   205  6e-52
+SEQ gi|13592049|ref|NP_112360.1| Rho-associated kinase beta [Rattus ...   205  6e-52
+SEQ gi|6677759|ref|NP_033097.1| Rho-associated coiled-coil forming k...   205  6e-52
+SEQ gi|3628755|gb|AAC36189.1| (U42424) corneal epithelial Rho-associ...   205  6e-52
+SEQ gi|13648270|ref|XP_008814.3| Rho-associated, coiled-coil contain...   205  6e-52
+SEQ gi|6093530|sp|O42626|NRC2_NEUCR SERINE/THREONINE-PROTEIN KINASE ...   205  6e-52
+SEQ gi|7522131|pir||T28666 protein kinase C-related kinase PRKSD - S...   205  8e-52
+SEQ gi|4150896|emb|CAA73682.1| (Y13229) serine /threonine protein ki...   205  1e-51
+SEQ gi|7159681|emb|CAB64999.2| (AJ249681) putative nuclear protein k...   205  1e-51
+SEQ gi|12214156|emb|CAB64998.2| (AJ249680) putative nuclear protein ...   204  1e-51
+SEQ gi|6729348|dbj|BAA89784.1| (AB037134) IRE homolog 1 [Arabidopsis...   204  2e-51
+SEQ gi|9294489|dbj|BAB02708.1| (AB019230) IRE homolog; protein kinas...   204  2e-51
+SEQ gi|13636657|ref|XP_010814.2| protein kinase C, epsilon [Homo sap...   203  2e-51
+SEQ gi|6324375|ref|NP_014445.1| Ynr047wp [Saccharomyces cerevisiae] ...   203  2e-51
+SEQ gi|853791|emb|CAA84441.1| (Z34989) Ndr protein kinase [Caenorhab...   203  2e-51
+SEQ gi|6005814|ref|NP_009202.1| serine threonine protein kinase [Hom...   203  3e-51
+SEQ gi|7497946|pir||T20232 hypothetical protein C54G4.1 - Caenorhabd...   203  3e-51
+SEQ gi|1362636|pir||A56155 tumor suppressor protein warts (EC 2.7.1....   203  4e-51
+SEQ gi|903942|gb|AAA70336.1| (U29608) LATS [Drosophila melanogaster]      203  4e-51
+SEQ gi|7301980|gb|AAF57085.1| (AE003775) wts gene product [Drosophil...   203  4e-51
+SEQ gi|7303111|gb|AAF58177.1| (AE003812) l(2)k06403 gene product [Dr...   203  4e-51
+SEQ gi|9885776|gb|AAG01528.1|AF288482_1 (AF288482) atypical protein ...   203  4e-51
+SEQ gi|7506647|pir||T16718 hypothetical protein R11G1.4 - Caenorhabd...   202  6e-51
+SEQ gi|9652156|gb|AAF91417.1| (AF275634) SAX-1 Ndr protein kinase [C...   202  6e-51
+SEQ gi|7495847|pir||T25539 hypothetical protein C10H11.9 - Caenorhab...   202  7e-51
+SEQ gi|541824|pir||S42867 protein kinase (EC 2.7.1.-) - spinach >gi|...   201  1e-50
+SEQ gi|11968080|ref|NP_071952.1| protein kinase C, zeta [Rattus norv...   201  2e-50
+SEQ gi|6679355|ref|NP_032886.1| protein kinase C, zeta [Mus musculus...   201  2e-50
+SEQ gi|206195|gb|AAA41878.1| (M18332) protein kinase C zeta subspeci...   201  2e-50
+SEQ gi|125691|sp|P18654|K6A3_MOUSE RIBOSOMAL PROTEIN S6 KINASE ALPHA...   201  2e-50
+SEQ gi|11230985|dbj|BAB18104.1| (AB042714) cyclic nucleotide depende...   201  2e-50
+SEQ gi|11230987|dbj|BAB18105.1| (AB042715) cyclic nucreotide depende...   201  2e-50
+SEQ gi|35501|emb|CAA78813.1| (Z15108) protein kinase C zeta [Homo sa...   201  2e-50
+SEQ gi|10864650|ref|NP_002735.2| protein kinase C, zeta [Homo sapiens]    201  2e-50
+SEQ gi|13636518|ref|XP_001533.2| protein kinase C, zeta [Homo sapiens]    201  2e-50
+SEQ gi|14165515|gb|AAH08058.1|AAH08058 (BC008058) Unknown (protein f...   201  2e-50
+SEQ gi|527675|gb|AAA75362.1| (U12588) protein kinase C subspecies ze...   200  2e-50
+SEQ gi|7657295|ref|NP_056586.1| large tumor supressor 2 [Mus musculu...   200  3e-50
+SEQ gi|3024076|sp|O19111|KPCZ_RABIT PROTEIN KINASE C, ZETA TYPE (NPK...   200  3e-50
+SEQ gi|6166241|sp|Q05513|KPCZ_HUMAN PROTEIN KINASE C, ZETA TYPE (NPK...   200  3e-50
+SEQ gi|13549081|gb|AAK29627.1|AF347075_1 (AF347075) Rho-associated c...   200  3e-50
+SEQ gi|7294265|gb|AAF49616.1| (AE003530) CG6498 gene product [Drosop...   200  3e-50
+SEQ gi|7434269|pir||T16006 protein kinase C3 - Caenorhabditis elegan...   199  4e-50
+SEQ gi|6755020|ref|NP_035192.1| 3-phosphoinositide dependent protein...   199  5e-50
+SEQ gi|7446393|pir||PC4287 protein kinase (EC 2.7.1.37) N - fruit fl...   199  5e-50
+SEQ gi|5052328|gb|AAD38505.1| (AF126294) phosphoinositide-dependent ...   199  5e-50
+SEQ gi|1170687|sp|P43057|KPC1_CANAL PROTEIN KINASE C-LIKE 1 (PKC 1) ...   199  6e-50
+SEQ gi|4759044|ref|NP_004841.1| Rho-associated, coiled-coil containi...   199  7e-50
+SEQ gi|6274495|gb|AAF06671.1|AF196487_1 (AF196487) serine/threonine ...   198  7e-50
+SEQ gi|3327052|dbj|BAA31594.1| (AB014519) KIAA0619 protein [Homo sap...   198  8e-50
+SEQ gi|7212790|dbj|BAA92381.1| (AB028019) large tumor suppressor 2 [...   198  1e-49
+SEQ gi|629915|pir||S47220 protein kinase C (EC 2.7.1.-) PKC1 - yeast...   198  1e-49
+SEQ gi|9758967|dbj|BAB09410.1| (AB016893) protein kinase [Arabidopsi...   198  1e-49
+SEQ gi|14334482|gb|AAK59439.1| (AY034932) putative protein kinase [A...   198  1e-49
+SEQ gi|4505695|ref|NP_002604.1| 3-phosphoinositide dependent protein...   197  2e-49
+SEQ gi|3513294|gb|AAC33797.1| (AC005591) PkB-like [Homo sapiens]          197  2e-49
+SEQ gi|3393042|emb|CAA06507.1| (AJ005377) eye-specific protein kinas...   197  2e-49
+SEQ gi|7767670|gb|AAF69167.1|AC007915_19 (AC007915) F27F5.23 [Arabid...   197  2e-49
+SEQ gi|13592023|ref|NP_112343.1| 3-phosphoinositide dependent protei...   197  2e-49
+SEQ gi|8886764|gb|AAF80561.1|AF207547_1 (AF207547) serine/threonine ...   197  2e-49
+SEQ gi|13637686|ref|XP_002676.3| Rho-associated, coiled-coil contain...   197  2e-49
+SEQ gi|206169|gb|AAA41865.1| (K03486) protein kinase C type III [Rat...   196  3e-49
+SEQ gi|2982220|gb|AAC06351.1| (AF037073) Rho-associated kinase alpha...   196  5e-49
+SEQ gi|4758666|ref|NP_004681.1| LATS (large tumor suppressor, Drosop...   195  7e-49
+SEQ gi|84136|pir||PQ0207 protein kinase (EC 2.7.1.37) 1 - slime mold...   195  9e-49
+SEQ gi|464400|sp|P34100|PKD1_DICDI DEVELOPMENTALLY REGULATED PROTEIN...   195  1e-48
+SEQ gi|2136815|pir||S70633 serine/threonine-specific protein kinase ...   195  1e-48
+SEQ gi|6677761|ref|NP_033098.1| Rho-associated coiled-coil forming k...   195  1e-48
+SEQ gi|4028127|gb|AAC96115.1| (AF079535) 3-phosphoinositide dependen...   193  2e-48
+SEQ gi|7446379|pir||T14039 protein kinase (EC 2.7.1.37), myotonic dy...   193  3e-48
+SEQ gi|7293735|gb|AAF49104.1| (AE003515) trc gene product [Drosophil...   193  3e-48
+SEQ gi|172177|gb|AAA34878.1| (M32491) protein kinase C-like protein ...   193  3e-48
+SEQ gi|6319363|ref|NP_009445.1| Protein Kinase C; Pkc1p [Saccharomyc...   193  3e-48
+SEQ gi|4505831|ref|NP_003598.1| ser-Thr protein kinase related to th...   193  4e-48
+SEQ gi|6981478|ref|NP_037154.1| rhoA - binding serine/threosine kina...   191  9e-48
+SEQ gi|9716484|gb|AAF97511.1|AF247814_1 (AF247814) NDR kinase [Droso...   191  1e-47
+SEQ gi|4324436|gb|AAD16883.1| (AF104414) large tumor suppressor 1 [M...   190  2e-47
+SEQ gi|3122588|sp|O13310|ORB6_SCHPO SERINE/THREONINE-PROTEIN KINASE ...   190  2e-47
+SEQ gi|7492949|pir||T39748 probable ser/thr protein kinase - fission...   190  3e-47
+SEQ gi|1346358|sp|Q09831|KAD5_SCHPO PROBABLE SERINE/THREONINE-PROTEI...   190  3e-47
+SEQ gi|8778706|gb|AAF79714.1|AC020889_22 (AC020889) T1N15.10 [Arabid...   190  3e-47
+SEQ gi|5001828|gb|AAD37165.1|AF132742_1 (AF132742) 3-phosphoinositid...   189  5e-47
+SEQ gi|11357147|pir||T48447 3-phosphoinositide-dependent protein kin...   189  5e-47
+SEQ gi|5174413|ref|NP_006026.1| CDC42-binding protein kinase beta (D...   189  6e-47
+SEQ gi|13647955|ref|XP_007257.2| CDC42-binding protein kinase beta (...   189  6e-47
+SEQ gi|14133241|dbj|BAA86438.2| (AB032950) KIAA1124 protein [Homo sa...   189  6e-47
+SEQ gi|8567784|gb|AAF76356.1| (AC013428) 3-phosphoinositide-dependen...   188  8e-47
+SEQ gi|7446380|pir||T14050 protein kinase (EC 2.7.1.37) beta, myoton...   188  1e-46
+SEQ gi|7505496|pir||T25808 hypothetical protein K08B12.5 - Caenorhab...   187  2e-46
+SEQ gi|7508065|pir||T25035 hypothetical protein T20F10.1 - Caenorhab...   187  2e-46
+SEQ gi|417080|sp|P32865|GPK1_DROME G PROTEIN-COUPLED RECEPTOR KINASE...   187  2e-46
+SEQ gi|103166|pir||A41615 beta-adrenergic-receptor kinase (EC 2.7.1....   186  3e-46
+SEQ gi|2104851|emb|CAA73580.1| (Y13117) cAMP-dependent protein kinas...   185  7e-46
+SEQ gi|1220554|gb|AAA91961.1| (M96678) type Z protein kinase c [Xeno...   184  2e-45
+SEQ gi|12620235|gb|AAG60622.1|AF294916_1 (AF294916) phosphoinositide...   183  2e-45
+SEQ gi|6065881|emb|CAB58228.1| (AL022069) dJ168L15.1 (ribosomal prot...   183  3e-45
+SEQ gi|7489361|pir||T08033 probable serine/threonine protein kinase ...   183  5e-45
+SEQ gi|85121|pir||B28269 protein kinase (EC 2.7.1.37), cGMP-dependen...   182  5e-45
+SEQ gi|6110331|gb|AAF03776.1|AF151375_1 (AF151375) Rho-kinase [Droso...   181  9e-45
+SEQ gi|7293249|gb|AAF48631.1| (AE003502) Rhk gene product [Drosophil...   181  9e-45
+SEQ gi|7489362|pir||T08034 probable serine/threonine protein kinase ...   181  1e-44
+SEQ gi|104176|pir||S20964 ribosomal protein S6 kinase (EC 2.7.1.-), ...   181  1e-44
+SEQ gi|853820|emb|CAA84486.1| (Z35103) Ndr protein kinase [Drosophil...   181  1e-44
+SEQ gi|14517660|gb|AAK64304.1|AF250316_1 (AF250316) zinc finger prot...   180  2e-44
+SEQ gi|7505957|pir||T23688 hypothetical protein M03C11.1 - Caenorhab...   180  2e-44
+SEQ gi|6006312|dbj|BAA84780.1| (AB018444) nonphototrophic hypocotyl ...   179  3e-44
+SEQ gi|6319502|ref|NP_009584.1| Probable ser/thr-specific protein ki...   179  4e-44
+SEQ gi|7677439|gb|AAF67167.1| (AF238490) NDR protein kinase [Drosoph...   179  4e-44
+SEQ gi|6225857|sp|P70268|PKL1_MOUSE PROTEIN KINASE C-LIKE 1 (PROTEIN...   178  7e-44
+SEQ gi|13648786|ref|XP_015624.1| similar to protein kinase C, iota (...   178  1e-43
+SEQ gi|7161864|emb|CAB76566.1| (AJ250840) serine/threonine protein k...   178  1e-43
+SEQ gi|6978467|ref|NP_037029.1| adrenergic receptor kinase, beta 2 (...   177  2e-43
+SEQ gi|8923754|ref|NP_060871.1| gene for serine/threonine protein ki...   177  2e-43
+SEQ gi|2137768|pir||S71829 serine/threonine-specific protein kinase ...   177  2e-43
+SEQ gi|14192945|ref|NP_115794.1| dystrophia myotonica kinase, B15 [M...   177  2e-43
+SEQ gi|12040650|gb|AAB41023.2| (U83281) phototropin-like protein PsP...   177  2e-43
+SEQ gi|6688928|emb|CAB65325.1| (AJ252142) non-phototropic hypocotyl ...   176  3e-43
+SEQ gi|7434314|pir||T06464 protein kinase (EC 2.7.1.-) - garden pea ...   176  3e-43
+SEQ gi|1082744|pir||B49364 protein kinase (EC 2.7.1.37), myotonic dy...   176  4e-43
+SEQ gi|13631711|ref|XP_009136.3| myotonic dystrophy protein kinase [...   176  4e-43
+SEQ gi|181605|gb|AAC14450.1| (L08835) myotonic dystrophy kinase [Hom...   176  4e-43
+SEQ gi|181606|gb|AAC14451.1| (L08835) myotonic dystrophy kinase [Hom...   176  4e-43
+SEQ gi|1085344|pir||S48681 myotonin protein kinase - human >gi|63386...   176  4e-43
+SEQ gi|10334852|ref|NP_004400.3| dystrophia myotonica-protein kinase...   176  4e-43
+SEQ gi|300258|gb|AAB26549.1| myotonic dystrophy kinase, DM-kinase {C...   176  4e-43
+SEQ gi|300259|gb|AAB26550.1| myotonic dystrophy kinase, DM-kinase {C...   176  4e-43
+SEQ gi|7446368|pir||T06809 protein kinase homolog - garden pea            176  4e-43
+SEQ gi|2137689|pir||PC4220 protein kinase (EC 2.7.1.37) - mouse (fra...   176  4e-43
+SEQ gi|283358|pir||S22711 probable protein kinase cot-1 (EC 2.7.1.-)...   176  4e-43
+SEQ gi|6166017|sp|P38679|COT1_NEUCR SERINE/THREONINE-PROTEIN KINASE ...   176  4e-43
+SEQ gi|11346420|pir||T47255 serine/threonine kinase, illuminated myc...   176  4e-43
+SEQ gi|2147614|pir||S70706 probable protein kinase TB3 (EC 2.7.1.-) ...   176  6e-43
+SEQ gi|284366|pir||A42101 protein kinase homolog - human (fragment) ...   176  6e-43
+SEQ gi|1706450|sp|Q09013|DMK_HUMAN MYOTONIN-PROTEIN KINASE (MYOTONIC...   176  6e-43
+SEQ gi|976145|gb|AAA75237.1| (L00727) myotonin-protein kinase, Form ...   176  6e-43
+SEQ gi|976146|gb|AAA75238.1| (L00727) myotonin-protein kinase, Form ...   176  6e-43
+SEQ gi|976147|gb|AAA75239.1| (L00727) myotonin-protein kinase, Form ...   176  6e-43
+SEQ gi|3702275|gb|AAC62830.1| (AC005793) KIAA0561 protein [AA 1- 593...   175  7e-43
+SEQ gi|13096806|gb|AAH03196.1|AAH03196 (BC003196) Similar to adrener...   174  1e-42
+SEQ gi|5139484|emb|CAB45657.1| (AL022329) bK407F11.2 (adrenergic, be...   174  1e-42
+SEQ gi|2772930|gb|AAB96643.1| (AF029395) Genghis Khan [Drosophila me...   174  1e-42
+SEQ gi|7291742|gb|AAF47163.1| (AE003463) gek gene product [Drosophil...   174  1e-42
+SEQ gi|10946600|ref|NP_067277.1| hypothetical serine/threonine prote...   174  2e-42
+SEQ gi|4885055|ref|NP_005151.1| beta adrenergic receptor kinase 2 [H...   174  2e-42
+SEQ gi|345763|pir||JC1469 beta-adrenergic-receptor kinase (EC 2.7.1....   174  2e-42
+SEQ gi|3121776|sp|Q64682|ARK1_MESAU BETA-ADRENERGIC RECEPTOR KINASE ...   173  3e-42
+SEQ gi|6978465|ref|NP_036908.1| g-protein-linked receptor kinase (be...   173  3e-42
+SEQ gi|6006310|dbj|BAA84779.1| (AB018443) nonphototrophic hypocotyl ...   173  3e-42
+SEQ gi|627387|pir||A53791 beta-adrenergic-receptor kinase (EC 2.7.1....   173  3e-42
+SEQ gi|114151|sp|P21146|ARK1_BOVIN BETA-ADRENERGIC RECEPTOR KINASE 1...   173  3e-42
+SEQ gi|179335|gb|AAA58391.1| (M80776) receptor kinase [Homo sapiens]      173  3e-42
+SEQ gi|5853305|gb|AAD54413.1|AF181260_1 (AF181260) protein serine/th...   173  3e-42
+SEQ gi|9502417|gb|AAF88116.1|AC021043_9 (AC021043) Putative protein ...   173  4e-42
+SEQ gi|531122|gb|AAB60689.1| (U08438) beta-adrenergic receptor kinas...   173  5e-42
+SEQ gi|4501971|ref|NP_001610.1| beta adrenergic receptor kinase 1 [H...   172  5e-42
+SEQ gi|11358837|pir||T51600 serine/threonine protein kinase (EC 2.7....   172  5e-42
+SEQ gi|7492958|pir||T41341 probable serine-threonine-protein kinase ...   172  6e-42
+SEQ gi|541818|pir||S42866 protein kinase - common ice plant (fragmen...   172  6e-42
+SEQ gi|8468028|dbj|BAA96628.1| (AP002482) ESTs D41739(S4522),AU05599...   172  6e-42
+SEQ gi|114154|sp|P26818|ARK2_BOVIN BETA-ADRENERGIC RECEPTOR KINASE 2...   172  7e-42
+SEQ gi|7340882|dbj|BAA92972.1| (AP001551) ESTs AU056183(S20356),AU05...   172  7e-42
+SEQ gi|7446437|pir||T04862 probable serine/threonine-specific protei...   172  8e-42
+SEQ gi|1750190|gb|AAB39188.1| (U79744) putative serine/threonine pro...   172  8e-42
+SEQ gi|1200533|gb|AAA89101.1| (M28500) protein kinase [Euplotes cras...   171  1e-41
+SEQ gi|3360512|gb|AAC27932.1| (AF070065) Citron-K kinase [Rattus nor...   171  1e-41
+SEQ gi|11358584|pir||T47518 nonphototropic hypocotyl 1 - Arabidopsis...   171  1e-41
+SEQ gi|2144050|pir||I58185 beta-adrenergic receptor kinase - rat >gi...   171  2e-41
+SEQ gi|1176806|sp|Q09639|YR22_CAEEL PUTATIVE G PROTEIN-COUPLED RECEP...   170  3e-41
+SEQ gi|1346360|sp|Q09898|KAIB_SCHPO PROBABLE SERINE/THREONINE-PROTEI...   170  3e-41
+SEQ gi|13398448|gb|AAK21896.1|AF333028_1 (AF333028) G protein recept...   169  3e-41
+SEQ gi|4206092|gb|AAD11419.1| (AF087455) G protein receptor kinase 2...   169  3e-41
+SEQ gi|13877631|gb|AAK43893.1|AF370516_1 (AF370516) putative protein...   169  4e-41
+SEQ gi|7522091|pir||T30891 PHY3 protein - maidenhair fern >gi|406295...   169  4e-41
+SEQ gi|541825|pir||S42868 protein kinase - spinach >gi|457711|emb|CA...   169  5e-41
+SEQ gi|7489818|pir||T01353 probable serine/threonine protein kinase ...   169  5e-41
+SEQ gi|13647947|ref|XP_009889.2| beta adrenergic receptor kinase 2 [...   169  6e-41
+SEQ gi|13651379|ref|XP_009203.2| v-akt murine thymoma viral oncogene...   169  6e-41
+SEQ gi|7804485|dbj|BAA95669.1| (AB037188) phototropin [Adiantum capi...   168  7e-41
+SEQ gi|7446447|pir||T09903 serine/threonine-specific protein kinase ...   168  8e-41
+SEQ gi|4519169|dbj|BAA75507.1| (AB009875) rhodopsin kinase [Octopus ...   168  1e-40
+SEQ gi|1729444|emb|CAA67671.1| (X99279) AKin11 [Arabidopsis thaliana...   167  2e-40
+SEQ gi|1742967|emb|CAA64382.1| (X94755) ser/thr protein kinase [Arab...   167  2e-40
+SEQ gi|2347199|gb|AAC16938.1| (AC002338) putative protein kinase [Ar...   167  2e-40
+SEQ gi|9758928|dbj|BAB09309.1| (AB016870) serine/threonine protein k...   167  2e-40
+SEQ gi|7327648|gb|AAF08967.2| (AF200725) rhodopsin kinase [Loligo pe...   167  2e-40
+SEQ gi|12848541|dbj|BAB27991.1| (AK012045) putative [Mus musculus]        167  2e-40
+SEQ gi|7294566|gb|AAF49906.1| (AE003541) CG10522 gene product [alt 1...   166  3e-40
+SEQ gi|7446425|pir||T02306 hypothetical protein F13P17.2 - Arabidops...   166  4e-40
+SEQ gi|733123|gb|AAA97437.1| (U22183) serine/threonine kinase [Caeno...   165  6e-40
+SEQ gi|1118007|gb|AAA83272.1| (U40858) serine/threonine kinase [Caen...   165  6e-40
+SEQ gi|7511584|pir||T18611 probable serine/threonine-specific protei...   165  6e-40
+SEQ gi|7511585|pir||T18610 probable serine/threonine kinase short sp...   165  6e-40
+SEQ gi|1076633|pir||A56009 serine/threonine-specific protein kinase ...   164  1e-39
+SEQ gi|7446373|pir||T14822 probable serine/threonine protein kinase ...   164  1e-39
+SEQ gi|5821069|dbj|BAA83689.1| (AB011968) OsPK7 [Oryza sativa]            164  1e-39
+SEQ gi|7672782|gb|AAF66639.1|AF143743_1 (AF143743) SNF1 [Lycopersico...   164  2e-39
+SEQ gi|3089349|gb|AAC15093.1| (U64205) Cdc25C associated protein kin...   164  2e-39
+SEQ gi|13630620|ref|XP_007260.2| MAP/microtubule affinity-regulating...   164  2e-39
+SEQ gi|7302464|gb|AAF57549.1| (AE003795) par-1 gene product [alt 1] ...   164  2e-39
+SEQ gi|7798704|gb|AAF69801.1|AF258462_1 (AF258462) PAR-1 [Drosophila...   164  2e-39
+SEQ gi|1170018|sp|P43249|GRK5_BOVIN G PROTEIN-COUPLED RECEPTOR KINAS...   164  2e-39
+SEQ gi|7434354|pir||T10449 probable serine/threonine-specific protei...   164  2e-39
+SEQ gi|4885349|ref|NP_005299.1| G protein-coupled receptor kinase 5 ...   163  4e-39
+SEQ gi|9256545|ref|NP_061357.1| G protein-coupled receptor kinase 5 ...   163  4e-39
+SEQ gi|6175630|gb|AAF05109.1|AF157046_1 (AF157046) G protein-coupled...   163  5e-39
+SEQ gi|4505103|ref|NP_002367.1| MAP/microtubule affinity-regulating ...   163  5e-39
+SEQ gi|6166239|sp|Q38997|KI10_ARATH SNF1-RELATED PROTEIN KINASE KIN1...   163  5e-39
+SEQ gi|12313871|ref|NP_067491.1| MAP/microtubule affinity-regulating...   162  6e-39
+SEQ gi|12313875|ref|NP_073712.1| MAP/microtubule affinity-regulating...   162  6e-39
+SEQ gi|9758929|dbj|BAB09310.1| (AB016870) serine/threonine protein k...   162  7e-39
+SEQ gi|6651177|gb|AAF22219.1|AF141378_1 (AF141378) protein kinase PK...   162  7e-39
+SEQ gi|7446372|pir||T14736 probable serine/threonine kinase (EC 2.7....   161  9e-39
+SEQ gi|132637|sp|P28327|RK_BOVIN RHODOPSIN KINASE (RK) >gi|108911|pi...   161  1e-38
+SEQ gi|4107009|dbj|BAA36298.1| (D82039) OSK1 [Oryza sativa]               161  1e-38
+SEQ gi|9845487|ref|NP_059672.1| ELKL motif kinase 1 isoform a; ELKL ...   161  1e-38
+SEQ gi|11067437|ref|NP_067731.1| serine/threonine kinase [Rattus nor...   161  1e-38
+SEQ gi|7446398|pir||G01025 serine/threonine protein kinase - human        161  1e-38
+SEQ gi|9845489|ref|NP_004945.2| ELKL motif kinase 1 isoform b; ELKL ...   161  1e-38
+SEQ gi|13638613|ref|XP_011989.2| ELKL motif kinase 1 isoform a [Homo...   161  1e-38
+SEQ gi|13638615|ref|XP_011990.2| ELKL motif kinase 1 isoform b [Homo...   161  1e-38
+SEQ gi|14250622|gb|AAH08771.1|AAH08771 (BC008771) Similar to ELKL mo...   161  1e-38
+SEQ gi|4884974|gb|AAD31900.1|AF145482_1 (AF145482) putative serine/t...   161  1e-38
+SEQ gi|14486386|gb|AAK61494.1| (AY035226) CBL-interacting protein ki...   161  1e-38
+SEQ gi|13540624|ref|NP_110456.1| G protein-coupled receptor kinase 5...   161  1e-38
+SEQ gi|12320856|gb|AAG50566.1|AC073506_8 (AC073506) serine/threonine...   161  2e-38
+SEQ gi|12862627|dbj|BAB32498.1| (AB055658) G protein-coupled recepto...   161  2e-38
+SEQ gi|4678722|emb|CAB41259.1| (AL049688) hypothetical protein [Homo...   161  2e-38
+SEQ gi|9966875|ref|NP_065130.1| CamKI-like protein kinase [Homo sapi...   161  2e-38
+SEQ gi|3599507|gb|AAC72822.1| (AF086823) rho/rac-interacting citron ...   161  2e-38
+SEQ gi|3599509|gb|AAC72823.1| (AF086824) rho/rac-interacting citron ...   161  2e-38
+SEQ gi|14017937|dbj|BAB47489.1| (AB058763) KIAA1860 protein [Homo sa...   161  2e-38
+SEQ gi|6679643|ref|NP_031954.1| ELKL motif kinase [Mus musculus] >gi...   160  3e-38
+SEQ gi|346945|pir||S31333 protein kinase kem (EC 2.7.1.-) - mouse         160  3e-38
+SEQ gi|4506529|ref|NP_002920.1| rhodopsin kinase [Homo sapiens] >gi|...   160  3e-38
+SEQ gi|575292|emb|CAA57898.1| (X82548) SNF1-related protein kinase [...   160  3e-38
+SEQ gi|4567091|gb|AAD23582.1|AF128443_1 (AF128443) SNF-1-like serine...   159  4e-38
+SEQ gi|1730055|sp|P25323|KMLC_DICDI MYOSIN LIGHT CHAIN KINASE (MLCK)...   159  4e-38
+SEQ gi|5821067|dbj|BAA83688.1| (AB011967) OsPK4 [Oryza sativa]            159  4e-38
+SEQ gi|11259625|pir||T43221 serine/threonine-specific protein kinase...   159  5e-38
+SEQ gi|6325047|ref|NP_015115.1| Protein kinase; Ipl1p [Saccharomyces...   159  5e-38
+SEQ gi|4007153|emb|CAA19296.1| (AL023754) dJ272L16.1 (Rat Ca2+/Calmo...   159  5e-38
+SEQ gi|14196445|ref|NP_065172.1| similar to calcium/calmodulin depen...   159  5e-38
+SEQ gi|6755326|ref|NP_036011.1| rhodopsin kinase; G-Protein receptor...   159  6e-38
+SEQ gi|13448037|gb|AAK26845.1|AF339147_1 (AF339147) SOS2-like protei...   159  6e-38
+SEQ gi|3005012|gb|AAC09271.1| (AF040759) G protein-coupled receptor ...   159  6e-38
+SEQ gi|7299437|gb|AAF54626.1| (AE003691) KP78b gene product [Drosoph...   158  9e-38
+SEQ gi|3061335|dbj|BAA25670.1| (AB009568) OlGRK-C [Oryzias latipes]       158  1e-37
+SEQ gi|102256|pir||A40811 myosin-light-chain kinase (EC 2.7.1.117) A...   158  1e-37
+SEQ gi|3885328|gb|AAC77856.1| (AC005623) putative protein kinase [Ar...   158  1e-37
+SEQ gi|9280638|gb|AAF86507.1|AF286051_1 (AF286051) CBL-interacting p...   158  1e-37
+SEQ gi|14194167|gb|AAK56278.1|AF367290_1 (AF367290) At2g26980/T20P8....   158  1e-37
+SEQ gi|7434358|pir||T07788 probable serine/threonine-specific protei...   158  1e-37
+SEQ gi|6324472|ref|NP_014541.1| Ser/Thr protein kinase; Pkh2p [Sacch...   158  2e-37
+SEQ gi|2077934|dbj|BAA19880.1| (D86557) Protein Kinase [Rattus norve...   158  2e-37
+SEQ gi|14422219|emb|CAC41379.1| (AL365314) bM106N23.1 (novel protein...   158  2e-37
+SEQ gi|14423524|gb|AAK62444.1|AF386999_1 (AF386999) similar to wpk4 ...   157  2e-37
+SEQ gi|13899225|ref|NP_113605.1| MAP/microtubule affinity-regulating...   157  2e-37
+SEQ gi|2564680|gb|AAB81837.1| (AF023484) putative KP78 protein kinas...   157  2e-37
+SEQ gi|7493201|pir||T41326 protein kinase - fission yeast (Schizosac...   157  2e-37
+SEQ gi|13592045|ref|NP_112358.1| rhodopsin kinase [Rattus norvegicus...   157  2e-37
+SEQ gi|976148|gb|AAA75240.1| (L00727) myotonin-protein kinase, Form ...   157  2e-37
+SEQ gi|4099088|gb|AAD00542.1| (U83177) SNF1 family protein kinase [A...   157  2e-37
+SEQ gi|10177691|dbj|BAB11017.1| (AB009054) AKin11 [Arabidopsis thali...   157  2e-37
+SEQ gi|1079309|pir||S52242 protein kinase (EC 2.7.1.-) p46XlEg22 - A...   157  3e-37
+SEQ gi|11346417|pir||T48202 serine/threonine protein kinase ATPK10 -...   157  3e-37
+SEQ gi|7434355|pir||T07415 probable serine/threonine-specific protei...   156  3e-37
+SEQ gi|7340880|dbj|BAA92970.1| (AP001551) Similar to Arabidopsis tha...   156  3e-37
+SEQ gi|9506749|ref|NP_062370.1| G protein-coupled receptor kinase 2,...   156  3e-37
+SEQ gi|6715641|gb|AAF26468.1|AC007323_9 (AC007323) T25K16.13 [Arabid...   156  4e-37
+SEQ gi|13249117|gb|AAK16684.1|AF295664_1 (AF295664) CBL-interacting ...   156  4e-37
+SEQ gi|5453964|ref|NP_006242.1| protein kinase, AMP-activated, alpha...   156  5e-37
+SEQ gi|1777312|dbj|BAA06311.1| (D30622) novel serine/threonine prote...   156  5e-37
+SEQ gi|7434313|pir||T00862 serine/threonine-specific protein kinase ...   156  6e-37
+SEQ gi|13647220|ref|XP_005969.2| G protein-coupled receptor kinase 5...   156  6e-37
+SEQ gi|1079308|pir||S52243 p46Eg265 protein - African clawed frog >g...   155  7e-37
+SEQ gi|11862980|ref|NP_062015.1| 5'-AMP-activated protein kinase alp...   155  7e-37
+SEQ gi|11416476|ref|XP_003723.1| protein kinase, AMP-activated, alph...   155  7e-37
+SEQ gi|2443747|gb|AAB71397.1| (AF020309) SNF1A/AMP-activated protein...   155  7e-37
+SEQ gi|7299438|gb|AAF54627.1| (AE003691) KP78a gene product [Drosoph...   155  8e-37
+SEQ gi|4107001|dbj|BAA36299.1| (D82035) OSK4 [Oryza sativa]               155  9e-37
+SEQ gi|4107003|dbj|BAA36295.1| (D82036) OSK5 [Oryza sativa] >gi|4107...   155  9e-37
+SEQ gi|7522437|pir||T40486 phosphoinositide-dependent protein kinase...   155  1e-36
+SEQ gi|2564679|gb|AAB81836.1| (AF023484) putative KP78 protein kinas...   154  1e-36
+SEQ gi|6760436|gb|AAF28351.1|AF219232_1 (AF219232) qin-induced kinas...   154  2e-36
+SEQ gi|12862625|dbj|BAB32497.1| (AB055657) G protein-coupled recepto...   154  2e-36
+SEQ gi|13027454|ref|NP_076481.1| AMP-activated protein kinase [Rattu...   154  2e-36
+SEQ gi|862473|gb|AAA85033.1| (U12149) 5'-AMP-activated protein kinas...   154  2e-36
+SEQ gi|2077932|dbj|BAA19879.1| (D86556) Protein Kinase [Rattus norve...   154  2e-36
+SEQ gi|8393035|ref|NP_058971.1| calcium/calmodulin-dependent protein...   154  2e-36
+SEQ gi|6753248|ref|NP_036170.1| calcium/calmodulin-dependent protein...   154  2e-36
+SEQ gi|3928519|dbj|BAA34675.1| (AB011670) wpk4 protein kinase [Triti...   154  2e-36
+SEQ gi|7446371|pir||T14735 probable serine/threonine kinase (EC 2.7....   153  3e-36
+SEQ gi|206193|gb|AAA41877.1| (M15523) protein kinase [Rattus norvegi...   153  3e-36
+SEQ gi|2130048|pir||S59941 serine/threonine-specific protein kinase ...   153  4e-36
+SEQ gi|7511906|pir||T13741 hypothetical protein 22E5.8 - fruit fly (...   153  4e-36
+SEQ gi|7290249|gb|AAF45711.1| (AE003422) EG:22E5.8 gene product [Dro...   153  4e-36
+SEQ gi|1079310|pir||S52244 p69Eg3 protein - African clawed frog           153  5e-36
+SEQ gi|14329670|emb|CAA78913.2| (Z17205) p69Eg3 [Xenopus laevis]          153  5e-36
+SEQ gi|4091885|gb|AAC99329.1| (AF062479) protein kinase SNF1 [Oryza ...   152  8e-36
+SEQ gi|5453966|ref|NP_006243.1| protein kinase, AMP-activated, alpha...   152  9e-36
+SEQ gi|8331757|gb|AAF74509.1| (U52111) Ca2+/Calmodulin-dependent pro...   152  9e-36
+SEQ gi|7446364|pir||C71408 probable protein kinase - Arabidopsis tha...   152  9e-36
+SEQ gi|13638482|ref|XP_002052.2| protein kinase, AMP-activated, alph...   151  1e-35
+SEQ gi|7446440|pir||T03444 protein kinase homolog - rice >gi|2246625...   151  1e-35
+SEQ gi|3643610|gb|AAC42257.1| (AC005395) putative protein kinase [Ar...   151  1e-35
+SEQ gi|992672|gb|AAC50409.1| (U33168) G protein-coupled receptor kin...   151  1e-35
+SEQ gi|992673|gb|AAC50410.1| (U33168) G protein-coupled receptor kin...   151  1e-35
+SEQ gi|992674|gb|AAC50411.1| (U33168) G protein-coupled receptor kin...   151  1e-35
+SEQ gi|992675|gb|AAC50412.1| (U33168) G protein-coupled receptor kin...   151  1e-35
+SEQ gi|6623874|gb|AAF19215.1| (AC018722) putative protein kinase [Ar...   151  1e-35
+SEQ gi|1353144|sp|Q09537|YQR1_CAEEL PROBABLE G PROTEIN-COUPLED RECEP...   151  1e-35
+SEQ gi|6708213|gb|AAF25838.1| (AF195272) serine/threonine kinase AIE...   151  2e-35
+SEQ gi|4885347|ref|NP_005298.1| G protein-coupled receptor kinase 2 ...   151  2e-35
+SEQ gi|6166188|sp|P32298|GRK4_HUMAN G PROTEIN-COUPLED RECEPTOR KINAS...   151  2e-35
+SEQ gi|971257|gb|AAC50407.1| (U33055) G protein-coupled receptor kin...   151  2e-35
+SEQ gi|971259|gb|AAC50408.1| (U33056) G protein-coupled receptor kin...   151  2e-35
+SEQ gi|1770422|emb|CAA66802.1| (X98118) G protein-coupled receptor k...   151  2e-35
+SEQ gi|3061337|dbj|BAA25671.1| (AB009569) OlGRK-R [Oryzias latipes]       151  2e-35
+SEQ gi|3893099|emb|CAA76937.1| (Y17917) calcium/calmodulin dependent...   151  2e-35
+SEQ gi|8923922|ref|NP_061120.1| MARK [Homo sapiens] >gi|8099346|gb|A...   151  2e-35
+SEQ gi|2052189|emb|CAB06294.1| (Z83868) serine/threonine kinase [Rat...   151  2e-35
+SEQ gi|13812242|ref|NP_113373.1| SNF-related kinase [Guillardia thet...   151  2e-35
+SEQ gi|7434310|pir||T10690 serine/threonine-specific protein kinase ...   150  2e-35
+SEQ gi|2696088|dbj|BAA23794.1| (D89731) AIM-1 [Rattus norvegicus]         150  2e-35
+SEQ gi|3004993|gb|AAC09263.1| (AF040754) G protein-coupled receptor ...   150  2e-35
+SEQ gi|3004994|gb|AAC09264.1| (AF040754) G protein-coupled receptor ...   150  2e-35
+SEQ gi|3004995|gb|AAC09265.1| (AF040754) G protein-coupled receptor ...   150  2e-35
+SEQ gi|6707685|sp|O70293|GRK6_MOUSE G PROTEIN-COUPLED RECEPTOR KINAS...   150  2e-35
+SEQ gi|3005003|gb|AAC09269.1| (AF040748) G protein-coupled receptor ...   150  2e-35
+SEQ gi|3005005|gb|AAC09270.1| (AF040749) G protein-coupled receptor ...   150  2e-35
+SEQ gi|6321529|ref|NP_011606.1| Serine/threonine protein kinase; Dbf...   150  3e-35
+SEQ gi|5714636|gb|AAD48007.1|AF159295_1 (AF159295) serine/threonine ...   150  3e-35
+SEQ gi|2980770|emb|CAA18197.1| (AL022198) putative protein kinase [A...   149  4e-35
+SEQ gi|2257984|gb|AAB63205.1| (AF007817) IPL1 and aurora related kin...   149  4e-35
+SEQ gi|4502553|ref|NP_003647.1| calcium/calmodulin-dependent protein...   149  5e-35
+SEQ gi|3122310|sp|Q63450|KCC1_RAT CALCIUM/CALMODULIN-DEPENDENT PROTE...   149  5e-35
+SEQ gi|3114436|pdb|1A06|    Calmodulin-Dependent Protein Kinase From...   149  5e-35
+SEQ gi|171380|gb|AAB05204.1| (M62506) putative [Saccharomyces cerevi...   149  5e-35
+SEQ gi|5442424|gb|AAD43341.1|AF159253_1 (AF159253) serine threonine ...   149  5e-35
+SEQ gi|12643489|sp|Q9R1U5|SN1L_RAT PROBABLE SERINE/THREONINE PROTEIN...   149  6e-35
+SEQ gi|11067425|ref|NP_067725.1| salt-inducible protein kinase [Ratt...   149  6e-35
+SEQ gi|6325368|ref|NP_015436.1| kinase required for late nuclear div...   149  7e-35
+SEQ gi|7453645|gb|AAF62923.1|AF237670_1 (AF237670) serine/threonine ...   149  7e-35
+SEQ gi|12621084|ref|NP_075217.1| G protein-coupled receptor kinase 4...   149  7e-35
+SEQ gi|9988777|gb|AAG10787.1|AF292096_1 (AF292096) protein kinase AI...   149  7e-35
+SEQ gi|6320698|ref|NP_010778.1| Ser/Thr protein kinase; Pkh1p [Sacch...   149  7e-35
+SEQ gi|1176571|sp|P45894|YNA3_CAEEL PUTATIVE SERINE/THREONINE-PROTEI...   148  8e-35
+SEQ gi|4001826|gb|AAC95001.1| (AF063016) G protein-coupled receptor ...   148  8e-35
+SEQ gi|13249115|gb|AAK16683.1|AF290193_1 (AF290193) CBL-interacting ...   148  8e-35
+SEQ gi|1673504|emb|CAA66181.1| (X97568) G protein-coupled receptor k...   148  9e-35
+SEQ gi|1707667|emb|CAA66069.1| (X97439) G protein-coupled receptor k...   148  9e-35
+SEQ gi|13928910|ref|NP_113845.1| G protein-coupled receptor kinase 6...   148  9e-35
+SEQ gi|3005014|gb|AAC09272.1| (AF040750) G protein-coupled receptor ...   148  9e-35
+SEQ gi|171378|gb|AAA34559.1| (M34146) cell cycle protein (DBF2) [Sac...   148  1e-34
+SEQ gi|3510234|gb|AAC33487.1| (AC005581) R31237_1, partial CDS [Homo...   148  1e-34
+SEQ gi|1763647|gb|AAB62982.1| (U80932) serine/threonine kinase Ayk1 ...   148  1e-34
+SEQ gi|3298603|gb|AAC25955.1| (AF054621) serine/threonine kinase AIE...   148  1e-34
+SEQ gi|2133702|pir||S51600 phosphorylase kinase (EC 2.7.1.38) gamma ...   148  2e-34
+SEQ gi|4521233|dbj|BAA76292.1| (AB017332) Aurora/Ipl1-related kinase...   148  2e-34
+SEQ gi|12698075|dbj|BAB21856.1| (AB051552) KIAA1765 protein [Homo sa...   148  2e-34
+SEQ gi|6754746|ref|NP_034961.1| myocardial SNF1-like kinase [Mus mus...   147  2e-34
+SEQ gi|10181114|ref|NP_065597.1| serine/threonine kinase 13 (aurora/...   147  2e-34
+SEQ gi|4982468|gb|AAD30963.2| (AF118151) SNF1/AMP-activated kinase [...   147  2e-34
+SEQ gi|406113|gb|AAA19670.1| (L24907) protein kinase I [Rattus norve...   147  2e-34
+SEQ gi|9049474|dbj|BAA99439.1| (AP002743) putative protein kinase [O...   147  2e-34
+SEQ gi|1322144|dbj|BAA04658.1| (D21099) STK-1 [Mus musculus]              147  2e-34
+SEQ gi|2979623|gb|AAC12683.1| (U69107) aurora-related kinase 2 [Mus ...   147  2e-34
+SEQ gi|13358640|dbj|BAB33045.1| (AB056389) hypothetical protein [Mac...   147  2e-34
+SEQ gi|2137688|pir||JC4665 protein kinase (EC 2.7.1.37) - mouse           147  3e-34
+SEQ gi|7493202|pir||T41425 protein kinase - fission yeast (Schizosac...   147  3e-34
+SEQ gi|9978891|sp|P57059|SN1L_HUMAN PROBABLE SERINE/THREONINE PROTEI...   146  3e-34
+SEQ gi|4758128|ref|NP_004725.1| doublecortin and CaM kinase-like 1 [...   146  4e-34
+SEQ gi|6225242|sp|O15075|DCK1_HUMAN SERINE/THREONINE-PROTEIN KINASE ...   146  4e-34
+SEQ gi|9294138|dbj|BAB02040.1| (AB022219) serine/threonine kinase [A...   146  4e-34
+SEQ gi|14028593|gb|AAK52419.1|AF265346_1 (AF265346) protein kinase C...   146  4e-34
+SEQ gi|9279584|dbj|BAB01042.1| (AB022220) protein kinase [Arabidopsi...   146  4e-34
+SEQ gi|7297776|gb|AAF53026.1| (AE003630) ial gene product [Drosophil...   146  5e-34
+SEQ gi|7506849|pir||T29858 hypothetical protein T01C8.1 - Caenorhabd...   146  5e-34
+SEQ gi|7446411|pir||JC5974 aurora-related kinase 1 (EC 2.7.-.-) - human   146  5e-34
+SEQ gi|100610|pir||S24578 protein kinase BKIN12 (EC 2.7.1.-) - barle...   146  5e-34
+SEQ gi|2217968|emb|CAA73006.1| (Y12337) myotonic dystrophy protein k...   146  5e-34
+SEQ gi|7499143|pir||T20941 hypothetical protein F15A2.6 - Caenorhabd...   146  5e-34
+SEQ gi|12276122|gb|AAG50270.1|AF316542_1 (AF316542) serine/threonine...   146  5e-34
+SEQ gi|6005850|ref|NP_009125.1| protein kinase Chk2 [Homo sapiens] >...   146  6e-34
+SEQ gi|13627605|ref|XP_011869.2| protein kinase, cGMP-dependent, typ...   146  6e-34
+SEQ gi|7292679|gb|AAF48077.1| (AE003486) PhKgamma gene product [alt ...   145  7e-34
+SEQ gi|10728189|gb|AAG22343.1| (AE003486) PhKgamma gene product [alt...   145  7e-34
+SEQ gi|3341452|emb|CAA07813.1| (AJ007990) SnRK1-type protein kinase ...   145  8e-34
+SEQ gi|4504101|ref|NP_002073.1| G protein-coupled receptor kinase 6 ...   145  9e-34
+SEQ gi|414421|gb|AAA03565.1| (U00686) putative novel receptor kinase...   145  9e-34
+SEQ gi|2499664|sp|Q60670|MSK_MOUSE PUTATIVE SERINE/THREONINE-PROTEIN...   145  9e-34
+SEQ gi|3005016|gb|AAC09273.1| (AF040751) G protein-coupled receptor ...   145  9e-34
+SEQ gi|3005018|gb|AAC09274.1| (AF040752) G protein-coupled receptor ...   145  9e-34
+SEQ gi|13641765|ref|XP_003736.2| G protein-coupled receptor kinase 6...   145  9e-34
+SEQ gi|1079125|pir||A56220 protein kinase (EC 2.7.1.37) aurora - fru...   145  9e-34
+SEQ gi|7299536|gb|AAF54723.1| (AE003693) aur gene product [Drosophil...   145  9e-34
+SEQ gi|3289986|gb|AAC25618.1| (AC005261) STK13 [Homo sapiens]             145  9e-34
+SEQ gi|13653970|ref|XP_009546.3| serine/threonine kinase 15 [Homo sa...   145  1e-33
+SEQ gi|4507275|ref|NP_003591.1| serine/threonine kinase 15; Serine/t...   145  1e-33
+SEQ gi|12654873|gb|AAH01280.1|AAH01280 (BC001280) serine/threonine k...   145  1e-33
+SEQ gi|6754678|ref|NP_034920.1| maternal embryonic leucine zipper ki...   145  1e-33
+SEQ gi|1479988|gb|AAB72030.1| (L76158) protein kinase PK38 [Mus musc...   145  1e-33
+SEQ gi|6323643|ref|NP_013714.1| protein kinase which functions at th...   145  1e-33
+SEQ gi|9910164|ref|NP_064362.1| double cortin and calcium/calmodulin...   144  1e-33
+SEQ gi|11066952|gb|AAG28776.1|AF302112_1 (AF302112) CBL-interacting ...   144  1e-33
+SEQ gi|3023902|sp|P97711|GRK6_RAT G PROTEIN-COUPLED RECEPTOR KINASE ...   144  1e-33
+SEQ gi|10441881|gb|AAG17218.1|AF217975_1 (AF217975) unknown [Homo sa...   144  2e-33
+SEQ gi|6671812|gb|AAF23187.1|AF099924_2 (AF099924) C. elegans Ca2+/c...   144  2e-33
+SEQ gi|7434372|pir||T37321 Ca2+/calmodulin-dependent protein kinase ...   144  2e-33
+SEQ gi|9295327|gb|AAF86944.1|AF226044_1 (AF226044) HSNFRK [Homo sapi...   144  2e-33
+SEQ gi|9758325|dbj|BAB08799.1| (AB011482) SNF1 related protein kinas...   144  2e-33
+SEQ gi|14334390|gb|AAK59696.1| (AY034100) CBL-interacting protein ki...   144  2e-33
+SEQ gi|12053045|emb|CAB66698.1| (AL136764) hypothetical protein [Hom...   143  3e-33
+SEQ gi|4580468|gb|AAD24392.1|AC006081_10 (AC006081) putative cAMP-de...   143  3e-33
+SEQ gi|3128224|gb|AAC26704.1| (AC004077) putative protein kinase [Ar...   143  3e-33
+SEQ gi|7446412|pir||JC5975 aurora-related kinase 1 (EC 2.7.-.-) - mouse   143  3e-33
+SEQ gi|2143504|pir||I78396 myotonic dystrophy kinase - mouse (fragme...   143  3e-33
+SEQ gi|2143502|pir||I78394 myotonic dystrophy kinase - mouse (fragme...   143  3e-33
+SEQ gi|2143501|pir||I78393 myotonic dystrophy kinase - mouse (fragme...   143  3e-33
+SEQ gi|887563|emb|CAA80490.1| (Z22868) serine/threonine-protein kina...   143  3e-33
+SEQ gi|11346410|pir||T50802 serine/threonine protein kinase-like pro...   143  4e-33
+SEQ gi|3435279|gb|AAC78477.1| (AF082391) protein kinase homolog [Ara...   143  4e-33
+SEQ gi|12324035|gb|AAG51984.1|AC024260_22 (AC024260) auxin-induced p...   143  4e-33
+SEQ gi|4507279|ref|NP_003149.1| serine/threonine kinase 6; Serine/th...   143  4e-33
+SEQ gi|7661974|ref|NP_055606.1| KIAA0175 gene product [Homo sapiens]...   143  4e-33
+SEQ gi|13926114|gb|AAA19808.2| (AF359249) serine/threonine protein k...   143  5e-33
+SEQ gi|4507273|ref|NP_003151.1| serine/threonine kinase 13 (aurora/I...   143  5e-33
+SEQ gi|4959438|gb|AAD34349.1|AF121358_1 (AF121358) Ipl1/aur serine/t...   142  6e-33
+SEQ gi|6225243|sp|O08875|DCK1_RAT SERINE/THREONINE-PROTEIN KINASE DC...   142  6e-33
+SEQ gi|7302570|gb|AAF57652.1| (AE003798) CG15072 gene product [Droso...   142  8e-33
+SEQ gi|7488831|pir||T06432 probable protein kinase 3 - garden pea >g...   142  9e-33
+SEQ gi|8777339|dbj|BAA96929.1| (AB019228) serine/threonine protein k...   142  9e-33
+SEQ gi|13249119|gb|AAK16685.1|AF295665_1 (AF295665) CBL-interacting ...   142  9e-33
+SEQ gi|9280632|gb|AAF86504.1|AF285105_1 (AF285105) CBL-interacting p...   141  1e-32
+SEQ gi|8745041|emb|CAB95259.1| (AL359777) probable MAP kinase kinase...   141  1e-32
+SEQ gi|6320674|ref|NP_010754.1| Ydr466wp [Saccharomyces cerevisiae] ...   141  1e-32
+SEQ gi|14286167|sp|P52304|POLO_DROME PROTEIN KINASE POLO >gi|7293666...   141  1e-32
+SEQ gi|2129548|pir||S71196 calcium-dependent protein kinase (EC 2.7....   141  2e-32
+SEQ gi|2129555|pir||S71775 calcium-dependent protein kinase 9 - Arab...   141  2e-32
+SEQ gi|7434356|pir||T04145 serine/threonine protein kinase homolog -...   141  2e-32
+SEQ gi|13940219|emb|CAC37921.1| (AJ298057) putative protein kinase A...   141  2e-32
+SEQ gi|12056388|emb|CAC21198.1| (AJ299401) protein kinase [Trypanoso...   141  2e-32
+SEQ gi|6094310|sp|O94168|SNF1_CANTR CARBON CATABOLITE DEREPRESSING P...   141  2e-32
+SEQ gi|2996094|gb|AAC08428.1| (AF019766) G-protein coupled receptor ...   141  2e-32
+SEQ gi|2143973|pir||S62365 SNF1-related protein kinase (EC 2.7.1.-) ...   140  2e-32
+SEQ gi|7508914|pir||T33998 hypothetical protein W03G1.6 - Caenorhabd...   140  2e-32
+SEQ gi|14133229|dbj|BAA76843.2| (AB023216) KIAA0999 protein [Homo sa...   140  3e-32
+SEQ gi|7294217|gb|AAF49569.1| (AE003529) CG6114 gene product [Drosop...   140  3e-32
+SEQ gi|56920|emb|CAA27756.1| (X04139) protein kinase C C-terminal re...   140  3e-32
+SEQ gi|103167|pir||B41615 G protein-coupled receptor kinase (EC 2.7....   139  4e-32
+SEQ gi|2209349|gb|AAB61467.1| (AF004674) GPRK2 [Drosophila melanogas...   139  4e-32
+SEQ gi|7302050|gb|AAF57152.1| (AE003778) Gprk2 gene product [Drosoph...   139  4e-32
+SEQ gi|14286129|sp|P32866|GPK2_DROME G PROTEIN-COUPLED RECEPTOR KINA...   139  4e-32
+SEQ gi|2507201|sp|P52497|SNF1_CANAL CARBON CATABOLITE DEREPRESSING P...   139  5e-32
+SEQ gi|6716522|gb|AAF26675.1|AF155821_1 (AF155821) CPG16 [Mus musculus]   139  5e-32
+SEQ gi|14346040|gb|AAK59985.1| (AY037806) serine/threonine kinase PS...   139  5e-32
+SEQ gi|100611|pir||S24579 protein kinase BKIN12 (EC 2.7.1.-) - barle...   139  5e-32
+SEQ gi|6478832|dbj|BAA87128.1| (AB027824) Protein kinase C-like 2 [S...   139  6e-32
+SEQ gi|10046851|emb|CAC07966.1| (AJ293290) putative mitogen-activate...   139  6e-32
+SEQ gi|2773215|gb|AAB96730.1| (AF039715) Contains similarity to Pfam...   139  8e-32
+SEQ gi|2146812|pir||S60304 serine/threonine-specific protein kinase ...   138  8e-32
+SEQ gi|6331315|dbj|BAA86592.1| (AB033104) KIAA1278 protein [Homo sap...   138  1e-31
+SEQ gi|103329|pir||S22127 protein kinase poLo (EC 2.7.1.-) - fruit f...   138  1e-31
+SEQ gi|11493357|emb|CAC17574.1| (AL035705) dJ758N20.1 (protein kinas...   138  1e-31
+SEQ gi|6625812|gb|AAF19403.1|AF203481_1 (AF203481) phosphoenolpyruva...   138  2e-31
+SEQ gi|7434268|pir||T08777 probable protein kinase C (EC 2.7.1.-) mu...   138  2e-31
+SEQ gi|12659007|gb|AAK01149.1|AF309082_1 (AF309082) protein kinase D...   138  2e-31
+SEQ gi|6625810|gb|AAF19402.1|AF203480_1 (AF203480) phosphoenolpyruva...   138  2e-31
+SEQ gi|7710088|ref|NP_057890.1| protein kinase Chk2; Cds1 homolog (S...   137  2e-31
+SEQ gi|9664225|gb|AAF97028.1|AF200815_1 (AF200815) FUSED serine/thre...   137  2e-31
+SEQ gi|1709661|sp|P50528|PLO1_SCHPO SERINE/THREONINE-PROTEIN KINASE ...   137  3e-31
+SEQ gi|1935918|gb|AAB54117.1| (U93559) putative serine/threonine pro...   136  4e-31
+SEQ gi|14133215|dbj|BAA34501.2| (AB018324) KIAA0781 protein [Homo sa...   136  5e-31
+SEQ gi|5478791|dbj|BAA77716.2| (AB027153) SNF1 related protein kinas...   136  5e-31
+SEQ gi|7303211|gb|AAF58274.1| (AE003815) CG8485 gene product [Drosop...   136  5e-31
+SEQ gi|50283|emb|CAA43676.1| (X61434) cAMP-dependent  protein kinase...   136  6e-31
+SEQ gi|8515106|gb|AAF75829.1|AF174295_1 (AF174295) protein kinase Cd...   136  6e-31
+SEQ gi|12584930|gb|AAG59884.1|AF326574_1 (AF326574) protein kinase C...   136  6e-31
+SEQ gi|6320685|ref|NP_010765.1| protein serine/threonine kinase; Snf...   136  6e-31
+SEQ gi|7322055|gb|AAD00707.2| (U91744) putative aurora/Ipl1p-like pr...   135  7e-31
+SEQ gi|6760365|gb|AAF28314.1|AF194964_1 (AF194964) polo-like kinase ...   135  8e-31
+SEQ gi|5360798|dbj|BAA82168.1| (D85618) CsPK3 [Cucumis sativus] >gi|...   135  8e-31
+SEQ gi|4759178|ref|NP_004208.1| serine/threonine kinase 12 [Homo sap...   135  9e-31
+SEQ gi|7657627|ref|NP_055079.1| serine/threonine kinase 18; Snk Akin...   135  1e-30
+SEQ gi|6453619|emb|CAB61344.1| (AJ245456) putative protein kinase [M...   135  1e-30
+SEQ gi|12644166|sp|P22987|KIN1_SCHPO PROTEIN KINASE KIN1 >gi|7493206...   135  1e-30
+SEQ gi|4506075|ref|NP_002733.1| protein kinase C, mu [Homo sapiens] ...   134  1e-30
+SEQ gi|12738290|ref|XP_007234.2| protein kinase C, mu [Homo sapiens]      134  1e-30
+SEQ gi|9798601|dbj|BAB11738.1| (AB035148) serine/threonine protein k...   134  1e-30
+SEQ gi|5916094|gb|AAD55890.1|AF134054_1 (AF134054) checkpoint kinase...   134  1e-30
+SEQ gi|14148952|emb|CAC39171.1| (AJ307671) Serine/Threonine kinase 3...   134  2e-30
+SEQ gi|3172111|dbj|BAA28663.1| (AB014885) HrPOPK-1 [Halocynthia rore...   134  2e-30
+SEQ gi|11422272|ref|XP_001416.1| similar to ribosomal protein S6 kin...   134  2e-30
+SEQ gi|13653388|ref|XP_008569.3| serine/threonine kinase 12 [Homo sa...   134  2e-30
+SEQ gi|6453615|emb|CAB61342.1| (AJ245454) putative protein kinase [M...   133  3e-30
+SEQ gi|2271461|gb|AAC13355.1| (AF009561) calcium-dependent protein k...   133  3e-30
+SEQ gi|4584836|emb|CAB40826.1| (AJ238009) serine threonine protein k...   133  4e-30
+SEQ gi|7981277|emb|CAB91984.1| (AJ272212) protein serine kinase [Hom...   133  4e-30
+SEQ gi|7434353|pir||S72513 FOG2 protein - yeast (Kluyveromyces marxi...   133  4e-30
+SEQ gi|157178|gb|AAA51459.1| (M74583) calmodulin-dependent protein k...   133  4e-30
+SEQ gi|217324|dbj|BAA02594.1| (D13331) Ca2+/calmodulin-dependent pro...   133  4e-30
+SEQ gi|7428014|pir||JU0270 Ca2+/calmodulin-dependent protein kinase ...   133  4e-30
+SEQ gi|217328|dbj|BAA02596.1| (D13333) Ca2+/calmodulin-dependent pro...   133  4e-30
+SEQ gi|7304358|gb|AAF59388.1| (AE003846) CaMKII gene product [alt 1]...   133  4e-30
+SEQ gi|7682805|gb|AAF67384.1| (AF262044) contains similarity to Pfam...   133  4e-30
+SEQ gi|12840100|dbj|BAB24759.1| (AK006827) putative [Mus musculus]        133  4e-30
+SEQ gi|11463874|dbj|BAB18588.1| (AB043897) polo-like kinase [Hemicen...   133  4e-30
+SEQ gi|539075|pir||A38903 protein kinase 1 - fission yeast (Schizosa...   133  4e-30
+SEQ gi|7662170|ref|NP_055655.1| KIAA0537 gene product [Homo sapiens]...   133  5e-30
+SEQ gi|11434434|ref|XP_003127.1| hypothetical protein FLJ20224 [Homo...   133  5e-30
+SEQ gi|348326|pir||A44412 Ca2+/calmodulin-dependent protein kinase I...   133  5e-30
+SEQ gi|348327|pir||B44412 calmodulin-dependent protein kinase II (EC...   133  5e-30
+SEQ gi|348328|pir||C44412 Ca2+/calmodulin-dependent protein kinase I...   133  5e-30
+SEQ gi|348329|pir||D44412 Ca2+/calmodulin-dependent protein kinase (...   133  5e-30
+SEQ gi|3811293|gb|AAC69450.1| (AF032465) putative serine/threonine p...   133  5e-30
+SEQ gi|6137071|emb|CAB59634.1| (Y19007) Ca2+/calmodulin-dependent pr...   132  6e-30
+SEQ gi|11358841|pir||T47988 serine/threonine-protein kinase-like pro...   132  6e-30
+SEQ gi|14334752|gb|AAK59554.1| (AY035049) unknown protein [Arabidops...   132  6e-30
+SEQ gi|8778963|gb|AAD49770.2|AC007932_18 (AC007932) Similar to a pro...   132  6e-30
+SEQ gi|14571553|gb|AAK64513.1| (AY036958) CBL-interacting protein ki...   132  6e-30
+SEQ gi|1083471|pir||A55748 protein kinase (EC 2.7.1.37) Sak-a - mous...   132  8e-30
+SEQ gi|487872|gb|AAC37649.1| (L29480) serine/threonine kinase [Mus m...   132  8e-30
+SEQ gi|1083472|pir||B55748 protein kinase (EC 2.7.1.37) Sak-b - mouse     132  8e-30
+SEQ gi|5834390|gb|AAD53949.1|AF180735_1 (AF180735) calcium/calmoduli...   132  8e-30
+SEQ gi|7533002|gb|AAF63320.1|AF233262_1 (AF233262) calcium/calmoduli...   132  8e-30
+SEQ gi|7533004|gb|AAF63321.1|AF233263_1 (AF233263) calcium/calmoduli...   132  8e-30
+SEQ gi|7533006|gb|AAF63322.1|AF233264_1 (AF233264) calcium/calmoduli...   132  8e-30
+SEQ gi|7533008|gb|AAF63323.1|AF233265_1 (AF233265) calcium/calmoduli...   132  8e-30
+SEQ gi|7533010|gb|AAF63324.1|AF233266_1 (AF233266) calcium/calmoduli...   132  8e-30
+SEQ gi|7533012|gb|AAF63325.1|AF233267_1 (AF233267) calcium/calmoduli...   132  8e-30
+SEQ gi|8037937|gb|AAF71543.1|AF255956_1 (AF255956) calcium/calmoduli...   132  8e-30
+SEQ gi|14530496|emb|CAA94242.2| (Z70279) predicted using Genefinder~...   132  8e-30
+SEQ gi|14530497|emb|CAA94244.2| (Z70279) contains similarity to Pfam...   132  8e-30
+SEQ gi|6322748|ref|NP_012821.1| Putative protein kinase homologous t...   132  8e-30
+SEQ gi|12322336|gb|AAG51192.1|AC079279_13 (AC079279) calcium-depende...   132  9e-30
+SEQ gi|2499626|sp|Q00372|SNF1_CANGA CARBON CATABOLITE DEREPRESSING P...   132  9e-30
+SEQ gi|6318615|gb|AAF06969.1|AF162661_1 (AF162661) phosphoenolpyruva...   132  9e-30
+SEQ gi|6679351|ref|NP_032884.1| protein kinase C, mu [Mus musculus] ...   131  1e-29
+SEQ gi|6644464|gb|AAF21062.1| (AF216527) calcium-dependent protein k...   131  1e-29
+SEQ gi|7434370|pir||T08873 calcium-dependent protein kinase (EC 2.7....   131  1e-29
+SEQ gi|13124323|sp|Q10292|MEK1_SCHPO MEIOSIS-SPECIFIC SERINE/THREONI...   131  1e-29
+SEQ gi|976143|gb|AAA75235.1| (L00727) myotonin-protein kinase, Form ...   131  1e-29
+SEQ gi|14017839|dbj|BAB47440.1| (AB058714) KIAA1811 protein [Homo sa...   131  1e-29
+SEQ gi|5734778|gb|AAD50043.1|AC007980_8 (AC007980) Hypothetical prot...   131  1e-29
+SEQ gi|1561717|gb|AAB40712.1| (U49428) calcium/calmodulin-dependent ...   131  2e-29
+SEQ gi|3860079|gb|AAC72971.1| (AF096866) bicoid-interacting protein ...   131  2e-29
+SEQ gi|1076202|pir||S54788 calcium-stimulated protein kinase - Chlam...   131  2e-29
+SEQ gi|2271459|gb|AAC13354.1| (AF009560) calcium-dependent protein k...   131  2e-29
+SEQ gi|12836135|dbj|BAB23518.1| (AK004737) putative [Mus musculus]        131  2e-29
+SEQ gi|2854042|gb|AAC02532.1| (AF043629) protein kinase 4 [Toxoplasm...   131  2e-29
+SEQ gi|1709251|sp|P51954|NEK1_MOUSE SERINE/THREONINE-PROTEIN KINASE ...   130  2e-29
+SEQ gi|10177046|dbj|BAB10458.1| (AB005234) serine/threonine-protein ...   130  3e-29
+SEQ gi|631810|pir||S43845 Ca2+/calmodulin-dependent protein kinase (...   130  3e-29
+SEQ gi|560653|gb|AAB30671.1| (S71571) Ca2+/calmodulin-dependent prot...   130  3e-29
+SEQ gi|7293512|gb|AAF48886.1| (AE003510) Bin4 gene product [Drosophi...   130  3e-29
+SEQ gi|7500046|pir||T30026 hypothetical protein F28C10.3 - Caenorhab...   130  3e-29
+SEQ gi|6325104|ref|NP_015172.1| protein kinase, Mec1p and Tel1p regu...   130  3e-29
+SEQ gi|10443738|gb|AAG17557.1|AF233632_1 (AF233632) calcium/calmodul...   130  3e-29
+SEQ gi|10443740|gb|AAG17558.1|AF233633_1 (AF233633) calcium/calmodul...   130  3e-29
+SEQ gi|5031689|ref|NP_005804.1| protein kinase C, nu; serine-threoni...   130  3e-29
+SEQ gi|13637580|ref|XP_002659.2| protein kinase C, nu [Homo sapiens]      130  3e-29
+SEQ gi|6755104|ref|NP_035251.1| polo-like kinase homolog, (Drosophil...   130  3e-29
+SEQ gi|10443734|gb|AAG17555.1|AF233630_1 (AF233630) calcium/calmodul...   130  4e-29
+SEQ gi|4090841|gb|AAC98891.1| (AF015254) serine/threonine kinase [Ho...   130  4e-29
+SEQ gi|11346419|pir||T48478 serine/threonine protein kinase-like pro...   130  4e-29
+SEQ gi|8923212|ref|NP_060189.1| hypothetical protein FLJ20224 [Homo ...   129  4e-29
+SEQ gi|2306915|gb|AAB65786.1| (AF004022) protein kinase [Homo sapiens]    129  4e-29
+SEQ gi|2136035|pir||I38138 protein-serine kinase (EC 2.7.1.-) PSK-H1...   129  4e-29
+SEQ gi|1083470|pir||A47545 protein kinase (EC 2.7.1.37) Plk - mouse ...   129  4e-29
+SEQ gi|5281346|gb|AAD41488.1| (AF135797) protein kinase C-1 [Sporoth...   129  5e-29
+SEQ gi|9759353|dbj|BAB10008.1| (AB006697) serine/threonine-protein k...   129  5e-29
+SEQ gi|12830367|emb|CAC29064.1| (AJ303380) serine/threonine kinase 3...   129  5e-29
+SEQ gi|8778638|gb|AAF79646.1|AC025416_20 (AC025416) F5O11.32 [Arabid...   129  5e-29
+SEQ gi|6721111|gb|AAF26765.1|AC007396_14 (AC007396) T4O12.25 [Arabid...   129  5e-29
+SEQ gi|12484153|gb|AAG53993.1|AF333958_1 (AF333958) calmodulin-domai...   129  5e-29
+SEQ gi|9502386|gb|AAF88093.1|AC025417_21 (AC025417) T12C24.22 [Arabi...   129  6e-29
+SEQ gi|13569922|ref|NP_112214.1| hypothetical protein DKFZp434J037 [...   129  6e-29
+SEQ gi|6625808|gb|AAF19401.1|AF203479_1 (AF203479) phosphoenolpyruva...   129  6e-29
+SEQ gi|12837721|dbj|BAB23926.1| (AK005277) putative [Mus musculus]        129  6e-29
+SEQ gi|13643040|ref|XP_004320.2| serine threonine protein kinase [Ho...   129  6e-29
+SEQ gi|13648784|ref|XP_012582.2| polo (Drosophia)-like kinase [Homo ...   129  6e-29
+SEQ gi|1168530|sp|P43292|ASK2_ARATH SERINE/THREONINE-PROTEIN KINASE ...   129  7e-29
+SEQ gi|9280636|gb|AAF86506.1|AF286050_1 (AF286050) CBL-interacting p...   129  8e-29
+SEQ gi|7503817|pir||T22427 hypothetical protein F49C5.4 - Caenorhabd...   129  8e-29
+SEQ gi|7505786|pir||T23614 hypothetical protein K11E8.1a - Caenorhab...   129  8e-29
+SEQ gi|7505788|pir||T23616 hypothetical protein K11E8.1c - Caenorhab...   129  8e-29
+SEQ gi|125289|sp|P11730|KCCG_RAT CALCIUM/CALMODULIN-DEPENDENT PROTEI...   128  8e-29
+SEQ gi|422769|pir||B46619 Ca2+/calmodulin-dependent protein kinase (...   128  8e-29
+SEQ gi|422770|pir||A46619 Ca2+/calmodulin-dependent protein kinase i...   128  8e-29
+SEQ gi|1657464|gb|AAC48714.1| (U72973) calcium/calmodulin-dependent ...   128  8e-29
+SEQ gi|2511440|gb|AAB80848.1| (U66064) calcium/calmodulin-dependent ...   128  8e-29
+SEQ gi|3241847|dbj|BAA28869.1| (D14905) calmodulin-dependent protein...   128  8e-29
+SEQ gi|7434374|pir||JC5637 Ca2+/calmodulin-dependent protein kinase ...   128  8e-29
+SEQ gi|7434378|pir||JC5636 Ca2+/calmodulin-dependent protein kinase ...   128  8e-29
+SEQ gi|3169176|gb|AAC17819.1| (AC004401) putative protein kinase [Ar...   128  9e-29
+SEQ gi|2315243|emb|CAA68090.1| (X99763) CDPK2 [Plasmodium falciparum]     128  9e-29
+SEQ gi|11346418|pir||T48203 hypothetical protein T20L15.90 - Arabido...   128  1e-28
+SEQ gi|3928078|gb|AAC79604.1| (AC005770) putative Ca2+-dependent pro...   128  1e-28
+SEQ gi|6978595|ref|NP_036651.1| Ca++/calmodulin-dependent protein ki...   128  1e-28
+SEQ gi|1661132|gb|AAC48715.1| (U73504) calcium/calmodulin-dependent ...   128  1e-28
+SEQ gi|3241849|dbj|BAA28870.1| (D14906) calmodulin-dependent protein...   128  1e-28
+SEQ gi|12849628|dbj|BAB28422.1| (AK012702) putative [Mus musculus]        128  1e-28
+SEQ gi|10443736|gb|AAG17556.1|AF233631_1 (AF233631) calcium/calmodul...   128  1e-28
+SEQ gi|6318613|gb|AAF06968.1|AF162660_1 (AF162660) phosphoenolpyruva...   128  1e-28
+SEQ gi|7434322|pir||T00718 calcium-dependent protein kinase homolog ...   128  1e-28
+SEQ 
+## SEQUENCE PROFILE AND ENTROPY
+ SeqNo PDBNo   V   L   I   M   F   W   Y   G   A   P   S   T   C   H   R   K   Q   E   N   D  NOCC NDEL NINS ENTROPY RELENT WEIGHT
+    1    1     0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+    2    2     0   0   0   0   0   0   0   0   0   3   6   0   0   0   0   0   0   3  89   0     0    0    0   0.474     15  0.00
+    3    3     0   0   0   0   0   0   0   0  73   0  14   2   0   0   2   0   0   5   4   0     0    0    0   0.926     30  0.00
+    4    4     8   0   0   0   0   0   0   0  69   6   5   5   0   0   2   0   6   0   0   0     0    0    0   1.155     38  0.00
+    5    5     5   3   1   0   0   0   1   0  51   4  18  14   0   0   3   0   0   0   0   0     0    0    0   1.529     51  0.00
+    6    6     3   4   0   0   0   0   0   7  49   0  14   7   0   0   0   4   0   4   1   7     0    0    0   1.723     57  0.00
+    7    7     7   4   0   1   0   0   0   0   6   0  10   0   1   0  10  54   4   2   0   0     0    0    0   1.598     53  0.00
+    8    8     0  11   0   0   0   0   0   0   2   1  17   0   0   0   1  49   4   1   1  12     0    0    0   1.567     52  0.00
+    9    9     2   0   0   1   0   0   2  47   4   6   5   5   0   2   0   2   8   4   5   5     0    0    0   1.973     65  0.00
+   10   10    10   3   0   0   0   0   0   0   3   4  36   3   0   0   4  12   1  12   6   5     0    0    0   2.072     69  0.00
+   11   11     3   0   0   0   0   0   0   1   3   4   8   3   0  10   1   1   9  42   7   9     0    0    0   1.966     65  0.00
+   12   12     3   3   0   0   0   0   0   2   4   2   9   0   1   4   2   9  42  14   4   3     0    0    0   2.013     67  0.00
+   13   13     0   1   2   1   0   0   4   0   2   1   5   1   0   1   3  10   3  55   8   4     0    0    0   1.737     57  0.00
+   14   14     1   9   0   4   4   1   1   3   3   7  33   1   0   1   1   5   5   7   9   7     0    0    0   2.342     78  0.00
+   15   15    29  12   9   5   5   1   4   7   2   1   1   4   0   1   5   2   2   8   1   1     0    0    0   2.415     80  0.00
+   16   16     3   6   1   4   0   0   0   0   7   0   1   4   0   2   5  37  15   8   4   3     0    0    0   2.131     71  0.00
+   17   17     3   0   0   0   0   0   0   2   6   2   7   4   0   0   4  20   8  40   3   3     0    0    0   1.932     64  0.00
+   18   18     3   4   5   1  45   0   5   4   1   0   2   2   3   2   0   6   1   7   3   5     0    0    0   2.135     71  0.00
+   19   19     8  55   8   8   0   0   1   0   4   0   6   1   0   1   1   2   0   1   0   2     0    0    0   1.724     57  0.00
+   20   20     2   3   1   0   0   0   0  10  31   5   7   0   2   1   0   1   4  24   0   7     0    0    0   2.057     68  0.00
+   21   21     0   0   0   1   1   1   0   0   2   6  19   4   0   2   7  38   9   7   2   1     0    0    0   2.018     67  0.00
+   22   22     1   0   2   6   0   0   0   2  32   2   6   2   0   3   2  10   6   8   0  16     0    0    0   2.208     73  0.00
+   23   23     5   1   0   0   1   0   2   4   3   1   2   2   0   2  10  41   3  20   2   0     0    0    0   1.983     66  0.00
+   24   24     1   0   2   0  11   0   2   4   7   3   2   6   0   0   3   6   3  34   5   9     0    0    0   2.304     76  0.00
+   25   25     0   1   2   0   1   0   0   1   3   3   7  12   0   1   2   3   1  22   5  36     0    0    0   1.991     66  0.00
+   26   26     5   6   4   2  37   0   8   1   4   0   3   0   0   0  14   3   2   6   2   4     0    0    0   2.213     73  0.00
+   27   27     3  33   9  11  13   0   1   0   3   0   4   3   3   0   1   5   1   5   5   0     0    0    0   2.258     75  0.00
+   28   28     0   6   3   0   0   0   2   3   0   3  10   3   8   0  15  27   5   4   7   4     0    0    0   2.367     79  0.00
+   29   29     0   6   3   0   0   0   0   2   0   3   5   1   0   1  17  26  28   5   2   1     0    0    0   2.001     66  0.00
+   30   30     2   0   2   1   5  59   8   1   0   2   4   0   0   2   4   1   1   7   0   1     0    0    0   1.696     56  0.00
+   31   31     3   3   2   0   0   0   0   2   4   1   6   4   0   1   4  30   3  31   2   4     0    0    0   2.050     68  0.00
+   32   32     1   2   1   2   0  12   2   6   0   2   9   5   1   3   4   9   1   5  27   7     0    0    0   2.453     81  0.00
+   33   33     6  12   2   0   1   0   1   6   2  45   4   4   0   0   2   6   3   2   1   2     0    0    0   2.031     67  0.00
+   34   34     6   3   3   0   1   0   1   2  27   2  10   4   0   0   3   8   6  18   6   1     0    0    0   2.319     77  0.00
+   35   35     0   5   0   1   0   0   0   1   5   2   8   5   0   2  22  13  19   7   3   5     0    0    0   2.334     77  0.00
+   36   36     3   0   2   0   0   0   0   3   1   3  11   4   4   3   6   9   9   6  29   6     0    0    0   2.400     80  0.00
+   37   37     2   2   9   2   2   0   1   1   2  11   8  29   0   1  11  11   5   0   5   0     0    0    0   2.292     76  0.00
+   38   38    14  13   4   6   0   3   1   1  19   6   4   3   1   3  10   4   2   1   3   0     0    0    0   2.559     85  0.00
+   39   39     1   2   2   0  12   0   2   9   2   1   8  15   2  15   4  11   4   1   7   3     0    0    0   2.543     84  0.00
+   40   40     7  41  14  10   2   0   2   0   2   4   4   4   0   0   4   5   1   1   0   0     0    0    0   2.078     69  0.00
+   41   41     0   0   0   0   0   0   0   8   1   1   8   5   0   2   1   5   6  17  13  33     0    0    0   2.017     67  0.00
+   42   42     0   0   1   0   0   1   1   2   0   0   1   5   0   5   4   8   6   5  13  48     0    0    0   1.866     62  0.00
+   43   43     0   3   0   0  68   0  28   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.802     26  0.00
+   44   44     3   2   3   0   0   0   0   0   1   0   4   3   0   2  10   7   6  36   9  14     0    0    0   2.094     69  0.00
+   45   45    13  25  17   3  17   0   2   0   1   3   1   3   1   1   7   2   3   0   0   1     0    0    0   2.212     73  0.00
+   46   46     5  35  18   2   3   0   5  13   0   0   1   0   1   4   3   7   2   1   0   1     0    0    0   2.070     69  0.00
+   47   47     0   0   0   3   0   0   0   0   6   0   3   3   0   0  28  39   1  12   1   2     0    0    0   1.749     58  0.00
+   48   48    36   9   6   2   1   0   0   0   1   6   1  27   0   1   1   1   1   5   0   2     0    0    0   1.908     63  0.00
+   49   49     3  66  29   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.792     26  0.00
+   50   50     0   0   0   0   0   0   0  98   0   0   2   0   0   0   0   0   0   0   0   0     0    0    0   0.136      4  0.00
+   51   51     6   0   2   0   0   0   0   0   1   0   5  11   1   1  16  41   6   5   2   1     0    0    0   1.984     66  0.00
+   52   52     0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.008      0  0.00
+   53   53     0   0   0   0   0   0   0  14  20   0  34  10   0   3   0   4   2   0   9   2     0    0    0   1.870     62  0.00
+   54   54     1   0   0   0  83   0  11   0   0   0   1   2   1   0   0   0   0   0   0   0     0    0    0   0.648     21  0.00
+   55   55     0   0   0   0   0   0   0  72  15   0  14   0   0   0   0   0   0   0   0   0     0    0    0   0.798     26  0.00
+   56   56     9   0   2   0   0   0   0   0   1   0   2   3   0   1  16  41   1  19   3   0     0    0    0   1.799     60  0.00
+   57   57    94   0   0   0   0   0   0   0   1   0   0   1   4   0   0   0   0   0   0   0     0    0    0   0.297      9  0.00
+   58   58     2   8   5  14  10   0  15   0   2   0   1   1   6   5   9  17   2   3   0   0     0    0    0   2.438     81  0.00
+   59   59     5  61   4   1   2   0   1   3   5   0   0   0   0   1   9   2   5   1   0   0     0    0    0   1.587     52  0.00
+   60   60    36   0   1   0   0   0   0   5  34   0   3   0  20   0   0   0   0   0   0   0     0    0    0   1.417     47  0.00
+   61   61     6   0   3   1   1   0   1   0   0   0   1   3   1   1  35  16  13  17   0   1     0    0    0   1.942     64  0.00
+   62   62     5   9   0   3   1   0   1   0   0   0   5   1   0  27   7  15   3  13   5   3     0    0    0   2.319     77  0.00
+   63   63     5   4   6   0   0   0   0   1   4   1   1   3   1   1  18  49   2   1   2   0     0    0    0   1.820     60  0.00
+   64   64     3   6   2   0   1   0   0  11  14   2   8   6   0   4   2   7   6   9   4  16     0    0    0   2.560     85  0.00
+   65   65     0   1   0   0   0   0   0   1   3   0  18  63   0   0   1   2   0   2   5   3     0    0    0   1.337     44  0.00
+   66   66     0   0   0   0   0   0   0  51   2   0   5   1   1   2   4   8   3   5   8   9     0    0    0   1.806     60  0.00
+   67   67     1   2   0   1   3   0   1   1   2   0   0   3   0   6  13  22  16  16   6   5     0    0    0   2.310     77  0.00
+   68   68    11  16  12   8   5   0  10   0   1   1   4   2   0   4   2   7   2  13   1   1     0    0    0   2.517     84  0.00
+   69   69    21   2   0   0  21   0  54   0   1   0   0   0   2   0   0   0   0   0   0   0     0    0    0   1.196     39  0.00
+   70   70     0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.038      1  0.00
+   71   71    15  12  27  33   0   0   0   1   5   0   0   0   6   0   0   0   0   0   0   0     0    0    0   1.658     55  0.00
+   72   72     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0     0    0    0   0.000      0  0.00
+   73   73    28   2  39   2   1   0   1   0   5   0   2   2   6   0   1   8   1   0   0   0     0    0    0   1.790     59  0.00
+   74   74     5  58  27   9   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.067     35  0.00
+   75   75     0   0   0   0   3   0   0   0   2   2   7   0   0   0   8  28   3   6  17  23     0    0    0   2.012     67  0.00
+   76   76     0   0   1   0   0   0   0   0   0   0   0   4   0   0   6  88   0   0   0   0     0    0    0   0.519     17  0.00
+   77   77     0   1   0   0   1   3   0   3   8   0  12   6   0   1   8  22   8  12   1  12     0    0    0   2.351     78  0.00
+   78   78    13   4   1   2   2   0   1   0   7   1   1   3   0   4  11  24  10   9   2   7     0    0    0   2.433     81  0.00
+   79   79    23  15  36  14   1   0   0   0   2   0   1   3   1   0   3   1   0   0   0   0     0    0    0   1.748     58  0.00
+   80   80    22  26  20   2   3   0   1   1   2   0   2   3   0   1   2   7   0   3   1   3     0    0    0   2.143     71  0.00
+   81   81     0   2   1   1   0   0   0   1   7   3   7   3   0   0   8  36   9   8   8   7     0    0    0   2.194     73  0.00
+   82   82     4  11   0   8   0   0   0   1   7   3   6   6   0   2  21  10   2   3   3  12     0    0    0   2.495     83  0.00
+   83   83     0   0   0   0   0   0   0   8   3   1   7   1   0   1  10  29   1  11   9  18     0    0    0   2.097     69  0.00
+   84   84     2   2   0   6   0   0   0   9   2   0   4   2   0   1   1   5  24  17   2  23     0    0    0   2.168     72  0.00
+   85   85    37   9  11   1   2   0   1   2   2   0   3   5   0   2   4   2   5  10   0   0     0    0    0   2.195     73  0.00
+   86   86     3   1   0   0   0   0   0   3  14   2   5   1   0   2   2   4  12  43   1   7     0    0    0   1.969     65  0.00
+   87   87     0   1   0   4   2   2   2   1   1   0   6   2  12  35   8  13   7   2   2   1     0    0    0   2.225     74  0.00
+   88   88    20  13  15   2   5   0   0   0  11   0   2  26   0   0   0   0   3   0   0   0     0    0    0   1.989     66  0.00
+   89   89     2  23   3  13   7   2   3   0   1   0   1   2   1   1  14  14   3   6   4   1     0    0    0   2.372     79  0.00
+   90   90     7   1   3   3   0   0   0   1  11   0   9  10   2   0  25   1   2   5  18   3     0    0    0   2.268     75  0.00
+   91   91     0   0   0   0   0   0   0   0   0   0   0   0   0   1   3   0   0  96   0   0     0    0    0   0.229      7  0.00
+   92   92     8   1  17   0   0   0   0   0   5   0   2   0   0   0  31  30   1   3   2   0     0    0    0   1.785     59  0.00
+   93   93     2   1   6   0   0   0   0   1   5   0   7   2   0   3  31   6   7   7   8  14     0    0    0   2.253     75  0.00
+   94   94    26   6  54   4   0   0   1   0   2   0   0   2   0   0   0   0   0   3   1   0     0    0    0   1.374     45  0.00
+   95   95     0  68   4  16   5   0   0   0   0   0   0   0   4   1   0   0   1   0   0   0     0    0    0   1.127     37  0.00
+   96   96     5   2   1   1   0   0   0   2  17   0   8   4   1   1  15  16  16   9   1   1     0    0    0   2.332     77  0.00
+   97   97     3  18   3   2   3   0   2   2  13   0   8   3   0   2   7  12   3  10   8   1     0    0    0   2.538     84  0.00
+   98   98    26  27   9   1   3   1   0   6  11   2   5   3   1   0   1   0   0   1   0   0     0    0    0   2.080     69  0.00
+   99   99     0   0   0   1   0   0   0   4   1   0   7   2   1   5  13  14   7   5  22  19     0    0    0   2.240     74  0.00
+  100  100     0   0   0   0   5   0   1   0   0   1  13   1   5  61   3   4   0   0   5   0     0    0    0   1.426     47  0.00
+  101  101     0   0   0   0   0   0   0   1   1  82   0   0   0   0   6   1   4   2   1   2     0    0    0   0.828     27  0.00
+  102  102     0   0   0   0  51   9   2   1   0   0   1   0   2   8   0   0   0   0  25   0     0    0    0   1.400     46  0.00
+  103  103    15  30  52   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.087     36  0.00
+  104  104    60   6  15   0   0   0   0   0   0   3   0  14   2   0   0   0   0   0   0   0     0    0    0   1.258     42  0.00
+  105  105     0   1   0   0   0   0   0   5   6   1   7   7   2   3  19  21  13   3   9   2     0    0    0   2.311     77  0.00
+  106  106     1  84   3   8   3   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0     0    0    0   0.699     23  0.00
+  107  107     1   3   3   1  13   3  25   0   6   0   1   2   0  25   1   9   2   5   0   0     0    0    0   2.174     72  0.00
+  108  108     0   0   0   0   9   0  26   6   5   0   9   1   7   2   2   2   4  14   3  11     0    0    0   2.341     78  0.00
+  109  109    21   1   1   1   1   0   4   0  20   0  27  11  11   1   0   0   0   1   0   0     0    0    0   1.928     64  0.00
+  110  110     0   2  13   6  66   1  11   0   0   0   0   0   0   1   0   0   0   0   0   0     0    0    0   1.166     38  0.00
+  111  111     0   0   0   0   0   0   1   0   5   0   3   1   0   5   1   9  48  21   0   5     0    0    0   1.715     57  0.00
+  112  112     1   0   0   0   0   0   0   0   1   0   8  49   1   0   0   0   0   5   2  35     0    0    0   1.251     41  0.00
+  113  113     1   0   0   3   0   0   0   4   5  14   6   3   0   2   2  21   3  19   8   7     0    0    0   2.362     78  0.00
+  114  114     1   1   0   0   0   0   1   7   2   0  15  13   0   1   5  12   3  10   7  22     0    0    0   2.281     76  0.00
+  115  115     0   0   0   1   6   0  14   0   4   0   2   3   0  11  19  19   1   2  12   6     0    0    0   2.271     75  0.00
+  116  116    13  61  16   1   1   0   2   0   0   0   0   1   0   4   0   0   0   0   0   0     0    0    0   1.268     42  0.00
+  117  117     1   0   1   0  13   0  67   0   0   0   1   0  14   2   0   0   0   0   0   0     0    0    0   1.105     36  0.00
+  118  118     4  45   6  18  26   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.338     44  0.00
+  119  119    69   7  19   0   0   0   0   1   2   0   0   0   1   0   0   0   0   0   0   0     0    0    0   0.974     32  0.00
+  120  120     1  30   3  54   5   0   0   0   0   0   0   6   0   0   0   0   0   0   0   0     0    0    0   1.222     40  0.00
+  121  121     0   0   0   0   0   0   0   0   1   0   1   5   0   0   0   0   2  70   0  22     0    0    0   0.905     30  0.00
+  122  122     1  20   3   1  17   0  53   0   2   0   1   0   1   1   0   1   0   0   0   0     0    0    0   1.390     46  0.00
+  123  123    35  13   7  12   0   0   4   0  15   0   1   0  12   0   0   0   0   0   0   0     0    0    0   1.819     60  0.00
+  124  124     3   4   1   1   0   0   0   1   4  18  13   9   0   1   6   6   1   5  25   1     0    0    0   2.286     76  0.00
+  125  125     0   1   0   0   0   0   0  88   0   0   2   0   0   0   2   1   0   0   4   0     0    0    0   0.591     19  0.00
+  126  126     0   0   0   0   0   0   0  97   0   0   0   0   0   0   1   1   0   0   0   1     0    0    0   0.201      6  0.00
+  127  127     0   0   0   0   0   0   0   0   0   0   1   1   0   0   0   0   0  56   0  40     0    0    0   0.893     29  0.00
+  128  128     4  79   2  11   2   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0     0    0    0   0.794     26  0.00
+  129  129     2   9   1  20  49   3   5   0   1   0   0   0   0   3   2   4   0   0   0   0     0    0    0   1.678     56  0.00
+  130  130     0   3   0   3  12   2  11   1   1   0  13  17   0   1   2   3   1   6   3  21     0    0    0   2.335     77  0.00
+  131  131     1  16   3   1   0   0  14   0   2   0   1   0   0  35  10   5   4   3   0   4     0    0    0   2.061     68  0.00
+  132  132     4  51  38   4   0   0   0   0   0   0   1   0   0   1   0   0   0   0   0   0     0    0    0   1.090     36  0.00
+  133  133    14   3   5   3   0   0   6   0   3   0  14   2   1   2  16   3  20   3   1   1     0    0    0   2.388     79  0.00
+  134  134     0   0   0   0   0   0   0   1   8   1   6   1   0   4  25  25  11   5   9   4     0    0    0   2.064     68  0.00
+  135  135     7   5   6   5   4   0   4   0   3   0   7   3   1   8  12  12   7  12   4   1     0    0    0   2.688     89  0.00
+  136  136     3   0   0   0   0   0   0  53   0   0   2   1   0   1  10   8   3   7   1   9     0    0    0   1.705     56  0.00
+  137  137     8   1   5   2   4   0   3   1   2   1   5   5   3   3  32  15   4   1   3   0     0    0    0   2.389     79  0.00
+  138  138     2  25   3   5  54   0   8   0   1   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.329     44  0.00
+  139  139     0   2   0   1   0   0   0   3   1  16  29  11   0   0   3  11   3   5   2  12     0    0    0   2.161     72  0.00
+  140  140     2   3   1   0   1   0   0   0   3   0   1   1   0   0   0   0   0  80   4   3     0    0    0   0.965     32  0.00
+  141  141     1   0   0   0   0   0   1   1   8  20   8   2   0   2   7  10   6  13   3  19     0    0    0   2.307     77  0.00
+  142  142     7   3   2   5   0   2   0   0   3   0   1   7   1   9  20   0   4  22   0  12     0    0    0   2.320     77  0.00
+  143  143     7   0   0   2   0   0   0   1  71   0   5  11   1   0   0   0   0   0   0   0     0    0    0   1.062     35  0.00
+  144  144     6   1   1   0   0   0   0   0   7   0   9   2   3   0  53  13   4   0   0   0     0    0    0   1.655     55  0.00
+  145  145     2   3   1   0  60   0   3   0   4   0   1   3   0   6   7   5   0   0   1   1     0    0    0   1.659     55  0.00
+  146  146     3   5   6   1   6   0  70   0   0   0   0   0   4   0   0   3   0   0   0   0     0    0    0   1.203     40  0.00
+  147  147     4  12  17   3  18   0   0   4  33   0   2   7   0   0   0   0   0   0   0   0     0    0    0   1.909     63  0.00
+  148  148     1   0   0   0   1   1   3   3  57   0   3   3   2   3   7   2  13   1   0   0     0    0    0   1.662     55  0.00
+  149  149     0   0   0   0   0   0   0   0   0   0   1   3   5   0   0   0  35  53   1   0     0    0    0   1.178     39  0.00
+  150  150    21  20  51   3   0   0   0   0   1   0   1   3   0   0   0   0   0   0   0   0     0    0    0   1.290     43  0.00
+  151  151    35  15  17   1   1   0   0   0  14   0   4   6   7   0   0   0   0   0   0   0     0    0    0   1.830     61  0.00
+  152  152     4  34   6   3   0   0   0   1   2   0  21   1   8   1   1   2   1   8   3   4     0    0    0   2.126     70  0.00
+  153  153     1   0   0   0   0   0   0  24  65   0   5   5   0   0   0   0   0   0   0   0     0    0    0   0.999     33  0.00
+  154  154    25  51  14   2   8   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.270     42  0.00
+  155  155     0   2   0   2   5   0   0   5   4   0   5   1   0   2   2   4  10  33   6  19     0    0    0   2.191     73  0.00
+  156  156     0   0   0   0  15   0  55   0   3   0   7   0   0  15   0   0   0   0   1   3     0    0    0   1.413     47  0.00
+  157  157     5  59   8   4   2   0   0   0   0   0   0   0  22   0   0   0   0   0   0   0     0    0    0   1.221     40  0.00
+  158  158     0   0   0   0   0   0   0   0   0   0   0   0   0  96   0   0   4   0   0   0     0    0    0   0.175      5  0.00
+  159  159     0   1   0   0   1   0   0   3   4   0  35   2   2   1  12   9  10   9   7   4     0    0    0   2.176     72  0.00
+  160  160     0  21   1   6   0   0   2   0   0   0   0   0   1  11  13  20   7   4  12   0     0    0    0   2.174     72  0.00
+  161  161     0   0   0   3   3   0   0  50   0   0   1   0   0   4   7   7   1   1  13  11     0    0    0   1.741     58  0.00
+  162  162    27   6  55   0   4   0   7   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.185     39  0.00
+  163  163    44   2  44   1   1   0   3   0   2   0   0   1   1   0   0   0   0   0   0   0     0    0    0   1.204     40  0.00
+  164  164     0   0   0   0   0   0  49   0   0   0   0   0   0  51   0   0   0   0   0   0     0    0    0   0.731     24  0.00
+  165  165     0   0   0   0   0   0   0   0   0   0   0   0   1   0  99   0   0   0   0   0     0    0    0   0.064      2  0.00
+  166  166     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100     0    0    0   0.015      0  0.00
+  167  167     3  81  14   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.640     21  0.00
+  168  168     0   0   0   0   0   0   0   0   0   0   0   1   0   0   0  99   0   0   0   0     0    0    0   0.048      1  0.00
+  169  169     0  21   0   0   0   0   0   0   4  74   0   1   0   0   0   0   0   0   0   0     0    0    0   0.725     24  0.00
+  170  170     0   0   0   0   0   0   0   1   2   0   3   0   0   0   0   0   1  66   0  26     0    0    0   0.920     30  0.00
+  171  171     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100   0     0    0    0   0.015      0  0.00
+  172  172    16  44  35   2   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.205     40  0.00
+  173  173     1  86   2  10   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.529     17  0.00
+  174  174     4  78  12   1   3   0   3   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.805     26  0.00
+  175  175     0   0   0   0   0   0   0   4   6   0   3   4   0   1   1   0   1   2   4  73     0    0    0   1.164     38  0.00
+  176  176     1   3   0   0   0   0   1   2  13   2  20   3   1   4   9   9   5  17   2   6     0    0    0   2.412     80  0.00
+  177  177     0   1   0   1   1   0   2   1   1   1   6   2   2   7   6  10  12  15  12  20     0    0    0   2.415     80  0.00
+  178  178     0   2   0   6   0   0   1  74   6   1   3   0   1   1   0   1   0   1   2   1     0    0    0   1.169     39  0.00
+  179  179     1   2   0   0   1   0  10   0   5   0   3   1   0  52   1   3   1   4  15   2     0    0    0   1.748     58  0.00
+  180  180    24  18  51   1   0   0   0   1   2   0   0   0   2   0   0   0   0   0   0   0     0    0    0   1.272     42  0.00
+  181  181     3   0   0   4   0   0   0   0   2   0   1   0   0   0  14  71   4   0   0   0     0    0    0   1.075     35  0.00
+  182  182    10  42  46   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.046     34  0.00
+  183  183     4   0   2   0   0   0   0   2  35   0  17  33   5   0   0   0   0   0   0   0     0    0    0   1.500     50  0.00
+  184  184     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100     0    0    0   0.000      0  0.00
+  185  185     0   7   0   0  88   0   4   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.442     14  0.00
+  186  186     0   0   0   0   0   0   0  96   0   0   0   0   0   0   0   0   0   0   1   3     0    0    0   0.176      5  0.00
+  187  187     0  52   1  11  24   4   1   0   0   0   4   3   0   0   0   0   0   0   0   0     0    0    0   1.415     47  0.00
+  188  188     0   0   0   0   0   0   0   2  36   0  30   1  30   0   0   0   0   0   0   0     0    0    0   1.266     42  0.00
+  189  189     6   3   5   2   0   0   0   0   5   0   2   4   0   0   3  54   3   2   9   3     0    0    0   1.812     60  0.00
+  190  190     3   2   4   2   4   1   1   1   1   2   2   3   0   4  13  14   6  34   0   1     0    0    0   2.281     76  0.00
+  191  191    18  17   8   9   5   0   2   4   5   5   7   2   1   1   1   3   3   2   5   3     0    0    0   2.609     87  0.00
+  192  192     1   2   1   3   0   0   0  11   2   5   5   5   0   1  11  16   9   8   9  12     0    0    0   2.539     84  0.00
+  193  193     2   0   0   0   0   0   0  37   9   3  11   5   0   0   1   8   1   4   5  13     0    0    0   2.059     68  0.00
+  194  194     3   7   1   1   1   0   0   5   3   1   2  13   0   1  30  17   5   5   3   1     0    0    0   2.264     75  0.00
+  195  195     5  11   0   2   0   0   0   1  11   3   9  41   1   3   5   3   1   2   2   1     0    0    0   2.119     70  0.00
+  196  196     1   4   1   7   9  18   7   1   1   0  12   4   1   9   6   8   2   1   5   3     0    0    0   2.604     86  0.00
+  197  197     5   0   0   0   0   0   0   5   3   0  16  67   0   0   0   0   1   1   0   1     0    0    0   1.165     38  0.00
+  198  198     4  17   1   4  44   0   1   0   7   3   8   7   1   1   1   0   0   0   0   0     0    0    0   1.865     62  0.00
+  199  199    19   0   1   0   0   0   0   0   6   0   0   0  73   0   0   0   0   0   0   0     0    0    0   0.841     28  0.00
+  200  200     0   0   0   0   1   0   2  97   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.155      5  0.00
+  201  201     0   0   0   0   0   0   0   0   0   0  13  87   0   0   0   0   0   0   0   0     0    0    0   0.417     13  0.00
+  202  202     6   6   3   0   0   0   0   0   5  72   0   1   0   3   0   0   0   2   0   0     0    0    0   1.173     39  0.00
+  203  203     0   1   0   0   0   0   2  13   6   5   0   1   0   1   0   0   1  31  12  25     0    0    0   1.915     63  0.00
+  204  204     0   0   0   0   7   0  92   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.280      9  0.00
+  205  205    15  29  25  18   0   0   0   0  10   0   1   1   0   0   0   0   0   0   0   0     0    0    0   1.648     55  0.00
+  206  206     0   0   0   0   0   0   0   0  83   4  12   0   0   0   0   0   0   0   0   0     0    0    0   0.573     19  0.00
+  207  207     0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0     0    0    0   0.033      1  0.00
+  208  208     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  99   0   0     0    0    0   0.042      1  0.00
+  209  209    50   9  36   4   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.120     37  0.00
+  210  210    15  46  31   0   7   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.256     41  0.00
+  211  211     1  22   0   3   0   0   0   1   8   0  10   7   0   1   9   8  12   8   7   1     0    0    0   2.388     79  0.00
+  212  212     0   0   0   0   0   0   5  25   4   0  11   2   0   1  12  10   5   6  10   7     0    0    0   2.300     76  0.00
+  213  213     1   2   0   1   0   0   0   3   2   1   4   5   0   1  11  34  17   9   5   4     0    0    0   2.174     72  0.00
+  214  214     0   5   0   2   0   0   0  44   2  17   6   1   0   0   3   8   1   6   1   4     0    0    0   1.906     63  0.00
+  215  215     0   0   0   0   0   0  79   0   1   0   0   0   0  19   0   0   0   0   0   0     0    0    0   0.615     20  0.00
+  216  216     0   0   0   0   0   0   0  36   1   0   8  13   1   0   0   0   0   1  13  26     0    0    0   1.616     53  0.00
+  217  217     1   2   2   2   9   0   2   4   4  13   6   1   0   2  14  26   4   6   2   0     0    0    0   2.408     80  0.00
+  218  218     0   1   0   1   0   0   0   2  30   5  28   4   0   0   1   5   1  17   0   1     0    0    0   1.893     63  0.00
+  219  219    63   2   2   0   0   0   0   0  14   4   2   0  13   0   0   0   0   0   0   0     0    0    0   1.227     40  0.00
+  220  220     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100     0    0    0   0.008      0  0.00
+  221  221    11   7  14   2   2  55   5   0   1   0   0   0   2   0   0   0   0   0   0   0     0    0    0   1.503     50  0.00
+  222  222     0   0   0   0   4  95   1   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.217      7  0.00
+  223  223     0   0   0   0   0   0   0   7  33   0  54   3   3   0   0   0   0   0   0   0     0    0    0   1.098     36  0.00
+  224  224     6  55   4   3  11   0   3   0   3   0   1   1  14   0   0   0   0   0   0   0     0    0    0   1.513     50  0.00
+  225  225     0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.008      0  0.00
+  226  226    69   0  14   0   0   0   0   0   6   0   0   1  10   0   0   0   0   0   0   0     0    0    0   0.985     32  0.00
+  227  227    10  47  31   4   5   0   0   0   0   0   0   2   1   0   0   0   0   0   0   0     0    0    0   1.381     46  0.00
+  228  228     3  52  15  19   1   0   0   0   4   0   1   2   4   0   0   0   0   0   0   0     0    0    0   1.448     48  0.00
+  229  229     0   0   0   0  21   0  78   0   0   0   0   0   1   1   0   0   0   0   0   0     0    0    0   0.589     19  0.00
+  230  230     9   0   9   1   0   0   0   0   5   0   0   7   0   0   0   2   4  60   0   2     0    0    0   1.463     48  0.00
+  231  231     0  35   1  56   4   0   0   0   0   0   1   0   2   0   0   0   0   0   0   0     0    0    0   1.001     33  0.00
+  232  232     8  69   6   9   2   0   0   0   4   0   0   0   1   0   0   0   0   0   0   0     0    0    0   1.156     38  0.00
+  233  233    22   2   3   0   1   0   7   0  24   0   8  12  15   1   2   1   1   1   0   0     0    0    0   2.158     72  0.00
+  234  234     0   0   0   0   0   0   0  97   1   0   0   0   0   0   0   0   1   0   0   0     0    0    0   0.199      6  0.00
+  235  235     1   4   1   0   4   2  23   0   3   0   7   8   3   5   9   5  17   4   2   1     0    0    0   2.491     83  0.00
+  236  236     3  19   0   1   1   0   0   1   3  42  15  13   0   0   1   0   0   0   0   0     0    0    0   1.662     55  0.00
+  237  237     0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0     0    0    0   0.023      0  0.00
+  238  238     0   0   0   0  98   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.095      3  0.00
+  239  239     0   1   1   0   9   6  18   0   3   2   5   4   2   4   9   3   4   9   2  16     0    0    0   2.559     85  0.00
+  240  240     0   0   0   1   0   0   0  31  20   0   9   3   0   1   0   1   4   4   4  20     0    0    0   1.960     65  0.00
+  241  241     1   0   0   0   0   0   1   2   3   4   7   2   0   4   5   6   8  26   3  28     0    0    0   2.156     71  0.00
+  242  242     0   0   0   0   0   0   0   1   0   0  12  13   0   2   2   6   5   3  27  28     0    0    0   1.921     64  0.00
+  243  243     5  12   5   0   0   0   1   0   1  20   2   8   0   6   7   3   6  19   2   3     0    0    0   2.405     80  0.00
+  244  244     5   2   7  10   1   0   1   0   6   7   4   2   0   4   1  16   6  11   3  12     0    0    0   2.621     87  0.00
+  245  245     4   2   1   2   0   0   0   3   3   0   3   4   0   0   7  15   8  38   4   6     0    0    0   2.129     71  0.00
+  246  246     6  37  20   8   0   0   0   0   0   0   0  27   0   0   0   2   0   0   0   0     0    0    0   1.535     51  0.00
+  247  247     1   6   2   4  32   0  38   0   0   0   1   0   2   3   4   3   1   0   0   2     0    0    0   1.819     60  0.00
+  248  248     0   1   0   0   0   0   0   4   6   0   5   4   0   1  15  10  14  22   6  11     0    0    0   2.262     75  0.00
+  249  249     2   6   2   4   0   0   0   0   5   0   9   0   0   0  15  36  10   2   9   0     0    0    0   2.038     68  0.00
+  250  250    12   1  82   0   0   0   0   0   0   0   0   3   0   0   0   0   0   1   0   0     0    0    0   0.656     21  0.00
+  251  251    14  37   6  11   1   0   1   3   2   0   3   2   1   1   4  12   1   1   0   0     0    0    0   2.090     69  0.00
+  252  252     2   1   1   3   1   0   1   3   9   0  12   3   0   4  10  17   2  13  16   3     0    0    0   2.432     81  0.00
+  253  253     4   1   0   2   1   5   0  38   9   0   1   1   3   7   3   6   2   5   1  11     0    0    0   2.222     74  0.00
+  254  254     2   2   2   1   0   0   1   0   8   5   2   4   0   0   6  26   5  17   7  12     0    0    0   2.306     76  0.00
+  255  255    26  19  12   1  10   0  20   0   1   5   0   0   0   0   0   0   0   3   2   0     0    0    0   1.939     64  0.00
+  256  256     3   4   1   1   1   0   2   2   4   3   9   8   0   6  20  14   3  10   2   7     0    0    0   2.561     85  0.00
+  257  257     3  13  10   4  38   2  25   0   0   0   0   1   3   0   1   0   0   1   0   0     0    0    0   1.758     58  0.00
+  258  258     0   0   1   0   0   0   0   0   0  80   5   3   1   0   1   2   1   2   1   2     0    0    0   0.963     32  0.00
+  259  259     2   1   2   0   5   0   1   2   5  10  22   3   0   1  13  10   3   9   3   8     0    0    0   2.449     81  0.00
+  260  260     0   0   0   0  11   9  11   3   1   4  12   9   0  13   4   7   2   5   6   3     0    0    0   2.559     85  0.00
+  261  261    15  32  16  10  21   1   2   0   0   0   0   0   0   0   0   0   0   1   0   1     0    0    0   1.786     59  0.00
+  262  262     0   0   0   0   1   2   0   2   2   7  62  13   0   1   0   0   0   1   3   5     0    0    0   1.472     49  0.00
+  263  263     5   5   1   0   1   0   0   2   7  21   9   6   0   1   7  11   4  10   4   6     0    0    0   2.513     83  0.00
+  264  264     1   2   0   0   0   0   0   7   4   4   6   2   0   1   2   3   3  39   3  21     0    0    0   2.034     67  0.00
+  265  265     4  12   4   1   0   0   0   2  63   1   5   1   7   0   0   0   0   0   0   0     0    0    0   1.371     45  0.00
+  266  266     9   1   5   0   0   1   0   0   4   0   5   2   1   1  19  39   8   5   0   0     0    0    0   1.948     65  0.00
+  267  267     0   1   0   0   0   0   0   2   5   0  22   2   0   4   2   3   3   3   9  42     0    0    0   1.857     62  0.00
+  268  268     4  70  14   1   7   0   0   0   0   0   0   1   1   1   0   0   0   1   0   0     0    0    0   1.096     36  0.00
+  269  269     8  35  41   3   1   0   0   0   2   0   0   0  10   0   0   0   0   0   0   0     0    0    0   1.410     47  0.00
+  270  270     1   1   2   1   1   0   1   1   1   2  15   4   2   1  21  25   7   8   6   3     0    0    0   2.291     76  0.00
+  271  271     0   1   0   3   0   1   0  18   5   0   6   0   0   3  23  23   8   0   8   0     0    0    0   2.072     69  0.00
+  272  272     0  68   3  18  11   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.960     32  0.00
+  273  273     0  76   7   6   5   0   0   0   0   0   0   0   5   0   0   0   0   0   0   0     0    0    0   0.907     30  0.00
+  274  274    12   1   4   1   0   0   0   0   2   0   3  21   5   4   8  10  15   6   5   5     0    0    0   2.394     79  0.00
+  275  275    20   4   4   0   0   0   1   0   5   5   1   4   5   2  18  25   1   1   0   2     0    0    0   2.209     73  0.00
+  276  276     1   0   0   0   1   0   0   0   0   2   2   1   0   4   0   2   2   5  32  46     0    0    0   1.546     51  0.00
+  277  277     6   9   1   1   0   0   0   0   5  67   2   1   0   1   4   0   1   2   0   0     0    0    0   1.322     44  0.00
+  278  278     2   3   1   3   0   0   0   4  12   1  13  18   1   3   2  11   3  12   7   5     0    0    0   2.472     82  0.00
+  279  279     1   1   1   1   0   0   0   0   1   0   2   4   0   3  11  42  13  10   6   4     0    0    0   1.943     64  0.00
+  280  280     0   0   0   0   0   0   0   0   0   0   0   0   0   0  99   0   0   0   0   0     0    0    0   0.054      1  0.00
+  281  281     1  69  12   1   8   0   5   0   0   0   0   0   1   0   0   0   0   2   0   0     0    0    0   1.157     38  0.00
+  282  282     2   0   0   0   0   0   0  92   0   1   2   2   0   0   1   0   0   0   0   0     0    0    0   0.453     15  0.00
+  283  283     2   0   0   1   1   0   3   6  12   0  19   8  20   2   4   1   0   1  18   1     0    0    0   2.249     75  0.00
+  284  284     4  28   1   3   2   0   1  29   4   4   2   2   0   1   6   2   5   2   0   0     0    0    0   2.187     72  0.00
+  285  285     1   1   1   1   0   0   1   9   3  18   4   0   0   1  17  16  11  10   1   2     0    0    0   2.329     77  0.00
+  286  286     0   0   1   1   0   0   1  19   5   1   5   5   1   0   6   4   4  13  20  14     0    0    0   2.290     76  0.00
+  287  287     0   0   2   0   1   0   0  56   1   1   9  15   0   0   1   1   0   0   1  13     0    0    0   1.452     48  0.00
+  288  288    15   6  15   3   5   0   1   1  36   2   4   4   1   0   0   0   0   8   0   1     0    0    0   2.058     68  0.00
+  289  289     1   1   0   2   0   0   0   7  11   3   6   2   0   3   9  10   8  18   8   9     0    0    0   2.519     84  0.00
+  290  290     0   0   0   0   0   0   0   3   3   2   1   1   0   0   1   2   6  42   2  38     0    0    0   1.499     50  0.00
+  291  291    29   7  57   0   4   0   0   0   2   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.156     38  0.00
+  292  292     1   9   1  10   0   0   0   0   1   0   0   0   1   0  17  52   7   0   0   0     0    0    0   1.531     51  0.00
+  293  293     2   2   1   1   0   0   0   2   9   0   8   4   0   0  11  14  12  17  13   3     0    0    0   2.370     79  0.00
+  294  294     0   0   0   1   0   0   0   0   1   0   3   0   0  85   0   0   3   0   1   3     0    0    0   0.734     24  0.00
+  295  295     1   1   2   0   0   0   0   1   8  51   6   1   1   0   7  11   1   5   0   2     0    0    0   1.829     61  0.00
+  296  296     1   3   0   0  51  41   2   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.022     34  0.00
+  297  297     2   2   3   1  89   0   2   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.522     17  0.00
+  298  298     3   1   0   0   3   0   0   1  14   0  10   2   0   2  26  21   3   6   3   2     0    0    0   2.244     74  0.00
+  299  299     0   2   0   0   0   1   3  24   1   1  11  14   0   4   4   5   2   7  10   9     0    0    0   2.368     79  0.00
+  300  300    16  14  44   3   5   0   0   1   1   0   1  10   0   0   1   1   0   0   1   2     0    0    0   1.793     59  0.00
+  301  301     4   1   0   0   0   0   2   1   0   1   3   3   0   0   0   1   4   4  27  50     0    0    0   1.563     52  0.00
+  302  302     0   0   0   0  11  85   1   0   0   1   0   0   0   0   0   0   1   0   0   0     0    0    0   0.585     19  0.00
+  303  303     4   2   7   0   1   2   0   1   5   2   3   4   0   1   4   7   7  23   7  20     0    0    0   2.394     79  0.00
+  304  304     0   9   0   3   0   2   0   9  14   1   4   3   0   3  13  17   2   3   4  12     0    0    0   2.468     82  0.00
+  305  305    11  62  18   1   1   0   0   1   1   0   0   1   0   0   0   0   0   1   0   2     0    0    0   1.279     42  0.00
+  306  306     2  16   2   1   5   0  24   3   4   1   1   1   0   2   6   2   3  24   3   1     0    0    0   2.270     75  0.00
+  307  307     0   7   2   1   0   0   0   1  20   0   3   1   1   4  15   8  17   8  11   2     0    0    0   2.324     77  0.00
+  308  308     0   2   0   1   0   1   1   7   0   1   1   1   2   0  40  30   8   1   3   1     0    0    0   1.750     58  0.00
+  309  309     0   2   0   7   0   0   1   1   1   1   2   5   0   0  10  30   7  19   4   8     0    0    0   2.167     72  0.00
+  310  310    21  23  27   3   0   0   6   0   3   1   5   4   0   0   0   0   3   2   0   0     0    0    0   1.999     66  0.00
+  311  311     7   4   2   1   0   0   0   0   4  14   3   6   0   1   2   8  11  28   1   9     0    0    0   2.274     75  0.00
+  312  312     1   0   1   0   0   0   0   1  25  67   1   2   0   0   0   2   0   0   0   0     0    0    0   0.983     32  0.00
+  313  313     0   0   0   0   0   0   0   0   4  92   2   0   0   0   0   0   0   0   0   0     0    0    0   0.397     13  0.00
+  314  314     3   6   8   0  63   1  17   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.202     40  0.00
+  315  315    19   3  21   0   1   0   0   0   0   1   1   6   2   0   6  33   3   2   3   0     0    0    0   1.967     65  0.00
+  316  316     2   0   0   0   0   0   0   0   0  94   0   0   0   0   1   0   0   2   0   0     0    0    0   0.308     10  0.00
+  317  317     1   2   1   0   0   0   0   0   9  10   4   7   1   1   6  23  11   8   8   7     0    0    0   2.444     81  0.00
+  318  318    33  20  20   0   9   0   1   0   4   1   2   1   1   0   4   0   0   2   1   0     0    0    0   1.962     65  0.00
+  319  319     1   1   0   0   0   0   1   7   4   0  14  11   5   0   8  26   5   8   5   3     0    0    0   2.325     77  0.00
+  320  320     0   0   0   1   0   0   0  33   1   0  34   2   0   5   3   1   1   3   5  11     0    0    0   1.746     58  0.00
+  321  321     6   1   5   1   1   0   0   1   9  28   2   1   0   0   8   6   4  17   1  10     0    0    0   2.240     74  0.00
+  322  322     3   5   6   2   3   0   2  19   3   0   6  19   0   1   6   3   1   9   4   8     0    0    0   2.505     83  0.00
+  323  323     0   0   0   0   0   0   1   4   4   0   2   0   1   0   0   0   0   1   2  84     0    0    0   0.773     25  0.00
+  324  324    12   8   4   0   0   0   2   0  15   0   3  52   1   1   0   0   1   0   0   0     0    0    0   1.608     53  0.00
+  325  325     0   0   0   0   3   0   1   2   4   0  50   4   4   0   8   3   5   6   3   7     0    0    0   1.915     63  0.00
+  326  326     0   1   0   0   1   0  16   0   4   0   0   0   0   5   2   0   7   1  63   0     0    0    0   1.310     43  0.00
+  327  327     1   1   3   0  95   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.287      9  0.00
+  328  328     1   0   0   1   0   0   0   1   0   0   1   0   0   0   0   0   0   9   0  86     0    0    0   0.581     19  0.00
+  329  329     2   4   0   1   0   0   1   3   1   2   7   4   0   1   6  14   1  24   2  28     0    0    0   2.108     70  0.00
+  330  330    11   1   4   0  43   0  31   0   0   1   0   0   0   0   2   1   1   2   0   1     0    0    0   1.577     52  0.00
+  331  331     1   5   1   0   3   0   0   0   1  17   4  17   0   0   1   2   2  32   2  14     0    0    0   2.009     67  0.00
+  332  332     1   1   0   0   0   0   0   1   2   3   3   3   0   0   4   4   4  53   5  16     0    0    0   1.717     57  0.00
+  333  333     3   0   1   0   0   0   0   0   1   0   5   1   0   1   2   3   4  64   2  12     0    0    0   1.415     47  0.00
+  334  334     0   0   0   0   0   0   0   1   6   9   3   6   0   0   0  16   4  34   0  20     0    0    0   1.858     62  0.00
+  335  335    14  21  31   1   3   0   0   0   3   8   1  11   1   0   0   2   0   3   2   1     0    0    0   2.023     67  0.00
+  336  336     3   1   1   0   0   1   0   1   1  10   3   4   0   1  38  14  10   3   6   5     0    0    0   2.071     69  0.00
+  337  337    24  18  20   0   1   0   9   0   2   3   5   3   0   0   1   5   0   7   3   0     0    0    0   2.131     71  0.00
+  338  338     0   0   0   0   0   0   0   9   2   3  62   9   0   0   1   2   7   0   2   1     0    0    0   1.379     46  0.00
+  339  339    10  12  42   0  10   0   2   4   2   7   6   1   1   0   0   3   0   1   0   1     0    0    0   1.965     65  0.00
+  340  340     0   0   0   0   0   0   0   3   7   8  21  27   0   2   1   2   1   0  25   4     0    0    0   1.865     62  0.00
+  341  341     0   0   0   0   0   0   0   0   3   4   7   0   0   0   0   7   5  45   0  28     0    0    0   1.481     49  0.00
+  342  342     0   0   0   0   0   0   0   0   0   0   4   0   0   0   6  75   6   9   0   0     0    0    0   0.899     30  0.00
+  343  343     1   4   3   0   3   0   4   0   7   1   5   1  58   0   0   0   0   7   0   5     0    0    0   1.625     54  0.00
+  344  344     1   3   1   0  10   0   0  51  19   1   1   3   0   0   0   0   3   3   3   0     0    0    0   1.622     54  0.00
+  345  345     0   0   0   0   0   0   0   2   0   3   0   0   0   5   5  72   0   8   5   2     0    0    0   1.105     36  0.00
+  346  346     0   6   0   2   0   0   0   8   3   0   0   3   0   0   0   0   2  77   0   0     0    0    0   0.924     30  0.00
+  347  347     0   0   0   0  95   0   0   0   0   0   0   0   0   0   0   0   0   0   5   0     0    0    0   0.194      6  0.00
+  348  348     3   0   0   0   0   0   0   2  18   2  42  16   8   0   2   3   0   0   0   5     0    0    0   1.736     57  0.00
+  349  349     0   0   0   0   0   0   8   5   0   5   0   0   0   0   0   0   0  66   5  10     0    0    0   1.170     39  0.00
+  350  350     0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+//

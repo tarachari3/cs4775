@@ -1,0 +1,328 @@
+ID Pseudo hssp file.
+SEQ 
+SEQ gi|58145|emb|CAA28759.1| (X05113) synthetic somatomedin C (AA 1-...   143  3e-34
+SEQ gi|106739|pir||A36552 insulin-like growth factor 1a precursor - ...   142  8e-34
+SEQ gi|108319|pir||A34938 insulin-like growth factor IA precursor - ...   141  1e-33
+SEQ gi|124248|sp|P17647|IGF1_CAVPO INSULIN-LIKE GROWTH FACTOR I PREC...   141  2e-33
+SEQ gi|1850346|gb|AAB48032.1| (U75390) insulin-like growth factor 1 ...   141  2e-33
+SEQ gi|164474|gb|AAA31043.1| (M31175) insulin-like growth factor I p...   141  2e-33
+SEQ gi|183120|gb|AAA52543.1| (M29644) insulin-like growth factor I p...   141  2e-33
+SEQ gi|8100793|gb|AAF72409.1| (AF210387) insulin-like growth factor ...   140  3e-33
+SEQ gi|69362|pir||IGGP1 insulin-like growth factor I precursor - gui...   140  3e-33
+SEQ gi|1100903|gb|AAA96152.1| (U40870) insulin-like growth factor-I ...   139  4e-33
+SEQ gi|1815685|gb|AAB47485.1| (U85272) prepro IGF-Ia [Equus caballus]     139  5e-33
+SEQ gi|124251|sp|P16545|IGF1_PIG INSULIN-LIKE GROWTH FACTOR I PRECUR...   139  5e-33
+SEQ gi|11024682|ref|NP_000609.1| insulin-like growth factor 1 (somat...   139  5e-33
+SEQ gi|223828|prf||1001199A insulin-like growth factor I precursor [...   139  5e-33
+SEQ gi|12644472|sp|Q95222|IGF1_RABIT INSULIN-LIKE GROWTH FACTOR I PR...   139  6e-33
+SEQ gi|124263|sp|P05019|IGFB_HUMAN INSULIN-LIKE GROWTH FACTOR IB PRE...   139  7e-33
+SEQ gi|124247|sp|P07455|IGF1_BOVIN INSULIN-LIKE GROWTH FACTOR I PREC...   138  9e-33
+SEQ gi|109037|pir||S22878 insulin-like growth factor I precursor, sp...   138  1e-32
+SEQ gi|1070562|pir||IGBO1 insulin-like growth factor IA precursor - ...   138  1e-32
+SEQ gi|109035|pir||B33390 insulin-like growth factor I precursor (cl...   138  1e-32
+SEQ gi|462403|sp|P33712|IGF1_CANFA INSULIN-LIKE GROWTH FACTOR I PREC...   137  2e-32
+SEQ gi|1083101|pir||JC2483 insulin-like growth factor-I precursor - ...   137  2e-32
+SEQ gi|1994|emb|CAA35527.1| (X17492) insulin like growth factor I (1...   137  2e-32
+SEQ gi|165931|gb|AAA80533.1| (M30653) insulin-like growth factor I [...   136  3e-32
+SEQ gi|124262|sp|P08025|IGFA_RAT INSULIN-LIKE GROWTH FACTOR IA PRECU...   136  5e-32
+SEQ gi|2118612|pir||A33390 insulin-like growth factor I precursor, s...   136  5e-32
+SEQ gi|124252|sp|P10763|IGF1_SHEEP INSULIN-LIKE GROWTH FACTOR I PREC...   135  7e-32
+SEQ gi|92423|pir||A26859 insulin-like growth factor IB precursor - r...   135  7e-32
+SEQ gi|1708432|sp|P51458|IGF1_HORSE INSULIN-LIKE GROWTH FACTOR I PRE...   135  7e-32
+SEQ gi|1708430|sp|P51457|IGF1_CAPHI INSULIN-LIKE GROWTH FACTOR I PRE...   134  1e-31
+SEQ gi|124265|sp|P08024|IGFB_RAT INSULIN-LIKE GROWTH FACTOR IB PRECU...   134  1e-31
+SEQ gi|204752|gb|AAA41386.1| (M17335) insulin like growth factor I [...   133  3e-31
+SEQ gi|124261|sp|P05017|IGFA_MOUSE INSULIN-LIKE GROWTH FACTOR IA PRE...   133  5e-31
+SEQ gi|6754308|ref|NP_034642.1| insulin-like growth factor 1 [Mus mu...   132  7e-31
+SEQ gi|56435|emb|CAA29436.1| (X06043) IGF-IA precursor [Rattus norve...   131  1e-30
+SEQ gi|208526|gb|AAA72579.1| (M16249) insulin-like growth factor [sy...   130  3e-30
+SEQ gi|5107517|pdb|1BQT|    Three-Dimensional Structure Of Human Ins...   129  4e-30
+SEQ gi|9973400|sp|Q28933|IGF1_SUNMU INSULIN-LIKE GROWTH FACTOR I PRE...   129  4e-30
+SEQ gi|5103031|dbj|BAA78767.1| (AB028636) IGF1 [Mesocricetus auratus]     128  1e-29
+SEQ gi|209366|gb|AAA72455.1| (M10170) synthetic somatomedin-C/insuli...   127  1e-29
+SEQ gi|738554|prf||2001274A insulin-like growth factor I [Odocoileus...   127  2e-29
+SEQ gi|3309072|gb|AAC26006.1| (AF074980) insulin-like growth factor-...   127  2e-29
+SEQ gi|124249|sp|P18254|IGF1_CHICK INSULIN-LIKE GROWTH FACTOR I PREC...   127  2e-29
+SEQ gi|109033|pir||S07198 insulin-like growth factor - sheep >gi|738...   127  2e-29
+SEQ gi|146446|gb|AAA53535.1| (M22044) insulin-like growth factor I [...   127  2e-29
+SEQ gi|7677623|gb|AAF67202.1|AF260131_1 (AF260131) IGF-I [Coturnix j...   127  2e-29
+SEQ gi|208431|gb|AAA72202.1| (J03739) insulin-like growth factor [sy...   127  3e-29
+SEQ gi|1708431|sp|P51462|IGF1_COTJA INSULIN-LIKE GROWTH FACTOR I PRE...   126  3e-29
+SEQ gi|227566|prf||1707201A insulin-like growth factor 1 [Sus scrofa...   126  5e-29
+SEQ gi|208429|gb|AAA72201.1| (J03738) insulin-like growth factor I [...   126  6e-29
+SEQ gi|8569480|pdb|3LRI|A Chain A, Solution Structure And Backbone D...   126  6e-29
+SEQ gi|111863|pir||B40912 insulin-like growth factor I precursor for...   126  6e-29
+SEQ gi|111862|pir||A40912 insulin-like growth factor I precursor for...   125  9e-29
+SEQ gi|124253|sp|P16501|IGF1_XENLA INSULIN-LIKE GROWTH FACTOR I PREC...   124  2e-28
+SEQ gi|208433|gb|AAA72203.1| (J03740) insulin-like growth factor [sy...   123  4e-28
+SEQ gi|2808466|emb|CAA76136.1| (Y16248) IGF-1 [Bubalus bubalis]           122  8e-28
+SEQ gi|165928|gb|AAA31544.1| (M89787) insulin-like growth factor I [...   120  3e-27
+SEQ gi|9457240|gb|AAB37702.2| (S82374) insulin-like growth factor I ...   117  2e-26
+SEQ gi|2497406|sp|Q90326|IGFB_CYPCA INSULIN-LIKE GROWTH FACTOR I, JU...   117  2e-26
+SEQ gi|2497405|sp|Q90325|IGFA_CYPCA INSULIN-LIKE GROWTH FACTOR I, AD...   116  3e-26
+SEQ gi|224061|prf||1009206A somatomedin A [Homo sapiens]                  116  4e-26
+SEQ gi|13249283|gb|AAK16727.1|AF332865_1 (AF332865) insulin-like gro...   116  4e-26
+SEQ gi|13936438|gb|AAK49814.1|AF246977_1 (AF246977) 45 kDa IGFI-GFP ...   116  5e-26
+SEQ gi|14571865|gb|AAK67296.1|AF282620_1 (AF282620) SIGF1-GFP fusion...   116  5e-26
+SEQ gi|14279401|gb|AAK58584.1|AF268051_1 (AF268051) insulin-like gro...   116  5e-26
+SEQ gi|3982555|gb|AAC83444.1| (AF001006) insulin-like growth factor-...   116  6e-26
+SEQ gi|124250|sp|P17085|IGF1_ONCKI INSULIN-LIKE GROWTH FACTOR I PREC...   115  8e-26
+SEQ gi|7649259|gb|AAF65819.1| (AF247658) insulin-like growth factor-...   115  8e-26
+SEQ gi|345553|pir||C44012 insulin-like growth factor I precursor, sp...   115  9e-26
+SEQ gi|3176823|gb|AAC18833.1| (AF063216) insulin-like growth factor ...   115  9e-26
+SEQ gi|738041|prf||1924192A insulin-like growth factor I [Oncorhynch...   115  9e-26
+SEQ gi|345552|pir||B44012 proIGF-IA-2=insulin-like growth factor I p...   115  9e-26
+SEQ gi|3982553|gb|AAC83443.1| (AF001005) insulin-like growth factor-...   115  1e-25
+SEQ gi|729825|sp|Q02815|IGF1_ONCMY INSULIN-LIKE GROWTH FACTOR I PREC...   115  1e-25
+SEQ gi|632198|pir||B54270 insulin-like growth factor-I precursor (cl...   114  1e-25
+SEQ gi|632197|pir||A54270 insulin-like growth factor-I precursor (cl...   114  1e-25
+SEQ gi|488155|gb|AAA18212.1| (M81904) insulin-like growth factor I [...   113  3e-25
+SEQ gi|213811|gb|AAA18211.1| (M81904) insulin-like growth factor I [...   113  3e-25
+SEQ gi|632196|pir||D54270 insulin-like growth factor-I precursor (cl...   113  4e-25
+SEQ gi|632199|pir||C54270 insulin-like growth factor-I precursor (cl...   113  4e-25
+SEQ gi|345551|pir||A44012 insulin-like growth factor I prohormone (a...   112  6e-25
+SEQ gi|2230767|emb|CAA71694.1| (Y10691) pro-insulin like growth fact...   111  2e-24
+SEQ gi|8132123|gb|AAF73227.1|AF152588_1 (AF152588) insulin-like grow...   110  3e-24
+SEQ gi|3687742|gb|AAC62228.1| (AF061278) insulin-like growth factor ...   107  2e-23
+SEQ gi|2736077|gb|AAB94052.1| (AF016922) insulin-like growth factor ...   107  2e-23
+SEQ gi|2625161|gb|AAB86652.1| (AF033796) insulin-like growth factor ...   106  5e-23
+SEQ gi|1808660|emb|CAA71789.1| (Y10830) prepro insulin-like growth f...   106  6e-23
+SEQ gi|3158361|gb|AAC17494.1| (AF033800) insulin-like growth factor ...   106  6e-23
+SEQ gi|3483056|emb|CAA09267.1| (AJ010602) preproinsulin-like growth ...   105  7e-23
+SEQ gi|3483058|emb|CAA09268.1| (AJ010603) preproinsulin-like growth ...   105  1e-22
+SEQ gi|2569961|emb|CAA73162.1| (Y12583) insulin-like growth factor [...   104  2e-22
+SEQ gi|551232|emb|CAA55831.1| (X79244) ubiquitous insulin-like growt...   104  2e-22
+SEQ gi|2118611|pir||S58036 insulin-like growth factor I, precursor -...   102  7e-22
+SEQ gi|4104007|gb|AAD01917.1| (AF030573) prepro-insulin-like growth ...    99  7e-21
+SEQ gi|4558029|pdb|1B9G|A Chain A, Insulin-Like-Growth-Factor-1            99  1e-20
+SEQ gi|2894577|emb|CAA17123.1| (AL021880) insulin-like growth factor...    97  3e-20
+SEQ gi|7532878|gb|AAF63265.1| (AF216775) insulin-like growth factor ...    96  6e-20
+SEQ gi|729827|sp|Q02816|IGF2_ONCMY INSULIN-LIKE GROWTH FACTOR II PRE...    95  1e-19
+SEQ gi|1289271|emb|CAA65862.1| (X97225) insulin-like growth factor I...    95  1e-19
+SEQ gi|12231523|gb|AAG49142.1|AF225573_1 (AF225573) SooQI-507GFP fus...    95  1e-19
+SEQ gi|14571867|gb|AAK67297.1|AF282621_1 (AF282621) IGFII-GFP fusion...    95  1e-19
+SEQ gi|1470095|gb|AAB05252.1| (U62106) insulin-like growth factor I ...    95  1e-19
+SEQ gi|2282046|gb|AAB64195.1| (AF007943) insulin-like growth factor ...    94  2e-19
+SEQ gi|3158363|gb|AAC17495.1| (AF033801) insulin-like growth factor ...    94  3e-19
+SEQ gi|1083924|pir||A53697 insulin-like growth factor I, brain-speci...    92  9e-19
+SEQ gi|6319169|gb|AAF07193.1|AF194333_1 (AF194333) insulin-like grow...    84  3e-16
+SEQ gi|755741|emb|CAA27153.1| (X03421) IGF-I [Homo sapiens]                84  3e-16
+SEQ gi|540508|dbj|BAA05114.1| (D26119) insulin-like growth factor-I ...    83  8e-16
+SEQ gi|224256|prf||1012293A insulin-like growth factor II precursor ...    83  8e-16
+SEQ gi|194496|gb|AAA37925.1| (M14983) insulin-like growth factor-I [...    81  2e-15
+SEQ gi|7438601|pir||T10897 insulin-like growth factor II precursor -...    81  3e-15
+SEQ gi|2143806|pir||I52680 insulin-like growth factor II - rat (frag...    80  3e-15
+SEQ gi|1364191|emb|CAA37620.1| (X53553) insulin-like growth factor I...    80  3e-15
+SEQ gi|33004|emb|CAA27249.1| (X03562) put. IGF-II [Homo sapiens]           80  4e-15
+SEQ gi|4504609|ref|NP_000603.1| insulin-like growth factor 2 (somato...    80  5e-15
+SEQ gi|2135482|pir||I76705 insulin-like growth factor II precursor -...    80  5e-15
+SEQ gi|2808535|emb|CAA11145.1| (AJ223165) IGF-II precursor [Taenopyg...    80  5e-15
+SEQ gi|124254|sp|P07456|IGF2_BOVIN INSULIN-LIKE GROWTH FACTOR II PRE...    80  5e-15
+SEQ gi|3041701|sp|P51459|IGF2_HORSE INSULIN-LIKE GROWTH FACTOR II PR...    79  6e-15
+SEQ gi|3158368|gb|AAC17496.1| (AF033804) insulin-like growth factor ...    79  8e-15
+SEQ gi|56710|emb|CAA25427.1| (X00911) pot. MSA-precursor [Rattus nor...    79  8e-15
+SEQ gi|6754310|ref|NP_034644.1| insulin-like growth factor 2 [Mus mu...    79  8e-15
+SEQ gi|8571480|gb|AAF76900.1|AF276074_1 (AF276074) insulin-like grow...    79  9e-15
+SEQ gi|13937375|ref|NP_113699.1| insulin-like growth factor II (soma...    79  9e-15
+SEQ gi|729826|sp|Q08279|IGF2_CAVPO INSULIN-LIKE GROWTH FACTOR II PRE...    79  1e-14
+SEQ gi|56713|emb|CAA25429.1| (X00911) pot. MSA-precursor [Rattus nor...    78  1e-14
+SEQ gi|9664869|gb|AAF97244.1|AF283002_1 (AF283002) insulin-like grow...    78  2e-14
+SEQ gi|124259|sp|P10764|IGF2_SHEEP INSULIN-LIKE GROWTH FACTOR II PRE...    78  2e-14
+SEQ gi|33044|emb|CAA29517.1| (X06160) precursor polypeptide (AA -24 ...    78  2e-14
+SEQ gi|87954|pir||S02423 insulin-like growth factor II precursor, sp...    78  2e-14
+SEQ gi|33048|emb|CAA29518.1| (X06161) precursor polypeptide (AA -24 ...    76  5e-14
+SEQ gi|420123|pir||B60738 insulin-like growth factor II precursor - pig    76  5e-14
+SEQ gi|224501|prf||1106261A insulin-like growth factor II variant [H...    76  6e-14
+SEQ gi|1352443|sp|P23695|IGF2_PIG INSULIN-LIKE GROWTH FACTOR II PREC...    76  6e-14
+SEQ gi|423313|pir||S32558 insulin-like growth factor II - sheep >gi|...    76  7e-14
+SEQ gi|2135956|pir||I67610 insulin-like growth factor II, domains A-...    75  1e-13
+SEQ gi|462404|sp|P33717|IGF2_CHICK INSULIN-LIKE GROWTH FACTOR II (IG...    75  2e-13
+SEQ gi|2136466|pir||I53642 insulin-like growth factor II precursor -...    74  2e-13
+SEQ gi|2655872|emb|CAA04657.1| (AJ001297) IGF2 protein [Callithrix j...    74  3e-13
+SEQ gi|208030|gb|AAA72971.1| (M60420) insulin-like growth factor 2 [...    74  3e-13
+SEQ gi|1000058|pdb|1IGL|    Insulin-Like Growth Factor Ii (Igf-Ii, I...    73  5e-13
+SEQ gi|738556|prf||2001274C insulin-like growth factor II [Odocoileu...    73  5e-13
+SEQ gi|738557|prf||2001274D insulin-like growth factor II [Ovis aries]     73  6e-13
+SEQ gi|227567|prf||1707201B insulin-like growth factor 2 [Sus scrofa...    73  6e-13
+SEQ gi|124266|sp|P22618|IGF_MYXGL INSULIN-LIKE GROWTH FACTOR PRECURS...    73  7e-13
+SEQ gi|930004|emb|CAA37861.1| (X53867) insulin-like growth factor II...    72  9e-13
+SEQ gi|2133793|pir||S66484 insulin-like growth factor II precursor -...    72  1e-12
+SEQ gi|7767505|gb|AAF69129.1| (AF225876) insulin-like growth factor ...    72  1e-12
+SEQ gi|13646958|dbj|BAB41098.1| (AB050012) insulin like growth facto...    71  1e-12
+SEQ gi|418830|pir||A60740 insulin-like growth factor II - chicken          71  2e-12
+SEQ gi|1170518|sp|P41694|IGF2_MUSVI INSULIN-LIKE GROWTH FACTOR II PR...    70  5e-12
+SEQ gi|1103534|emb|CAA92276.1| (Z68151) IGF2 [Bos taurus]                  68  1e-11
+SEQ gi|109123|pir||S08567 insulin-like growth factor - sheep               68  1e-11
+SEQ gi|8132125|gb|AAF73228.1|AF152589_1 (AF152589) insulin-like grow...    63  7e-10
+SEQ gi|89870|pir||S07965 insulin-like growth factor I - sheep (fragm...    61  2e-09
+SEQ gi|780260|emb|CAA27250.1| (X03563) pot. IGF-I precursor [Homo sa...    57  3e-08
+SEQ gi|2133946|pir||I51240 insulin-like growth factor I - chum salmo...    56  8e-08
+SEQ gi|1364249|emb|CAA36296.1| (X52077) insulin-like growth factor I...    55  1e-07
+SEQ gi|69338|pir||INFIS insulin - shorthorn sculpin                        55  1e-07
+SEQ gi|10303217|emb|CAC10055.1| (Y16643) Pro-IGF-II [Myoxocephalus s...    55  2e-07
+SEQ gi|85806|pir||A34049 insulin-like growth factor I' - African cla...    55  2e-07
+SEQ gi|33021|emb|CAA27152.1| (X03420) put. IGF-I precursor (169 is 1...    55  2e-07
+SEQ gi|69335|pir||INCD insulin - cod (Gadus sp.)                           54  2e-07
+SEQ gi|2160512|dbj|BAA05113.1| (D26119) insulin-like growth factor-I...    54  3e-07
+SEQ gi|58073|emb|CAA29294.1| (X05872) fusion polypeptide [synthetic ...    53  6e-07
+SEQ gi|220972|dbj|BAA01199.1| (D10367) acidic 10K polypeptide [synth...    53  6e-07
+SEQ gi|69336|pir||INTF1 insulin 1 - toadfish (tentative sequence)          52  8e-07
+SEQ gi|69320|pir||INCB insulin - Chinchilla brevicaudata                   52  9e-07
+SEQ gi|69317|pir||INMSSP insulin - Egyptian spiny mouse (tentative s...    52  1e-06
+SEQ gi|69337|pir||INTO2 insulin 2 - toadfish (tentative sequence)          52  2e-06
+SEQ gi|69349|pir||INFI insulin precursor - spotted ratfish (fragment...    51  2e-06
+SEQ gi|12644021|sp|P81025|INS_ORENI INSULIN PRECURSOR >gi|4558782|gb...    51  2e-06
+SEQ gi|69348|pir||INEN insulin - elephantfish (Callorhynchus milii)        51  3e-06
+SEQ gi|69339|pir||INTU2 insulin 2 - tuna                                   51  3e-06
+SEQ gi|85464|pir||A24634 insulin - spotted ratfish                         51  3e-06
+SEQ gi|69330|pir||INAQ insulin - American alligator                        50  4e-06
+SEQ gi|69316|pir||INHY insulin - hamster                                   50  4e-06
+SEQ gi|538566|pir||INMKSQ insulin - common squirrel monkey                 50  5e-06
+SEQ gi|69326|pir||INTK insulin - turkey (tentative sequence) >gi|693...    50  5e-06
+SEQ gi|124365|sp|P22334|ILP_BRACL INSULIN-LIKE PEPTIDE PRECURSOR >gi...    50  5e-06
+SEQ gi|69307|pir||INEL insulin - elephant                                  49  7e-06
+SEQ gi|85933|pir||JQ0359 insulin - colubrid snake (Zaocys dhumnades)       49  8e-06
+SEQ gi|69329|pir||INGS insulin - goose                                     49  8e-06
+SEQ gi|69347|pir||INAFP insulin - allmouth goosefish                       49  8e-06
+SEQ gi|69351|pir||INDF insulin - spiny dogfish (tentative sequence)        49  9e-06
+SEQ gi|4376058|emb|CAA77265.1| (Y18691) insulin-like growth factor I...    49  1e-05
+SEQ gi|7546360|pdb|1EFE|A Chain A, An Active Mini-Proinsulin, M2pi         49  1e-05
+SEQ gi|69305|pir||INWH1S insulin - sei whale                               49  1e-05
+SEQ gi|69354|pir||INLMS insulin - sea lamprey                              49  1e-05
+SEQ gi|86565|pir||JQ0362 insulin - North American opossum                  49  1e-05
+SEQ gi|69313|pir||INCT insulin - cat                                       49  1e-05
+SEQ gi|69331|pir||INRS insulin - western diamondback rattlesnake           48  1e-05
+SEQ gi|69343|pir||INFLE insulin - European flounder                        48  2e-05
+SEQ gi|69352|pir||IPRYM insulin precursor - marbled electric ray (fr...    48  2e-05
+SEQ gi|69303|pir||INWHP insulin - sperm whale >gi|69304|pir||INWHF i...    48  2e-05
+SEQ gi|7438602|pir||A59151 insulin precursor - jack bean (fragments)       48  2e-05
+SEQ gi|69344|pir||INBN2 insulin - skipjack tuna (tentative sequence)       48  2e-05
+SEQ gi|13517219|gb|AAK28709.1| (AF199585) preproinsulin [Catostomus ...    48  2e-05
+SEQ gi|7438597|pir||S61361 insulin - Amphiuma tridactylum                  48  2e-05
+SEQ gi|11275220|pir||PC7082 epidermal growth factor/single chain ins...    47  2e-05
+SEQ gi|69311|pir||INCMA insulin - Arabian camel (tentative sequence)       47  3e-05
+SEQ gi|69310|pir||INGT insulin - goat                                      47  3e-05
+SEQ gi|3127060|gb|AAC78289.1| (AF050524) proinsulin-like protein BKR...    47  3e-05
+SEQ gi|9408409|gb|AAF87285.1|AF227187_1 (AF227187) preproinsulin [Ra...    47  4e-05
+SEQ gi|7438596|pir||S63590 insulin - duckbill platypus                     47  4e-05
+SEQ gi|69345|pir||INGXA insulin - alligator gar                            47  4e-05
+SEQ gi|482755|pir||A61125 insulin - American eel                           47  4e-05
+SEQ gi|124526|sp|P12707|INS2_XENLA INSULIN 2 PRECURSOR >gi|69333|pir...    47  5e-05
+SEQ gi|4376142|emb|CAA25151.1| (X00462) insulin B-chain [synthetic c...    46  5e-05
+SEQ gi|124638|sp|P01341|INS_LOPPI INSULIN PRECURSOR >gi|69346|pir||I...    46  9e-05
+SEQ gi|69321|pir||INPQ insulin - crested porcupine                         46  9e-05
+SEQ gi|4558198|pdb|1ZEI|A Chain A, Cross-Linked B28 Asp Insulin >gi|...    46  1e-04
+SEQ gi|69340|pir||INON insulin [validated] - pink salmon >gi|69341|p...    46  1e-04
+SEQ gi|124588|sp|P01313|INS_CRILO INSULIN PRECURSOR >gi|2137094|pir|...    46  1e-04
+SEQ gi|7438594|pir||S44469 insulin I1 - North American paddlefish (P...    46  1e-04
+SEQ gi|33031|emb|CAA27155.1| (X03425) put. IGF-II precursor (175 is ...    45  1e-04
+SEQ gi|124513|sp|P12706|INS1_XENLA INSULIN 1 PRECURSOR >gi|69332|pir...    45  1e-04
+SEQ gi|482673|pir||A61008 insulin-like growth factor II - sheep (fra...    45  1e-04
+SEQ gi|2981815|pdb|1SJU|    Mini-Proinsulin, Single Chain Insulin An...    45  1e-04
+SEQ gi|213445|gb|AAA49414.1| (J00936) preproinsulin [Oncorhynchus ke...    45  2e-04
+SEQ gi|1000429|gb|AAB35034.1| insulin-like growth factor II A, IGF I...    45  2e-04
+SEQ gi|124594|sp|P01335|INS_CYPCA INSULIN PRECURSOR >gi|69334|pir||I...    45  2e-04
+SEQ gi|13517227|gb|AAK28713.1| (AF199589) preproinsulin [Osteoglossu...    44  2e-04
+SEQ gi|7438595|pir||S44470 insulin I2 - North American paddlefish (P...    44  2e-04
+SEQ gi|103795|pir||S15426 insulin - bowfin                                 44  2e-04
+SEQ gi|494923|pdb|6INS|E Chain E, Insulin (Peptide-Linked, 29b - 1a,...    44  3e-04
+SEQ gi|9506815|ref|NP_062002.1| insulin [Rattus norvegicus] >gi|1245...    44  3e-04
+SEQ gi|64362|emb|CAA24983.1| (X00148) preproinsulin [Oncorhynchus keta]    44  3e-04
+SEQ gi|312127|emb|CAA46943.1| (X66155) insulin like growth factor I ...    44  3e-04
+SEQ gi|2497407|sp|Q62587|INS_PSAOB INSULIN PRECURSOR >gi|1370283|emb...    44  3e-04
+SEQ gi|124553|sp|P10604|INS_AOTTR INSULIN PRECURSOR >gi|104987|pir||...    44  3e-04
+SEQ gi|307072|gb|AAA59179.1| (L15440) insulin [Homo sapiens]               44  3e-04
+SEQ gi|393423|emb|CAA50737.1| (X71921) insulin-like growth factor II...    44  3e-04
+SEQ gi|13991923|gb|AAK51558.1|AF373021_1 (AF373021) preproinsulin [C...    44  4e-04
+SEQ gi|124657|sp|P04667|INS_ONCKE INSULIN PRECURSOR >gi|69342|pir||I...    44  4e-04
+SEQ gi|124587|sp|P01332|INS_CHICK INSULIN PRECURSOR >gi|69325|pir||I...    43  4e-04
+SEQ gi|229392|prf||720460B insulin 2,pro [Rattus norvegicus]               43  4e-04
+SEQ gi|13517217|gb|AAK28708.1| (AF199584) preproinsulin [Ambloplites...    43  4e-04
+SEQ gi|13517223|gb|AAK28711.1| (AF199587) preproinsulin [Gnathonemus...    43  5e-04
+SEQ gi|1708499|sp|P51463|INS_SELRF INSULIN PRECURSOR >gi|2147962|pir...    43  5e-04
+SEQ gi|229391|prf||720460A insulin 1,pro [Rattus norvegicus]               43  5e-04
+SEQ gi|208668|gb|AAA72172.1| (J02547) synthetic preproinsulin [synth...    43  6e-04
+SEQ gi|266377|sp|P30410|INS_PANTR INSULIN PRECURSOR >gi|283944|pir||...    43  6e-04
+SEQ gi|4557671|ref|NP_000198.1| proinsulin precursor [Homo sapiens] ...    43  6e-04
+SEQ gi|12053668|emb|CAC20109.1| (AJ237750) insulin [Danio rerio]           43  6e-04
+SEQ gi|9973509|sp|O73727|INS_BRARE INSULIN PRECURSOR >gi|2935704|gb|...    43  7e-04
+SEQ gi|14161273|gb|AAK54684.1| (AF282408) preproinsulin [Hiodon alos...    42  8e-04
+SEQ gi|266362|sp|P30407|INS_CERAE INSULIN PRECURSOR >gi|283935|pir||...    42  8e-04
+SEQ gi|1911406|gb|AAB50640.1| insulin B-chain [Tilapia nilotica=Nile...    42  8e-04
+SEQ gi|58103|emb|CAA23424.1| (V00082) reading frame proinsulin [synt...    42  9e-04
+SEQ gi|266373|sp|P30406|INS_MACFA INSULIN PRECURSOR >gi|86627|pir||J...    42  9e-04
+SEQ gi|6680461|ref|NP_032412.1| insulin I [Mus musculus] >gi|124511|...    42  0.001
+SEQ 
+## SEQUENCE PROFILE AND ENTROPY
+ SeqNo PDBNo   V   L   I   M   F   W   Y   G   A   P   S   T   C   H   R   K   Q   E   N   D  NOCC NDEL NINS ENTROPY RELENT WEIGHT
+    1    1     0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+    2    2     0   0   0   0   0   0   0   1   0  98   1   0   0   0   0   0   0   0   0   0     0    0    0   0.097      3  0.00
+    3    3     0   0   0   0   0   0   1   0   0   0   0   1   0   0   1   0  13  85   0   0     0    0    0   0.509     16  0.00
+    4    4     0   0   0   0   0   0   1   0   1   0   0  86   0   8   4   0   0   1   0   0     0    0    0   0.572     19  0.00
+    5    5     0 100   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+    6    6     0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0     0    0    0   0.027      0  0.00
+    7    7     0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.027      0  0.00
+    8    8     0   0   0   0   0   0   0  22  43   2  32   0   0   0   0   0   0   0   0   0     0    0    0   1.186     39  0.00
+    9    9     0   0   0   0   0   0   0   0   0   0   0   0   0  33   0   0   0  66   0   0     0    0    0   0.709     23  0.00
+   10   10     0 100   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   11   11   100   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.027      0  0.00
+   12   12     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  22   0  78     0    0    0   0.527     17  0.00
+   13   13     0   0   0   0   0   0   0   0  65   0   0  34   0   0   0   0   0   0   0   0     0    0    0   0.717     23  0.00
+   14   14     0  99   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.054      1  0.00
+   15   15     0   0   0   0   2   0  32   0   0   0   1   0   0   0   0   0  65   0   0   0     0    0    0   0.763     25  0.00
+   16   16     1  30   0   1  68   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.719     24  0.00
+   17   17    99   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.067      2  0.00
+   18   18     0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   19   19     0   0   0   0   0   0   0  92   0   0   3   0   0   0   0   0   0   4   0   1     0    0    0   0.361     12  0.00
+   20   20     0   0   0   0   0   0   0   0   0   8   0   0   0   0   0   0   0  33   1  57     0    0    0   0.991     33  0.00
+   21   21     0   0   0   0   0   0   0   0   0   0   0   2   0   0  92   4   0   0   0   1     0    0    0   0.382     12  0.00
+   22   22     0   0   0   0   0   0   0  99   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.080      2  0.00
+   23   23     0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.026      0  0.00
+   24   24     0   0   0   0  31   0  69   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.643     21  0.00
+   25   25     0   0   0   0  68   0  31   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.672     22  0.00
+   26   26     0   0   0   0   0   0   0   0   0   0  44  10   0   0   1   0   1   0  41   0     0    0    0   1.207     40  0.00
+   27   27     0   1   0   0   0   0   0   1   0  18   0   0   0   0  23  51   1   1   0   1     0    0    0   1.311     43  0.00
+   28   28     0   0   0   0   0   0   0   0   0  83   0   0   0   0   0  12   0   1   0   0     0    0    0   0.653     21  0.00
+   29   29     3   2   1   1   1   0   2   2   9   2  13  62   0   0   3   1   2   0   1   0     0    0    0   1.442     48  0.00
+   30   30     1   0   0   0   0   0   0  63   3   3  20   0   1   1   6   2   0   1   0   1     0    0    0   1.207     40  0.00
+   31   31     0   0   0   0   6   0  59   1   1   6   1   0   0   0  25   0   0   0   1   1     0    0    0   1.183     39  0.00
+   32   32     5   1   7   0   0   0   0  68   5   0   0   1   0   0   2   5   2   2   0   1     0    0    0   1.254     41  0.00
+   33   33     3   1   0   0   0   0   0   1   5  20  48   0   0   0   2   1   1   1  14   4     0    0    0   1.636     54  0.00
+   34   34     1   0   1   1   0   0   0   4   1   1  51   0   0   2  20   1   5   4  10   1     0    0    0   1.608     53  0.00
+   35   35     4   0   7   1   0   0   0   1   9   1  46   4   0   1  18   1   1   2   6   3     0    0    0   1.824     60  0.00
+   36   36     1   4   0   0   1   0   1   1   0   3  18   0   1   0  61   2   1   6   2   1     0    0    0   1.369     45  0.00
+   37   37     2   3   0   3   0   1   0   0   0   1   2   0   0   0  81   0   8   1   1   0     0    0    0   0.820     27  0.00
+   38   38     3   3   4   3   0   0   1   1  36   9  24   7   0   0   5   4   0   1   1   0     0    0    0   1.954     65  0.00
+   39   39     6   1   1   1   1   0   0   1   2  52   4   0   1  17   3   1   8   1   2   1     0    0    0   1.689     56  0.00
+   40   40     0   1   1   1   0   0   0   0   0   0   1   0   0   4   4  27  40   2  19   1     0    0    0   1.540     51  0.00
+   41   41     2   1   0   0   0   0   0   0   5   0   3  35   0   0  42   9   0   0   1   0     0    0    0   1.510     50  0.00
+   42   42     0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   43   43     1   0  98   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.102      3  0.00
+   44   44    99   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.054      1  0.00
+   45   45     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  51   0  49     0    0    0   0.717     23  0.00
+   46   46     0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0  31  68   0   0     0    0    0   0.690     23  0.00
+   47   47     0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   48   48     0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0     0    0    0   0.027      0  0.00
+   49   49     0   0   0   0  66   0   0   0   2   0   0  11   0  17   0   0   0   1   0   0     0    0    0   1.050     35  0.00
+   50   50     0   0   0   0   0   0   0   2   0   0  14   0   0   1  52   6  18   0   6   0     0    0    0   1.412     47  0.00
+   51   51     3   0  11   0   0   0   0   0   0  12  66   7   0   0   0   0   0   0   0   0     0    0    0   1.114     37  0.00
+   52   52     0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   53   53     0   0   0   0   0   0   0   0   0   0  25   2   0   0   0   0   0  15   6  52     0    0    0   1.231     41  0.00
+   54   54     0  87  11   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.472     15  0.00
+   55   55     0   0   0   0  11   0  20   0  18   0   0   0   0   0  43   1   1   0   4   0     0    0    0   1.558     51  0.00
+   56   56     1  22   0   0   0   0   0   0   0   0   0   0   0   0  43   0  19   3   1  10     0    0    0   1.508     50  0.00
+   57   57     0  98   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.095      3  0.00
+   58   58     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   9  89   1   0     0    0    0   0.387     12  0.00
+   59   59     0   0   0  44   0   0   0   2   0   0   2  19   0   0   0   1   6   0  27   0     0    0    0   1.425     47  0.00
+   60   60     0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   61   61     0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   62   62     1   0   0   0   0   0   0   0  98   0   0   0   0   0   0   0   0   0   1   0     0    0    0   0.106      3  0.00
+   63   63     0   0   0   0   0   0   0   0   1  97   0   0   0   0   2   0   0   0   0   0     0    0    0   0.149      4  0.00
+   64   64    25  57   4   0   1   0   1   0   9   2   0   0   2   0   0   0   0   0   0   0     0    0    0   1.247     41  0.00
+   65   65     0   0   0   0   0   0   0   0   3   0   1  22   0   0   1  73   0   1   0   0     0    0    0   0.779     25  0.00
+   66   66     0   0   0   0   0   0   0   0   5  75  10  10   0   0   0   0   1   0   0   0     0    0    0   0.854     28  0.00
+   67   67     1   0   0   0   0   0   0  15  61   5   6  12   0   0   0   0   1   0   0   0     0    0    0   1.215     40  0.00
+   68   68     0   0   0   0   0   0   0   0   0   0   0   0   0   0   1  99   0   0   0   0     0    0    0   0.070      2  0.00
+   69   69     0   0   0   0   0   0   0   0  24   0  72   4   0   0   0   0   0   0   0   0     0    0    0   0.708     23  0.00
+   70   70     0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+//

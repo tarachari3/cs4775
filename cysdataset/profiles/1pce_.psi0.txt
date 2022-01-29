@@ -1,0 +1,102 @@
+ID Pseudo hssp file.
+SEQ 
+SEQ gi|585657|sp|P37109|ISK4_PIG SERINE PROTEASE INHIBITOR KAZAL-TYP...   116  3e-26
+SEQ gi|515225|pdb|1PCE|    Pec-60 (Peptide With N-Terminal Glutamic ...   104  1e-22
+SEQ gi|7657453|ref|NP_055286.1| gastrointestinal peptide [Homo sapie...    85  2e-16
+SEQ gi|7387987|sp|O35679|ISK4_MOUSE SERINE PROTEASE INHIBITOR KAZAL-...    79  7e-15
+SEQ gi|671745|emb|CAA59046.1| (X84307) hybrid PSTI-pIII [synthetic c...    50  4e-06
+SEQ gi|124853|sp|P11706|IPK1_ANGAN PROBABLE PANCREATIC SECRETORY PRO...    49  7e-06
+SEQ gi|462373|sp|P34953|IAC_MACFA ACROSIN-TRYPSIN INHIBITOR PRECURSO...    48  1e-05
+SEQ gi|6678105|ref|NP_033284.1| serine protease inhibitor, Kazal typ...    47  3e-05
+SEQ gi|6981578|ref|NP_036806.1| serine protease inhibitor, kanzal ty...    47  4e-05
+SEQ gi|124858|sp|P00997|IPK1_SHEEP PANCREATIC SECRETORY TRYPSIN INHI...    46  5e-05
+SEQ gi|124854|sp|P00996|IPK1_BOVIN PANCREATIC SECRETORY TRYPSIN INHI...    46  6e-05
+SEQ gi|223464|prf||0807280A ovomucoid [Gallus gallus]                      46  6e-05
+SEQ gi|13645603|ref|XP_004031.2| serine protease inhibitor, Kazal ty...    46  6e-05
+SEQ gi|225872|prf||1402234A pancreatic secretory trypsin inhibitor [...    46  7e-05
+SEQ gi|226058|prf||1409221A pancreatic secretory trypsin inhibitor [...    46  8e-05
+SEQ gi|4507179|ref|NP_003113.1| serine protease inhibitor, Kazal typ...    46  8e-05
+SEQ gi|10863911|ref|NP_066937.1| serine protease inhibitor, Kazal ty...    46  9e-05
+SEQ gi|124757|sp|P01005|IOVO_CHICK OVOMUCOID PRECURSOR (ALLERGEN GAL...    46  9e-05
+SEQ gi|1708509|sp|P10184|IOV7_CHICK OVOINHIBITOR PRECURSOR >gi|86399...    45  1e-04
+SEQ gi|4966317|gb|AAA88778.2| (U46856) vitellogenin [Anolis pulchellus]    45  1e-04
+SEQ gi|227204|prf||1616228A acrosin trypsin inhibitor HUSI-II [Homo ...    45  1e-04
+SEQ gi|13959399|sp|Q9PSM2|IPK1_STRCA PANCREATIC SECRETORY TRYPSIN IN...    45  1e-04
+SEQ gi|1752805|dbj|BAA14008.1| (D89679) sperm-activating protein [Cl...    45  2e-04
+SEQ gi|1752807|dbj|BAA14009.1| (D89680) sperm-activating protein [Cl...    44  2e-04
+SEQ gi|124855|sp|P04542|IPK1_CANFA PANCREATIC SECRETORY TRYPSIN INHI...    44  2e-04
+SEQ gi|209171|gb|AAA72812.1| (M31103) synthetic isoinhibitor B [synt...    44  3e-04
+SEQ gi|671743|emb|CAA59044.1| (X84307) PSTI [synthetic construct] >g...    44  3e-04
+SEQ gi|2988422|gb|AAC39776.1| (AF016903) agrin precursor [Homo sapiens]    44  3e-04
+SEQ gi|224571|prf||1109188B inhibitor C,trypsin [Homo sapiens]             43  5e-04
+SEQ gi|6016391|sp|P81635|IPK1_MONDO PANCREATIC SECRETORY TRYPSIN INH...    42  7e-04
+SEQ gi|206469|gb|AAA41976.1| (M27883) pancreatic secretory trypsin i...    42  8e-04
+SEQ gi|124846|sp|P09656|IPK2_RAT PANCREATIC SECRETORY TRYPSIN INHIBI...    42  8e-04
+SEQ gi|209169|gb|AAA72684.1| (M21832) synthetic pancreatic secretory...    42  9e-04
+SEQ gi|124787|sp|P01004|IOVO_MELGA OVOMUCOID >gi|68730|pir||TITKM ov...    42  0.001
+SEQ gi|202799|gb|AAA40702.1| (M64780) agrin [Rattus norvegicus]            42  0.001
+SEQ gi|399021|sp|P25304|AGRI_RAT AGRIN PRECURSOR >gi|279665|pir||AGR...    42  0.001
+SEQ 
+## SEQUENCE PROFILE AND ENTROPY
+ SeqNo PDBNo   V   L   I   M   F   W   Y   G   A   P   S   T   C   H   R   K   Q   E   N   D  NOCC NDEL NINS ENTROPY RELENT WEIGHT
+    1    1     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100   0   0     0    0    0   0.000      0  0.00
+    2    2     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0     0    0    0   0.000      0  0.00
+    3    3     0  20   0   0   0   0   0   0   0   0  20   0   0   0   0   0  60   0   0   0     0    0    0   0.950     31  0.00
+    4    4    67   0   0   0   0   0   0  17   0  17   0   0   0   0   0   0   0   0   0   0     0    0    0   0.868     28  0.00
+    5    5     0  17   0   0  83   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.451     15  0.00
+    6    6     0   0   0   0   0   0  17   0   0  17  67   0   0   0   0   0   0   0   0   0     0    0    0   0.868     28  0.00
+    7    7     0   0   0   0   0   0   0   0   0   0   0   0   0   0  89  11   0   0   0   0     0    0    0   0.349     11  0.00
+    8    8     0   0   0  56   0   0   0   0   0   0   0  33   0   0   0  11   0   0   0   0     0    0    0   0.937     31  0.00
+    9    9     0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   10   10     0   0  44   0  22   0   0   0   0   0  11   0   0   0   0   0   0   0  22   0     0    0    0   1.273     42  0.00
+   11   11     0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   12   12     0   0   0   0   0   0   0  10  10   0  30   0   0   0   0   0   0  50   0   0     0    0    0   1.168     38  0.00
+   13   13     0   0   0   0   0   0   0   0   0   0   0   0   0  50  10   0  20  10  10   0     0    0    0   1.359     45  0.00
+   14   14     0   0   0  60   0   0  40   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.673     22  0.00
+   15   15    14   0   0   0   0   0   0   0  14   0  14  43   0   0   0   0   0   0   0  14     0    0    0   1.475     49  0.00
+   16   16     0   8   0   0   0   0   0   0   8   0   0   0   0   0  17   0   8  58   0   0     0    0    0   1.234     41  0.00
+   17   17     0  33   0   8   8   0   0   0   0   0  33   0   0   0   0  17   0   0   0   0     0    0    0   1.445     48  0.00
+   18   18     0   0   0   0   0   0   0   0   8  75   0   0   0   8   0   8   0   0   0   0     0    0    0   0.837     27  0.00
+   19   19     0   0   0   0   0   0   0  42  17   0   0   8   0   0   0   0   0   0   8  25     0    0    0   1.424     47  0.00
+   20   20     0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   21   21     0   0   0   0   0   0   0   0   3  35  19  32   0   0   0   0   0   0  11   0     0    0    0   1.386     46  0.00
+   22   22     0   3   0   5   0   0   0   5   0   0   3   0   0   0  43  35   5   0   0   0     0    0    0   1.398     46  0.00
+   23   23     0   3  57   3   0   0   0   0   8   0   0   3   0   5   0   0   0   8   5   8     0    0    0   1.541     51  0.00
+   24   24     0   5   0   0  19   0  70   0   0   3   3   0   0   0   0   0   0   0   0   0     0    0    0   0.916     30  0.00
+   25   25     0   0   0   0   0   0   0   0   5   0   0   0   0   0   5   0   0   3  32  54     0    0    0   1.111     37  0.00
+   26   26     0   5   0   0   0   0   0   0   0  95   0   0   0   0   0   0   0   0   0   0     0    0    0   0.210      7  0.00
+   27   27    89   0  11   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.343     11  0.00
+   28   28     0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   29   29     0   0   0   0   0   0   0  97   3   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.124      4  0.00
+   30   30     0   0   0   0   0   0   0   0   0   0  24  76   0   0   0   0   0   0   0   0     0    0    0   0.555     18  0.00
+   31   31     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   8  92     0    0    0   0.281      9  0.00
+   32   32     0   0   0   8   0   0   0  84   0   0   0   0   0   0   0   0   0   0   3   5     0    0    0   0.607     20  0.00
+   33   33    38   5  19   0   0   0   0   0   0   0   5   0   0   0   0   5   0   0  24   3     0    0    0   1.597     53  0.00
+   34   34     0   3   0   0   0   0   0   0   0   0   0  97   0   0   0   0   0   0   0   0     0    0    0   0.124      4  0.00
+   35   35     0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   36   36     0   0   0   0   0   0   0   8  22  32   5   3   0   0   0   0   0  16   3  11     0    0    0   1.788     59  0.00
+   37   37     0   0   0   0   0   0   0   0   0   0  24   0   0   0   0   0   0   0  76   0     0    0    0   0.555     18  0.00
+   38   38     5   0   0   0   0   0   0   0   3   0   0   0   0   0   0   3   0  89   0   0     0    0    0   0.455     15  0.00
+   39   39     0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   40   40    27  27   5   0   0   0   0   0   0   0   8  11   0   3   0   8   3   8   0   0     0    0    0   1.912     63  0.00
+   41   41     0  92   0   0   8   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.281      9  0.00
+   42   42     0   0   0   0   0   0   0   0   0   0   0   0  92   0   0   0   0   8   0   0     0    0    0   0.281      9  0.00
+   43   43     3  16   0  16  41   0   0   0  19   0   5   0   0   0   0   0   0   0   0   0     0    0    0   1.526     50  0.00
+   44   44     0   0   0   5   0   0   0   0  19   0   0   5   0  11   0   8   5  46   0   0     0    0    0   1.590     53  0.00
+   45   45     0   0   8   0   0   0   0   3   8   0   0   0   0   0  16  14   0   0  51   0     0    0    0   1.413     47  0.00
+   46   46     5   8  11   3   0   0   0   0   0   0   0   0   8   0  51  11   3   0   0   0     0    0    0   1.584     52  0.00
+   47   47     0   0   0   0   0   0   0   0   0   0   0   8   0   0   0  46   3  38   3   3     0    0    0   1.222     40  0.00
+   48   48     0   8   0   0  11   0   0   5   0   0   5   8   0   0  38   0  11   0  14   0     0    0    0   1.842     61  0.00
+   49   49     0   0   3   3   0   0   0  38   0   0   0   0   0   0   8  16  30   0   0   3     0    0    0   1.520     50  0.00
+   50   50     3   0   0   0   0   5   0   0   5   0   0  51   0   5   8   3  14   3   3   0     0    0    0   1.680     56  0.00
+   51   51     0   0   0   0   0   0   0   5   0  11  43   3   0   0   0   0   0   8  14  16     0    0    0   1.627     54  0.00
+   52   52    19   3  78   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.604     20  0.00
+   53   53     0  41   0   0   0   0   0   5   0   0   0   3   0   5  11   8  22   0   0   5     0    0    0   1.712     57  0.00
+   54   54    16   0  73   0   0   0   0   0   0   0   0   0   0   0   0  11   0   0   0   0     0    0    0   0.765     25  0.00
+   55   55     8   3   5   5   0   0   0   5   8   0   0   3   0   0  11   5  41   5   0   0     0    0    0   1.998     66  0.00
+   56   56     0   0   0   0   0   0   0   0   0   0   0   0   0  14  32  54   0   0   0   0     0    0    0   0.968     32  0.00
+   57   57     0   0   0   0   0   0   0   3   0   0  30   0   0   0  27   3   0   3   8  27     0    0    0   1.564     52  0.00
+   58   58     0   0   0   0   0   0   0  97   0   0   0   0   0   0   0   0   0   0   0   3     0    0    0   0.124      4  0.00
+   59   59     0   5   0   0   0   0   0   3   5  54   0   8   0   0   5   3   3  14   0   0     0    0    0   1.573     52  0.00
+   60   60     0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+//

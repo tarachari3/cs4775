@@ -1,0 +1,716 @@
+ID Pseudo hssp file.
+SEQ 
+SEQ gi|113422|sp|P10807|ADH_DROLE ALCOHOL DEHYDROGENASE >gi|65907|pi...   490  e-137
+SEQ gi|7477|emb|CAA37520.1| (X53429) alcohol dehydrogenase [Scaptodr...   445  e-124
+SEQ gi|113426|sp|P22246|ADH1_DROMT ALCOHOL DEHYDROGENASE 1 >gi|10346...   423  e-117
+SEQ gi|113356|sp|P12854|ADH1_DRONA ALCOHOL DEHYDROGENASE 1 >gi|85208...   423  e-117
+SEQ gi|1351876|sp|P48587|ADH2_DROMN ALCOHOL DEHYDROGENASE 2 >gi|8628...   423  e-117
+SEQ gi|1351886|sp|P48585|ADH_DROFL ALCOHOL DEHYDROGENASE >gi|862883|...   423  e-117
+SEQ gi|113354|sp|P09370|ADH1_DROMO ALCOHOL DEHYDROGENASE 1 >gi|85202...   422  e-117
+SEQ gi|3912985|sp|Q27404|ADH_DROLA ALCOHOL DEHYDROGENASE >gi|862887|...   422  e-117
+SEQ gi|113375|sp|P24267|ADH2_DROWH ALCOHOL DEHYDROGENASE 2 >gi|15679...   422  e-117
+SEQ gi|1351872|sp|P48586|ADH1_DROMN ALCOHOL DEHYDROGENASE 1 >gi|8628...   421  e-117
+SEQ gi|584737|sp|P37473|ADH_DROPE ALCOHOL DEHYDROGENASE >gi|283706|p...   421  e-117
+SEQ gi|1351885|sp|P48584|ADH_DROBO ALCOHOL DEHYDROGENASE >gi|862885|...   421  e-117
+SEQ gi|113373|sp|P07160|ADH2_DROMU ALCOHOL DEHYDROGENASE 2 >gi|85206...   420  e-117
+SEQ gi|584736|sp|Q09010|ADH_DROMD ALCOHOL DEHYDROGENASE >gi|628049|p...   420  e-116
+SEQ gi|113431|sp|P07158|ADH_DROPS ALCOHOL DEHYDROGENASE >gi|103468|p...   420  e-116
+SEQ gi|283707|pir||S25918 alcohol dehydrogenase (EC 1.1.1.1) - fruit...   419  e-116
+SEQ gi|113369|sp|P27581|ADH2_DROAR ALCOHOL DEHYDROGENASE 2 >gi|15679...   419  e-116
+SEQ gi|862881|gb|AAB02623.1| (U26837) alcohol dehydrogenase [Drosoph...   419  e-116
+SEQ gi|584734|sp|Q09009|ADH_DROGU ALCOHOL DEHYDROGENASE >gi|543489|p...   418  e-116
+SEQ gi|113374|sp|P25721|ADH2_DROMY ALCOHOL DEHYDROGENASE 2 >gi|15679...   418  e-116
+SEQ gi|1490802|gb|AAB06142.1| (U64527) alcohol dehydrogenase [Drosop...   418  e-116
+SEQ gi|2352544|gb|AAB80706.1| (AF006566) alcohol dehydrogenase [Dros...   418  e-116
+SEQ gi|283705|pir||S26785 alcohol dehydrogenase (EC 1.1.1.1) - fruit...   417  e-116
+SEQ gi|862899|gb|AAB02632.1| (U26846) alcohol dehydrogenase [Drosoph...   417  e-116
+SEQ gi|113370|sp|P25720|ADH2_DROBU ALCOHOL DEHYDROGENASE 2 >gi|15679...   417  e-116
+SEQ gi|1621330|gb|AAB17137.1| (U65746) alcohol dehydrogenase 2 [Dros...   416  e-115
+SEQ gi|5915679|sp|Q03384|ADH_DROSU ALCOHOL DEHYDROGENASE >gi|627170|...   415  e-115
+SEQ gi|84883|pir||A37092 alcohol dehydrogenase (EC 1.1.1.1) allozyme...   415  e-115
+SEQ gi|4959805|gb|AAD34475.1|AF136650_1 (AF136650) alcohol dehydroge...   414  e-115
+SEQ gi|6624890|emb|CAA73700.1| (Y13252) alcohol dehydrogenase [Droso...   414  e-115
+SEQ gi|113353|sp|P23236|ADH1_DROHY ALCOHOL DEHYDROGENASE 1 >gi|10304...   414  e-115
+SEQ gi|103065|pir||S17083 alcohol dehydrogenase (EC 1.1.1.1) - fruit...   414  e-115
+SEQ gi|113371|sp|P23237|ADH2_DROHY ALCOHOL DEHYDROGENASE 2 >gi|10304...   414  e-115
+SEQ gi|113372|sp|P09369|ADH2_DROMO ALCOHOL DEHYDROGENASE 2 >gi|85203...   413  e-114
+SEQ gi|4959847|gb|AAD34517.1|AF136692_1 (AF136692) alcohol dehydroge...   413  e-114
+SEQ gi|113435|sp|P26719|ADH_DROYA ALCOHOL DEHYDROGENASE >gi|103525|p...   412  e-114
+SEQ gi|4959863|gb|AAD34533.1|AF136708_1 (AF136708) alcohol dehydroge...   412  e-114
+SEQ gi|113417|sp|P25139|ADH_DROAM ALCOHOL DEHYDROGENASE >gi|103024|p...   412  e-114
+SEQ gi|113424|sp|P00334|ADH_DROME ALCOHOL DEHYDROGENASE >gi|65906|pi...   412  e-114
+SEQ gi|113355|sp|P07161|ADH1_DROMU ALCOHOL DEHYDROGENASE 1 >gi|85207...   411  e-114
+SEQ gi|113434|sp|P28484|ADH_DROTE ALCOHOL DEHYDROGENASE >gi|9152|emb...   411  e-114
+SEQ gi|113432|sp|P07163|ADH_DROSI ALCOHOL DEHYDROGENASE >gi|85213|pi...   410  e-114
+SEQ gi|113427|sp|Q00672|ADH_DRONI ALCOHOL DEHYDROGENASE >gi|156916|g...   410  e-114
+SEQ gi|58248|emb|CAA48012.1| (X67811) alcohol dehydrogenase [synthet...   410  e-113
+SEQ gi|103532|pir||S18287 alcohol dehydrogenase (EC 1.1.1.1) - fruit...   409  e-113
+SEQ gi|103526|pir||S18278 alcohol dehydrogenase (EC 1.1.1.1) - fruit...   409  e-113
+SEQ gi|103064|pir||S17084 alcohol dehydrogenase (EC 1.1.1.1) - fruit...   409  e-113
+SEQ gi|85214|pir||S07333 alcohol dehydrogenase (EC 1.1.1.1) - fruit ...   409  e-113
+SEQ gi|113420|sp|P28483|ADH_DROER ALCOHOL DEHYDROGENASE >gi|7399|emb...   408  e-113
+SEQ gi|4100215|gb|AAD00778.1| (U95252) alcohol dehydrogenase [Drosop...   408  e-113
+SEQ gi|113419|sp|P22245|ADH_DRODI ALCOHOL DEHYDROGENASE >gi|1071801|...   408  e-113
+SEQ gi|113423|sp|P07162|ADH_DROMA ALCOHOL DEHYDROGENASE >gi|84870|pi...   408  e-113
+SEQ gi|103531|pir||S18284 alcohol dehydrogenase (EC 1.1.1.1) - fruit...   408  e-113
+SEQ gi|113430|sp|P23277|ADH_DROPL ALCOHOL DEHYDROGENASE >gi|156886|g...   408  e-113
+SEQ gi|1703181|sp|Q05114|ADH_DROWI ALCOHOL DEHYDROGENASE >gi|1209476...   408  e-113
+SEQ gi|4100213|gb|AAD00777.1| (U95251) alcohol dehydrogenase [Drosop...   408  e-113
+SEQ gi|4100259|gb|AAD00800.1| (U95274) alcohol dehydrogenase [Drosop...   408  e-113
+SEQ gi|156807|gb|AAA28332.1| (M19264) alcohol dehydrogenase [Drosoph...   408  e-113
+SEQ gi|7287844|gb|AAF44882.1|AE003406_87 (AE003416) symbol=Adh; syno...   407  e-113
+SEQ gi|103528|pir||S18280 alcohol dehydrogenase (EC 1.1.1.1) - fruit...   407  e-113
+SEQ gi|4100261|gb|AAD00801.1| (U95275) alcohol dehydrogenase [Drosop...   407  e-112
+SEQ gi|1703182|sp|P51552|ADH_ZAPTU ALCOHOL DEHYDROGENASE >gi|773271|...   406  e-112
+SEQ gi|1703178|sp|P51551|ADH_DROGR ALCOHOL DEHYDROGENASE >gi|1256248...   406  e-112
+SEQ gi|4100221|gb|AAD00781.1| (U95255) alcohol dehydrogenase [Drosop...   406  e-112
+SEQ gi|4100233|gb|AAD00787.1| (U95261) alcohol dehydrogenase [Drosop...   406  e-112
+SEQ gi|4100237|gb|AAD00789.1| (U95263) alcohol dehydrogenase [Drosop...   406  e-112
+SEQ gi|4100219|gb|AAD00780.1| (U95254) alcohol dehydrogenase [Drosop...   406  e-112
+SEQ gi|283721|pir||S26779 alcohol dehydrogenase (EC 1.1.1.1) - fruit...   406  e-112
+SEQ gi|113416|sp|P21518|ADH_DROAF ALCOHOL DEHYDROGENASE >gi|7142|emb...   406  e-112
+SEQ gi|1621331|gb|AAB17138.1| (U65746) alcohol dehydrogenase 1 [Dros...   406  e-112
+SEQ gi|283710|pir||S26768 alcohol dehydrogenase (EC 1.1.1.1) - fruit...   405  e-112
+SEQ gi|283712|pir||S26770 alcohol dehydrogenase (EC 1.1.1.1) - fruit...   405  e-112
+SEQ gi|113429|sp|P23361|ADH_DROPI ALCOHOL DEHYDROGENASE >gi|156888|g...   405  e-112
+SEQ gi|113425|sp|Q00671|ADH_DROMM ALCOHOL DEHYDROGENASE >gi|156914|g...   405  e-112
+SEQ gi|584735|sp|Q07588|ADH_DROIM ALCOHOL DEHYDROGENASE >gi|625363|p...   405  e-112
+SEQ gi|1703180|sp|P51550|ADH_DROTS ALCOHOL DEHYDROGENASE >gi|769788|...   404  e-112
+SEQ gi|103524|pir||S20718 alcohol dehydrogenase (EC 1.1.1.1) - fruit...   404  e-112
+SEQ gi|113428|sp|P07159|ADH_DROOR ALCOHOL DEHYDROGENASE >gi|85209|pi...   404  e-112
+SEQ gi|113421|sp|P21898|ADH_DROHE ALCOHOL DEHYDROGENASE >gi|103037|p...   404  e-112
+SEQ gi|113433|sp|P23278|ADH_DROSL ALCOHOL DEHYDROGENASE >gi|156890|g...   403  e-111
+SEQ gi|103530|pir||S18282 alcohol dehydrogenase (EC 1.1.1.1) - fruit...   403  e-111
+SEQ gi|223983|prf||1006267C dehydrogenase,alcohol [Drosophila orena]      402  e-111
+SEQ gi|422511|pir||S30595 alcohol dehydrogenase (EC 1.1.1.1) - fruit...   401  e-111
+SEQ gi|1703179|sp|P51549|ADH_DROHA ALCOHOL DEHYDROGENASE >gi|1256246...   399  e-110
+SEQ gi|113415|sp|Q00669|ADH_DROAD ALCOHOL DEHYDROGENASE >gi|156912|g...   399  e-110
+SEQ gi|6172240|dbj|BAA85904.1| (AB033638) alcohol dehydrogenase [Leu...   398  e-110
+SEQ gi|103529|pir||S18281 alcohol dehydrogenase (EC 1.1.1.1) - fruit...   398  e-110
+SEQ gi|103527|pir||S18279 alcohol dehydrogenase (EC 1.1.1.1) - fruit...   396  e-109
+SEQ gi|6136869|dbj|BAA85841.1| (AB026539) alcohol dehydrogenase [Myc...   392  e-108
+SEQ gi|6172244|dbj|BAA85906.1| (AB033640) alcohol dehydrogenase [Dro...   391  e-108
+SEQ gi|6172250|dbj|BAA85909.1| (AB033643) alcohol dehydrogenase [Dro...   389  e-107
+SEQ gi|6172252|dbj|BAA85910.1| (AB033644) alcohol dehydrogenase [Dro...   389  e-107
+SEQ gi|6136851|dbj|BAA85832.1| (AB026530) alcohol dehydrogenase [Hir...   388  e-107
+SEQ gi|6172246|dbj|BAA85907.1| (AB033641) alcohol dehydrogenase [Dro...   388  e-107
+SEQ gi|6136871|dbj|BAA85842.1| (AB026540) alcohol dehydrogenase [Myc...   387  e-106
+SEQ gi|113441|sp|P25988|ADH_SCAAL ALCOHOL DEHYDROGENASE >gi|423765|p...   386  e-106
+SEQ gi|6136822|dbj|BAA85824.1| (AB026522) alcohol dehydrogenase [Lor...   386  e-106
+SEQ gi|6172248|dbj|BAA85908.1| (AB033642) alcohol dehydrogenase [Dro...   385  e-106
+SEQ gi|6136855|dbj|BAA85834.1| (AB026532) alcohol dehydrogenase [Hir...   384  e-106
+SEQ gi|6136865|dbj|BAA85839.1| (AB026537) alcohol dehydrogenase [Hir...   383  e-105
+SEQ gi|6136845|dbj|BAA85829.1| (AB026527) alcohol dehydrogenase [Dro...   383  e-105
+SEQ gi|6136820|dbj|BAA85823.1| (AB026521) alcohol dehydrogenase [Chy...   383  e-105
+SEQ gi|6136843|dbj|BAA85828.1| (AB026526) alcohol dehydrogenase [Dro...   382  e-105
+SEQ gi|6172238|dbj|BAA85903.1| (AB033637) alcohol dehydrpgenase [Ami...   381  e-105
+SEQ gi|6136857|dbj|BAA85835.1| (AB026533) alcohol dehydrogenase [Dro...   381  e-105
+SEQ gi|113418|sp|Q00670|ADH_DROCR ALCOHOL DEHYDROGENASE >gi|156910|g...   381  e-105
+SEQ gi|6136861|dbj|BAA85837.1| (AB026535) alcohol dehydrogenase [Dro...   381  e-105
+SEQ gi|1667521|gb|AAB18798.1| (U76469) alcohol dehydrogenase [Drosop...   380  e-104
+SEQ gi|6136825|dbj|BAA85825.1| (AB026523) alcohol dehydrogenase [Hir...   380  e-104
+SEQ gi|1857288|gb|AAB48416.1| (U76482) alcohol dehydrogenase [Drosop...   379  e-104
+SEQ gi|6136859|dbj|BAA85836.1| (AB026534) alcohol dehydrogenase [Lor...   379  e-104
+SEQ gi|6136867|dbj|BAA85840.1| (AB026538) alcohol dehydrogenase [Myc...   379  e-104
+SEQ gi|1857284|gb|AAB48414.1| (U76480) alcohol dehydrogenase [Drosop...   379  e-104
+SEQ gi|1857280|gb|AAB48412.1| (U76478) alcohol dehydrogenase [Drosop...   378  e-104
+SEQ gi|6136873|dbj|BAA85843.1| (AB026541) alcohol dehydrogenase [Lor...   378  e-104
+SEQ gi|6136841|dbj|BAA85827.1| (AB026525) alcohol dehydrogenase [Lor...   377  e-104
+SEQ gi|1857282|gb|AAB48413.1| (U76479) alcohol dehydrogenase [Drosop...   377  e-104
+SEQ gi|6136849|dbj|BAA85831.1| (AB026529) alcohol dehydrogenase [Dro...   376  e-103
+SEQ gi|1684878|gb|AAB36552.1| (U77608) Adh-Finnegan [Drosophila buzz...   375  e-103
+SEQ gi|6172242|dbj|BAA85905.1| (AB033639) alcohol dehydrogenase [Dro...   375  e-103
+SEQ gi|1684876|gb|AAB36551.1| (U77607) Adh-Finnegan [Drosophila buzz...   375  e-103
+SEQ gi|1684882|gb|AAB36554.1| (U77610) Adh-Finnegan [Drosophila buzz...   375  e-103
+SEQ gi|3283383|gb|AAC25176.1| (AF067284) alcohol dehydrogenase [Dros...   374  e-103
+SEQ gi|1389528|gb|AAB02834.1| (L78920) alcohol dehydrogenase [Drosop...   372  e-102
+SEQ gi|6172254|dbj|BAA85911.1| (AB033645) alcohol dehydrogenase [Sca...   372  e-102
+SEQ gi|1389536|gb|AAB02838.1| (L78924) alcohol dehydrogenase [Drosop...   372  e-102
+SEQ gi|6136828|dbj|BAA85826.1| (AB026524) alcohol dehydrogenase [Lor...   371  e-102
+SEQ gi|1667519|gb|AAB18797.1| (U76468) alcohol dehydrogenase [Drosop...   370  e-102
+SEQ gi|103466|pir||C23724 alcohol dehydrogenase (EC 1.1.1.1) - fruit...   367  e-101
+SEQ gi|6136847|dbj|BAA85830.1| (AB026528) alcohol dehydrogenase [Hir...   367  e-100
+SEQ gi|103465|pir||B23724 alcohol dehydrogenase (EC 1.1.1.1) - fruit...   365  e-100
+SEQ gi|103477|pir||D23724 alcohol dehydrogenase (EC 1.1.1.1) - fruit...   363  2e-99
+SEQ gi|4103259|gb|AAD01732.1| (AF021832) alcohol dehydrogenase [Hirt...   349  2e-95
+SEQ gi|6136853|dbj|BAA85833.1| (AB026531) alcohol dehydrogenase [Lor...   347  6e-95
+SEQ gi|6136863|dbj|BAA85838.1| (AB026536) alcohol dehydrogenase [Lor...   342  3e-93
+SEQ gi|4103257|gb|AAD01731.1| (AF021831) alcohol dehydrogenase [Chym...   318  5e-86
+SEQ gi|2352550|gb|AAB80710.1| (AF006568) alcohol dehydrogenase [Dros...   305  5e-82
+SEQ gi|11066818|gb|AAG28713.1|AF284480_1 (AF284480) alcohol dehydrog...   304  1e-81
+SEQ gi|2352538|gb|AAB80702.1| (AF006564) alcohol dehydrogenase [Dros...   304  1e-81
+SEQ gi|2352547|gb|AAB80708.1| (AF006567) alcohol dehydrogenase [Dros...   304  1e-81
+SEQ gi|11066806|gb|AAG28707.1|AF284474_1 (AF284474) alcohol dehydrog...   302  3e-81
+SEQ gi|11066812|gb|AAG28710.1|AF284477_1 (AF284477) alcohol dehydrog...   300  1e-80
+SEQ gi|156898|gb|AAA28360.1| (M19276) alcohol dehydrogenase [Drosoph...   296  2e-79
+SEQ gi|13625422|gb|AAK35063.1|AF348885_1 (AF348885) alcohol dehydrog...   282  3e-75
+SEQ gi|13625408|gb|AAK35056.1|AF348878_1 (AF348878) alcohol dehydrog...   281  5e-75
+SEQ gi|13625416|gb|AAK35060.1|AF348882_1 (AF348882) alcohol dehydrog...   280  1e-74
+SEQ gi|13625412|gb|AAK35058.1|AF348880_1 (AF348880) alcohol dehydrog...   280  1e-74
+SEQ gi|13625420|gb|AAK35062.1|AF348884_1 (AF348884) alcohol dehydrog...   280  1e-74
+SEQ gi|13625410|gb|AAK35057.1|AF348879_1 (AF348879) alcohol dehydrog...   279  3e-74
+SEQ gi|6172280|dbj|BAA85924.1| (AB033658) alcohol dehydrogenase [Hir...   246  3e-64
+SEQ gi|156906|gb|AAA28363.1| (M17845) alcohol dehydrogenase [Drosoph...   235  5e-61
+SEQ gi|4154269|gb|AAD04867.1| (AF081357) alcohol dehydrogenase [Dros...   224  1e-57
+SEQ gi|3170353|gb|AAC28612.1| (AF045126) alcohol dehydrogenase [Dros...   219  3e-56
+SEQ gi|3387854|gb|AAC28600.1| (AF045114) alcohol dehydrogenase [Dros...   219  3e-56
+SEQ gi|6172270|dbj|BAA85919.1| (AB033653) alcohol dehydrogenase [Sca...   219  4e-56
+SEQ gi|6172258|dbj|BAA85913.1| (AB033647) alcohol dehydrogenase [Sca...   218  4e-56
+SEQ gi|6172276|dbj|BAA85922.1| (AB033656) alcohol dehydrogenase [Lio...   218  4e-56
+SEQ gi|8101073|gb|AAF72536.1|AF264071_1 (AF264071) alcohol dehydroge...   218  7e-56
+SEQ gi|3170349|gb|AAC28610.1| (AF045124) alcohol dehydrogenase [Dros...   218  8e-56
+SEQ gi|6172264|dbj|BAA85916.1| (AB033650) alcohol dehydrogenase [Sca...   217  1e-55
+SEQ gi|3170337|gb|AAC28604.1| (AF045118) alcohol dehydrogenase [Dros...   217  2e-55
+SEQ gi|8102042|gb|AAF72716.1|AF264074_1 (AF264074) alcohol dehydroge...   216  2e-55
+SEQ gi|8102040|gb|AAF72715.1|AF264073_1 (AF264073) alcohol dehydroge...   216  2e-55
+SEQ gi|3170351|gb|AAC28611.1| (AF045125) alcohol dehydrogenase [Dros...   216  2e-55
+SEQ gi|3170331|gb|AAC28601.1| (AF045115) alcohol dehydrogenase [Dros...   216  3e-55
+SEQ gi|103029|pir||S20713 alcohol dehydrogenase related protein (EC ...   215  5e-55
+SEQ gi|3170339|gb|AAC28605.1| (AF045119) alcohol dehydrogenase [Dros...   215  5e-55
+SEQ gi|3170327|gb|AAC28599.1| (AF045113) alcohol dehydrogenase [Dros...   215  5e-55
+SEQ gi|8102052|gb|AAF72721.1|AF264079_1 (AF264079) alcohol dehydroge...   215  6e-55
+SEQ gi|8102058|gb|AAF72724.1|AF264082_1 (AF264082) alcohol dehydroge...   215  6e-55
+SEQ gi|8102044|gb|AAF72717.1|AF264075_1 (AF264075) alcohol dehydroge...   214  9e-55
+SEQ gi|3170347|gb|AAC28609.1| (AF045123) alcohol dehydrogenase [Dros...   214  1e-54
+SEQ gi|3170341|gb|AAC28606.1| (AF045120) alcohol dehydrogenase [Dros...   214  1e-54
+SEQ gi|8102050|gb|AAF72720.1|AF264078_1 (AF264078) alcohol dehydroge...   213  3e-54
+SEQ gi|8102046|gb|AAF72718.1|AF264076_1 (AF264076) alcohol dehydroge...   212  3e-54
+SEQ gi|8102048|gb|AAF72719.1|AF264077_1 (AF264077) alcohol dehydroge...   211  9e-54
+SEQ gi|3170345|gb|AAC28608.1| (AF045122) alcohol dehydrogenase [Dros...   211  1e-53
+SEQ gi|8102056|gb|AAF72723.1|AF264081_1 (AF264081) alcohol dehydroge...   211  1e-53
+SEQ gi|3170343|gb|AAC28607.1| (AF045121) alcohol dehydrogenase [Dros...   210  2e-53
+SEQ gi|3170333|gb|AAC28602.1| (AF045116) alcohol dehydrogenase [Dros...   208  7e-53
+SEQ gi|3283381|gb|AAC25175.1| (AF067283) alcohol dehydrogenase [Dros...   206  3e-52
+SEQ gi|3283375|gb|AAC25172.1| (AF067280) alcohol dehydrogenase [Dros...   205  4e-52
+SEQ gi|2599302|gb|AAB84081.1| (U90955) alcohol dehydrogenase [Drosop...   204  1e-51
+SEQ gi|3283379|gb|AAC25174.1| (AF067282) alcohol dehydrogenase [Dros...   203  3e-51
+SEQ gi|1561704|gb|AAB08864.1| (U40986) alcohol dehydrogenase [Drosop...   202  3e-51
+SEQ gi|3283377|gb|AAC25173.1| (AF067281) alcohol dehydrogenase [Dros...   201  6e-51
+SEQ gi|2599300|gb|AAB84080.1| (U90953) alcohol dehydrogenase [Drosop...   201  7e-51
+SEQ gi|2599304|gb|AAB84082.1| (U90954) alcohol dehydrogenase [Drosop...   201  8e-51
+SEQ gi|2599306|gb|AAB84083.1| (U90956) alcohol dehydrogenase [Drosop...   201  9e-51
+SEQ gi|2264336|gb|AAB63388.1| (U40988) alcohol dehydrogenase [Scapto...   200  2e-50
+SEQ gi|8102054|gb|AAF72722.1|AF264080_1 (AF264080) alcohol dehydroge...   197  1e-49
+SEQ gi|3170335|gb|AAC28603.1| (AF045117) alcohol dehydrogenase [Dros...   191  6e-48
+SEQ gi|7431030|pir||S71335 alcohol dehydrogenase (EC 1.1.1.1) - fles...   174  1e-42
+SEQ gi|113402|sp|P26620|ADHR_DROMA ALCOHOL DEHYDROGENASE RELATED 31 ...   174  1e-42
+SEQ gi|113404|sp|P28486|ADHR_DROTE ALCOHOL DEHYDROGENASE RELATED 31 ...   173  2e-42
+SEQ gi|3023270|sp|P91615|ADHR_DROME ALCOHOL DEHYDROGENASE RELATED 31...   172  4e-42
+SEQ gi|483719|emb|CAA55152.1| (X78384) for sequence comparison with ...   172  5e-42
+SEQ gi|6707664|sp|O16091|ADHR_DROPE ALCOHOL DEHYDROGENASE-RELATED 31...   169  3e-41
+SEQ gi|7287845|gb|AAF44883.1|AE003406_88 (AE003416) symbol=Adhr; syn...   169  3e-41
+SEQ gi|584730|sp|Q09007|ADHR_DROGU ALCOHOL DEHYDROGENASE RELATED 31 ...   169  4e-41
+SEQ gi|2352545|gb|AAB80707.1| (AF006566) alcohol dehydrogenase [Dros...   168  5e-41
+SEQ gi|2352542|gb|AAB80705.1| (AF006565) alcohol dehydrogenase [Dros...   168  6e-41
+SEQ gi|297083|emb|CAA45249.1| (X63716) Adh dup [Scaptodrosophila leb...   168  7e-41
+SEQ gi|584732|sp|Q07587|ADHR_DROLE ALCOHOL DEHYDROGENASE RELATED 31 ...   168  7e-41
+SEQ gi|2352548|gb|AAB80709.1| (AF006567) alcohol dehydrogenase [Dros...   168  8e-41
+SEQ gi|542604|pir||B42180 alcohol dehydrogenase related protein (EC ...   168  8e-41
+SEQ gi|3023273|sp|Q24640|ADHR_DROSU ALCOHOL DEHYDROGENASE RELATED 31...   168  1e-40
+SEQ gi|2352539|gb|AAB80703.1| (AF006564) alcohol dehydrogenase [Dros...   167  2e-40
+SEQ gi|113400|sp|P25143|ADHR_DROAM ALCOHOL DEHYDROGENASE RELATED 31 ...   166  3e-40
+SEQ gi|3089588|gb|AAC39008.1| (AF059888) alcohol dehydrogenase [Dros...   164  8e-40
+SEQ gi|584733|sp|Q09008|ADHR_DROMD ALCOHOL DEHYDROGENASE RELATED 31 ...   164  8e-40
+SEQ gi|584731|sp|Q07586|ADHR_DROIM ALCOHOL DEHYDROGENASE RELATED 31 ...   163  2e-39
+SEQ gi|12274857|emb|CAC22299.1| (Y17611) alcohol dehydrogenase-relat...   162  5e-39
+SEQ gi|6624892|emb|CAA73699.1| (Y13252) alcohol dehydrogenase-relate...   161  1e-38
+SEQ gi|1351875|sp|P48815|ADH2_CERCA ALCOHOL DEHYDROGENASE 2 >gi|6308...   157  2e-37
+SEQ gi|10197921|gb|AAG15097.1| (AF260699) alcohol dehydrogenase-rela...   156  2e-37
+SEQ gi|476854|pir||A45962 alcohol dehydrogenase (EC 1.1.1.1) 2 - fru...   156  2e-37
+SEQ gi|1351871|sp|P48814|ADH1_CERCA ALCOHOL DEHYDROGENASE 1 >gi|5161...   151  1e-35
+SEQ gi|3089594|gb|AAC39011.1| (AF059891) alcohol dehydrogenase [Dros...   149  3e-35
+SEQ gi|11121118|emb|CAC14744.1| (AJ277835) alcohol dehydrogenase 1 [...   146  2e-34
+SEQ gi|11121116|emb|CAC14743.1| (AJ277834) alcohol dehydrogenase 2 [...   146  2e-34
+SEQ gi|13959287|sp|Q9NAR7|ADH_BACOL ALCOHOL DEHYDROGENASE >gi|854678...   146  3e-34
+SEQ gi|3089590|gb|AAC39009.1| (AF059889) alcohol dehydrogenase [Dros...   145  5e-34
+SEQ gi|6172278|dbj|BAA85923.1| (AB033657) alcohol dehydrogenase [Lio...   145  7e-34
+SEQ gi|3089586|gb|AAC39007.1| (AF059887) alcohol dehydrogenase [Chym...   142  5e-33
+SEQ gi|10727892|gb|AAF49475.2| (AE003527) CG4842 gene product [Droso...   137  2e-31
+SEQ gi|113401|sp|P28485|ADHR_DROER ALCOHOL DEHYDROGENASE RELATED 31 ...   136  3e-31
+SEQ gi|7431042|pir||T11741 25K protein - flesh fly (Sarcophaga pereg...   135  6e-31
+SEQ gi|6172282|dbj|BAA85925.1| (AB033659) alcohol dehydrogenase [Hir...   135  7e-31
+SEQ gi|112726|sp|P23170|25KD_SARPE DEVELOPMENT-SPECIFIC 25 KDA PROTEIN    133  2e-30
+SEQ gi|6172266|dbj|BAA85917.1| (AB033651) alcohol dehydrogenase [Sca...   133  3e-30
+SEQ gi|6172272|dbj|BAA85920.1| (AB033654) alcohol dehydrogenase [Sca...   133  3e-30
+SEQ gi|6172260|dbj|BAA85914.1| (AB033648) alcohol dehydrogenase [Sca...   133  3e-30
+SEQ gi|7297516|gb|AAF52772.1| (AE003624) Fbp2 gene product [Drosophi...   130  2e-29
+SEQ gi|3098540|gb|AAC15692.1| (AF045792) fat body protein 2 [Drosoph...   130  2e-29
+SEQ gi|1706769|sp|P54398|FBP2_DROME FAT BODY PROTEIN P6 >gi|236167|g...   130  2e-29
+SEQ gi|2897885|gb|AAC03426.1| (U94197) alcohol dehydrogenase [Drosop...   128  9e-29
+SEQ gi|2897883|gb|AAC03425.1| (U94196) alcohol dehydrogenase [Drosop...   124  9e-28
+SEQ gi|2897891|gb|AAC03429.1| (U94199) alcohol dehydrogenase [Drosop...   124  1e-27
+SEQ gi|3098542|gb|AAC15693.1| (AF045793) fat body protein 2 [Drosoph...   123  2e-27
+SEQ gi|3098532|gb|AAC15688.1| (AF045788) fat body protein 2 [Drosoph...   122  3e-27
+SEQ gi|3098530|gb|AAC15687.1| (AF045787) fat body protein 2 [Drosoph...   122  3e-27
+SEQ gi|3098538|gb|AAC15691.1| (AF045791) fat body protein 2 [Drosoph...   122  5e-27
+SEQ gi|3098524|gb|AAC15684.1| (AF045786) fat body protein 2 [Drosoph...   122  6e-27
+SEQ gi|2897889|gb|AAC03428.1| (U94198) alcohol dehydrogenase [Drosop...   120  2e-26
+SEQ gi|2897887|gb|AAC03427.1| (U94208) alcohol dehydrogenase [Drosop...   119  3e-26
+SEQ gi|353677|prf||1105262A protein 25kD [Sarcophaga peregrina]           118  6e-26
+SEQ gi|2897881|gb|AAC03424.1| (U94194) alcohol dehydrogenase [Drosop...   118  9e-26
+SEQ gi|2897893|gb|AAC03430.1| (U94200) alcohol dehydrogenase [Drosop...   116  4e-25
+SEQ gi|2897899|gb|AAC03433.1| (U94207) alcohol dehydrogenase [Drosop...   113  2e-24
+SEQ gi|3851652|gb|AAC72391.1| (AF098864) pigment cell dehydrogenase ...   111  1e-23
+SEQ gi|7294126|gb|AAF49480.1| (AE003527) Pdh gene product [Drosophil...   111  1e-23
+SEQ gi|85282|pir||A24181 probable alcohol dehydrogenase (EC 1.1.1.-)...   110  3e-23
+SEQ gi|2897897|gb|AAC03432.1| (U94206) alcohol dehydrogenase [Drosop...   107  1e-22
+SEQ gi|10727893|gb|AAG22316.1| (AE003527) CG18814 gene product [Dros...   101  1e-20
+SEQ gi|4033853|emb|CAA11017.1| (AJ222837) NAD+-dependent 15-hydoxypr...    79  4e-14
+SEQ gi|11437271|ref|XP_003617.1| hydroxyprostaglandin dehydrogenase ...    77  3e-13
+SEQ gi|8895767|gb|AAF81098.1| (AF229830) prostaglandin dehydrogenase...    77  3e-13
+SEQ gi|6680263|ref|NP_032304.1| hydroxyprostaglandin dehydrogenase 1...    77  3e-13
+SEQ gi|4504479|ref|NP_000851.1| hydroxyprostaglandin dehydrogenase 1...    77  3e-13
+SEQ gi|10197919|gb|AAG15096.1| (AF260698) alcohol dehydrogenase-rela...    76  4e-13
+SEQ gi|10197905|gb|AAG15089.1| (AF260691) alcohol dehydrogenase-rela...    76  4e-13
+SEQ gi|10197917|gb|AAG15095.1| (AF260697) alcohol dehydrogenase-rela...    76  6e-13
+SEQ gi|10197907|gb|AAG15090.1| (AF260692) alcohol dehydrogenase-rela...    76  6e-13
+SEQ gi|1546892|emb|CAA69251.1| (Y07953) 15-hydroxyprostaglandin dehy...    75  1e-12
+SEQ gi|10197909|gb|AAG15091.1| (AF260693) alcohol dehydrogenase-rela...    74  1e-12
+SEQ gi|10197903|gb|AAG15088.1| (AF260690) alcohol dehydrogenase-rela...    74  2e-12
+SEQ gi|10197915|gb|AAG15094.1| (AF260696) alcohol dehydrogenase-rela...    73  3e-12
+SEQ gi|10197911|gb|AAG15092.1| (AF260694) alcohol dehydrogenase-rela...    72  8e-12
+SEQ gi|1164907|emb|CAA57843.1| (X82460) 15-hydroxy prostaglandin deh...    70  2e-11
+SEQ gi|13622804|gb|AAK34493.1| (AE006603) putative beta-ketoacyl-ACP...    67  3e-10
+SEQ gi|10197913|gb|AAG15093.1| (AF260695) alcohol dehydrogenase-rela...    66  4e-10
+SEQ gi|4377446|emb|CAA77331.1| (Z00030) hypothetical protein [Drosop...    66  4e-10
+SEQ gi|3786097|emb|CAA06663.1| (AJ005667) alcohol dehydrogenase [Dro...    65  8e-10
+SEQ gi|13242299|ref|NP_077366.1| NAD-dependent 15-hydroxyprostagland...    63  4e-09
+SEQ gi|7387560|sp|Q9X6U2|BDHA_ALCEU D-BETA-HYDROXYBUTYRATE DEHYDROGE...    63  4e-09
+SEQ gi|4886772|gb|AAD32035.1|AF093787_3 (AF093787) CylG [Streptococc...    63  6e-09
+SEQ gi|113252|sp|P16544|ACT3_STRCO PUTATIVE KETOACYL REDUCTASE >gi|8...    62  1e-08
+SEQ gi|5881925|emb|CAB55718.1| (AL117387) probable oxidoreductase [S...    61  2e-08
+SEQ gi|14521852|ref|NP_127328.1| 3-OXOACYL-[ACYL-CARRIER-PROTEIN] RE...    59  5e-08
+SEQ gi|12723693|gb|AAK04872.1|AE006311_3 (AE006311) 3-oxoacyl-acyl c...    59  7e-08
+SEQ gi|400599|sp|P17611|NODG_AZOBR NODULATION PROTEIN G >gi|1070431|...    58  1e-07
+SEQ gi|9789233|gb|AAF98275.1|AF197933_5 (AF197933) beta-ketoacyl-ACP...    58  1e-07
+SEQ gi|6323882|ref|NP_013953.1| Ymr226cp [Saccharomyces cerevisiae] ...    58  1e-07
+SEQ gi|12724810|gb|AAK05884.1|AE006408_8 (AE006408) 3-oxoacyl-acyl c...    58  1e-07
+SEQ gi|3913643|sp|P73574|FAG1_SYNY3 3-OXOACYL-[ACYL-CARRIER PROTEIN]...    58  2e-07
+SEQ gi|10174123|dbj|BAB05225.1| (AP001512) oxidoreductase [Bacillus ...    57  2e-07
+SEQ gi|11354347|pir||F82128 3-oxoacyl-(acyl-carrier-protein) reducta...    57  3e-07
+SEQ gi|14548046|sp|Q9KQH7|FABG_VIBCH 3-OXOACYL-[ACYL-CARRIER PROTEIN...    57  3e-07
+SEQ gi|1706756|sp|P55336|FABG_VIBHA 3-OXOACYL-[ACYL-CARRIER PROTEIN]...    57  3e-07
+SEQ gi|4160474|gb|AAD05259.1| (AF109909) 3-ketoacyl-CoA reductase Ph...    57  3e-07
+SEQ gi|3913475|sp|Q17703|DHBV_CAEEL PUTATIVE STEROID DEHYDROGENASE C...    57  3e-07
+SEQ gi|14349112|emb|CAC41336.1| (AJ311166) acetoacetyl-CoA reductase...    57  3e-07
+SEQ gi|12723714|gb|AAK04892.1|AE006312_12 (AE006312) oxidoreductase ...    56  4e-07
+SEQ gi|1172473|sp|P45375|PHBB_CHRVI ACETOACETYL-COA REDUCTASE >gi|42...    56  6e-07
+SEQ gi|38683|emb|CAA37101.1| (X52913) nodG protein (AA 1-254) [Azosp...    56  6e-07
+SEQ gi|14280346|gb|AAK57528.1| (AY034378) polyketide ketoreductase P...    56  6e-07
+SEQ gi|3913195|sp|Q48436|BUDC_KLEPN ACETOIN(DIACETYL) REDUCTASE (ACE...    55  9e-07
+SEQ gi|7387557|sp|O86034|BDHA_RHIME D-BETA-HYDROXYBUTYRATE DEHYDROGE...    55  1e-06
+SEQ gi|479699|pir||S35196 hypothetical protein 3 - Saccharopolyspora...    54  2e-06
+SEQ gi|2506149|sp|P37440|UCPA_ECOLI OXIDOREDUCTASE UCPA >gi|7427657|...    54  2e-06
+SEQ gi|12516801|gb|AAG57544.1|AE005472_11 (AE005472) putative oxidor...    54  2e-06
+SEQ gi|11250822|pir||T44361 acetoacetyl-CoA reductase (EC 1.1.1.36) ...    54  2e-06
+SEQ gi|1729758|emb|CAA68181.1| (X99908) belongs to alcohol dehydroge...    54  2e-06
+SEQ gi|13815803|gb|AAK42634.1| (AE006848) 3-oxoacyl-(acyl carrier pr...    54  2e-06
+SEQ gi|5359484|gb|AAD42688.1|AF037323_1 (AF037323) D-beta-hydroxybut...    54  2e-06
+SEQ gi|1076100|pir||D55587 griseusin polyketide ketoreductase (EC 1....    54  2e-06
+SEQ gi|7431073|pir||E70604 hypothetical protein Rv3559c - Mycobacter...    54  2e-06
+SEQ gi|3915689|sp|P51831|FABG_BACSU 3-OXOACYL-[ACYL-CARRIER PROTEIN]...    54  3e-06
+SEQ gi|10190802|emb|CAB65876.1| (AL109630) /match=(desc:''3-OXOACYL-...    53  4e-06
+SEQ gi|7431044|pir||A72395 oxidoreductase, short chain dehydrogenase...    53  4e-06
+SEQ gi|4240408|gb|AAD13539.1| (AF080235) reductase homolog [Streptom...    53  4e-06
+SEQ gi|7387724|sp|O70351|HCD2_RAT 3-HYDROXYACYL-COA DEHYDROGENASE TY...    53  4e-06
+SEQ gi|13994225|ref|NP_113870.1| hydroxyacyl-Coenzyme A dehydrogenas...    53  4e-06
+SEQ gi|14488714|pdb|1E3W|A Chain A, Rat Brain 3-Hydroxyacyl-Coa Dehy...    53  4e-06
+SEQ gi|14488724|pdb|1E6W|A Chain A, Rat Brain 3-Hydroxyacyl-Coa Dehy...    53  4e-06
+SEQ gi|8358156|gb|AAF74785.1|AF270650_1 (AF159243) 3-oxoacyl-(acyl c...    53  5e-06
+SEQ gi|1502421|gb|AAC44307.1| (U59433) 3-ketoacyl-acyl carrier prote...    52  5e-06
+SEQ gi|11360420|pir||F82776 3-oxoacyl-[ACP] reductase XF0671 [import...    52  6e-06
+SEQ gi|7290108|gb|AAF45573.1| (AE003419) EG:BACR7A4.14 gene product ...    52  6e-06
+SEQ gi|12744823|gb|AAK06787.1|AF324838_6 (AF324838) putative ketored...    52  7e-06
+SEQ gi|3907616|gb|AAC78679.1| (AF098800) acetoin reductase [Klebsiel...    52  7e-06
+SEQ gi|1730536|sp|P50204|PHAB_PARDE ACETOACETYL-COA REDUCTASE >gi|67...    52  7e-06
+SEQ gi|3123307|sp|P40397|YHXC_BACSU HYPOTHETICAL OXIDOREDUCTASE IN A...    52  7e-06
+SEQ gi|729331|sp|P41177|DHKR_STRCM MONENSIN POLYKETIDE SYNTHASE PUTA...    52  7e-06
+SEQ gi|7430982|pir||C71711 acetoacetyl-COA reductase (phbB) RP035 - ...    52  8e-06
+SEQ gi|9587285|gb|AAF89246.1|AF284419_2 (AF284419) 3-oxoacyl-(acyl c...    52  8e-06
+SEQ gi|7473257|pir||G75591 oxidoreductase, short-chain dehydrogenase...    52  9e-06
+SEQ gi|11351851|pir||G83378 probable short-chain dehydrogenase PA214...    52  1e-05
+SEQ gi|6919838|sp|Q9X248|FABG_THEMA 3-OXOACYL-[ACYL-CARRIER PROTEIN]...    52  1e-05
+SEQ gi|1731078|sp|P54554|YQJQ_BACSU HYPOTHETICAL OXIDOREDUCTASE IN A...    51  1e-05
+SEQ gi|8453202|gb|AAF75282.1|AF271714_1 (AF271714) beta-hydroxybutyr...    51  1e-05
+SEQ gi|3913463|sp|O17795|DHBX_CAEEL PUTATIVE STEROID DEHYDROGENASE F...    51  1e-05
+SEQ gi|11250508|pir||T51721 sorbitol-6-phosphate 2-dehydrogenase (EC...    51  1e-05
+SEQ gi|12514413|gb|AAG55660.1|AE005304_5 (AE005304) putative fatty a...    51  1e-05
+SEQ gi|13702428|dbj|BAB43569.1| (AP003137) ORFID:SA2266~hypothetical...    51  1e-05
+SEQ gi|130017|sp|P23238|PHBB_ZOORA ACETOACETYL-COA REDUCTASE >gi|950...    51  1e-05
+SEQ gi|12832481|dbj|BAB22126.1| (AK002472) putative [Mus musculus]         51  1e-05
+SEQ gi|1076089|pir||S54815 urdamycin polyketide ketoreductase (EC 1....    51  2e-05
+SEQ gi|7296706|gb|AAF51985.1| (AE003602) CG11005 gene product [Droso...    51  2e-05
+SEQ gi|732372|sp|P39640|YWFD_BACSU HYPOTHETICAL OXIDOREDUCTASE IN PT...    51  2e-05
+SEQ gi|130015|sp|P14697|PHBB_ALCEU ACETOACETYL-COA REDUCTASE >gi|659...    51  2e-05
+SEQ gi|11250818|pir||T44991 oxidoreductase [imported] - Haloferax vo...    51  2e-05
+SEQ gi|510725|gb|AAB36565.1| (AF126429) ketoreductase [Streptomyces ...    50  3e-05
+SEQ gi|6691663|dbj|BAA89391.1| (AB025342) ORF17 [Moritella marina]         50  3e-05
+SEQ gi|3913642|sp|O67610|FABG_AQUAE 3-OXOACYL-[ACYL-CARRIER PROTEIN]...    50  3e-05
+SEQ gi|11250491|pir||E82429 acetoacetyl-CoA reductase VCA0691 [impor...    50  3e-05
+SEQ gi|9931358|gb|AAG02168.1|AF212041_24 (AF212041) 3-oxoacyl-(acylc...    50  3e-05
+SEQ gi|9711279|dbj|BAB07807.1| (AB032242) serine dehydrogenase [Agro...    50  4e-05
+SEQ gi|11096248|gb|AAG30255.1|AF307334_1 (AF307334) NADPH-dependent ...    50  4e-05
+SEQ gi|12861668|dbj|BAB32258.1| (AK020927) putative [Mus musculus]         50  4e-05
+SEQ gi|6831715|sp|Q9WYG0|Y325_THEMA HYPOTHETICAL OXIDOREDUCTASE TM03...    50  4e-05
+SEQ gi|11351867|pir||C83133 probable short-chain dehydrogenase PA409...    50  4e-05
+SEQ gi|7431067|pir||B70640 hypothetical protein Rv0687 - Mycobacteri...    50  4e-05
+SEQ gi|6831539|sp|Q9Z8P2|FABG_CHLPN 3-OXOACYL-[ACYL-CARRIER PROTEIN]...    49  4e-05
+SEQ gi|416729|sp|Q04520|BUDC_KLETE ACETOIN(DIACETYL) REDUCTASE (ACET...    49  5e-05
+SEQ gi|13398625|gb|AAK21956.1|AF342934_3 (AF342934) acetoacetyl CoA ...    49  5e-05
+SEQ gi|6683781|gb|AAF23366.1| (AF153086) PhaB [Burkholderia sp. DSMZ...    49  5e-05
+SEQ gi|10955079|ref|NP_059735.1| yhg [Agrobacterium tumefaciens] >gi...    49  5e-05
+SEQ gi|13621671|gb|AAK33459.1| (AE006504) putative dehydrogenease / ...    49  5e-05
+SEQ gi|1486446|emb|CAA92424.1| (Z68203) FabG homologue [Rhizobium sp.]     49  5e-05
+SEQ gi|2492768|sp|Q53217|Y4VI_RHISN PUTATIVE SHORT-CHAIN TYPE DEHYDR...    49  5e-05
+SEQ gi|2047313|gb|AAB53034.1| (U63296) 15-hydroxyprostaglandin dehyd...    49  6e-05
+SEQ gi|6653745|gb|AAF22845.1|AF210152_2 (AF210152) 3a-hydroxysteroid...    49  6e-05
+SEQ gi|6015104|sp|Q10402|EPHD_MYCTU PROBABLE OXIDOREDUCTASE EPHD >gi...    49  6e-05
+SEQ gi|7498452|pir||T20484 hypothetical protein F01G4.2 - Caenorhabd...    49  6e-05
+SEQ gi|7296705|gb|AAF51984.1| (AE003602) CG12171 gene product [Droso...    49  7e-05
+SEQ gi|1169591|sp|P43713|FABG_HAEIN 3-OXOACYL-[ACYL-CARRIER PROTEIN]...    49  8e-05
+SEQ gi|12850643|dbj|BAB28800.1| (AK013340) putative [Mus musculus]         49  8e-05
+SEQ gi|13182962|gb|AAK15008.1|AF233685_1 (AF233685) short chain L-3-...    49  8e-05
+SEQ gi|4504503|ref|NP_002144.1| hydroxysteroid (17-beta) dehydrogena...    49  9e-05
+SEQ gi|4758504|ref|NP_004484.1| hydroxyacyl-Coenzyme A dehydrogenase...    49  9e-05
+SEQ gi|1730535|sp|P50203|PHAB_ACISP ACETOACETYL-COA REDUCTASE >gi|57...    49  9e-05
+SEQ gi|453624|emb|CAA54105.1| (X76682) lacZ neomycin phosphotransfer...    48  1e-04
+SEQ gi|551430|emb|CAA57302.1| (X81643) unnamed protein product [synt...    48  1e-04
+SEQ gi|4210487|gb|AAD11974.1| (AF098285) beta-galactosidase [Cloning...    48  1e-04
+SEQ gi|13423251|gb|AAK23791.1| (AE005856) oxidoreductase, short-chai...    48  1e-04
+SEQ gi|11347283|pir||E83396 3-hydroxybutyrate dehydrogenase PA2003 [...    48  1e-04
+SEQ gi|13622089|gb|AAK33840.1| (AE006541) putative oxidoreductase [S...    48  1e-04
+SEQ gi|7431006|pir||S76124 hypothetical protein - Synechocystis sp. ...    48  1e-04
+SEQ gi|13476514|ref|NP_108084.1| nodulation protein nodG, 3-oxoacyl-...    48  1e-04
+SEQ gi|13471804|ref|NP_103371.1| oxidoreductase of short-chain [Meso...    48  1e-04
+SEQ gi|3183024|sp|O02691|HCD2_BOVIN 3-HYDROXYACYL-COA DEHYDROGENASE ...    48  1e-04
+SEQ gi|11095216|gb|AAG29782.1|AF235050_5 (AF235050) CumE [Streptomyc...    48  1e-04
+SEQ gi|13242301|ref|NP_077367.1| 17-beta hydroxysteroid dehydrogenas...    48  1e-04
+SEQ gi|4097188|gb|AAD10276.1| (U47026) acetoacetyl-CoA reductase, NA...    48  1e-04
+SEQ gi|13473632|ref|NP_105200.1| oxidoreductase [Mesorhizobium loti]...    48  1e-04
+SEQ gi|11356647|pir||T44891 oxidoreductase homolog [imported] - Myco...    48  1e-04
+SEQ gi|7431038|pir||T11638 3-oxoacyl-[acyl-carrier-protein] reductas...    48  1e-04
+SEQ gi|13421694|gb|AAK22498.1| (AE005724) acetoacetyl-CoA reductase ...    48  1e-04
+SEQ gi|2506148|sp|P25716|FABG_ECOLI 3-OXOACYL-[ACYL-CARRIER PROTEIN]...    48  1e-04
+SEQ gi|12514637|gb|AAG55839.1|AE005319_8 (AE005319) 3-oxoacyl-[acyl-...    48  1e-04
+SEQ gi|14523244|gb|AAK64831.1| (AE007211) putative [Sinorhizobium me...    48  2e-04
+SEQ gi|13630010|ref|XP_012571.2| hydroxysteroid (17-beta) dehydrogen...    47  2e-04
+SEQ gi|11321504|gb|AAG34189.1|AF321122_8 (AF321122) Sim-nJ2 [Strepto...    47  2e-04
+SEQ gi|2337820|emb|CAA74250.1| (Y13937) putative FabG protein [Bacil...    47  2e-04
+SEQ gi|10175111|dbj|BAB06210.1| (AP001515) 3-oxoacyl-(acyl-carrier p...    47  2e-04
+SEQ gi|118571|sp|P16542|DHK1_STRVN GRANATICIN POLYKETIDE SYNTHASE PU...    47  2e-04
+SEQ gi|516107|gb|AAA87616.1| (L34880) polyketide reductase [Streptom...    47  2e-04
+SEQ gi|7431069|pir||D70635 hypothetical protein Rv1928c - Mycobacter...    47  2e-04
+SEQ gi|6680283|ref|NP_032316.1| hydroxysteroid 17-beta dehydrogenase...    47  2e-04
+SEQ gi|2507561|sp|P51658|DHB2_MOUSE ESTRADIOL 17 BETA-DEHYDROGENASE ...    47  2e-04
+SEQ gi|10174460|dbj|BAB05561.1| (AP001513) 3-oxoacyl-(acyl-carrier p...    47  2e-04
+SEQ gi|3913476|sp|Q17704|DHBW_CAEEL PUTATIVE STEROID DEHYDROGENASE C...    47  2e-04
+SEQ gi|5733110|gb|AAD49430.1|AF173833_1 (AF173833) 7-alpha-hydroxyst...    47  2e-04
+SEQ gi|1730542|sp|P50205|PHBB_RHIME ACETOACETYL-COA REDUCTASE >gi|79...    47  2e-04
+SEQ gi|7240590|gb|AAB33861.2| (S76058) polyketide ketoreductase [Str...    47  2e-04
+SEQ gi|7800663|gb|AAF70104.1|AF257324_5 (AF257324) AknA [Streptomyce...    47  3e-04
+SEQ gi|145881|gb|AAA23739.1| (M84991) 3-ketoacyl-acyl carrier protei...    47  3e-04
+SEQ gi|13474370|ref|NP_105938.1| 3-oxoacyl-(acyl carrier protein) re...    47  3e-04
+SEQ gi|13816534|gb|AAK43217.1| (AE006901) 3-oxoacyl-(acyl carrier pr...    47  3e-04
+SEQ gi|532243|gb|AAA65204.1| (L35560) daunorubicin-doxorubicin polyk...    47  3e-04
+SEQ gi|13425092|gb|AAK25346.1| (AE005999) D-beta-hydroxybutyrate deh...    47  3e-04
+SEQ gi|5932382|gb|AAD56935.1|AF180145_27 (AF180145) 3-oxoacyl-(acyl ...    47  3e-04
+SEQ gi|1723056|sp|Q11020|YD50_MYCTU PUTATIVE OXIDOREDUCTASE RV1350 >...    47  3e-04
+SEQ gi|7431051|pir||E64564 short chain alcohol dehydrogenase - Helic...    47  3e-04
+SEQ gi|9967599|emb|CAC05675.1| (Y19177) putative keto reductase [Str...    47  3e-04
+SEQ gi|98686|pir||B39930 internalin B - Listeria monocytogenes             47  3e-04
+SEQ gi|140925|sp|P25145|YINL_LISMO HYPOTHETICAL OXIDOREDUCTASE IN IN...    47  3e-04
+SEQ gi|10639394|emb|CAC11396.1| (AL445063) 3-ketoacyl-acyl carrier p...    47  3e-04
+SEQ gi|11762118|gb|AAG40337.1|AF324985_1 (AF324985) At1g24360 [Arabi...    47  3e-04
+SEQ gi|12724538|gb|AAK05636.1|AE006384_11 (AE006384) oxidoreductase ...    47  3e-04
+SEQ gi|11890400|gb|AAG41118.1|AF080431_1 (AF080431) putative blue fl...    46  4e-04
+SEQ gi|12514398|gb|AAG55648.1|AE005303_4 (AE005303) putative oxidore...    46  4e-04
+SEQ gi|7473253|pir||D75336 oxidoreductase, short-chain dehydrogenase...    46  4e-04
+SEQ gi|14091750|ref|NP_114455.1| smooth muscle-specific 17 beta-hydr...    46  4e-04
+SEQ gi|3123131|sp|O07575|YHDF_BACSU HYPOTHETICAL OXIDOREDUCTASE IN C...    46  4e-04
+SEQ gi|11250512|pir||T51773 acetoacetyl-CoA reductase (EC 1.1.1.36) ...    46  4e-04
+SEQ gi|6093520|sp|P72332|NODG_RHIS3 NODULATION PROTEIN G >gi|1531618...    46  4e-04
+SEQ gi|14523248|gb|AAK64835.1| (AE007211) putative [Sinorhizobium me...    46  4e-04
+SEQ gi|13475720|ref|NP_107287.1| probable short-chain dehydrogenase ...    46  4e-04
+SEQ gi|462049|sp|P33207|FABG_ARATH 3-OXOACYL-[ACYL-CARRIER PROTEIN] ...    46  5e-04
+SEQ gi|6840806|sp|P38004|FABG_CHLTR 3-OXOACYL-[ACYL-CARRIER PROTEIN]...    46  5e-04
+SEQ gi|5921155|dbj|BAA84591.1| (AB032523) reductase [Streptomyces av...    46  5e-04
+SEQ gi|9622534|gb|AAF89839.1|AF173961_5 (AF173961) BbsD [Thauera aro...    46  5e-04
+SEQ gi|13471793|ref|NP_103360.1| probable dehydrogenase [Mesorhizobi...    46  5e-04
+SEQ gi|2425123|gb|AAB70845.1| (AF019986) PksB [Dictyostelium discoid...    46  5e-04
+SEQ gi|2708725|emb|CAA74346.1| (Y14023) oxidoreductase [Staphylococc...    46  5e-04
+SEQ gi|12723829|gb|AAK04996.1|AE006323_11 (AE006323) acetoin reducta...    46  6e-04
+SEQ gi|2492744|sp|Q59787|DHSO_RHOSH SORBITOL DEHYDROGENASE (L-IDITOL...    46  6e-04
+SEQ gi|10174786|dbj|BAB05886.1| (AP001514) 2-deoxy-D-gluconate 3-deh...    46  6e-04
+SEQ gi|10639335|emb|CAC11337.1| (AL445063) probable glucose 1-dehydr...    46  6e-04
+SEQ gi|632081|pir||S47054 probable dehydrogenase (EC 1.1.1.-) - Xant...    46  6e-04
+SEQ gi|5454203|gb|AAD43618.1|AC005698_17 (AC005698) T3P18.17 [Arabid...    46  6e-04
+SEQ gi|10580854|gb|AAG19676.1| (AE005055) 3-oxoacyl-[acyl-carrier-pr...    46  7e-04
+SEQ gi|6226610|sp|P50941|FABG_RICPR 3-OXOACYL-[ACYL-CARRIER PROTEIN]...    46  7e-04
+SEQ gi|80302|pir||S01270 hypothetical protein 1 - Bacillus subtilis ...    46  7e-04
+SEQ gi|7473261|pir||H75616 oxidoreductase, short-chain dehydrogenase...    46  7e-04
+SEQ gi|13124274|sp|O18404|HCD2_DROME 3-HYDROXYACYL-COA DEHYDROGENASE...    46  8e-04
+SEQ gi|1651197|dbj|BAA13547.1| (D88156) tropinone reductase-I [Hyosc...    46  8e-04
+SEQ gi|7431023|pir||T15987 hypothetical protein F09E10.3 - Caenorhab...    45  8e-04
+SEQ gi|13816394|gb|AAK43107.1| (AE006891) 3-oxoacyl-(acyl carrier pr...    45  8e-04
+SEQ gi|10173321|dbj|BAB04426.1| (AP001509) D-mannonate oxidoreductas...    45  0.001
+SEQ gi|13542175|ref|NP_111863.1| 3-oxoacyl-[acyl-carrier-protein] re...    45  0.001
+SEQ gi|114801|sp|P19337|BA72_EUBSP 7-ALPHA-HYDROXYSTEROID DEHYDROGEN...    45  0.001
+SEQ gi|11351857|pir||G83253 probable short-chain dehydrogenase PA312...    45  0.001
+SEQ 
+## SEQUENCE PROFILE AND ENTROPY
+ SeqNo PDBNo   V   L   I   M   F   W   Y   G   A   P   S   T   C   H   R   K   Q   E   N   D  NOCC NDEL NINS ENTROPY RELENT WEIGHT
+    1    1     2   5   2  92   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.351     11  0.00
+    2    2     8   1   0   0   1   0   0   2  18   2  14   2   1   6   1   1   1   6   7  31     0    0    0   2.112     70  0.00
+    3    3     5  57  24   3   3   5   0   0   1   0   0   0   0   0   0   0   1   0   0   0     0    0    0   1.298     43  0.00
+    4    4     0   0   0   0   0   0   0   0  24   1   6  44   0   0   2   3   3   4   9   3     0    0    0   1.701     56  0.00
+    5    5     0   0   0   0   0   0   0  39   0   0   1   0   0   0   0   2   2   0  48   6     0    0    0   1.172     39  0.00
+    6    6     0   0   0   0   0   0   0   0   0   0   4   0   0   0   7  87   1   0   0   0     0    0    0   0.514     17  0.00
+    7    7    16   1   6   0   0   0   0   0   2   0   0   9   0   8   1   3   0   0  55   0     0    0    0   1.494     49  0.00
+    8    8    49   0  25   0   0   0   0   0  25   0   1   0   0   0   0   0   0   0   0   0     0    0    0   1.121     37  0.00
+    9    9    25  24  38   0   1   0   0   0   2   0   1   0   8   0   0   0   0   0   0   0     0    0    0   1.471     49  0.00
+   10   10    28   2  14   0  42   0  13   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.366     45  0.00
+   11   11    55   1   1   0   0   0   0   0   0   0   1  42   0   0   0   0   0   0   0   0     0    0    0   0.795     26  0.00
+   12   12     0   0   0   0   0   0   0  45  53   0   0   1   0   0   0   0   0   0   0   0     0    0    0   0.756     25  0.00
+   13   13     0   0   0   0   0   0   0  58  27   0   7   0   0   0   0   0   0   0   0   8     0    0    0   1.068     35  0.00
+   14   14     0  48   0   2   4   0   0   2  10   0  14  11   8   0   0   0   0   0   1   1     0    0    0   1.652     55  0.00
+   15   15     0   0   0   0   0   0   0  62   0   0  23   1   0   0   9   1   4   0   0   1     0    0    0   1.115     37  0.00
+   16   16     0   0   0   0   2   0   0  92   2   0   1   0   3   0   0   0   0   0   0   0     0    0    0   0.412     13  0.00
+   17   17     0   5  91   0   3   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.374     12  0.00
+   18   18     0   0   0   0   0   0   0  92   8   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.294      9  0.00
+   19   19     0  58   0   2   6   3   3   0   2   0   2   2   0   1  10   7   1   3   0   0     0    0    0   1.624     54  0.00
+   20   20     0   0   0   0   0   0   0   4  25   0   5   0   0   0   0   1   6  14   0  45     0    0    0   1.496     49  0.00
+   21   21     5   2  18   4   4   0   1   0   3   0   1  62   1   0   0   0   0   0   0   0     0    0    0   1.304     43  0.00
+   22   22     2   0   0   2   0   0   0   0  31   0  53   2   8   0   0   0   0   0   1   0     0    0    0   1.221     40  0.00
+   23   23     0   6   1   3   1   0   0   0   1   0   0   1   0   1  43  28   6  10   0   0     0    0    0   1.621     54  0.00
+   24   24     9   6   0   2   0   0   1   1   8   0   1   3   0   1   8   3   6  51   0   1     0    0    0   1.799     60  0.00
+   25   25     1  66  23   2   7   0   1   0   1   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.994     33  0.00
+   26   26    47  11   1  13   1   0   1   2  21   0   0   0   0   2   0   0   0   0   0   1     0    0    0   1.557     51  0.00
+   27   27     0   3   0   0   0   0   0   3   6   0   3   9   0   1   4  55   7   7   1   0     0    0    0   1.652     55  0.00
+   28   28     0   3   0   0   0   0   1   1   6   0  17   0   1   2  34  17   9   6   2   2     0    0    0   1.979     66  0.00
+   29   29     0   0   0   0   0   0   0  56   0   2   2   0   0   1   0   0   0   0  18  22     0    0    0   1.176     39  0.00
+   30   30     2  26  11   3   4   0   2   3  19  24   0   0   1   3   0   0   0   0   0   0     0    0    0   1.990     66  0.00
+   31   31     1   0   1   0   0   0   0   2  21   0   1   3   0   0   5  62   1   2   3   0     0    0    0   1.290     43  0.00
+   32   32    17   3   1   3   0   0   0   1   1   0   3   3   0   2   0   8   0   0  58   1     0    0    0   1.480     49  0.00
+   33   33     8  63   7   3   7   0   2   2   7   0   1   1   0   0   0   0   0   0   0   0     0    0    0   1.411     47  0.00
+   34   34    63   8   8   0   2   0   1   5  11   0   1   0   0   0   0   0   0   1   0   1     0    0    0   1.320     44  0.00
+   35   35    16  10  59   0   1   0   0   1   4   0   1   3   3   1   0   0   0   0   2   0     0    0    0   1.449     48  0.00
+   36   36     4  65   4   2   2   0   2   4   9   0   1   1   3   0   0   0   0   0   1   3     0    0    0   1.459     48  0.00
+   37   37     0   0   1   0   0   3   1   3   4   0   3   3   0   4   6   0   6   0   4  61     0    0    0   1.587     52  0.00
+   38   38     3   2   1   0   1   0   1   1   1   1   9   1   1   0  65   2   0   2   5   3     0    0    0   1.501     50  0.00
+   39   39    13   9  47   4   1   0   1   1   6   0   3   4   0   1   2   1   1   4   1   1     0    0    0   1.942     64  0.00
+   40   40     0   0   0   0   0   0   0   1   3   3   3   0   0   0   2   3   2  47   3  34     0    0    0   1.459     48  0.00
+   41   41     1   1   0   0   0   0   0   4   3   0   2   1   0   0   1   9   1   4  68   4     0    0    0   1.328     44  0.00
+   42   42     4   5   1   0   1   0   1   2   6  64   2   0   0   1   1   2   3   3   1   4     0    0    0   1.568     52  0.00
+   43   43     2   1   0   0   0   0   0   2  46   3   2  11   0   0   1   4   8  13   3   4     0    0    0   1.894     63  0.00
+   44   44     5   1   1   4   0   1   0   1  69   1   3   4   0   0   1   3   2   3   1   1     0    0    0   1.397     46  0.00
+   45   45     4  11  61   3   1   0   0   3   6   0   0   1   0   0   1   4   1   3   1   1     0    0    0   1.556     51  0.00
+   46   46     5   1   0   0   0   0   0   3  63   0   3   2   0   0   1   9   1   6   2   3     0    0    0   1.487     49  0.00
+   47   47     2   1   1   0   0   0   0   1   4   0   1   2   0   0   2   8  10  64   0   4     0    0    0   1.434     47  0.00
+   48   48     3  76   4   0   1   1   2   0   4   0   0   2   3   0   1   1   1   1   0   0     0    0    0   1.127     37  0.00
+   49   49     1   4   1   1   0   0   0   1   4   0   4   1   0   1   4  53  18   5   1   1     0    0    0   1.676     55  0.00
+   50   50     1   2   1   0   0   0   0   4  66   0  10   3   0   1   0   2   1   6   1   1     0    0    0   1.373     45  0.00
+   51   51     2  18  53   1   1   0   0   0   7   0   2   2   2   1   2   4   1   2   1   1     0    0    0   1.713     57  0.00
+   52   52     1   4   1   0   0   0   1   8   1   1   3   1   0   3   0  10   3   1  62   1     0    0    0   1.537     51  0.00
+   53   53     1   5   0   0   0   0   1   3   3  64   3   1   0   4   2   1   1   5   1   4     0    0    0   1.549     51  0.00
+   54   54     1   1   0   0   0   0   0  10   2   0  11   1   0   0   3  59   1   7   2   4     0    0    0   1.502     50  0.00
+   55   55    60   6   2   0   1   0   1   6   3   0   1  11   0   1   0   1   3   3   1   0     0    0    0   1.549     51  0.00
+   56   56     1   1   2   0   3   0   0   6   2   1   4  45   0   1   3   9   9   5   6   4     0    0    0   2.044     68  0.00
+   57   57    61   1  18   1   1   0   1   2   5   0   0   0   4   0   1   0   0   3   0   0     0    0    0   1.392     46  0.00
+   58   58     6   4   3   2   8   1   1   1   5   3   9  49   0   0   2   2   1   2   1   2     0    0    0   1.979     66  0.00
+   59   59     2   3   2   0  74   0   6   4   3   1   1   0   0   1   0   1   3   0   0   0     0    0    0   1.171     39  0.00
+   60   60     4   1   1   4   2   7  52   1   6   0   2   2   1   9   1   4   2   1   1   1     0    0    0   1.931     64  0.00
+   61   61     6   1   1   0   0   0   1   1   5  51   2  15   1   1   1   5   5   1   2   1     0    0    0   1.797     59  0.00
+   62   62     4   9   1   5   6   0  57   1   8   1   1   2   4   0   1   0   0   1   0   0     0    0    0   1.655     55  0.00
+   63   63     1   0   0   0   3   0   0   1   2   0   1   1   0   0   0   0   1   1   7  81     0    0    0   0.889     29  0.00
+   64   64    80   5   7   1   1   0   0   1   1   0   1   1   1   0   0   0   0   0   0   2     0    0    0   0.909     30  0.00
+   65   65     2   0   0   2   0   0   0   0   5   0   6  72   0   0   3   1   3   1   1   3     0    0    0   1.184     39  0.00
+   66   66    49   1   2   7   0   0   0   1   3   0   6  11   4   0   0   2   1   3   5   4     0    0    0   1.895     63  0.00
+   67   67     1   0   0   0   0   0   0   1   9  55  10   1   0   0   1   8   0   4   2   9     0    0    0   1.584     52  0.00
+   68   68    27  29  14   3   0   0   1   0   2   0   1   2   0   0  10   1   2   1   1   5     0    0    0   1.993     66  0.00
+   69   69     2   1   0   0   1   1   0   1  51   1   8   8   0   0   0   5   3  13   0   5     0    0    0   1.733     57  0.00
+   70   70     2   0   1   0   1   0   0   1   2   0   7   1   0   0   0   0   3  66   1  15     0    0    0   1.215     40  0.00
+   71   71    11   1  11   6   0   0   1   0   5   0  12  43   2   1   1   0   3   0   2   2     0    0    0   1.920     64  0.00
+   72   72     5   0   1   1   0   0   0   0   5   0   3  33   0   0   5  26   7   8   0   5     0    0    0   1.979     66  0.00
+   73   73     0   0   0   0   0   0   0   1  16   1   2   1   0   1   4  61   8   3   2   2     0    0    0   1.391     46  0.00
+   74   74     5  61   2   7   4   1   6   2   9   0   1   1   1   0   0   0   0   0   0   0     0    0    0   1.510     50  0.00
+   75   75    15  53   7   6  12   0   1   1   3   0   0   0   1   0   0   0   0   0   0   0     0    0    0   1.518     50  0.00
+   76   76     0   0   0   0   0   0   0   1   8   0   3   3   0   0   6  54   7   8   2   7     0    0    0   1.636     54  0.00
+   77   77     0   2   0   0   0   0   1   1   7   0   1  45   0   0   4  16   5  11   1   3     0    0    0   1.863     62  0.00
+   78   78    20   4  53   2   1   0   0   0  13   0   0   5   0   0   0   0   0   0   0   0     0    0    0   1.443     48  0.00
+   79   79     9   5   6   6  50   0   2   2   3   1   0   1   0   1   3   4   1   4   1   0     0    0    0   1.975     65  0.00
+   80   80     5   0   0   0   0   0   0   3  38   0   4   1   0   1   1   1   4  13   1  29     0    0    0   1.715     57  0.00
+   81   81     2   1   0   2   0   0   0   0   2   0   1   2   0   4   8  35  29  10   0   3     0    0    0   1.881     62  0.00
+   82   82     9  51   3   8  18   1   5   0   1   0   0   0   0   2   0   0   0   1   0   0     0    0    0   1.611     53  0.00
+   83   83     0   0   0   0   0   0   0  36   1   0   1   1   0   0   1  49   1   1   1   6     0    0    0   1.293     43  0.00
+   84   84     1   0   0   0   0   0   7   5   1   5   4  52   0   4  12   4   1   1   1   1     0    0    0   1.776     59  0.00
+   85   85    50  11  36   0   0   0   0   0   1   1   0   0   0   0   0   0   0   0   0   0     0    0    0   1.115     37  0.00
+   86   86     0   0   0   0   0   1   0   1   0   0   1   0   0   0   0   0   0   1   1  95     0    0    0   0.315     10  0.00
+   87   87    47  21  27   0   0   0   0   0   3   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.238     41  0.00
+   88   88     6  87   2   3   0   0   0   0   2   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.582     19  0.00
+   89   89    38   0  60   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.762     25  0.00
+   90   90     0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  97   0     0    0    0   0.197      6  0.00
+   91   91     0   0   0   0   0   0   0  56   0   0   1   0   4   0   0   0   0   0  38   0     0    0    0   0.946     31  0.00
+   92   92     2   0   0   0   0   0   0   0  95   0   1   0   0   0   0   0   0   2   0   0     0    0    0   0.280      9  0.00
+   93   93     0   0   0   0   0   0   0  93   1   0   0   5   0   0   0   0   0   0   0   0     0    0    0   0.299      9  0.00
+   94   94    11   8  73   2   0   0   0   1   1   0   0   0   0   0   2   0   0   0   0   1     0    0    0   1.049     35  0.00
+   95   95     3  60   4   5   2   0   0   0   3   1   0  12   5   0   0   0   0   0   3   0     0    0    0   1.515     50  0.00
+   96   96     0   2   0   0   1   0   0   1   3   2   4   5   0   0   9   3   1   4   4  61     0    0    0   1.589     53  0.00
+   97   97     0   1   1   0   0   0   0   1   1   1   1   2   0   0   1   1   0  12   0  74     0    0    0   1.090     36  0.00
+   98   98     0   1   0   0   4   0   6   3   4   2   3   3   0  38   4   8   3  10   9   3     0    0    0   2.246     74  0.00
+   99   99     1   7   0   0   0   1   0   1   1   2   3   2   0   0   1   2  53   7   9   9     0    0    0   1.781     59  0.00
+  100  100     8   7  59   1   8  13   0   0   1   0   0   1   0   0   1   0   0   0   0   0     0    0    0   1.407     46  0.00
+  101  101     0   1   0   3   0   0   0   0   1   1   1   0   0   2   3   3   3  64   1  16     0    0    0   1.387     46  0.00
+  102  102     0   2   0   1   1   0   0   1   6   0   2   4   0   1  60   9   5   3   1   5     0    0    0   1.606     53  0.00
+  103  103    23   2   3   5   1   0   0   0   1   0   0  63   0   1   0   0   0   0   0   0     0    0    0   1.189     39  0.00
+  104  104     5   8  72   6   4   0   1   0   1   0   1   0   0   0   0   0   0   0   0   0     0    0    0   1.107     36  0.00
+  105  105     0   1   0   0   0   0   0   4  51   0   4   0   0   0   2   1   4   3  16  11     0    0    0   1.685     56  0.00
+  106  106    59   3  14   2   0   0   0   0   0   0   0  21   0   0   0   0   0   1   0   0     0    0    0   1.166     38  0.00
+  107  107     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  96   1     0    0    0   0.227      7  0.00
+  108  108     5  40   4   0  36   0  13   0   0   0   0   1   0   0   0   0   0   0   0   0     0    0    0   1.404     46  0.00
+  109  109     4   2   3   2   3   0   0   3   3   0   4  62   0   0   1   6   0   1   5   2     0    0    0   1.601     53  0.00
+  110  110     0   0   0   0   0   0   0  80   3   1  13   1   1   0   0   0   0   0   0   0     0    0    0   0.757     25  0.00
+  111  111    18  37   3  12   0   0   0   0   5   1   1  22   0   0   0   0   0   0   0   0     0    0    0   1.661     55  0.00
+  112  112    47   4  13   9  21   1   4   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.522     50  0.00
+  113  113     0   6   0   0   0   1   3   1   1   0   3   1   0   4   6   1   2   2  69   0     0    0    0   1.354     45  0.00
+  114  114    11   6   0   6   0   0   0   5   1   0   4  60   5   0   0   0   0   0   0   0     0    0    0   1.465     48  0.00
+  115  115     5   1   3   1   0   0   0   0   3   0   6  72   6   0   0   1   0   0   1   0     0    0    0   1.158     38  0.00
+  116  116     1   4   0   3   0   0   3   0  11   0   1  44   0   3  11  10   7   1   0   0     0    0    0   1.922     64  0.00
+  117  117     1   6   0   3   1   0   0   2  63   2   2   8   1   1   0   0   3   6   0   0     0    0    0   1.525     50  0.00
+  118  118    28   3  46   1   3   0   0   3  13   0   1   1   0   0   0   0   0   0   0   0     0    0    0   1.464     48  0.00
+  119  119     4  54   4  29   1   0   0   1   2   0   1   2   0   0   0   0   0   0   0   0     0    0    0   1.352     45  0.00
+  120  120     0   0   0   0   0   0   0   3   2  28   2   2   0   1   5   4   1  13   2  35     0    0    0   1.864     62  0.00
+  121  121     0   4   2   1  48   0  16   4   4   2   1   3   0   4   2   1   4   2   0   0     0    0    0   1.927     64  0.00
+  122  122     0   7   0  33   2  48   0   3   0   0   0   0   0   0   0   0   0   0   2   0     0    0    0   1.386     46  0.00
+  123  123     3   3   4   5   0   0   0   4   3   1   4   1   0   0   3   3   1   4   0  60     0    0    0   1.692     56  0.00
+  124  124     0   2   0   6   0   0   0   1   4   2   1   1   0   0   6  67   2   5   0   1     0    0    0   1.385     46  0.00
+  125  125     0   2   0   3   0   0   0   0   1   1   2   4   0   0  60  11  11   0   2   3     0    0    0   1.505     50  0.00
+  126  126     0   1   0   4   0   0   0   2   2   0   1   0   0   2   8  57  10   4   8   1     0    0    0   1.632     54  0.00
+  127  127     0   3   0   3   1   1   1  65   3   0   5   0   0   2   2   4   2   1   1   3     0    0    0   1.556     51  0.00
+  128  128     0   0   0   0   0   0   0  89   1   0   1   0   0   0   4   1   1   0   1   0     0    0    0   0.563     18  0.00
+  129  129     0   0   0   2   0   3   0   1   2  52   6   1   0   4  13   6   4   4   1   1     0    0    0   1.812     60  0.00
+  130  130     0   1   0   0   1   0   1  86   1   0   2   0   0   1   3   2   1   0   1   0     0    0    0   0.738     24  0.00
+  131  131     1   0   0   0   0   0   0  88   2   0   1   0   0   1   7   0   0   0   0   0     0    0    0   0.537     17  0.00
+  132  132    38   8  34   5   0   0   0   0   5   0   2   2   1   1   3   2   0   0   1   0     0    0    0   1.685     56  0.00
+  133  133    14   2  84   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.503     16  0.00
+  134  134    28   1  21   0   0   0   0   0  21   0   1   0  27   0   0   0   0   0   0   0     0    0    0   1.499     50  0.00
+  135  135     0   0   0   1   0   0   0   0   0   0   2   2   0   0   0   0   0   0  94   0     0    0    0   0.308     10  0.00
+  136  136    17   2  66   8   0   0   0   0   1   0   0   5   0   0   0   0   0   0   0   0     0    0    0   1.079     36  0.00
+  137  137     0   0   0   0   0   0   0  28  16   0  23  10  22   0   0   0   0   0   0   0     0    0    0   1.593     53  0.00
+  138  138     0   0   0   0   0   0   0   0   0   0  99   0   0   0   0   0   0   0   0   0     0    0    0   0.065      2  0.00
+  139  139    74   3   8   4   0   0   0   0   1   0   0   5   0   0   0   0   2   0   0   0     0    0    0   1.104     36  0.00
+  140  140    10   2   5   0   0   0   3   3  19   0   3  47   0   2   0   0   0   0   5   0     0    0    0   1.746     58  0.00
+  141  141     0   0   0   0   0   0   0  91   7   0   2   0   0   0   0   0   0   0   0   0     0    0    0   0.391     13  0.00
+  142  142     3  24   3   1  50   0   2   0   0   0   1   3   0   1   2   6   4   0   0   0     0    0    0   1.654     55  0.00
+  143  143     5   1   3   4   1   0   1   2   3   0   2   3   0   1   3   5   5   7  46   9     0    0    0   2.072     69  0.00
+  144  144     1   0   0   0   0   0   0  24  44  18   9   1   0   0   0   1   0   0   0   0     0    0    0   1.454     48  0.00
+  145  145     6   3  44   2   2   0   2   3   4   1  11   2   1   0   0   0   8   0   9   1     0    0    0   2.048     68  0.00
+  146  146     5   1   2   1   4   1  42   2   8  24   0   2   0   3   1   1   2   1   0   0     0    0    0   1.909     63  0.00
+  147  147     8   3   1   1   0   0   0  21   4   2   1   1   0   1   2   2  47   2   3   1     0    0    0   1.843     61  0.00
+  148  148    47   4   1   2  10   1   1   6   3   0   2   2   0   0   2   1  17   1   0   0     0    0    0   1.826     60  0.00
+  149  149     2   1   1   0   0   0   0   2  18  49   9   7   8   0   0   0   0   0   1   0     0    0    0   1.635     54  0.00
+  150  150    55   1   3   0   0   0   1   0  19   4   1   0   0   1   0   0   0   0  12   1     0    0    0   1.473     49  0.00
+  151  151     0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.016      0  0.00
+  152  152     2   0   0   0   0   0   0   4  11   0  72   1   8   0   0   0   0   0   2   0     0    0    0   1.034     34  0.00
+  153  153     1   1   0   0   0   0   0  16  73   0   4   4   0   0   0   0   0   0   0   0     0    0    0   0.904     30  0.00
+  154  154     0   0   0   0   0   0   0   0  15   0  63  21   0   0   0   0   0   0   0   0     0    0    0   0.947     31  0.00
+  155  155     0   0   0   2   0   0   0   0   0   0   0   0   0   0   0  98   0   0   0   0     0    0    0   0.121      4  0.00
+  156  156     0   0   0   0  11   1   0   8  66   0   1   0   0  11   0   1   0   0   0   0     0    0    0   1.155     38  0.00
+  157  157     0   0   0   0   1   0   1  37  61   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.792     26  0.00
+  158  158    59   7  15   3   0   0   0   1  14   0   0   0   0   0   0   0   0   0   0   1     0    0    0   1.268     42  0.00
+  159  159    41  20  23   2   0   0   1   0   1   0   1   2   0   3   2   0   0   1   0   2     0    0    0   1.690     56  0.00
+  160  160     0   0   0   3   0   1   0  38   3   0  32   2   0   0   0   0   2   0  18   0     0    0    0   1.549     51  0.00
+  161  161     0  12   2   4  81   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.692     23  0.00
+  162  162     0   0   0   1   0   0   0   0   0   0   9  90   0   0   0   0   0   0   0   0     0    0    0   0.370     12  0.00
+  163  163     0   3   0   4   0   0   0   1   0   0  20   3   1   1  20  20  12   2  10   2     0    0    0   2.143     71  0.00
+  164  164     3   0   1   0   0   0   0   2  11   2  70   5   3   0   0   0   0   0   1   0     0    0    0   1.244     41  0.00
+  165  165     4  68  16   6   0   0   0   0   4   0   1   0   0   0   0   0   0   0   0   0     0    0    0   1.100     36  0.00
+  166  166     0   0   0   0   0   0   0   6  83   0   3   0   0   0   6   0   0   0   0   0     0    0    0   0.689     22  0.00
+  167  167     2   7   1   2   0   0   0   0   3   0   0   0   1   0  16  41   5   2   3  12     0    0    0   1.966     65  0.00
+  168  168     0  48   2   0   0   0   2   0   2   4   1   0   0   0   1   0   1  32   1   6     0    0    0   1.462     48  0.00
+  169  169     8  20   2   1   2   2   9   3  46   0   2   4   0   1   0   0   0   0   1   0     0    0    0   1.757     58  0.00
+  170  170     1   0   1   0   0   0   4   3  28  38   4   0   0   8   0   1   3   1   5   1     0    0    0   1.870     62  0.00
+  171  171     5   8  39   0   1   0   4   3   4   5   6   3   0   2   4   9   3   3   1   2     0    0    0   2.261     75  0.00
+  172  172     1   1   1   0   1   2   3   0   2   0   6  58   0   2   7   8   2   2   5   2     0    0    0   1.678     56  0.00
+  173  173     0   0   0   0   0   0   0  88   0   0   0   0   0   0   1   1   0   0   8   0     0    0    0   0.498     16  0.00
+  174  174    68   0  32   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.625     20  0.00
+  175  175     0   0   1   2   0   0   0   1  10   0   0  57   0   1  20   3   0   0   2   0     0    0    0   1.414     47  0.00
+  176  176    50   2   2   0   5   0   0   0  39   0   0   1   1   0   0   0   0   0   0   0     0    0    0   1.120     37  0.00
+  177  177     5   0   1  11   5   0  37   0   2   0   1   3   0   0   0   0   1   0  33   0     0    0    0   1.660     55  0.00
+  178  178     4   1   0   0   0   0   0   2  30   0  27  31   5   0   0   0   0   0   0   0     0    0    0   1.493     49  0.00
+  179  179    50   0  45   2   1   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.924     30  0.00
+  180  180     0   1   0   0   0   0   1   0  19   0   4   1  26   1   0   0   1   1  44   0     0    0    0   1.501     50  0.00
+  181  181     0   0   0   0   0   0   0   0   0  92   0   0   8   0   0   0   0   0   0   0     0    0    0   0.291      9  0.00
+  182  182     0   0   0   0   0   0   0  96   2   0   1   0   1   0   0   0   0   0   0   0     0    0    0   0.216      7  0.00
+  183  183     2   9  44   3  14   2  10   1   4  10   1   1   0   1   0   0   0   0   0   0     0    0    0   1.823     60  0.00
+  184  184    16   0  20   0   4   0   0   0   1   0   1  57   0   0   0   0   0   0   0   0     0    0    0   1.164     38  0.00
+  185  185     1   4   0   1   0   1   0   2   5   0   2   0   0   0  22  34   2  13   5   9     0    0    0   1.977     65  0.00
+  186  186     5   2   0   1   0   0   0   0   0   0   6  85   0   0   0   0   0   0   0   0     0    0    0   0.603     20  0.00
+  187  187     4   0   1   0   8   0   0   1   4  28   1  30   0   0   0   2   0   9   2  10     0    0    0   1.901     63  0.00
+  188  188     8  55   7  28   1   1   0   0   1   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.175     39  0.00
+  189  189    59   9   3   3   1   0   0   0   3   0   0   9   0   0   0   2   0   1   0  10     0    0    0   1.459     48  0.00
+  190  190     0   1   0   3   0   0   0   3   1   1   1   3   0  50  12   3   5   7   7   2     0    0    0   1.842     61  0.00
+  191  191     2   0   1   0   0   0   0   1   5   1   7  11   0   1   1  52   1  10   7   1     0    0    0   1.687     56  0.00
+  192  192     1  24   4   1  61   1   1   0   1   1   2   1   0   0   1   0   2   0   0   0     0    0    0   1.251     41  0.00
+  193  193     0   0   0   1   1   0   0   1   1   0   3   9   0   0   4   4   1   0  70   4     0    0    0   1.264     42  0.00
+  194  194     0   0   1   0   0   0   0   0  14   1  67   7   0   0   0   3   0   2   0   2     0    0    0   1.198     39  0.00
+  195  195     0   0   0   0  14  74   1   1   1   0   1   2   0   0   1   2   0   1   1   0     0    0    0   1.019     34  0.00
+  196  196     1  80   2   0   2   0   1   1   2   0   0   0   0   3   1   0   1   2   0   2     0    0    0   0.982     32  0.00
+  197  197     0   0   0   0   0   0   0   1   2   3   7   2   0   3   0   4   0   9   5  63     0    0    0   1.478     49  0.00
+  198  198    69   2   1   3   1   0  16   0   1   0   3   2   0   1   0   0   0   0   0   0     0    0    0   1.160     38  0.00
+  199  199     0   0   0   0   1   0   0  13   1   0   3   1   0   0   0   0   1  76   0   3     0    0    0   0.950     31  0.00
+  200  200     0   0   0   0   0   0   0   0   2  65   4   6   0   0   1   4  15   2   0   1     0    0    0   1.291     43  0.00
+  201  201     1   1   0   3   1   0   0   0   1   3   6   4   6   3  47   4  15   3   1   1     0    0    0   1.954     65  0.00
+  202  202    72   3   4   2  13   0   0   1   0   0   1   3   0   0   0   0   0   0   0   0     0    0    0   1.074     35  0.00
+  203  203     2   2   0   0   0   1   1   9  77   0   2   1   0   0   1   2   1   0   0   0     0    0    0   0.998     33  0.00
+  204  204     0   2   0   0   0   0   0   0   0   0   0   1   0   0   2   2   5  69   0  18     0    0    0   1.043     34  0.00
+  205  205     1  37   3   2   1   0   0   0   4   0   0   1   0   1  13  34   1   0   1   0     0    0    0   1.650     55  0.00
+  206  206     2  87   3   1   1   0   0   0   0   2   0   1   0   0   1   0   0   0   0   0     0    0    0   0.631     21  0.00
+  207  207     0  62   1   4   1   0   0   1   1   0   1   0   0   0  13   0   0   4   5   6     0    0    0   1.421     47  0.00
+  208  208     0   0   0   0   0   0   0   4  20   0   7   6   1   2   7   2   0  47   1   3     0    0    0   1.735     57  0.00
+  209  209     1   1   0   0   2   0   2   0  18   0   0   1   0  68   3   0   1   0   0   0     0    0    0   1.154     38  0.00
+  210  210     0   0   0   0   0   0   0   0   1  86   1   0   0   0   0   7   1   0   1   0     0    0    0   0.642     21  0.00
+  211  211     0   0   1   1   0   0   0   3   1   1   2  70  13   0   4   2   0   1   1   0     0    0    0   1.200     40  0.00
+  212  212     0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0  94   3   0   1     0    0    0   0.325     10  0.00
+  213  213     2   0   1   4   0   0   0   0   1  13  18  58   0   0   0   3   0   0   0   0     0    0    0   1.315     43  0.00
+  214  214     2   0   0   0   0   0   0   0   3  10  32  49   0   0   0   0   2   1   0   0     0    0    0   1.332     44  0.00
+  215  215     2  45   0   0   0   0   0   0   8   0   2   6   0   0   0   6  14  15   0   0     0    0    0   1.736     57  0.00
+  216  216    13   0   5   0   0   0   0   0  23   0   2   0   0   0   0   1  40  12   1   3     0    0    0   1.714     57  0.00
+  217  217     1   1   1   0   0   0   2   0   5   0   0   0  89   0   0   0   0   0   0   0     0    0    0   0.518     17  0.00
+  218  218     0   0   0   0   0   0   0  17  81   0   1   0   0   0   0   0   0   0   0   0     0    0    0   0.561     18  0.00
+  219  219     1   0   0   4   0   0   0   0   3   0   0   0   0   0   2  11  58  20   0   0     0    0    0   1.309     43  0.00
+  220  220     0   1   0   0   0   0   0   0   0   0   4   0   1   3   0   0   4   0  85   2     0    0    0   0.725     24  0.00
+  221  221     0   5  15   5  72   0   2   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.949     31  0.00
+  222  222    90   1   5   1   0   0   0   0   2   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.470     15  0.00
+  223  223     0   1   0   0   0   0   0   0   0   0   0   3   0   4   2  79   3   0   7   0     0    0    0   0.881     29  0.00
+  224  224     3   0   0   0   0   0   0   0  94   0   1   0   0   0   0   0   0   0   0   0     0    0    0   0.302     10  0.00
+  225  225     1   2  88   7   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0     0    0    0   0.523     17  0.00
+  226  226     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   5   1  93   0   1     0    0    0   0.329     10  0.00
+  227  227     0  34   0   4   0   0   0   0  35   0   1   3   6   0   8   2   1   3   0   0     0    0    0   1.711     57  0.00
+  228  228     0   0   0   4   0   0   0   4   4   0   9   1   0   0   0   0   0   0  75   1     0    0    0   1.024     34  0.00
+  229  229     1   0   0   0   0   0   0   0   0   0   0   0   0   0   2  45  35  14   0   2     0    0    0   1.232     41  0.00
+  230  230     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  99   0     0    0    0   0.091      3  0.00
+  231  231     0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.031      1  0.00
+  232  232     0   0   0   0   0   0   0   3  81   0   4   1   0   0   2   0   9   0   0   0     0    0    0   0.734     24  0.00
+  233  233     3   1  92   5   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.364     12  0.00
+  234  234     0   1   0   1   0  94   5   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.272      9  0.00
+  235  235     1   0  18   1   0   0   0   0   0   0   0   0   0   0   0  72   6   0   2   0     0    0    0   0.870     29  0.00
+  236  236     4  80   2   1   0   0   0   0  11   0   3   0   0   0   0   0   0   0   0   0     0    0    0   0.765     25  0.00
+  237  237     0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   2   6  91     0    0    0   0.362     12  0.00
+  238  238     3  76   0   5   0   0   0   2   0   0   0   0   0   0   2  11   2   1   0   0     0    0    0   0.936     31  0.00
+  239  239     0   0   0   0   0   0   0  96   0   0   2   0   0   0   1   1   0   0   1   0     0    0    0   0.202      6  0.00
+  240  240     0   0   0   0   0   1   0  10   0   0   0  43   1   0  35   3   7   2   0   0     0    0    0   1.358     45  0.00
+  241  241     1  97   1   0   0   0   0   0   0   0   0   1   1   0   0   0   0   0   0   0     0    0    0   0.154      5  0.00
+  242  242     0   0   6   0   0   0   1   1   1   0   1   2   0   1   0   4   0  55   1  29     0    0    0   1.267     42  0.00
+  243  243     0  14   0   1   0   0   0   0  39  26   7   0   0   0   1   3   0   9   0   1     0    0    0   1.598     53  0.00
+  244  244    36   2  62   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.744     24  0.00
+  245  245     0   0   0   1   0   0   0   0   0   0   0  20   0   0   0  14  16  45   3   2     0    0    0   1.441     48  0.00
+  246  246     0   7   2   1   0  83   0   0   0   8   0   0   0   0   0   0   0   0   0   0     0    0    0   0.626     20  0.00
+  247  247     0   0   0   0   0   0   0   0   3   1  12  82   0   0   0   2   1   0   0   0     0    0    0   0.679     22  0.00
+  248  248     3   6   0   5   0   0   0   0   0   1   1   0   0   0   0  72  11   0   1   0     0    0    0   1.032     34  0.00
+  249  249     0   1   0   1   1   0   5   0   0   0   0   0   0  91   1   0   1   0   0   0     0    0    0   0.433     14  0.00
+  250  250     0   0   0   0   0  99   0   0   0   0   1   0   0   0   0   0   0   0   0   0     0    0    0   0.042      1  0.00
+  251  251     0   0   0   0   0   0  15   0   0   0   0   0   0   0   0   0   1   2   1  82     0    0    0   0.589     19  0.00
+  252  252     0   0   0   0   0  15   0   0   1   1  83   0   0   0   0   0   0   0   0   0     0    0    0   0.517     17  0.00
+  253  253     0   0   0   0   0   0   1  58   0   0   0   0   0  39   1   0   1   0   0   0     0    0    0   0.800     26  0.00
+  254  254     0   1  83  16   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.481     16  0.00
+//

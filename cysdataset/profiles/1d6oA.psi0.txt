@@ -1,0 +1,431 @@
+ID Pseudo hssp file.
+SEQ 
+SEQ gi|4503725|ref|NP_000792.1| FK506-binding protein 1A (12kD); FK5...   216  7e-56
+SEQ gi|10835851|pdb|3FAP|A Chain A, Atomic Structures Of The Rapamyc...   216  9e-56
+SEQ gi|1942335|pdb|1TCO|C Chain C, Ternary Complex Of A Calcineurin ...   214  4e-55
+SEQ gi|10121024|pdb|1EYM|A Chain A, Fk506 Binding Protein Mutant, Ho...   213  4e-55
+SEQ gi|3660040|pdb|1BL4|A Chain A, Fkbp Mutant F36v Complexed With R...   213  6e-55
+SEQ gi|120220|sp|P18203|FKB1_BOVIN FK506-BINDING PROTEIN (FKBP-12) (...   212  1e-54
+SEQ gi|1827930|pdb|1BKF|    Fk506 Binding Protein Fkbp Mutant R42kH8...   210  4e-54
+SEQ gi|6679803|ref|NP_032045.1| FK506 binding protein 1a (12 kDa) [M...   210  7e-54
+SEQ gi|2499772|sp|Q62658|FKB1_RAT FK506-BINDING PROTEIN (FKBP-12) (P...   210  7e-54
+SEQ gi|13646213|ref|XP_009679.2| similar to FK506-binding protein 1A...   207  4e-53
+SEQ gi|6978843|ref|NP_037234.1| FK506-binding protein 1 (12kD) [Ratt...   206  6e-53
+SEQ gi|14211655|dbj|BAB56111.1| (AB055761) FK506 bing protein 12 [Ga...   206  9e-53
+SEQ gi|4758380|ref|NP_004107.1| FK506-binding protein 1B (12.6 kD); ...   188  2e-47
+SEQ gi|627733|pir||A53924 FK-506-binding protein FKBP-12.6 - bovine ...   188  2e-47
+SEQ gi|8393362|ref|NP_058559.1| FK506 binding protein 1b (12.6 kDa) ...   186  6e-47
+SEQ gi|12083613|ref|NP_073166.1| FK506 binding protein 1b (12.6 kDa)...   186  6e-47
+SEQ gi|6647517|sp|O42123|FKB1_XENLA FK506-BINDING PROTEIN (FKBP-12) ...   186  1e-46
+SEQ gi|7302498|gb|AAF57582.1| (AE003796) FK506-bp2 gene product [Dro...   169  1e-41
+SEQ gi|14041718|emb|CAC38784.1| (AJ278329) putative FK506-binding pr...   167  5e-41
+SEQ gi|6560679|gb|AAF16717.1|AF117595_1 (AF117595) FK506-binding pro...   167  5e-41
+SEQ gi|1346013|sp|P48375|FKB1_DROME 12 KD FK506-BINDING PROTEIN (FKB...   166  6e-41
+SEQ gi|11182150|emb|CAC16180.1| (AL136531) bA314N13.4 (FK506-binding...   159  7e-39
+SEQ gi|4323037|gb|AAD16171.1| (AF097888) macrolide-binding protein F...   135  2e-31
+SEQ gi|6434853|gb|AAF08341.1|AF064240_1 (AF064240) peptidyl-prolyl c...   134  3e-31
+SEQ gi|6324194|ref|NP_014264.1| peptidylprolyl cis-trans isomerase; ...   129  9e-30
+SEQ gi|443331|pdb|1YAT|    Fk-506 Binding Protein (12 Kd, Yeast) Com...   129  9e-30
+SEQ gi|6015158|sp|O42993|FKBP_SCHPO FK506-BINDING PROTEIN (FKBP) (PE...   129  2e-29
+SEQ gi|863008|gb|AAA68610.1| (U27353) rotamase [Caenorhabditis elegans]   121  2e-27
+SEQ gi|7509457|pir||T26539 hypothetical protein Y18D10A.19c - Caenor...   121  2e-27
+SEQ gi|546584|gb|AAB30685.1| (S69800) peptidyl-prolyl cis-trans isom...   119  9e-27
+SEQ gi|627560|pir||JC2189 peptidylprolyl isomerase (EC 5.2.1.8) FKBP...   116  9e-26
+SEQ gi|7509456|pir||T26538 hypothetical protein Y18D10A.19b - Caenor...   116  1e-25
+SEQ gi|7428434|pir||S75144 FKBP-type peptidyl-prolyl cis-trans isome...   113  8e-25
+SEQ gi|7473288|pir||B75347 peptidyl-prolyl cis-trans isomerase, FKBP...   112  1e-24
+SEQ gi|6580969|gb|AAF18387.1|AF163664_1 (AF163664) FK506-binding pro...   107  3e-23
+SEQ gi|7297564|gb|AAF52818.1| (AE003626) FKBP59-bp1 gene product [Dr...   106  1e-22
+SEQ gi|2146731|pir||S72484 FK506-binding protein - Arabidopsis thali...   106  1e-22
+SEQ gi|2146732|pir||S72485 peptidylprolyl isomerase (EC 5.2.1.8) ROF...   106  1e-22
+SEQ gi|9294180|dbj|BAB02082.1| (AB026647) peptidylprolyl isomerase; ...   106  1e-22
+SEQ gi|10177347|dbj|BAB10690.1| (AB015468) peptidylprolyl isomerase ...   105  2e-22
+SEQ gi|4102827|gb|AAD01595.1| (AF016454) peptidyl-prolyl cis-trans i...   104  4e-22
+SEQ gi|4689334|gb|AAD27854.1|AF132555_1 (AF132555) BcDNA.GM07659 [Dr...   101  4e-21
+SEQ gi|4972694|gb|AAD34742.1| (AF132154) unknown [Drosophila melanog...   101  4e-21
+SEQ gi|122768|sp|P27124|FKB4_RABIT P59 PROTEIN (HSP BINDING IMMUNOPH...   101  4e-21
+SEQ gi|1942962|pdb|1ROT|    Structure Of Fkbp59-I, The N-Terminal Do...   101  4e-21
+SEQ gi|150259|gb|AAA25455.1| (M97859) rotamase [Neisseria meningitidis]   101  4e-21
+SEQ gi|281747|pir||A40211 FK506-inhibitable rotamase - Neisseria men...   101  4e-21
+SEQ gi|6753882|ref|NP_034349.1| FK506 binding protein 4 (59 kDa) [Mu...   101  4e-21
+SEQ gi|1708135|sp|P30416|FKB4_MOUSE P59 PROTEIN (HSP BINDING IMMUNOP...   101  4e-21
+SEQ gi|13097417|gb|AAH03447.1|AAH03447 (BC003447) FK506 binding prot...   101  4e-21
+SEQ gi|14270308|emb|CAC39452.1| (X17069) immunophilin FKBP-52 [Mus m...   101  4e-21
+SEQ gi|9911075|sp|P25138|FKBP_NEIMB FK506-BINDING PROTEIN (PEPTIDYL-...   100  6e-21
+SEQ gi|4503729|ref|NP_002005.1| FK506-binding protein 4 (59kD) [Homo...   100  7e-21
+SEQ gi|8388702|emb|CAB94114.1| (AL358712) peptidylprolyl isomerase/i...   100  7e-21
+SEQ gi|120225|sp|P20080|FKBP_NEUCR FK506-BINDING PROTEIN (FKBP) (PEP...   100  9e-21
+SEQ gi|9910685|sp|P56989|FKBP_NEIMA FK506-BINDING PROTEIN (PEPTIDYL-...   100  9e-21
+SEQ gi|3023751|sp|Q43207|FKB7_WHEAT 70 KDA PEPTIDYLPROLYL ISOMERASE ...   100  1e-20
+SEQ gi|7437329|pir||T06489 probable peptidylprolyl isomerase (EC 5.2...    99  1e-20
+SEQ gi|628056|pir||JT0748 FK506-binding protein - Botryllus schlosse...    99  2e-20
+SEQ gi|7500227|pir||T21594 hypothetical protein F31D4.3 - Caenorhabd...    98  2e-20
+SEQ gi|4102825|gb|AAD01594.1| (AF016453) peptidyl-prolyl cis-trans i...    98  5e-20
+SEQ gi|110055|pir||S14529 transition protein 2 - mouse >gi|54874|emb...    98  5e-20
+SEQ gi|110056|pir||S14538 transition protein - mouse                       98  5e-20
+SEQ gi|6753884|ref|NP_034350.1| FK506 binding protein 5 (51 kDa) [Mu...    97  7e-20
+SEQ gi|4894967|gb|AAD32678.1| (AF140759) FK506-binding protein FKBP5...    97  8e-20
+SEQ gi|6682108|gb|AAD33882.2|AF141937_1 (AF141937) FK506-binding pro...    97  9e-20
+SEQ gi|6478863|gb|AAD33918.2|AF143809_1 (AF143809) FK506-binding pro...    96  1e-19
+SEQ gi|1145816|gb|AAA86245.1| (U42031) FKBP54 [Homo sapiens]               95  2e-19
+SEQ gi|4758384|ref|NP_004108.1| FK506-binding protein 5; FK506-bindi...    95  2e-19
+SEQ gi|405098|gb|AAA69648.1| (U01193) FKBP immunophilin homolog [Nei...    94  4e-19
+SEQ gi|120221|sp|P28870|FKBP_CANAL FK506-BINDING PROTEIN (FKBP) (PEP...    94  4e-19
+SEQ gi|83901|pir||JN0320 rapamycin-binding protein - yeast (Candida ...    94  5e-19
+SEQ gi|405100|gb|AAA69652.1| (U01194) FKBP immunophilin homolog [Nei...    93  1e-18
+SEQ gi|405088|gb|AAB60058.1| (U01188) FKBP immunophilin homolog [Nei...    93  1e-18
+SEQ gi|541023|pir||S39850 FKBP immunophilin homolog - Neisseria lact...    93  2e-18
+SEQ gi|7509455|pir||T26537 hypothetical protein Y18D10A.19a - Caenor...    92  2e-18
+SEQ gi|4102829|gb|AAD01596.1| (AF016455) peptidyl-prolyl cis-trans i...    92  2e-18
+SEQ gi|405110|gb|AAA69653.1| (U01199) FKBP immunophilin homolog [Nei...    92  2e-18
+SEQ gi|7500654|pir||T21882 hypothetical protein F36H1.1 - Caenorhabd...    91  3e-18
+SEQ gi|11441384|ref|XP_006540.1| FK506-binding protein 2 (13kD) [Hom...    91  4e-18
+SEQ gi|6679805|ref|NP_032046.1| FK506 binding protein 2 (13 kDa) [Mu...    91  4e-18
+SEQ gi|4758382|ref|NP_004461.1| FK506-binding protein 2 (13kD) [Homo...    91  4e-18
+SEQ gi|1170958|sp|Q09734|MIP_TRYCR MACROPHAGE INFECTIVITY POTENTIATO...    91  5e-18
+SEQ gi|14041716|emb|CAC38783.1| (AJ278328) putative FK506-binding pr...    91  5e-18
+SEQ gi|6320727|ref|NP_010807.1| FKBP (FK506 binding protein) 13; pep...    89  1e-17
+SEQ gi|405104|gb|AAA69654.1| (U01196) FKBP immunophilin homolog [Nei...    87  6e-17
+SEQ gi|2104957|gb|AAB57847.1| (U96924) immunophilin [Arabidopsis tha...    87  6e-17
+SEQ gi|11355785|pir||D82331 peptidyl-prolyl cis-trans isomerase, FKB...    87  8e-17
+SEQ gi|13812004|ref|NP_113134.1| FK506-binding protein 5(PEPTIDYL-PR...    87  9e-17
+SEQ gi|6015154|sp|O46638|FKB3_RABIT RAPAMYCIN-SELECTIVE 25 KD IMMUNO...    86  1e-16
+SEQ gi|1169686|sp|P26884|FKB3_BOVIN RAPAMYCIN-SELECTIVE 25 KD IMMUNO...    86  1e-16
+SEQ gi|4503727|ref|NP_002004.1| FK506-binding protein 3 (25kD) [Homo...    85  2e-16
+SEQ gi|1827611|pdb|1PBK|    Homologous Domain Of Human Fkbp25              85  2e-16
+SEQ gi|11355789|pir||C82431 peptidyl-prolyl cis-trans isomerase-rela...    84  4e-16
+SEQ gi|13992475|emb|CAC38058.1| (AJ312905) putative FK506-binding pr...    84  4e-16
+SEQ gi|2129623|pir||S71238 probable peptidylprolyl isomerase (EC 5.2...    84  6e-16
+SEQ gi|7305061|ref|NP_038930.1| FK506-binding protein 3 (25kD) [Mus ...    84  6e-16
+SEQ gi|10177348|dbj|BAB10691.1| (AB015468) peptidyl-prolyl cis-trans...    84  6e-16
+SEQ gi|12849028|dbj|BAB28177.1| (AK012346) putative [Mus musculus]         84  7e-16
+SEQ gi|6010069|emb|CAB57241.1| (AJ270214) putative peptidyl-prolyl c...    83  1e-15
+SEQ gi|7299486|gb|AAF54674.1| (AE003692) CG14715 gene product [Droso...    83  2e-15
+SEQ gi|11358196|pir||T47691 hypothetical protein T22E16.180 - Arabid...    82  2e-15
+SEQ gi|7437328|pir||T12197 immunophilin - fava bean >gi|2104959|gb|A...    82  2e-15
+SEQ gi|7437327|pir||T12090 probable peptidylprolyl isomerase (EC 5.2...    82  3e-15
+SEQ gi|108463|pir||A40050 peptidylprolyl isomerase (EC 5.2.1.8) FKBP...    81  3e-15
+SEQ gi|2499773|sp|Q26486|FKB4_SPOFR 46 KD FK506-BINDING NUCLEAR PROT...    81  4e-15
+SEQ gi|12722330|gb|AAK03982.1| (AE006227) unknown [Pasteurella multo...    80  1e-14
+SEQ gi|1169691|sp|P44760|FKBY_HAEIN PROBABLE FKBP-TYPE PEPTIDYL-PROL...    79  1e-14
+SEQ gi|8134460|sp|O08437|FKBA_AERHY FKBP-TYPE PEPTIDYL-PROLYL CIS-TR...    79  1e-14
+SEQ gi|3929348|sp|O60046|FK21_NEUCR FK506-BINDING PROTEIN PRECURSOR ...    79  1e-14
+SEQ gi|6119680|emb|CAB59491.1| (AL132648) peptidyl-prolyl cis-trans ...    79  2e-14
+SEQ gi|1169689|sp|P45523|FKBA_ECOLI FKBP-TYPE PEPTIDYL-PROLYL CIS-TR...    79  2e-14
+SEQ gi|13363671|dbj|BAB37621.1| (AP002564) FKBP-type peptidyl-prolyl...    79  2e-14
+SEQ gi|7487577|pir||T10215 hypothetical protein T30C3.20 - Arabidops...    78  3e-14
+SEQ gi|11351634|pir||A83180 probable peptidyl-prolyl cis-trans isome...    78  3e-14
+SEQ gi|6323566|ref|NP_013637.1| Prolyl cis-trans isomerase, also cal...    78  4e-14
+SEQ gi|1706817|sp|P54397|FKB4_DROME 39 KD FK506-BINDING NUCLEAR PROT...    78  4e-14
+SEQ gi|7300000|gb|AAF55172.1| (AE003708) FK506-bp1 gene product [Dro...    78  4e-14
+SEQ gi|11350739|pir||F83075 peptidyl-prolyl cis-trans isomerase FklB...    78  4e-14
+SEQ gi|1361166|pir||S56432 peptidylprolyl isomerase (EC 5.2.1.8) - E...    78  5e-14
+SEQ gi|625740|pir||S46294 peptidylprolyl isomerase (EC 5.2.1.8) - Es...    78  5e-14
+SEQ gi|729502|sp|P39311|FKBB_ECOLI FKBP-TYPE 22 KDA PEPTIDYL-PROLYL ...    78  5e-14
+SEQ gi|6015155|sp|O74191|FKB4_SCHPO FK506-BINDING PROTEIN 39 KDA (PE...    77  7e-14
+SEQ gi|12517968|gb|AAG58454.1|AE005558_7 (AE005558) FKBP-type peptid...    77  8e-14
+SEQ gi|530998|gb|AAB04165.1| (L34569) proline rotamase [Saccharomyce...    77  9e-14
+SEQ gi|12231182|dbj|BAB20974.1| (AB045981) 65kDa FK506-binding prote...    76  1e-13
+SEQ gi|11355787|pir||F82060 peptidyl-prolyl cis-trans isomerase, FKB...    76  1e-13
+SEQ gi|9294179|dbj|BAB02081.1| (AB026647) immunophilin [Arabidopsis ...    76  1e-13
+SEQ gi|2129622|pir||S71237 probable peptidylprolyl isomerase (EC 5.2...    76  2e-13
+SEQ gi|629209|pir||S46228 peptidylprolyl isomerase (EC 5.2.1.8) FKBP...    75  3e-13
+SEQ gi|633644|emb|CAA84280.1| (Z34523) FKBP-33 [Streptomyces chrysom...    75  3e-13
+SEQ gi|12519203|gb|AAG59405.1|AE005653_6 (AE005653) FKBP-type 22KD p...    74  4e-13
+SEQ gi|6806907|ref|NP_034351.1| FK506 binding protein 6 (65 kDa) [Mu...    74  5e-13
+SEQ gi|3860029|gb|AAC72964.1| (AF090334) FK506 binding protein [Mus ...    74  5e-13
+SEQ gi|8778202|gb|AAF79215.1|AF279263_1 (AF279263) FKBP65RS [Mus mus...    74  5e-13
+SEQ gi|11362460|pir||E82659 peptidyl-prolyl cis-trans isomerase XF16...    74  5e-13
+SEQ gi|6323482|ref|NP_013554.1| 60 kDa nuclear FK506 binding protein...    73  1e-12
+SEQ gi|5572749|dbj|BAA34673.2| (AB008675) cFKBP/SMAP [Gallus gallus]       73  1e-12
+SEQ gi|9758671|dbj|BAB09210.1| (AB012245) contains similarity to FKB...    72  3e-12
+SEQ gi|3916257|gb|AAC78853.1| (AF089745) FK506-binding protein [Homo...    71  3e-12
+SEQ gi|11351633|pir||H83238 probable peptidyl-prolyl cis-trans isome...    71  4e-12
+SEQ gi|8923659|ref|NP_060416.1| hypothetical protein FLJ20731 [Homo ...    71  7e-12
+SEQ gi|4929282|gb|AAD33931.1|AF144077_1 (AF144077) immunoreactive 21...    69  1e-11
+SEQ gi|10176754|dbj|BAB09985.1| (AB010692) contains similarity to pe...    69  2e-11
+SEQ gi|1709036|sp|P51752|MIP_COXBU PEPTIDYL-PROLYL CIS-TRANS ISOMERA...    68  3e-11
+SEQ gi|12859176|dbj|BAB31559.1| (AK019132) putative [Mus musculus]         68  3e-11
+SEQ gi|7495419|pir||T31741 hypothetical protein C05C8.3 - Caenorhabd...    68  3e-11
+SEQ gi|120226|sp|P28725|FKBP_STRCH FK506-BINDING PROTEIN (PEPTIDYL-P...    68  5e-11
+SEQ gi|322265|pir||A43328 peptidylprolyl isomerase (EC 5.2.1.8) FKBP...    68  5e-11
+SEQ gi|10121715|gb|AAG13337.1|AF266217_1 (AF266217) peptidyl-proline...    67  7e-11
+SEQ gi|5138924|gb|AAD40379.1| (AF092137) FK506-binding protein [Homo...    67  8e-11
+SEQ gi|12841084|dbj|BAB25071.1| (AK007499) putative [Mus musculus]         67  9e-11
+SEQ gi|13938583|gb|AAH07443.1|AAH07443 (BC007443) Similar to FK506 b...    67  9e-11
+SEQ gi|7025503|gb|AAF35906.1|AF232672_1 (AF232672) FK506-binding pro...    67  1e-10
+SEQ gi|1723247|sp|Q10175|YAV6_SCHPO PROBABLE PEPTIDYL-PROLYL CIS-TRA...    66  1e-10
+SEQ gi|561875|gb|AAA69867.1| (L37151) immunophilin [Schistosoma mans...    66  1e-10
+SEQ gi|2133444|pir||JC4751 FK506-binding protein p50 - fluke (Schist...    66  1e-10
+SEQ gi|12721719|gb|AAK03433.1| (AE006173) SlyD [Pasteurella multocida]     66  2e-10
+SEQ gi|2231680|gb|AAC45668.1| (U91606) macrophage infectivity potent...    66  2e-10
+SEQ gi|12833932|dbj|BAB22719.1| (AK003331) putative [Mus musculus]         65  3e-10
+SEQ gi|12841605|dbj|BAB25278.1| (AK007813) putative [Mus musculus]         65  3e-10
+SEQ gi|11353783|pir||C81068 macrophage infectivity potentiator NMB15...    64  5e-10
+SEQ gi|11354001|pir||D81800 probable peptidyl-prolyl isomerase NMA17...    64  5e-10
+SEQ gi|2231714|gb|AAC45690.1| (U92206) macrophage infectivity potent...    64  6e-10
+SEQ gi|2231706|gb|AAC45686.1| (U92227) macrophage infectivity potent...    64  6e-10
+SEQ gi|7497763|pir||T29780 hypothetical protein C50F2.6 - Caenorhabd...    64  7e-10
+SEQ gi|14573970|gb|AAK68259.1|U80445_8 (U80445) Hypothetical protein...    64  7e-10
+SEQ gi|2231734|gb|AAC45700.1| (U92214) macrophage infectivity potent...    64  8e-10
+SEQ gi|2231726|gb|AAC45696.1| (U92229) macrophage infectivity potent...    63  9e-10
+SEQ gi|2231716|gb|AAC45691.1| (U92207) macrophage infectivity potent...    63  1e-09
+SEQ gi|7706131|ref|NP_057678.1| FK506 binding protein precursor [Hom...    63  1e-09
+SEQ gi|2231682|gb|AAC45669.1| (U91607) macrophage infectivity potent...    63  1e-09
+SEQ gi|11345476|ref|NP_068758.1| hypothetical protein FLJ22041 simil...    63  1e-09
+SEQ gi|2231756|gb|AAC45711.1| (U92225) macrophage infectivity potent...    63  1e-09
+SEQ gi|2231686|gb|AAC45671.1| (U91609) macrophage infectivity potent...    63  1e-09
+SEQ gi|2231736|gb|AAC45701.1| (U92215) macrophage infectivity potent...    63  1e-09
+SEQ gi|2231694|gb|AAC45675.1| (U91638) macrophage infectivity potent...    63  1e-09
+SEQ gi|13638336|sp|P26623|MIP_CHLTR PEPTIDYL-PROLYL CIS-TRANS ISOMER...    63  2e-09
+SEQ gi|280186|pir||S25255 mip-like protein precursor - Chlamydia tra...    63  2e-09
+SEQ gi|2231754|gb|AAC45710.1| (U92224) macrophage infectivity potent...    63  2e-09
+SEQ gi|2231752|gb|AAC45709.1| (U92223) macrophage infectivity potent...    63  2e-09
+SEQ gi|7521293|pir||F71272 probable peptidyl-prolyl cis-trans isomer...    63  2e-09
+SEQ gi|2231746|gb|AAC45706.1| (U92220) macrophage infectivity potent...    62  2e-09
+SEQ gi|2231724|gb|AAC45695.1| (U92210) macrophage infectivity potent...    62  2e-09
+SEQ gi|2231688|gb|AAC45672.1| (U91635) macrophage infectivity potent...    62  2e-09
+SEQ gi|13892011|gb|AAK39645.1| (AY029192) 36 kDa FK506 binding prote...    62  3e-09
+SEQ gi|14039860|gb|AAK53411.1|AF367709_1 (AF367709) FK506 binding pr...    62  3e-09
+SEQ gi|14039866|gb|AAK53413.1|AF367711_1 (AF367711) FK506 binding pr...    62  3e-09
+SEQ gi|2231732|gb|AAC45699.1| (U92213) macrophage infectivity potent...    62  3e-09
+SEQ gi|13021672|gb|AAK11511.1| (AF170336) FK506-binding protein [Xen...    62  3e-09
+SEQ gi|6806909|ref|NP_034352.1| FK506 binding protein 7 (23 kDa) [Mu...    62  3e-09
+SEQ gi|1709037|sp|P53605|MIP_LEGLO OUTER MEMBRANE PROTEIN MIP PRECUR...    62  3e-09
+SEQ gi|2231718|gb|AAC45692.1| (U92208) macrophage infectivity potent...    61  3e-09
+SEQ gi|2231720|gb|AAC45693.1| (U92209) macrophage infectivity potent...    61  4e-09
+SEQ gi|2231690|gb|AAC45673.1| (U91636) macrophage infectivity potent...    61  4e-09
+SEQ gi|2231744|gb|AAC45705.1| (U92219) macrophage infectivity potent...    61  4e-09
+SEQ gi|14164448|dbj|BAB55700.1| (AP003075) putative peptidylprolyl i...    61  4e-09
+SEQ gi|182642|gb|AAA58474.1| (M90820) rapamycin-binding protein [Hom...    61  5e-09
+SEQ gi|2231692|gb|AAC45674.1| (U91637) macrophage infectivity potent...    61  5e-09
+SEQ gi|4583155|gb|AAD24965.1|AF108212_1 (AF108212) macrophage infect...    61  5e-09
+SEQ gi|14164441|dbj|BAB55693.1| (AP003075) putative peptidylprolyl i...    61  6e-09
+SEQ gi|2231750|gb|AAC45708.1| (U92222) macrophage infectivity potent...    61  7e-09
+SEQ gi|2231758|gb|AAC45712.1| (U92226) macrophage infectivity potent...    60  7e-09
+SEQ gi|2231728|gb|AAC45697.1| (U92211) macrophage infectivity potent...    60  7e-09
+SEQ gi|127105|sp|P20380|MIP_LEGPN OUTER MEMBRANE PROTEIN MIP PRECURS...    60  8e-09
+SEQ gi|281714|pir||S22665 mip protein - Legionella pneumophila >gi|2...    60  8e-09
+SEQ gi|6958236|gb|AAF32508.1|AF095229_1 (AF095229) macrophage infect...    60  8e-09
+SEQ gi|6958238|gb|AAF32509.1|AF095230_1 (AF095230) macrophage infect...    60  8e-09
+SEQ gi|7249222|gb|AAB19821.2| (S62141) Mip [Tatlockia micdadei]            60  8e-09
+SEQ gi|4503731|ref|NP_003593.1| FK506-binding protein 6 (36kD) [Homo...    60  9e-09
+SEQ gi|400262|sp|P31106|MIP_LEGMI OUTER MEMBRANE PROTEIN MIP PRECURS...    60  1e-08
+SEQ gi|4699966|gb|AAD28066.1|AC006014_7 (AC006014) similar to FK506 ...    59  1e-08
+SEQ gi|2231738|gb|AAC45702.1| (U92216) macrophage infectivity potent...    59  1e-08
+SEQ gi|2231742|gb|AAC45704.1| (U92218) macrophage infectivity potent...    59  1e-08
+SEQ gi|2231712|gb|AAC45689.1| (U92205) macrophage infectivity potent...    59  2e-08
+SEQ gi|2231748|gb|AAC45707.1| (U92221) macrophage infectivity potent...    59  2e-08
+SEQ gi|2231730|gb|AAC45698.1| (U92212) macrophage infectivity potent...    59  2e-08
+SEQ gi|2231708|gb|AAC45687.1| (U92203) macrophage infectivity potent...    59  2e-08
+SEQ gi|2231710|gb|AAC45688.1| (U92204) macrophage infectivity potent...    59  2e-08
+SEQ gi|2231740|gb|AAC45703.1| (U92217) macrophage infectivity potent...    59  2e-08
+SEQ gi|7510774|pir||T27586 hypothetical protein ZC455.10 - Caenorhab...    59  2e-08
+SEQ gi|8979824|emb|CAB96826.1| (AL109658) dJ776F14.3 (FK506-binding ...    58  3e-08
+SEQ gi|11362454|pir||D81660 peptidyl-prolyl cis-trans isomerase Mip ...    58  3e-08
+SEQ gi|13629401|sp|Q9PJK1|MIP_CHLMU PEPTIDYL-PROLYL CIS-TRANS ISOMER...    58  3e-08
+SEQ gi|11386818|sp|P57599|FKBA_BUCAI FKBP-TYPE PEPTIDYL-PROLYL CIS-T...    58  4e-08
+SEQ gi|6118526|gb|AAF04134.1|AF191033_2 (AF191033) FK506 binding pro...    58  4e-08
+SEQ gi|2231684|gb|AAC45670.1| (U91608) macrophage infectivity potent...    58  4e-08
+SEQ gi|5759283|gb|AAD51070.1|AF175717_1 (AF175717) immunoreactive 30...    58  4e-08
+SEQ gi|6573258|gb|AAF17608.1| (AF205192) FKBP-12 [Homo sapiens]            57  7e-08
+SEQ gi|12321952|gb|AAG51009.1|AC069474_8 (AC069474) FKBP-type peptid...    57  7e-08
+SEQ gi|6686798|emb|CAB64721.1| (AJ242481) FKBP like protein [Arabido...    56  1e-07
+SEQ gi|11360205|pir||T42709 hypothetical protein DKFZp586I0821.1 - h...    56  2e-07
+SEQ gi|10438522|dbj|BAB15266.1| (AK025874) unnamed protein product [...    56  2e-07
+SEQ gi|13424401|gb|AAK24763.1| (AE005945) peptidyl-prolyl cis-trans ...    56  2e-07
+SEQ gi|1169690|sp|P42458|FKBP_CORGL PROBABLE FK506-BINDING PROTEIN (...    56  2e-07
+SEQ gi|12322045|gb|AAG51068.1|AC069472_8 (AC069472) FKBP-type peptid...    55  3e-07
+SEQ gi|1480736|gb|AAB05769.1| (U62545) FK506-binding protein 25 homo...    54  4e-07
+SEQ gi|2289010|gb|AAB64339.1| (AC002335) putative FKBP type peptidyl...    54  4e-07
+SEQ gi|6912368|ref|NP_036313.1| FK506-binding protein 8 (38kD) [Homo...    54  6e-07
+SEQ gi|13633339|ref|XP_009285.2| FK506-binding protein 8 (38kD) [Hom...    54  6e-07
+SEQ gi|6119681|emb|CAB59492.1| (AL132648) putative secreted peptidyl...    54  6e-07
+SEQ gi|6686802|emb|CAB64723.1| (AJ242483) FKBP like protein [Arabido...    54  7e-07
+SEQ gi|77655|pir||JQ0140 hypothetical 25.3K protein - Pseudomonas ae...    54  8e-07
+SEQ gi|348690|gb|AAA72067.1| (M32077) FKBP-like protein [Pseudomonas...    54  8e-07
+SEQ gi|11351636|pir||D82988 probable peptidyl-prolyl cis-trans isome...    54  8e-07
+SEQ gi|12231005|sp|P30417|FKBZ_PSEAE PROBABLE FKBP-TYPE 25 KDA PEPTI...    54  8e-07
+SEQ gi|13629405|sp|Q9Z7P3|MIP_CHLPN PEPTIDYL-PROLYL CIS-TRANS ISOMER...    53  1e-06
+SEQ gi|4768990|gb|AAD29708.1|AF140495_1 (AF140495) FK506 binding pro...    53  1e-06
+SEQ gi|2547395|gb|AAB81393.1| (AF022345) macrophage infectivity pote...    53  1e-06
+SEQ gi|2627442|gb|AAB86696.1| (AF022350) macrophage infectivity pote...    52  2e-06
+SEQ gi|6857787|ref|NP_034353.1| FK506 binding protein 8 (38 kDa) [Mu...    52  2e-06
+SEQ gi|6686804|emb|CAB64724.1| (AJ242484) FKBP-l ke gene [Arabidopsi...    52  2e-06
+SEQ gi|2547391|gb|AAB81391.1| (AF022343) macrophage infectivity pote...    52  2e-06
+SEQ gi|2627452|gb|AAB86701.1| (AF022355) macrophage infectivity pote...    52  2e-06
+SEQ gi|3002978|gb|AAC08972.1| (AF047748) macrophage infectivity pote...    52  2e-06
+SEQ gi|2327050|gb|AAC45694.1| (U92228) macrophage infectivity potent...    52  2e-06
+SEQ gi|2547383|gb|AAB81387.1| (AF022339) macrophage infectivity pote...    52  2e-06
+SEQ gi|2547379|gb|AAB81385.1| (AF022337) macrophage infectivity pote...    52  3e-06
+SEQ gi|666877|gb|AAB41346.1| (L39892) mip [Chlamydophila caviae]           52  3e-06
+SEQ gi|2547381|gb|AAB81386.1| (AF022338) macrophage infectivity pote...    51  3e-06
+SEQ gi|2547329|gb|AAB81360.1| (AF022312) macrophage infectivity pote...    51  4e-06
+SEQ gi|2547321|gb|AAB81356.1| (AF022308) macrophage infectivity pote...    51  4e-06
+SEQ gi|2547397|gb|AAB81394.1| (AF022346) macrophage infectivity pote...    51  5e-06
+SEQ gi|2627462|gb|AAB86706.1| (AF023173) macrophage infectivity pote...    51  5e-06
+SEQ gi|13277663|gb|AAH03739.1|AAH03739 (BC003739) FK506 binding prot...    51  5e-06
+SEQ gi|13425390|gb|AAK25598.1| (AE006022) peptidyl-prolyl cis-trans ...    51  5e-06
+SEQ gi|4585368|gb|AAD25401.1|AF122823_1 (AF122823) FKBP-like protein...    50  8e-06
+SEQ gi|5410288|gb|AAD43015.1| (AF100751) FK506-binding protein FKB23...    50  8e-06
+SEQ gi|5081759|gb|AAD39525.1|AF148983_1 (AF148983) macrophage infect...    50  9e-06
+SEQ gi|5081761|gb|AAD39526.1|AF148984_1 (AF148984) macrophage infect...    50  9e-06
+SEQ gi|5081769|gb|AAD39530.1|AF148988_1 (AF148988) macrophage infect...    50  9e-06
+SEQ gi|2627456|gb|AAB86703.1| (AF022357) macrophage infectivity pote...    50  1e-05
+SEQ gi|2627458|gb|AAB86704.1| (AF022358) macrophage infectivity pote...    50  1e-05
+SEQ gi|3002972|gb|AAC08969.1| (AF047745) macrophage infectivity pote...    50  1e-05
+SEQ gi|2627448|gb|AAB86699.1| (AF022353) macrophage infectivity pote...    50  1e-05
+SEQ gi|5081757|gb|AAD39524.1|AF148982_1 (AF148982) macrophage infect...    49  1e-05
+SEQ gi|5081765|gb|AAD39528.1|AF148986_1 (AF148986) macrophage infect...    49  1e-05
+SEQ gi|2547331|gb|AAB81361.1| (AF022313) macrophage infectivity pote...    49  1e-05
+SEQ gi|2547393|gb|AAB81392.1| (AF022344) macrophage infectivity pote...    49  2e-05
+SEQ gi|3002992|gb|AAC08979.1| (AF047755) macrophage infectivity pote...    49  2e-05
+SEQ gi|9650631|emb|CAC00654.1| (AJ224640) FKBP-like [Arabidopsis tha...    49  2e-05
+SEQ gi|3002988|gb|AAC08977.1| (AF047753) macrophage infectivity pote...    49  2e-05
+SEQ gi|2547333|gb|AAB81362.1| (AF022314) macrophage infectivity pote...    49  2e-05
+SEQ gi|1402795|gb|AAB03461.1| (U60163) Mip [Legionella fairfieldensis]     49  2e-05
+SEQ gi|1402797|gb|AAB03462.1| (U60164) Mip [Legionella worsleiensis]       49  2e-05
+SEQ gi|2547337|gb|AAB81364.1| (AF022316) macrophage infectivity pote...    49  2e-05
+SEQ gi|2547339|gb|AAB81365.1| (AF022317) macrophage infectivity pote...    49  2e-05
+SEQ gi|2547341|gb|AAB81366.1| (AF022318) macrophage infectivity pote...    49  2e-05
+SEQ gi|2547343|gb|AAB81367.1| (AF022319) macrophage infectivity pote...    49  2e-05
+SEQ gi|2547347|gb|AAB81369.1| (AF022321) macrophage infectivity pote...    49  2e-05
+SEQ gi|2547349|gb|AAB81370.1| (AF022322) macrophage infectivity pote...    49  2e-05
+SEQ gi|2547367|gb|AAB81379.1| (AF022331) macrophage infectivity pote...    49  2e-05
+SEQ gi|2547371|gb|AAB81381.1| (AF022333) macrophage infectivity pote...    49  2e-05
+SEQ gi|2627466|gb|AAB86708.1| (AF023175) macrophage infectivity pote...    49  2e-05
+SEQ gi|3002984|gb|AAC08975.1| (AF047751) macrophage infectivity pote...    49  2e-05
+SEQ gi|5081767|gb|AAD39529.1|AF148987_1 (AF148987) macrophage infect...    48  3e-05
+SEQ gi|2627446|gb|AAB86698.1| (AF022352) macrophage infectivity pote...    48  3e-05
+SEQ gi|2547389|gb|AAB81390.1| (AF022342) macrophage infectivity pote...    48  4e-05
+SEQ gi|2547387|gb|AAB81389.1| (AF022341) macrophage infectivity pote...    48  4e-05
+SEQ gi|3002976|gb|AAC08971.1| (AF047747) macrophage infectivity pote...    48  4e-05
+SEQ gi|2547385|gb|AAB81388.1| (AF022340) macrophage infectivity pote...    48  5e-05
+SEQ gi|2627464|gb|AAB86707.1| (AF023174) macrophage infectivity pote...    48  5e-05
+SEQ gi|2627444|gb|AAB86697.1| (AF022351) macrophage infectivity pote...    47  5e-05
+SEQ gi|7513061|pir||T00363 hypothetical protein KIAA0674 - human (fr...    47  5e-05
+SEQ gi|7302580|gb|AAF57662.1| (AE003798) CG5482 gene product [Drosop...    47  6e-05
+SEQ gi|2627454|gb|AAB86702.1| (AF022356) macrophage infectivity pote...    47  7e-05
+SEQ gi|3002990|gb|AAC08978.1| (AF047754) macrophage infectivity pote...    47  7e-05
+SEQ gi|3002970|gb|AAC08968.1| (AF047744) macrophage infectivity pote...    47  9e-05
+SEQ gi|2547401|gb|AAB81396.1| (AF022348) macrophage infectivity pote...    47  1e-04
+SEQ gi|3002968|gb|AAC08967.1| (AF047743) macrophage infectivity pote...    46  1e-04
+SEQ gi|3002994|gb|AAC08980.1| (AF047756) macrophage infectivity pote...    46  1e-04
+SEQ gi|7487069|pir||T04764 hypothetical protein T16H5.190 - Arabidop...    46  2e-04
+SEQ gi|6143884|gb|AAF04431.1|AC010927_24 (AC010927) unknown protein ...    44  5e-04
+SEQ gi|2547377|gb|AAB81384.1| (AF022336) macrophage infectivity pote...    44  5e-04
+SEQ gi|140157|sp|P22563|FKBX_ECOLI FKBP-TYPE 16 KDA PEPTIDYL-PROLYL ...    44  5e-04
+SEQ gi|3080738|gb|AAC39444.1| (U77365) pasticcino 1-A [Arabidopsis t...    44  8e-04
+SEQ gi|3080740|gb|AAC39445.1| (U77366) pasticcino 1-D [Arabidopsis t...    44  8e-04
+SEQ gi|11358599|pir||T45941 pasticcino 1 - Arabidopsis thaliana >gi|...    44  8e-04
+SEQ 
+## SEQUENCE PROFILE AND ENTROPY
+ SeqNo PDBNo   V   L   I   M   F   W   Y   G   A   P   S   T   C   H   R   K   Q   E   N   D  NOCC NDEL NINS ENTROPY RELENT WEIGHT
+    1    1     0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+    2    2    28  68   4   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.759     25  0.00
+    3    3     3   6   2   0   0   0   0   0   0   0   1   1   0   2   1   8  67   5   0   3     0    0    0   1.361     45  0.00
+    4    4    17   1  13   1   3   0  53   0   0   0   0   1   0   1   2   8   0   0   0   0     0    0    0   1.463     48  0.00
+    5    5     2   0   0   0   0   0   0   0   0   0   3   1   0   0   4  53   7  24   0   5     0    0    0   1.454     48  0.00
+    6    6    31   2  35   0   0   0   0   0   0   1   0  17   0   0   1   0   0   3   0   8     0    0    0   1.613     53  0.00
+    7    7     8  32  52   1   0   0   0   0   0   0   0   1   0   0   1   0   1   1   0   1     0    0    0   1.278     42  0.00
+    8    8     6   1   1   0   0   1   0   0   2   1  14   3   0   0   7  21   9  21   8   5     0    0    0   2.238     74  0.00
+    9    9     2   0   1   1   0   0   0   0  24  22   5   5   0   0   4  13   4  18   0   0     0    0    0   2.011     67  0.00
+   10   10     0   0   0   0   0   0   0  89   1   3   1   0   0   0   0   0   0   3   0   0     0    0    0   0.541     18  0.00
+   11   11     1   0   0   0   1   0   1   1   1   1   7  22   1   2   0   5   3   8  14  33     0    0    0   1.973     65  0.00
+   12   12     1   0   0   0   0   0   0  83   0   0   1   0   6   0   0   5   0   0   2   0     0    0    0   0.730     24  0.00
+   13   13     2   0   0   0   0   1   4   0  27   5   7  11   1   0  12   7   3   6   7   5     0    0    0   2.345     78  0.00
+   14   14    13   1   0   0   0   0   0   1   5   2   5  17   0   0   4  31   3  14   4   1     0    0    0   2.087     69  0.00
+   15   15     6   9   9   3  24   0   2   0   4   0   2  13   0   2   8  18   0   1   1   1     0    0    0   2.257     75  0.00
+   16   16     3   0   0   0   0   0   0   2   9  78   6   2   0   0   0   0   0   0   0   0     0    0    0   0.869     29  0.00
+   17   17     2   2   1   4   0   0   0  21  11   2   6   7   1   1   4  30   2   4   3   0     0    0    0   2.184     72  0.00
+   18   18     1   3   6   0   0   0   0   1   5   3   3   2   0   0   9  51   2   3   6   6     0    0    0   1.881     62  0.00
+   19   19     0   0   0   0   0   0   0  56   3   0  15   6   0   0   0   1   0   8   1  10     0    0    0   1.415     47  0.00
+   20   20     0   0   0   0   1   0   0   1   4   2   2   1   1   0   0   5  16   0   1  67     0    0    0   1.226     40  0.00
+   21   21    12   4   3   1   4   0   2   0   1   0   4  47   0   0   9   6   1   4   2   0     0    0    0   1.910     63  0.00
+   22   22    72   9   7   1   0   0   0   0   2   0   0   0   7   1   0   0   0   0   0   0     0    0    0   1.027     34  0.00
+   23   23    10   4   1   0   3   0   2   1   1   0   5  41   0   7   7   9   2   4   2   1     0    0    0   2.125     70  0.00
+   24   24    72   3   5   4   0   0   6   0   2   0   0   1   5   0   0   0   1   0   0   0     0    0    0   1.163     38  0.00
+   25   25     0   1   0   0   0   3   2   0   0   0   0   0   0  54   3   3   2  27   4   1     0    0    0   1.418     47  0.00
+   26   26     0   3   1   0   2   0  93   0   0   0   0   0   1   0   0   0   0   0   0   0     0    0    0   0.334     11  0.00
+   27   27     9   1   4   0   0   0   0   1   0   0   2  57   0   1   3   5   1   4  11   1     0    0    0   1.615     53  0.00
+   28   28     0   3   1   1   0   0   0  90   3   0   0   1   2   0   0   0   0   0   0   0     0    0    0   0.523     17  0.00
+   29   29     2   2   1   9   0   6   3   0   0   0  10  28   0   1  17  20   1   1   0   0     0    0    0   2.046     68  0.00
+   30   30     0  86   1   0   8   1   0   1   1   0   0   2   0   0   0   0   0   0   1   0     0    0    0   0.638     21  0.00
+   31   31     4  16  32   2   0   1   1   0   2   2   2   4   0   0   0   4   8  19   0   1     0    0    0   2.099     70  0.00
+   32   32     0   0   0   0   0   0   0   1   0   0   3   1   0   1   0   1   1   0  19  73     0    0    0   0.874     29  0.00
+   33   33     0   0   0   0   0   0   0  94   0   0   1   0   1   0   0   0   0   1   1   1     0    0    0   0.318     10  0.00
+   34   34     0   0   1   0   0   0   1   0   1   0   2  49   0   0   2  20  17   6   1   0     0    0    0   1.538     51  0.00
+   35   35    46   8   3   0   1   0   1   0   0   1   1   2   0   0   1  27   2   7   0   0     0    0    0   1.593     53  0.00
+   36   36     2   3   3   1  88   0   1   0   1   0   1   1   0   0   0   0   0   0   0   0     0    0    0   0.570     19  0.00
+   37   37     0   0   0   0   3   1   1   0   0   0   1   0   0   0   0   2   0   2   0  89     0    0    0   0.558     18  0.00
+   38   38     0   0   0   0   0   0   0   1   2   0  81   6   1   0   0   3   1   0   4   1     0    0    0   0.873     29  0.00
+   39   39     0   0   0   0   0   0   0   1   0   0  55  33   0   1   0   3   0   0   6   0     0    0    0   1.108     36  0.00
+   40   40     5  10   2   0   3   3  14   1   0   0   0   1   1   6  18   4   2  23   0   6     0    0    0   2.300     76  0.00
+   41   41     1   1   0   0   2   0   0   2   3   1  10   4   0   0   3  30   1   7   5  29     0    0    0   1.989     66  0.00
+   42   42     0   1   0   0   0   0   2   1   6   0   4  19   0   1  49   5   3   2   6   1     0    0    0   1.738     58  0.00
+   43   43     0   0   0   1   0   0   0  52   2   0   2   0   0   0   3   7   1   5  20   6     0    0    0   1.578     52  0.00
+   44   44     2   1   0   0   0   0   0   1   3   0   3   8   0   2   3  48  10  12   1   6     0    0    0   1.831     61  0.00
+   45   45     0   1   0   0   0   0   0   1   0  83   0  10   0   0   0   3   0   1   0   0     0    0    0   0.711     23  0.00
+   46   46     3  13   5   0  34   0   7   0  32   0   0   1   0   0   1   1   2   0   0   0     0    0    0   1.685     56  0.00
+   47   47     6   3   2   0   0   1   0   1   3   0   9  36   0   0   2  12   3  11   5   6     0    0    0   2.143     71  0.00
+   48   48     2   3   8   2  75   0   1   0   1   0   0   6   2   0   0   0   0   0   0   0     0    0    0   1.039     34  0.00
+   49   49     5   0   2   3   1   1   6   1   1   7   5  13   0   0   7  25  17   3   1   3     0    0    0   2.387     79  0.00
+   50   50    37  45  13   1   1   0   0   0   0   0   1   2   0   0   0   0   0   1   0   0     0    0    0   1.238     41  0.00
+   51   51     0   0   0   0   0   0   0  86   2   1   0   2   0   0   0   0   0   0   4   4     0    0    0   0.668     22  0.00
+   52   52    15   3   4   2   1   0   0   6   7   0   9   3   0   0   3  24  12   7   2   3     0    0    0   2.377     79  0.00
+   53   53     0   0   0   0   0   0   0  44   1   0  30   1   1   0   1   2   7   4   3   5     0    0    0   1.610     53  0.00
+   54   54     1   1   1   1   0   3   3   3   1   0   3   0   0   1   2   7  52  17   2   2     0    0    0   1.748     58  0.00
+   55   55    88   7   2   1   0   0   0   0   0   0   0   3   0   0   0   0   0   0   0   0     0    0    0   0.536     17  0.00
+   56   56     4   3  92   1   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0     0    0    0   0.402     13  0.00
+   57   57     0   2   1   0   0   1   0   0   3  39   2   1   0   0  10  31   3   5   0   2     0    0    0   1.699     56  0.00
+   58   58     0   0   0   0   0   0   0  93   7   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.272      9  0.00
+   59   59     1  12   1  11   5  70   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.973     32  0.00
+   60   60     1   1   1   0   0   0   0   0   1   0   3  30   0   0   1   1   1  11   1  48     0    0    0   1.445     48  0.00
+   61   61     3   4  11   4   0   0   1   0   1   0   0   3   0   0   3   3  15  51   1   0     0    0    0   1.678     56  0.00
+   62   62     1   0   0   0   0   0   0  51  43   0   3   1   1   0   0   0   0   0   1   0     0    0    0   0.994     33  0.00
+   63   63    24  61   6   4   3   0   0   0   1   0   0   1   0   0   0   0   0   0   0   0     0    0    0   1.148     38  0.00
+   64   64     3  17   1   3   0   0   0   3  16   6   2   3   0   0   4   4  36   2   1   0     0    0    0   2.035     67  0.00
+   65   65     0  34   0   1   0   0   0  27   1   1   4  12   0   0   1   4   8   1   3   3     0    0    0   1.874     62  0.00
+   66   66     3   3   2  89   0   0   0   0   2   0   0   0   0   0   0   1   1   0   0   0     0    0    0   0.536     17  0.00
+   67   67     0   2   0   0   0   0   0   0   0  30  14   1  20   1   4  24   3   0   1   1     0    0    0   1.795     59  0.00
+   68   68    37   3   3   1   0   0   0   0  25   3   3   1   0   0   1  13   1  10   0   0     0    0    0   1.776     59  0.00
+   69   69     0   0   0   0   0   0   0  97   0   0   0   0   0   0   0   0   0   0   2   0     0    0    0   0.145      4  0.00
+   70   70     0   0   0   0   0   0   0  12   2   0  31   1   0   0   0   0   7  45   0   2     0    0    0   1.373     45  0.00
+   71   71     8   2   6   0   0   0   0   0   0   0   0  27   0   0  20  31   1   3   2   0     0    0    0   1.761     58  0.00
+   72   72     2   0   2   0   1  31   1   0  23   0   3   1   5   0  32   0   0   0   0   0     0    0    0   1.571     52  0.00
+   73   73     3   6   4   1   1   0   0   0   0   0   1   5   0   4  18  22   4  31   0   0     0    0    0   1.969     65  0.00
+   74   74    23  40  27   0   7   0   0   0   2   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.335     44  0.00
+   75   75    11   3  11   0   4   0  29   0   1   0   1  30   0   1   2   3   1   3   0   0     0    0    0   1.933     64  0.00
+   76   76    31   2  52   0   1   0   0   0   2   0   0   0  10   0   0   0   0   0   0   0     0    0    0   1.184     39  0.00
+   77   77     0   0   0   0   0   0   0   1   1  72   8   2   0   2   0   7   1   3   0   3     0    0    0   1.128     37  0.00
+   78   78     0   0   0   0   0   0   0   2  18  49  28   0   0   1   0   0   1   0   0   0     0    0    0   1.208     40  0.00
+   79   79     0   0   0   0   3   0   0   7   6   2   5   0   0  12   0   5   2  23   6  29     0    0    0   2.056     68  0.00
+   80   80     1  63   0   6   2   3  21   0   1   0   0   0   0   1   0   0   2   0   0   0     0    0    0   1.179     39  0.00
+   81   81     0   0   0   0   0   0   0  19  79   0   0   0   1   0   0   0   0   0   0   0     0    0    0   0.590     19  0.00
+   82   82     0   0   0   0   4   0  94   0   0   0   0   0   0   2   0   0   0   0   0   0     0    0    0   0.309     10  0.00
+   83   83     0   0   0   0   0   0   0  96   0   0   1   1   0   0   1   0   0   0   0   1     0    0    0   0.232      7  0.00
+   84   84     1   0   0   0   0   0   0   1  17  17  13   4   0   1   1  12   1  23   1   6     0    0    0   2.106     70  0.00
+   85   85     1   2   1   0   1   0   0   1  11   0   7  10   0   3  29   9  10   8   4   1     0    0    0   2.265     75  0.00
+   86   86     0   0   0   0   0   0   0  74   2   2  16   0   0   0   0   1   1   2   0   1     0    0    0   0.909     30  0.00
+   87   87    23   3   3   0   3   0   4   1  17   1  15   3   1   9   6   1   7   0   2   1     0    0    0   2.375     79  0.00
+   88   88     0   2   1   0   0   0   0  33   5  41   4   0   0   0   3   2   2   3   0   2     0    0    0   1.687     56  0.00
+   89   89     0   0   0   0   0   0   0  52  10  25   1   2   1   0   0   1   1   3   1   3     0    0    0   1.463     48  0.00
+   90   90    15   8   8   1   1   1   1   2   4  17   7   5   0   1   0  18   2   3   1   3     0    0    0   2.458     82  0.00
+   91   91     9   2  87   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.499     16  0.00
+   92   92     0   1   0   0   0   0   0  17   2  76   1   0   0   0   0   2   1   1   0   0     0    0    0   0.834     27  0.00
+   93   93     0   0   0   0   0   0   0  15  10  66   3   0   0   0   1   2   0   1   0   1     0    0    0   1.151     38  0.00
+   94   94     0   0   0   0   2   0   0   8   0   0   8   0   0  10   0   1   3   0  55  10     0    0    0   1.562     52  0.00
+   95   95     0   0   0   0   0   0   0   0  55   0  23   3   0   0   1   1   0  16   0   1     0    0    0   1.208     40  0.00
+   96   96    14   2   0   0   0   2   0   0   2   2   6  63   0   1   2   2   0   1   0   1     0    0    0   1.451     48  0.00
+   97   97     7  92   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.309     10  0.00
+   98   98    32   6  35   1   3   0   2   0   0   0   0   6   1   2   1   3   4   2   0   0     0    0    0   1.846     61  0.00
+   99   99     0   2   0   0  90   1   6   0   0   0   0   0   1   0   0   0   0   0   0   0     0    0    0   0.453     15  0.00
+  100  100     2   0   1   0   0   0   0   0   1   0   0   1   0   1   1  15   0  38   2  37     0    0    0   1.441     48  0.00
+  101  101    60   2  34   1   0   0   0   0   0   0   0   3   1   0   0   0   0   0   0   0     0    0    0   0.915     30  0.00
+  102  102     2   3   0   0   0   0   0   0   1   0   1   2   0  17   1   5   0  60   1   7     0    0    0   1.399     46  0.00
+  103  103     5  91   2   1   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.425     14  0.00
+  104  104    15  45  31   2   4   0   0   0   0   0   0   0   0   0   0   1   0   1   0   0     0    0    0   1.378     46  0.00
+  105  105     0   0   0   0   0   0   0   5   4   0  29   2   0   0   2  22   0  16   4  13     0    0    0   1.906     63  0.00
+  106  106    34  23  27   2   9   0   0   0   2   0   0   0   0   0   3   0   0   0   0   0     0    0    0   1.538     51  0.00
+  107  107     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  51   3  36   0  10     0    0    0   1.038     34  0.00
+//

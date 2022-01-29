@@ -1,0 +1,721 @@
+ID Pseudo hssp file.
+SEQ 
+SEQ gi|122853|sp|P03437|HEMA_IAAIC HEMAGGLUTININ PRECURSOR [CONTAINS...   352  2e-96
+SEQ gi|324239|gb|AAA43239.1| (M55059) hemagglutinin [Influenza A virus]   352  2e-96
+SEQ gi|122922|sp|P03436|HEMA_IANT6 HEMAGGLUTININ PRECURSOR [CONTAINS...   351  5e-96
+SEQ gi|324157|gb|AAA43189.1| (J02135) hemagglutinin prepropeptide [I...   351  5e-96
+SEQ gi|11595852|emb|CAC18525.1| (AJ289703) haemagglutinin [Influenza...   351  5e-96
+SEQ gi|14009692|gb|AAK51718.1| (AF348176) hemagglutinin [Influenza A...   351  5e-96
+SEQ gi|75021|pir||HMIV21 hemagglutinin precursor - influenza A virus...   350  7e-96
+SEQ gi|14009694|gb|AAK51719.1| (AF348177) hemagglutinin [Influenza A...   349  2e-95
+SEQ gi|608636|gb|AAA64228.1| (L32024) hemagglutinin [Influenza A virus]   349  2e-95
+SEQ gi|122873|sp|P12586|HEMA_IADH5 HEMAGGLUTININ PRECURSOR [CONTAINS...   348  3e-95
+SEQ gi|122948|sp|P11134|HEMA_IAZH3 HEMAGGLUTININ [CONTAINS: HEMAGGLU...   347  4e-95
+SEQ gi|75018|pir||HMIV80 hemagglutinin precursor - influenza A virus...   347  4e-95
+SEQ gi|122871|sp|P12584|HEMA_IADH3 HEMAGGLUTININ PRECURSOR [CONTAINS...   347  4e-95
+SEQ gi|122872|sp|P12585|HEMA_IADH4 HEMAGGLUTININ PRECURSOR [CONTAINS...   347  4e-95
+SEQ gi|1170225|sp|P43258|HEMA_IADHL HEMAGGLUTININ PRECURSOR [CONTAIN...   347  4e-95
+SEQ gi|122870|sp|P12583|HEMA_IADH2 HEMAGGLUTININ PRECURSOR [CONTAINS...   347  4e-95
+SEQ gi|122917|sp|P26138|HEMA_IAMAO HEMAGGLUTININ PRECURSOR [CONTAINS...   347  4e-95
+SEQ gi|324209|gb|AAA43211.1| (M19056) hemagglutinin precursor [Influ...   347  4e-95
+SEQ gi|122918|sp|P03449|HEMA_IAME1 HEMAGGLUTININ PRECURSOR [CONTAINS...   347  5e-95
+SEQ gi|1335396|emb|CAA24291.1| (V01103) HA 2 [Influenza A virus]          347  5e-95
+SEQ gi|122885|sp|P03440|HEMA_IAEN7 HEMAGGLUTININ PRECURSOR [CONTAINS...   347  6e-95
+SEQ gi|122942|sp|P03435|HEMA_IAVI7 HEMAGGLUTININ PRECURSOR [CONTAINS...   347  6e-95
+SEQ gi|6730015|pdb|1HA0|A Chain A, Hemagglutinin Precursor Ha0            346  9e-95
+SEQ gi|1170224|sp|P43257|HEMA_IADHK HEMAGGLUTININ PRECURSOR [CONTAIN...   346  1e-94
+SEQ gi|122946|sp|P26139|HEMA_IAZCO HEMAGGLUTININ PRECURSOR [CONTAINS...   346  1e-94
+SEQ gi|476212|gb|AAC79579.1| (U08905) haemagglutinin precursor [Infl...   346  1e-94
+SEQ gi|497236|gb|AAA18781.1| (U08858) hemagglutinins HA1 and HA2 pre...   346  1e-94
+SEQ gi|497238|gb|AAA18782.1| (U08859) hemagglutinins HA1 and HA2 pre...   346  1e-94
+SEQ gi|75022|pir||HMIV98 hemagglutinin precursor - influenza A virus...   346  2e-94
+SEQ gi|122875|sp|P12588|HEMA_IADH7 HEMAGGLUTININ PRECURSOR [CONTAINS...   346  2e-94
+SEQ gi|122874|sp|P12587|HEMA_IADH6 HEMAGGLUTININ PRECURSOR [CONTAINS...   346  2e-94
+SEQ gi|122883|sp|P03442|HEMA_IADU3 HEMAGGLUTININ PRECURSOR [CONTAINS...   345  2e-94
+SEQ gi|122919|sp|P03439|HEMA_IAME2 HEMAGGLUTININ PRECURSOR [CONTAINS...   345  2e-94
+SEQ gi|1335395|emb|CAA24273.1| (V01089) haemagglutinin [Influenza A ...   345  2e-94
+SEQ gi|460240|gb|AAA85781.1| (U07146) hemagglutinin [Influenza A virus]   345  2e-94
+SEQ gi|122869|sp|P12582|HEMA_IADH1 HEMAGGLUTININ PRECURSOR [CONTAINS...   345  2e-94
+SEQ gi|122865|sp|P26134|HEMA_IADA3 HEMAGGLUTININ PRECURSOR [CONTAINS...   345  2e-94
+SEQ gi|324098|gb|AAA43151.1| (M65018) hemagglutinin [Influenza A virus]   345  3e-94
+SEQ gi|608638|gb|AAA64229.1| (L31949) hemagglutinin [Influenza A virus]   344  4e-94
+SEQ gi|122920|sp|P12589|HEMA_IAME6 HEMAGGLUTININ PRECURSOR [CONTAINS...   344  5e-94
+SEQ gi|857408|gb|AAA87553.1| (U26830) hemagglutinin [Influenza A virus]   344  5e-94
+SEQ gi|1170227|sp|P43260|HEMA_IAGHK HEMAGGLUTININ PRECURSOR [CONTAIN...   344  5e-94
+SEQ gi|75016|pir||HMIVS3 hemagglutinin precursor - influenza A virus...   344  6e-94
+SEQ gi|324211|gb|AAA43212.1| (M19057) hemagglutinin precursor [Influ...   344  6e-94
+SEQ gi|3123223|sp|P11133|HEMA_IAZH2 HEMAGGLUTININ [CONTAINS: HEMAGGL...   344  6e-94
+SEQ gi|9887130|gb|AAG01758.1|AF251403_1 (AF251403) hemagglutinin [In...   343  7e-94
+SEQ gi|1170226|sp|P43259|HEMA_IADHM HEMAGGLUTININ PRECURSOR [CONTAIN...   343  8e-94
+SEQ gi|227664|prf||1709137A hemagglutinin [Influenza A virus]             343  9e-94
+SEQ gi|122890|sp|P16994|HEMA_IAHAL HEMAGGLUTININ PRECURSOR [CONTAINS...   343  9e-94
+SEQ gi|323997|gb|AAA43100.1| (M24721) hemagglutinin precursor (put.)...   343  9e-94
+SEQ gi|2407254|gb|AAC59604.1| (AF017272) hemagglutinin [Influenza A ...   343  9e-94
+SEQ gi|6177882|dbj|BAA86065.1| (AB019357) hemagglutinin [Influenza A...   343  9e-94
+SEQ gi|14286339|gb|AAC59602.2| (AF017270) hemagglutinin [Influenza A...   343  9e-94
+SEQ gi|324116|gb|AAA43164.1| (M29257) hemagglutinin [Influenza A virus]   343  1e-93
+SEQ gi|122910|sp|P17000|HEMA_IAHTO HEMAGGLUTININ PRECURSOR [CONTAINS...   342  1e-93
+SEQ gi|324019|gb|AAA43111.1| (M24720) hemagglutinin precursor (put.)...   342  1e-93
+SEQ gi|1170221|sp|P03441|HEMA_IABAN HEMAGGLUTININ PRECURSOR [CONTAIN...   342  1e-93
+SEQ gi|122951|sp|P26141|HEMA_IAZUK HEMAGGLUTININ PRECURSOR [CONTAINS...   342  1e-93
+SEQ gi|2114486|gb|AAB58297.1| (U97740) hemagglutinin [influenza A vi...   342  2e-93
+SEQ gi|9887181|gb|AAG01785.1|AF251427_1 (AF251427) hemagglutinin [In...   342  2e-93
+SEQ gi|122940|sp|P19106|HEMA_IAUDO HEMAGGLUTININ PRECURSOR [CONTAINS...   341  3e-93
+SEQ gi|6177878|dbj|BAA86063.1| (AB019355) hemagglutinin [Influenza A...   341  3e-93
+SEQ gi|6177880|dbj|BAA86064.1| (AB019356) hemagglutinin [Influenza A...   341  3e-93
+SEQ gi|9887113|gb|AAG01749.1|AF251395_1 (AF251395) hemagglutinin [In...   341  3e-93
+SEQ gi|13661056|emb|CAC37007.1| (AJ311466) Haemagglutinin [Influenza...   341  3e-93
+SEQ gi|14030467|gb|AAK52910.1|AF363502_1 (AF363502) hemagglutinin [I...   341  3e-93
+SEQ gi|14030471|gb|AAK52912.1|AF363504_1 (AF363504) hemagglutinin [I...   341  3e-93
+SEQ gi|14487956|gb|AAK63816.1|AF382318_1 (AF382318) hemagglutinin [I...   341  3e-93
+SEQ gi|122911|sp|P17002|HEMA_IAHUR HEMAGGLUTININ PRECURSOR [CONTAINS...   341  4e-93
+SEQ gi|324025|gb|AAA43114.1| (M24718) hemagglutinin precursor (put.)...   341  4e-93
+SEQ gi|14486402|gb|AAK62039.1| (AY035588) hemagglutinin [Influenza A...   341  4e-93
+SEQ gi|14486404|gb|AAK62040.1| (AY035589) hemagglutinin [Influenza A...   341  4e-93
+SEQ gi|14486406|gb|AAK62041.1| (AY035590) hemagglutinin [Influenza A...   341  4e-93
+SEQ gi|14486408|gb|AAK62042.1| (AY035591) hemagglutinin [Influenza A...   341  4e-93
+SEQ gi|14487958|gb|AAK63817.1|AF382319_1 (AF382319) hemagglutinin [I...   341  4e-93
+SEQ gi|14487962|gb|AAK63819.1|AF382321_1 (AF382321) hemagglutinin [I...   341  4e-93
+SEQ gi|14487966|gb|AAK63821.1|AF382323_1 (AF382323) hemagglutinin [I...   341  4e-93
+SEQ gi|9887164|gb|AAG01776.1|AF251419_1 (AF251419) hemagglutinin [In...   340  6e-93
+SEQ gi|6177876|dbj|BAA86062.1| (AB019354) hemagglutinin [Influenza A...   340  1e-92
+SEQ gi|122901|sp|P15658|HEMA_IAHMI HEMAGGLUTININ PRECURSOR [CONTAINS...   339  1e-92
+SEQ gi|324007|gb|AAA43105.1| (M24719) hemagglutinin precursor (put.)...   339  1e-92
+SEQ gi|122878|sp|P26135|HEMA_IADM2 HEMAGGLUTININ PRECURSOR [CONTAINS...   339  1e-92
+SEQ gi|14161724|gb|AAK53066.1| (AY032978) hemagglutinin [Influenza A...   338  2e-92
+SEQ gi|122896|sp|P16995|HEMA_IAHFO HEMAGGLUTININ PRECURSOR [CONTAINS...   338  2e-92
+SEQ gi|323999|gb|AAA43101.1| (M24723) hemagglutinin precursor (put.)...   338  2e-92
+SEQ gi|122905|sp|P16998|HEMA_IAHRO HEMAGGLUTININ PRECURSOR [CONTAINS...   336  1e-91
+SEQ gi|1170228|sp|Q08011|HEMA_IAHSU HEMAGGLUTININ PRECURSOR [CONTAIN...   336  1e-91
+SEQ gi|324015|gb|AAA43109.1| (M24724) hemagglutinin precursor (put.)...   336  1e-91
+SEQ gi|404517|gb|AAB27733.1| (S64310) hemagglutinin, HA [H3N8 equine...   336  1e-91
+SEQ gi|722402|gb|AAB36975.1| (L39913) hemagglutinin [Influenza A vir...   336  1e-91
+SEQ gi|722404|gb|AAB36976.1| (L39914) hemagglutinin [Influenza A vir...   336  1e-91
+SEQ gi|722408|gb|AAB36978.1| (L39916) hemagglutinin [Influenza A vir...   336  1e-91
+SEQ gi|722410|gb|AAB36979.1| (L39917) hemagglutinin [Influenza A vir...   336  1e-91
+SEQ gi|722412|gb|AAB36980.1| (L39918) hemagglutinin [Influenza A vir...   336  1e-91
+SEQ gi|1377874|gb|AAB02560.1| (U58195) hemagglutinin [Influenza A vi...   336  1e-91
+SEQ gi|14275704|emb|CAC40044.1| (AJ293926) haemagglutinin [Influenza...   335  2e-91
+SEQ gi|683794|gb|AAA62470.1| (L27597) hemagglutinin [Equine influenz...   335  2e-91
+SEQ gi|122902|sp|P16997|HEMA_IAHNM HEMAGGLUTININ PRECURSOR [CONTAINS...   334  3e-91
+SEQ gi|122909|sp|P17001|HEMA_IAHTE HEMAGGLUTININ PRECURSOR [CONTAINS...   334  3e-91
+SEQ gi|122897|sp|P19699|HEMA_IAHK6 HEMAGGLUTININ PRECURSOR [CONTAINS...   334  3e-91
+SEQ gi|324001|gb|AAA43102.1| (M24727) hemagglutinin precursor (put.)...   334  3e-91
+SEQ gi|324011|gb|AAA43107.1| (M24722) hemagglutinin precursor (put.)...   334  3e-91
+SEQ gi|324021|gb|AAA43112.1| (M24726) hemagglutinin precursor (put.)...   334  3e-91
+SEQ gi|1200095|emb|CAA64894.1| (X95638) haemagglutinin glycoprotein ...   334  3e-91
+SEQ gi|1262349|emb|CAA64893.1| (X95637) haemagglutinin glycoprotein ...   334  3e-91
+SEQ gi|223283|prf||0704243B hemagglutinin HA2 [Influenza A virus]         334  5e-91
+SEQ gi|122906|sp|P16999|HEMA_IAHSA HEMAGGLUTININ PRECURSOR [CONTAINS...   334  6e-91
+SEQ gi|122898|sp|P16996|HEMA_IAHK7 HEMAGGLUTININ PRECURSOR [CONTAINS...   334  6e-91
+SEQ gi|324003|gb|AAA43103.1| (M24728) hemagglutinin precursor (put.)...   334  6e-91
+SEQ gi|324017|gb|AAA43110.1| (M24725) hemagglutinin precursor (put.)...   334  6e-91
+SEQ gi|722406|gb|AAB36977.1| (L39915) hemagglutinin [Influenza A vir...   333  8e-91
+SEQ gi|14275716|emb|CAC40050.1| (AJ293932) haemagglutinin [Influenza...   332  2e-90
+SEQ gi|3212740|pdb|2VIU|B Chain B, Influenza Virus Hemagglutinin >gi...   331  4e-90
+SEQ gi|231144|pdb|5HMG|B Chain B, Hemagglutinin (D112(B)G) (Bromelai...   330  1e-89
+SEQ gi|122927|sp|P19700|HEMA_IARUD HEMAGGLUTININ PRECURSOR [CONTAINS...   324  4e-88
+SEQ gi|324231|gb|AAA43222.1| (M25289) hemagglutinin [Influenza A virus]   324  4e-88
+SEQ gi|122934|sp|P19702|HEMA_IATKM HEMAGGLUTININ PRECURSOR [CONTAINS...   324  6e-88
+SEQ gi|122855|sp|P19694|HEMA_IABUD HEMAGGLUTININ PRECURSOR [CONTAINS...   323  8e-88
+SEQ gi|122863|sp|P03443|HEMA_IADA1 HEMAGGLUTININ PRECURSOR [CONTAINS...   323  9e-88
+SEQ gi|122928|sp|P19701|HEMA_IASE2 HEMAGGLUTININ PRECURSOR [CONTAINS...   323  1e-87
+SEQ gi|122887|sp|P19698|HEMA_IAGRE HEMAGGLUTININ PRECURSOR [CONTAINS...   323  1e-87
+SEQ gi|122857|sp|P19695|HEMA_IACKA HEMAGGLUTININ PRECURSOR [CONTAINS...   323  1e-87
+SEQ gi|122881|sp|P19697|HEMA_IADNZ HEMAGGLUTININ PRECURSOR [CONTAINS...   322  1e-87
+SEQ gi|324225|gb|AAA43219.1| (M25286) hemagglutinin [Influenza A virus]   322  1e-87
+SEQ gi|232247|sp|P19696|HEMA_IADCZ HEMAGGLUTININ PRECURSOR [CONTAINS...   322  1e-87
+SEQ gi|9802407|gb|AAF99712.1|AF290437_1 (AF290437) hemagglutinin [In...   322  1e-87
+SEQ gi|9802409|gb|AAF99713.1|AF290438_1 (AF290438) hemagglutinin [In...   322  1e-87
+SEQ gi|75038|pir||HMIVF1 hemagglutinin precursor - influenza A virus...   321  3e-87
+SEQ gi|10442680|gb|AAG17429.1|AF285885_1 (AF285885) hemagglutinin [I...   321  4e-87
+SEQ gi|9802405|gb|AAF99711.1|AF290436_1 (AF290436) hemagglutinin [In...   319  1e-86
+SEQ gi|10442676|gb|AAG17427.1|AF285883_1 (AF285883) hemagglutinin [I...   318  2e-86
+SEQ gi|122915|sp|P26137|HEMA_IAMAA HEMAGGLUTININ PRECURSOR [CONTAINS...   317  9e-86
+SEQ gi|122916|sp|P26136|HEMA_IAMAB HEMAGGLUTININ PRECURSOR [CONTAINS...   317  9e-86
+SEQ gi|6730569|pdb|1QU1|F Chain F, Crystal Structure Of Eha2 (23-185...   264  4e-70
+SEQ gi|9988494|gb|AAG10653.1| (AF202229) hemagglutinin [Influenza A ...   259  2e-68
+SEQ gi|9988526|gb|AAG10669.1| (AF202245) hemagglutinin [Influenza A ...   259  2e-68
+SEQ gi|9988516|gb|AAG10664.1| (AF202240) hemagglutinin [Influenza A ...   258  3e-68
+SEQ gi|122894|sp|P26096|HEMA_IAHCD HEMAGGLUTININ PRECURSOR [CONTAINS...   258  4e-68
+SEQ gi|122895|sp|P26097|HEMA_IAHDE HEMAGGLUTININ PRECURSOR [CONTAINS...   258  4e-68
+SEQ gi|122893|sp|P26095|HEMA_IAHC7 HEMAGGLUTININ PRECURSOR [CONTAINS...   257  5e-68
+SEQ gi|122899|sp|P26098|HEMA_IAHLE HEMAGGLUTININ PRECURSOR [CONTAINS...   257  5e-68
+SEQ gi|122900|sp|P26099|HEMA_IAHLO HEMAGGLUTININ PRECURSOR [CONTAINS...   257  5e-68
+SEQ gi|122908|sp|P26103|HEMA_IAHSW HEMAGGLUTININ PRECURSOR [CONTAINS...   257  5e-68
+SEQ gi|122907|sp|P26102|HEMA_IAHSP HEMAGGLUTININ PRECURSOR [CONTAINS...   257  5e-68
+SEQ gi|324127|gb|AAA43174.1| (M58657) hemagglutinin [Influenza A virus]   257  5e-68
+SEQ gi|122903|sp|P26100|HEMA_IAHNN HEMAGGLUTININ PRECURSOR [CONTAINS...   257  6e-68
+SEQ gi|9988492|gb|AAG10652.1| (AF202228) hemagglutinin [Influenza A ...   257  7e-68
+SEQ gi|9988518|gb|AAG10665.1| (AF202241) hemagglutinin [Influenza A ...   257  7e-68
+SEQ gi|9988522|gb|AAG10667.1| (AF202243) hemagglutinin [Influenza A ...   257  7e-68
+SEQ gi|9988530|gb|AAG10671.1| (AF202247) hemagglutinin [Influenza A ...   257  7e-68
+SEQ gi|9988534|gb|AAG10673.1| (AF202249) hemagglutinin [Influenza A ...   257  7e-68
+SEQ gi|9988538|gb|AAG10675.1| (AF202251) hemagglutinin [Influenza A ...   257  7e-68
+SEQ gi|9988500|gb|AAG10656.1| (AF202232) hemagglutinin [influenza A ...   257  7e-68
+SEQ gi|9988506|gb|AAG10659.1| (AF202235) hemagglutinin [Influenza A ...   257  7e-68
+SEQ gi|9988514|gb|AAG10663.1| (AF202239) hemagglutinin [Influenza A ...   257  7e-68
+SEQ gi|3211724|gb|AAC40998.1| (AF028020) hemagglutinin precursor [In...   257  8e-68
+SEQ gi|3211726|gb|AAC40999.1| (AF028021) hemagglutinin precursor [In...   257  8e-68
+SEQ gi|75070|pir||HMIV84 hemagglutinin precursor - influenza A virus...   257  1e-67
+SEQ gi|122921|sp|P12439|HEMA_IAMIN HEMAGGLUTININ PRECURSOR [CONTAINS...   257  1e-67
+SEQ gi|9988508|gb|AAG10660.1| (AF202236) hemagglutinin [Influenza A ...   257  1e-67
+SEQ gi|9988512|gb|AAG10662.1| (AF202238) hemagglutinin [Influenza A ...   257  1e-67
+SEQ gi|9988536|gb|AAG10674.1| (AF202250) hemagglutinin [Influenza A ...   257  1e-67
+SEQ gi|9988540|gb|AAG10676.1| (AF202252) hemagglutinin [Influenza A ...   257  1e-67
+SEQ gi|9988528|gb|AAG10670.1| (AF202246) hemagglutinin [Influenza A ...   256  1e-67
+SEQ gi|902757|gb|AAC54379.1| (U20461) hemagglutinin precursor [Influ...   256  1e-67
+SEQ gi|902759|gb|AAC54380.1| (U20462) hemagglutinin precursor [Influ...   256  1e-67
+SEQ gi|9988496|gb|AAG10654.1| (AF202230) hemagglutinin [Influenza A ...   256  1e-67
+SEQ gi|122892|sp|P26094|HEMA_IAHC6 HEMAGGLUTININ PRECURSOR [CONTAINS...   256  1e-67
+SEQ gi|122904|sp|P26101|HEMA_IAHPR HEMAGGLUTININ PRECURSOR [CONTAINS...   256  1e-67
+SEQ gi|9988498|gb|AAG10655.1| (AF202231) hemagglutinin [Influenza A ...   256  2e-67
+SEQ gi|9988504|gb|AAG10658.1| (AF202234) hemagglutinin [Influenza A ...   255  2e-67
+SEQ gi|853706|emb|CAA87393.1| (Z47199) viral fusion protein [Avian i...   255  2e-67
+SEQ gi|9988490|gb|AAG10651.1| (AF202227) hemagglutinin [Influenza A ...   255  2e-67
+SEQ gi|1226071|gb|AAA96134.1| (L43917) hemagglutinin [Influenza A vi...   255  2e-67
+SEQ gi|999897|pdb|1HTM|D Chain D, Hemagglutinin Ectodomain (Soluble ...   255  2e-67
+SEQ gi|122886|sp|P03459|HEMA_IAFPR HEMAGGLUTININ PRECURSOR [CONTAINS...   255  2e-67
+SEQ gi|122858|sp|P12581|HEMA_IACKG HEMAGGLUTININ PRECURSOR [CONTAINS...   255  2e-67
+SEQ gi|902765|gb|AAC54383.1| (U20465) hemagglutinin precursor [Influ...   255  3e-67
+SEQ gi|324096|gb|AAA43150.1| (M24457) hemagglutinin [Influenza A virus]   255  3e-67
+SEQ gi|1226069|gb|AAA92247.1| (L43916) hemagglutinin [Influenza A vi...   255  3e-67
+SEQ gi|9988532|gb|AAG10672.1| (AF202248) hemagglutinin [Influenza A ...   255  3e-67
+SEQ gi|902753|gb|AAC54377.1| (U20459) hemagglutinin precursor [Influ...   255  4e-67
+SEQ gi|1226063|gb|AAA92244.1| (L43913) hemagglutinin [Influenza A vi...   255  4e-67
+SEQ gi|1226067|gb|AAA92246.1| (L43915) hemagglutinin [Influenza A vi...   255  4e-67
+SEQ gi|9988524|gb|AAG10668.1| (AF202244) hemagglutinin [Influenza A ...   255  4e-67
+SEQ gi|4406081|gb|AAD19847.1| (AF071775) hemagglutinin precursor [In...   254  4e-67
+SEQ gi|9988488|gb|AAG10650.1| (AF202226) hemagglutinin [Influenza A ...   254  5e-67
+SEQ gi|902773|gb|AAC54387.1| (U20469) hemagglutinin precursor [Influ...   254  6e-67
+SEQ gi|75068|pir||HMIVT7 hemagglutinin precursor - influenza A virus...   253  8e-67
+SEQ gi|9988510|gb|AAG10661.1| (AF202237) hemagglutinin [Influenza A ...   253  8e-67
+SEQ gi|9988520|gb|AAG10666.1| (AF202242) hemagglutinin [Influenza A ...   253  1e-66
+SEQ gi|348429|pir||A45539 hemagglutinin precursor - influenza A viru...   253  1e-66
+SEQ gi|324237|gb|AAA43237.1| (M24458) hemagglutinin [Influenza A virus]   253  1e-66
+SEQ gi|122931|sp|P09344|HEMA_IASTA HEMAGGLUTININ PRECURSOR [CONTAINS...   253  1e-66
+SEQ gi|1226065|gb|AAA92245.1| (L43914) hemagglutinin [Influenza A vi...   253  2e-66
+SEQ gi|9988542|gb|AAG10677.1| (AF202253) hemagglutinin [Influenza A ...   252  2e-66
+SEQ gi|3915726|sp|P36346|HEMA_IAFPW HEMAGGLUTININ PRECURSOR [CONTAIN...   252  3e-66
+SEQ gi|122937|sp|P03458|HEMA_IATKR HEMAGGLUTININ PRECURSOR [CONTAINS...   252  3e-66
+SEQ gi|122862|sp|P09343|HEMA_IACKV HEMAGGLUTININ PRECURSOR [CONTAINS...   251  4e-66
+SEQ gi|94144|pir||S22083 hemagglutinin - influenza A virus >gi|60498...   251  5e-66
+SEQ gi|9988668|gb|AAG10735.1| (AF268123) hemagglutinin protein [Infl...   247  9e-65
+SEQ gi|9988676|gb|AAG10739.1| (AF268127) hemagglutinin protein [Infl...   245  3e-64
+SEQ gi|9988678|gb|AAG10740.1| (AF268128) hemagglutinin protein [Infl...   243  8e-64
+SEQ gi|9988672|gb|AAG10737.1| (AF268125) hemagglutinin protein [Infl...   243  1e-63
+SEQ gi|9988670|gb|AAG10736.1| (AF268124) hemagglutinin protein [Infl...   239  2e-62
+SEQ gi|9988674|gb|AAG10738.1| (AF268126) hemagglutinin protein [Infl...   236  1e-61
+SEQ gi|5002332|gb|AAD37422.1| (AF149295) hemagglutinin precursor [in...   235  4e-61
+SEQ gi|511291|gb|AAA19934.1| (U11857) hemagglutinin [Influenza A virus]   221  5e-57
+SEQ gi|8515424|gb|AAF75994.1|AF250124_1 (AF250124) hemagglutinin [in...   220  8e-57
+SEQ gi|122868|sp|P04661|HEMA_IADE1 HEMAGGLUTININ PRECURSOR [CONTAINS...   219  2e-56
+SEQ gi|407004|gb|AAA16880.1| (L25072) hemagglutinin [Avian influenza...   219  2e-56
+SEQ gi|511472|gb|AAA91616.1| (U11703) hemagglutinin [Influenza A virus]   219  2e-56
+SEQ gi|4325039|gb|AAD17229.1| (AF117241) hemagglutinin [influenza A ...   218  3e-56
+SEQ gi|1656054|gb|AAC57168.1| (U72668) hemagglutinin [Influenza A vi...   218  3e-56
+SEQ gi|2145487|pir||S69887 hemagglutinin precursor - influenza A vir...   218  3e-56
+SEQ gi|4585159|gb|AAD25303.1|AF091308_1 (AF091308) hemagglutinin pre...   218  3e-56
+SEQ gi|2145486|pir||S69888 hemagglutinin precursor - influenza A vir...   218  4e-56
+SEQ gi|4585157|gb|AAD25302.1|AF091307_1 (AF091307) hemagglutinin pre...   218  4e-56
+SEQ gi|122950|sp|P03455|HEMA_IAZNJ HEMAGGLUTININ PRECURSOR [CONTAINS...   218  4e-56
+SEQ gi|385579|gb|AAB27052.1| (S62154) hemagglutinin HA1 subunit [inf...   218  4e-56
+SEQ gi|1888356|gb|AAB49654.1| (U28919) hemaglutinin [Avian influenza...   218  5e-56
+SEQ gi|4585167|gb|AAD25307.1|AF091312_1 (AF091312) hemagglutinin pre...   218  6e-56
+SEQ gi|9408388|gb|AAF87275.1|AF222027_1 (AF222027) hemagglutinin [In...   217  6e-56
+SEQ gi|290723|gb|AAA72339.1| (L09063) [Swine influenza virus type A ...   217  6e-56
+SEQ gi|9518852|gb|AAB29091.2| (S67220) hemagglutinin; HA [H1N1 swine...   217  6e-56
+SEQ gi|9408386|gb|AAF87274.1|AF222026_1 (AF222026) hemagglutinin [In...   217  7e-56
+SEQ gi|1656050|gb|AAC57166.1| (U72666) hemagglutinin [Influenza A vi...   217  8e-56
+SEQ gi|4585165|gb|AAD25306.1|AF091311_1 (AF091311) hemagglutinin pre...   217  9e-56
+SEQ gi|11066027|gb|AAG28424.1|AF194169_1 (AF194169) hemagglutinin pr...   217  9e-56
+SEQ gi|12619371|gb|AAG60347.1|AF194990_1 (AF194990) hemagglutinin [I...   217  9e-56
+SEQ gi|12619373|gb|AAG60348.1|AF194991_1 (AF194991) hemagglutinin [I...   217  9e-56
+SEQ gi|12667087|emb|CAC28131.1| (AJ305306) hemagglutinin precursor [...   217  9e-56
+SEQ gi|438592|gb|AAA43283.1| (L24362) hemagglutinin [Influenza A virus]   216  1e-55
+SEQ gi|1399603|gb|AAB03291.1| (U53162) hemagglutinin [Influenza A vi...   216  1e-55
+SEQ gi|1912331|gb|AAB50963.1| (U46783) hemagglutinin precursor [Infl...   216  1e-55
+SEQ gi|13676825|gb|AAK38298.1|AF364334_1 (AF364334) hemagglutinin [I...   216  1e-55
+SEQ gi|2145488|pir||S69889 hemagglutinin precursor - influenza A vir...   216  1e-55
+SEQ gi|75057|pir||HMIVD1 hemagglutinin precursor - influenza A virus...   216  1e-55
+SEQ gi|1346265|sp|P26562|HEMA_IADA4 HEMAGGLUTININ PRECURSOR [CONTAIN...   216  1e-55
+SEQ gi|4585161|gb|AAD25304.1|AF091309_1 (AF091309) hemagglutinin pre...   216  1e-55
+SEQ gi|4585169|gb|AAD25308.1|AF091313_1 (AF091313) hemagglutinin pre...   216  1e-55
+SEQ gi|9408398|gb|AAF87280.1|AF222032_1 (AF222032) hemagglutinin [In...   216  1e-55
+SEQ gi|122949|sp|P26140|HEMA_IAZIN HEMAGGLUTININ PRECURSOR [CONTAINS...   216  1e-55
+SEQ gi|4585155|gb|AAD25301.1|AF091306_1 (AF091306) hemagglutinin pre...   216  1e-55
+SEQ gi|899450|gb|AAB49655.1| (U28920) hemaglutinin [Avian influenza ...   216  1e-55
+SEQ gi|4240448|gb|AAD13572.1| (AF082040) hemagglutinin H5 [Influenza...   216  1e-55
+SEQ gi|9408406|gb|AAF87284.1|AF222036_1 (AF222036) hemagglutinin [In...   216  1e-55
+SEQ gi|9408390|gb|AAF87276.1|AF222028_1 (AF222028) hemagglutinin [In...   216  1e-55
+SEQ gi|9408392|gb|AAF87277.1|AF222029_1 (AF222029) hemagglutinin [In...   216  1e-55
+SEQ gi|476210|gb|AAA92280.1| (U08904) haemagglutinin [Influenza virus]    216  2e-55
+SEQ gi|408511|gb|AAA43088.1| (L11135) hemagglutinin [Influenza A vir...   216  2e-55
+SEQ gi|4585163|gb|AAD25305.1|AF091310_1 (AF091310) hemagglutinin pre...   216  2e-55
+SEQ gi|122861|sp|P09345|HEMA_IACKS HEMAGGLUTININ PRECURSOR [CONTAINS...   216  2e-55
+SEQ gi|902755|gb|AAC54378.1| (U20460) hemagglutinin precursor [Influ...   216  2e-55
+SEQ gi|3913819|sp|P87506|HEMA_IAMAP HEMAGGLUTININ PRECURSOR [CONTAIN...   215  2e-55
+SEQ gi|11596242|gb|AAG38534.1| (AF303057) hemagglutinin [Influenza A...   215  2e-55
+SEQ gi|1840074|gb|AAC58996.1| (U79454) hemagglutinin [Influenza A vi...   215  2e-55
+SEQ gi|408555|gb|AAA43450.1| (L11131) hemagglutinin [Influenza A vir...   215  2e-55
+SEQ gi|408599|gb|AAA43576.1| (L11137) hemagglutinin [Influenza A vir...   215  2e-55
+SEQ gi|408671|gb|AAA43659.1| (L11127) hemagglutinin [Influenza A vir...   215  2e-55
+SEQ gi|1840070|gb|AAC58994.1| (U79452) hemagglutinin [Influenza A vi...   215  3e-55
+SEQ gi|1763075|gb|AAB39639.1| (U69277) hemmagglutinin [Influenza A v...   215  3e-55
+SEQ gi|408517|gb|AAA43096.1| (L11132) hemagglutinin [Influenza A vir...   215  3e-55
+SEQ gi|12619375|gb|AAG60349.1|AF194992_1 (AF194992) hemagglutinin [I...   215  3e-55
+SEQ gi|1840062|gb|AAC58990.1| (U79448) hemagglutinin [Influenza A vi...   215  3e-55
+SEQ gi|5442074|gb|AAD43239.1|AF116201_1 (AF116201) hemagglutinin [In...   215  3e-55
+SEQ gi|473537|dbj|BAA00718.1| (D00837) polyprotein precursor [Influe...   215  3e-55
+SEQ gi|6165835|gb|AAF04719.1| (AF100179) hemagglutinin H5 [influenza...   215  3e-55
+SEQ gi|6165837|gb|AAF04720.1| (AF100180) hemagglutinin H5 [influenza...   215  3e-55
+SEQ gi|1835736|gb|AAC57415.1| (U85986) haemagglutinin HA [Influenza ...   215  3e-55
+SEQ gi|8486126|ref|NP_040980.1| haemagglutinin [Influenza A virus] >...   215  4e-55
+SEQ gi|4457130|gb|AAD21156.1| (AF102674) hemagglutinin [influenza A ...   215  4e-55
+SEQ gi|408527|gb|AAA43284.1| (L11130) hemagglutinin [Influenza A vir...   215  4e-55
+SEQ gi|4585171|gb|AAD25309.1|AF091314_1 (AF091314) hemagglutinin pre...   215  4e-55
+SEQ gi|305117|gb|AAA64363.1| (L20409) hemagglutinin [Influenza A virus]   215  4e-55
+SEQ gi|6048761|gb|AAF02308.1|AF098545_1 (AF098545) hemagglutinin [In...   215  4e-55
+SEQ gi|407936|gb|AAC53844.1| (U02464) hemagglutinin [Influenza A virus]   215  4e-55
+SEQ gi|408601|gb|AAA43578.1| (L11138) hemagglutinin [Influenza A vir...   215  4e-55
+SEQ gi|406042|gb|AAA67338.1| (U02085) hemagglutinin [Influenza A virus]   215  4e-55
+SEQ gi|122914|sp|P18876|HEMA_IALEN HEMAGGLUTININ PRECURSOR [CONTAINS...   215  5e-55
+SEQ gi|9408394|gb|AAF87278.1|AF222030_1 (AF222030) hemagglutinin [In...   214  5e-55
+SEQ gi|9408404|gb|AAF87283.1|AF222035_1 (AF222035) hemagglutinin [In...   214  5e-55
+SEQ gi|3831763|gb|AAD05215.1| (AF085413) haemagglutinin precursor [i...   214  5e-55
+SEQ gi|60494|emb|CAA35094.1| (X17221) haemagglutinin precursor [Infl...   214  6e-55
+SEQ gi|1022838|gb|AAA79714.1| (U37727) hemagglutinin [Influenza A vi...   214  6e-55
+SEQ gi|1022915|gb|AAA79727.1| (U38242) hemagglutinin [Influenza A vi...   214  6e-55
+SEQ gi|5805287|gb|AAD51927.1|AF144305_1 (AF144305) hemagglutinin [in...   214  6e-55
+SEQ gi|408519|gb|AAA43117.1| (L11129) hemagglutinin [Influenza A vir...   214  6e-55
+SEQ gi|408553|gb|AAA43345.1| (L11136) hemagglutinin [Influenza A vir...   214  6e-55
+SEQ gi|565612|emb|CAA86560.1| (Z46434) hemagglutinin precursor [Infl...   214  6e-55
+SEQ gi|9863896|gb|AAG01205.1|AF216721_1 (AF216721) hemagglutinin 5 [...   214  6e-55
+SEQ gi|9863932|gb|AAG01225.1|AF216737_1 (AF216737) hemagglutinin 5 [...   214  6e-55
+SEQ gi|305163|gb|AAA64365.1| (L20408) hemagglutinin [Influenza A virus]   214  7e-55
+SEQ gi|9863914|gb|AAG01215.1|AF216729_1 (AF216729) hemagglutinin 5 [...   214  7e-55
+SEQ gi|741295|prf||2007213A hemagglutinin [Influenza A virus]             214  7e-55
+SEQ gi|9313045|gb|AAB29507.2| (S68489) hemagglutinin [Influenza A vi...   214  7e-55
+SEQ gi|11595850|emb|CAC18524.1| (AJ289702) haemagglutinin [Influenza...   214  8e-55
+SEQ gi|4585177|gb|AAD25312.1|AF091317_1 (AF091317) hemagglutinin pre...   214  8e-55
+SEQ gi|563491|emb|CAA82950.1| (Z30276) hemagglutinin precursor [Infl...   213  9e-55
+SEQ gi|3068721|gb|AAC14418.1| (AF057291) hemagglutinin [Influenza A ...   213  9e-55
+SEQ gi|3421256|gb|AAC32099.1| (AF046097) hemagglutinin subtype H5 [I...   213  9e-55
+SEQ gi|4240436|gb|AAD13566.1| (AF082034) hemagglutinin H5 [Influenza...   213  9e-55
+SEQ gi|4240438|gb|AAD13567.1| (AF082035) hemagglutinin H5 [Influenza...   213  9e-55
+SEQ gi|4457132|gb|AAD21158.1| (AF102676) hemagglutinin [influenza A ...   213  9e-55
+SEQ gi|4457133|gb|AAD21159.1| (AF102677) hemagglutinin [influenza A ...   213  9e-55
+SEQ gi|4457136|gb|AAD21162.1| (AF102680) hemagglutinin [influenza A ...   213  9e-55
+SEQ gi|4457137|gb|AAD21163.1| (AF102681) hemagglutinin [influenza A ...   213  9e-55
+SEQ gi|5813857|gb|AAD52043.1|AF084532_1 (AF084532) hemagglutinin [In...   213  9e-55
+SEQ gi|6048753|gb|AAF02304.1|AF098541_1 (AF098541) hemagglutinin [In...   213  9e-55
+SEQ gi|8307803|gb|AAF74330.1|AF084280_1 (AF084280) hemagglutinin [In...   213  9e-55
+SEQ gi|9863877|gb|AAG01195.1|AF216713_1 (AF216713) hemagglutinin 5 [...   213  1e-54
+SEQ gi|122943|sp|P03454|HEMA_IAWIL HEMAGGLUTININ PRECURSOR [CONTAINS...   213  1e-54
+SEQ gi|1656056|gb|AAC57169.1| (U72669) hemagglutinin [Influenza A vi...   213  1e-54
+SEQ gi|2833657|gb|AAC34263.1| (AF036356) H5 hemagglutinin [Influenza...   213  1e-54
+SEQ gi|3335421|gb|AAC32088.1| (AF046088) hemagglutinin subtype H5 [I...   213  1e-54
+SEQ gi|3421252|gb|AAC32098.1| (AF046096) hemagglutinin subtype H5 [I...   213  1e-54
+SEQ gi|3421260|gb|AAC32100.1| (AF046098) hemagglutinin subtype H5 [I...   213  1e-54
+SEQ gi|4240452|gb|AAD13574.1| (AF082042) hemagglutinin H5 [Influenza...   213  1e-54
+SEQ gi|6048757|gb|AAF02306.1|AF098543_1 (AF098543) hemagglutinin [In...   213  1e-54
+SEQ gi|6048763|gb|AAF02309.1|AF098546_1 (AF098546) hemagglutinin [In...   213  1e-54
+SEQ gi|8307801|gb|AAF74329.1|AF084279_1 (AF084279) hemagglutinin [In...   213  1e-54
+SEQ gi|8307805|gb|AAF74331.1|AF084281_1 (AF084281) hemagglutinin [In...   213  1e-54
+SEQ gi|1656052|gb|AAC57167.1| (U72667) hemagglutinin [Influenza A vi...   213  1e-54
+SEQ gi|122913|sp|P18875|HEMA_IAKIE HEMAGGLUTININ PRECURSOR [CONTAINS...   213  1e-54
+SEQ gi|4585173|gb|AAD25310.1|AF091315_1 (AF091315) hemagglutinin pre...   213  1e-54
+SEQ gi|3831765|gb|AAD05216.1| (AF085414) haemagglutinin precursor [i...   213  1e-54
+SEQ gi|408521|gb|AAA43243.1| (L11128) hemagglutinin [Influenza A vir...   213  1e-54
+SEQ gi|408675|gb|AAA43662.1| (L11141) hemagglutinin [Influenza A vir...   213  1e-54
+SEQ gi|9802413|gb|AAF99715.1|AF290440_1 (AF290440) hemagglutinin [In...   213  1e-54
+SEQ gi|9802417|gb|AAF99717.1|AF290442_1 (AF290442) hemagglutinin [In...   213  1e-54
+SEQ gi|408523|gb|AAA43247.1| (L11133) hemagglutinin [Influenza A vir...   213  1e-54
+SEQ gi|323982|gb|AAA43094.1| (J04325) hemagglutinin precursor [Influ...   213  1e-54
+SEQ gi|407002|gb|AAA16879.1| (L25071) hemagglutinin [Avian influenza...   213  1e-54
+SEQ gi|408669|gb|AAA43658.1| (L11139) hemagglutinin [Influenza A vir...   213  2e-54
+SEQ gi|408677|gb|AAA43678.1| (L11142) hemagglutinin [Influenza A vir...   213  2e-54
+SEQ gi|854217|emb|CAA86561.1| (Z46435) hemagglutinin precursor [Infl...   212  2e-54
+SEQ gi|5007023|gb|AAD37782.1| (AF148678) hemagglutinin [influenza A ...   212  2e-54
+SEQ gi|4585175|gb|AAD25311.1|AF091316_1 (AF091316) hemagglutinin pre...   212  2e-54
+SEQ gi|122933|sp|P11135|HEMA_IATKI HEMAGGLUTININ PRECURSOR [CONTAINS...   212  2e-54
+SEQ gi|408673|gb|AAA43660.1| (L11140) hemagglutinin [Influenza A vir...   212  3e-54
+SEQ gi|4457129|gb|AAD21155.1| (AF102673) hemagglutinin [influenza A ...   212  3e-54
+SEQ gi|305115|gb|AAA64362.1| (L20406) hemagglutinin [Influenza A virus]   212  3e-54
+SEQ gi|305155|gb|AAA64364.1| (L20407) hemagglutinin [Influenza A virus]   212  3e-54
+SEQ gi|305171|gb|AAA64366.1| (L20410) hemagglutinin [Influenza A virus]   212  3e-54
+SEQ gi|408525|gb|AAA43248.1| (L11134) hemagglutinin [Influenza A vir...   212  3e-54
+SEQ gi|3335403|gb|AAC32078.1| (AF046080) hemagglutinin subtype H5 [I...   212  3e-54
+SEQ gi|3831767|gb|AAD05217.1| (AF085415) haemagglutinin precursor [i...   212  3e-54
+SEQ gi|4457131|gb|AAD21157.1| (AF102675) hemagglutinin [influenza A ...   212  3e-54
+SEQ gi|1170223|sp|P07977|HEMA_IACKQ HEMAGGLUTININ PRECURSOR [CONTAIN...   212  3e-54
+SEQ gi|1170222|sp|P07976|HEMA_IACKP HEMAGGLUTININ PRECURSOR [CONTAIN...   212  3e-54
+SEQ gi|3421264|gb|AAC32101.1| (AF046099) hemagglutinin subtype H5 [I...   211  3e-54
+SEQ gi|323966|gb|AAA43082.1| (M18450) hemagglutinin [Influenza A virus]   211  3e-54
+SEQ gi|122876|sp|P11132|HEMA_IADIR HEMAGGLUTININ PRECURSOR [CONTAINS...   211  4e-54
+SEQ gi|4240454|gb|AAD13575.1| (AF082043) hemagglutinin H5 [Influenza...   211  4e-54
+SEQ gi|1346266|sp|P16060|HEMA_IATKO HEMAGGLUTININ PRECURSOR [CONTAIN...   211  4e-54
+SEQ gi|122941|sp|P03453|HEMA_IAUSS HEMAGGLUTININ PRECURSOR [CONTAINS...   211  4e-54
+SEQ gi|1177512|emb|CAA91080.1| (Z54286) hemagglutinin [Influenza A v...   211  4e-54
+SEQ gi|122936|sp|P03456|HEMA_IATKP HEMAGGLUTININ PRECURSOR [CONTAINS...   211  5e-54
+SEQ gi|221326|dbj|BAA02774.1| (D13579) hemagglutinin [Influenza A vi...   211  5e-54
+SEQ gi|408515|gb|AAA43090.1| (L11126) hemagglutinin [Influenza A vir...   211  5e-54
+SEQ gi|476208|gb|AAA92279.1| (U08903) haemagglutinin [Influenza virus]    211  6e-54
+SEQ gi|4457138|gb|AAD21164.1| (AF102682) hemagglutinin [influenza A ...   210  8e-54
+SEQ gi|4240446|gb|AAD13571.1| (AF082039) hemagglutinin H5 [Influenza...   210  8e-54
+SEQ gi|122912|sp|P03451|HEMA_IAJAP HEMAGGLUTININ PRECURSOR [CONTAINS...   210  8e-54
+SEQ gi|4240450|gb|AAD13573.1| (AF082041) hemagglutinin H5 [Influenza...   210  8e-54
+SEQ gi|9802419|gb|AAF99718.1|AF290443_1 (AF290443) hemagglutinin [In...   210  8e-54
+SEQ gi|4240444|gb|AAD13570.1| (AF082038) hemagglutinin H5 [Influenza...   210  8e-54
+SEQ gi|1177500|emb|CAA91082.1| (Z54288) hemagglutinin [Influenza A v...   210  9e-54
+SEQ gi|1177504|emb|CAA91081.1| (Z54287) hemagglutinin [Influenza A v...   210  9e-54
+SEQ gi|408513|gb|AAA43089.1| (L11125) hemagglutinin [Influenza A vir...   210  1e-53
+SEQ gi|6165839|gb|AAF04721.1| (AF100181) hemagglutinin H6 [influenza...   210  1e-53
+SEQ gi|221324|dbj|BAA02775.1| (D13580) hemagglutinin [Influenza A vi...   210  1e-53
+SEQ gi|3831771|gb|AAD05219.1| (AF085417) haemagglutinin precursor [i...   210  1e-53
+SEQ gi|1840078|gb|AAC58998.1| (U79456) hemagglutinin [Influenza A vi...   210  1e-53
+SEQ gi|1840064|gb|AAC58991.1| (U79449) hemagglutinin [Influenza A vi...   209  2e-53
+SEQ gi|2865380|gb|AAC40508.1| (AF028709) hemagglutinin [Influenza A ...   209  2e-53
+SEQ gi|122929|sp|P03448|HEMA_IASH2 HEMAGGLUTININ PRECURSOR [CONTAINS...   209  2e-53
+SEQ gi|473531|dbj|BAA00720.1| (D00839) polyprotein precursor [Influe...   209  2e-53
+SEQ gi|221340|dbj|BAA02769.1| (D13574) hemagglutinin [Influenza A vi...   208  3e-53
+SEQ gi|221342|dbj|BAA02768.1| (D13573) hemagglutinin [Influenza A vi...   208  3e-53
+SEQ gi|1840076|gb|AAC58997.1| (U79455) hemagglutinin [Influenza A vi...   208  4e-53
+SEQ gi|4457135|gb|AAD21161.1| (AF102679) hemagglutinin [influenza A ...   208  5e-53
+SEQ gi|3831769|gb|AAD05218.1| (AF085416) haemagglutinin precursor [i...   208  6e-53
+SEQ gi|1177508|emb|CAA91083.1| (Z54289) hemagglutinin precursor [Inf...   207  8e-53
+SEQ gi|9437964|gb|AAF87507.1|AF250479_1 (AF250479) hemagglutinin [In...   207  9e-53
+SEQ gi|75062|pir||HMIVAT hemagglutinin precursor - influenza A virus...   207  9e-53
+SEQ gi|122864|sp|P03446|HEMA_IADA2 HEMAGGLUTININ PRECURSOR [CONTAINS...   203  2e-51
+SEQ gi|5732243|gb|AAD48997.1| (AF156387) hemagglutinin precursor [In...   201  7e-51
+SEQ gi|75058|pir||HMIVT1 hemagglutinin precursor - influenza A virus...   200  7e-51
+SEQ gi|232248|sp|P13103|HEMA_IAGU2 HEMAGGLUTININ PRECURSOR [CONTAINS...   200  7e-51
+SEQ gi|279771|pir||HMIVGM hemagglutinin precursor - influenza A viru...   200  7e-51
+SEQ gi|6007004|gb|AAF00710.1|AF156382_1 (AF156382) hemagglutinin pre...   198  3e-50
+SEQ gi|6007006|gb|AAF00711.1|AF156383_1 (AF156383) hemagglutinin pre...   197  6e-50
+SEQ gi|122938|sp|P03457|HEMA_IATKW HEMAGGLUTININ PRECURSOR [CONTAINS...   197  9e-50
+SEQ gi|14532429|gb|AAK64189.1| (AY036880) hemagglutinin [Influenza A...   197  9e-50
+SEQ gi|6006994|gb|AAF00705.1|AF156377_1 (AF156377) hemagglutinin pre...   197  1e-49
+SEQ gi|122889|sp|P13101|HEMA_IAGUA HEMAGGLUTININ PRECURSOR [CONTAINS...   196  1e-49
+SEQ gi|6006998|gb|AAF00707.1|AF156379_1 (AF156379) hemagglutinin pre...   196  1e-49
+SEQ gi|6006996|gb|AAF00706.1|AF156378_1 (AF156378) hemagglutinin pre...   195  2e-49
+SEQ gi|8894694|emb|CAB95856.1| (AJ404626) Hemagglutinin [Influenza A...   195  2e-49
+SEQ gi|8894696|emb|CAB95857.1| (AJ404627) Hemagglutinin [Influenza A...   195  2e-49
+SEQ gi|122923|sp|P13102|HEMA_IAPIL HEMAGGLUTININ PRECURSOR [CONTAINS...   195  4e-49
+SEQ gi|7769126|gb|AAF69255.1|AF203008_1 (AF203008) hemagglutinin [In...   195  4e-49
+SEQ gi|6007000|gb|AAF00708.1|AF156380_1 (AF156380) hemagglutinin pre...   194  5e-49
+SEQ gi|12038888|emb|CAC19694.1| (AJ291392) Haemagglutinin [Influenza...   194  6e-49
+SEQ gi|13383279|dbj|BAB39511.1| (AB049159) hemagglutinin [influenza ...   194  6e-49
+SEQ gi|13383281|dbj|BAB39512.1| (AB049160) hemagglutinin [influenza ...   194  6e-49
+SEQ gi|5732249|gb|AAD49000.1| (AF156390) hemagglutinin precursor [in...   194  6e-49
+SEQ gi|6006986|gb|AAF00701.1|AF156373_3 (AF156373) hemagglutinin pre...   194  6e-49
+SEQ gi|14485230|gb|AAK62979.1|AF384557_1 (AF384557) hemagglutinin [I...   194  8e-49
+SEQ gi|6007002|gb|AAF00709.1|AF156381_1 (AF156381) hemagglutinin pre...   192  2e-48
+SEQ gi|75060|pir||HMIVT3 hemagglutinin precursor - influenza A virus...   192  3e-48
+SEQ gi|6006990|gb|AAF00703.1|AF156375_1 (AF156375) hemagglutinin pre...   191  5e-48
+SEQ gi|6006988|gb|AAF00702.1|AF156374_3 (AF156374) hemagglutinin pre...   191  7e-48
+SEQ gi|6006992|gb|AAF00704.1|AF156376_1 (AF156376) hemagglutinin pre...   186  2e-46
+SEQ gi|5764321|gb|AAD51241.1|AF153234_1 (AF153234) hemagglutinin [in...   185  5e-46
+SEQ gi|5732245|gb|AAD48998.1| (AF156388) hemagglutinin precursor [In...   180  9e-45
+SEQ gi|223113|prf||0508234A hemagglutinin HA2 18-115 L [Influenza A ...   179  3e-44
+SEQ gi|5764319|gb|AAD51240.1|AF153233_1 (AF153233) hemagglutinin [In...   166  2e-40
+SEQ gi|324235|gb|AAA43224.1| (M25291) hemagglutinin [Influenza A virus]   163  1e-39
+SEQ gi|5764323|gb|AAD51242.1|AF153235_1 (AF153235) hemagglutinin [in...   142  4e-33
+SEQ gi|221306|dbj|BAA02776.1| (D13581) hemagglutinin [Influenza A vi...   139  3e-32
+SEQ gi|221322|dbj|BAA02778.1| (D13583) hemagglutinin [Influenza A vi...   139  3e-32
+SEQ gi|221338|dbj|BAA02779.1| (D13584) hemagglutinin [Influenza A vi...   137  1e-31
+SEQ gi|221336|dbj|BAA02777.1| (D13582) hemagglutinin [Influenza A vi...   137  1e-31
+SEQ gi|221334|dbj|BAA02767.1| (D13572) hemagglutinin [Influenza A vi...   133  1e-30
+SEQ gi|221304|dbj|BAA02765.1| (D13570) hemagglutinin [Influenza A vi...   131  9e-30
+SEQ gi|5764317|gb|AAD51239.1|AF153232_1 (AF153232) hemagglutinin [in...   127  1e-28
+SEQ gi|122962|sp|P03461|HEMA_INBMD HEMAGGLUTININ PRECURSOR [CONTAINS...   122  2e-27
+SEQ gi|122970|sp|P22092|HEMA_INBVK HEMAGGLUTININ PRECURSOR [CONTAINS...   122  2e-27
+SEQ gi|325145|gb|AAA43701.1| (K00424) hemagglutinin (HA) [Influenza ...   122  2e-27
+SEQ gi|8486153|ref|NP_056660.1| hemagglutinin (HA) [Influenza B viru...   122  3e-27
+SEQ gi|325143|gb|AAA43700.1| (J02093) hemagglutinin precursor [Influ...   122  3e-27
+SEQ gi|122958|sp|P03462|HEMA_INBHK HEMAGGLUTININ PRECURSOR [CONTAINS...   122  3e-27
+SEQ gi|325141|gb|AAA43699.1| (K00425) hemagglutinin (HA) [Influenza ...   122  3e-27
+SEQ gi|60500|emb|CAA35095.1| (X17222) haemagglutinin precursor [Infl...   121  5e-27
+SEQ gi|122953|sp|P17504|HEMA_INBBE HEMAGGLUTININ PRECURSOR [CONTAINS...   121  5e-27
+SEQ gi|122966|sp|P03463|HEMA_INBSI HEMAGGLUTININ PRECURSOR [CONTAINS...   121  5e-27
+SEQ gi|122965|sp|P03464|HEMA_INBOR HEMAGGLUTININ PRECURSOR [CONTAINS...   121  5e-27
+SEQ gi|77223|pir||S03300 hemagglutinin precursor - influenza B virus...   121  5e-27
+SEQ gi|77224|pir||S03301 hemagglutinin precursor - influenza B virus...   121  5e-27
+SEQ gi|122955|sp|P10757|HEMA_INBEN HEMAGGLUTININ PRECURSOR [CONTAINS...   121  5e-27
+SEQ gi|122968|sp|P09766|HEMA_INBUS HEMAGGLUTININ PRECURSOR [CONTAINS...   121  5e-27
+SEQ gi|122969|sp|P09767|HEMA_INBVI HEMAGGLUTININ PRECURSOR [CONTAINS...   121  5e-27
+SEQ gi|325178|gb|AAA43717.1| (M10298) hemagglutinin [Influenza B virus]   121  5e-27
+SEQ gi|1619897|gb|AAB16994.1| (U70384) prehemagglutinin [Influenza B...   121  5e-27
+SEQ gi|1619899|gb|AAB16995.1| (U70385) prehemagglutinin [Influenza B...   121  5e-27
+SEQ gi|5353975|gb|AAD42313.1| (AF129893) hemagglutinin precursor [in...   121  5e-27
+SEQ gi|6851028|emb|CAB71148.1| (AJ249279) haemagglutinin [Influenza ...   121  5e-27
+SEQ gi|418994|pir||PQ0514 hemagglutinin HA2 - influenza B virus (str...   121  6e-27
+SEQ gi|122954|sp|P10448|HEMA_INBBO HEMAGGLUTININ PRECURSOR [CONTAINS...   120  1e-26
+SEQ gi|77222|pir||S03299 hemagglutinin precursor - influenza B virus...   119  2e-26
+SEQ gi|122963|sp|P09765|HEMA_INBME HEMAGGLUTININ PRECURSOR [CONTAINS...   119  2e-26
+SEQ gi|1912323|gb|AAB50959.1| (U45452) hemagglutinin precursor [Infl...   117  7e-26
+SEQ gi|77221|pir||S01882 hemagglutinin precursor - influenza B virus...   117  9e-26
+SEQ gi|1912325|gb|AAB50960.1| (U46020) hemagglutinin precursor [Infl...   114  1e-24
+SEQ gi|221328|dbj|BAA02773.1| (D13578) hemagglutinin [Influenza A vi...   109  4e-23
+SEQ gi|221332|dbj|BAA02770.1| (D13575) hemagglutinin [Influenza A vi...   108  5e-23
+SEQ gi|221302|dbj|BAA02771.1| (D13576) hemagglutinin [Influenza A vi...   108  5e-23
+SEQ gi|11225252|gb|AAG33016.1| (AF311750) hemagglutinin [Influenza A...   101  5e-21
+SEQ gi|9988546|gb|AAG10679.1| (AF202255) hemagglutinin [Influenza A ...   100  1e-20
+SEQ gi|11596271|gb|AAG38554.1| (AF310987) hemagglutinin [Influenza A...    95  6e-19
+SEQ gi|11596273|gb|AAG38555.1| (AF310988) hemagglutinin [Influenza A...    95  7e-19
+SEQ gi|11596275|gb|AAG38556.1| (AF310989) hemagglutinin [Influenza A...    95  7e-19
+SEQ gi|473533|dbj|BAA00719.1| (D00838) polyprotein precursor [Influe...    92  4e-18
+SEQ gi|4325018|gb|AAD17218.1| (AF116575) hemagglutinin [influenza A ...    92  5e-18
+SEQ gi|4325020|gb|AAD17219.1| (AF116576) hemagglutinin [influenza A ...    92  5e-18
+SEQ gi|2120285|pir||PC4186 hemagglutinin 2 chain - influenza B virus...    88  5e-17
+SEQ gi|5732247|gb|AAD48999.1| (AF156389) hemagglutinin precursor [in...    88  8e-17
+SEQ gi|6537262|gb|AAF15580.1|AF186266_1 (AF186266) hemagglutinin [In...    88  1e-16
+SEQ gi|5732241|gb|AAD48996.1| (AF156386) hemagglutinin precursor [In...    86  2e-16
+SEQ gi|5732239|gb|AAD48995.1| (AF156385) hemagglutinin precursor [in...    86  3e-16
+SEQ gi|6007008|gb|AAF00712.1|AF156384_1 (AF156384) hemagglutinin pre...    86  3e-16
+SEQ gi|5353973|gb|AAD42312.1| (AF129892) hemagglutinin precursor [in...    81  1e-14
+SEQ gi|2554953|gb|AAB81457.1| (AF026154) haemagglutinin [Influenza A...    78  9e-14
+SEQ gi|2554955|gb|AAB81458.1| (AF026155) haemagglutinin [Influenza A...    78  9e-14
+SEQ gi|2554957|gb|AAB81459.1| (AF026156) haemagglutinin [Influenza A...    78  9e-14
+SEQ gi|2554961|gb|AAB81461.1| (AF026158) haemagglutinin [Influenza A...    78  9e-14
+SEQ gi|2554963|gb|AAB81462.1| (AF026159) haemagglutinin [Influenza A...    78  9e-14
+SEQ gi|2554965|gb|AAB81463.1| (AF026160) haemagglutinin [Influenza A...    78  9e-14
+SEQ gi|12231902|gb|AAG49309.1| (AF315566) hemagglutinin [influenza A...    77  1e-13
+SEQ gi|6537268|gb|AAF15583.1|AF186269_1 (AF186269) hemagglutinin [In...    77  2e-13
+SEQ gi|2554951|gb|AAB81456.1| (AF026153) haemagglutinin [Influenza A...    77  2e-13
+SEQ gi|11596279|gb|AAG38558.1| (AF310991) hemagglutinin [Influenza A...    75  7e-13
+SEQ gi|6537266|gb|AAF15582.1|AF186268_1 (AF186268) hemagglutinin [In...    75  7e-13
+SEQ gi|2780198|emb|CAA11167.1| (AJ223192) haemagglutinin [Influenza ...    74  9e-13
+SEQ gi|2780200|emb|CAA11168.1| (AJ223193) haemagglutinin [Influenza ...    74  9e-13
+SEQ gi|481448|pir||S38637 hemagglutinin - influenza A virus (isolate...    74  2e-12
+SEQ gi|12231890|gb|AAG49303.1| (AF315560) hemagglutinin [influenza A...    74  2e-12
+SEQ gi|7769128|gb|AAF69256.1|AF203009_1 (AF203009) hemagglutinin [In...    73  2e-12
+SEQ gi|11596281|gb|AAG38559.1| (AF310992) hemagglutinin [Influenza A...    73  3e-12
+SEQ gi|11596277|gb|AAG38557.1| (AF310990) hemagglutinin [Influenza A...    73  4e-12
+SEQ gi|1396049|dbj|BAA00722.1| (D00841) polyprotein precursor [Influ...    72  5e-12
+SEQ gi|1912329|gb|AAB50962.1| (U46782) hemagglutinin precursor [Infl...    72  5e-12
+SEQ gi|12231896|gb|AAG49306.1| (AF315563) hemagglutinin [influenza A...    71  7e-12
+SEQ gi|12231898|gb|AAG49307.1| (AF315564) hemagglutinin [influenza A...    69  3e-11
+SEQ gi|5442078|gb|AAD43241.1|AF116203_1 (AF116203) hemagglutinin [In...    69  3e-11
+SEQ gi|5442082|gb|AAD43243.1|AF116205_1 (AF116205) hemagglutinin [In...    69  3e-11
+SEQ gi|5442092|gb|AAD43248.1|AF116210_1 (AF116210) hemagglutinin [In...    69  5e-11
+SEQ gi|5442086|gb|AAD43245.1|AF116207_1 (AF116207) hemagglutinin [In...    68  7e-11
+SEQ gi|5442080|gb|AAD43242.1|AF116204_1 (AF116204) hemagglutinin [In...    67  1e-10
+SEQ gi|5442094|gb|AAD43249.1|AF116211_1 (AF116211) hemagglutinin [In...    67  2e-10
+SEQ gi|902761|gb|AAC54381.1| (U20463) hemagglutinin precursor [Influ...    67  2e-10
+SEQ gi|9988548|gb|AAG10680.1| (AF202256) hemagglutinin [Influenza A ...    67  2e-10
+SEQ gi|7769138|gb|AAF69261.1|AF203014_1 (AF203014) hemagglutinin [In...    67  2e-10
+SEQ gi|5442072|gb|AAD43238.1|AF116200_1 (AF116200) hemagglutinin [In...    67  2e-10
+SEQ gi|5442076|gb|AAD43240.1|AF116202_1 (AF116202) hemagglutinin [In...    67  2e-10
+SEQ gi|902775|gb|AAC54388.1| (U20470) hemagglutinin precursor [Influ...    66  3e-10
+SEQ gi|5442066|gb|AAD43235.1|AF116197_1 (AF116197) hemagglutinin [In...    66  3e-10
+SEQ gi|5442088|gb|AAD43246.1|AF116208_1 (AF116208) hemagglutinin [In...    66  3e-10
+SEQ gi|4433070|dbj|BAA21070.1| (D49961) hemagglutinin [Influenza A v...    66  4e-10
+SEQ gi|4433071|dbj|BAA21071.1| (D49966) hemagglutinin [Influenza A v...    66  4e-10
+SEQ gi|12231989|gb|AAG49337.1| (AF316819) hemagglutinin [influenza A...    65  5e-10
+SEQ gi|9988544|gb|AAG10678.1| (AF202254) hemagglutinin [Influenza A ...    65  8e-10
+SEQ gi|5442070|gb|AAD43237.1|AF116199_1 (AF116199) hemagglutinin [In...    64  9e-10
+SEQ gi|12231910|gb|AAG49313.1| (AF315570) hemagglutinin [influenza A...    64  1e-09
+SEQ gi|12231991|gb|AAG49338.1| (AF316820) truncated hemagglutinin [i...    64  1e-09
+SEQ gi|6318562|gb|AAF06948.1|AF131996_1 (AF131996) hemagglutinin HA1...    64  1e-09
+SEQ gi|6318564|gb|AAF06949.1|AF131997_1 (AF131997) hemagglutinin HA1...    64  1e-09
+SEQ gi|6318566|gb|AAF06950.1|AF131998_1 (AF131998) hemagglutinin HA1...    64  1e-09
+SEQ gi|5442084|gb|AAD43244.1|AF116206_1 (AF116206) hemagglutinin [In...    64  1e-09
+SEQ gi|5442090|gb|AAD43247.1|AF116209_1 (AF116209) hemagglutinin [In...    64  1e-09
+SEQ gi|12231912|gb|AAG49314.1| (AF315571) hemagglutinin [influenza A...    63  2e-09
+SEQ gi|12231993|gb|AAG49339.1| (AF316821) hemagglutinin [influenza A...    63  4e-09
+SEQ gi|5442068|gb|AAD43236.1|AF116198_1 (AF116198) hemagglutinin [In...    62  5e-09
+SEQ gi|12231892|gb|AAG49304.1| (AF315561) hemagglutinin [influenza A...    62  5e-09
+SEQ gi|12231900|gb|AAG49308.1| (AF315565) hemagglutinin [influenza A...    62  5e-09
+SEQ gi|12231906|gb|AAG49311.1| (AF315568) hemagglutinin [influenza A...    62  5e-09
+SEQ gi|12231987|gb|AAG49336.1| (AF316818) truncated hemagglutinin [i...    62  5e-09
+SEQ gi|1912319|gb|AAB50957.1| (U44482) hemagglutinin precursor [Infl...    58  1e-07
+SEQ gi|1912321|gb|AAB50958.1| (U45451) hemagglutinin precursor [Infl...    58  1e-07
+SEQ gi|902763|gb|AAC54382.1| (U20464) hemagglutinin precursor [Influ...    53  3e-06
+SEQ gi|902771|gb|AAC54386.1| (U20468) hemagglutinin precursor [Influ...    53  3e-06
+SEQ gi|1212731|dbj|BAA05874.1| (D28518) hemagglutinin [Influenza A v...    51  1e-05
+SEQ gi|902751|gb|AAC54376.1| (U20458) hemagglutinin precursor [Influ...    51  1e-05
+SEQ gi|902769|gb|AAC54385.1| (U20467) hemagglutinin precursor [Influ...    50  2e-05
+SEQ gi|11596263|gb|AAG38550.1| (AF310983) hemagglutinin [Influenza A...    50  2e-05
+SEQ gi|11596265|gb|AAG38551.1| (AF310984) hemagglutinin [Influenza A...    50  2e-05
+SEQ gi|11596267|gb|AAG38552.1| (AF310985) hemagglutinin [Influenza A...    50  2e-05
+SEQ gi|5353967|gb|AAD42309.1| (AF129889) hemagglutinin precursor [in...    47  1e-04
+SEQ 
+## SEQUENCE PROFILE AND ENTROPY
+ SeqNo PDBNo   V   L   I   M   F   W   Y   G   A   P   S   T   C   H   R   K   Q   E   N   D  NOCC NDEL NINS ENTROPY RELENT WEIGHT
+    1    1     0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+    2    2     0  74  21   0   5   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.706     23  0.00
+    3    3     0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+    4    4     0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.027      0  0.00
+    5    5     0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+    6    6     0   0  99   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.038      1  0.00
+    7    7     0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.025      0  0.00
+    8    8     0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.014      0  0.00
+    9    9     0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   10   10     0   5  95   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.210      7  0.00
+   11   11     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100   0   0     0    0    0   0.000      0  0.00
+   12   12     0   0   0   0   0   0   0  54   0   0   0   0   0   0   0   0   0   0  46   0     0    0    0   0.702     23  0.00
+   13   13     0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   14   14     0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   15   15     0   0   0   0   0   0   0   0   0   6   3  18   0   0   0   0  25  47   0   0     0    0    0   1.306     43  0.00
+   16   16     0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   17   17     0  26   0  74   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.573     19  0.00
+   18   18    49   0  49   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.754     25  0.00
+   19   19     0   0   0   0   0   0   0   0  12   0   0   0   0   0   0   0   0   0   2  86     0    0    0   0.487     16  0.00
+   20   20     0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.027      0  0.00
+   21   21     0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.014      0  0.00
+   22   22     0   0   0   0   0   0  94   0   0   0   0   0   0   5   0   0   0   0   0   0     0    0    0   0.247      8  0.00
+   23   23     0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.027      0  0.00
+   24   24     0   0   0   0  52   0  48   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.705     23  0.00
+   25   25     0   0   0   0   0   0   0   0   0   0   0   6   0  40  45   0   8   0   0   0     0    0    0   1.112     37  0.00
+   26   26     0   0   0   0   0   0   6   0   0   0   5   0   0  88   0   0   0   0   0   0     0    0    0   0.455     15  0.00
+   27   27     0   0   1   0   0   0   0   0   0   0  28   0   0   5   1   0  64   1   0   0     0    0    0   0.900     30  0.00
+   28   28     0   0   0   0   0   0   0   6   0   0   0   0   0   0   0   0   0   0  94   0     0    0    0   0.266      8  0.00
+   29   29     0   0   0   0   0   0   0   2  24   0  29   0   0   0   0   0   0  30   0  15     0    0    0   1.439     48  0.00
+   30   30     0   0   0   0   0   0   0   0   0   0   0   0   0   6   1   0  61  32   0   0     0    0    0   0.884     29  0.00
+   31   31     0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.014      0  0.00
+   32   32    12   0   0   0   0   0   0   0   0   0  41  34   0   0   0   0   0  12   0   0     0    0    0   1.286     42  0.00
+   33   33     0   0   0   0   0   0   0  94   6   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.258      8  0.00
+   34   34     6   0   2   7   0   0  41   0   0   0   0  17   0   0   0   0  27   0   0   0     0    0    0   1.451     48  0.00
+   35   35     0   0   0   0   0   0   0   0  99   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.054      1  0.00
+   36   36     0   0   0   0   0   0   0   4  96   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.189      6  0.00
+   37   37     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100     0    0    0   0.014      0  0.00
+   38   38     0  37   0   0   0   0  14   0   0   0   0   0   0   0  10  21  19   0   0   0     0    0    0   1.520     50  0.00
+   39   39     0   0   0   0   0   0   0   0   0   0   0   0   0   0   1  69   0  26   0   4     0    0    0   0.785     26  0.00
+   40   40     0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0     0    0    0   0.026      0  0.00
+   41   41     0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   42   42     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0     0    0    0   0.027      0  0.00
+   43   43     0   0   1   0   0   0   0   0  32   0  13   1   0   0   2  26   0   9  16   0     0    0    0   1.636     54  0.00
+   44   44     0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.015      0  0.00
+   45   45     4   0  92   0   3   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.336     11  0.00
+   46   46     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  21  79     0    0    0   0.512     17  0.00
+   47   47     0   1   0   0   0   0   0  39   0   0   0   0   0   0   0  13  46   0   0   0     0    0    0   1.083     36  0.00
+   48   48    10   0  90   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.361     12  0.00
+   49   49     0   0   0   0   0   0   0   0   0   0   2  66   0   0   0   0   0   0  32   0     0    0    0   0.739     24  0.00
+   50   50     0   0   0   0   0   0   0  46   0   0   6   2   0   0   0   6   0   0  39   0     0    0    0   1.183     39  0.00
+   51   51     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  93   0   0   6   0     0    0    0   0.280      9  0.00
+   52   52    47  52   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.764     25  0.00
+   53   53     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  99   0     0    0    0   0.042      1  0.00
+   54   54     0   0   0   0   0   0   0   0   0   0  44   0   0   0  46   0   0   0   9   0     0    0    0   1.002     33  0.00
+   55   55    43  32  25   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.076     35  0.00
+   56   56     4   0  90   0   0   0   0   0   0   0   6   0   0   0   0   0   0   0   0   0     0    0    0   0.412     13  0.00
+   57   57     0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   1   0  74   6  18     0    0    0   0.772     25  0.00
+   58   58     0   6   0   0   0   0   0   0   0   0   0   0   0   0   7  87   0   0   0   0     0    0    0   0.497     16  0.00
+   59   59     0   0   1  47   0   0   0   0   0   0   0  45   0   0   0   0   0   6   0   0     0    0    0   0.961     32  0.00
+   60   60     6   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  93   0     0    0    0   0.281      9  0.00
+   61   61     0   0   1   0   0   0   0   1   0   0   0  39   0   0   0  12  13  31   0   1     0    0    0   1.494     49  0.00
+   62   62     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  33  58   1   7   0     0    0    0   0.961     32  0.00
+   63   63     0   6   0   0  82   0  12   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.577     19  0.00
+   64   64     0   0   0   0   0   0   0   0   0   0   0  17   0  33   0   1   6  42   0   2     0    0    0   1.313     43  0.00
+   65   65     2  14   5   0   0   0   0   0  38   0   3   0   0   0   6   0  33   0   0   0     0    0    0   1.517     50  0.00
+   66   66    40   6  53   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.924     30  0.00
+   67   67     0   0   0   0   0   0   0  38   0   0   7   0   0   0   1   0   0  34   1  19     0    0    0   1.336     44  0.00
+   68   68     0   0   0   0   0   0   0   7   0   0   1   0   0   6   8  64   0   0  13   0     0    0    0   1.173     39  0.00
+   69   69     0   0   0   0   0   0   0   0   6   0   0   0   0   0   0   0   0  94   0   0     0    0    0   0.223      7  0.00
+   70   70     0   0   0   6  94   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.253      8  0.00
+   71   71     0   0   0   0   0   0   0   1   0   0  39  10   0   0   0   0   0   4  40   6     0    0    0   1.313     43  0.00
+   72   72     0   0   0   0   0   0   0   1   0   0   1   0   0   5   0   5   5  53  28   2     0    0    0   1.310     43  0.00
+   73   73    46  46   7   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.951     31  0.00
+   74   74     0   0   0   0   0   0   0   0   0   0   0   0   0   6   0   0   0  94   0   0     0    0    0   0.246      8  0.00
+   75   75     0   0   0   0   0   0   0  32   2   0   0   2   0   1  25  29   2   1   7   0     0    0    0   1.586     52  0.00
+   76   76     0   0   0   0   0   0   0   0   0   0   0   0   0   0  79   0  14   6   0   0     0    0    0   0.640     21  0.00
+   77   77     1  13  80   6   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.655     21  0.00
+   78   78     0   6   0   0   0   0   0  15   0   0   0   0   0   0   0   1  32  39   7   0     0    0    0   1.436     47  0.00
+   79   79     0   0   0   7   0   0   0   0   0   0   0   0   0   0   0   0   0   6  54  32     0    0    0   1.116     37  0.00
+   80   80    14  80   5   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.621     20  0.00
+   81   81     0   0  14   0   0   0   0   0   1   0   0   0   0   0   0   0   0  32  46   6     0    0    0   1.257     41  0.00
+   82   82     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  71   0   6  20   2     0    0    0   0.836     27  0.00
+   83   83     0   0   0   0   0  14  32   0   0   0   0   0   0   0   2  49   1   0   0   0     0    0    0   1.227     40  0.00
+   84   84    55   1   7  22   0   0   0   0   0   0   0  14   0   0   0   0   0   0   0   0     0    0    0   1.175     39  0.00
+   85   85     0   0   0   0   0   0   0   0   0   0   0   0   0   0  13   1   0  55   0  30     0    0    0   1.027     34  0.00
+   86   86     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1  99     0    0    0   0.071      2  0.00
+   87   87     0   6   0   0   0   0   0  40   2   0  14  32   0   0   0   0   6   0   0   0     0    0    0   1.418     47  0.00
+   88   88     2   1  15   4  40   0   0   0   0   0   0   0   0   0   6  32   0   0   0   0     0    0    0   1.451     48  0.00
+   89   89     0  39  35   0   0   0   0   0   6   0   0  14   0   0   0   0   5   0   0   0     0    0    0   1.357     45  0.00
+   90   90     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  14   1  85     0    0    0   0.485     16  0.00
+   91   91    46  32  15   0   0   0   0   0   0   0   0   6   0   0   0   0   0   0   0   0     0    0    0   1.189     39  0.00
+   92   92     0   0   6   0   0  94   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.249      8  0.00
+   93   93     0   0   0   0   0   0   0   0   6   0  54  41   0   0   0   0   0   0   0   0     0    0    0   0.860     28  0.00
+   94   94     0   0   0   0   0   0  94   0   0   0   6   0   0   0   0   0   0   0   0   0     0    0    0   0.250      8  0.00
+   95   95     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   6   0  94   0     0    0    0   0.240      8  0.00
+   96   96     0   0   6   0   0   0   0   0  93   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.297      9  0.00
+   97   97     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0  94   0   4     0    0    0   0.269      8  0.00
+   98   98     4  92   0   0   3   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.345     11  0.00
+   99   99     0  94   0   0   0   0   0   0   6   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.256      8  0.00
+  100  100    99   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.051      1  0.00
+  101  101     0  53   0   0   0   0   0   0  46   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.716     23  0.00
+  102  102     2  63   0  35   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.752     25  0.00
+  103  103     0   0   0   0   0   0   0   1   0   0   6   0   0   0   0   0   0  93   0   0     0    0    0   0.268      8  0.00
+  104  104     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100   0     0    0    0   0.016      0  0.00
+  105  105     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  53  46   0   1     0    0    0   0.753     25  0.00
+  106  106     0   0   0   0   0   0   0   6   0   0   0   0   0  47  39   7   0   0   0   0     0    0    0   1.120     37  0.00
+  107  107     0   0   6   0   0   0   0   0   0   0   0  93   0   0   0   0   0   0   0   0     0    0    0   0.251      8  0.00
+  108  108     0  47  53   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.691     23  0.00
+  109  109     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   6  93     0    0    0   0.269      8  0.00
+  110  110     4  44   0   2  35   0   3   0   0   0   6   0   0   0   0   0   0   6   0   0     0    0    0   1.395     46  0.00
+  111  111     0   0   0   0   0   0   0   0  13   0   0  34   0  47   0   0   0   6   0   0     0    0    0   1.153     38  0.00
+  112  112     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  99     0    0    0   0.061      2  0.00
+  113  113     0   1   0   0   2   0   0   0  16   0  75   0   0   0   0   0   0   6   0   0     0    0    0   0.815     27  0.00
+  114  114     0   0   0   0   0   0   0   0   0   0   1   0   0   6   0   0   0  47  46   0     0    0    0   0.939     31  0.00
+  115  115    47   6   0  47   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.920     30  0.00
+  116  116     0   7   0   0   0   0   0   0   0   0   0   0   0   0   7  35   0   0  50   0     0    0    0   1.126     37  0.00
+  117  117     0   0   0   0   0   0   0   0   6   0   1   0   0   0   1  46   0   0  46   0     0    0    0   1.004     33  0.00
+  118  118     0  99   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.061      2  0.00
+  119  119     0   0   0   0  33   0  59   0   0   0   0   0   0   2   0   0   0   6   0   0     0    0    0   0.927     30  0.00
+  120  120     0   0   0   0   0   0   0   0   0   0   0   0   0   0   6   0   0  65   6  23     0    0    0   0.974     32  0.00
+  121  121     0   0   0   0   0   0   0   0   0   0   0   0   0   0  26  73   2   0   0   0     0    0    0   0.660     22  0.00
+  122  122    66   6   0   0   0   0   0   0   0   0   0  28   0   0   0   0   0   0   0   0     0    0    0   0.836     27  0.00
+  123  123     0   0   0   0   0   0   0   0   0   0   0   0   0   0  76  23   0   0   0   0     0    0    0   0.558     18  0.00
+  124  124     0  16   0   7   0   0   0   1   0   0  16   0   0   1  43  17   0   0   1   0     0    0    0   1.547     51  0.00
+  125  125     0   0   0   6   0   0   0   0   6   0   0   0   0   0   0   0  87   1   0   0     0    0    0   0.532     17  0.00
+  126  126     0 100   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+  127  127     0   0   0   0   0   0   0  11   0   0   0   0   0   0  76  12   0   0   0   0     0    0    0   0.723     24  0.00
+  128  128     0   0   0   0   0   0   0   0   0   6   5   0   0   0   0   0   1  46  16  25     0    0    0   1.419     47  0.00
+  129  129     0   0   0   0   0   0   0   0   0   0   6   0   0   0   0   0   0   0  94   0     0    0    0   0.226      7  0.00
+  130  130     3   0   0   0   0   0   0   0  97   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.134      4  0.00
+  131  131     7   0   3   4   0   0   0   0   0   0   0   0   0   0   2  38   0  46   0   0     0    0    0   1.224     40  0.00
+  132  132     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  63   0  36     0    0    0   0.709     23  0.00
+  133  133     1  22  23  26   0   0   0   0   0   0   0   0   0   0   0   4   1   2   0  20     0    0    0   1.680     56  0.00
+  134  134     0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.029      0  0.00
+  135  135     0   0   0   0   0   0   0   5   0   0   0  12   0   0   0   4   0   0  77   0     0    0    0   0.800     26  0.00
+  136  136     0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.032      1  0.00
+  137  137     0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0     0    0    0   0.032      1  0.00
+  138  138     0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.029      0  0.00
+  139  139     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  26   0  73   0   0     0    0    0   0.635     21  0.00
+  140  140     0   7  47   0  41   0   0   0   0   0   0   6   0   0   0   0   0   0   0   0     0    0    0   1.069     35  0.00
+  141  141     0   2   0   0  19   1  73   0   0   0   0   0   0   0   0   6   0   0   0   0     0    0    0   0.841     28  0.00
+  142  142     0   0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0     0    0    0   0.016      0  0.00
+  143  143     0   0   0   0   0   0   0   0   0   0   0   1   0   0   1  93   5   0   0   0     0    0    0   0.301     10  0.00
+  144  144     0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+  145  145     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  11  89     0    0    0   0.351     11  0.00
+  146  146     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   6   0  59  35     0    0    0   0.861     28  0.00
+  147  147     1   0   0   0   0   0   0   0  26   0   3  12   0   0   0   1   6  33   5  12     0    0    0   1.780     59  0.00
+  148  148     0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+  149  149     0   6  32  62   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.841     28  0.00
+  150  150     0   0   0   0   0   0   0  14  14   0   0   0   0   0   0   0   0  58   6   7     0    0    0   1.245     41  0.00
+  151  151     0   0   0   0   0   0   0   0   0   0  86   7   0   0   6   0   0   0   0   0     0    0    0   0.489     16  0.00
+  152  152    39   0  61   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.684     22  0.00
+  153  153     0   0   0   0   0   0   0   0   6   0   0   0   0   0  65  29   0   0   0   0     0    0    0   0.822     27  0.00
+  154  154     0   0   0   0   0   0   0   0   6   0   0   0   0   0   0   0   0   0  94   0     0    0    0   0.242      8  0.00
+  155  155     0   0   0   0   0   0   0  84   0   0   0   0   0   0   0   0   0   0  15   0     0    0    0   0.454     15  0.00
+  156  156     0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0     0    0    0   0.032      1  0.00
+  157  157     0   0   0   0   6   0  94   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.226      7  0.00
+  158  158     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  16  84     0    0    0   0.458     15  0.00
+  159  159     0   0   0   0   0   0  43   0   0   0   0   0   0  51   5   0   0   0   0   0     0    0    0   0.861     28  0.00
+  160  160     0   0   0   0   0   0   6   0   0  42  13   2   0   0   4   3   1   0   2  25     0    0    0   1.649     55  0.00
+  161  161    14   0  18   0   0   0   0   0   0   0   0   1   0   0   2  42  18   3   0   0     0    0    0   1.523     50  0.00
+  162  162     0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.017      0  0.00
+  163  163     0   0   0   0   0   0   0   0   1   0  35   0   0   0  50   3   2   9   0   0     0    0    0   1.179     39  0.00
+  164  164     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   3   0  62   0  33     0    0    0   0.873     29  0.00
+  165  165     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100   0   0     0    0    0   0.031      1  0.00
+  166  166     0   0   0   0   0   0   0   0  63   0  37   0   0   0   0   0   0   0   0   0     0    0    0   0.674     22  0.00
+  167  167     0  30   9  10   0   0   0   0   0   0   1   0   0   0  23  27   0   0   0   0     0    0    0   1.535     51  0.00
+  168  168     0  51   0   0   0   0   0   0   0   0   0   0   0   0   0   0  15   0  33   0     0    0    0   1.053     35  0.00
+  169  169     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   2   0   6  91   0     0    0    0   0.394     13  0.00
+  170  170     0   0   0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0     0    0    0   0.000      0  0.00
+  171  171     1   1  15   0  33   0   0   0   0   0   0   1   0   0   0   1   8  34   6   0     0    0    0   1.600     53  0.00
+  172  172     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  15  46  37   1   0     0    0    0   1.111     37  0.00
+  173  173     2   0  98   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.087      2  0.00
+  174  174     0   0   0   0   0   0   0   0   0   0  16   0   0   0   2  41   5   8   1  28     0    0    0   1.476     49  0.00
+  175  175     0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+//

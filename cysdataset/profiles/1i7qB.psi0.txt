@@ -1,0 +1,392 @@
+ID Pseudo hssp file.
+SEQ 
+SEQ gi|14277773|pdb|1I7Q|B Chain B, Anthranilate Synthase From S. Ma...   356  2e-97
+SEQ gi|68258|pir||NNSE2 anthranilate synthase (EC 4.1.3.27) componen...   352  2e-96
+SEQ gi|136362|sp|P00900|TRPG_SERMA ANTHRANILATE SYNTHASE COMPONENT I...   352  3e-96
+SEQ gi|154392|gb|AAA57312.1| (J01811) trpD [Salmonella typhimurium]       304  8e-82
+SEQ gi|13361300|dbj|BAB35258.1| (AP002556) anthranilate synthase com...   302  3e-81
+SEQ gi|12515535|gb|AAG56553.1|AE005380_12 (AE005380) anthranilate sy...   302  3e-81
+SEQ gi|2506459|sp|P00904|TRPG_ECOLI ANTHRANILATE SYNTHASE COMPONENT ...   302  3e-81
+SEQ gi|1742072|dbj|BAA14813.1| (D90765) Anthranilate synthase (EC 4....   301  4e-81
+SEQ gi|43194|emb|CAA23665.1| (V00367) reading frame trpD [Escherichi...   301  4e-81
+SEQ gi|68263|pir||NNEB2T anthranilate synthase (EC 4.1.3.27) compone...   299  1e-80
+SEQ gi|1351306|sp|P00905|TRPG_SALTY ANTHRANILATE SYNTHASE COMPONENT ...   299  1e-80
+SEQ gi|68264|pir||NNEB2D anthranilate synthase (EC 4.1.3.27) compone...   299  2e-80
+SEQ gi|136363|sp|P00906|TRPG_SHIDY ANTHRANILATE SYNTHASE COMPONENT I...   299  3e-80
+SEQ gi|14278479|pdb|1I1Q|B Chain B, Structure Of The Cooperative All...   299  3e-80
+SEQ gi|11268512|pir||H82232 anthranilate synthase component II VC117...   233  1e-60
+SEQ gi|14548287|sp|Q9KST3|TRPG_VIBCH ANTHRANILATE SYNTHASE COMPONENT...   233  1e-60
+SEQ gi|6478307|gb|AAF13811.1|AF130815_3 (AF130815) anthranilate synt...   233  2e-60
+SEQ gi|1082004|gb|AAB05987.1| (L43551) anthranilate synthase small s...   230  1e-59
+SEQ gi|1082001|gb|AAB05975.1| (L43550) anthranilate synthase small s...   230  1e-59
+SEQ gi|4160157|emb|CAA09997.1| (AJ012334) anthranilate synthase [Buc...   230  1e-59
+SEQ gi|10957101|ref|NP_057963.1| anthranilate synthase small subunit...   229  2e-59
+SEQ gi|1174795|sp|P42388|TRPG_BUCAP ANTHRANILATE SYNTHASE COMPONENT ...   229  2e-59
+SEQ gi|1082007|gb|AAD09347.1| (L43555) anthranilate synthase small s...   229  3e-59
+SEQ gi|136365|sp|P22101|TRPG_VIBPA ANTHRANILATE SYNTHASE COMPONENT I...   227  7e-59
+SEQ gi|6175098|sp|P71381|TRPG_HAEIN ANTHRANILATE SYNTHASE COMPONENT ...   223  1e-57
+SEQ gi|1374673|gb|AAB02276.1| (L46769) anthranilate synthase small s...   221  6e-57
+SEQ gi|8996003|gb|AAF82315.1| (L81122) anthranilate synthase small s...   218  6e-56
+SEQ gi|769832|gb|AAC31216.1| (U09184) anthranilate synthase small su...   216  1e-55
+SEQ gi|8996006|gb|AAF82317.1|L81123_2 (L81123) anthranilate synthase...   206  2e-52
+SEQ gi|12720852|gb|AAK02667.1| (AE006094) TrpG [Pasteurella multocida]    205  3e-52
+SEQ gi|11138493|gb|AAG31409.1|AF197459_2 (AF197459) anthranilate syn...   198  4e-50
+SEQ gi|8996019|gb|AAF82321.1| (L81124) anthranilate synthase small s...   195  4e-49
+SEQ gi|11138509|gb|AAG31420.1|AF197464_2 (AF197464) anthranilate syn...   194  7e-49
+SEQ gi|11138500|gb|AAG31414.1|AF197461_2 (AF197461) anthranilate syn...   192  4e-48
+SEQ gi|11138506|gb|AAG31418.1|AF197463_2 (AF197463) anthranilate syn...   191  4e-48
+SEQ gi|11138490|gb|AAG31407.1|AF197458_3 (AF197458) anthranilate syn...   186  2e-46
+SEQ gi|11138497|gb|AAG31412.1|AF197460_2 (AF197460) anthranilate syn...   185  5e-46
+SEQ gi|8996024|gb|AAF82324.1|AD001677_2 (AD001677) anthranilate synt...   182  3e-45
+SEQ gi|13398222|gb|AAK21790.1| (AF196447) TrpG [Buchnera aphidicola]...   182  3e-45
+SEQ gi|13398234|gb|AAK21798.1| (AF196451) TrpG [Buchnera aphidicola]      182  3e-45
+SEQ gi|13398273|gb|AAK21824.1| (AF196464) TrpG [Buchnera aphidicola]      182  3e-45
+SEQ gi|11138503|gb|AAG31416.1|AF197462_2 (AF197462) anthranilate syn...   178  5e-44
+SEQ gi|4160153|emb|CAA09994.1| (AJ012333) anthranilate synthase smal...   170  9e-42
+SEQ gi|11268529|pir||T44524 anthranilate synthase (EC 4.1.3.27) beta...   155  5e-37
+SEQ gi|10172703|dbj|BAB03810.1| (AP001507) para-aminobenzoate synthe...   148  4e-35
+SEQ gi|151626|gb|AAA26018.1| (M15733) trpG [Pseudomonas aeruginosa]       147  8e-35
+SEQ gi|94754|pir||B35116 anthranilate synthase (EC 4.1.3.27) compone...   147  1e-34
+SEQ gi|12230947|sp|P09786|PHNB_PSEAE ANTHRANILATE SYNTHASE COMPONENT...   147  1e-34
+SEQ gi|129521|sp|P28819|PABA_BACSU PARA-AMINOBENZOATE/ANTHRANILATE S...   146  2e-34
+SEQ gi|6136046|sp|O25868|TRPG_HELPY ANTHRANILATE SYNTHASE COMPONENT ...   146  2e-34
+SEQ gi|11268516|pir||B82835 anthranilate synthase component II XF021...   143  1e-33
+SEQ gi|1073850|pir||D64121 anthranilate synthase component II homolo...   142  3e-33
+SEQ gi|12230791|sp|Q9ZJU6|TRPG_HELPJ ANTHRANILATE SYNTHASE COMPONENT...   142  4e-33
+SEQ gi|136364|sp|P05379|TRPG_THETH ANTHRANILATE SYNTHASE COMPONENT I...   141  8e-33
+SEQ gi|129522|sp|P00903|PABA_ECOLI PARA-AMINOBENZOATE SYNTHASE GLUTA...   140  1e-32
+SEQ gi|12517985|gb|AAG58468.1|AE005559_4 (AE005559) p-aminobenzoate ...   140  1e-32
+SEQ gi|12230949|sp|P20576|TRPG_PSEAE ANTHRANILATE SYNTHASE COMPONENT...   140  2e-32
+SEQ gi|94825|pir||A35114 trpG protein - Pseudomonas aeruginosa >gi|1...   139  2e-32
+SEQ gi|2494754|sp|Q57690|TRPG_METJA ANTHRANILATE SYNTHASE COMPONENT ...   139  3e-32
+SEQ gi|11268518|pir||G82054 para-aminobenzoate synthase glutamine am...   138  6e-32
+SEQ gi|7480466|pir||T36305 probable anthranilate synthase component ...   138  6e-32
+SEQ gi|11268537|pir||H81135 para-aminobenzoate synthase glutamine am...   138  7e-32
+SEQ gi|7436747|pir||E70349 anthranilate synthase component II - Aqui...   135  5e-31
+SEQ gi|479571|pir||S34747 anthranilate synthase (EC 4.1.3.27) compon...   134  6e-31
+SEQ gi|600088|emb|CAA52203.1| (X74075) anthranilate synthase compone...   134  6e-31
+SEQ gi|6226721|sp|Q08654|TRPG_THEMA ANTHRANILATE SYNTHASE COMPONENT ...   134  6e-31
+SEQ gi|68259|pir||NNPS2P anthranilate synthase (EC 4.1.3.27) compone...   134  9e-31
+SEQ gi|129525|sp|P06195|PABA_SERMA PARA-AMINOBENZOATE SYNTHASE GLUTA...   134  1e-30
+SEQ gi|13423346|gb|AAK23872.1| (AE005863) glutamine amidotransferase...   134  1e-30
+SEQ gi|11268533|pir||F81883 anthranilate synthase (EC 4.1.3.27) chai...   134  1e-30
+SEQ gi|136296|sp|P24773|TRPG_PENCH ANTHRANILATE SYNTHASE COMPONENT I...   133  1e-30
+SEQ gi|136360|sp|P00901|TRPG_PSEPU ANTHRANILATE SYNTHASE COMPONENT I...   133  1e-30
+SEQ gi|136358|sp|P20409|TRPG_PHYBL ANTHRANILATE SYNTHASE COMPONENT I...   133  1e-30
+SEQ gi|169014|gb|AAA33633.1| (M23177) trifunctional protein with glu...   133  1e-30
+SEQ gi|2782|emb|CAA26280.1| (X02425) unidentified reading frame (aa ...   133  2e-30
+SEQ gi|136354|sp|P09575|TRPG_PICAN ANTHRANILATE SYNTHASE COMPONENT I...   133  2e-30
+SEQ gi|129523|sp|P06194|PABA_KLEAE PARA-AMINOBENZOATE SYNTHASE GLUTA...   133  2e-30
+SEQ gi|7471140|pir||C75356 anthranilate synthase component II - Dein...   131  6e-30
+SEQ gi|7480713|pir||T36720 probable glutamine amidotransferase - Str...   131  6e-30
+SEQ gi|136357|sp|P00908|TRPG_NEUCR ANTHRANILATE SYNTHASE COMPONENT I...   131  6e-30
+SEQ gi|12620790|gb|AAG61066.1|AF322013_185 (AF322013) ID891 [Bradyrh...   131  7e-30
+SEQ gi|101772|pir||S11161 anthranilate synthase multifunctional prot...   129  2e-29
+SEQ gi|11268520|pir||T46854 anthranilate synthase (EC 4.1.3.27) comp...   129  2e-29
+SEQ gi|101806|pir||S07305 trpC protein - Emericella nidulans >gi|242...   129  2e-29
+SEQ gi|136287|sp|P06531|TRPG_EMENI ANTHRANILATE SYNTHASE COMPONENT I...   129  2e-29
+SEQ gi|136286|sp|P05328|TRPG_ASPNG ANTHRANILATE SYNTHASE COMPONENT I...   127  8e-29
+SEQ gi|129524|sp|P06193|PABA_SALTY PARA-AMINOBENZOATE SYNTHASE GLUTA...   126  3e-28
+SEQ gi|6007836|gb|AAF01063.1|AF189258_2 (AF189258) amidotransferase ...   126  3e-28
+SEQ gi|6322638|ref|NP_012711.1| anthranilate synthase Component II a...   125  4e-28
+SEQ gi|10119769|dbj|BAB13482.1| (AB028647) TRP1 [Flammulina velutipes]    125  4e-28
+SEQ gi|136285|sp|P18483|TRPG_ASPAW ANTHRANILATE SYNTHASE COMPONENT I...   125  4e-28
+SEQ gi|11465828|ref|NP_053972.1| anthranilate synthase component II ...   125  4e-28
+SEQ gi|173045|gb|AAA35176.1| (K01386) anthranilate synthase Componen...   125  4e-28
+SEQ gi|11467408|ref|NP_043265.1| glutamine amidotransferase associat...   125  5e-28
+SEQ gi|551804|gb|AAA23774.1| (M28363) para-aminobenzoate [Escherichi...   125  5e-28
+SEQ gi|11268600|pir||T46566 anthranilate synthase (EC 4.1.3.27), tri...   124  7e-28
+SEQ gi|13432284|sp|Q92370|TRPG_SCHPO ANTHRANILATE SYNTHASE COMPONENT...   124  7e-28
+SEQ gi|2239264|gb|AAB65804.1| (U17138) ORFM [Dichelobacter nodosus]       122  2e-27
+SEQ gi|417442|sp|P32483|PABS_STRGR PARA-AMINOBENZOATE SYNTHASE (P-AM...   121  5e-27
+SEQ gi|12231159|emb|CAC22117.1| (AJ300302) PABA synthase [Streptomyc...   121  5e-27
+SEQ gi|136349|sp|P00902|TRPG_ACICA ANTHRANILATE SYNTHASE COMPONENT I...   120  1e-26
+SEQ gi|10581117|gb|AAG19901.1| (AE005074) anthranilate synthase beta...   119  3e-26
+SEQ gi|7436748|pir||S74362 anthranilate synthase (EC 4.1.3.27) compo...   119  4e-26
+SEQ gi|171126|gb|AAA34450.1| (M36300) glutamine amidotransferase (TR...   118  4e-26
+SEQ gi|136351|sp|P06558|TRPG_BRELA ANTHRANILATE SYNTHASE COMPONENT I...   118  4e-26
+SEQ gi|136350|sp|P26922|TRPG_AZOBR ANTHRANILATE SYNTHASE COMPONENT I...   118  5e-26
+SEQ gi|7471139|pir||F75547 anthranilate synthase component I - Deino...   118  6e-26
+SEQ gi|7436762|pir||T10008 probable p-aminobenzoate synthase (EC 4.1...   117  8e-26
+SEQ gi|13700604|dbj|BAB41901.1| (AP003131) ORFID:SA0668~hypothetical...   117  8e-26
+SEQ gi|13623006|gb|AAK34676.1| (AE006622) anthranilate synthase comp...   117  1e-25
+SEQ gi|9758358|dbj|BAB08859.1| (AB013396) anthranilate synthase beta...   116  2e-25
+SEQ gi|7436746|pir||C70699 probable pabA protein - Mycobacterium tub...   116  2e-25
+SEQ gi|136297|sp|P25170|TRPG_PHACH ANTHRANILATE SYNTHASE COMPONENT I...   116  3e-25
+SEQ gi|14330265|emb|CAC41002.1| (AJ298077) indole-glycerol phosphate...   116  3e-25
+SEQ gi|14329790|emb|CAC40999.1| (AJ298078) indole-glycerol phosphate...   115  5e-25
+SEQ gi|541849|pir||JQ2340 anthranilate synthase (EC 4.1.3.27) beta c...   114  7e-25
+SEQ gi|464940|sp|P33974|TRPG_HALVO ANTHRANILATE SYNTHASE COMPONENT I...   114  8e-25
+SEQ gi|9945071|gb|AAG03108.1|AC004133_2 (AC004133) F5A9.3 [Arabidops...   112  5e-24
+SEQ gi|1575336|gb|AAC44866.1| (U60417) PapA [Streptomyces pristinaes...   111  6e-24
+SEQ gi|12724294|gb|AAK05413.1|AE006363_8 (AE006363) para-aminobenzoa...   111  6e-24
+SEQ gi|136356|sp|P26923|TRPG_METTM ANTHRANILATE SYNTHASE COMPONENT I...   110  1e-23
+SEQ gi|1717765|sp|P50872|TRPE_AZOBR ANTHRANILATE SYNTHASE [INCLUDES:...   110  1e-23
+SEQ gi|7436760|pir||D72489 probable anthranilate synthase component ...   109  2e-23
+SEQ gi|129526|sp|P27627|PABA_STRLI PARA-AMINOBENZOATE SYNTHASE GLUTA...   109  2e-23
+SEQ gi|11465523|ref|NP_045086.1| unknown; anthranilate synthase comp...   107  9e-23
+SEQ gi|13472468|ref|NP_104035.1| anthranilate synthase [Mesorhizobiu...   106  2e-22
+SEQ gi|3334392|sp|O27693|TRPG_METTH ANTHRANILATE SYNTHASE COMPONENT ...   106  2e-22
+SEQ gi|267174|sp|Q02003|TRPG_LACLA ANTHRANILATE SYNTHASE COMPONENT I...   106  2e-22
+SEQ gi|11268531|pir||T43925 anthranilate synthase component2 [import...   106  2e-22
+SEQ gi|1351305|sp|P20441|TRPG_LEPBI ANTHRANILATE SYNTHASE COMPONENT ...   106  2e-22
+SEQ gi|11499195|ref|NP_070431.1| anthranilate synthase component II ...   105  4e-22
+SEQ gi|136328|sp|P15395|TRPE_RHIME ANTHRANILATE SYNTHASE [INCLUDES: ...   104  7e-22
+SEQ gi|9945079|gb|AAG03116.1|AC004133_10 (AC004133) F5A9.17 [Arabido...   104  8e-22
+SEQ gi|14520677|ref|NP_126152.1| anthranilate synthase component II ...   104  9e-22
+SEQ gi|13487153|gb|AAK27443.1|AF326474_1 (AF326474) anthranilate syn...   102  5e-21
+SEQ gi|2494752|sp|Q92411|TRPG_COCHE ANTHRANILATE SYNTHASE COMPONENT ...   101  7e-21
+SEQ gi|421728|pir||B40635 anthranilate synthase (EC 4.1.3.27) compon...   101  7e-21
+SEQ gi|14286183|sp|Q06129|TRPG_SULSO ANTHRANILATE SYNTHASE COMPONENT...   100  1e-20
+SEQ gi|11268535|pir||E81359 para-aminobenzoate synthase glutamine am...    98  1e-19
+SEQ gi|12721845|gb|AAK03547.1| (AE006183) TrpG [Pasteurella multocida]     96  2e-19
+SEQ gi|6434050|emb|CAB60753.1| (Y18640) anthranilate synthase compon...    92  4e-18
+SEQ gi|99119|pir||G40362 trpG protein - Methanobacterium thermoautot...    92  5e-18
+SEQ gi|13701165|dbj|BAB42460.1| (AP003133) anthranilate synthase com...    92  5e-18
+SEQ gi|11268541|pir||A81377 anthranilate synthase (EC 4.1.3.27) chai...    90  2e-17
+SEQ gi|8885511|dbj|BAA97450.1| (AB045308) anthranilate synthetase co...    85  8e-16
+SEQ gi|710438|gb|AAB30312.1| (U21728) p-aminobenzoic acid synthase [...    83  3e-15
+SEQ gi|6969436|gb|AAF33779.1|AF219260_3 (AF219260) TrpG [Haemophilus...    82  5e-15
+SEQ gi|13541854|ref|NP_111542.1| Anthranilate synthase component II ...    81  7e-15
+SEQ gi|11268514|pir||C82622 anthranilate synthase component II XF191...    80  2e-14
+SEQ gi|10640084|emb|CAC11936.1| (AL445065) probable anthranilate syn...    76  3e-13
+SEQ gi|3927835|gb|AAC79592.1| (AC005727) putative para-aminobenzoate...    75  7e-13
+SEQ gi|136352|sp|P14952|TRPG_CLOTM ANTHRANILATE SYNTHASE COMPONENT I...    75  8e-13
+SEQ gi|1174796|sp|P44339|YB71_HAEIN PUTATIVE ANTHRANILATE SYNTHASE C...    74  1e-12
+SEQ gi|9621911|gb|AAF89583.1|AF166096_1 (AF166096) para-aminobenzoic...    72  6e-12
+SEQ gi|7492789|pir||T40823 probable para-aminobenzoate synthase - fi...    70  2e-11
+SEQ gi|14521011|ref|NP_126486.1| GMP synthase, Nter domain [Pyrococc...    59  3e-08
+SEQ gi|7481909|pir||T03800 anthranilate synthase - Streptomyces viol...    59  4e-08
+SEQ gi|13627172|sp|Q9RT91|GUAA_DEIRA GMP SYNTHASE [GLUTAMINE-HYDROLY...    59  5e-08
+SEQ gi|295637|gb|AAA34840.1| (L15299) para-aminobenzoate synthase [S...    58  1e-07
+SEQ gi|1163191|gb|AAB49319.1| (U43608) Abz1p [Saccharomyces cerevisiae]    58  1e-07
+SEQ gi|6324361|ref|NP_014431.1| para-aminobenzoate synthase, PABA sy...    58  1e-07
+SEQ gi|2507502|sp|P37254|PABS_YEAST PARA-AMINOBENZOATE SYNTHASE (P-A...    58  1e-07
+SEQ gi|7436752|pir||F69194 GMP synthetase, subunit A - Methanobacter...    58  1e-07
+SEQ gi|7436751|pir||D71006 probable GMP synthase - Pyrococcus horiko...    58  1e-07
+SEQ gi|13638101|sp|O52831|GUAA_CORAM GMP SYNTHASE [GLUTAMINE-HYDROLY...    57  2e-07
+SEQ gi|13627139|sp|Q9L0H2|GUAA_STRCO GMP SYNTHASE [GLUTAMINE-HYDROLY...    55  8e-07
+SEQ gi|2765079|emb|CAA71524.1| (Y10499) GMP synthase [Corynebacteriu...    54  1e-06
+SEQ gi|13700305|dbj|BAB41603.1| (AP003130) GMP synthase [Staphylococ...    54  2e-06
+SEQ gi|2127945|pir||F64496 GMP synthetase (EC 6.3.-.-) - Methanococc...    52  6e-06
+SEQ gi|4885032|gb|AAD31929.1|AF149719_1 (AF149719) para aminobenzoic...    51  1e-05
+SEQ gi|12230201|sp|Q9ZKG4|GUAA_HELPJ GMP SYNTHASE [GLUTAMINE-HYDROLY...    50  2e-05
+SEQ gi|7436759|pir||T03649 probable anthranilate synthase (EC 4.1.3....    50  2e-05
+SEQ gi|2494764|sp|Q50729|GUAA_MYCTU GMP SYNTHASE [GLUTAMINE-HYDROLYZ...    49  5e-05
+SEQ gi|13883330|gb|AAK47841.1| (AE007156) GMP synthase [Mycobacteriu...    49  5e-05
+SEQ gi|1346218|sp|P49057|GUAA_SYNY3 PROBABLE GMP SYNTHASE [GLUTAMINE...    48  8e-05
+SEQ gi|2145847|pir||S72813 GMP synthase (glutamine-hydrolyzing) (EC ...    48  9e-05
+SEQ gi|13638206|sp|P46810|GUAA_MYCLE GMP SYNTHASE [GLUTAMINE-HYDROLY...    48  9e-05
+SEQ gi|13472256|ref|NP_103823.1| carbamoyl-phosphate synthetase smal...    47  2e-04
+SEQ gi|13627247|sp|Q9Z6H4|GUAA_LACLC GMP SYNTHASE [GLUTAMINE-HYDROLY...    47  2e-04
+SEQ gi|11350756|pir||A83408 phenazine biosynthesis protein PhzE PA19...    46  3e-04
+SEQ gi|3122166|sp|O25165|GUAA_HELPY GMP SYNTHASE [GLUTAMINE-HYDROLYZ...    46  3e-04
+SEQ gi|7480463|pir||T35498 probable anthranilate synthase - Streptom...    46  3e-04
+SEQ gi|13627131|sp|Q9CFJ0|GUAA_LACLA GMP SYNTHASE [GLUTAMINE-HYDROLY...    46  3e-04
+SEQ gi|13701001|dbj|BAB42297.1| (AP003132) carbamoyl-phosphate synth...    46  4e-04
+SEQ gi|2118364|pir||I40246 GMP synthetase - Lyme disease spirochete ...    46  4e-04
+SEQ gi|12724607|gb|AAK05699.1|AE006390_9 (AE006390) glutaminase of c...    46  4e-04
+SEQ gi|7436773|pir||E64674 carbamoyl-phosphate synthetase - Helicoba...    46  6e-04
+SEQ gi|11498872|ref|NP_070101.1| carbamoyl-phosphate synthase, small...    45  6e-04
+SEQ gi|13627137|sp|Q9KF78|GUAA_BACHD PUTATIVE GMP SYNTHASE [GLUTAMIN...    45  8e-04
+SEQ gi|11497008|ref|NP_047004.1| GMP synthase (guaA) [Borrelia burgd...    45  8e-04
+SEQ gi|6016175|sp|Q09580|GUAA_CAEEL PROBABLE GMP SYNTHASE [GLUTAMINE...    45  0.001
+SEQ gi|2462781|gb|AAC25961.1| (U73175) carbamoyl phosphate synthetas...    45  0.001
+SEQ gi|9294479|dbj|BAB02698.1| (AB018114) carbamoyl-phosphate synthe...    45  0.001
+SEQ gi|7688228|emb|CAB89872.1| (AJ132624) carbamoyl phosphate synthe...    44  0.001
+SEQ 
+## SEQUENCE PROFILE AND ENTROPY
+ SeqNo PDBNo   V   L   I   M   F   W   Y   G   A   P   S   T   C   H   R   K   Q   E   N   D  NOCC NDEL NINS ENTROPY RELENT WEIGHT
+    1    1     0   0   0   0   0   0   0   0  82   0  18   0   0   0   0   0   0   0   0   0     0    0    0   0.466     15  0.00
+    2    2     0   0   0   0   0   0   0   0   0   0   0   0   0   0   2   2   0   3  58  36     0    0    0   0.923     30  0.00
+    3    3    22  14  63   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.932     31  0.00
+    4    4    12  74  10   1   1   0   0   0   1   0   0   2   0   0   0   0   0   0   0   0     0    0    0   0.890     29  0.00
+    5    5    19  47  14  11   8   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.422     47  0.00
+    6    6    13  32  54   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.009     33  0.00
+    7    7     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   3  97     0    0    0   0.149      4  0.00
+    8    8     0   0   0   0   5   0   1   0   3   0   3   0   1   2   0   0   0   0  85   0     0    0    0   0.686     22  0.00
+    9    9     5   1  16   0   9   0  50   7   0   0   0   0   1   3   2   1   1   3   1   1     0    0    0   1.699     56  0.00
+   10   10     0   0   0   0   0   0   0   3   0   0   5   0   0   0   0   0   0   0   0  92     0    0    0   0.330     10  0.00
+   11   11     0   0   0   0   0   0   0   0   0   0  90   2   0   0   0   0   8   0   0   0     0    0    0   0.363     12  0.00
+   12   12     0   0   0   0  91   0   9   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.291      9  0.00
+   13   13    15   0   0   0   0   0   0   0   0   0   5  77   0   0   0   0   0   0   3   0     0    0    0   0.728     24  0.00
+   14   14     0   0   0   0   6  18  60   0   1   0   1   0   0   8   1   0   5   1   0   0     0    0    0   1.271     42  0.00
+   15   15     0   6   1   2   0   0   0   0   0   0   0   3   0   1   2   0   0   0  86   0     0    0    0   0.633     21  0.00
+   16   16    12  69  19   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.826     27  0.00
+   17   17    48   2   2   0   3   1  18   0  20   0   0   2   2   1   0   1   0   0   0   1     0    0    0   1.549     51  0.00
+   18   18     0   1   0   0   0   0   3   0   1   0   1   0   0   5  11   1  36  10   2  28     0    0    0   1.709     57  0.00
+   19   19     2   3   3   3   0   0  42   0   1   0   2   2   1   0   7   0  30   5   0   1     0    0    0   1.700     56  0.00
+   20   20     6  60  10   3  18   0   2   0   0   0   0   0   1   0   0   0   1   1   0   0     0    0    0   1.272     42  0.00
+   21   21     4   1   0   1   0   0   1  16   4   0   6   2  11   1  43   3   2   5   1   0     0    0    0   1.930     64  0.00
+   22   22     3  11   2   1   1   0   2   1   6   1  12   6   2   0   1   8   9  29   4   1     0    0    0   2.345     78  0.00
+   23   23     2  38   7   2   1   0   2   0   1   2   6   3   0   8   1   3   4   8  11   1     0    0    0   2.208     73  0.00
+   24   24     0   1   1   0   2   0   0  64   2   1   3   2   0   0   1   8   2   2   8   3     0    0    0   1.446     48  0.00
+   25   25     5   2   3   0   1   0   5   1  31   2   2   1   8  16   1   1   5   6   8   4     0    0    0   2.326     77  0.00
+   26   26     3   0   1   1   1   0   2   0   2   5   4   6   0   3   2   9   9  22  21  10     0    0    0   2.299     76  0.00
+   27   27    63   4  10   0   2   0   1   0   2   5   3   6   3   0   1   0   0   0   0   0     0    0    0   1.425     47  0.00
+   28   28    24  10   7   5   1   0   1   0   3   0   4  14   0   1   2  10   1  11   2   7     0    0    0   2.329     77  0.00
+   29   29    67   3  25   1   0   0   0   0   0   0   0   3   0   0   0   0   1   0   0   0     0    0    0   0.902     30  0.00
+   30   30    14   5  11   2   9   2  39   0   0   1   2   1   1   1   6   5   0   2   0   0     0    0    0   2.031     67  0.00
+   31   31     1   1   0   1   0   1   0   1   1  10   4   2   0   0  71   2   1   1   4   2     0    0    0   1.216     40  0.00
+   32   32     1   0   0   0   1   0   1   2   1   0   3   1   0   1   1   1   3   5  74   5     0    0    0   1.149     38  0.00
+   33   33     6   2   2   0   0   0   2   0   1   2   2  17   0   8   1   2   4   2   2  51     0    0    0   1.760     58  0.00
+   34   34    28   4  25   4   2   1   0   2   8   4   0   9   2   2   0   0   0   3   4   4     0    0    0   2.174     72  0.00
+   35   35     1   5   4   0   3   2   0   9   5  29  15   4   0   0   1   2   0   0   1  22     0    0    0   2.082     69  0.00
+   36   36     5  12  19   0   2   0   4   1  27   4   6   5   0   5   1   3   1   1   0   4     0    0    0   2.270     75  0.00
+   37   37     0   3   0   0   1   0   2   1   8   6   6   2   0   2   4  12  12  31   2   8     0    0    0   2.252     75  0.00
+   38   38    12  10  33   3   2   1   2   2   8   1   2  14   0   0   1   2   1   6   2   1     0    0    0   2.204     73  0.00
+   39   39     1  15  24   2   1   1   0   1   2   4  11  30   0   0   2   0   0   1   0   7     0    0    0   1.942     64  0.00
+   40   40    18  26  28   1   5   1   0   0   5   0   5   3   1   0   0   1   2   3   1   1     0    0    0   1.988     66  0.00
+   41   41     1   0   0   1   0   0   0   1   8   5   3   0   0   5   1  10   6  37   3  20     0    0    0   1.948     65  0.00
+   42   42     1   2   2   0   1   1   2   2  16   2   4   4   0   1  12   5   6  32   4   5     0    0    0   2.272     75  0.00
+   43   43     9  44  33   1   4   0   2   0   4   0   0   1   0   0   0   0   0   1   1   0     0    0    0   1.452     48  0.00
+   44   44     3   7   9   3   0   0   1   1  13   1   3   2   0   0   9  18  10  14   3   4     0    0    0   2.435     81  0.00
+   45   45     0   1   2   0   1   0   1   3  24   2   4   6   0   6   7  13  12   8   8   1     0    0    0   2.394     79  0.00
+   46   46     1  32   7  23   2   2   1   2   3   1   2   1   0   1   3  14   3   1   1   2     0    0    0   2.093     69  0.00
+   47   47     0   1   2   0   1   0   1   3   5   1   9   4   1   2   3  18   4   6  25  13     0    0    0   2.312     77  0.00
+   48   48     2   1   3   0   3   0   2   1   0  55   1   1   2   2   1   0   5   1  20   1     0    0    0   1.620     54  0.00
+   49   49     2   2   2   0   0   0   0   1   3  28   3  11   0   0   3   6   3   9   1  26     0    0    0   2.072     69  0.00
+   50   50    14   9  13   0   1   0   2  18  15   1   2   2   0   5   7   5   4   0   2   0     0    0    0   2.336     77  0.00
+   51   51    19  45  36   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.043     34  0.00
+   52   52    39  10  24  18   3   0   0   1   1   2   0   1   1   0   0   0   0   0   0   0     0    0    0   1.583     52  0.00
+   53   53     7  50  38   1   4   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0     0    0    0   1.078     35  0.00
+   54   54     0   0   0   0   0   0   0   9   0   0  90   2   0   0   0   0   0   0   0   0     0    0    0   0.375     12  0.00
+   55   55     0   1   0   0   0   0   0  11   0  81   0   0   0   0   0   0   1   0   6   0     0    0    0   0.640     21  0.00
+   56   56     1   0   0   0   0   0   0  96   0   2   1   0   1   0   0   0   0   0   0   0     0    0    0   0.222      7  0.00
+   57   57     0   1   0   0   0   0   0   0   0  97   0   0   0   0   0   0   0   0   2   0     0    0    0   0.133      4  0.00
+   58   58     0   0   0   0   0   0   0  64   4   0   7   0  14   1   0   2   0   0   5   3     0    0    0   1.233     41  0.00
+   59   59     6   9   2   0   1   1   1   3   2   0  15  25   0  17   5   2   0   1   6   6     0    0    0   2.258     75  0.00
+   60   60     8   0   0   0   0   0   0   0   3  87   0   0   0   0   1   0   0   2   0   0     0    0    0   0.532     17  0.00
+   61   61     0   2   1   0   1   0   9   0   8   0  18  11   0   1   9  10   7  10   7   7     0    0    0   2.373     79  0.00
+   62   62     2   1   0   0   0   0   1   1   8   0   3   3   0   2   3   1   3  31   5  39     0    0    0   1.739     58  0.00
+   63   63     5   1   2   2   4   0   3   3  51   1  15   2   0   0   1   3   1   4   0   4     0    0    0   1.832     61  0.00
+   64   64     1   0   0   0   0   0   0  81   1   4   2   1   0   0   1   1   2   2   3   4     0    0    0   0.913     30  0.00
+   65   65     9   4  31   0   1   0   1   0   9   1   3   0  31   1   1   1   3   2   5   1     0    0    0   1.935     64  0.00
+   66   66     2   6   5  27   2   0   2   0   4   3  33   3   7   0   0   3   0   1   1   2     0    0    0   2.030     67  0.00
+   67   67     8  25   5   2   1   0   0   2   4  22   8   3   0   0   8   4   1   1   5   2     0    0    0   2.269     75  0.00
+   68   68     1   3   2   0   0   0   0   1  12   5   6   3   0   1   3   6   5  31   4  17     0    0    0   2.190     73  0.00
+   69   69    16  38  15   4   1   0   1   0  13   1   2   5   2   0   1   0   0   0   1   3     0    0    0   1.867     62  0.00
+   70   70    12  21  46   2   5   1   0   1   2   2   0   1   0   0   1   1   1   2   0   3     0    0    0   1.733     57  0.00
+   71   71     0   4   1   0   1   1   0   3   6   1   5   8   0   2  17  19  12  15   3   3     0    0    0   2.339     78  0.00
+   72   72     2   6   9   1   1   2  11   1  10   0   2   4   0  12  18   9   2  11   2   1     0    0    0   2.502     83  0.00
+   73   73    13  31   3   2  30   1   7   0   7   0   1   1   2   0   2   0   0   0   1   1     0    0    0   1.873     62  0.00
+   74   74     1   2   0   0   1   0   3   8  23   1  10   5   1   1  12  19   2   5   5   3     0    0    0   2.328     77  0.00
+   75   75     0   6   0   1   1   0   0  56   9   5   4   2   1   1   3   4   3   1   1   3     0    0    0   1.741     58  0.00
+   76   76     1   3   0   1   0   0   3   9   1   0   2   2   0   2  13  38  13   4   5   5     0    0    0   2.053     68  0.00
+   77   77    24  32  32   1   1   0   2   0   0   1   1   5   0   0   0   3   0   0   0   0     0    0    0   1.527     50  0.00
+   78   78     0   0   0   0   0   0   0   1   0  96   2   0   0   0   1   1   0   0   0   0     0    0    0   0.202      6  0.00
+   79   79    21  10  60   7   1   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0     0    0    0   1.148     38  0.00
+   80   80     3  53  20   3  19   0   1   0   1   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.251     41  0.00
+   81   81     0   0   0   0   0   0   0  99   1   0   1   0   0   0   0   0   0   0   0   0     0    0    0   0.064      2  0.00
+   82   82    50   0  49   1   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.751     25  0.00
+   83   83     0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   84   84     0  75   0  14   1   0   9   0   1   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.781     26  0.00
+   85   85     0   0   0   0   0   1   0  99   0   0   1   0   0   0   0   0   0   0   0   0     0    0    0   0.064      2  0.00
+   86   86     0  10   0   7   9   0   1   0   1   0   0   0   0  65   0   0   7   2   0   0     0    0    0   1.230     41  0.00
+   87   87     0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0  95   4   0   0     0    0    0   0.203      6  0.00
+   88   88     3  11   4   1   0   0   2   4  48   0   9   4  16   0   0   0   0   0   0   0     0    0    0   1.672     55  0.00
+   89   89     2  19  61  14   2   0   0   0   1   0   0   1   0   0   0   0   0   0   0   0     0    0    0   1.121     37  0.00
+   90   90    28   0   6   0   7   0   0  21  26   0   3   2   5   1   0   0   1   0   2   0     0    0    0   1.849     61  0.00
+   91   91     2  12   1   0   0   0   7   0   2   0   1   4   1   6   0   5  19  36   0   5     0    0    0   1.984     66  0.00
+   92   92    12   4   2   1   4   0   4   0  56   1   4   3   3   2   1   1   1   4   0   0     0    0    0   1.715     57  0.00
+   93   93     0  12   0   1  43   0  33   0   3   0   0   0   0   3   1   0   4   0   2   0     0    0    0   1.446     48  0.00
+   94   94     0   0   0   0   0   0   0  99   0   0   0   0   0   0   0   0   0   0   1   1     0    0    0   0.065      2  0.00
+   95   95     0   2   1   0   0   0   0  83  13   0   2   0   1   0   0   0   0   0   0   0     0    0    0   0.601     20  0.00
+   96   96     4   2   4   2   0   0   6   0   4   1   4  11   0   2   7  24   7  12   3   8     0    0    0   2.463     82  0.00
+   97   97    62   6  31   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0     0    0    0   0.853     28  0.00
+   98   98    22   0   8   0   0   0   2  21  11   0   5   1   1   0   4   6   2   8   0  10     0    0    0   2.198     73  0.00
+   99   99     5   2   0   0   1   0  20   3   2   1   1   1   0   6  34   5  12   4   3   0     0    0    0   2.094     69  0.00
+  100  100     2   8   0   2   0   0   0   3  64   0   8   8   1   0   1   1   0   1   0   1     0    0    0   1.377     45  0.00
+  101  101     0   0   0   0   0   0   1  40   4  12   3   1   0   4   9  10   2   5   4   4     0    0    0   2.029     67  0.00
+  102  102     2   0   2   0   0   0   1   2   3   1   1   7   0   1   8  14   5  47   3   3     0    0    0   1.887     62  0.00
+  103  103    20   8  40   0   0   0   0   1   2  18   1   0   0   0   6   0   3   1   0   0     0    0    0   1.686     56  0.00
+  104  104    10  22   4  27  14   1   2   0   0   0   1   0   1   1   4   3   0  11   1   0     0    0    0   2.014     67  0.00
+  105  105     0   0   0   0   1   0  10   0   0   0   0   0   0  87   0   0   2   0   0   1     0    0    0   0.501     16  0.00
+  106  106     0   0   0   0   0   0   0  97   2   0   2   0   0   0   0   0   0   0   0   0     0    0    0   0.166      5  0.00
+  107  107     2   2   0   0   0   0   0   0   2   0   1   1   0   1  12  75   6   1   0   0     0    0    0   0.974     32  0.00
+  108  108    24   2   6   1   0   0   0   0  22   3   5  31   1   0   1   1   3   0   1   0     0    0    0   1.847     61  0.00
+  109  109     1   0   1   1   1   0   2   1   0   1  72   7   1   1   1   1   1   6   0   4     0    0    0   1.222     40  0.00
+  110  110     3  16   5   4   1   0   1   1   8  15  12   5   0   0   8   5   3   8   3   2     0    0    0   2.520     84  0.00
+  111  111    23   8  52   6   1   0   1   0   0   0   0   1   0   1   0   2   2   3   1   0     0    0    0   1.479     49  0.00
+  112  112     7   2   5   0   5   0   4   0   7   0  10   6   1   6  14  10   3  14   7   2     0    0    0   2.601     86  0.00
+  113  113     3   7   1   0   2   0   3   0   2   0   1   3   1  71   1   2   2   1   1   2     0    0    0   1.307     43  0.00
+  114  114     1   2   1   0   2   0   1   4   0   1   5   7   1   2   4   4   4   2   8  54     0    0    0   1.833     61  0.00
+  115  115     0   0   0   0   0   0   0  57   3   3   2   0   1   1   1   4   4   7  12   5     0    0    0   1.574     52  0.00
+  116  116     2  16   0   0   0   0   0   3   3   2   7   4   4   4  10  16  11  13   2   4     0    0    0   2.452     81  0.00
+  117  117     2   2   1   1   1   0   0  47  14   2   3   2   0   2   1   2   0  15   1   4     0    0    0   1.816     60  0.00
+  118  118    18  30  18  24   1   0   0   0   3   0   0   0   3   0   1   0   0   1   0   0     0    0    0   1.666     55  0.00
+  119  119     0   3   0   0  80   0  13   0   0   0   0   1   0   3   1   0   0   0   0   0     0    0    0   0.726     24  0.00
+  120  120     3   2   1   0   1   0   1   0  19   0  14   2   1   1  11  21   9  10   2   4     0    0    0   2.242     74  0.00
+  121  121     0   0   0   0   0   0   0  70   0   1   1   0   0   2   0   0   0   2  16   9     0    0    0   0.980     32  0.00
+  122  122    19  55  17   3   2   0   2   0   1   0   0   2   0   0   1   0   0   0   0   0     0    0    0   1.317     43  0.00
+  123  123     0   0   0   0   1   0   2   3  13  57   5   4   0   1   1   6   2   3   3   1     0    0    0   1.648     55  0.00
+  124  124     1   0   1   0   0   0   0   2   2   3   9   2   0   0   2   4  23   8  35   9     0    0    0   1.961     65  0.00
+  125  125     4   1   0   0   0   0   4   6   1  47   7   4   0   1   2   4   2   8   4   6     0    0    0   1.958     65  0.00
+  126  126     9  41   7   3  29   0   1   0   1   0   2   0   0   1   0   0   5   1   1   0     0    0    0   1.634     54  0.00
+  127  127     4   3   3   1   1   0   1   0   7  25   8  19   0   1   6   9   5   4   2   3     0    0    0   2.356     78  0.00
+  128  128    60   1   8   1   1   0   0   2  22   0   4   1   1   0   0   0   0   0   0   0     0    0    0   1.246     41  0.00
+  129  129     4   2   3   5   0   9   0  13  29   0   0  34   1   0   1   0   0   0   0   0     0    0    0   1.724     57  0.00
+  130  130     0   3   0   9   0   0   0   0   2   0   1   0   0   0  84   0   0   1   0   0     0    0    0   0.621     20  0.00
+  131  131     0   1   1   0   0   0  86   0   0   0  11   1   1   0   0   0   0   0   0   0     0    0    0   0.513     17  0.00
+  132  132     0   0   0   0   0   0   0   0   0   0   0   0   0  98   0   0   1   0   0   2     0    0    0   0.117      3  0.00
+  133  133     0   0   0   2   0   0   0   7   0   0  88   0   0   0   0   1   0   1   0   1     0    0    0   0.509     16  0.00
+  134  134     1  81   4   0   1   1   0   1   0   0   0   0   0   0   1   0   0   0   0  11     0    0    0   0.726     24  0.00
+  135  135    37   2  21   3   2   0   1   1  19   0   5   2   0   1   2   2   1   4   0   0     0    0    0   1.870     62  0.00
+  136  136    21   0   3   1   0   0   0  21  13   6   1   0  16   0   7   4   1   3   0   3     0    0    0   2.147     71  0.00
+  137  137     3   2   2   0   0   0   1   1   7   0  27  16   0   1   3   7   2  10   9  11     0    0    0   2.226     74  0.00
+  138  138     2   2   0   0   0   0   0   4   4   1  15  15   0   3   4   9   5  10  16   8     0    0    0   2.379     79  0.00
+  139  139    15  44  22   1   5   0   0   1   7   2   0   1   2   0   0   0   0   0   1   0     0    0    0   1.600     53  0.00
+  140  140     1   0   0   0   0   0   0   0   2  93   2   1   0   1   0   0   0   1   0   0     0    0    0   0.348     11  0.00
+  141  141     1   3   1   0   0   0   0   0  18   4   9   2   0   0   2  13   1  22   4  20     0    0    0   2.115     70  0.00
+  142  142     4   0   1   0   0   0   1  20   3   2   2   1  23   2   1   3   0  14   7  18     0    0    0   2.097     69  0.00
+  143  143     2  51   5   1  37   0   1   1   0   0   0   0   3   0   1   0   0   1   0   0     0    0    0   1.187     39  0.00
+  144  144    10   2  10   0   0   0   0   0   4   0   2  22   0   0   1   9   2  29   0   8     0    0    0   1.988     66  0.00
+  145  145    51   1  32   0   0   0   0   0   7   1   0   4   2   0   1   0   1   1   0   0     0    0    0   1.300     43  0.00
+  146  146     3   9   2   1   0   3   0   1   2   0   9  39   1   0   0   0   0   3  22   4     0    0    0   1.860     62  0.00
+  147  147     0   0   0   0   0   0   0   3  70   0  17   4   0   0   2   0   0   1   1   3     0    0    0   1.014     33  0.00
+  148  148     4   1   2   0   3   8   7   1   1   0  15   8   0   9  14   5   4  18   0   2     0    0    0   2.427     81  0.00
+  149  149     5   3   4   0  17   0   2   1   5   1  20  20   3   2   0   0   0   4   4   9     0    0    0   2.296     76  0.00
+  150  150     1   0   1   0   0   0   0  20   8   3   3   2   0   2   0   7   1  15  19  19     0    0    0   2.101     70  0.00
+  151  151     1   3   3   0   0   0   0  14   3   0   4   1   0   3   2   5   7  18  13  23     0    0    0   2.251     75  0.00
+  152  152    21   7  18  16   0   0   2   1   1   5   1   6   5   1   0   0   1  17   1   0     0    0    0   2.150     71  0.00
+  153  153    29   4  57   3   1   0   1   1   0   3   0   0   1   0   0   0   0   0   0   0     0    0    0   1.184     39  0.00
+  154  154     1   0   0  81   0   0   1   1  11   0   0   1   0   1   0   0   2   3   0   0     0    0    0   0.747     24  0.00
+  155  155     1   0   1   1   0   0   0  33  45   0  18   0   2   0   0   0   0   0   0   0     0    0    0   1.191     39  0.00
+  156  156    36  12  25   6  11   0   0   1   5   0   0   0   1   1   2   1   1   0   0   0     0    0    0   1.792     59  0.00
+  157  157     3   1   1   1   0   0   0   1   5   1   3   1   1   6  52   6   8  12   0   0     0    0    0   1.729     57  0.00
+  158  158     1   2   0   0   0   0   1   0   2   0   1   3   1  65   3   1   1   1  13   6     0    0    0   1.368     45  0.00
+  159  159     2   0   1   0   1   0   1   1   1   3   2   4   0   2  22  33   1   8   8  11     0    0    0   2.034     67  0.00
+  160  160     1   2   0   0   0   0   5   4  12   0   3  10   1   3   6  17   4  17   3  11     0    0    0   2.421     80  0.00
+  161  161     0  24   0   1   4   2  17   2   0   1   0   1   0   4  10  13   1   5   2  13     0    0    0   2.200     73  0.00
+  162  162     1   1   2   0   1   0   2   1   8  37   0   7   0   2  20   9   2   0   4   2     0    0    0   2.013     67  0.00
+  163  163    34  13  33   2   3   2   1   0   1   0   0   3   0   3   1   0   2   0   0   0     0    0    0   1.737     57  0.00
+  164  164     1   4   1   1   9   4  19   0   8   0   0   0  20   3   0   0   3  29   0   0     0    0    0   1.954     65  0.00
+  165  165     0   0   0   0   0   0   0  87   9   0   3   0   1   0   0   0   0   0   0   0     0    0    0   0.487     16  0.00
+  166  166    63  10   6   1  19   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.092     36  0.00
+  167  167     0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0  99   0   0   0     0    0    0   0.036      1  0.00
+  168  168     0   0   0   0  87   0  13   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.395     13  0.00
+  169  169     0   0   0   0   0   0   0   0   0   1   0   0   0  99   0   0   1   0   0   0     0    0    0   0.072      2  0.00
+  170  170     0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+  171  171     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100   0   0     0    0    0   0.000      0  0.00
+  172  172    12   0   0   0   0   0   0   0   2   0  86   0   0   0   0   0   0   0   0   0     0    0    0   0.460     15  0.00
+  173  173    16   2  61   5   4   0   3   0   3   0   0   1   2   1   2   0   0   0   0   1     0    0    0   1.428     47  0.00
+  174  174     1  59   2   8   2   1   0   7   4   0   1   0   2  11   1   1   1   1   0   0     0    0    0   1.558     52  0.00
+  175  175     0   0   0   0   0   0   0   0   0   0  26  73   1   0   0   0   0   0   0   0     0    0    0   0.634     21  0.00
+  176  176     4   3   1   0   0   0   0   1   1  11   4  22   0   0   1   1   4  42   1   4     0    0    0   1.829     61  0.00
+  177  177     2   4   0   0   4   1  11   4   5   0   4   1   2  24   0   2  17  13   2   4     0    0    0   2.330     77  0.00
+  178  178     0   0   0   0   0   0   0  99   0   0   1   0   0   0   0   0   0   1   0   0     0    0    0   0.073      2  0.00
+  179  179     2   3   1   4   1   0   2   4  15   1   5   4   0  21   7  11   9   3   1   8     0    0    0   2.495     83  0.00
+  180  180     2   9   0   0   0   0   0   1   5   0   0  11   1   1  25  10  20  10   2   6     0    0    0   2.132     71  0.00
+  181  181     6  43  26  21   2   0   1   0   0   0   0   0   1   0   0   0   1   0   0   0     0    0    0   1.404     46  0.00
+  182  182     9  64  17   2   7   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0     0    0    0   1.102     36  0.00
+  183  183     1   1   0   0   0   0   0   1  13   0   9   0   0   0  13  20   6  31   3   1     0    0    0   1.920     64  0.00
+  184  184     0   1   0   0   0   0   0   0   0   0   1   1   0   1   5   4  23   1  63   1     0    0    0   1.141     38  0.00
+  185  185     2   2  11   0  53   5   0   0   5   0   4  17   0   0   0   0   0   0   0   0     0    0    0   1.492     49  0.00
+  186  186     5  79  14   1   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0     0    0    0   0.688     22  0.00
+  187  187     0   5   2   0   0   0   3   3  35   0  14   2   2   3   3   2   0  11   5  11     0    0    0   2.125     70  0.00
+  188  188     0   8   0   0   4  73   2   2   2   0   2   2   2   2   0   0   2   0   0   0     0    0    0   1.176     39  0.00
+  189  189     2   7   0   0   0   0   0   0  86   0   2   0   0   0   0   0   0   0   0   2     0    0    0   0.577     19  0.00
+  190  190     3  41   8   0   0   0   0   0   3   0  16   0   0   0   3   0  27   0   0   0     0    0    0   1.511     50  0.00
+  191  191     3  19   0   0   0   0   0   0  28   0  13   0   0   3   6   3  22   3   0   0     0    0    0   1.870     62  0.00
+  192  192     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  96   0   4   0   0     0    0    0   0.163      5  0.00
+//

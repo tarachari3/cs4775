@@ -1,0 +1,153 @@
+ID Pseudo hssp file.
+SEQ 
+SEQ gi|124213|sp|P03000|IF3_BACST TRANSLATION INITIATION FACTOR IF-3...   111  1e-24
+SEQ gi|223765|prf||0910186A initiation factor IF3 [Bacillus stearoth...   111  2e-24
+SEQ gi|1310966|pdb|1TIF|    Translation Initiation Factor 3 N-Termin...   107  2e-23
+SEQ gi|7443489|pir||H69644 translation initiation factor IF-3 infC -...    96  6e-20
+SEQ gi|2497282|sp|P55872|IF3_BACSU TRANSLATION INITIATION FACTOR IF-3      96  6e-20
+SEQ gi|10175762|dbj|BAB06859.1| (AP001517) translation initiation fa...    91  2e-18
+SEQ gi|14194834|sp|Q9K867|IF3_BACHD TRANSLATION INITIATION FACTOR IF-3     88  1e-17
+SEQ gi|6016324|sp|O53084|IF3_LISMO TRANSLATION INITIATION FACTOR IF-...    87  4e-17
+SEQ gi|11932198|emb|CAC19093.1| (AJ249401) IF-3 [Listeria innocua] >...    85  1e-16
+SEQ gi|13701477|dbj|BAB42771.1| (AP003134) translation initiation fa...    81  1e-15
+SEQ gi|6016323|sp|O67653|IF3_AQUAE TRANSLATION INITIATION FACTOR IF-...    75  1e-13
+SEQ gi|14194830|sp|Q9CN42|IF3_PASMU TRANSLATION INITIATION FACTOR IF-3     73  3e-13
+SEQ gi|1170502|sp|P43814|IF3_HAEIN TRANSLATION INITIATION FACTOR IF-3      73  7e-13
+SEQ gi|14194838|sp|Q9PIS2|IF3_CAMJE TRANSLATION INITIATION FACTOR IF...    71  2e-12
+SEQ gi|14194841|sp|Q9RSN7|IF3_DEIRA TRANSLATION INITIATION FACTOR IF...    70  3e-12
+SEQ gi|7443498|pir||A71465 probable translation initiation factor IF...    70  5e-12
+SEQ gi|14194828|sp|Q9CC22|IF3_MYCLE TRANSLATION INITIATION FACTOR IF-3     69  5e-12
+SEQ gi|2497285|sp|P72874|IF3_SYNY3 TRANSLATION INITIATION FACTOR IF-...    69  7e-12
+SEQ gi|7387793|sp|Q9X1S6|IF3_THEMA TRANSLATION INITIATION FACTOR IF-3      69  8e-12
+SEQ gi|6016325|sp|P94975|IF3_MYCTU TRANSLATION INITIATION FACTOR IF-...    69  8e-12
+SEQ gi|13508846|emb|CAC35168.1| (AJ409350) translation initiation fa...    69  9e-12
+SEQ gi|7387790|sp|O84840|IF3_CHLTR TRANSLATION INITIATION FACTOR IF-...    68  1e-11
+SEQ gi|462399|sp|P33321|IF3_SALTY TRANSLATION INITIATION FACTOR IF-3...    68  2e-11
+SEQ gi|7387796|sp|Q9Z6R9|IF3_CHLPN TRANSLATION INITIATION FACTOR IF-...    67  3e-11
+SEQ gi|124214|sp|P02999|IF3_ECOLI TRANSLATION INITIATION FACTOR IF-3...    67  3e-11
+SEQ gi|290449|gb|AAA51467.1| (K02844) initiation factor 3 [Escherich...    67  3e-11
+SEQ gi|14194827|sp|P58081|IF3_STRPY TRANSLATION INITIATION FACTOR IF...    67  3e-11
+SEQ gi|14194839|sp|Q9PL86|IF3_CHLMU TRANSLATION INITIATION FACTOR IF...    67  4e-11
+SEQ gi|462400|sp|P33320|IF3_SERMA TRANSLATION INITIATION FACTOR IF-3...    66  5e-11
+SEQ gi|462396|sp|P33318|IF3_KLEPN TRANSLATION INITIATION FACTOR IF-3...    66  5e-11
+SEQ gi|6016326|sp|O83822|IF3_TREPA TRANSLATION INITIATION FACTOR IF-...    66  6e-11
+SEQ gi|462398|sp|P33319|IF3_PROVU TRANSLATION INITIATION FACTOR IF-3...    66  9e-11
+SEQ gi|6225540|sp|Q9ZD19|IF3_RICPR TRANSLATION INITIATION FACTOR IF-...    66  9e-11
+SEQ gi|14194832|sp|Q9JVA2|IF3_NEIMA TRANSLATION INITIATION FACTOR IF...    64  2e-10
+SEQ gi|1708416|sp|P52834|IF3_PSESY TRANSLATION INITIATION FACTOR IF-...    64  3e-10
+SEQ gi|11132699|sp|P57226|IF3_BUCAI TRANSLATION INITIATION FACTOR IF...    64  3e-10
+SEQ gi|7387794|sp|Q9X6E7|IF3_PSEFL TRANSLATION INITIATION FACTOR IF-...    64  3e-10
+SEQ gi|6016327|sp|O68844|IF3_VIBCH TRANSLATION INITIATION FACTOR IF-...    63  6e-10
+SEQ gi|3122257|sp|O33567|IF3_RHOSH TRANSLATION INITIATION FACTOR IF-...    62  9e-10
+SEQ gi|7387791|sp|O88060|IF3_STRCO TRANSLATION INITIATION FACTOR IF-...    62  1e-09
+SEQ gi|14194831|sp|Q9I0A0|IF3_PSEAE TRANSLATION INITIATION FACTOR IF...    61  1e-09
+SEQ gi|11465697|ref|NP_053841.1| initiation factor 3 [Porphyra purpu...    61  3e-09
+SEQ gi|1352320|sp|P48516|IF3_MYXXA TRANSLATION INITIATION FACTOR IF-...    60  3e-09
+SEQ gi|12720873|gb|AAK02686.1| (AE006096) InfC [Pasteurella multocida]     60  3e-09
+SEQ gi|7387798|sp|Q9ZMV2|IF3_HELPJ TRANSLATION INITIATION FACTOR IF-...    60  5e-09
+SEQ gi|2497283|sp|P55973|IF3_HELPY TRANSLATION INITIATION FACTOR IF-...    60  5e-09
+SEQ gi|14194835|sp|Q9MS97|IF3C_GALSU TRANSLATION INITIATION FACTOR I...    59  1e-08
+SEQ gi|13093280|emb|CAC31775.1| (AL583921) initiation factor 3 [Myco...    56  5e-08
+SEQ gi|3913890|sp|O51208|IF3_BORBU TRANSLATION INITIATION FACTOR IF-...    56  7e-08
+SEQ gi|1170501|sp|P46243|IF3_BUCAP TRANSLATION INITIATION FACTOR IF-...    56  8e-08
+SEQ gi|13881312|gb|AAK45948.1| (AE007031) translation initiation fac...    56  9e-08
+SEQ gi|11277755|pir||F81167 translation initiation factor 3 NMB0721 ...    55  1e-07
+SEQ gi|12724874|gb|AAK05942.1|AE006414_8 (AE006414) translation init...    55  1e-07
+SEQ gi|12045048|ref|NP_072858.1| translation initiation factor 3 (in...    54  2e-07
+SEQ gi|2506777|sp|P47438|IF3_MYCGE TRANSLATION INITIATION FACTOR IF-3      54  2e-07
+SEQ gi|11465469|ref|NP_045140.1| unknown; initiation factor 3 [Cyani...    54  3e-07
+SEQ gi|14194829|sp|Q9CEJ7|IF3_LACLA TRANSLATION INITIATION FACTOR IF-3     54  3e-07
+SEQ gi|14194837|sp|Q9PFE1|IF3_XYLFA TRANSLATION INITIATION FACTOR IF-3     54  3e-07
+SEQ gi|5725433|emb|CAB52442.1| (AL109787) putative protein [Arabidop...    54  4e-07
+SEQ gi|13357787|ref|NP_078061.1| translation initiation factor IF3 [...    53  6e-07
+SEQ gi|3738333|gb|AAC63674.1| (AC005170) putative chloroplast initia...    53  6e-07
+SEQ gi|7105706|gb|AAF05835.2|AF196569_1 (AF196569) translation initi...    50  4e-06
+SEQ gi|13507854|ref|NP_109803.1| translation initiation factor IF3 [...    50  4e-06
+SEQ gi|13422345|gb|AAK23033.1| (AE005782) translation initiation fac...    49  5e-06
+SEQ gi|7443499|pir||B72233 translation initiation factor IF-3 - Ther...    49  7e-06
+SEQ gi|11277754|pir||F82766 translation initiation factor IF-3 XF073...    49  1e-05
+SEQ gi|14089672|emb|CAC13432.1| (AL445563) TRANSLATION INITIATION FA...    48  2e-05
+SEQ gi|462397|sp|Q05426|IF3_MYCFE TRANSLATION INITIATION FACTOR IF-3...    47  2e-05
+SEQ gi|547710|sp|P36177|IF3C_EUGGR TRANSLATION INITIATION FACTOR IF-...    46  8e-05
+SEQ gi|12515732|gb|AAG56705.1|AE005395_1 (AE005395) Initiation facto...    45  1e-04
+SEQ gi|13474222|ref|NP_105790.1| translation initiation factor IF-3 ...    44  3e-04
+SEQ 
+## SEQUENCE PROFILE AND ENTROPY
+ SeqNo PDBNo   V   L   I   M   F   W   Y   G   A   P   S   T   C   H   R   K   Q   E   N   D  NOCC NDEL NINS ENTROPY RELENT WEIGHT
+    1    1     0   0   0   0   0   0   0   0   0   0   0   0   0   0   6  94   0   0   0   0     0    0    0   0.215      7  0.00
+    2    2     0   0   0   0   0   0   0   0   0   0   5   0   0   0   0   0   0  32   5  59     0    0    0   0.956     31  0.00
+    3    3    13  17   0  17  26   0   9   0   0   0   0   0   0   4   0   0  13   0   0   0     0    0    0   1.839     61  0.00
+    4    4     0  52  16  10   3   0   0   0   0   0   0   0   0   0  10  10   0   0   0   0     0    0    0   1.424     47  0.00
+    5    5    22   9  60   5   0   0   0   0   0   0   0   3   0   0   0   0   0   0   0   0     0    0    0   1.121     37  0.00
+    6    6     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100   0     0    0    0   0.000      0  0.00
+    7    7     0   0   0   0   0   0   2  16   0   0   5   0   0   2  16   0   0  40   5  16     0    0    0   1.665     55  0.00
+    8    8     0   0   0   0   0   0   0  10   3   0   2   0   0   0  14   5  22  27   8  10     0    0    0   1.935     64  0.00
+    9    9     0   0 100   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   10   10     0   0   0   0   0   0   0   2   3   3   6   2   0   0  72   8   0   0   5   0     0    0    0   1.088     36  0.00
+   11   11    18   0   0   0  18   0   2   2  55   0   3   0   2   0   0   0   0   0   0   0     0    0    0   1.251     41  0.00
+   12   12     0   0   3   0   0   0   0   0   3  28   2   0   0   2  34  14   9   0   5   2     0    0    0   1.765     58  0.00
+   13   13     0   0   2   0   0   0   0   0   0   0   0   5   2   0  11  11   8  63   0   0     0    0    0   1.238     41  0.00
+   14   14    85   3   3   3   4   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0     0    0    0   0.654     21  0.00
+   15   15     1   1   1   0   3   0   0   0   0   0   0   3   0   0  87   0   3   0   0   0     0    0    0   0.628     20  0.00
+   16   16    21  69   1   4   0   0   0   0   0   0   0   0   4   0   0   0   0   0   0   0     0    0    0   0.919     30  0.00
+   17   17    17   0  70   0   0   0   0   0   0   0   0  13   0   0   0   0   0   0   0   0     0    0    0   0.816     27  0.00
+   18   18     0   0   0   0   1   0   0  57   0   0   3   0   0   0   1   0   0   0   0  37     0    0    0   0.911     30  0.00
+   19   19     6   9   0   0   0   0   0   1  21   9  11   0   0   0   0   0  19  16   0   9     0    0    0   2.037     68  0.00
+   20   20     1   0   0   0   0   0   0   6   4   0   6   1   0   3   1   0   3  19  30  26     0    0    0   1.870     62  0.00
+   21   21     0   0   0   0   0   0   0  90   0   0   4   0   0   0   0   0   3   0   1   1     0    0    0   0.453     15  0.00
+   22   22     0   0   0   0   0   0   1   0   1   0   3   4   0   0   0   6   7  59   4  14     0    0    0   1.436     47  0.00
+   23   23     4   0   0   9   0   0   0   0   0   0   1   0   0   0   0   6  70   0  10   0     0    0    0   1.050     35  0.00
+   24   24    14  47  23   0   0   0   6   0   4   0   0   0   1   1   1   0   1   0   0   0     0    0    0   1.511     50  0.00
+   25   25     0   0   0   0   0   0   0  99   0   0   0   0   0   0   0   0   0   1   0   0     0    0    0   0.074      2  0.00
+   26   26    31   3  59   0   0   0   0   0   0   0   0   1   0   0   0   0   0   3   0   3     0    0    0   1.035     34  0.00
+   27   27    46  13   7  10   1   0   1   0   0   0   0   3   0   0   0  18   0   0   0   0     0    0    0   1.565     52  0.00
+   28   28     0   0   0   0   0   0   0   0   3  14  58   4   0   0   7   4   0   0   6   4     0    0    0   1.431     47  0.00
+   29   29     3  17  29   3   0   0   0   0   0   4   4  14   0   0  10  17   0   0   0   0     0    0    0   1.921     64  0.00
+   30   30     0   0   4   0   0   0   0   0   6   1   6   1   0   0  24  10  17  18   4  10     0    0    0   2.106     70  0.00
+   31   31     0   0   0   0   0   0   0   0   3   0   1   0   0   0   1   4   6  65   3  17     0    0    0   1.188     39  0.00
+   32   32     0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   33   33     4  81   7   7   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0     0    0    0   0.736     24  0.00
+   34   34     0   1   0   4   0   0   0   0   8   0   1   0   0   1  17  11   4  36   3  13     0    0    0   1.920     64  0.00
+   35   35     6  24  22  25   0   0   1   0   1   0   0   1   0   0   3  14   3   0   0   0     0    0    0   1.834     61  0.00
+   36   36     0   0   0   1   0   0   0   0  97   0   1   0   0   0   0   0   0   0   0   0     0    0    0   0.146      4  0.00
+   37   37     0   0   0   0   0   0   0   3  14   0   0   1   0   0  14   7   8  47   1   4     0    0    0   1.646     54  0.00
+   38   38     0   0   0   0   0   0   0   4   3   0   1   1   0   0  13   7   3  49  10  10     0    0    0   1.699     56  0.00
+   39   39     4  10   1   1   0   0   1   0  44   0   3   0   0   0   7  13   8   7   0   0     0    0    0   1.835     61  0.00
+   40   40     0   0   0   0   0   0   0  40   0   0   1   0   0   0   1   6   4   7  25  15     0    0    0   1.597     53  0.00
+   41   41    14  79   1   3   0   0   0   0   1   0   0   0   0   0   0   1   0   0   0   0     0    0    0   0.737     24  0.00
+   42   42     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100     0    0    0   0.000      0  0.00
+   43   43     0 100   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   44   44   100   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   45   45     3  36   3   3   0   0   0   0   0   0   0   0   3   0   0   0   0  53   0   0     0    0    0   1.103     36  0.00
+   46   46    42   3  56   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.791     26  0.00
+   47   47     3   0   0   0   0   0   0   3  39   0  49   0   0   0   0   0   4   0   3   0     0    0    0   1.149     38  0.00
+   48   48     3   0   1   0   0   0   0   0  13  69   7   0   0   0   0   1   0   3   0   3     0    0    0   1.137     37  0.00
+   49   49     0   0   1   1   0   0   0   0   0   0   3   7   0   0   0   4  11   0  63  10     0    0    0   1.300     43  0.00
+   50   50     1   0   0   0   0   0   0   1  74   7   8   3   0   0   0   0   3   3   0   0     0    0    0   1.035     34  0.00
+   51   51    10   0   0   0   0   0   0   0   1   0   4   3   0   0   7  26   0  31   6  13     0    0    0   1.838     61  0.00
+   52   52     0   0   1   0   0   0   0   0   0  94   0   0   0   0   0   4   0   0   0   0     0    0    0   0.251      8  0.00
+   53   53     0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   54   54    93   0   7   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.252      8  0.00
+   55   55    10   0   0   0   0   0   0   0  17   0   0   1  72   0   0   0   0   0   0   0     0    0    0   0.820     27  0.00
+   56   56     0   0   0   0   0   0   0   0   0   0   0   0   0   0  51  49   0   0   0   0     0    0    0   0.693     23  0.00
+   57   57    10  14  74   3   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.826     27  0.00
+   58   58     3  17   4  76   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.736     24  0.00
+   59   59     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   8  92     0    0    0   0.287      9  0.00
+   60   60     0   3   0   0  10   0  88   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.443     14  0.00
+   61   61     0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   62   62     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0     0    0    0   0.000      0  0.00
+   63   63     0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   64   64     0   0   0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0     0    0    0   0.000      0  0.00
+   65   65     0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   66   66     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100   0   0     0    0    0   0.000      0  0.00
+   67   67     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0     0    0    0   0.000      0  0.00
+   68   68     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0     0    0    0   0.000      0  0.00
+   69   69     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0     0    0    0   0.000      0  0.00
+   70   70     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0     0    0    0   0.000      0  0.00
+   71   71     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100   0   0     0    0    0   0.000      0  0.00
+   72   72     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0     0    0    0   0.000      0  0.00
+   73   73     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100   0   0     0    0    0   0.000      0  0.00
+   74   74     0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   75   75     0   0   0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0     0    0    0   0.000      0  0.00
+   76   76     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0     0    0    0   0.000      0  0.00
+//

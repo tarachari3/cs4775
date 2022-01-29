@@ -1,0 +1,1037 @@
+ID Pseudo hssp file.
+SEQ 
+SEQ gi|114735|sp|P28685|AXO1_CHICK CONTACTIN 2 PRECURSOR (AXONIN-1) ...   766  0.0
+SEQ gi|8569490|pdb|1CS6|A Chain A, N-Terminal Fragment Of Axonin-1 F...   766  0.0
+SEQ gi|4827022|ref|NP_005067.1| contactin 2 (axonal); transiently-ex...   606  e-172
+SEQ gi|444868|prf||1908253A TAG-1 protein (axonin 1) [Homo sapiens]       606  e-172
+SEQ gi|6981632|ref|NP_037016.1| transient axonal glycoprotein 1 (TAG...   597  e-170
+SEQ gi|4867989|gb|AAD31083.1|AF064799_1 (AF064799) transiently expre...   445  e-124
+SEQ gi|86236|pir||S01998 contactin precursor - chicken >gi|63329|emb...   398  e-109
+SEQ gi|116917|sp|P14781|CONT_CHICK CONTACTIN PRECURSOR (NEURAL CELL ...   398  e-109
+SEQ gi|3219157|dbj|BAA28780.1| (AB015205) contactin A [Xenopus laevis]    387  e-106
+SEQ gi|1363956|pir||JC4211 neural adhesion protein F3 precursor - bo...   386  e-106
+SEQ gi|4502933|ref|NP_001834.1| contactin 1 [Homo sapiens] >gi|21349...   384  e-106
+SEQ gi|12737071|ref|XP_006607.2| contactin 1 [Homo sapiens] >gi|2497...   384  e-106
+SEQ gi|469045|gb|AAA67921.1| (U07820) h-contactin 2 precursor [Homo ...   384  e-106
+SEQ gi|1843425|dbj|BAA13100.1| (D86505) contactin/F3/F11 [Xenopus la...   384  e-105
+SEQ gi|6680954|ref|NP_031753.1| contactin 1 [Mus musculus] >gi|11691...   381  e-105
+SEQ gi|1363280|pir||A57112 contactin precursor - rat                      381  e-105
+SEQ gi|1498194|dbj|BAA07504.1| (D38492) F3 [Rattus norvegicus]            381  e-105
+SEQ gi|1095168|prf||2107324A neural adhesion molecule F3 [Rattus nor...   380  e-104
+SEQ gi|7657359|ref|NP_055176.1| contactin 5; neural adhesion molecul...   365  e-100
+SEQ gi|5672494|dbj|BAA36580.2| (AB013803) hNB-2s [Homo sapiens]           365  e-100
+SEQ gi|1752643|dbj|BAA13311.1| (D87212) NB-2 [Rattus norvegicus]          359  3e-98
+SEQ gi|9506949|ref|NP_062202.1| Plasmacytoma-associated neuronal gly...   357  2e-97
+SEQ gi|1016012|gb|AAC52262.1| (U35371) neural cell adhesion protein ...   353  3e-96
+SEQ gi|6679207|ref|NP_032805.1| plasmacytoma-associated neuronal gly...   351  8e-96
+SEQ gi|6671606|ref|NP_031544.1| axonal-associated cell adhesion mole...   339  3e-92
+SEQ gi|8393170|ref|NP_059079.1| neural recognition molecule NB-3 [Mu...   322  5e-87
+SEQ gi|7657361|ref|NP_055276.1| contactin 6; neural adhesion molecul...   317  1e-85
+SEQ gi|6981246|ref|NP_037357.1| neural adhesion molecule [Rattus nor...   315  5e-85
+SEQ gi|7959253|dbj|BAA96020.1| (AB040929) KIAA1496 protein [Homo sap...   268  7e-71
+SEQ gi|13639703|ref|XP_012030.2| contactin 5 [Homo sapiens]               243  2e-63
+SEQ gi|7296862|gb|AAF52137.1| (AE003606) CG1084 gene product [Drosop...   156  7e-37
+SEQ gi|1054778|emb|CAA63365.1| (X92681) TAX-1 [Homo sapiens]              153  3e-36
+SEQ gi|12729652|ref|XP_003064.2| cell adhesion molecule with homolog...   144  2e-33
+SEQ gi|5729767|ref|NP_006605.1| cell adhesion molecule with homology...   144  2e-33
+SEQ gi|1504040|dbj|BAA13219.1| (D86983) similar to D.melanogaster pe...   143  4e-33
+SEQ gi|1842429|gb|AAB47754.1| (U81036) ankyrin binding cell adhesion...   142  9e-33
+SEQ gi|6680936|ref|NP_031723.1| close homolog of L1 [Mus musculus] >...   139  7e-32
+SEQ gi|4505375|ref|NP_002490.1| neogenin (chicken) homolog 1 [Homo s...   138  1e-31
+SEQ gi|7291461|gb|AAF46887.1| (AE003458) robo gene product [Drosophi...   138  2e-31
+SEQ gi|2804782|gb|AAC38849.1| (AF040989) roundabout 1 [Drosophila me...   137  3e-31
+SEQ gi|2078518|gb|AAC51287.1| (U72391) neogenin [Homo sapiens]            136  5e-31
+SEQ gi|1842427|gb|AAB47753.1| (U81035) ankyrin binding cell adhesion...   136  7e-31
+SEQ gi|1171701|sp|Q03696|NGCA_CHICK NEURONAL-GLIAL CELL ADHESION MOL...   134  2e-30
+SEQ gi|6679036|ref|NP_032710.1| neogenin [Mus musculus] >gi|10720133...   133  3e-30
+SEQ gi|7522081|pir||T30532 neural cell adhesion molecule L1 homolog ...   133  4e-30
+SEQ gi|211279|gb|AAA48632.1| (L08960) cell adhesion molecule [Gallus...   132  8e-30
+SEQ gi|104793|pir||A39640 neural cell adhesion molecule Nr-CAM precu...   132  8e-30
+SEQ gi|462740|sp|P35331|NRCA_CHICK NG-CAM RELATED CELL ADHESION MOLE...   132  8e-30
+SEQ gi|10720132|sp|P97603|NEO1_RAT NEOGENIN PRECURSOR >gi|1785999|gb...   132  8e-30
+SEQ gi|6679571|ref|NP_033014.1| putative neuronal cell adhesion mole...   131  1e-29
+SEQ gi|1480094|emb|CAA99303.1| (Z75013) neuron-glia cell adhesion mo...   131  2e-29
+SEQ gi|11862939|dbj|BAB19278.1| (AB052620) DDM36 [Mus musculus]           130  3e-29
+SEQ gi|11862941|dbj|BAB19279.1| (AB052621) DDM36E [Mus musculus]          130  3e-29
+SEQ gi|104799|pir||A37967 neural cell adhesion molecule Ng-CAM precu...   130  4e-29
+SEQ gi|13509385|gb|AAK28042.2|AF304130_1 (AF304130) transmembrane re...   128  1e-28
+SEQ gi|345685|pir||A43425 Bravo/Nr-CAM cell adhesion molecule L1 hom...   128  2e-28
+SEQ gi|4506569|ref|NP_002932.1| roundabout (axon guidance receptor, ...   127  3e-28
+SEQ gi|11277081|pir||T43027 neural cell adhesion molecule L1 - goldf...   127  3e-28
+SEQ gi|7513636|pir||T30805 dutt1 protein - mouse >gi|3688436|emb|CAA...   126  4e-28
+SEQ gi|9910464|ref|NP_064427.1| neighbor of Punc e11 protein [Mus mu...   124  2e-27
+SEQ gi|13506661|gb|AAK14795.1| (AY027658) brother of CDO [Homo sapiens]   124  2e-27
+SEQ gi|4826864|ref|NP_005001.1| neuronal cell adhesion molecule; Bra...   123  4e-27
+SEQ gi|13630996|ref|XP_004950.3| neuronal cell adhesion molecule [Ho...   123  4e-27
+SEQ gi|11559953|ref|NP_071524.1| roundabout homolog 1 (Drosophila) [...   123  5e-27
+SEQ gi|1842431|gb|AAB47755.1| (U81037) ankyrin binding cell adhesion...   122  7e-27
+SEQ gi|7106393|ref|NP_035378.1| retinoblastoma inhibiting gene 1 [Mu...   122  7e-27
+SEQ gi|13492012|gb|AAK28043.1|AF304131_1 (AF304131) transmembrane re...   122  9e-27
+SEQ gi|14276867|gb|AAK58428.1|AF337036_1 (AF337036) roundabout3 [Dan...   122  9e-27
+SEQ gi|10047201|dbj|BAB13394.1| (AB046788) KIAA1568 protein [Homo sa...   122  1e-26
+SEQ gi|1621283|gb|AAC50765.1| (U55258) hBRAVO/Nr-CAM precursor [Homo...   118  2e-25
+SEQ gi|2511666|emb|CAA04507.1| (AJ001057) NrCAM protein [Homo sapiens]    118  2e-25
+SEQ gi|6651380|gb|AAF22282.1|AF172277_1 (AF172277) NgCAM-related rel...   118  2e-25
+SEQ gi|6651381|gb|AAF22283.1|AF172277_2 (AF172277) NgCAM-related rel...   118  2e-25
+SEQ gi|6760653|gb|AAC28613.2| (AF050085) neuroglian [Drosophila mela...   116  4e-25
+SEQ gi|6760654|gb|AAC28614.2| (AF050085) neuroglian [Drosophila mela...   116  4e-25
+SEQ gi|6760659|gb|AAA28728.2| (M28231) neuroglian precursor [Drosoph...   116  5e-25
+SEQ gi|14286138|sp|P20241|NRG_DROME NEUROGLIAN PRECURSOR                  116  5e-25
+SEQ gi|11907990|gb|AAG41426.1|AF312580_1 (AF312580) roundabout 3 [Dr...   116  5e-25
+SEQ gi|11907988|gb|AAG41425.1|AF312579_1 (AF312579) roundabout 2 [Dr...   116  5e-25
+SEQ gi|7511638|pir||T42405 sax-3 protein - Caenorhabditis elegans >g...   116  6e-25
+SEQ gi|4557707|ref|NP_000416.1| L1 cell adhesion molecule, isoform 1...   116  7e-25
+SEQ gi|13435353|ref|NP_076493.1| L1 cell adhesion molecule, isoform ...   116  7e-25
+SEQ gi|283899|pir||S26180 neurofascin - chicken >gi|63660|emb|CAA463...   116  7e-25
+SEQ gi|2467122|emb|CAA74726.1| (Y14341) neurofascin [Gallus gallus]       116  7e-25
+SEQ gi|10720134|sp|Q90610|NEO1_CHICK NEOGENIN >gi|2134373|pir||I5060...   115  1e-24
+SEQ gi|6651057|gb|AAF22153.1|AF133093_8 (AF133093) neural cell adhes...   115  1e-24
+SEQ gi|226133|prf||1411301A neural adhesion mol L1 [Mus musculus]         115  1e-24
+SEQ gi|6012063|emb|CAB57301.1| (X63509) neural cell adhesion molecul...   114  2e-24
+SEQ gi|4732113|gb|AAD28610.1|AF129167_1 (AF129167) neural cell adhes...   114  2e-24
+SEQ gi|8393820|ref|NP_059041.1| neural cell adhesion molecule L1 [Ra...   114  2e-24
+SEQ gi|423694|pir||S36126 neural cell adhesion molecule L1 - rat          114  2e-24
+SEQ gi|584874|sp|Q05695|CAML_RAT NEURAL CELL ADHESION MOLECULE L1 PR...   114  2e-24
+SEQ gi|7511705|pir||T18531 tractin - medicinal leech >gi|2275260|gb|...   114  2e-24
+SEQ gi|14276865|gb|AAK58427.1|AF337035_1 (AF337035) roundabout2 [Dan...   114  3e-24
+SEQ gi|2134173|pir||I51669 tumor suppressor - African clawed frog >g...   113  3e-24
+SEQ gi|7296078|gb|AAF51373.1| (AE003586) CG5481 gene product [Drosop...   113  3e-24
+SEQ gi|35010|emb|CAA42508.1| (X59847) Neural cell adhesion molecule ...   112  7e-24
+SEQ gi|13592384|gb|AAK31482.1| (U49830) Hypothetical protein C33F10....   112  9e-24
+SEQ gi|11079653|ref|NP_032504.2| L1 cell adhesion molecule [Mus musc...   112  1e-23
+SEQ gi|13645986|ref|XP_003052.3| roundabout (axon guidance receptor,...   111  2e-23
+SEQ gi|103273|pir||A32579 neuroglian - fruit fly (Drosophila melanog...   110  3e-23
+SEQ gi|8393084|ref|NP_058648.1| surface glycoprotein, Ig superfamily...   109  5e-23
+SEQ gi|757855|emb|CAA59820.1| (X85810) FAR-2 protein fragment [Gallu...   109  8e-23
+SEQ gi|1708635|gb|AAC47451.1| (U50719) neuroglian [Manduca sexta]         109  9e-23
+SEQ gi|7512121|pir||T30581 neural cell adhesion molecule L1.1 - zebr...   109  1e-22
+SEQ gi|757853|emb|CAA59819.1| (X85809) FAR-1 protein fragment [Gallu...   106  5e-22
+SEQ gi|7511105|pir||T29549 hypothetical protein ZK377.3 - Caenorhabd...   106  7e-22
+SEQ gi|14574410|gb|AAF59572.2| (AC024817) Hypothetical protein Y54G2...   105  9e-22
+SEQ gi|14276863|gb|AAK58426.1|AF337034_1 (AF337034) roundabout1 [Dan...   104  2e-21
+SEQ gi|13872813|emb|CAC37630.1| (AJ306906) fibulin-6 [Homo sapiens]       103  3e-21
+SEQ gi|7303436|gb|AAF58493.1| (AE003821) fra gene product [Drosophil...   103  4e-21
+SEQ gi|6681139|ref|NP_031857.1| deleted in colorectal carcinoma [Mus...   103  5e-21
+SEQ gi|7511861|pir||T13822 frazzled gene protein - fruit fly (Drosop...   102  7e-21
+SEQ gi|7511862|pir||T13823 frazzled gene protein, log isoform - frui...   102  7e-21
+SEQ gi|8393087|ref|NP_059054.1| immunoglobulin superfamily member [R...   102  1e-20
+SEQ gi|6978755|ref|NP_036973.1| deleted in colcorectal cancer (rat h...   101  1e-20
+SEQ gi|10946654|ref|NP_067314.1| oncogene-regulated cell adhesion mo...   101  2e-20
+SEQ gi|181493|gb|AAA35751.1| (M32292) colorectal tumor suppressor (p...   101  2e-20
+SEQ gi|4885175|ref|NP_005206.1| deleted in colorectal carcinoma [Hom...   101  2e-20
+SEQ gi|6164831|gb|AAF04558.1| (AF182037) Robo2 [Rattus norvegicus]        101  2e-20
+SEQ gi|1160355|gb|AAB00542.1| (U33058) UNC-89 [Caenorhabditis elegans]     99  8e-20
+SEQ gi|7511618|pir||T29757 protein UNC-89 - Caenorhabditis elegans >...    99  8e-20
+SEQ gi|539611|pir||A38096 perlecan precursor - human >gi|184427|gb|A...    97  4e-19
+SEQ gi|7427517|ref|NP_005520.2| heparan sulfate proteoglycan 2 (perl...    97  5e-19
+SEQ gi|11602963|emb|CAC18534.1| (AL445795) heparan sulfate proteogly...    97  5e-19
+SEQ gi|3882233|dbj|BAA34476.1| (AB018299) KIAA0756 protein [Homo sap...    96  1e-18
+SEQ gi|7496310|pir||T30988 hypothetical protein C18F3.2 - Caenorhabd...    96  1e-18
+SEQ gi|7512404|pir||I38346 elastic titin - human (fragment) >gi|1017...    94  2e-18
+SEQ gi|6680311|ref|NP_032331.1| perlecan (heparan sulfate proteoglyc...    94  3e-18
+SEQ gi|4090876|gb|AAD09287.1| (AF023276) putative hemolin [Hyphantri...    93  6e-18
+SEQ gi|11544425|emb|CAC17584.1| (AL133515) bG153O3.1 (similar to C.e...    93  8e-18
+SEQ gi|13626028|ref|NP_112451.1| Down syndrome cell adhesion molecul...    93  9e-18
+SEQ gi|1346269|sp|P31398|HEMO_MANSE HEMOLIN PRECURSOR (P4 PROTEIN) (...    92  1e-17
+SEQ gi|10727395|gb|AAF51388.2| (AE003586) CG5423 gene product [Droso...    92  1e-17
+SEQ gi|511297|gb|AAC46916.1| (U11879) hemolin [Manduca sexta] >gi|64...    91  2e-17
+SEQ gi|8249467|emb|CAB93149.1| (AJ277892) titin [Homo sapiens]             91  2e-17
+SEQ gi|4322022|gb|AAD15922.1| (AF069602) myosin light chain kinase i...    90  6e-17
+SEQ gi|12644418|sp|Q15746|KMLS_HUMAN MYOSIN LIGHT CHAIN KINASE, SMOO...    90  6e-17
+SEQ gi|7499208|pir||T20993 hypothetical protein F15G9.4b - Caenorhab...    89  7e-17
+SEQ gi|7499207|pir||T20992 hypothetical protein F15G9.4a - Caenorhab...    89  7e-17
+SEQ gi|14277122|ref|NP_001380.1| Down syndrome cell adhesion molecul...    88  2e-16
+SEQ gi|12643619|sp|O60469|DSCA_HUMAN DOWN SYNDROME CELL ADHESION MOL...    88  2e-16
+SEQ gi|11359852|pir||T42633 connectin/titin - chicken (fragment) >gi...    87  4e-16
+SEQ gi|102950|pir||A37778 hemolin precursor - cecropia moth >gi|1592...    87  5e-16
+SEQ gi|7512400|pir||T08851 Down syndrome cell adhesion protein 1 - h...    87  5e-16
+SEQ gi|4336724|gb|AAD17918.1| (AF103899) fasciclin II GPI-linked iso...    87  5e-16
+SEQ gi|4336726|gb|AAD17919.1| (AF103900) fasciclin II transmembrane ...    87  5e-16
+SEQ gi|7662320|ref|NP_055628.1| KIAA0806 gene product [Homo sapiens]...    86  6e-16
+SEQ gi|10728428|gb|AAF45786.2| (AE003424) pcan gene product [Drosoph...    86  7e-16
+SEQ gi|2146896|pir||S65948 hemolin - cecropia moth >gi|1042214|gb|AA...    86  8e-16
+SEQ gi|3891927|pdb|1BIH|A Chain A, Crystal Structure Of The Insect I...    86  8e-16
+SEQ gi|6016197|sp|P25033|HEMO_HYACE HEMOLIN PRECURSOR (P4 PROTEIN) (...    86  8e-16
+SEQ gi|6680445|ref|NP_032403.1| integral membrane glycoprotein [Mus ...    85  1e-15
+SEQ gi|8134651|sp|Q91048|PTK7_CHICK TYROSINE-PROTEIN KINASE-LIKE 7 P...    84  2e-15
+SEQ gi|1620672|gb|AAB17088.1| (U70618) unc-40 [Caenorhabditis elegans]     84  3e-15
+SEQ gi|9280405|gb|AAF86402.1|AF245505_1 (AF245505) adlican [Homo sap...    83  9e-15
+SEQ gi|14039490|gb|AAK53241.1|AF335470_1 (AF335470) myosin light cha...    83  9e-15
+SEQ gi|12597263|gb|AAG60004.1| (AF275903) echinoid [Drosophila melan...    82  1e-14
+SEQ gi|12858264|dbj|BAB31253.1| (AK018522) putative [Mus musculus]         82  1e-14
+SEQ gi|6946670|emb|CAB72285.1| (AL138972) /prediction=(method:''gene...    81  2e-14
+SEQ gi|8072217|gb|AAF71926.1|AF260530_1 (AF260530) Dscam [Drosophila...    81  2e-14
+SEQ gi|13537355|dbj|BAB40659.1| (AB050468) membrane glycoprotein LIG...    81  3e-14
+SEQ gi|7304236|gb|AAF59271.1| (AE003841) Dscam gene product [Drosoph...    81  3e-14
+SEQ gi|422541|pir||A47299 ror-related receptor RTK - Pacific electri...    81  3e-14
+SEQ gi|6164595|gb|AAF04457.1|AF078161_1 (AF078161) lacunin [Manduca ...    81  3e-14
+SEQ gi|107362|pir||A38442 probable tumor suppressor - human (fragment)     79  8e-14
+SEQ gi|7300263|gb|AAF55425.1| (AE003718) CG12536 gene product [Droso...    79  8e-14
+SEQ gi|14423349|gb|AAK62357.1|AF381545_1 (AF381545) membrane glycopr...    79  9e-14
+SEQ gi|2275262|gb|AAC47655.1| (U92814) leechCAM [Hirudo medicinalis]       78  2e-13
+SEQ gi|7498954|pir||T34416 hypothetical protein F12F3.2 - Caenorhabd...    78  3e-13
+SEQ gi|7512027|pir||T13924 sdk protein - fruit fly (Drosophila melan...    78  3e-13
+SEQ gi|6691810|emb|CAB65848.1| (AL132792) the EST embl|AI239119|AI23...    78  3e-13
+SEQ gi|7290075|gb|AAF45541.1| (AE003418) sdk gene product [Drosophil...    78  3e-13
+SEQ gi|7512753|pir||T08678 hypothetical protein DKFZp564I1922.1 - hu...    76  7e-13
+SEQ gi|7496928|pir||T15746 hypothetical protein C33F10.5 - Caenorhab...    76  7e-13
+SEQ gi|103156|pir||B41054 fasciclin II PI-linked splice form precurs...    76  8e-13
+SEQ gi|462124|sp|P34083|FS22_DROME FASCICLIN II, PHOSPHATIDYLINOSITO...    76  8e-13
+SEQ gi|462123|sp|P34082|FS21_DROME FASCICLIN II, MEMBRANE-LINKED ISO...    76  8e-13
+SEQ gi|4185886|emb|CAA21825.1| (AL033125) EG:EG0007.3 [Drosophila me...    76  8e-13
+SEQ gi|4185887|emb|CAA21826.1| (AL033125) alternatively spliced form...    76  8e-13
+SEQ gi|7290471|gb|AAF45925.1| (AE003430) Fas2 gene product [Drosophi...    76  8e-13
+SEQ gi|127855|sp|P16170|NCA1_XENLA NEURAL CELL ADHESION MOLECULE 1, ...    76  1e-12
+SEQ gi|7717377|emb|CAB90436.1| (AL163282) human CHD2-52 down syndrom...    76  1e-12
+SEQ gi|7441746|pir||JE0099 neural cell adhesion molecule 1 - African...    75  1e-12
+SEQ gi|1439613|gb|AAB04558.1| (U63041) neural cell adhesion molecule...    75  1e-12
+SEQ gi|7290324|gb|AAF45784.1| (AE003424) CG7894 gene product [Drosop...    75  1e-12
+SEQ gi|127857|sp|P13592|NCA2_HUMAN NEURAL CELL ADHESION MOLECULE, PH...    75  2e-12
+SEQ gi|10834990|ref|NP_000606.1| neural cell adhesion molecule 1 [Ho...    75  2e-12
+SEQ gi|13641589|ref|XP_006332.2| neural cell adhesion molecule 1 [Ho...    75  2e-12
+SEQ gi|6754920|ref|NP_035084.1| neural cell adhesion molecule 2; olf...    74  2e-12
+SEQ gi|3334269|sp|O35136|NCM2_MOUSE NEURAL CELL ADHESION MOLECULE 2 ...    74  2e-12
+SEQ gi|2181948|emb|CAA33148.1| (X15049) cell adhesion molecule (AA 1...    74  2e-12
+SEQ gi|6329826|dbj|BAA86446.1| (AB032958) KIAA1132 protein [Homo sap...    74  3e-12
+SEQ gi|61|emb|CAA34470.1| (X16451) calmodulin-independent adenylate ...    74  3e-12
+SEQ gi|400398|sp|P31836|NCA1_BOVIN NEURAL CELL ADHESION MOLECULE, 14...    74  3e-12
+SEQ gi|1177619|emb|CAA63800.1| (X93601) REGA-1 protein [Schistocerca...    74  4e-12
+SEQ gi|7512940|pir||T17346 hypothetical protein DKFZp586O1624.1 - hu...    73  5e-12
+SEQ gi|7291711|gb|AAF47133.1| (AE003462) CG18019 gene product [Droso...    73  7e-12
+SEQ gi|14042832|dbj|BAB55411.1| (AK027852) unnamed protein product [...    73  7e-12
+SEQ gi|7499550|pir||T29340 hypothetical protein F21C10.7 - Caenorhab...    73  8e-12
+SEQ gi|14149046|emb|CAC39162.1| (AJ312133) turtle protein, isoform 2...    73  9e-12
+SEQ gi|14149048|emb|CAC39163.1| (AJ312134) turtle protein, isoform 3...    73  9e-12
+SEQ gi|14149050|emb|CAC39164.1| (AJ312135) turtle protein, isoform 4...    73  9e-12
+SEQ gi|7505648|pir||T23007 hypothetical protein K09C8.5 - Caenorhabd...    72  1e-11
+SEQ gi|7331878|gb|AAF60566.1| (AC024778) Hypothetical protein Y42H9B...    72  1e-11
+SEQ gi|125977|sp|P16621|LAR_DROME PROTEIN-TYROSINE PHOSPHATASE DLAR ...    72  1e-11
+SEQ gi|4505025|ref|NP_002329.1| limbic system-associated membrane pr...    72  2e-11
+SEQ gi|12719081|ref|XP_003036.2| limbic system-associated membrane p...    72  2e-11
+SEQ gi|462073|sp|P22648|FAS2_SCHAM FASCICLIN II PRECURSOR (FAS II) >...    72  2e-11
+SEQ gi|13928706|ref|NP_113709.1| cell adhesion molecule, neural (CD5...    71  2e-11
+SEQ gi|72067|pir||IJRTNC neural cell adhesion molecule short domain ...    71  2e-11
+SEQ gi|7511448|pir||T32186 hypothetical protein ZK994.3 - Caenorhabd...    71  2e-11
+SEQ gi|2497324|sp|Q62813|LAMP_RAT LIMBIC SYSTEM-ASSOCIATED MEMBRANE ...    71  2e-11
+SEQ gi|10728878|gb|AAF53837.2| (AE003663) Lar gene product [Drosophi...    71  2e-11
+SEQ gi|13639369|ref|XP_012023.2| opioid-binding cell adhesion molecu...    71  3e-11
+SEQ gi|7295279|gb|AAF50600.1| (AE003560) CG14828 gene product [Droso...    71  3e-11
+SEQ gi|542688|pir||PN0568 connectin 3B - chicken (fragment) >gi|3916...    71  3e-11
+SEQ gi|7295749|gb|AAF51052.1| (AE003578) CG3390 gene product [Drosop...    71  4e-11
+SEQ gi|129173|sp|P11834|OPCM_BOVIN OPIOID BINDING PROTEIN/CELL ADHES...    71  4e-11
+SEQ gi|10047333|dbj|BAB13454.1| (AB046848) KIAA1628 protein [Homo sa...    70  5e-11
+SEQ gi|547997|sp|P36335|NCA2_XENLA NEURAL CELL ADHESION MOLECULE 2, ...    70  5e-11
+SEQ gi|4505505|ref|NP_002536.1| opioid-binding cell adhesion molecul...    70  5e-11
+SEQ gi|2497322|sp|Q98919|LAMP_CHICK LIMBIC SYSTEM-ASSOCIATED MEMBRAN...    70  5e-11
+SEQ gi|1945745|emb|CAB08114.1| (Z94719) chLAMP, g11-isoform [Gallus ...    70  5e-11
+SEQ gi|1945749|emb|CAB08113.1| (Z94718) chLAMP, g9-isoform [Gallus g...    70  5e-11
+SEQ gi|7512203|pir||JC5519 50K glycoprotein precursor - chicken            70  5e-11
+SEQ gi|6755961|ref|NP_035823.1| vascular cell adhesion molecule 1 [M...    70  5e-11
+SEQ gi|459893|gb|AAA16921.1| (L22355) vascular cell adhesion molecul...    70  5e-11
+SEQ gi|7441747|pir||JE0100 neural cell adhesion molecule 2 - African...    70  6e-11
+SEQ gi|6226618|sp|Q98892|G55A_CHICK NEURITE INHIBITOR GP55-A PRECURS...    70  6e-11
+SEQ gi|9887383|gb|AAG01877.1|AF292934_1 (AF292934) OBCAM alpha 1 iso...    70  6e-11
+SEQ gi|4322024|gb|AAD15923.1| (AF069603) myosin light chain kinase i...    69  7e-11
+SEQ gi|7239698|gb|AAD15921.2| (AF069601) myosin light chain kinase i...    69  7e-11
+SEQ gi|7303995|gb|AAF59038.1| (AE003835) sns gene product [Drosophil...    69  7e-11
+SEQ gi|112102|pir||JC1238 opioid-binding protein (clone DUZ1) - rat ...    69  9e-11
+SEQ gi|1352640|sp|P32736|OPCM_RAT OPIOID BINDING PROTEIN/CELL ADHESI...    69  9e-11
+SEQ gi|7295131|gb|AAF50456.1| (AE003556) CG18630 gene product [Droso...    69  1e-10
+SEQ gi|127861|sp|P13594|NCA2_MOUSE NEURAL CELL ADHESION MOLECULE, PH...    69  1e-10
+SEQ gi|400402|sp|P13595|NCA1_MOUSE NEURAL CELL ADHESION MOLECULE, LA...    69  1e-10
+SEQ gi|7296468|gb|AAF51754.1| (AE003595) CG7166 gene product [Drosop...    69  1e-10
+SEQ gi|8134650|sp|Q13308|PTK7_HUMAN TYROSINE-PROTEIN KINASE-LIKE 7 P...    69  1e-10
+SEQ gi|7511703|pir||T31093 probable protein-tyrosine-phosphatase (EC...    68  2e-10
+SEQ gi|8572742|gb|AAF77184.1| (AF254867) SNS [Drosophila melanogaster]     68  2e-10
+SEQ gi|4758764|ref|NP_004531.1| neural cell adhesion molecule 2; neu...    68  3e-10
+SEQ gi|2706875|dbj|BAA24032.1| (D85084) NCAM-180 [Cynops pyrrhogaster]     68  3e-10
+SEQ gi|2706876|dbj|BAA24033.1| (D85084) NCAM-140 [Cynops pyrrhogaster]     68  3e-10
+SEQ gi|2851523|sp|P13590|NCA1_CHICK NEURAL CELL ADHESION MOLECULE, L...    68  3e-10
+SEQ gi|459710|gb|AAB59957.1| (M15861) neural cell adhesion molecule ...    68  3e-10
+SEQ gi|459711|gb|AAB59959.1| (M15861) neural cell adhesion molecule ...    68  3e-10
+SEQ gi|5901844|gb|AAD55430.1|AF181644_1 (AF181644) BcDNA.GH11322 [Dr...    67  4e-10
+SEQ gi|7295723|gb|AAF51028.1| (AE003576) BcDNA:GH11322 gene product ...    67  4e-10
+SEQ gi|113687|sp|P15364|AMAL_DROME AMALGAM PROTEIN PRECURSOR >gi|848...    67  4e-10
+SEQ gi|4389427|gb|AAD19797.1| (AE001572) Immunoglobulin-C2-type-doma...    67  4e-10
+SEQ gi|279680|pir||IJCHNL neural cell adhesion molecule long domain ...    67  5e-10
+SEQ gi|8671376|emb|CAB95001.1| (AJ401157) titin [Rattus norvegicus]        67  5e-10
+SEQ gi|2851396|sp|P11799|KMLS_CHICK MYOSIN LIGHT CHAIN KINASE, SMOOT...    66  6e-10
+SEQ gi|249840|gb|AAB22251.1| LAR, leukocyte common antigen-related p...    66  7e-10
+SEQ gi|7248659|gb|AAF43606.1|AF197945_1 (AF197945) receptor protein ...    66  7e-10
+SEQ gi|11559520|gb|AAG37995.1|AF205357_1 (AF205357) extracellular ma...    66  8e-10
+SEQ gi|4506273|ref|NP_002812.1| PTK7 protein tyrosine kinase 7; PTK7...    66  8e-10
+SEQ gi|13631946|ref|XP_004139.2| PTK7 protein tyrosine kinase 7 [Hom...    66  8e-10
+SEQ gi|11761808|gb|AAG40194.1|AF300943_1 (AF300943) tyrosine phospha...    66  1e-09
+SEQ gi|1083304|pir||S49010 embryonic receptor kinase - mouse >gi|510...    66  1e-09
+SEQ gi|200301|gb|AAA39912.1| (J04055) basement membrane proteoglycan...    66  1e-09
+SEQ gi|7295740|gb|AAF51044.1| (AE003577) CG16842 gene product [Droso...    65  1e-09
+SEQ gi|1199461|gb|AAB59281.1| (L43124) vascular cell adhesion molecu...    65  1e-09
+SEQ gi|6753886|ref|NP_034358.1| FMS-like tyrosine kinase 1; vascular...    65  1e-09
+SEQ gi|2809069|dbj|BAA24498.1| (D88689) flt-1 [Mus musculus]               65  1e-09
+SEQ gi|9507011|ref|NP_062013.1| protein tyrosine phosphatase, recept...    65  1e-09
+SEQ gi|2118906|pir||I58148 protein-tyrosine-phosphatase (EC 3.1.3.48...    65  1e-09
+SEQ gi|440973|gb|AAB28877.1| receptor protein tyrosine phosphatase-s...    65  1e-09
+SEQ gi|1085568|pir||S46217 protein-tyrosine-phosphatase (EC 3.1.3.48...    65  1e-09
+SEQ gi|461292|dbj|BAA05887.1| (D28531) PTPT9A, the truncated extrace...    65  1e-09
+SEQ gi|464191|dbj|BAA05886.1| (D28530) protein tyrosine phosphatase ...    65  1e-09
+SEQ gi|1083485|pir||S50893 protein-tyrosine-phosphatase (EC 3.1.3.48...    65  1e-09
+SEQ gi|5031927|ref|NP_005583.1| muscle, skeletal, receptor tyrosine ...    65  1e-09
+SEQ gi|13641262|ref|XP_011817.2| muscle, skeletal, receptor tyrosine...    65  1e-09
+SEQ gi|1017827|gb|AAA79203.1| (U37708) muscle localized kinase 1 [Mu...    65  2e-09
+SEQ gi|1017829|gb|AAA79204.1| (U37709) muscle localized kinase 2 [Mu...    65  2e-09
+SEQ gi|4503749|ref|NP_002010.1| fms-related tyrosine kinase 1 (vascu...    65  2e-09
+SEQ gi|3132831|gb|AAC16449.1| (AF063657) vascular endothelial growth...    65  2e-09
+SEQ gi|13628644|ref|XP_007175.2| fms-related tyrosine kinase 1 (vasc...    65  2e-09
+SEQ gi|1407625|gb|AAC50567.1| (U40317) PTPsigma [Homo sapiens]             64  2e-09
+SEQ gi|4096822|gb|AAD09360.1| (U41725) PTPsigma-(brain) [Homo sapiens]     64  2e-09
+SEQ gi|1688299|gb|AAB36950.1| (U78177) Klingon [Drosophila melanogas...    64  2e-09
+SEQ gi|7300932|gb|AAF56071.1| (AE003741) klg gene product [Drosophil...    64  2e-09
+SEQ gi|3024084|sp|Q26474|LACH_SCHAM LACHESIN PRECURSOR >gi|294841|gb...    64  2e-09
+SEQ gi|11385416|gb|AAG34791.1|AF215896_1 (AF215896) striated muscle-...    64  2e-09
+SEQ gi|9507013|ref|NP_062122.1| protein tyrosine phosphatase, recept...    64  2e-09
+SEQ gi|8394196|ref|NP_059050.1| neurotrimin [Rattus norvegicus] >gi|...    64  2e-09
+SEQ gi|1082978|pir||JC2457 vascular cell adhesion protein - pig >gi|...    64  2e-09
+SEQ gi|630884|pir||S46224 peroxidasin - fruit fly (Drosophila sp.) >...    64  3e-09
+SEQ gi|57472|emb|CAA45254.1| (X63722) Vascular cell adhesion  molecu...    64  3e-09
+SEQ gi|6981700|ref|NP_037021.1| vascular cell adhesion molecule 1 [R...    64  3e-09
+SEQ gi|13592003|ref|NP_112323.1| muscle-specific tyrosine kinase rec...    64  3e-09
+SEQ gi|1083478|pir||C54689 protein-tyrosine-phosphatase (EC 3.1.3.48...    64  3e-09
+SEQ gi|5019445|emb|CAB44446.1| (AJ132999) neurotractin-L [Gallus gal...    64  3e-09
+SEQ gi|7304284|gb|AAF59317.1| (AE003843) CG10285 gene product [Droso...    64  3e-09
+SEQ gi|2137344|pir||I48696 protein-tyrosine kinase (EC 2.7.1.112) ns...    64  4e-09
+SEQ gi|6754896|ref|NP_035074.1| muscle, skeletal, receptor tyrosine ...    64  4e-09
+SEQ gi|7434398|pir||S60738 protein-tyrosine kinase (EC 2.7.1.112) ns...    64  4e-09
+SEQ gi|7434399|pir||S60740 protein-tyrosine kinase (EC 2.7.1.112) ns...    64  4e-09
+SEQ gi|11386171|ref|NP_004354.1| carcinoembryonic antigen-related ce...    64  4e-09
+SEQ gi|180199|gb|AAA51963.1| (M15042) carcinoembryonic antigen precu...    64  4e-09
+SEQ gi|13630116|ref|XP_012777.2| carcinoembryonic antigen-related ce...    64  4e-09
+SEQ gi|310202|gb|AAA75407.1| (L19180) receptor-linked protein tyrosi...    64  4e-09
+SEQ gi|310204|gb|AAA50568.1| (L19181) receptor-linked protein tyrosi...    64  4e-09
+SEQ gi|1083771|pir||A48758 protein-tyrosine-phosphatase (EC 3.1.3.48...    64  4e-09
+SEQ gi|1083772|pir||B48758 protein-tyrosine-phosphatase (EC 3.1.3.48...    64  4e-09
+SEQ gi|4506311|ref|NP_002831.1| protein tyrosine phosphatase, recept...    64  5e-09
+SEQ gi|13638537|ref|XP_001466.3| protein tyrosine phosphatase, recep...    64  5e-09
+SEQ gi|7292195|gb|AAF47606.1| (AE003473) CG1282 gene product [Drosop...    64  5e-09
+SEQ gi|12642540|gb|AAK00276.1|AF282980_1 (AF282980) neurotrimin [Mus...    63  5e-09
+SEQ gi|7959295|dbj|BAA96038.1| (AB040947) KIAA1514 protein [Homo sap...    63  5e-09
+SEQ gi|1480842|gb|AAB05806.1| (U63292) cell adhesion molecule n-cam ...    63  6e-09
+SEQ gi|11359853|pir||T42634 connectin/titin - chicken (fragment) >gi...    63  6e-09
+SEQ gi|14198131|gb|AAH08124.1|AAH08124 (BC008124) Unknown (protein f...    63  7e-09
+SEQ gi|111526|pir||B40098 colorectal cancer suppressor DCC - rat (fr...    63  7e-09
+SEQ gi|7292259|gb|AAF47668.1| (AE003475) Pxn gene product [Drosophil...    63  8e-09
+SEQ gi|825638|emb|CAA34474.1| (X16455) pCEA80-11 protein (647 AA) [H...    63  8e-09
+SEQ gi|3024083|sp|Q24372|LACH_DROME LACHESIN PRECURSOR >gi|290247|gb...    63  9e-09
+SEQ gi|7303450|gb|AAF58506.1| (AE003822) Lac gene product [Drosophil...    63  9e-09
+SEQ gi|2118907|pir||I50212 protein-tyrosine-phosphatase (EC 3.1.3.48...    63  9e-09
+SEQ gi|3355458|gb|AAC27825.1| (AC005338) PTPsigma, partial CDS [Homo...    63  1e-08
+SEQ gi|11276093|ref|NP_062179.1| Fms-related tyrosine kinase 1 (vasc...    63  1e-08
+SEQ gi|11067409|ref|NP_067714.1| Kilon [Rattus norvegicus] >gi|81345...    63  1e-08
+SEQ gi|14518285|gb|AAK64494.1|AF389400_1 (AF389400) fibroblast growt...    62  1e-08
+SEQ gi|7705413|ref|NP_057606.1| neurotrimin [Homo sapiens] >gi|71589...    62  1e-08
+SEQ gi|1401236|gb|AAB03389.1| (U59448) receptor tyrosine kinase 90 [...    62  1e-08
+SEQ gi|4467833|emb|CAB37831.1| (X58776) cell adhesion molecule L1 [H...    61  2e-08
+SEQ gi|2897597|emb|CAA12649.1| (AJ225897) neural secreted glycoprote...    61  2e-08
+SEQ gi|3298456|dbj|BAA31514.1| (AB011810) CEPU-1 [Gallus gallus]           61  2e-08
+SEQ gi|9887387|gb|AAG01879.1|AF292936_1 (AF292936) CEPU-Se alpha 1 i...    61  2e-08
+SEQ gi|7301473|gb|AAF56597.1| (AE003756) CG6490 gene product [Drosop...    61  2e-08
+SEQ gi|9828173|gb|AAG00078.1|AF205078_1 (AF205078) actin-associated ...    61  2e-08
+SEQ gi|12845727|dbj|BAB26871.1| (AK010350) putative [Mus musculus]         61  2e-08
+SEQ gi|4506327|ref|NP_002841.1| protein tyrosine phosphatase, recept...    61  2e-08
+SEQ gi|13651702|ref|XP_017236.1| protein tyrosine phosphatase, recep...    61  2e-08
+SEQ gi|7292322|gb|AAF47729.1| (AE003477) CG14964 gene product [Droso...    61  3e-08
+SEQ gi|8393742|ref|NP_058886.1| myelin-associated glycoprotein [Ratt...    61  3e-08
+SEQ gi|69988|pir||BNRT3S myelin-associated glycoprotein precursor, s...    61  3e-08
+SEQ gi|5921676|gb|AAC78203.2| (AF106579) contains similarity to Pfam...    61  3e-08
+SEQ gi|6815113|dbj|BAA90302.2| (AB026846) kettin [Caenorhabditis ele...    61  3e-08
+SEQ gi|2497320|sp|Q90773|CEPU_CHICK CEPU-1 PROTEIN PRECURSOR >gi|132...    61  3e-08
+SEQ gi|110728|pir||B33785 myelin-associated glycoprotein - mouse           61  3e-08
+SEQ gi|6754614|ref|NP_034888.1| myelin-associated glycoprotein [Mus ...    61  3e-08
+SEQ gi|3334470|sp|P20917|MAG_MOUSE MYELIN-ASSOCIATED GLYCOPROTEIN PR...    61  3e-08
+SEQ gi|11345456|ref|NP_068742.1| fibroblast growth factor receptor-l...    61  4e-08
+SEQ gi|13183618|gb|AAK15273.1|AF312678_1 (AF312678) FGF homologous f...    61  4e-08
+SEQ gi|180211|gb|AAA62835.1| (M59710) carcinoembryonic antigen [Homo...    60  4e-08
+SEQ gi|103105|pir||S19247 cell adhesion protein Gp160-Dtrk - fruit f...    60  5e-08
+SEQ gi|7303541|gb|AAF58596.1| (AE003823) otk gene product [Drosophil...    60  5e-08
+SEQ gi|7242949|dbj|BAA92535.1| (AB037718) KIAA1297 protein [Homo sap...    60  5e-08
+SEQ gi|7513113|pir||T13078 KIAA0992 protein - human (fragment) >gi|4...    59  7e-08
+SEQ gi|4689130|gb|AAD27774.1|AF077041_1 (AF077041) SIH002 [Homo sapi...    59  7e-08
+SEQ gi|7706355|ref|NP_057165.1| palladin; CGI-151 protein [Homo sapi...    59  7e-08
+SEQ gi|7243091|dbj|BAA92593.1| (AB037776) KIAA1355 protein [Homo sap...    59  8e-08
+SEQ gi|7292193|gb|AAF47604.1| (AE003473) Ket gene product [Drosophil...    59  8e-08
+SEQ gi|8250181|emb|CAB93524.1| (AJ271740) D-Titin [Drosophila melano...    59  8e-08
+SEQ gi|13630765|ref|XP_003449.3| fibroblast growth factor receptor-l...    59  8e-08
+SEQ gi|6815111|dbj|BAA90301.2| (AB026845) kettin [Drosophila melanog...    59  9e-08
+SEQ gi|7159652|emb|CAB76253.1| (AJ245406) kettin [Drosophila melanog...    59  9e-08
+SEQ gi|37195|emb|CAA45938.1| (X64697) titin [Homo sapiens]                 59  1e-07
+SEQ gi|407139|emb|CAA49245.1| (X69490) titin [Homo sapiens]                59  1e-07
+SEQ gi|420108|pir||S20898 titin - human (fragments)                        59  1e-07
+SEQ gi|4507721|ref|NP_003310.1| titin [Homo sapiens] >gi|1212992|emb...    59  1e-07
+SEQ gi|2136280|pir||I38344 titin, cardiac muscle [validated] - human       59  1e-07
+SEQ gi|7510585|pir||T19820 hypothetical protein ZC101.2c - Caenorhab...    59  1e-07
+SEQ gi|4506309|ref|NP_002830.1| protein tyrosine phosphatase, recept...    59  1e-07
+SEQ gi|3243131|gb|AAC23966.1| (AF045777) titin [Drosophila melanogas...    59  1e-07
+SEQ gi|399116|sp|P13688|BGP1_HUMAN BILIARY GLYCOPROTEIN 1 PRECURSOR ...    59  1e-07
+SEQ gi|37204|emb|CAA34405.1| (X16356) TM3-CEA protein [Homo sapiens]       59  1e-07
+SEQ gi|3024622|sp|Q92154|SMP_COTJA SCHWANN CELL MYELIN PROTEIN PRECU...    59  1e-07
+SEQ gi|86964|pir||JH0394 biliary glycoprotein g precursor - human >g...    59  1e-07
+SEQ gi|4502405|ref|NP_001703.1| carcinoembryonic antigen-related cel...    59  1e-07
+SEQ gi|2804786|gb|AAC39576.1| (AF040991) roundabout 2 [Homo sapiens]       59  1e-07
+SEQ gi|481393|pir||S38579 fibroblast growth factor receptor 3 - Iber...    59  1e-07
+SEQ gi|599959|emb|CAA53271.1| (X75603) fibroblast growth factor rece...    59  1e-07
+SEQ gi|1143164|gb|AAA84866.1| (U32086) vascular cell adhesion molecu...    59  1e-07
+SEQ gi|10726826|gb|AAF56794.2| (AE003765) CG1540 gene product [Droso...    59  1e-07
+SEQ gi|10726827|gb|AAF56795.2| (AE003765) CG18436 gene product [Dros...    59  1e-07
+SEQ gi|13646468|ref|XP_009705.3| neural cell adhesion molecule 2 [Ho...    59  1e-07
+SEQ gi|180241|gb|AAA51972.1| (M16234) carcinoembryonic antigen [Homo...    58  2e-07
+SEQ gi|14161269|gb|AAK54682.1|AF271233_1 (AF271233) secretory IgCEPU...    58  2e-07
+SEQ gi|3928489|emb|CAA77028.1| (Y18102) titin [Oryctolagus cuniculus]      58  2e-07
+SEQ gi|452201|dbj|BAA03004.1| (D13904) MPTPdelta [Mus musculus]            58  2e-07
+SEQ gi|11360192|pir||T46283 hypothetical protein DKFZp566D234.1 - hu...    58  2e-07
+SEQ gi|7297195|gb|AAF52461.1| (AE003615) CG9211 gene product [Drosop...    58  2e-07
+SEQ gi|7248657|gb|AAF43605.1|AF197944_1 (AF197944) receptor protein ...    58  3e-07
+SEQ gi|7511104|pir||T29548 hypothetical protein ZK377.2 - Caenorhabd...    58  3e-07
+SEQ gi|104045|pir||A39752 fibroblast growth factor receptor A1 precu...    58  3e-07
+SEQ gi|283581|pir||C42632 cell adhesion molecule apCAM (clone d12) -...    57  4e-07
+SEQ gi|12845399|dbj|BAB26738.1| (AK010153) putative [Mus musculus]         57  4e-07
+SEQ gi|7292196|gb|AAF47607.1| (AE003473) CG11850 gene product [Droso...    57  4e-07
+SEQ gi|10727535|gb|AAF58172.2| (AE003812) hbs gene product [Drosophi...    57  5e-07
+SEQ gi|6330966|dbj|BAA86577.1| (AB033089) KIAA1263 protein [Homo sap...    57  5e-07
+SEQ gi|6625978|gb|AAF19446.1|AF210316_1 (AF210316) hibris [Drosophil...    56  6e-07
+SEQ gi|7511704|pir||T30938 receptor tyrosine phosphatase - medicinal...    56  7e-07
+SEQ gi|11225258|ref|NP_002352.1| myelin associated glycoprotein; Mye...    56  7e-07
+SEQ gi|482727|pir||A61084 myelin-associated glycoprotein precursor -...    56  7e-07
+SEQ gi|6754440|ref|NP_034742.1| kinase insert domain protein recepto...    56  8e-07
+SEQ gi|423436|pir||A46065 endothelial cell-specific receptor tyrosin...    56  8e-07
+SEQ gi|283582|pir||B42632 cell adhesion molecule apCAM (clone d15) -...    56  1e-06
+SEQ gi|283583|pir||A42632 cell adhesion molecule apCAM (clone d19) -...    56  1e-06
+SEQ gi|13177630|gb|AAK14901.1| (M89650) NCAM-related cell adhesion m...    56  1e-06
+SEQ gi|11037736|gb|AAG27717.1|AF303661_1 (AF303661) FGF receptor [Ha...    56  1e-06
+SEQ gi|3212108|gb|AAC21580.1| (AF069775) L1-like cell adhension mole...    56  1e-06
+SEQ gi|13639536|ref|XP_006256.3| surface glycoprotein, Ig superfamil...    56  1e-06
+SEQ gi|7508141|pir||T28715 hypothetical protein T21D12.9b - Caenorha...    56  1e-06
+SEQ gi|7508140|pir||T28714 hypothetical protein T21D12.9a - Caenorha...    56  1e-06
+SEQ gi|7024535|gb|AAF35436.1|AF159173_1 (AF159173) structural muscle...    56  1e-06
+SEQ gi|5019443|emb|CAB44445.1| (AJ132998) neurotractin-S [Gallus gal...    56  1e-06
+SEQ gi|4507875|ref|NP_001069.1| vascular cell adhesion molecule 1 [H...    56  1e-06
+SEQ gi|7302983|gb|AAF58053.1| (AE003808) CG8434 gene product [Drosop...    55  1e-06
+SEQ gi|2136094|pir||I58357 receptor tyrosine kinase - human (fragmen...    55  1e-06
+SEQ gi|11321597|ref|NP_002244.1| kinase insert domain receptor (a ty...    55  1e-06
+SEQ gi|3132833|gb|AAC16450.1| (AF063658) vascular endothelial growth...    55  1e-06
+SEQ gi|7446386|pir||JC1402 protein-tyrosine kinase (EC 2.7.1.112) KD...    55  1e-06
+SEQ gi|11935122|gb|AAG41980.1|AF314171_1 (AF314171) papilin [Mus mus...    55  2e-06
+SEQ gi|13543149|gb|AAH05747.1|AAH05747 (BC005747) Unknown (protein f...    55  2e-06
+SEQ gi|627662|pir||B41288 vascular cell adhesion molecule 1, short s...    55  2e-06
+SEQ gi|6678505|ref|NP_033498.1| UNC-5 homolog (C. elegans) 3 [Mus mu...    55  2e-06
+SEQ gi|4050089|gb|AAC97963.1| (AF109907) hypothetical protein [Homo ...    55  2e-06
+SEQ gi|13177628|gb|AAK14899.1| (M89648) NCAM-related adhesion molecu...    55  2e-06
+SEQ gi|13177629|gb|AAK14900.1| (M89649) NCAM-related adhesion molecu...    55  2e-06
+SEQ gi|10727341|gb|AAF51031.2| (AE003577) CG15426 gene product [Dros...    54  2e-06
+SEQ gi|14149044|emb|CAC39161.1| (AJ312132) turtle protein, isoform 1...    54  2e-06
+SEQ gi|549164|sp|Q06561|UN52_CAEEL BASEMENT MEMBRANE PROTEOGLYCAN PR...    54  2e-06
+SEQ gi|1078888|pir||A47648 perlecan homolog unc-52, form 1 precursor...    54  2e-06
+SEQ gi|7510583|pir||T19819 hypothetical protein ZC101.2a - Caenorhab...    54  2e-06
+SEQ gi|7510586|pir||T19821 hypothetical protein ZC101.2e - Caenorhab...    54  2e-06
+SEQ gi|6981128|ref|NP_037194.1| FLK1 kinase insert domain receptor (...    54  2e-06
+SEQ gi|2098761|gb|AAB97509.1| (U93307) C-terminal truncated VEGF rec...    54  2e-06
+SEQ gi|13432140|sp|P22455|FGR4_HUMAN FIBROBLAST GROWTH FACTOR RECEPT...    54  2e-06
+SEQ gi|6671810|gb|AAF23186.1|U42847_4 (U42847) contains similarity t...    54  2e-06
+SEQ gi|9506939|ref|NP_062121.1| neurotrophic tyrosine kinase, recept...    54  3e-06
+SEQ gi|310239|gb|AAA42283.1| (L14446) tyrosine protein kinase [Rattu...    54  3e-06
+SEQ gi|464932|sp|Q03351|TRKC_RAT NT-3 GROWTH FACTOR RECEPTOR PRECURS...    54  3e-06
+SEQ gi|393339|gb|AAB26723.1| receptor tyrosine kinase, TrkCtk-=neuro...    54  3e-06
+SEQ gi|393340|gb|AAB26724.1| receptor tyrosine kinase, TrkC25=neurog...    54  3e-06
+SEQ gi|11907511|dbj|BAB19650.1| (AB052746) vascular cell adhesion mo...    54  3e-06
+SEQ gi|11990448|dbj|BAB19782.1| (AB052747) vascular cell adhesion mo...    54  3e-06
+SEQ gi|6739818|gb|AAF27432.1|AF202063_1 (AF202063) fibroblast growth...    54  3e-06
+SEQ gi|1079292|pir||JC4058 fibroblast growth factor receptor-4 precu...    54  4e-06
+SEQ gi|11993956|ref|NP_032772.2| neurotrophic tyrosine kinase, recep...    54  4e-06
+SEQ gi|14211895|ref|NP_115967.1| myopalladin [Homo sapiens] >gi|1395...    54  4e-06
+SEQ gi|7512013|pir||T13931 projectin - fruit fly (Drosophila melanog...    54  4e-06
+SEQ gi|10726323|gb|AAF59316.2| (AE003843) bt gene product [Drosophil...    54  4e-06
+SEQ gi|10727342|gb|AAF51030.2| (AE003577) CG15427 gene product [Dros...    54  4e-06
+SEQ gi|120048|sp|P22182|FGR1_XENLA FIBROBLAST GROWTH FACTOR RECEPTOR...    54  4e-06
+SEQ gi|13775508|gb|AAK39317.1| (AC084152) Hypothetical protein Y102A...    54  5e-06
+SEQ gi|388966|gb|AAB26717.1| receptor tyrosine kinase, TrKC(ic158) {...    54  5e-06
+SEQ gi|388967|gb|AAB26718.1| receptor tyrosine kinase, TrKC(ic143) {...    54  5e-06
+SEQ gi|388968|gb|AAB26719.1| receptor tyrosine kinase, TrKC(ic113) {...    54  5e-06
+SEQ gi|388969|gb|AAB26720.1| receptor tyrosine kinase, TrkC(ic158) {...    54  5e-06
+SEQ gi|12698664|gb|AAK01632.1| (AF316539) PTP-3A [Caenorhabditis ele...    53  5e-06
+SEQ gi|2143466|pir||I58365 gene NYK/FLK-1 protein - mouse >gi|264005...    53  5e-06
+SEQ gi|6679813|ref|NP_032055.1| FMS-like tyrosine kinase 4 [Mus musc...    53  5e-06
+SEQ gi|346666|pir||A46512 CD22 homolog/B lymphocyte-restricted adhes...    53  5e-06
+SEQ gi|6753340|ref|NP_033975.1| CD22 antigen [Mus musculus] >gi|4616...    53  5e-06
+SEQ gi|1168177|gb|AAB35359.1| fibroblast growth factor receptor type...    53  5e-06
+SEQ gi|4836294|gb|AAD30391.1|AF115400_1 (AF115400) B lymphocyte cell...    53  5e-06
+SEQ gi|4836296|gb|AAD30392.1|AF115401_1 (AF115401) B lymphocyte cell...    53  5e-06
+SEQ gi|4507837|ref|NP_003719.1| unc5 (C.elegans homolog) c; homolog ...    53  5e-06
+SEQ gi|103966|pir||S19947 fibroblast growth factor receptor - Iberia...    53  7e-06
+SEQ gi|4505475|ref|NP_002521.1| neurotrophic tyrosine kinase, recept...    53  7e-06
+SEQ gi|2497562|sp|Q16288|TRKC_HUMAN NT-3 GROWTH FACTOR RECEPTOR PREC...    53  7e-06
+SEQ gi|2135254|pir||I73633 gene trkC protein - human >gi|913724|gb|A...    53  7e-06
+SEQ gi|2134268|pir||JC4954 vascular endothelial growth factor recept...    53  7e-06
+SEQ gi|3336860|emb|CAA12029.1| (AJ224521) TRKC [Homo sapiens]              53  7e-06
+SEQ gi|13651346|ref|XP_007617.2| neurotrophic tyrosine kinase, recep...    53  7e-06
+SEQ gi|13021657|gb|AAK11506.1| (AF170331) neural cell adhesion molec...    53  7e-06
+SEQ gi|1078889|pir||B47648 perlecan homolog unc-52, form 2 precursor...    52  9e-06
+SEQ gi|484695|pir||PH1379 vascular cell adhesion molecule 1 - human ...    52  9e-06
+SEQ gi|6434249|emb|CAA86842.2| (Z46811) contains similarity to Pfam ...    52  9e-06
+SEQ gi|7495741|pir||T19120 hypothetical protein C09D8.2 - Caenorhabd...    52  9e-06
+SEQ gi|84477|pir||S07571 twitchin - Caenorhabditis elegans >gi|6898|...    52  1e-05
+SEQ gi|7511243|pir||T27934 hypothetical protein ZK617.1a - Caenorhab...    52  1e-05
+SEQ gi|7511244|pir||T27935 hypothetical protein ZK617.1b - Caenorhab...    52  1e-05
+SEQ gi|7434379|pir||S57242 twitchin [similarity] - Caenorhabditis el...    52  1e-05
+SEQ gi|627575|pir||B54312 pregnancy-specific beta-1 glycoprotein 4 p...    52  1e-05
+SEQ gi|8469183|sp|Q00888|PSG4_HUMAN PREGNANCY-SPECIFIC BETA-1-GLYCOP...    52  1e-05
+SEQ gi|2541908|dbj|BAA22849.1| (AB007036) FGF receptor 4a [Xenopus l...    52  1e-05
+SEQ gi|13938170|gb|AAH07201.1|AAH07201 (BC007201) Unknown (protein f...    52  1e-05
+SEQ gi|8926221|gb|AAF81749.1|AF270512_1 (AF270512) Lutheran glycopro...    52  1e-05
+SEQ gi|5689459|dbj|BAA83013.1| (AB028984) KIAA1061 protein [Homo sap...    52  2e-05
+SEQ gi|6093843|sp|Q15240|PSG9_HUMAN PREGNANCY-SPECIFIC BETA-1-GLYCOP...    52  2e-05
+SEQ gi|2558918|gb|AAB81604.1| (AF024638) fibroblast growth factor re...    52  2e-05
+SEQ gi|476558|pir||TVHUF4 fibroblast growth factor receptor 4 precur...    52  2e-05
+SEQ gi|2117857|pir||I50128 fibroblast growth factor receptor - quail...    52  2e-05
+SEQ gi|104787|pir||A37099 myosin-light-chain kinase (EC 2.7.1.117) -...    52  2e-05
+SEQ gi|2832350|emb|CAA74200.1| (Y13901) fibroblast growth factor 4 [...    52  2e-05
+SEQ gi|13112050|ref|NP_075252.1| fibroblast growth factor receptor 4...    52  2e-05
+SEQ gi|13112052|ref|NP_002002.2| fibroblast growth factor receptor 4...    52  2e-05
+SEQ gi|13645106|ref|XP_017087.1| fibroblast growth factor receptor 4...    52  2e-05
+SEQ gi|13645110|ref|XP_003910.3| fibroblast growth factor receptor 4...    52  2e-05
+SEQ gi|6330729|dbj|BAA86547.1| (AB033059) KIAA1233 protein [Homo sap...    52  2e-05
+SEQ gi|9623341|gb|AAF90125.1|AF257307_1 (AF257307) stretchin-MLCK [D...    52  2e-05
+SEQ gi|11559982|ref|NP_071543.1| transmembrane receptor Unc5H2 [Ratt...    52  2e-05
+SEQ gi|12857776|dbj|BAB31108.1| (AK018177) putative [Mus musculus]         52  2e-05
+SEQ gi|477891|pir||B49151 fibroblast growth factor receptor 4 - Iber...    51  2e-05
+SEQ gi|7303017|gb|AAF58087.1| (AE003808) A(225) gene product [Drosop...    51  2e-05
+SEQ gi|1890772|gb|AAB49888.1| (U87811) projectin [Drosophila grimshawi]    51  2e-05
+SEQ gi|7507903|pir||T33434 hypothetical protein T17A3.1 - Caenorhabd...    51  2e-05
+SEQ gi|6003694|gb|AAF00548.1|AF188751_1 (AF188751) tyrosine kinase r...    51  2e-05
+SEQ gi|214900|gb|AAA49993.1| (M62322) fibroblast growth factor recep...    51  3e-05
+SEQ gi|423613|pir||A46052 vascular cell adhesion molecule 1, GPI-anc...    51  3e-05
+SEQ gi|6066287|gb|AAF03237.1| (AF180354) flk1 protein [Danio rerio]        51  3e-05
+SEQ gi|4506171|ref|NP_002771.1| pregnancy specific beta-1-glycoprote...    51  3e-05
+SEQ gi|11426783|ref|XP_009356.1| pregnancy specific beta-1-glycoprot...    51  3e-05
+SEQ gi|6679787|ref|NP_032036.1| fibroblast growth factor receptor 3 ...    51  3e-05
+SEQ gi|473643|gb|AAA18478.1| (L13199) telecephalin [Oryctolagus cuni...    51  3e-05
+SEQ gi|4096699|gb|AAD10365.1| (U38275) titin [Oryctolagus cuniculus]       51  3e-05
+SEQ gi|7529598|emb|CAB86654.1| (AL049553) dJ402N21.3 (novel protein ...    51  4e-05
+SEQ gi|14161267|gb|AAK54681.1|AF271232_1 (AF271232) secretory IgCEPU...    51  4e-05
+SEQ gi|10727235|gb|AAG22226.1| (AE003473) CG18242 gene product [Dros...    50  4e-05
+SEQ gi|480110|pir||S36439 fibroblast growth factor receptor 2 - Iber...    50  5e-05
+SEQ gi|14133787|gb|AAK54132.1| (AF368288) fibroblast growth factor r...    50  5e-05
+SEQ gi|111504|pir||S23969 cell-adhesion molecule short form (cell-CA...    50  5e-05
+SEQ gi|203367|gb|AAA16783.1| (M92848) cell adhesion molecule [Rattus...    50  5e-05
+SEQ gi|281026|pir||A44783 ecto-ATPase precursor - rat >gi|203990|gb|...    50  5e-05
+SEQ gi|585080|sp|P16573|ECTO_RAT ECTO-ATPASE PRECURSOR (CELL-CAM 105...    50  5e-05
+SEQ gi|2143625|pir||S68177 C-CAM2a protein isoform precursor - rat >...    50  5e-05
+SEQ gi|13929060|ref|NP_113943.1| carcinoembryonic antigen-related ce...    50  5e-05
+SEQ gi|7414628|emb|CAB86230.1| (AJ277105) carcinoembryonic antigen-r...    50  5e-05
+SEQ gi|1718189|sp|P35916|VGR3_HUMAN VASCULAR ENDOTHELIAL GROWTH FACT...    50  6e-05
+SEQ gi|388522|emb|CAA48290.1| (X68203) FTL4 [Homo sapiens]                 50  6e-05
+SEQ gi|13644083|ref|XP_003852.2| fms-related tyrosine kinase 4 [Homo...    50  6e-05
+SEQ gi|7505702|pir||T23555 hypothetical protein K10C3.3 - Caenorhabd...    50  6e-05
+SEQ gi|476729|gb|AAA49395.1| (L19869) fibroblast growth factor recep...    50  6e-05
+SEQ gi|542631|pir||S41050 fibroblast growth factor receptor-2 - east...    50  6e-05
+SEQ gi|2425192|dbj|BAA22282.1| (AB007037) FGF receptor 4b [Xenopus l...    50  6e-05
+SEQ gi|9858141|gb|AAG01013.1|AF288453_1 (AF288453) fibroblast growth...    50  6e-05
+SEQ gi|2117847|pir||I73631 brain-derived neurotrophic factor recepto...    50  6e-05
+SEQ gi|5453812|ref|NP_006171.1| neurotrophic tyrosine kinase, recept...    50  6e-05
+SEQ gi|14572521|gb|AAK00529.1| (AY017369) NEPH1 [Homo sapiens]             49  7e-05
+SEQ gi|2497569|sp|Q61851|FGR3_MOUSE FIBROBLAST GROWTH FACTOR RECEPTO...    49  8e-05
+SEQ gi|477423|pir||A48991 heparin-binding growth factor receptor - m...    49  8e-05
+SEQ gi|6465951|gb|AAF12734.1|AF125521_1 (AF125521) nephrin [Rattus n...    49  8e-05
+SEQ gi|12018318|ref|NP_072150.1| nephrin [Rattus norvegicus] >gi|652...    49  8e-05
+SEQ gi|9651182|gb|AAF91086.1|AF172255_1 (AF172255) nephrin [Rattus n...    49  8e-05
+SEQ gi|477514|pir||A49151 fibroblast growth factor receptor 1 - Iber...    49  8e-05
+SEQ gi|7498495|pir||T29583 hypothetical protein F02G3.1 - Caenorhabd...    49  9e-05
+SEQ gi|13775406|gb|AAK39221.1| (U58729) Contains similarity to Pfam ...    49  9e-05
+SEQ gi|2425188|dbj|BAA22281.1| (AB007035) FGF receptor 3 [Xenopus la...    49  9e-05
+SEQ gi|1213275|emb|CAA61930.1| (X89807) FGF receptor 4 [Xenopus laevis]    49  9e-05
+SEQ gi|2117854|pir||JC4583 fibroblast growth factor receptor 4B prec...    49  9e-05
+SEQ gi|88917|pir||B30127 transmembrane carcinoembryonic antigen 2 pr...    49  1e-04
+SEQ gi|86965|pir||JH0395 biliary glycoprotein h precursor - human >g...    49  1e-04
+SEQ gi|86966|pir||JH0396 biliary glycoprotein i precursor - human >g...    49  1e-04
+SEQ gi|3172147|gb|AAC18433.1| (AC004785) BGP_HUMAN [Homo sapiens]          49  1e-04
+SEQ gi|1363289|pir||A56795 fibroblast growth factor receptor 1 beta-...    49  1e-04
+SEQ gi|7291712|gb|AAF47134.1| (AE003462) CG3901 gene product [Drosop...    49  1e-04
+SEQ gi|6518606|dbj|BAA87917.1| (AB021967) adhesion protein RA175N [M...    49  1e-04
+SEQ gi|476554|pir||TVCHFG fibroblast growth factor receptor 1 precur...    49  1e-04
+SEQ gi|7657226|ref|NP_055148.1| immunoglobulin superfamily, member 4...    49  1e-04
+SEQ gi|7767239|gb|AAF69029.1|AF132811_1 (AF132811) nectin-like prote...    49  1e-04
+SEQ gi|7506810|pir||T16774 hypothetical protein SSSD1.1 - Caenorhabd...    49  1e-04
+SEQ gi|13652625|ref|XP_012444.2| neogenin (chicken) homolog 1 [Homo ...    49  1e-04
+SEQ gi|6048962|gb|AAF02417.1|AF102134_1 (AF102134) B lymphocyte cell...    49  2e-04
+SEQ gi|14278929|dbj|BAB59007.1| (AB046873) FGFR [Halocynthia roretzi]      49  2e-04
+SEQ gi|2213924|gb|AAB61615.1| (AF005070) neural cell adhesion molecu...    49  2e-04
+SEQ gi|10120811|pdb|1FHG|A Chain A, High Resolution Refinement Of Te...    48  2e-04
+SEQ gi|14091744|ref|NP_114451.1| huntingtin-associated protein inter...    48  2e-04
+SEQ gi|104786|pir||A35093 myosin-light-chain kinase (EC 2.7.1.117) -...    48  2e-04
+SEQ gi|211372|gb|AAA48647.1| (M88283) kinase related protein [Gallus...    48  2e-04
+SEQ gi|212238|gb|AAB53767.1| (M88284) myosin light chain kinase [Gal...    48  2e-04
+SEQ gi|901819|gb|AAA69964.1| (M14953) myosin light chain kinase [Gal...    48  2e-04
+SEQ gi|992994|emb|CAA37057.1| (X52876) myosin light chain kinase [Ga...    48  2e-04
+SEQ gi|6518539|dbj|BAA87914.1| (AB021964) adhesion protein RA175A [M...    48  2e-04
+SEQ gi|6518546|dbj|BAA87915.1| (AB021965) adhesion protein RA175B [M...    48  2e-04
+SEQ gi|6525255|dbj|BAA87916.1| (AB021966) adhesion protein RA175C [M...    48  2e-04
+SEQ gi|9719430|gb|AAF97795.1|AF277717_1 (AF277717) fibroblast growth...    48  2e-04
+SEQ gi|10835540|pdb|1FQ9|C Chain C, Crystal Structure Of A Ternary F...    48  2e-04
+SEQ gi|346984|pir||JC1450 fibroblast growth factor receptor 4 - rat ...    48  2e-04
+SEQ gi|7959255|dbj|BAA96021.1| (AB040930) KIAA1497 protein [Homo sap...    48  2e-04
+SEQ gi|10435134|dbj|BAB14500.1| (AK023273) unnamed protein product [...    48  2e-04
+SEQ gi|9055174|ref|NP_061240.1| immunosuperfamily protein Bl2 [Mus m...    48  2e-04
+SEQ gi|12851266|dbj|BAB28988.1| (AK013775) putative [Mus musculus]         48  2e-04
+SEQ gi|12851464|dbj|BAB29050.1| (AK013911) putative [Mus musculus]         48  2e-04
+SEQ gi|14328885|dbj|BAB60686.1| (AB052293) spermatogenic immunoglobu...    48  2e-04
+SEQ gi|6680337|ref|NP_032345.1| intercellular adhesion molecule 5, t...    48  2e-04
+SEQ gi|6679789|ref|NP_032037.1| fibroblast growth factor receptor 4 ...    48  2e-04
+SEQ gi|284747|pir||S18209 fibroblast growth factor receptor 4 precur...    48  2e-04
+SEQ gi|1655849|gb|AAB41402.1| (U61731) neuronal myosin light chain k...    48  2e-04
+SEQ gi|1256818|gb|AAA96526.1| (U51473) A-band associated protein [Dr...    48  2e-04
+SEQ gi|13186236|ref|NP_075594.1| fibroblast growth factor receptor 1...    48  2e-04
+SEQ gi|13186234|ref|NP_075593.1| fibroblast growth factor receptor 1...    48  2e-04
+SEQ gi|120047|sp|P16092|FGR1_MOUSE BASIC FIBROBLAST GROWTH FACTOR RE...    48  2e-04
+SEQ gi|179415|gb|AAA75007.1| (M37722) basic fibroblast growth factor...    48  2e-04
+SEQ gi|8569357|pdb|1EVT|C Chain C, Crystal Structure Of Fgf1 In Comp...    48  2e-04
+SEQ gi|632684|gb|AAB31749.1| fibroblast growth factor receptor subty...    48  2e-04
+SEQ gi|136237|sp|P15209|TRKB_MOUSE BDNF/NT-3 GROWTH FACTORS RECEPTOR...    48  2e-04
+SEQ gi|6679150|ref|NP_032771.1| neurotrophic tyrosine kinase, recept...    48  2e-04
+SEQ gi|2117855|pir||I49289 fibroblast growth factor receptor-1, long...    48  2e-04
+SEQ gi|2117858|pir||I49293 fibroblast growth factor receptor-1, shor...    48  2e-04
+SEQ gi|136238|sp|P24786|TRKC_PIG NT-3 GROWTH FACTOR RECEPTOR PRECURS...    48  3e-04
+SEQ gi|182534|gb|AAA35837.1| (M34186) fibroblast growth factor recep...    48  3e-04
+SEQ gi|182530|gb|AAA35835.1| (M34641) FGF receptor-1 precursor [Homo...    47  3e-04
+SEQ gi|1064947|pdb|1TNM|    Titin Module M5 (Connectin) (Nmr, Minimi...    47  3e-04
+SEQ gi|1943491|pdb|1NCT|    Titin Module M5, N-Terminally Extended, ...    47  3e-04
+SEQ gi|1362679|pir||B56182 fibroblast growth factor receptor 2 isofo...    47  3e-04
+SEQ gi|6912646|ref|NP_036560.1| stromal cell derived factor receptor...    47  3e-04
+SEQ gi|14250018|gb|AAH08405.1|AAH08405 (BC008405) Unknown (protein f...    47  3e-04
+SEQ gi|3451335|gb|AAC32740.1| (AC005525) F22162_1 [Homo sapiens]           47  3e-04
+SEQ gi|11346433|pir||T46926 hypothetical protein DKFZp434L0319.1 - h...    47  4e-04
+SEQ gi|232831|gb|AAB19326.1| fibroblast growth factor receptor MB3 [...    47  4e-04
+SEQ gi|232833|gb|AAB19328.1| fibroblast growth factor receptor MB1 [...    47  4e-04
+SEQ gi|6753856|ref|NP_034336.1| fibroblast growth factor receptor 1 ...    47  4e-04
+SEQ gi|7303540|gb|AAF58595.1| (AE003823) CG8964 gene product [Drosop...    47  4e-04
+SEQ gi|4503753|ref|NP_002011.1| fms-related tyrosine kinase 4; fms-r...    47  4e-04
+SEQ gi|3024078|sp|P56276|KMLS_MELGA TELOKIN >gi|443284|pdb|1TLK|  Te...    47  4e-04
+SEQ gi|6981294|ref|NP_036863.1| neural receptor protein-tyrosine kin...    47  5e-04
+SEQ gi|112462|pir||B39667 brain-derived neurotrophic factor receptor...    47  5e-04
+SEQ gi|112463|pir||C39667 brain-derived neurotrophic factor receptor...    47  5e-04
+SEQ gi|13591710|gb|AAK31325.1|AF343662_1 (AF343662) immunoglobulin s...    47  5e-04
+SEQ gi|13591714|gb|AAK31327.1|AF343664_1 (AF343664) immunoglobulin s...    47  5e-04
+SEQ gi|14550414|ref|NP_112571.1| immunoglobulin superfamily receptor...    47  5e-04
+SEQ gi|4503709|ref|NP_000132.1| fibroblast growth factor receptor 2,...    47  5e-04
+SEQ gi|13186261|ref|NP_075262.1| fibroblast growth factor receptor 2...    47  5e-04
+SEQ gi|13186251|ref|NP_056934.2| fibroblast growth factor receptor 1...    47  5e-04
+SEQ gi|5031589|ref|NP_005867.1| nuclear protein, marker for differen...    47  5e-04
+SEQ gi|6680694|ref|NP_031489.1| aortic preferentially expressed gene...    47  5e-04
+SEQ gi|6978511|ref|NP_037037.1| aortic preferentially expressed gene...    47  5e-04
+SEQ gi|309240|gb|AAA37622.1| (M33760) FGF receptor precursor [Mus mu...    47  5e-04
+SEQ gi|6434269|emb|CAB54202.2| (Z81045) contains similarity to Pfam ...    47  5e-04
+SEQ gi|6434270|emb|CAB02817.2| (Z81045) Similarity to Drosophila ama...    47  5e-04
+SEQ gi|5902140|ref|NP_008995.1| serine/threonine kinase with Dbl- an...    47  6e-04
+SEQ gi|3493133|gb|AAC33289.1| (AF083063) fibroblast growth factor re...    47  6e-04
+SEQ gi|9651180|gb|AAF91085.1| (AF172254) nephrin [Mus musculus]            47  6e-04
+SEQ gi|9651184|gb|AAF91087.1|AF172256_1 (AF172256) nephrin [Mus musc...    47  6e-04
+SEQ gi|13702673|gb|AAK38483.1|AF191090_1 (AF191090) nephrin [Mus mus...    47  6e-04
+SEQ gi|9506935|ref|NP_062332.1| nephrin 1 [Mus musculus] >gi|6090865...    46  6e-04
+SEQ gi|6678724|ref|NP_032542.1| leucine rich repeat protein 1, neuro...    46  7e-04
+SEQ gi|7299039|gb|AAF54241.1| (AE003678) CG11731 gene product [Droso...    46  7e-04
+SEQ gi|432966|emb|CAA42023.1| (X59380) fibroblast growth factor rece...    46  7e-04
+SEQ gi|7305333|ref|NP_038874.1| neurotrophic tyrosine kinase, recept...    46  7e-04
+SEQ gi|10047355|dbj|BAB13465.1| (AB046859) KIAA1639 protein [Homo sa...    46  7e-04
+SEQ gi|5031561|ref|NP_005805.1| transmembrane glycoprotein A33 precu...    46  7e-04
+SEQ gi|115762|sp|P05548|CAVT_BRALA CAVP-TARGET PROTEIN (CAVPT)             46  7e-04
+SEQ gi|13186238|ref|NP_075595.1| fibroblast growth factor receptor 1...    46  8e-04
+SEQ gi|13186241|ref|NP_075596.1| fibroblast growth factor receptor 1...    46  8e-04
+SEQ gi|6175864|gb|AAF05312.1|AF176552_1 (AF176552) fibroblast growth...    46  8e-04
+SEQ gi|13358916|dbj|BAB33071.1| (AB056413) hypothetical protein [Mac...    46  8e-04
+SEQ gi|103688|pir||A37982 calcium vector protein - common lancelet         46  8e-04
+SEQ gi|7206822|gb|AAF39981.1| (AC006695) contains similarity to Pfam...    46  9e-04
+SEQ gi|4758842|ref|NP_004551.1| receptor tyrosine kinase-like orphan...    46  0.001
+SEQ gi|9989696|gb|AAG01184.2| (AF294796) ROR2 protein [Homo sapiens]       46  0.001
+SEQ gi|11228721|gb|AAG33132.1| (AF279762) ROR2 [Homo sapiens]              46  0.001
+SEQ 
+## SEQUENCE PROFILE AND ENTROPY
+ SeqNo PDBNo   V   L   I   M   F   W   Y   G   A   P   S   T   C   H   R   K   Q   E   N   D  NOCC NDEL NINS ENTROPY RELENT WEIGHT
+    1    1     0   0   0   0   0   0   0   0   0   0   0   0   0   0  51  38  10   0   0   0     0    0    0   0.944     31  0.00
+    2    2     0   0   0   0   0   0   0  21   2   0  26  38   4   0   4   0   2   0   2   0     0    0    0   1.560     52  0.00
+    3    3     3   1   1   0  32   0  45   0   0   1   4   1   0   4   0   0   0   0   0   8     0    0    0   1.490     49  0.00
+    4    4     1   0   0   1   0   0   1  62  14  13   0   5   0   0   2   1   0   1   0   1     0    0    0   1.294     43  0.00
+    5    5     3   0   0   0   1   0   0   1   0  86   0   0   6   0   2   0   0   0   1   0     0    0    0   0.641     21  0.00
+    6    6    27   9  10   9   3   0  10   0   2   2   2   3   0   1  10   3   5   4   0   2     0    0    0   2.376     79  0.00
+    7    7     5   6  16   1  54   5   2   2   7   0   0   1   0   0   0   0   0   0   0   0     0    0    0   1.556     51  0.00
+    8    8    13   7   7   0   1   0   0   1   1   2   4  15   0   1   8  10   1  24   1   4     0    0    0   2.298     76  0.00
+    9    9     6   4   2   1   0   0   3   0   0   3   7   4   0   1   3   8  16  29   6   6     0    0    0   2.314     77  0.00
+   10   10     4   0   0   0   0   0   0   2   8   9   8   1   0   7   8  10  19  20   3   2     0    0    0   2.325     77  0.00
+   11   11     2   2   1   0   0   0   0   0   0  86   4   1   0   0   2   1   0   1   0   1     0    0    0   0.704     23  0.00
+   12   12     5   4   8   1   0   0   1   1  10  11  16   8   0   1   7   7  10   6   0   1     0    0    0   2.542     84  0.00
+   13   13     3   2   2   0   5   1   3   0   2   8  15   5   0   7   6   1   2  11  10  16     0    0    0   2.554     85  0.00
+   14   14    17   7   6   0   3   1   0   1   3   1   7  26   0   2   5   1  15   3   1   1     0    0    0   2.283     76  0.00
+   15   15    16  21  19   5   0   0   2   1   2   0   3   8   0   1   6   4   4   8   0   2     0    0    0   2.317     77  0.00
+   16   16    20   5   7   0  30   1  13   1   4   0   3   5   0   0   0   3   3   5   0   1     0    0    0   2.172     72  0.00
+   17   17     4   4   2   2   2   0   1   2  10  47   4   2   0   1   7   6   2   4   0   1     0    0    0   2.031     67  0.00
+   18   18     4   2   0   1   0   0   0   1   4   7   3   5   0   0   6  10   9  41   1   4     0    0    0   2.087     69  0.00
+   19   19     7   2   0   0   1   0   0  57   9   0   5   2   0   1   0   0   2   5   4   4     0    0    0   1.715     57  0.00
+   20   20     9   6   0   1   0   0   1   5   9   2  31  11   0   2   0   4   5   7   7   1     0    0    0   2.276     75  0.00
+   21   21    15   4   5   1   1   0   0   1  21   8  20   6   0   0   1   3   1  11   1   2     0    0    0   2.269     75  0.00
+   22   22     0   3   0   1   0   0   0  31   6   1  10   3   0   1   2   2   4  18   7  10     0    0    0   2.145     71  0.00
+   23   23     0   1   1   0   1   0   0   6   1   1   7   1   0   2   3   6  14  38   4  15     0    0    0   2.004     66  0.00
+   24   24     5   1   1   1   0   0   1   1   3  10  13  12   0   0   8  13   7   5   9  11     0    0    0   2.465     82  0.00
+   25   25    40  12  13   3   3   0   0   1  23   0   0   2   0   0   0   1   0   0   0   0     0    0    0   1.699     56  0.00
+   26   26    18   6   8   2   2   0   0   0   2   0  16  22   0   1   7   4   2   5   1   4     0    0    0   2.341     78  0.00
+   27   27     3  61  14   5  14   0   1   0   0   0   0   0   1   0   0   0   0   1   0   0     0    0    0   1.222     40  0.00
+   28   28     7   1   1   2   2   0   0   1   1   8   8  10   1   2   5   5   7  23  10   4     0    0    0   2.547     85  0.00
+   29   29     3   1   0   0   0   0   0   0   2   0   1   0  92   0   0   0   0   0   0   0     0    0    0   0.416     13  0.00
+   30   30     5   3   7   0   5   0   1   2   5   3   8   4   0   4  13   9   9  15   4   4     0    0    0   2.654     88  0.00
+   31   31    33   2   3   0   2   0   2   0  46   6   2   2   0   0   0   0   0   0   0   0     0    0    0   1.493     49  0.00
+   32   32     3   7   1   0   1   0   2   3   9   4  13  13   0   1  10   8   3  13   4   5     0    0    0   2.586     86  0.00
+   33   33     1   1   0   0   0   0   0  68  11   2  14   0   0   0   1   0   0   1   0   1     0    0    0   1.105     36  0.00
+   34   34     4   4   3   0   2   0   5   1   3   1  15  10   1   3   4   5   4   3  21   9     0    0    0   2.568     85  0.00
+   35   35     0   5   1   0   0   0   1   1   5  76   2   1   0   0   1   0   1   4   1   1     0    0    0   1.100     36  0.00
+   36   36     8   3   1   0   2   0   1   1   6  31   4  10   0   2   2   8   6  10   2   2     0    0    0   2.372     79  0.00
+   37   37     9   2   6   2   1   0   1   1  11  59   2   1   0   1   0   1   1   1   0   0     0    0    0   1.569     52  0.00
+   38   38     5   2   5   1   1   0   1   1   4   0  15  24   0   2   7   5  10  10   2   5     0    0    0   2.426     80  0.00
+   39   39    24   7  41   1   9   0  14   0   1   0   0   1   0   0   1   0   1   0   0   0     0    0    0   1.669     55  0.00
+   40   40     3   2   5   0   0   1   3   1   3   0  17  21   0   2  14  10   6   6   3   2     0    0    0   2.401     80  0.00
+   41   41     0   1   0   0   1  95   2   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.308     10  0.00
+   42   42     2  12   4   2  10   2  13   0   2   0   5  11   0   2  13  14   2   2   3   0     0    0    0   2.498     83  0.00
+   43   43     7   9   4   5   2   0   1   0   0   1   0   1   0   9  15  44   1   1   0   1     0    0    0   1.885     62  0.00
+   44   44     1   0   1   0   0   0   0   4   2   2   1   1   0   1   4   7   1   5  36  34     0    0    0   1.749     58  0.00
+   45   45     0   0   0   0   0   0   0  70   2   0   5   1   0   1   2   3   0   3   7   7     0    0    0   1.239     41  0.00
+   46   46     7   2   5   2   1   0   2   7   3   1   5  11   0   0   9  22   7   7   5   3     0    0    0   2.570     85  0.00
+   47   47     4   4   4   0   1   0   1   1   3  23   6   2   0   4   7   8   4  16   2   9     0    0    0   2.484     82  0.00
+   48   48    19  38  24   4   8   0   1   1   0   0   1   1   0   0   0   1   1   0   0   1     0    0    0   1.707     56  0.00
+   49   49     5   3   5   1   2   0   2   2   3  11   9   4   0   3   6  11   6  10   7  11     0    0    0   2.699     90  0.00
+   50   50     3  21  10   5   5   2   1   2   4   8   7   8   0   3   2   2   3   5   2   5     0    0    0   2.686     89  0.00
+   51   51     4   2   2   2   2   0   0  22   8   5  15   7   0   1   2   7   3   6   5   9     0    0    0   2.506     83  0.00
+   52   52     3   3   2   1   0   0   1   7   5  26   8   7   0   2   2  12   2   9   5   4     0    0    0   2.489     83  0.00
+   53   53     1   1   0   1   1   0   0   5   3   2  14   7   0   2   3   8   3   6  11  29     0    0    0   2.324     77  0.00
+   54   54     7   2   3   1   1   1   4   7   8   5  14   8   1   2   2   3   7   7   8   8     0    0    0   2.763     92  0.00
+   55   55     2   2   1   0   1   0   1   2   3   1   2   4   0   3  53  10   9   4   3   2     0    0    0   1.872     62  0.00
+   56   56    10   5  12   4  13   1  20   1   2   1   3   4   0  10   4   1   3   4   2   0     0    0    0   2.536     84  0.00
+   57   57     6   3   6   2   2   1   2   2   3   0  10  13   0   1  19   7  11   9   2   1     0    0    0   2.523     84  0.00
+   58   58    13  20  16   8   5   0   1   1   2   2   4   8   0   2   2   4   5   2   5   2     0    0    0   2.530     84  0.00
+   59   59    16  11   8   2   5   1   4   2   4   5   7  10   0   2   6   4   5   3   2   4     0    0    0   2.723     90  0.00
+   60   60     3   1   1   0   2   1   2  14  10   2  20   8   0   3   2   1   4   7  10   8     0    0    0   2.512     83  0.00
+   61   61     0   1   0   0   0   0   0  55   3   1   9   3   0   2   1   6   2   2  12   3     0    0    0   1.690     56  0.00
+   62   62     2   1   0   0   0   0   2   9   7   1  17  16   0   3   3   3   4   9  13   9     0    0    0   2.449     81  0.00
+   63   63     9  54   5   1   3   1   3   2   4   0   4   4   1   1   1   1   0   1   3   1     0    0    0   1.893     63  0.00
+   64   64    16  35   6   3   5   0   4   0   2   0   2   7   0   1   5   2   5   3   1   0     0    0    0   2.235     74  0.00
+   65   65     4  14  45   0   6   1   1   0   4   0   1   4   1   2   7   3   5   1   0   0     0    0    0   1.973     65  0.00
+   66   66     1  12  22   2   3   0   2   0   5   6  15  10   0   1   3   2   4   4   6   1     0    0    0   2.473     82  0.00
+   67   67     1   5   4   1   3   1   2   3   1   2   9   3   0   5  10   4   7   3  31   5     0    0    0   2.474     82  0.00
+   68   68     8   3   4   2   1   0   0   7   4  21  13   4   0   2   4   6   4   5   9   3     0    0    0   2.573     85  0.00
+   69   69    41  14  12   1   4   0   0   2   7   0   3   7   0   0   2   1   1   1   1   2     0    0    0   2.014     67  0.00
+   70   70     1   1   0   0   1   0   0   3   4   1  12  12   1   4  11  16  11  11   5   5     0    0    0   2.434     81  0.00
+   71   71     7   7   2   1   4   0   2   4  10  11   9   5   0   1   3   7   7  13   1   4     0    0    0   2.676     89  0.00
+   72   72     2   1   1   1   0   0   0   4   7   0  17   7   0   1  14   8   5  21   5   6     0    0    0   2.347     78  0.00
+   73   73     0   1   0   1   1   0   0   0   1   0   1   0   0   5   0   0   1   2   5  79     0    0    0   1.013     33  0.00
+   74   74     2   1   2   1   0   0   0   6  23   0  19   7   0   1   3   1   5  21   2   6     0    0    0   2.227     74  0.00
+   75   75     0   0   0   1   0   0   0  86   4   0   2   1   0   2   0   0   1   0   3   1     0    0    0   0.672     22  0.00
+   76   76    13   5  12   2   3   0   1   0   2   1   7  10   0   2   4   7   6  12   9   3     0    0    0   2.621     87  0.00
+   77   77     0   0   0   0   3   0  94   0   0   0   0   1   0   0   0   0   0   0   0   0     0    0    0   0.297      9  0.00
+   78   78     7   3   5   1   1   1   3   1   2   0   6  24   1   1  13   5  17  10   1   0     0    0    0   2.361     78  0.00
+   79   79     2   3   0   0   1   0   0   0   0   0   0   0  93   0   0   0   0   0   0   0     0    0    0   0.353     11  0.00
+   80   80    23   8  10   1   6   0   2   0   1   0   1  12   0   4   4   4   8  12   3   1     0    0    0   2.421     80  0.00
+   81   81    14   2   3   0   0   0   1   6  69   0   3   1   1   0   0   0   0   0   0   0     0    0    0   1.142     38  0.00
+   82   82     5   1   5   1   1   1   1   0   3   0  19  20   0   4  12   5   5  12   5   1     0    0    0   2.385     79  0.00
+   83   83     0   3   1   0   1   0   1   3   1   1   6   2   0   0   1   1   0   2  72   2     0    0    0   1.317     43  0.00
+   84   84     4   3   3   2   0   0   2   8  12  10  18   3   0   1   4   6   3  12   3   7     0    0    0   2.588     86  0.00
+   85   85    15  13   2   2   5   0   3   3  17   0   6   2   0   5  12   4   3   5   2   3     0    0    0   2.575     85  0.00
+   86   86     0   2   0   0   0   0   0  82   1   1   4   4   0   0   0   2   1   1   1   2     0    0    0   0.870     29  0.00
+   87   87     5   2   1   2   0   0   2   4   5   3  16  25   1   1   4   6   4  14   3   2     0    0    0   2.416     80  0.00
+   88   88    18   9  18   2   0   0   1   2  25   1   4   5   0   0   3   2   3   2   2   3     0    0    0   2.282     76  0.00
+   89   89    26  11   8   3   2   0   4   2   5   1   4   6   1   0   5   3   4   7   4   5     0    0    0   2.558     85  0.00
+   90   90     1   4   2   0   3   0   1   3   9   1  41   8   2   3   3   3   2   8   2   3     0    0    0   2.217     74  0.00
+   91   91     5   2   2   0   1   0   2   1   3   3   9   5   2   8  22  12   7   5   7   4     0    0    0   2.573     85  0.00
+   92   92     3   1   2   1   1   1   1   2   6   5   8  11   2   3   2   6   3  27   6  11     0    0    0   2.494     83  0.00
+   93   93    14   2  13   1   2   0   1   5  34   2   3   5   1   1   1   2   1   3   2   5     0    0    0   2.297     76  0.00
+   94   94     9   5   4   1   1   0   3   1   6   4  19  14   0   4   5   6   9   4   3   2     0    0    0   2.617     87  0.00
+   95   95    22  41   9   1   3   0   3   2   5   2   1   3   0   1   0   1   2   1   1   2     0    0    0   1.956     65  0.00
+   96   96    11   2   8   1   1   0   3   1   3   4   5  10   0   1  13   9   9   8   8   4     0    0    0   2.631     87  0.00
+   97   97    38  12   8   1  11   0   3   1   4   6   2   2   0   1   2   3   1   3   1   1     0    0    0   2.193     73  0.00
+   98   98     4   3   2   0   1   0   2  15  14   3   8   7   0   5   4  10   4   5   9   5     0    0    0   2.634     87  0.00
+   99   99    22   7  10   2  12   3   9   4   5   4   3   4   0   1   2   2   2   6   1   1     0    0    0   2.583     86  0.00
+  100  100    10  23   7   1   2   1   3   1   8  20   5   3   0   2   4   4   2   2   1   1     0    0    0   2.452     81  0.00
+  101  101     3   2   2   0   0   0   1   3   4  35   3   3   0   1   5   5  15  11   3   3     0    0    0   2.252     75  0.00
+  102  102     3   3   5   1   0   1   4   1   8  14   7   8   0   2   5  14   4  12   3   6     0    0    0   2.637     88  0.00
+  103  103     6  10  16   1  25   7   4   1   3   9   2   3   0   1   1   1   1   2   2   5     0    0    0   2.460     82  0.00
+  104  104     7   6   6   6   5   0   1   3   3  10  17  14   0   1   3   4   6   4   2   2     0    0    0   2.641     88  0.00
+  105  105    11   2   7   2   5   0   1   5  12   5  12   9   1   0   5  12   2   2   2   5     0    0    0   2.656     88  0.00
+  106  106     3   1   3   1   3   0   0   2   3   9   5   6   0   3  12  12   9  21   3   2     0    0    0   2.547     85  0.00
+  107  107     5   7   1   1   1   0   0   3   4  14   6   7   0   3   2   7   9  16   8   6     0    0    0   2.611     87  0.00
+  108  108     5   9   4   2   0   0   2   2   5  12   9   3   0   3  15   8   6   5   6   2     0    0    0   2.671     89  0.00
+  109  109     2   1   1   0   1   0   1   4   3   8  11   6   0   1   3  11   7  11  12  15     0    0    0   2.547     85  0.00
+  110  110     6   6   3   0   1   0   2   0   4  38   9   8   0   1   2   2   4   3   5   6     0    0    0   2.281     76  0.00
+  111  111    35  12  13   1   1   0   3   0   6   3   3   7   0   1   1   4   5   2   2   1     0    0    0   2.229     74  0.00
+  112  112     7   2   1   3   1   0   1   2   4   4  10  12   0   4   5  10   6  21   5   4     0    0    0   2.572     85  0.00
+  113  113    38  13  11   1   5   0   1   2  14   1   3   3   0   0   3   1   1   1   0   3     0    0    0   2.082     69  0.00
+  114  114    10   8   6   2   2   0   2   2  11   4   7  13   0   2   5   6   3   9   5   3     0    0    0   2.704     90  0.00
+  115  115     6   5   2   2   1   0   1   1   9   7   3   2   0   0   5   3   7  37   2   5     0    0    0   2.302     76  0.00
+  116  116     0   0   0   0   0   0   2  73   2   1   3   3   0   1   1   3   2   1   5   5     0    0    0   1.232     41  0.00
+  117  117     1   5   1   1   2   4   2   4   6   1   8   3   0   2   4   7  12  22   6   9     0    0    0   2.583     86  0.00
+  118  118     2   1   0   1   0   0   0  10   6  14  17  19   0   0   2   3   3   4   5  12     0    0    0   2.364     78  0.00
+  119  119    38  12   6   4   4   0   0   3  23   0   1   5   2   0   0   0   0   0   0   0     0    0    0   1.895     63  0.00
+  120  120    20   9   6   4   2   0   3   0   6   0   3  14   1   1  10   9   3   5   1   4     0    0    0   2.528     84  0.00
+  121  121     5  46   9   3  25   2   1   0   3   0   0   1   4   0   0   0   0   1   0   0     0    0    0   1.645     54  0.00
+  122  122     6   5   4   1   0   0   1   1   5   8   6  12   1   3   8   8   5  14   6   5     0    0    0   2.676     89  0.00
+  123  123     2   2   1   0   0   0   0   4   4   0   1   0  84   0   0   0   0   0   0   1     0    0    0   0.786     26  0.00
+  124  124     7   3   3   0   0   1   1   3   7   0  13   7   2   2  10   9   6  12   5   9     0    0    0   2.631     87  0.00
+  125  125    24   2   6   0   1   0   0   4  17  36   3   3   0   1   1   1   1   1   2   0     0    0    0   1.879     62  0.00
+  126  126    10   1   3   1   2   0   1   3  14  24   7   7   0   1   3   4   4   4   7   2     0    0    0   2.514     83  0.00
+  127  127     1   1   2   0   1   0   1  27   9  21  12   4   0   0   4   2   1   6   2   4     0    0    0   2.234     74  0.00
+  128  128     2   1   2   1   1   0   1  30   5   1  13   1   0   9   3   4   5   6   9   7     0    0    0   2.364     78  0.00
+  129  129     9  10   7   0   9   1  13   1   4   4   8  14   0   5   1   0   3   3   4   2     0    0    0   2.624     87  0.00
+  130  130     2   1   0   0   0   0   0   2   4  79   2   1   0   1   0   2   1   2   1   1     0    0    0   1.038     34  0.00
+  131  131     7   3   2   2   0   2   2   2   9  11   7   8   1   0   3   9   6  13   7   6     0    0    0   2.706     90  0.00
+  132  132     6  11  15   2   3   0   3   0   5  45   1   5   1   0   0   0   0   2   0   1     0    0    0   1.890     63  0.00
+  133  133     3   1   3   0   0   0   0   1   2   0  16  34   0   1   6   8   7  10   3   3     0    0    0   2.182     72  0.00
+  134  134    23   7  36   2   4   9  13   1   1   0   1   0   0   0   0   0   0   1   0   1     0    0    0   1.915     63  0.00
+  135  135     4   4   3   0   3   0   5   1   3   1  17  13   0   2  20   9   6   4   2   2     0    0    0   2.486     82  0.00
+  136  136     1   1   1   0   2  88   1   0   0   0   1   1   0   0   2   2   0   0   0   0     0    0    0   0.661     22  0.00
+  137  137     2  31   5   6  11   4   9   1   3   0   4   7   0   1   6   5   4   2   0   1     0    0    0   2.392     79  0.00
+  138  138     5  13   5   1   5   0   1   3   0   0   2   3   0   5  14  34   1   1   2   3     0    0    0   2.229     74  0.00
+  139  139     0   1   0   0   0   1   0   7   1   2   4   1   0   3   3   4   2   8  42  20     0    0    0   1.946     64  0.00
+  140  140     0   2   0   0   0   0   0  28   5   1   8   0   0   0   4  11   4  17   5  12     0    0    0   2.175     72  0.00
+  141  141     7   7   9   3  15   0   2  11   2   0   5   4   0   1   6   7   6   7   1   5     0    0    0   2.664     88  0.00
+  142  142     1   3   1   0   0   0   0  13   3  37   3   2   1   1   5   9   6  11   2   3     0    0    0   2.178     72  0.00
+  143  143     6   7   7   0   1   0   1   7   1   0   8   4   0   3   5   3   9  10  14  13     0    0    0   2.572     85  0.00
+  144  144     8  13   6   2  17   1   4   3   4   3   9   2   0   1   5   3   3   9   4   4     0    0    0   2.695     89  0.00
+  145  145     9  29  21   3   0   0   0   1   3   3   4   4   0   3   2   4   3   4   2   3     0    0    0   2.334     77  0.00
+  146  146     3   7   3   0   1   0   0   3   5  37   8   5   0   1   5   5   4   7   1   4     0    0    0   2.284     76  0.00
+  147  147    10   6   7   3   1   0   0   6  12   6   9   6   0   1   3   5   7   8   2   9     0    0    0   2.686     89  0.00
+  148  148     1   2   1   0   1   0   1   6   2   3  12   4   0   5   3   7   3   9  10  31     0    0    0   2.333     77  0.00
+  149  149     1   1   0   2   1   0   2  25   6   7   7   4   1   3   3   4   3   8  10  11     0    0    0   2.514     83  0.00
+  150  150     4   1   2   0   1   0   1  11   2   2  11   3   0   2  34   8   4   6   3   4     0    0    0   2.329     77  0.00
+  151  151     7   5   4   2   2   1   8   0   1   1   3   3   0   3  39   9   3   5   2   1     0    0    0   2.303     76  0.00
+  152  152     7   8  13   2  15   0  15   1   1   0   6   7   0   2   6   7   6   2   1   0     0    0    0   2.533     84  0.00
+  153  153    25  11  14   3   7   0   3   1   5   0   5   7   1   1   5   4   1   2   1   1     0    0    0   2.451     81  0.00
+  154  154    12   4   7   2   2   0   1   4   3   2  24   8   2   2   4   4   6   6   4   4     0    0    0   2.601     86  0.00
+  155  155     2  14   4   1   1   0   6   5   2   3   4   3   0   1   3   5  19  10   8   9     0    0    0   2.602     86  0.00
+  156  156     2   3   2   1   1   0   2   6   9   6  15  13   0   4   6   3   3   8   7   9     0    0    0   2.654     88  0.00
+  157  157     5   2   2   0   0   2   1   9   2   1  12  15   0   2   3   3   4   4  24  10     0    0    0   2.424     80  0.00
+  158  158     0   2   0   0   0   3   2  53   7   1   7   2   0   3   6   3   0   2   7   2     0    0    0   1.885     62  0.00
+  159  159     4   2   3   1   1   0   3   1   7   1  20  19   0   3   3   4   3   7  12   6     0    0    0   2.498     83  0.00
+  160  160     2  85   9   2   1   0   0   0   0   0   0   1   0   0   0   0   1   0   0   0     0    0    0   0.653     21  0.00
+  161  161     7   6  11   3   3   1  12   1   1   0   1  12   0   4  11   5  12   8   2   1     0    0    0   2.588     86  0.00
+  162  162     8  15  60   5  10   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0     0    0    0   1.259     42  0.00
+  163  163     1  10   2   0   3   0   3   1   6   6  16   8   0   4  11   7   7   7   4   4     0    0    0   2.657     88  0.00
+  164  164     0   1   0   1   1   0   1   5   2   2  15   1   0   3   7  13   6   4  27  11     0    0    0   2.257     75  0.00
+  165  165    48  10   8   1   1   0   0   0  14   1   5   8   0   1   0   0   0   1   1   0     0    0    0   1.734     57  0.00
+  166  166     6   4   1   2   1   0   0   4   1   0   9  12   0   1   8   8  15  13   5  10     0    0    0   2.516     83  0.00
+  167  167     9   8   3   1   3   0   1   1   8  17   4   4   0   1   6  14   4  12   1   3     0    0    0   2.548     85  0.00
+  168  168     0   2   0   1   0   1   3   5   6   1  31   9   0   1   4   2   3  20   7   4     0    0    0   2.240     74  0.00
+  169  169     0   1   1   0   0   0   0   0   0   0   3   0   0   5   0   0   2   1   3  82     0    0    0   0.864     28  0.00
+  170  170     5   2   3   2   1   0   1   5  18   0  16   9   0   1   5   5   5  16   1   4     0    0    0   2.475     82  0.00
+  171  171     0   0   0   1   1   0   1  82   7   0   1   2   0   0   1   1   0   1   0   1     0    0    0   0.840     28  0.00
+  172  172    10   2   6   4   1   0   3   0   4   4   6  10   0   1   4  10   4  11  14   5     0    0    0   2.657     88  0.00
+  173  173     1   2   0   0   2   0  92   0   0   0   0   1   0   0   0   0   0   0   0   0     0    0    0   0.434     14  0.00
+  174  174     9   3   8   1   1   0   1   1   1   0   9  26   1   0  10   4  13  10   0   0     0    0    0   2.306     76  0.00
+  175  175     1   0   0   0   0   0   0   0   1   0   1   0  96   0   0   0   0   0   0   0     0    0    0   0.239      7  0.00
+  176  176    25  12  14   2   5   0   3   0   1   0   5   5   0   2   5   3   5   9   4   1     0    0    0   2.444     81  0.00
+  177  177    15   1   1   1   0   0   0   2  71   1   4   2   0   0   1   0   0   0   0   0     0    0    0   1.104     36  0.00
+  178  178     4   1   2   1   0   0   1   1   6   0  14  20   0   1  13   6   4  18   4   3     0    0    0   2.322     77  0.00
+  179  179     2   2   1   0   1   0   0   4   2   1  12   2   0   1   1   0   1   1  69   1     0    0    0   1.286     42  0.00
+  180  180     2   0   2   3   0   0   1   7   7   5  12   2   0   9  10  10   4  15   6   5     0    0    0   2.610     87  0.00
+  181  181    19  11  12   3   5   0  10   1  14   1   7   2   0   7   0   1   2   1   2   2     0    0    0   2.436     81  0.00
+  182  182     0   1   0   0   0   0   0  53   2   2   2   4   0   1   1   1   4   5   6  17     0    0    0   1.660     55  0.00
+  183  183     5   5   2   1   7   0   7   7   6  10  18   6   0   2   2   3   3  10   4   1     0    0    0   2.673     89  0.00
+  184  184    21  12  21   2   1   0   1   2  12   1   4   5   2   0   2   4   5   4   1   4     0    0    0   2.388     79  0.00
+  185  185     6   7   3   0   0   0   4   4   5   1  11  20   1   1   5   2   6   7  10   6     0    0    0   2.591     86  0.00
+  186  186     1   5   6   1   1   0   2   5  16   3   7   6   3   7   7  13   6   5   5   2     0    0    0   2.694     89  0.00
+  187  187     2   1   2   0   0   0   1   5   9   2  28  14   0   2   4   5   5   4  10   6     0    0    0   2.383     79  0.00
+  188  188    28   4  11   2   1   0   3   1  21   2   3   6   3   3   2   2   2   3   3   1     0    0    0   2.382     79  0.00
+  189  189    10  12   8   1  16   1  12   9   3   2   5   1   0   5   2   3   2   3   3   2     0    0    0   2.625     87  0.00
+  190  190    15   7   6   0   1   0   2   5   8   5  20   8   0   1   4   2   3   6   5   3     0    0    0   2.566     85  0.00
+  191  191     3   3   1   0   0   0   2   4   9   5   6   8   0   2  12  21   4   5   9   5     0    0    0   2.571     85  0.00
+  192  192    23   8   5   1   8   1   7   4   4   4   5   9   1   3   1   3   1   5   3   1     0    0    0   2.647     88  0.00
+  193  193     9   4   3   1   1   0   0   7  15   3  20  10   1   1   4   5   4   6   3   2     0    0    0   2.550     85  0.00
+  194  194     6   4   2   1   1   0   1   3   6   8   8   7   0   3   8  11  13  14   3   3     0    0    0   2.636     87  0.00
+  195  195    15  38   7   2   2   0   4   2   4   5   3   4   1   1   3   4   2   2   2   3     0    0    0   2.270     75  0.00
+  196  196     6   3   4   0   0   0   2   3   9   4  16  10   0   3   5   7   5   8  11   3     0    0    0   2.645     88  0.00
+  197  197    26  30  13   2   2   0   1   1   4   3   2   3   1   0   1   2   3   1   4   1     0    0    0   2.158     72  0.00
+  198  198     6  12   5   1   3   0   2   4  15   6   8   7   0   1   4   6   5   7   1   7     0    0    0   2.675     89  0.00
+  199  199    23   6   4   1   1   0   4   8  20   5   5   5   0   0   3   4   2   5   3   1     0    0    0   2.456     81  0.00
+  200  200     9   6   2   1   0   0   1   2   4   5   6   5   0   2   8  12   5  21   3   8     0    0    0   2.550     85  0.00
+  201  201     6   7   4   1   1   0   0   6   5  12   6   4   0   2   5   3   3  15   3  17     0    0    0   2.582     86  0.00
+  202  202    14   4   3   1   3   0   1   5  11   9   8  10   0   0   8   5   4   6   3   5     0    0    0   2.665     88  0.00
+  203  203    11   4   7   2   2   0   1   3   2   9   9   5   0   1  22   9   6   4   2   2     0    0    0   2.570     85  0.00
+  204  204     6   5   4   2   3   1   1   2   2   9   5   8   0   2  12   8  16   9   4   2     0    0    0   2.674     89  0.00
+  205  205    13   6   6   1   8   1  20   2   3   3   5   3   0   9   5   3   2   6   3   0     0    0    0   2.615     87  0.00
+  206  206     5   5   2   2   1   0   0   6  23  18   8   7   0   1   7   4   4   4   1   1     0    0    0   2.431     81  0.00
+  207  207     2   1   1   1   1   0   0   0   4  75   1   1   0   0   3   2   2   4   2   1     0    0    0   1.208     40  0.00
+  208  208     5   2   8   1   1   0   2   3   4  16  13  10   0   2   7   8   6   4   4   5     0    0    0   2.656     88  0.00
+  209  209    17  10  32   3  16   2   0   0   2   2   1   5   0   1   4   2   1   1   1   1     0    0    0   2.176     72  0.00
+  210  210     7   6  10   1   7   1   0   0   3   9   7   5   0   2   8   9  11   6   4   3     0    0    0   2.687     89  0.00
+  211  211    16   9   9   3   1   0   2   1  13   5   8   9   0   2   3   4   5   6   1   3     0    0    0   2.638     88  0.00
+  212  212     4   4   5   2   0   1   1   8   2   6   5   4   0   1  11  22   8   8   4   3     0    0    0   2.576     85  0.00
+  213  213     6  18   9   4  13   0   5   5   2   6   6   5   1   2   5   3   4   4   2   1     0    0    0   2.712     90  0.00
+  214  214     1   4   2   0   1   0   0   1   2  62   7   4   0   1   2   2   3   4   2   1     0    0    0   1.627     54  0.00
+  215  215     4   3   2   2   1   0   1   4  13   4  22   7   0   2   7   9   7   8   3   1     0    0    0   2.557     85  0.00
+  216  216     2   2   1   1   1   0   1   0   2   4  12   6   0   2   2   4   6   7  19  29     0    0    0   2.276     75  0.00
+  217  217    13   9   9   4   1   1   1   1   5   2   7  18   0   3   3   8  12   1   1   1     0    0    0   2.527     84  0.00
+  218  218    13   7   7   2   3   1  10   1   3   2   6  19   0   2   3   4   4   9   3   2     0    0    0   2.630     87  0.00
+  219  219    30   4   7   2   1   0   3   5  27   1   3   6   0   0   1   2   1   3   2   0     0    0    0   2.149     71  0.00
+  220  220    14  17   8   5   1   0   1   1  11   3   3   6   0   2   7   5   2   6   6   2     0    0    0   2.616     87  0.00
+  221  221    12   9   3   2   1   0   1   2   7   8   6   5   0   0   5   7   6  21   1   3     0    0    0   2.527     84  0.00
+  222  222     0   0   0   0   0   0   1  82   1   0   1   1   0   1   0   1   0   3   3   4     0    0    0   0.885     29  0.00
+  223  223     1   1   0   1   0   0   0  10   5   0  16   3   0   1   5   7  14  17   6  11     0    0    0   2.388     79  0.00
+  224  224     6   3   1   2   1   0   0   1   5   9  15  18   0   1   5   2   4   5  14   8     0    0    0   2.504     83  0.00
+  225  225    41  13   9   1   4   0   0   1  25   0   1   4   1   0   0   1   0   0   0   0     0    0    0   1.709     57  0.00
+  226  226    11   5   5   1   2   0   3   0   2   0  10  26   0   1   6   7   3  10   4   3     0    0    0   2.448     81  0.00
+  227  227     2  51  13   8  24   1   0   0   1   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.353     45  0.00
+  228  228     6   6   1   3   1   0   2   1   2   5  10  15   0   4   7   4   5  20   4   6     0    0    0   2.574     85  0.00
+  229  229     2   0   0   0   0   0   0   0   3   0   0   0  94   0   0   0   0   0   0   0     0    0    0   0.308     10  0.00
+  230  230     8   3   6   2   4   0   2   2   7   5   4   6   0   4   7  12   8  11   3   4     0    0    0   2.793     93  0.00
+  231  231    27   1   5   0   3   0   2   2  47   4   4   4   0   0   0   0   0   1   0   0     0    0    0   1.631     54  0.00
+  232  232     6   4   4   2   5   0   5   4   6   4  16  12   0   1   4   6   4   9   4   5     0    0    0   2.744     91  0.00
+  233  233     0   0   0   0   1   0   0  76   6   0  12   0   0   1   1   0   0   1   1   1     0    0    0   0.960     32  0.00
+  234  234     4   5   3   0   5   0   4   2   4   0  14   7   0   3   5   5   2   3  20  14     0    0    0   2.545     84  0.00
+  235  235     0   1   0   0   0   0   0   0   3  87   2   1   0   0   1   1   1   1   0   1     0    0    0   0.710     23  0.00
+  236  236    11   7   3   4   1   0   2   1   6  13   3  10   0   2   4  10   9   8   2   4     0    0    0   2.658     88  0.00
+  237  237     2   2   5   0   1   0   0   1   6  76   2   2   0   0   0   0   0   1   0   0     0    0    0   1.091     36  0.00
+  238  238     3   2   2   1   1   0   3   0   3   1  11  20   0   4   7   7  13  13   3   6     0    0    0   2.509     83  0.00
+  239  239    32   8  45   2   3   0   6   0   1   1   0   2   0   0   1   0   0   0   0   0     0    0    0   1.503     50  0.00
+  240  240     3   3   2   0   4   1   4   0   2   0  15  26   0   1  11  10   8   4   2   3     0    0    0   2.374     79  0.00
+  241  241     0   0   0   0   2  96   1   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.202      6  0.00
+  242  242     3  16   3   3   9   0   5   0   3   0   7   8   0   2  19   8   7   3   3   1     0    0    0   2.512     83  0.00
+  243  243     1   2   1   0   1   0   1   2   1   2   2   3   0   4  17  53   3   3   2   2     0    0    0   1.798     60  0.00
+  244  244    15  22  13   3   2   0   0   4   2   3   3   2   0   1   3   7   2   7   4   7     0    0    0   2.490     83  0.00
+  245  245     1   3   1   0   1   0   0  11   1   6   5   2   0   1   3   2   2   9  14  39     0    0    0   2.078     69  0.00
+  246  246     2   3   2   1   1   0   1  50   3   5   6   4   0   0   3   4   1   4   5   5     0    0    0   2.029     67  0.00
+  247  247     5   2   1   1   0   0   1   4   9   5  21   9   0   4   3   8   4   8   9   5     0    0    0   2.590     86  0.00
+  248  248     4   8   5   4   1   0   1   3   4   7   6   2   0   4   7  12  14  11   3   6     0    0    0   2.714     90  0.00
+  249  249     7   5   8   2   1   0   2   6   3   8  11  16   0   1   6   6   1   2   7   8     0    0    0   2.671     89  0.00
+  250  250     7   6   4   1   1   0   3   4   7   5  18   4   0   4   8   3   4   8   6   6     0    0    0   2.735     91  0.00
+  251  251     3   2   4   0   1   0   2   6   2   1   7   4   0   6  15  21   8   6   6   5     0    0    0   2.564     85  0.00
+  252  252     4   8   9   1  14   8  11   3   4   3   4   5   0   3  10   1   4   4   2   2     0    0    0   2.747     91  0.00
+  253  253    13  18  10   4   7   0   1   2   3   2   7   6   0   3   5   3   5   6   2   2     0    0    0   2.654     88  0.00
+  254  254     5   5   4   1   2   1   1   6   5   3  15  10   0   3   6   5   5   8   9   6     0    0    0   2.751     91  0.00
+  255  255     4   2   1   0   3   0   2  12   7   2  20   4   0   4   5   3   4  11   8   8     0    0    0   2.592     86  0.00
+  256  256     4   1   3   2   0   0   0  18   1   2   6   7   0   3   3   2   6  15  13  14     0    0    0   2.451     81  0.00
+  257  257     1   2   0   0   1   1   3  21  15  11  13   4   1   2   4   6   4   4   5   3     0    0    0   2.499     83  0.00
+  258  258    16  13   8   1   2   0   5   3   2   0  15  15   1   2   4   3   2   3   3   1     0    0    0   2.513     83  0.00
+  259  259     2  83   4   2   1   0   1   2   0   0   1   1   0   0   1   0   0   0   0   0     0    0    0   0.830     27  0.00
+  260  260     5   3   6   1   4   0   3   1   1   1   3  15   0  12  15   6  11  10   2   1     0    0    0   2.555     85  0.00
+  261  261     6  20  64   3   4   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0     0    0    0   1.173     39  0.00
+  262  262     2   7   3   1   2   0   2   1   3   8  13   8   0   3  10   9   9  10   5   3     0    0    0   2.676     89  0.00
+  263  263     1   2   1   1   0   0   1   5   3   4  13   2   0   2   6   8   4   5  33   9     0    0    0   2.286     76  0.00
+  264  264    45  12  15   1   2   0   0   1  12   1   4   6   0   0   0   0   0   0   0   0     0    0    0   1.705     56  0.00
+  265  265     4   1   1   0   1   0   0   3   2   0  14  21   0   1  10   7  12   9   4   9     0    0    0   2.390     79  0.00
+  266  266     8   9   3   3   6   0   3   1   6  12   5   5   0   1   8  12   4  11   1   3     0    0    0   2.712     90  0.00
+  267  267     0   1   0   1   0   0   2   4   7   1  18   9   0   1   6   4   3  29   7   8     0    0    0   2.249     75  0.00
+  268  268     0   1   0   0   0   0   0   0   0   0   2   0   0   5   0   0   3   2   4  82     0    0    0   0.850     28  0.00
+  269  269     2   0   1   1   0   0   1   4  20   0  24   6   0   1   4   1   7  17   4   5     0    0    0   2.264     75  0.00
+  270  270     0   0   0   1   0   0   0  87   7   0   1   0   0   0   0   0   0   0   1   1     0    0    0   0.591     19  0.00
+  271  271    10   4   8   2   2   1   2   0   2   2   4  17   0   1   5   8   5  15   9   4     0    0    0   2.572     85  0.00
+  272  272     1   2   2   0   3   0  91   0   0   0   1   1   0   0   0   0   0   0   0   0     0    0    0   0.472     15  0.00
+  273  273    10   2   5   1   2   0   1   0   3   1   8  35   1   1   7   3   8  12   1   0     0    0    0   2.228     74  0.00
+  274  274     1   1   1   0   0   0   0   0   0   0   0   0  96   0   0   0   0   0   0   0     0    0    0   0.206      6  0.00
+  275  275    21   9  14   2   3   0   2   0   1   0   6  10   0   2   5   5   6  13   2   1     0    0    0   2.427     81  0.00
+  276  276    15   1   1   1   0   0   0   4  75   1   0   1   0   0   0   0   0   0   0   0     0    0    0   0.899     30  0.00
+  277  277     3   2   2   2   0   1   1   3   4   0  14  14   0   2  10   5   8  20   5   4     0    0    0   2.491     83  0.00
+  278  278     1   0   1   0   1   0   0   2   0   0   4   3   0   0   0   1   0   0  84   2     0    0    0   0.794     26  0.00
+  279  279     9   6   6   2   0   0   1   4   8   5  18   4   0   1   6   9   4   8   2   6     0    0    0   2.638     88  0.00
+  280  280    17  11   7   1   4   0   3   3  21   1   5   2   0   5   6   4   4   2   3   0     0    0    0   2.511     83  0.00
+  281  281     1   0   0   0   0   0   0  80   2   1   4   2   0   2   1   0   0   1   2   2     0    0    0   0.980     32  0.00
+  282  282     4   3   2   3   1   0   0   2   6   3  16   8   0   1  12  12   7  16   5   1     0    0    0   2.501     83  0.00
+  283  283    10   3  11   1   0   0   2   1  17   2   6   6   0   2   2   4   4   4   4  22     0    0    0   2.466     82  0.00
+  284  284     5   3   2   1   1   0   1   1   5   2  18  17   0   3   7   6   6  10   7   3     0    0    0   2.556     85  0.00
+  285  285     6   5   3   1   5   1   6   2  18   0  13   7   7   8   4   5   4   1   3   2     0    0    0   2.684     89  0.00
+  286  286     4   3   2   1   1   0   1   1   4   3  21  13   1   4   5   8  13   8   5   3     0    0    0   2.553     85  0.00
+  287  287    16   4   7   2   3   0   4  14  30   1   4   5   1   1   1   1   0   1   2   2     0    0    0   2.300     76  0.00
+  288  288     5   5   3   1   2   1   6   0   4   0   9   9   0   6  11  10   9   8   9   2     0    0    0   2.694     89  0.00
+  289  289    21  57  12   1   1   0   0   0   2   1   0   2   0   1   1   1   0   1   0   0     0    0    0   1.388     46  0.00
+  290  290    12   8  12   1   1   0   5   0   2   0   6  22   0   1   3   5   4   7   4   5     0    0    0   2.502     83  0.00
+  291  291    67   6  12   1   2   0   0   0   2   1   1   3   0   0   1   0   1   1   0   0     0    0    0   1.355     45  0.00
+  292  292     6  11   2   1   3   0   4   1   2   0   4   5   0   9   8  13  14   8   6   2     0    0    0   2.623     87  0.00
+  293  293    18   3   2   1   2   0   6   3  21   2   8   4   0   0   3   3   3  15   2   4     0    0    0   2.444     81  0.00
+  294  294     3   5   1   0   1   0   2   1  17  24   4   3   0   1  11  10   8   6   1   1     0    0    0   2.371     79  0.00
+  295  295     1   3   2   0   0   0   0   1   2  80   3   5   0   0   0   0   0   2   0   1     0    0    0   0.926     30  0.00
+  296  296     5   2   2   1   1   1   6   2   4   8  10   7   0   3  11  14   7   7   2   8     0    0    0   2.693     89  0.00
+  297  297     5   6  21   1  32  10   4   2   4   2   1   3   0   2   2   2   2   1   0   1     0    0    0   2.224     74  0.00
+  298  298    13  16  17   2   3   0   1   0   4   4   7  16   0   1   5   3   3   3   0   0     0    0    0   2.422     80  0.00
+  299  299     6   4   4   1   0   0   3   4   3   8   7   5   0   1   8  10  11  10   5   9     0    0    0   2.689     89  0.00
+  300  300    16   7  11   3   1   0   1   5   6   9   5   5   0   2   5  10   4   6   3   1     0    0    0   2.654     88  0.00
+  301  301     7  18  13   1   4   0   2   1   3  30   5   4   0   0   1   3   1   4   1   1     0    0    0   2.274     75  0.00
+  302  302     4   2   2   4   0   0   0   4   8   8  16   9   0   1   6   8   8  11   6   1     0    0    0   2.609     87  0.00
+  303  303     4   3   2   0   2   0   0   4   3   6  13   4   0   1   2   4   2   5  20  23     0    0    0   2.394     79  0.00
+  304  304    11   8   7   4   0   0   5   1   6   5   6  20   1   4   3   4  10   3   2   0     0    0    0   2.631     87  0.00
+  305  305     7   2   3   1   1   1   3   3   4   3   8  21   0   2   4   4   8  18   2   5     0    0    0   2.530     84  0.00
+  306  306    30   7   7   2   2   2   3   4  22   3   5   5   1   0   2   2   2   2   0   0     0    0    0   2.312     77  0.00
+  307  307     9   4   4   4   0   0   2   2  10   5   7  10   0   1   5   6   5  11   8   6     0    0    0   2.736     91  0.00
+  308  308    22  13  10   3   2   0   1   1   6   7   2   4   0   0   3   4   4  15   1   1     0    0    0   2.445     81  0.00
+  309  309     1   0   1   0   1   0   0  76   1   1   4   1   0   0   2   1   1   4   3   3     0    0    0   1.126     37  0.00
+  310  310     1   3   1   2   0   0   1   8   3   2  19   4   0   2   3   4  12  18   5  11     0    0    0   2.451     81  0.00
+  311  311     2   2   1   1   1   0   0   1   4   8  15  19   0   0   6   5   7   8   8  13     0    0    0   2.450     81  0.00
+  312  312    39  14  11   0   3   0   1   4  20   0   1   3   1   2   0   1   0   1   0   0     0    0    0   1.846     61  0.00
+  313  313     9   4   6   1   2   0   3   0   2   0   8  21   2   2  13   5   5  11   6   2     0    0    0   2.537     84  0.00
+  314  314     3  48  13   6  22   5   1   0   0   0   0   1   0   0   0   0   0   0   0   0     0    0    0   1.529     51  0.00
+  315  315     4   5   1   0   0   0   1   1   3   8  11  16   0   4   5   7   9  15   3   7     0    0    0   2.552     85  0.00
+  316  316     2   0   1   0   1   0   0   0   3   0   0   1  90   0   0   0   0   0   0   0     0    0    0   0.527     17  0.00
+  317  317    10   4   5   1   1   0   0   1   6   5   5   6   0   3   9  14   8  14   2   4     0    0    0   2.650     88  0.00
+  318  318    33   2   5   0   1   0   1   1  46   2   3   3   1   0   0   0   0   1   0   0     0    0    0   1.522     50  0.00
+  319  319     4   2   4   2   4   0   3   3   7   3  21  13   0   1   5   7   4   7   3   5     0    0    0   2.636     87  0.00
+  320  320     0   0   0   0   2   0   0  76  10   0   5   0   0   4   0   1   0   1   1   0     0    0    0   0.993     33  0.00
+  321  321     6   3   4   0   3   0   6   0   4   0   8   7   1   2   6   7   3   5  15  19     0    0    0   2.592     86  0.00
+  322  322     0   1   0   0   0   0   0   0   5  84   1   1   0   2   0   1   1   2   1   1     0    0    0   0.792     26  0.00
+  323  323     7   3   4   3   1   0   1   1   6  11   8  10   0   2   6  10   8  10   4   6     0    0    0   2.693     89  0.00
+  324  324     2   4   5   1   1   0   0   0  11  71   1   1   0   0   0   0   1   0   0   0     0    0    0   1.174     39  0.00
+  325  325     6   2   2   0   0   0   3   0   6   0  16  24   0   4   5   3   8  12   2   6     0    0    0   2.424     80  0.00
+  326  326    34  10  42   2   5   0   3   0   1   0   1   0   0   0   1   0   0   0   0   0     0    0    0   1.494     49  0.00
+  327  327     4   4   3   2   3   1   2   1   1   0  16  25   0   3  12  10   9   5   1   1     0    0    0   2.367     79  0.00
+  328  328     1   0   1   0   2  96   1   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.251      8  0.00
+  329  329     3  26   4   6  14   1  10   0   1   0   6   8   0   2   7   6   4   2   1   1     0    0    0   2.398     80  0.00
+  330  330     1   4   3   1   4   1   2   2   0   1   0   3   0   5  20  49   3   2   0   0     0    0    0   1.822     60  0.00
+  331  331     1   1   0   0   0   0   0   8   1   1   2   1   0   2   2   3   1   9  30  37     0    0    0   1.835     61  0.00
+  332  332     0   1   1   0   3   0   0  58   5   1   3   3   0   1   1   2   1   3   6  10     0    0    0   1.697     56  0.00
+  333  333     7   5   3   2   3   0   2   5   3   1   5   6   0   2   9  12  16  14   4   3     0    0    0   2.638     88  0.00
+  334  334     4   6   4   1   0   0   0   1   5  38   6   3   0   1   4   4   3  11   3   5     0    0    0   2.245     74  0.00
+  335  335    15  44  24   1   5   0   3   1   1   1   1   1   0   0   0   1   1   1   1   0     0    0    0   1.710     57  0.00
+  336  336     4   4   3   0   1   0   2   4  12  13  12   7   0   1   8   6   7   6   4   4     0    0    0   2.675     89  0.00
+  337  337     1   4   2   1   2   0   0   7   5  14  21   6   0   1   3   5   6  13   4   6     0    0    0   2.496     83  0.00
+  338  338     3   1   1   0   1   0   1  10   2   2  19   4   0   2   6   3   6  14   8  16     0    0    0   2.435     81  0.00
+  339  339     2   1   1   1   1   0   2   8   3   6  11   5   0   4   5   6   3  12  16  14     0    0    0   2.572     85  0.00
+  340  340     2   1   3   0   2   0   5   5   1   1   4   4   0   3  42  11   2   4   6   4     0    0    0   2.175     72  0.00
+  341  341    13   9  24   6  12   0   8   2   3   0   5   4   1   3   3   0   2   1   0   2     0    0    0   2.447     81  0.00
+  342  342     3   6   2   1   2   1   2   2   1   5   8   7   0   3   4  10  15  20   3   3     0    0    0   2.583     86  0.00
+  343  343    24  12  25   4   3   0   2   1   4   0   4   4   0   1   1   3   2   3   3   2     0    0    0   2.331     77  0.00
+  344  344     5   2   1   1   1   0   1   8   6   1  24   9   0   3   5   4   3  11   4   9     0    0    0   2.513     83  0.00
+  345  345     5   1   1   1   2   0   2  24   4   2   9   5   0   1   6   4   4   5  13  11     0    0    0   2.482     82  0.00
+  346  346     1   3   1   0   1   0   2  37   6   1  16   4   0   2   3   2   3   4   7   8     0    0    0   2.196     73  0.00
+  347  347     8   2   1   1   2   0   3   4   5   1  12  14   2   5   4   6   4  14   7   5     0    0    0   2.663     88  0.00
+  348  348     4  78   6   2   1   0   2   0   2   0   0   1   0   0   0   0   0   0   1   2     0    0    0   1.033     34  0.00
+  349  349     8   7   7   2   2   0   2   2   1   0   4  13   0   5  21   6   9   8   1   1     0    0    0   2.510     83  0.00
+  350  350    10  17  51   1  11   0   4   0   0   0   1   1   0   2   0   0   0   0   0   1     0    0    0   1.553     51  0.00
+  351  351     1   5   2   1   2   0   3   1   7   4  19  11   0   5  11   6   5   6   5   4     0    0    0   2.656     88  0.00
+  352  352     0   2   1   0   0   0   0   6   4   6  13   2   1   3   8  10   4   3  26  12     0    0    0   2.382     79  0.00
+  353  353    41  22  10   1   1   0   0   0  10   3   3   5   0   0   0   0   0   1   0   1     0    0    0   1.789     59  0.00
+  354  354    11   3   3   1   1   0   0   3   3   0  11  21   1   1   7   6  14   7   3   4     0    0    0   2.474     82  0.00
+  355  355     5  16   6   3   3   0   2   1   6  12   2   2   0   3   9  10   2  13   1   1     0    0    0   2.622     87  0.00
+  356  356     0   1   0   2   0   0   1   5   5   1  19   5   0   1   4   9   4  31   6   6     0    0    0   2.238     74  0.00
+  357  357     0   0   0   0   0   0   1   0   0   0   2   0   0   7   1   1   3   1   6  78     0    0    0   0.945     31  0.00
+  358  358     1   0   1   1   3   0   4   4  27   1  23   6   0   1   2   3   6  11   3   4     0    0    0   2.290     76  0.00
+  359  359     0   0   0   1   0   0   0  88   8   0   1   0   0   1   0   0   0   0   0   0     0    0    0   0.528     17  0.00
+  360  360    10   5   6   4   3   1   4   0   3   0   4   9   0   0   6   9   5  15  14   4     0    0    0   2.625     87  0.00
+  361  361     0   0   0   0   3   0  94   0   0   0   0   1   0   0   0   0   0   0   0   0     0    0    0   0.300     10  0.00
+  362  362     7   4   5   1   2   1   0   2   1   0   6  36   0   1   5   3  14   9   3   0     0    0    0   2.230     74  0.00
+  363  363     4   2   1   0   0   0   0   0   0   0   0   0  92   0   0   0   0   0   0   0     0    0    0   0.372     12  0.00
+  364  364    24   7  16   3   1   0   1   1   1   0   4  11   0   2   5   5   6   9   3   0     0    0    0   2.352     78  0.00
+  365  365    14   2   3   1   0   0   0   2  77   0   1   1   0   0   0   0   0   0   0   0     0    0    0   0.880     29  0.00
+  366  366     5   1   2   2   1   0   0   3   5   0  18  18   1   1   7   8   6  15   2   2     0    0    0   2.458     82  0.00
+  367  367     0   0   0   0   0   0   0   1   0   0   7   7   0   0   0   0   0   1  82   0     0    0    0   0.707     23  0.00
+  368  368     4   2   3   1   0   0   0   4   7   6  19   7   0   0   7  11   5  16   1   7     0    0    0   2.470     82  0.00
+  369  369    13  18  10   2   2   0   8   2  23   0   3   0   0  11   1   2   2   1   1   1     0    0    0   2.323     77  0.00
+  370  370     0   0   0   0   0   0   0  85   2   0   0   1   0   0   0   1   1   1   2   6     0    0    0   0.664     22  0.00
+  371  371     6   4   3   2   1   0   3   1   4   2  19  17   1   1   2   6   8  14   6   2     0    0    0   2.504     83  0.00
+  372  372    15   7  15   1   0   0   0   1  21   0   7   8   1   1   5   3   3   2   1   8     0    0    0   2.376     79  0.00
+  373  373     1   7   2   1   2   0  11   0   2   0  18   9   0   4   7   2   8  15   9   2     0    0    0   2.498     83  0.00
+  374  374     2   2   2   0   1   2   0   2  35   0  17   7   8   6   3   4   7   1   1   1     0    0    0   2.219     74  0.00
+  375  375     5   1   2   1   1   0   1   1   6   0  34  18   0   2   4   4   4   5   8   3     0    0    0   2.235     74  0.00
+  376  376    10   4   5   5   3   0   4   6  52   0   2   6   1   0   0   1   0   0   0   0     0    0    0   1.786     59  0.00
+  377  377     5   5   1   1   4   4   9   0   1   1   6  10   0   4   6   6  14  12   7   5     0    0    0   2.678     89  0.00
+  378  378    16  72   9   0   2   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.891     29  0.00
+  379  379     7   5   8   2   1   0   4   0   2   0   8  28   0   1   4   7   3   7   6   7     0    0    0   2.430     81  0.00
+  380  380    83   3  13   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.548     18  0.00
+  381  381     3   7   1   0   2   0   1   0   1   0   1   1   0   1  13  21  29  20   0   0     0    0    0   1.933     64  0.00
+  382  382     0   0   0   0   0   0   0   0  85   0  15   0   0   0   0   0   0   0   0   0     0    0    0   0.427     14  0.00
+//

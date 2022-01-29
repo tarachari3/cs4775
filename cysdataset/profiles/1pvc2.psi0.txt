@@ -1,0 +1,799 @@
+ID Pseudo hssp file.
+SEQ 
+SEQ gi|61140|emb|CAA25247.1| (X00596) PV3 polyprotein [Human poliovi...   545  e-154
+SEQ gi|61155|emb|CAA25444.1| (X00925) polyprotein precursor [Human p...   545  e-154
+SEQ gi|9627044|ref|NP_056792.1| viral protein precursor [Human polio...   545  e-154
+SEQ gi|77341|pir||S03822 genome polyprotein - human poliovirus 3 (st...   545  e-154
+SEQ gi|1127071|pdb|1PVC|2 Chain 2, Mol_id: 1; Molecule: Poliovirus T...   545  e-154
+SEQ gi|13751766|gb|AAK38581.1| (AF334949) polyprotein [Human poliovi...   545  e-154
+SEQ gi|13751768|gb|AAK38582.1| (AF334950) polyprotein [Human poliovi...   545  e-154
+SEQ gi|13751771|gb|AAK38583.1| (AF334951) polyprotein [Human poliovi...   545  e-154
+SEQ gi|13751773|gb|AAK38584.1| (AF334952) polyprotein [Human poliovi...   545  e-154
+SEQ gi|13751775|gb|AAK38585.1| (AF334953) polyprotein [Human poliovi...   545  e-154
+SEQ gi|388329|gb|AAA19632.1| (L23844) capsid proteins [Human poliovi...   544  e-154
+SEQ gi|1335447|emb|CAA25543.1| (X01076) VP2 [Human poliovirus 3]          543  e-153
+SEQ gi|388331|gb|AAA19633.1| (L23845) capsid proteins [Human poliovi...   542  e-153
+SEQ gi|388335|gb|AAA19635.1| (L23847) capsid proteins [Human poliovi...   540  e-153
+SEQ gi|388333|gb|AAA19634.1| (L23846) capsid proteins [Human poliovi...   538  e-152
+SEQ gi|9998765|emb|CAC07403.1| (AJ293918) polyprotein precursor [Hum...   531  e-150
+SEQ gi|130502|sp|P06209|POLG_POL32 GENOME POLYPROTEIN [CONTAINS: COA...   525  e-148
+SEQ gi|2781168|pdb|1AR7|2 Chain 2, P1MAHONEY POLIOVIRUS, DOUBLE MUTA...   461  e-129
+SEQ gi|9627037|ref|NP_041277.1| polyprotein [Human poliovirus 1] >gi...   459  e-128
+SEQ gi|230672|pdb|2PLV|2 Chain 2, Poliovirus (Type 1, Mahoney Strain...   459  e-128
+SEQ gi|1310975|pdb|1POV|0 Chain 0, Mol_id: 1; Molecule: Poliovirus N...   459  e-128
+SEQ gi|6980442|pdb|1DGI|2 Chain 2, Cryo-Em Structure Of Human Poliov...   459  e-128
+SEQ gi|7230614|gb|AAF43033.1| (AF236796) polyprotein [human poliovir...   459  e-128
+SEQ gi|11558200|emb|CAC17719.1| (AJ288062) capsid protein, P1 precur...   459  e-128
+SEQ gi|7230616|gb|AAF43034.1| (AF236797) polyprotein [human poliovir...   458  e-128
+SEQ gi|3511177|gb|AAC33744.1| (AF065158) polyprotein [Human poliovir...   458  e-128
+SEQ gi|130499|sp|P03301|POLG_POL1S GENOME POLYPROTEIN [CONTAINS: COA...   456  e-127
+SEQ gi|6682299|emb|CAB64659.1| (AJ132961) enterovirus precursor poly...   456  e-127
+SEQ gi|6682297|emb|CAB64658.1| (AJ132960) enterovirus precursor prot...   456  e-127
+SEQ gi|130500|sp|P06210|POLG_POL2L GENOME POLYPROTEIN [CONTAINS: COA...   455  e-127
+SEQ gi|9627042|ref|NP_056745.1| PV2 polyprotein [Human poliovirus 2]...   453  e-126
+SEQ gi|3660191|pdb|1EAH|2 Chain 2, Pv2l Complexed With Antiviral Age...   452  e-126
+SEQ gi|130501|sp|P23069|POLG_POL2W GENOME POLYPROTEIN [CONTAINS: COA...   451  e-126
+SEQ gi|222349|dbj|BAA00516.1| (D00625) polyprotein precursor [Human ...   448  e-125
+SEQ gi|13659240|ref|NP_112512.1| polyprotein [Human coxsackievirus A...   405  e-112
+SEQ gi|130498|sp|P03299|POLG_POL1M GENOME POLYPROTEIN [CONTAINS: COA...   404  e-112
+SEQ gi|1335512|emb|CAA24445.1| (V01148) open reading frame [Human po...   404  e-112
+SEQ gi|1335513|emb|CAA24447.1| (V01148) reading frame P1-1a [Human p...   404  e-112
+SEQ gi|1335514|emb|CAA24448.1| (V01148) reading frame P1-VPO [Human ...   404  e-112
+SEQ gi|1335516|emb|CAA24450.1| (V01148) reading frame P1-VP2 [Human ...   404  e-112
+SEQ gi|9626434|ref|NP_040759.1| polyprotein precursor [Human coxsack...   404  e-112
+SEQ gi|6174920|sp|P29813|POLG_EC11G GENOME POLYPROTEIN [CONTAINS: CO...   304  9e-82
+SEQ gi|74439|pir||GNNYA9 genome polyprotein - coxsackievirus A9 (str...   302  2e-81
+SEQ gi|6730244|pdb|1D4M|2 Chain 2, The Crystal Structure Of Coxsacki...   302  2e-81
+SEQ gi|6174919|sp|O91734|POLG_EC01F GENOME POLYPROTEIN [CONTAINS: CO...   302  3e-81
+SEQ gi|7408184|gb|AAC63944.2| (AF029859) polyprotein precursor [Echo...   302  3e-81
+SEQ gi|1311575|emb|CAA61710.1| (X89531) capsid protein VP2 [Human ec...   302  3e-81
+SEQ gi|9635433|ref|NP_059432.1| polyprotein [Human coxsackievirus A9...   301  5e-81
+SEQ gi|10443876|gb|AAG17621.1|AF250874_1 (AF250874) capsid polyprote...   300  1e-80
+SEQ gi|4388977|pdb|1EV1|2 Chain 2, Echovirus 1                            299  3e-80
+SEQ gi|9628106|ref|NP_042694.1| polyprotein [Human echovirus 6] >gi|...   299  4e-80
+SEQ gi|13311203|gb|AAK18714.1|AF241362_1 (AF241362) polyprotein [ent...   297  9e-80
+SEQ gi|4539510|emb|CAA62258.2| (X90723) polyprotein [Human echovirus...   297  9e-80
+SEQ gi|4572559|emb|CAA62257.2| (X90722) polyprotein [Human echovirus...   297  1e-79
+SEQ gi|13242738|ref|NP_077383.1| polyprotein [Enterovirus CA55-1988]...   297  1e-79
+SEQ gi|9626678|ref|NP_040958.1| coxsackievirus B1 polyprotein [Human...   296  2e-79
+SEQ gi|4530589|gb|AAD22106.1| (AF132497) polyprotein [Enterovirus St...   296  2e-79
+SEQ gi|6102773|emb|CAB59199.1| (X77709) polyprotein [Human echovirus...   295  4e-79
+SEQ gi|13311201|gb|AAK18713.1|AF241361_1 (AF241361) polyprotein [ent...   295  6e-79
+SEQ gi|628412|pir||S44251 polyprotein - echovirus 12                      294  9e-79
+SEQ gi|9629459|ref|NP_059445.1| Echovirus 12 polyprotein [Human echo...   294  9e-79
+SEQ gi|6650683|gb|AAF21971.1|AF114383_1 (AF114383) polyprotein [Huma...   294  9e-79
+SEQ gi|130417|sp|P08292|POLG_CXB4J GENOME POLYPROTEIN [CONTAINS: COA...   294  9e-79
+SEQ gi|74438|pir||GNNYB4 genome polyprotein - coxsackievirus B4           294  9e-79
+SEQ gi|9626088|ref|NP_059442.1| polyprotein [Human coxsackievirus B4...   294  9e-79
+SEQ gi|628411|pir||S44194 polyprotein - echovirus 12 >gi|474421|emb|...   294  1e-78
+SEQ gi|6093757|sp|Q86887|POLG_CXB4E GENOME POLYPROTEIN [CONTAINS: CO...   293  1e-78
+SEQ gi|348673|pir||B45576 capsid protein VP2 - Coxsackievirus >gi|25...   292  3e-78
+SEQ gi|1421062|pdb|1COV|2 Chain 2, Coxsackievirus B3 Coat Protein         292  4e-78
+SEQ gi|323433|gb|AAB59927.1| (M88483) polyprotein [Human coxsackievi...   292  4e-78
+SEQ gi|10863165|gb|AAG23920.1|AF231765_1 (AF231765) polyprotein [Hum...   292  4e-78
+SEQ gi|9625563|ref|NP_039817.1| polyprotein [Human coxsackievirus B5...   292  4e-78
+SEQ gi|5833887|gb|AAD53727.1| (AF169671) capsid protein [Human coxsa...   292  5e-78
+SEQ gi|6093756|sp|Q66282|POLG_CXB3W GENOME POLYPROTEIN [CONTAINS: CO...   292  5e-78
+SEQ gi|10863161|gb|AAG23918.1|AF231763_1 (AF231763) polyprotein [Hum...   291  6e-78
+SEQ gi|13311205|gb|AAK18715.1|AF241363_1 (AF241363) polyprotein [ent...   291  8e-78
+SEQ gi|10863163|gb|AAG23919.1|AF231764_1 (AF231764) polyprotein [Hum...   290  1e-77
+SEQ gi|10863167|gb|AAG23921.1|AF231766_1 (AF231766) polyprotein caps...   290  1e-77
+SEQ gi|130416|sp|P03313|POLG_CXB3N GENOME POLYPROTEIN [CONTAINS: COA...   290  1e-77
+SEQ gi|5833883|gb|AAD53726.1| (AF169666) capsid protein [Human coxsa...   290  1e-77
+SEQ gi|7107365|gb|AAF36390.1|AF222977_1 (AF222977) polyprotein [Huma...   290  1e-77
+SEQ gi|9632988|ref|NP_050012.1| polyprotein [Human coxsackievirus B2...   290  2e-77
+SEQ gi|323428|gb|AAA42933.1| (M21949) polyprotein [Human coxsackievi...   289  3e-77
+SEQ gi|2745830|gb|AAB94756.1| (AF039166) polyprotein capsid protein ...   289  3e-77
+SEQ gi|9627731|ref|NP_042288.1| HRV89 polyprotein precursor [Human r...   289  3e-77
+SEQ gi|130519|sp|P13900|POLG_SVDVU GENOME POLYPROTEIN [CONTAINS: COA...   289  4e-77
+SEQ gi|9628717|ref|NP_043719.1| polyprotein [Swine vesicular disease...   289  4e-77
+SEQ gi|9635676|ref|NP_061590.1| polyprotein [Swine vesicular disease...   289  4e-77
+SEQ gi|61083|emb|CAA25565.1| (X01087) polyprotein [Human rhinovirus]      289  4e-77
+SEQ gi|130480|sp|P03303|POLG_HRV14 GENOME POLYPROTEIN [CONTAINS: COA...   289  4e-77
+SEQ gi|291486|gb|AAA45758.1| (L05355) polyprotein [Human rhinovirus 14]   289  4e-77
+SEQ gi|9626736|ref|NP_041009.1| polyprotein [Human rhinovirus 14] >g...   289  4e-77
+SEQ gi|809218|pdb|2HWB|2 Chain 2, Human Rhinovirus 14 Mutant With Il...   289  4e-77
+SEQ gi|4406136|gb|AAD19874.1| (AF085363) polyprotein [Human coxsacki...   289  4e-77
+SEQ gi|230272|pdb|1R09|2 Chain 2, Rhinovirus 14 (HRV14) Complex With...   289  4e-77
+SEQ gi|9626452|ref|NP_040762.1| polyprotein precursor [Human rhinovi...   288  7e-77
+SEQ gi|9626680|ref|NP_040959.1| polyprotein [Human coxsackievirus B3...   288  8e-77
+SEQ gi|11072118|ref|NP_068349.1| polyprotein [Human echovirus 5] >gi...   287  8e-77
+SEQ gi|9629177|ref|NP_044339.1| polyprotein [Human rhinovirus 16] >g...   287  9e-77
+SEQ gi|2914539|pdb|1AYM|2 Chain 2, Human Rhinovirus 16 Coat Protein ...   287  9e-77
+SEQ gi|3915817|sp|Q82122|POLG_HRV16 GENOME POLYPROTEIN [CONTAINS: CO...   287  9e-77
+SEQ gi|474025|dbj|BAA03866.1| (D16364) polyprotein [Coxsackievirus B]     287  1e-76
+SEQ gi|4038655|dbj|BAA35144.1| (AB017151) polyprotein [Human coxsack...   286  2e-76
+SEQ gi|9632296|ref|NP_049259.1| polyprotein [Human coxsackievirus B6...   286  2e-76
+SEQ gi|6465921|gb|AAF12719.1|AF105342_1 (AF105342) polyprotein [Huma...   286  2e-76
+SEQ gi|6650685|gb|AAF21972.1|AF114384_1 (AF114384) polyprotein [Huma...   286  2e-76
+SEQ gi|130485|sp||POLG_HRV1A_2 [Segment 2 of 2] GENOME POLYPROTEIN [...   285  3e-76
+SEQ gi|230276|pdb|1R1A|2 Chain 2, Rhinovirus Serotype 1 (HRV1) Coat ...   285  3e-76
+SEQ gi|4581993|emb|CAB40216.1| (AJ133661) polyprotein [Human echovir...   284  7e-76
+SEQ gi|4033538|emb|CAA10383.1| (AJ131523) polyprotein [Human echovir...   284  9e-76
+SEQ gi|9632977|ref|NP_050004.1| polyprotein [Human echovirus 30] >gi...   284  9e-76
+SEQ gi|14140010|emb|CAC38993.1| (AJ295208) polyprotein [Human echovi...   284  9e-76
+SEQ gi|2120040|pir||S45041 genome polyprotein - bovine enterovirus (...   284  1e-75
+SEQ gi|1093929|prf||2105169A capsid protein [Bovine enterovirus]          284  1e-75
+SEQ gi|14139943|emb|CAC39011.1| (AJ295172) polyprotein [Human echovi...   283  3e-75
+SEQ gi|14139941|emb|CAC39010.1| (AJ295171) polyprotein [Human echovi...   282  3e-75
+SEQ gi|14139953|emb|CAC39015.1| (AJ295178) polyprotein [Human echovi...   282  3e-75
+SEQ gi|3914380|sp|Q82081|POLG_HRV3 GENOME POLYPROTEIN [CONTAINS: COA...   282  5e-75
+SEQ gi|1942027|pdb|1RHI|2 Chain 2, Human Rhinovirus 3 Coat Protein        282  5e-75
+SEQ gi|6093761|sp|Q66790|POLG_EC16H GENOME POLYPROTEIN [CONTAINS: CO...   281  7e-75
+SEQ gi|14139946|emb|CAC39012.1| (AJ295174) polyprotein [Human echovi...   280  1e-74
+SEQ gi|2120041|pir||S45042 genome polyprotein - bovine enterovirus (...   280  2e-74
+SEQ gi|1093930|prf||2105169B capsid protein [Bovine enterovirus]          280  2e-74
+SEQ gi|9627720|ref|NP_042242.1| polyprotein [Human coxsackievirus A1...   280  2e-74
+SEQ gi|4581995|emb|CAB40217.1| (AJ133662) polyprotein [Human echovir...   279  2e-74
+SEQ gi|11513466|pdb|1C8M|2 Chain 2, Refined Crystal Structure Of Hum...   278  7e-74
+SEQ gi|9628104|ref|NP_042693.1| complete genomic coding region [Huma...   278  7e-74
+SEQ gi|1072814|pir||S52919 polyprotein (1A, 1B, 1C, 1D, 2A, 2B, 2C, ...   278  7e-74
+SEQ gi|5901759|gb|AAD55400.1|AF179613_1 (AF179613) polyprotein [Huma...   278  8e-74
+SEQ gi|5881229|gb|AAD55085.1|AF177911_1 (AF177911) polyprotein [Huma...   277  1e-73
+SEQ gi|3660001|pdb|1BEV|2 Chain 2, Bovine Enterovirus Vg-5-27             277  2e-73
+SEQ gi|9633625|ref|NP_051125.1| polyprotein [Bovine enterovirus stra...   277  2e-73
+SEQ gi|6980416|pdb|1D3E|2 Chain 2, Cryo-Em Structure Of Human Rhinov...   276  2e-73
+SEQ gi|9629893|ref|NP_045756.1| polyprotein [Bovine enterovirus] >gi...   275  3e-73
+SEQ gi|9633627|ref|NP_051126.1| polypeptide [Bovine enterovirus stra...   275  4e-73
+SEQ gi|130409|sp|P12915|POLG_BOVEV GENOME POLYPROTEIN [CONTAINS: COA...   273  2e-72
+SEQ gi|2499562|sp|Q66479|POLG_HE71M GENOME POLYPROTEIN [CONTAINS: CO...   273  2e-72
+SEQ gi|10198654|gb|AAG15272.1| (L28146) capsid protein [Human coxsac...   273  2e-72
+SEQ gi|7716642|gb|AAF68471.1| (AF251359) polyprotein [Human enterovi...   272  3e-72
+SEQ gi|13242736|ref|NP_077382.1| polyprotein [enterovirus 5865/sin/0...   272  3e-72
+SEQ gi|13621160|ref|NP_112434.1| polyprotein [enterovirus 5666/sin/0...   272  3e-72
+SEQ gi|9211054|gb|AAF85765.1|AF201894_1 (AF201894) A2 polyprotein [A...   272  5e-72
+SEQ gi|4530465|gb|AAD22045.1| (AF119795) polyprotein [Human enterovi...   272  5e-72
+SEQ gi|5532391|gb|AAD44710.1|AF136379_1 (AF136379) polyprotein [Huma...   272  5e-72
+SEQ gi|5815314|gb|AAD52643.1|AF176044_1 (AF176044) polyprotein [Huma...   272  5e-72
+SEQ gi|10946421|gb|AAG24905.1|AF304457_1 (AF304457) polyprotein [Hum...   272  5e-72
+SEQ gi|10946423|gb|AAG24906.1|AF304458_1 (AF304458) polyprotein [Hum...   272  5e-72
+SEQ gi|10799099|gb|AAG23181.1| (AF302996) polyprotein [Human enterov...   270  1e-71
+SEQ gi|5597015|gb|AAD22046.3| (AF119796) polyprotein [Human enterovi...   270  1e-71
+SEQ gi|14140015|emb|CAC38989.1| (AJ295211) polyprotein [Human echovi...   270  2e-71
+SEQ gi|7716640|gb|AAF68470.1| (AF251358) polyprotein [Human enterovi...   269  3e-71
+SEQ gi|9629182|ref|NP_044366.1| polyprotein [Human enterovirus 71] >...   269  4e-71
+SEQ gi|6093759|sp|Q66577|POLG_EC09B GENOME POLYPROTEIN [CONTAINS: CO...   267  1e-70
+SEQ gi|9626437|ref|NP_040760.1| polyprotein [Enterovirus 70] >gi|117...   264  1e-69
+SEQ gi|320009|pir||GNNYE7 genome polyprotein - human enterovirus 70 ...   264  1e-69
+SEQ gi|74432|pir||GNNYH2 genome polyprotein - human rhinovirus 2          257  1e-67
+SEQ gi|130487|sp|P04936|POLG_HRV2 GENOME POLYPROTEIN [CONTAINS: COAT...   257  1e-67
+SEQ gi|10835728|pdb|1FPN|2 Chain 2, Human Rhinovirus Serotype 2 (Hrv2)    257  1e-67
+SEQ gi|9629635|ref|NP_044921.1| polyprotein [porcine enterovirus 9] ...   244  8e-64
+SEQ gi|12584546|emb|CAC27389.1| (AJ304423) polyprotein [Human coxsac...   198  5e-50
+SEQ gi|14139969|emb|CAC39027.1| (AJ295187) polyprotein [Human poliov...   137  2e-31
+SEQ gi|14139971|emb|CAC39028.1| (AJ295188) polyprotein [Human poliov...   137  2e-31
+SEQ gi|14139973|emb|CAC39029.1| (AJ295189) polyprotein [Human poliov...   136  2e-31
+SEQ gi|14139975|emb|CAC38998.1| (AJ295190) polyprotein [Human coxsac...   124  1e-27
+SEQ gi|74453|pir||GNNYTM genome polyprotein - murine poliovirus (str...   124  2e-27
+SEQ gi|130523|sp|P08544|POLG_TMEVB GENOME POLYPROTEIN [CONTAINS: COA...   124  2e-27
+SEQ gi|443286|pdb|1TMF|2 Chain 2, Theiler's Murine Encephalomyelitis...   124  2e-27
+SEQ gi|2723364|gb|AAC02657.1| (AF030574) polyprotein [Theiler's ence...   124  2e-27
+SEQ gi|74455|pir||GNNYTP genome polyprotein - murine poliovirus (str...   123  2e-27
+SEQ gi|130525|sp|P08545|POLG_TMEVG GENOME POLYPROTEIN [CONTAINS: COA...   123  2e-27
+SEQ gi|1236797|gb|AAA93011.1| (U32924) polyprotein precursor [Theile...   123  2e-27
+SEQ gi|1237417|gb|AAA93172.1| (U33045) polyprotein precursor [Theile...   123  3e-27
+SEQ gi|9626124|ref|NP_040350.1| viral polyprotein [Theiler's encepha...   122  4e-27
+SEQ gi|1237423|gb|AAA93176.1| (U33047) polyprotein precursor [Theile...   122  4e-27
+SEQ gi|281081|pir||A44048 genome polyprotein - Vilyuisk virus (strai...   122  5e-27
+SEQ gi|310908|gb|AAA47931.1| (M94868) polyprotein [Theiler's encepha...   122  5e-27
+SEQ gi|130524|sp|P13899|POLG_TMEVD GENOME POLYPROTEIN [CONTAINS: COA...   122  7e-27
+SEQ gi|494659|pdb|1TME|2 Chain 2, Theiler's Murine Encephalomyelitis...   122  7e-27
+SEQ gi|644877|gb|AAA62147.1| (U20288) polyprotein [Theiler's encepha...   121  8e-27
+SEQ gi|323857|gb|AAA43035.1| (M37588) polyprotein [Encephalomyocardi...   119  3e-26
+SEQ gi|74451|pir||GNNYED genome polyprotein - encephalomyocarditis v...   119  3e-26
+SEQ gi|130440|sp|P17593|POLG_EMCVB GENOME POLYPROTEIN [CONTAINS: COA...   119  3e-26
+SEQ gi|323853|gb|AAA43033.1| (M22457) polyprotein region [Encephalom...   119  3e-26
+SEQ gi|1346740|sp|P17594|POLG_EMCVD GENOME POLYPROTEIN [CONTAINS: CO...   119  3e-26
+SEQ gi|1084012|pir||S55401 capsid polyprotein precursor - encephalom...   119  3e-26
+SEQ gi|420734|pir||S35961 capsid polyprotein precursor - encephalomy...   119  4e-26
+SEQ gi|9626693|ref|NP_056777.1| viral polyprotein [Encephalomyocardi...   119  4e-26
+SEQ gi|130442|sp|P12296|POLG_ENMGO GENOME POLYPROTEIN [CONTAINS: COA...   117  1e-25
+SEQ gi|494364|pdb|1MEC|2 Chain 2, Mengo Encephalomyocarditis Virus C...   117  1e-25
+SEQ gi|347393|gb|AAA46547.1| (L22089) polyprotein [Mengo virus]           117  1e-25
+SEQ gi|417505|sp|P32540|POLG_ENMG3 GENOME POLYPROTEIN [CONTAINS: COA...   117  2e-25
+SEQ gi|320010|pir||GNNYMV genome polyprotein - Mengo virus (strain 3...   117  2e-25
+SEQ gi|14139985|emb|CAC39021.1| (AJ295195) polyprotein [Human echovi...   116  5e-25
+SEQ gi|995983|emb|CAA60900.1| (X87597) ORF [Human coxsackievirus A17]     115  9e-25
+SEQ gi|13111646|gb|AAK12418.1|AF231769_1 (AF231769) polyprotein [Por...   114  2e-24
+SEQ gi|1086297|pir||S51129 genome polyprotein - human rhinovirus 50 ...   113  3e-24
+SEQ gi|13111326|dbj|BAB32828.1| (AB038528) polyprotein [Porcine tesc...   112  6e-24
+SEQ gi|14140007|emb|CAC39026.1| (AJ295206) polyprotein [Human echovi...   112  8e-24
+SEQ gi|1086299|pir||S51122 genome polyprotein - human rhinovirus 62 ...   111  8e-24
+SEQ gi|14139995|emb|CAC39006.1| (AJ295200) polyprotein [Human coxsac...   111  1e-23
+SEQ gi|1086294|pir||S51128 genome polyprotein - human rhinovirus 29 ...   111  1e-23
+SEQ gi|995973|emb|CAA60895.1| (X87592) ORF [Human coxsackievirus A11]     110  2e-23
+SEQ gi|13111582|gb|AAK12386.1|AF296092_1 (AF296092) polyprotein [Por...   110  2e-23
+SEQ gi|14139989|emb|CAC39004.1| (AJ295197) polyprotein [Human coxsac...   110  3e-23
+SEQ gi|12584542|emb|CAC27387.1| (AJ304421) polyprotein [Human coxsac...   110  3e-23
+SEQ gi|12584552|emb|CAC27392.1| (AJ304426) polyprotein [Human coxsac...   110  3e-23
+SEQ gi|12584556|emb|CAC27394.1| (AJ304428) polyprotein [Human coxsac...   110  3e-23
+SEQ gi|995977|emb|CAA60897.1| (X87594) ORF [Human coxsackievirus A13]     109  3e-23
+SEQ gi|14140003|emb|CAC39025.1| (AJ295204) polyprotein [Human echovi...   109  4e-23
+SEQ gi|1086298|pir||S51125 genome polyprotein - human rhinovirus 58 ...   109  6e-23
+SEQ gi|13111602|gb|AAK12396.1|AF296102_1 (AF296102) polyprotein [Por...   109  6e-23
+SEQ gi|14140005|emb|CAC39008.1| (AJ295205) polyprotein [Human coxsac...   108  7e-23
+SEQ gi|1086300|pir||S51123 genome polyprotein - human rhinovirus 65 ...   108  7e-23
+SEQ gi|995993|emb|CAA60905.1| (X87602) ORF [Human coxsackievirus A20b]    108  7e-23
+SEQ gi|4325057|gb|AAD17238.1| (AF117697) capsid protein [Human echov...   108  1e-22
+SEQ gi|14139981|emb|CAC39001.1| (AJ295193) polyprotein [Human coxsac...   107  1e-22
+SEQ gi|1086301|pir||S51124 genome polyprotein - human rhinovirus 7 (...   107  1e-22
+SEQ gi|4584062|emb|CAB40546.1| (AJ011380) polyprotein [Porcine tesch...   107  2e-22
+SEQ gi|995995|emb|CAA60903.1| (X87600) ORF [Human coxsackievirus A20]     107  2e-22
+SEQ gi|12584548|emb|CAC27390.1| (AJ304424) polyprotein [Human coxsac...   107  2e-22
+SEQ gi|13111574|gb|AAK12382.1|AF296088_1 (AF296088) polyprotein [Por...   107  2e-22
+SEQ gi|13111586|gb|AAK12388.1|AF296094_1 (AF296094) polyprotein [Por...   107  2e-22
+SEQ gi|13111636|gb|AAK12413.1|AF296119_1 (AF296119) polyprotein [Por...   107  2e-22
+SEQ gi|14140001|emb|CAC39024.1| (AJ295203) polyprotein [Human echovi...   106  3e-22
+SEQ gi|14139991|emb|CAC39022.1| (AJ295198) polyprotein [Human echovi...   106  3e-22
+SEQ gi|14139983|emb|CAC39002.1| (AJ295194) polyprotein [Human coxsac...   106  4e-22
+SEQ gi|13111594|gb|AAK12392.1|AF296098_1 (AF296098) polyprotein [Por...   106  5e-22
+SEQ gi|13111608|gb|AAK12399.1|AF296105_1 (AF296105) polyprotein [Por...   106  5e-22
+SEQ gi|995989|emb|CAA60888.1| (X87584) ORF [Human coxsackievirus A1]      106  5e-22
+SEQ gi|1086293|pir||S51127 genome polyprotein - human rhinovirus 21 ...   106  6e-22
+SEQ gi|14139987|emb|CAC39003.1| (AJ295196) polyprotein [Human coxsac...   105  6e-22
+SEQ gi|995985|emb|CAA60901.1| (X87598) ORF [Human coxsackievirus A18]     105  6e-22
+SEQ gi|14139993|emb|CAC39005.1| (AJ295199) polyprotein [Human coxsac...   105  7e-22
+SEQ gi|6752519|gb|AAF27754.1|AF166198_1 (AF166198) polyprotein [Huma...   105  7e-22
+SEQ gi|13111598|gb|AAK12394.1|AF296100_1 (AF296100) polyprotein [Por...   104  1e-21
+SEQ gi|12584538|emb|CAC27385.1| (AJ304419) polyprotein [Human coxsac...   104  1e-21
+SEQ gi|14139999|emb|CAC39023.1| (AJ295202) polyprotein [Human echovi...   104  1e-21
+SEQ gi|13111596|gb|AAK12393.1|AF296099_1 (AF296099) polyprotein [Por...   104  2e-21
+SEQ gi|6752469|gb|AAF27729.1|AF166173_1 (AF166173) polyprotein [Huma...   104  2e-21
+SEQ gi|6752471|gb|AAF27730.1|AF166174_1 (AF166174) polyprotein [Huma...   104  2e-21
+SEQ gi|6752473|gb|AAF27731.1|AF166175_1 (AF166175) polyprotein [Huma...   104  2e-21
+SEQ gi|6752475|gb|AAF27732.1|AF166176_1 (AF166176) polyprotein [Huma...   104  2e-21
+SEQ gi|6752503|gb|AAF27746.1|AF166190_1 (AF166190) polyprotein [Huma...   104  2e-21
+SEQ gi|6752505|gb|AAF27747.1|AF166191_1 (AF166191) polyprotein [Huma...   104  2e-21
+SEQ gi|6752513|gb|AAF27751.1|AF166195_1 (AF166195) polyprotein [Huma...   104  2e-21
+SEQ gi|6752515|gb|AAF27752.1|AF166196_1 (AF166196) polyprotein [Huma...   104  2e-21
+SEQ gi|6752517|gb|AAF27753.1|AF166197_1 (AF166197) polyprotein [Huma...   104  2e-21
+SEQ gi|6752523|gb|AAF27756.1|AF166200_1 (AF166200) polyprotein [Huma...   104  2e-21
+SEQ gi|13111588|gb|AAK12389.1|AF296095_1 (AF296095) polyprotein [Por...   103  2e-21
+SEQ gi|1086302|pir||S51135 genome polyprotein - human rhinovirus 72 ...   103  2e-21
+SEQ gi|6752479|gb|AAF27734.1|AF166178_1 (AF166178) polyprotein [Huma...   103  3e-21
+SEQ gi|6752481|gb|AAF27735.1|AF166179_1 (AF166179) polyprotein [Huma...   103  3e-21
+SEQ gi|6752483|gb|AAF27736.1|AF166180_1 (AF166180) polyprotein [Huma...   103  3e-21
+SEQ gi|6752491|gb|AAF27740.1|AF166184_1 (AF166184) polyprotein [Huma...   103  3e-21
+SEQ gi|13111644|gb|AAK12417.1|AF231768_1 (AF231768) polyprotein [Por...   102  4e-21
+SEQ gi|6752467|gb|AAF27728.1|AF166172_1 (AF166172) polyprotein [Huma...   102  4e-21
+SEQ gi|13488849|dbj|BAB40266.1| (AB058815) polyprotein [Human echovi...   102  5e-21
+SEQ gi|13488907|dbj|BAB40295.1| (AB058844) polyprotein [Human echovi...   102  5e-21
+SEQ gi|14139979|emb|CAC39000.1| (AJ295192) polyprotein [Human coxsac...   102  5e-21
+SEQ gi|6752489|gb|AAF27739.1|AF166183_1 (AF166183) polyprotein [Huma...   102  5e-21
+SEQ gi|13488861|dbj|BAB40272.1| (AB058821) polyprotein [Human echovi...   102  5e-21
+SEQ gi|12407308|dbj|BAB21379.1| (AB054655) polyprotein [Human echovi...   102  6e-21
+SEQ gi|12407310|dbj|BAB21380.1| (AB054656) polyprotein [Human echovi...   102  6e-21
+SEQ gi|12407318|dbj|BAB21384.1| (AB054660) polyprotein [Human echovi...   102  6e-21
+SEQ gi|12407334|dbj|BAB21392.1| (AB054668) polyprotein [Human echovi...   102  6e-21
+SEQ gi|13488833|dbj|BAB40258.1| (AB058807) polyprotein [Human echovi...   102  6e-21
+SEQ gi|13488839|dbj|BAB40261.1| (AB058810) polyprotein [Human echovi...   102  6e-21
+SEQ gi|13488905|dbj|BAB40294.1| (AB058843) polyprotein [Human echovi...   102  6e-21
+SEQ gi|13111642|gb|AAK12416.1|AF231767_1 (AF231767) polyprotein [Por...   102  6e-21
+SEQ gi|1086296|pir||S51121 genome polyprotein - human rhinovirus 49 ...   102  6e-21
+SEQ gi|12407312|dbj|BAB21381.1| (AB054657) polyprotein [Human echovi...   102  7e-21
+SEQ gi|13488805|dbj|BAB40244.1| (AB058793) polyprotein [Human echovi...   102  7e-21
+SEQ gi|13488825|dbj|BAB40254.1| (AB058803) polyprotein [Human echovi...   102  7e-21
+SEQ gi|13488889|dbj|BAB40286.1| (AB058835) polyprotein [Human echovi...   102  7e-21
+SEQ gi|13488895|dbj|BAB40289.1| (AB058838) polyprotein [Human echovi...   102  7e-21
+SEQ gi|6752529|gb|AAF27759.1|AF166203_1 (AF166203) polyprotein [Huma...   102  7e-21
+SEQ gi|13568822|gb|AAK30762.1| (AF236458) polyprotein [Human echovir...   102  7e-21
+SEQ gi|4325059|gb|AAD17239.1| (AF117698) capsid protein [Human echov...   102  7e-21
+SEQ gi|13568682|gb|AAK30692.1| (AF236388) polyprotein [Human echovir...   101  8e-21
+SEQ gi|13568688|gb|AAK30695.1| (AF236391) polyprotein [Human echovir...   101  8e-21
+SEQ gi|13568690|gb|AAK30696.1| (AF236392) polyprotein [Human echovir...   101  8e-21
+SEQ gi|13568708|gb|AAK30705.1| (AF236401) polyprotein [Human echovir...   101  8e-21
+SEQ gi|13568730|gb|AAK30716.1| (AF236412) polyprotein [Human echovir...   101  8e-21
+SEQ gi|13568742|gb|AAK30722.1| (AF236418) polyprotein [Human echovir...   101  8e-21
+SEQ gi|13568818|gb|AAK30760.1| (AF236456) polyprotein [Human echovir...   101  8e-21
+SEQ gi|13568838|gb|AAK30770.1| (AF236466) polyprotein [Human echovir...   101  8e-21
+SEQ gi|13568886|gb|AAK30794.1| (AF236490) polyprotein [Human echovir...   101  8e-21
+SEQ gi|13568890|gb|AAK30796.1| (AF236492) polyprotein [Human echovir...   101  8e-21
+SEQ gi|13568914|gb|AAK30808.1| (AF236504) polyprotein [Human echovir...   101  8e-21
+SEQ gi|13568936|gb|AAK30819.1| (AF236515) polyprotein [Human echovir...   101  8e-21
+SEQ gi|13568926|gb|AAK30814.1| (AF236510) polyprotein [Human echovir...   101  8e-21
+SEQ gi|6752487|gb|AAF27738.1|AF166182_1 (AF166182) polyprotein [Huma...   101  9e-21
+SEQ gi|7327468|gb|AAF59744.1|AF160087_1 (AF160087) polyprotein [Coxs...   101  9e-21
+SEQ gi|7327598|gb|AAF59809.1|AF160152_1 (AF160152) polyprotein [Coxs...   101  9e-21
+SEQ gi|13568716|gb|AAK30709.1| (AF236405) polyprotein [Human echovir...   101  9e-21
+SEQ gi|13568782|gb|AAK30742.1| (AF236438) polyprotein [Human echovir...   101  9e-21
+SEQ gi|13568932|gb|AAK30817.1| (AF236513) polyprotein [Human echovir...   101  9e-21
+SEQ gi|13488899|dbj|BAB40291.1| (AB058840) polyprotein [Human echovi...   101  1e-20
+SEQ gi|6752511|gb|AAF27750.1|AF166194_1 (AF166194) polyprotein [Huma...   101  1e-20
+SEQ gi|7327580|gb|AAF59800.1|AF160143_1 (AF160143) polyprotein [Coxs...   101  1e-20
+SEQ gi|7327508|gb|AAF59764.1|AF160107_1 (AF160107) polyprotein [Coxs...   101  1e-20
+SEQ gi|14139977|emb|CAC38999.1| (AJ295191) polyprotein [Human coxsac...   101  1e-20
+SEQ gi|13568718|gb|AAK30710.1| (AF236406) polyprotein [Human echovir...   101  1e-20
+SEQ gi|13488901|dbj|BAB40292.1| (AB058841) polyprotein [Human echovi...   101  1e-20
+SEQ gi|13488851|dbj|BAB40267.1| (AB058816) polyprotein [Human echovi...   101  1e-20
+SEQ gi|13568920|gb|AAK30811.1| (AF236507) polyprotein [Human echovir...   101  1e-20
+SEQ gi|7327444|gb|AAF59732.1|AF160075_1 (AF160075) polyprotein [Coxs...   101  1e-20
+SEQ gi|7327486|gb|AAF59753.1|AF160096_1 (AF160096) polyprotein [Coxs...   101  1e-20
+SEQ gi|7327504|gb|AAF59762.1|AF160105_1 (AF160105) polyprotein [Coxs...   101  1e-20
+SEQ gi|7327512|gb|AAF59766.1|AF160109_1 (AF160109) polyprotein [Coxs...   101  1e-20
+SEQ gi|7327518|gb|AAF59769.1|AF160112_1 (AF160112) polyprotein [Coxs...   101  1e-20
+SEQ gi|7327522|gb|AAF59771.1|AF160114_1 (AF160114) polyprotein [Coxs...   101  1e-20
+SEQ gi|7327530|gb|AAF59775.1|AF160118_1 (AF160118) polyprotein [Coxs...   101  1e-20
+SEQ gi|7327540|gb|AAF59780.1|AF160123_1 (AF160123) polyprotein [Coxs...   101  1e-20
+SEQ gi|7327544|gb|AAF59782.1|AF160125_1 (AF160125) polyprotein [Coxs...   101  1e-20
+SEQ gi|7327586|gb|AAF59803.1|AF160146_1 (AF160146) polyprotein [Coxs...   101  1e-20
+SEQ gi|7327594|gb|AAF59807.1|AF160150_1 (AF160150) polyprotein [Coxs...   101  1e-20
+SEQ gi|7327596|gb|AAF59808.1|AF160151_1 (AF160151) polyprotein [Coxs...   101  1e-20
+SEQ gi|7327600|gb|AAF59810.1|AF160153_1 (AF160153) polyprotein [Coxs...   101  1e-20
+SEQ gi|6752527|gb|AAF27758.1|AF166202_1 (AF166202) polyprotein [Huma...   101  1e-20
+SEQ gi|1086292|pir||S51126 genome polyprotein - human rhinovirus 11 ...   101  1e-20
+SEQ gi|13111592|gb|AAK12391.1|AF296097_1 (AF296097) polyprotein [Por...   101  1e-20
+SEQ gi|13488865|dbj|BAB40274.1| (AB058823) polyprotein [Human echovi...   101  1e-20
+SEQ gi|13568842|gb|AAK30772.1| (AF236468) polyprotein [Human echovir...   101  1e-20
+SEQ gi|13568908|gb|AAK30805.1| (AF236501) polyprotein [Human echovir...   101  1e-20
+SEQ gi|13568790|gb|AAK30746.1| (AF236442) polyprotein [Human echovir...   101  2e-20
+SEQ gi|13568740|gb|AAK30721.1| (AF236417) polyprotein [Human echovir...   101  2e-20
+SEQ gi|13568776|gb|AAK30739.1| (AF236435) polyprotein [Human echovir...   100  2e-20
+SEQ gi|13111610|gb|AAK12400.1|AF296106_1 (AF296106) polyprotein [Por...   100  2e-20
+SEQ gi|13111638|gb|AAK12414.1|AF296120_1 (AF296120) polyprotein [Por...   100  2e-20
+SEQ gi|4325055|gb|AAD17237.1| (AF117696) capsid protein [Human coxsa...   100  2e-20
+SEQ gi|7327510|gb|AAF59765.1|AF160108_1 (AF160108) polyprotein [Coxs...   100  2e-20
+SEQ gi|11344515|dbj|BAB18476.1| (AB051301) capsid protein VP4-VP2 [H...   100  2e-20
+SEQ gi|13111626|gb|AAK12408.1|AF296114_1 (AF296114) polyprotein [Por...   100  2e-20
+SEQ gi|6752521|gb|AAF27755.1|AF166199_1 (AF166199) polyprotein [Huma...   100  2e-20
+SEQ gi|7327604|gb|AAF59812.1|AF160155_1 (AF160155) polyprotein [Coxs...   100  2e-20
+SEQ gi|7327608|gb|AAF59814.1|AF160157_1 (AF160157) polyprotein [Coxs...   100  2e-20
+SEQ gi|7327622|gb|AAF59821.1|AF160164_1 (AF160164) polyprotein [Coxs...   100  2e-20
+SEQ gi|7327624|gb|AAF59822.1|AF160165_1 (AF160165) polyprotein [Coxs...   100  2e-20
+SEQ gi|13568930|gb|AAK30816.1| (AF236512) polyprotein [Human echovir...   100  3e-20
+SEQ gi|7327630|gb|AAF59825.1|AF160168_1 (AF160168) polyprotein [Coxs...   100  3e-20
+SEQ gi|7327560|gb|AAF59790.1|AF160133_1 (AF160133) polyprotein [Coxs...   100  3e-20
+SEQ gi|7327590|gb|AAF59805.1|AF160148_1 (AF160148) polyprotein [Coxs...   100  3e-20
+SEQ gi|13568868|gb|AAK30785.1| (AF236481) polyprotein [Human echovir...   100  3e-20
+SEQ gi|13568830|gb|AAK30766.1| (AF236462) polyprotein [Human echovir...   100  3e-20
+SEQ gi|7327570|gb|AAF59795.1|AF160138_1 (AF160138) polyprotein [Coxs...   100  3e-20
+SEQ gi|13111590|gb|AAK12390.1|AF296096_1 (AF296096) polyprotein [Por...   100  3e-20
+SEQ gi|13111600|gb|AAK12395.1|AF296101_1 (AF296101) polyprotein [Por...   100  3e-20
+SEQ gi|7327490|gb|AAF59755.1|AF160098_1 (AF160098) polyprotein [Coxs...   100  3e-20
+SEQ gi|7327592|gb|AAF59806.1|AF160149_1 (AF160149) polyprotein [Coxs...   100  3e-20
+SEQ gi|13568924|gb|AAK30813.1| (AF236509) polyprotein [Human echovir...   100  3e-20
+SEQ gi|7327466|gb|AAF59743.1|AF160086_1 (AF160086) polyprotein [Coxs...   100  4e-20
+SEQ gi|7327498|gb|AAF59759.1|AF160102_1 (AF160102) polyprotein [Coxs...   100  4e-20
+SEQ gi|7327516|gb|AAF59768.1|AF160111_1 (AF160111) polyprotein [Coxs...    99  4e-20
+SEQ gi|7327602|gb|AAF59811.1|AF160154_1 (AF160154) polyprotein [Coxs...    99  4e-20
+SEQ gi|13111630|gb|AAK12410.1|AF296116_1 (AF296116) polyprotein [Por...    99  5e-20
+SEQ gi|13111632|gb|AAK12411.1|AF296117_1 (AF296117) polyprotein [Por...    99  5e-20
+SEQ gi|13111622|gb|AAK12406.1|AF296112_1 (AF296112) polyprotein [Por...    99  6e-20
+SEQ gi|13111640|gb|AAK12415.1|AF296121_1 (AF296121) polyprotein [Por...    99  6e-20
+SEQ gi|11344539|dbj|BAB18488.1| (AB051313) capsid protein VP4-VP2 [H...    99  7e-20
+SEQ gi|11344523|dbj|BAB18480.1| (AB051305) capsid protein VP4-VP2 [H...    99  8e-20
+SEQ gi|13111620|gb|AAK12405.1|AF296111_1 (AF296111) polyprotein [Por...    99  8e-20
+SEQ gi|7327506|gb|AAF59763.1|AF160106_1 (AF160106) polyprotein [Coxs...    99  9e-20
+SEQ gi|13111580|gb|AAK12385.1|AF296091_1 (AF296091) polyprotein [Por...    98  1e-19
+SEQ gi|13111634|gb|AAK12412.1|AF296118_1 (AF296118) polyprotein [Por...    98  1e-19
+SEQ gi|11344525|dbj|BAB18481.1| (AB051306) capsid protein VP4-VP2 [H...    98  1e-19
+SEQ gi|11344555|dbj|BAB18496.1| (AB051321) capsid protein VP4-VP2 [H...    98  1e-19
+SEQ gi|13568852|gb|AAK30777.1| (AF236473) polyprotein [Human echovir...    98  1e-19
+SEQ gi|1086295|pir||S51134 genome polyprotein - human rhinovirus 3 (...    98  1e-19
+SEQ gi|13111584|gb|AAK12387.1|AF296093_1 (AF296093) polyprotein [Por...    98  1e-19
+SEQ gi|13111628|gb|AAK12409.1|AF296115_1 (AF296115) polyprotein [Por...    98  2e-19
+SEQ gi|13111572|gb|AAK12381.1|AF296087_1 (AF296087) polyprotein [Por...    97  3e-19
+SEQ gi|13111606|gb|AAK12398.1|AF296104_1 (AF296104) polyprotein [Por...    97  3e-19
+SEQ gi|13111604|gb|AAK12397.1|AF296103_1 (AF296103) polyprotein [Por...    96  4e-19
+SEQ gi|4098337|gb|AAD09600.1| (U77070) capsid protein [Human echovir...    96  4e-19
+SEQ gi|13111576|gb|AAK12383.1|AF296089_1 (AF296089) polyprotein [Por...    96  5e-19
+SEQ gi|13111624|gb|AAK12407.1|AF296113_1 (AF296113) polyprotein [Por...    96  5e-19
+SEQ gi|7327606|gb|AAF59813.1|AF160156_1 (AF160156) polyprotein [Coxs...    96  7e-19
+SEQ gi|10443145|emb|CAC10491.1| (AJ297109) polyprotein [Human coxsac...    95  8e-19
+SEQ gi|7327442|gb|AAF59731.1|AF160074_1 (AF160074) polyprotein [Coxs...    95  8e-19
+SEQ gi|13111614|gb|AAK12402.1|AF296108_1 (AF296108) polyprotein [Por...    95  8e-19
+SEQ gi|13111612|gb|AAK12401.1|AF296107_1 (AF296107) polyprotein [Por...    95  9e-19
+SEQ gi|11344581|dbj|BAB18509.1| (AB051334) capsid protein VP4-VP2 [H...    94  1e-18
+SEQ gi|4325053|gb|AAD17236.1| (AF117695) capsid protein [Human coxsa...    94  2e-18
+SEQ gi|6752499|gb|AAF27744.1|AF166188_1 (AF166188) polyprotein [Huma...    94  2e-18
+SEQ gi|4163947|gb|AAD05280.1| (AF073752) VP2 [Human coxsackievirus A15]    93  4e-18
+SEQ gi|996014|emb|CAA60908.1| (X87605) ORF [Enterovirus 69]                93  4e-18
+SEQ gi|4163949|gb|AAD05281.1| (AF073753) VP2 [Human coxsackievirus A19]    93  5e-18
+SEQ gi|13111616|gb|AAK12403.1|AF296109_1 (AF296109) polyprotein [Por...    93  5e-18
+SEQ gi|11061079|emb|CAC14459.1| (AJ296213) polyprotein [Human entero...    93  6e-18
+SEQ gi|995979|emb|CAA60898.1| (X87595) ORF [Human coxsackievirus A14]      92  6e-18
+SEQ gi|13111618|gb|AAK12404.1|AF296110_1 (AF296110) polyprotein [Por...    92  9e-18
+SEQ gi|996006|emb|CAA60892.1| (X87589) ORF [Human coxsackievirus A7]       92  1e-17
+SEQ gi|4163953|gb|AAD05283.1| (AF073755) VP2 [Human coxsackievirus A22]    92  1e-17
+SEQ gi|996016|emb|CAA60909.1| (X87606) ORF [Human enterovirus 71]          91  2e-17
+SEQ gi|4163951|gb|AAD05282.1| (AF073754) VP2 [Human coxsackievirus A18]    91  2e-17
+SEQ gi|995971|emb|CAA60894.1| (X87591) ORF [Human coxsackievirus A10]      91  2e-17
+SEQ gi|130439|sp|P03304|POLG_EMCV GENOME POLYPROTEIN [CONTAINS: COAT...    90  3e-17
+SEQ gi|13111578|gb|AAK12384.1|AF296090_1 (AF296090) polyprotein [Por...    89  4e-17
+SEQ gi|12227197|emb|CAC21825.1| (AJ300755) unnamed protein product [...    89  5e-17
+SEQ gi|996001|emb|CAA60890.1| (X87586) ORF [Human coxsackievirus A3]       88  1e-16
+SEQ gi|996004|emb|CAA60891.1| (X87588) ORF [Human coxsackievirus A5]       87  2e-16
+SEQ gi|11602758|emb|CAC18554.1| (AJ295170) polyprotein [porcine ente...    87  2e-16
+SEQ gi|12227193|emb|CAC21823.1| (AJ300753) viral polyprotein [Human ...    87  2e-16
+SEQ gi|996008|emb|CAA60893.1| (X87590) ORF [Human coxsackievirus A8]       87  3e-16
+SEQ gi|4163945|gb|AAD05279.1| (AF073751) VP2 [Echovirus 34]                87  3e-16
+SEQ gi|14029551|gb|AAK52731.1|AF347671_1 (AF347671) P1 [Equine rhini...    87  3e-16
+SEQ gi|4163943|gb|AAD05278.1| (AF073750) VP2 [Human coxsackievirus A24]    86  4e-16
+SEQ gi|1262767|emb|CAA65613.1| (X96870) polyprotein [Equine rhinitis...    86  7e-16
+SEQ gi|1262768|emb|CAA65614.1| (X96870) polyprotein [Equine rhinitis...    86  7e-16
+SEQ gi|14029549|gb|AAK52730.1|AF347670_1 (AF347670) P1 [Equine rhini...    86  7e-16
+SEQ gi|996012|emb|CAA60907.1| (X87604) ORF [Enterovirus 68]                85  8e-16
+SEQ gi|4163977|gb|AAD05295.1| (AF073767) VP2 [Human echovirus 7]           85  1e-15
+SEQ gi|11344541|dbj|BAB18489.1| (AB051314) capsid protein VP4-VP2 [H...    84  1e-15
+SEQ gi|14029561|gb|AAK52736.1|AF347676_1 (AF347676) P1 [Equine rhini...    84  2e-15
+SEQ gi|11061083|emb|CAC14460.1| (AJ296214) polyprotein [Human entero...    83  3e-15
+SEQ gi|14029565|gb|AAK52738.1|AF347678_1 (AF347678) P1 [Equine rhini...    83  3e-15
+SEQ gi|14029545|gb|AAK52728.1|AF347668_1 (AF347668) P1 [Equine rhini...    83  3e-15
+SEQ gi|4433066|dbj|BAA21047.1| (D45233) VP2 [Enterovirus 70] >gi|443...    83  4e-15
+SEQ gi|14029553|gb|AAK52732.1|AF347672_1 (AF347672) P1 [Equine rhini...    83  4e-15
+SEQ gi|14029563|gb|AAK52737.1|AF347677_1 (AF347677) P1 [Equine rhini...    83  5e-15
+SEQ gi|14029559|gb|AAK52735.1|AF347675_1 (AF347675) P1 [Equine rhini...    83  5e-15
+SEQ gi|14029555|gb|AAK52733.1|AF347673_1 (AF347673) P1 [Equine rhini...    83  5e-15
+SEQ gi|14029547|gb|AAK52729.1|AF347669_1 (AF347669) P1 [Equine rhini...    83  6e-15
+SEQ gi|14029557|gb|AAK52734.1|AF347674_1 (AF347674) P1 [Equine rhini...    82  8e-15
+SEQ gi|1311573|emb|CAA61726.1| (X89548) 3D polymerase; capsid protei...    81  1e-14
+SEQ gi|4163955|gb|AAD05284.1| (AF073756) VP2 [Human echovirus 30]          80  3e-14
+SEQ gi|1311585|emb|CAA61731.1| (X89553) capsid protein VP2 [Human ec...    80  3e-14
+SEQ gi|4163957|gb|AAD05285.1| (AF073757) VP2 [Human echovirus 30]          80  3e-14
+SEQ gi|4163965|gb|AAD05289.1| (AF073761) VP2 [Human echovirus 11]          80  4e-14
+SEQ gi|11045095|emb|CAC14434.1| (AJ296215) polyprotein [Human coxsac...    80  4e-14
+SEQ gi|4163975|gb|AAD05294.1| (AF073766) VP2 [Human echovirus 25]          80  4e-14
+SEQ gi|1311579|emb|CAA61728.1| (X89550) capsid protein VP2 [Human ec...    79  5e-14
+SEQ gi|1311591|emb|CAA61711.1| (X89532) capsid protein VP2 [Human ec...    79  6e-14
+SEQ gi|1588015|prf||2207404A polyprotein [equine rhinovirus 1]             79  7e-14
+SEQ gi|2231134|gb|AAB61952.1| (L43052) polyprotein [equine rhinoviru...    79  7e-14
+SEQ gi|4163941|gb|AAD05277.1| (AF073749) VP2 [Human coxsackievirus A14]    79  7e-14
+SEQ gi|1262770|emb|CAA65615.1| (X96871) polyprotein [Equine rhinitis...    79  7e-14
+SEQ gi|1311604|emb|CAA61713.1| (X89535) capsid protein VP2 [Human ec...    78  1e-13
+SEQ gi|1311606|emb|CAA61714.1| (X89536) capsid protein VP2 [Human ec...    78  1e-13
+SEQ gi|4163971|gb|AAD05292.1| (AF073764) VP2 [Human coxsackievirus B6]     78  1e-13
+SEQ gi|7248621|gb|AAF43596.1|AF152301_1 (AF152301) capsid protein VP...    78  1e-13
+SEQ gi|1311569|emb|CAA61724.1| (X89546) capsid protein VP2 [Human ec...    78  1e-13
+SEQ gi|1311595|emb|CAA61735.1| (X89557) capsid protein VP2 [Human ec...    78  1e-13
+SEQ gi|4163963|gb|AAD05288.1| (AF073760) VP2 [Human echovirus 6]           78  1e-13
+SEQ gi|4163967|gb|AAD05290.1| (AF073762) VP2 [Human echovirus 4] >gi...    78  2e-13
+SEQ gi|4163973|gb|AAD05293.1| (AF073765) VP2 [Human echovirus 4]           78  2e-13
+SEQ gi|7963782|gb|AAF71351.1| (AF252214) VP2 protein [Human poliovir...    78  2e-13
+SEQ gi|1311559|emb|CAA61719.1| (X89541) 3D polymerase; capsid protei...    77  2e-13
+SEQ gi|1311563|emb|CAA61721.1| (X89543) capsid protein VP2 [Human ec...    77  3e-13
+SEQ gi|4163937|gb|AAD05275.1| (AF073747) VP2 [Human coxsackievirus A12]    76  6e-13
+SEQ gi|1311587|emb|CAA61732.1| (X89554) 3D polymerase; capsid protei...    76  6e-13
+SEQ gi|1311577|emb|CAA61727.1| (X89549) capsid protein VP2 [Human ec...    76  6e-13
+SEQ gi|1311612|emb|CAA61717.1| (X89539) capsid protein VP2 [Human ec...    76  7e-13
+SEQ gi|4163961|gb|AAD05287.1| (AF073759) VP2 [Human echovirus 30]          75  8e-13
+SEQ gi|1311581|emb|CAA61729.1| (X89551) capsid protein VP2 [Human ec...    75  1e-12
+SEQ gi|1311565|emb|CAA61722.1| (X89544) capsid protein VP2 [Human ec...    75  1e-12
+SEQ gi|1311571|emb|CAA61725.1| (X89547) capsid protein VP2 [Human ec...    75  1e-12
+SEQ gi|4163935|gb|AAD05274.1| (AF073746) VP2 [Human coxsackievirus A4]     74  1e-12
+SEQ gi|1311593|emb|CAA61734.1| (X89556) capsid protein VP2 [Human ec...    74  2e-12
+SEQ gi|1311597|emb|CAA61736.1| (X89558) capsid protein VP2 [Human ec...    74  2e-12
+SEQ gi|1311599|emb|CAA61737.1| (X89559) capsid protein VP2 [Human ec...    74  2e-12
+SEQ gi|1311589|emb|CAA61733.1| (X89555) capsid protein VP2 [Human ec...    74  3e-12
+SEQ gi|1311601|emb|CAA61712.1| (X89533) capsid protein VP2 [Human ec...    73  3e-12
+SEQ gi|4163979|gb|AAD05296.1| (AF073768) VP2 [Human coxsackievirus B2]     73  5e-12
+SEQ gi|1311561|emb|CAA61720.1| (X89542) capsid protein VP2 [Human ec...    73  7e-12
+SEQ gi|13111466|dbj|BAB32827.1| (AB049562) capsid VP2 [Porcine enter...    72  8e-12
+SEQ gi|14139963|emb|CAC39018.1| (AJ295184) polyprotein [Human echovi...    72  1e-11
+SEQ gi|4163939|gb|AAD05276.1| (AF073748) VP2 [Human coxsackievirus A6]     69  8e-11
+SEQ gi|7963750|gb|AAF71335.1| (AF252198) VP2 protein [Human echoviru...    60  4e-08
+SEQ gi|7963762|gb|AAF71341.1| (AF252204) VP2 protein [Human echoviru...    60  4e-08
+SEQ gi|7963766|gb|AAF71343.1| (AF252206) VP2 protein [Human echoviru...    60  4e-08
+SEQ gi|7963760|gb|AAF71340.1| (AF252203) VP2 protein [Human coxsacki...    59  5e-08
+SEQ gi|7963748|gb|AAF71334.1| (AF252197) VP2 protein [Human echoviru...    57  2e-07
+SEQ gi|130443|sp|P03306|POLG_FMDV1 GENOME POLYPROTEIN [CONTAINS: NON...    57  4e-07
+SEQ gi|4007042|emb|CAA07472.1| (AJ007347) polyprotein [Foot-and-mout...    56  4e-07
+SEQ gi|4007044|emb|CAA07561.1| (AJ007572) polyprotein [Foot-and-mout...    56  4e-07
+SEQ gi|7963768|gb|AAF71344.1| (AF252207) VP2 protein [Human echoviru...    56  5e-07
+SEQ gi|210392|gb|AAA91494.1| (M90372) capsid protein P1 [foot-and-mo...    56  5e-07
+SEQ gi|7963738|gb|AAF71329.1| (AF252192) VP2 protein [Human echoviru...    56  5e-07
+SEQ gi|7963786|gb|AAF71353.1| (AF252216) VP2 protein [Human enterovi...    56  6e-07
+SEQ gi|13111460|dbj|BAB32824.1| (AB049559) capsid VP2 [porcine enter...    56  6e-07
+SEQ gi|13111462|dbj|BAB32825.1| (AB049560) capsid VP2 [Porcine enter...    56  6e-07
+SEQ gi|13111464|dbj|BAB32826.1| (AB049561) capsid VP2 [Porcine enter...    56  6e-07
+SEQ gi|7963758|gb|AAF71339.1| (AF252202) VP2 protein [Human echoviru...    56  6e-07
+SEQ gi|7963752|gb|AAF71336.1| (AF252199) VP2 protein [Human echoviru...    56  6e-07
+SEQ gi|1335402|emb|CAA24361.1| (V01130) polyprotein [Foot-and-mouth ...    56  8e-07
+SEQ gi|7963746|gb|AAF71333.1| (AF252196) VP2 protein [Human echoviru...    56  8e-07
+SEQ gi|7963754|gb|AAF71337.1| (AF252200) VP2 protein [Human coxsacki...    55  9e-07
+SEQ gi|7963784|gb|AAF71352.1| (AF252215) VP2 protein [Human coxsacki...    55  1e-06
+SEQ gi|456401|gb|AAA21017.1| (L29062) P1 polypeptide [Foot-and-mouth...    55  1e-06
+SEQ gi|9630644|ref|NP_047200.1| polyprotein [Aichi virus] >gi|329810...    55  1e-06
+SEQ gi|130445|sp|P03308|POLG_FMDVA GENOME POLYPROTEIN [CONTAINS: NON...    54  2e-06
+SEQ gi|420733|pir||JQ1892 capsid protein - foot-and-mouth disease vi...    54  3e-06
+SEQ gi|7963774|gb|AAF71347.1| (AF252210) VP2 protein [Human echoviru...    54  3e-06
+SEQ gi|7963770|gb|AAF71345.1| (AF252208) VP2 protein [Human echoviru...    53  4e-06
+SEQ gi|262166|gb|AAB24600.1| capsid polyprotein(VP1, VP2, VP3, VP4) ...    53  4e-06
+SEQ gi|420732|pir||JQ1891 capsid protein - foot-and-mouth disease vi...    53  4e-06
+SEQ gi|7963740|gb|AAF71330.1| (AF252193) VP2 protein [Human coxsacki...    53  4e-06
+SEQ gi|6562395|emb|CAB62583.1| (AJ251476) polyprotein [Foot-and-mout...    53  4e-06
+SEQ gi|7963736|gb|AAF71328.1| (AF252191) VP2 protein [Human coxsacki...    53  4e-06
+SEQ gi|210372|gb|AAA91490.1| (M90367) capsid protein P1 [foot-and-mo...    53  5e-06
+SEQ gi|6980427|pdb|1QGC|2 Chain 2, Structure Of The Complex Of An Fa...    52  9e-06
+SEQ gi|6318188|emb|CAB60267.1| (AJ133357) polyprotein [Foot-and-mout...    52  1e-05
+SEQ gi|210303|gb|AAA42591.1| (M20716) capsid protein (VP2) [Foot-and...    52  1e-05
+SEQ gi|10445392|ref|NP_066365.1| polyprotein [Foot-and-mouth disease...    51  2e-05
+SEQ gi|6318190|emb|CAB60265.1| (AJ133358) polyprotein [Foot-and-mout...    51  2e-05
+SEQ gi|6318192|emb|CAB60266.1| (AJ133359) polyprotein [Foot-and-mout...    51  2e-05
+SEQ gi|289148|gb|AAA42666.1| (M72587) polyprotein [Foot-and-mouth di...    51  2e-05
+SEQ gi|130454|sp|P15072|POLG_FMDVT GENOME POLYPROTEIN [CONTAINS: NON...    51  3e-05
+SEQ gi|5542436|pdb|1QQP|2 Chain 2, Foot-And-Mouth Disease Virus OLIG...    51  3e-05
+SEQ gi|6562397|emb|CAB62584.1| (AJ251477) capsid [Foot-and-mouth dis...    50  3e-05
+SEQ gi|11493809|gb|AAG35653.1| (AF204276) polyprotein [Foot-and-mout...    50  3e-05
+SEQ gi|7963744|gb|AAF71332.1| (AF252195) VP2 protein [Human coxsacki...    50  4e-05
+SEQ gi|5031482|gb|AAD38188.1|AF154271_1 (AF154271) polyprotein precu...    49  6e-05
+SEQ gi|10092581|ref|NP_065411.1| polyprotein precursor [Foot-and-mou...    49  6e-05
+SEQ gi|456403|gb|AAA21018.1| (L29061) P1 polyprotein [Foot-and-mouth...    49  6e-05
+SEQ gi|210432|gb|AAA96804.1| (M55287) VP gene product [Foot-and-mout...    49  7e-05
+SEQ gi|6562393|emb|CAB62582.1| (AJ251474) capsid [Foot-and-mouth dis...    49  9e-05
+SEQ gi|1346741|sp|P49303|POLG_FMDVZ GENOME POLYPROTEIN [CONTAINS: NO...    48  1e-04
+SEQ gi|1769575|gb|AAB39993.1| (U82271) polyprotein [Foot-and-mouth d...    48  1e-04
+SEQ gi|3367677|emb|CAB10893.1| (Z98203) capsid [Foot-and-mouth disea...    47  2e-04
+SEQ gi|130448|sp|P03305|POLG_FMDVO GENOME POLYPROTEIN [CONTAINS: NON...    47  3e-04
+SEQ gi|1335422|emb|CAA25417.1| (X00871) capsid proteins precursor P8...    47  3e-04
+SEQ gi|8515116|gb|AAF75833.1| (AF204108) structural polyprotein [Foo...    47  3e-04
+SEQ gi|210386|gb|AAA96803.1| (M90381) capsid protein P1 [foot-and-mo...    46  5e-04
+SEQ gi|94360|pir||S03342 genome polyprotein - foot-and-mouth disease...    46  7e-04
+SEQ 
+## SEQUENCE PROFILE AND ENTROPY
+ SeqNo PDBNo   V   L   I   M   F   W   Y   G   A   P   S   T   C   H   R   K   Q   E   N   D  NOCC NDEL NINS ENTROPY RELENT WEIGHT
+    1    1     0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+    2    2     0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+    3    3     0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+    4    4     0   0   0   0   5   0  95   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.210      7  0.00
+    5    5     0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+    6    6     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100     0    0    0   0.029      0  0.00
+    7    7     0   0   0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0     0    0    0   0.014      0  0.00
+    8    8    86   1  12   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.476     15  0.00
+    9    9     0  16   2   4   0   0   0   0  14   0   1   0   0   0  49   0   2   3   0   8     0    0    0   1.591     53  0.00
+   10   10     2   1   1   4   0   0   0   0   1   0  49  11   0   0   0   0  31   0   0   0     0    0    0   1.296     43  0.00
+   11   11     0  30  53   1   0   0   0   0   0   0   0  10   0   0   0   0   0   0   0   5     0    0    0   1.153     38  0.00
+   12   12     3   0   0   0   0   0   0   0   0   0   0  79   0   0   7   4   8   0   0   0     0    0    0   0.824     27  0.00
+   13   13     6  63   8   0   0   0   0   0   6   0   0   0   0   0   2   8   0   0   7   0     0    0    0   1.321     44  0.00
+   14   14     0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   15   15     3   0   0   0   0   0   0   0   0   0   0   8   0   6   0   0   0   0  80   3     0    0    0   0.775     25  0.00
+   16   16     0   0   0   0   0   0   0   0   0   0  87  13   0   0   0   0   0   0   0   0     0    0    0   0.394     13  0.00
+   17   17     3   0   3   0   0   0   0   0   3   0   1  89   1   0   0   0   0   0   0   0     0    0    0   0.507     16  0.00
+   18   18     0   0  87   0   0   0   0   0   0   0   7   5   0   0   0   0   0   0   0   0     0    0    0   0.503     16  0.00
+   19   19     1   0   8   0   0   0   0   0   0   0   0  83   0   0   0   0   0   0   8   0     0    0    0   0.628     20  0.00
+   20   20     0   0   0   0   0   0   0   0   0   0  11  89   0   0   0   0   0   0   0   0     0    0    0   0.363     12  0.00
+   21   21     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  99   0   0   0     0    0    0   0.040      1  0.00
+   22   22     0   0   0   0   0   0   0   3   0   0  13   0   0   0   0   0   0  74   7   2     0    0    0   0.868     28  0.00
+   23   23     2   0   0   0   0   0   0   0  26   0  23   5  43   0   0   0   0   0   0   0     0    0    0   1.314     43  0.00
+   24   24    23   0   0   0   0   0   0   0  76   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.582     19  0.00
+   25   25     0   0   0   0   0   0   0  23   0   0   0   0   0   0   0   1   0   0  76   0     0    0    0   0.603     20  0.00
+   26   26    56   0  11   0   0   0   0   0   6   0  19   3   0   0   6   0   0   0   0   0     0    0    0   1.324     44  0.00
+   27   27    73   6   9   0   0   0   0   0   0   0   0  10   2   0   0   0   0   0   0   0     0    0    0   0.922     30  0.00
+   28   28    78   1   1   0   1   0   7   0   0   0   1   0   3   0   0   0   0   0   6   0     0    0    0   0.951     31  0.00
+   29   29     0   0   0   0   0   0   0  61  25   0   1   9   4   0   0   0   0   0   0   0     0    0    0   1.037     34  0.00
+   30   30     0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.014      0  0.00
+   31   31     3   0   0   0   0   0   0  83   9   0   3   2   0   0   0   0   0   0   0   0     0    0    0   0.684     22  0.00
+   32   32    35   0   0   0   0   0   2   0   1   0   3   9   1   0  19   4   1  19   2   3     0    0    0   1.871     62  0.00
+   33   33     0   0   0   0   0  83   0   1   3   3   1   0   9   0   0   0   0   0   0   0     0    0    0   0.678     22  0.00
+   34   34     0   0   0   0   0   0   0   0   0  93   0   2   0   1   0   0   0   2   0   2     0    0    0   0.355     11  0.00
+   35   35     0   0   0   0   0   0   0   1   2   0  18  22   0   4   2   4   2  23   2  19     0    0    0   1.939     64  0.00
+   36   36     0   0   0   0  13   0  79   0   0   0   0   1   0   3   0   3   0   0   0   0     0    0    0   0.787     26  0.00
+   37   37     7  69   6   0   0   0   0   0   5   0   0   0  10   2   0   0   0   0   0   0     0    0    0   1.142     38  0.00
+   38   38     0   0   0   0   0   0   0   4   2   8  41   2   0   5  17  12   1   5   2   1     0    0    0   1.882     62  0.00
+   39   39     0   0   0   0   0   0   0   2   0   2   5   0   0   0   0   0   0   3   0  88     0    0    0   0.567     18  0.00
+   40   40     1   1   0   0   0   0   1   3   1   2  15   7   0  13   4   5   3  11   5  28     0    0    0   2.239     74  0.00
+   41   41    11   0   0   0   0   0   0   0   0   3   1   2   0   0   0   0   2  62   2  16     0    0    0   1.267     42  0.00
+   42   42     0   0   0   0   0   0   0   0  83   0   6  10   0   0   0   0   0   0   0   0     0    0    0   0.581     19  0.00
+   43   43     1   0   0   0   0   0   0   5   0   0  18  62   0   0   0   0   0   0  12   2     0    0    0   1.152     38  0.00
+   44   44     8   0   0   0   0   0   0   2  62  20   1   0   5   0   0   0   0   0   0   2     0    0    0   1.164     38  0.00
+   45   45    40   2   3   0   0   0   0   0  13   0   0   0   0   0   0   0   2  35   5   0     0    0    0   1.418     47  0.00
+   46   46     0   0   0   0   0   0   0   0   0   0   0   5   0   0   0   0   0   2   2  91     0    0    0   0.401     13  0.00
+   47   47     0   0   0   0   0   0   0   0   3   0   5   7   0   0   0  17  59   8   0   0     0    0    0   1.301     43  0.00
+   48   48     0   0   0   0   0   0   0  11   7  76   1   2   0   0   2   0   0   0   0   0     0    0    0   0.874     29  0.00
+   49   49     2   5   0   0   0   0   0   0   0   0   5  87   0   0   0   0   0   0   0   0     0    0    0   0.521     17  0.00
+   50   50     0   0   0   0   0   0   0   0   0   0   6   2   0   0  12   2  52  22   0   3     0    0    0   1.399     46  0.00
+   51   51     0   3   0   0   0   0   0   8   0  77   0   5   0   0   0   6   0   0   0   0     0    0    0   0.865     28  0.00
+   52   52     3   0   3   0   0   0   0  15   0   0   0   0   0   0   6   0   0   2   0  70     0    0    0   1.005     33  0.00
+   53   53    75   7   0   0   0   0   0   0   0  12   0   5   0   0   0   0   0   0   0   0     0    0    0   0.866     28  0.00
+   54   54     2   0   0   0   0   0   0   0  70   0  19   3   0   4   0   0   2   0   0   0     0    0    0   0.972     32  0.00
+   55   55    22   3   0   0   0   0   0   0  16   0   4  49   0   0   0   0   6   0   0   0     0    0    0   1.441     48  0.00
+   56   56     0   0   0   0   0   0   0   0   6   0  12   0  57   0   0   0   0  10  12   2     0    0    0   1.324     44  0.00
+   57   57     0   0   0   0   0   0   0   0   0   0   0   0   0   0  99   0   0   0   0   0     0    0    0   0.048      1  0.00
+   58   58     0   0   0   0  90   0   6   0   0   0   0   0   0   3   0   0   0   0   0   0     0    0    0   0.412     13  0.00
+   59   59     9   0   0   0   9   0  82   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.603     20  0.00
+   60   60     0   0   0   0   0   0   0   0   0   0   0  92   0   0   0   8   0   0   0   0     0    0    0   0.294      9  0.00
+   61   61     0  80   4   4   7   0   0   0   0   0   0   2   0   0   0   2   0   0   0   0     0    0    0   0.802     26  0.00
+   62   62     0   0   0   0   1   0   0   0   2   2   1   3   0   3   4  16   0  22   8  38     0    0    0   1.801     60  0.00
+   63   63     7  12   0   0   0   0   0   0   9   0  54  17   0   0   0   0   0   0   0   0     0    0    0   1.320     44  0.00
+   64   64    54   1   3   0   9   0   0   4   4   0   0   1   0   0   0  17   6   0   3   0     0    0    0   1.538     51  0.00
+   65   65     0   5   0   9   0   0   0   0   1   6  15   6   0   1   1  27  13   5   1  12     0    0    0   2.142     71  0.00
+   66   66     0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   67   67     2   0   0   1   0   0   0   6   1   4   6  30   0   5   2   2  17  22   3   0     0    0    0   2.030     67  0.00
+   68   68     0   0   0   2   0   0   0   1   4   7  30  17   0   0   1  31   3   2   2   0     0    0    0   1.780     59  0.00
+   69   69     0   0   0   0   0   0   0   5   5   0  31  20   0   0   0   0  10  16   6   6     0    0    0   1.873     62  0.00
+   70   70     0   0   0   0   1   0   0   0   0   0  68   1   0   0   0   4  21   0   4   2     0    0    0   0.990     33  0.00
+   71   71     1   0   0   0   5   0   0   0  15  19   2   3   0   5  10  25   1   5   0   9     0    0    0   2.131     71  0.00
+   72   72    13   0   0   0   2   0   0  76   4   4   0   1   0   0   0   0   0   0   0   0     0    0    0   0.865     28  0.00
+   73   73     0   0   0   0  10  56  16   2   0   0   0   0   0  13   2   0   0   0   0   0     0    0    0   1.306     43  0.00
+   74   74     0   3   0   6   1  45   9   0  11   0  13   0   4   0   2   0   0   5   0   0     0    0    0   1.801     60  0.00
+   75   75     0   0   0   0  14  63   6   0   0   0   0   1   2  11   0   0   0   2   0   0     0    0    0   1.229     41  0.00
+   76   76     1   1   5   0   0   0   0   0   0  10   0   0   0   2   0  66  14   0   0   0     0    0    0   1.131     37  0.00
+   77   77     6  62   0   0  26   0   0   0   0   0   0   0   5   0   0   0   0   0   0   0     0    0    0   0.984     32  0.00
+   78   78     6   2   0   0   0   0   0   0   0  87   1   0   0   0   0   0   0   5   0   0     0    0    0   0.542     18  0.00
+   79   79     0  11   0   0   0   0  14   0   0   0   0   0   0  10   0   0   0   9   0  56     0    0    0   1.323     44  0.00
+   80   80    15   2   0   0   0   0   0   0  66  11   0   0   1   0   0   5   0   0   0   0     0    0    0   1.131     37  0.00
+   81   81     0  87   0   0   0   0   0   0   0   2   0   7   0   3   0   0   0   0   0   0     0    0    0   0.586     19  0.00
+   82   82    13   0   0   0   0   0   0   0   1   0  19   7   0   0  15  19   0  13   4   7     0    0    0   2.061     68  0.00
+   83   83     0   0   0   0   0   0   0   0  12   6   1   0   0   6   0   5   3  10  11  45     0    0    0   1.776     59  0.00
+   84   84     1   6   1  48   0   0   0  10   0   0   0   7   0   2   0  10  13   1   0   0     0    0    0   1.703     56  0.00
+   85   85     0   0   0   0   0   0   0  86   0   0   0   1   0   0   0   1   0   7   2   3     0    0    0   0.598     19  0.00
+   86   86    30  41   5   4   0   0   0   0   0   1   5  13   0   0   0   0   0   0   0   0     0    0    0   1.460     48  0.00
+   87   87     0   0   0   0  89   0  10   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.379     12  0.00
+   88   88     0   0   0   0   0   0   0  79   1   0   0   0   0   5   0  14   0   0   0   0     0    0    0   0.701     23  0.00
+   89   89     0   0   0   0   0   0   0   5  19   0   8   1   0   3   0   0  54   9   0   0     0    0    0   1.427     47  0.00
+   90   90     5  25   0   0   0   0   0   0   4   0   0   6   0   0   0   0   0   0  59   0     0    0    0   1.144     38  0.00
+   91   91    16  17   0  56   0   0   0   0   7   0   0   3   0   0   0   0   0   0   0   0     0    0    0   1.260     42  0.00
+   92   92     0   4   0   1  11   0  17   0   0   0  12   1   0   1  10  11  26   1   0   6     0    0    0   2.105     70  0.00
+   93   93     0   0   0   0  11   0  48   0   3   0  14   1   0   0  12  11   0   0   0   0     0    0    0   1.515     50  0.00
+   94   94     0   0   0   0   1   0  11   0   0   0   0   0   0  88   0   0   0   0   0   0     0    0    0   0.393     13  0.00
+   95   95     0   0   0   0   6   0  60   0  12   0   4   0   0   5   0   0  14   0   0   0     0    0    0   1.277     42  0.00
+   96   96     0  86   1   0   0   0  12   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.464     15  0.00
+   97   97    10   9   1  17   0   0  10  49   1   0   0   0   4   0   0   0   0   0   0   0     0    0    0   1.540     51  0.00
+   98   98     0   0   0   0   0   0   0   0   0   0   0   0   0   0  70  29   0   0   0   0     0    0    0   0.644     21  0.00
+   99   99     0   0   0   0   0   0   0   3  11   0  35  18  15   0   0   0   0   0  17   0     0    0    0   1.633     54  0.00
+  100  100     0   0   0   0   0   0   0  94   0   0   1   0   6   0   0   0   0   0   0   0     0    0    0   0.261      8  0.00
+  101  101     0   0   0   0   6  44  49   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.907     30  0.00
+  102  102     5   1   8   1   0   0   0   0   3   0   0  49   5   0  10   0   0   0   0  17     0    0    0   1.622     54  0.00
+  103  103    63   1  32   0   0   0   0   0   2   0   0   0   1   0   0   0   0   0   0   1     0    0    0   0.845     28  0.00
+  104  104     5   0   0   0   0   0   0   0   0   0   0   0   0  59   0   0  24  12   0   0     0    0    0   1.058     35  0.00
+  105  105    99   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.086      2  0.00
+  106  106     0   0   0   0   0   0   0   0   0   0   3   9   0   0   0   0  87   0   0   0     0    0    0   0.477     15  0.00
+  107  107    11   0   9   0   0   0   0   0  12   0   0   0  69   0   0   0   0   0   0   0     0    0    0   0.956     31  0.00
+  108  108    12   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  88   0     0    0    0   0.380     12  0.00
+  109  109     0   0   0   0   0   0   0  12  73   1   1  14   0   0   0   0   0   0   0   0     0    0    0   0.837     27  0.00
+  110  110     0   0   0   0   0   0   0   0   0   0  67  21   0   0   0   0   0   0  12   0     0    0    0   0.869     29  0.00
+  111  111     0   0   0   0   5   0   0   0   0   0   0   0   0   0  14  59  22   0   0   0     0    0    0   1.071     35  0.00
+  112  112     0   0   0   0  95   0   0   0   5   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.224      7  0.00
+  113  113     0   0   0   0   0   0   0   0   0   0   0   0   0  88   0   0   0   0  12   0     0    0    0   0.359     11  0.00
+  114  114     0   0   0   0   0   0   0  26  10   0   9   0   0   0   0   0  55   0   0   0     0    0    0   1.123     37  0.00
+  115  115     0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+  116  116     0   1   0   0   0   0   0   1  25   1  10  11  52   0   0   0   0   0   0   0     0    0    0   1.288     42  0.00
+  117  117     0  89  10   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.368     12  0.00
+  118  118     0  62   4   0   0   0   0  28   0   0   0   0   5   0   0   0   0   0   0   0     0    0    0   0.972     32  0.00
+  119  119    98   0   1   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.120      4  0.00
+  120  120    33   2   0   0  37   0   0   0  27   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.187     39  0.00
+  121  121     7   8   2  21   0   0   0   0  38   0   0   0  24   0   0   0   0   0   0   0     0    0    0   1.499     50  0.00
+  122  122    55   5  30   0   0   0   0   0  10   0   0   1   0   0   0   0   0   0   0   0     0    0    0   1.104     36  0.00
+  123  123     0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0     0    0    0   0.023      0  0.00
+  124  124     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100   0   0     0    0    0   0.023      0  0.00
+  125  125     0   3   0   9  21   4  23   0  25   0   0   0   0  16   0   0   0   0   0   0     0    0    0   1.742     58  0.00
+  126  126     7   0   0   0   0   0   6   1   0   5  12   3  19   0   0   5  17  22   3   0     0    0    0   2.142     71  0.00
+  127  127     8  33  15  28   0   0   0   0   1   0   1  11   0   0   0   1   0   2   0   1     0    0    0   1.684     56  0.00
+  128  128     0   7   2   0  11   0   2  30  41   0   2   4   0   0   0   1   0   0   0   0     0    0    0   1.562     52  0.00
+  129  129     0   0   0   0   0   0   2  43   7   1  22   4   3   0   2   0   0   1   3  13     0    0    0   1.738     58  0.00
+  130  130     5   0   5   0   0   0   0   0  19   2   3   9  10   4   6   6   1   2   4  22     0    0    0   2.363     78  0.00
+  131  131     2   3   0   1   6   0   0   9  10   8  30  12   0   0   5   3   1   4   4   1     0    0    0   2.324     77  0.00
+  132  132     4   0   1   0   0   0   0   9   7   0   2  18   0   3   0   3   8   8  18  18     0    0    0   2.239     74  0.00
+  133  133     1   6   0   5   0   0   0  19   4   4   2  15   1   1   5  17   3  10   2   5     0    0    0   2.403     80  0.00
+  134  134     0   0   0   0   0   0   5   1   1   4   5  11   0  11   1   3  16  10  13  19     0    0    0   2.258     75  0.00
+  135  135    12   0   0   2   0   0   0   3   7   0   9  20   0   0   8  14   6   4  12   0     0    0    0   2.252     75  0.00
+  136  136     4   8   0   5   6   0  20   5   4   2   8   9   1  17   5   1   2   0   4   0     0    0    0   2.500     83  0.00
+  137  137    12   1   0   0   0   5   0   0   6  16   9  33   1   0   0   0   0   6   6   3     0    0    0   2.031     67  0.00
+  138  138     0   2   2   0   0   0   0  11   7   6  27   4   0   6   0  20   0   1  12   1     0    0    0   2.111     70  0.00
+  139  139     2   1   0   0   6   4  41   1  10   0   5  12   0   1   0   6   1   2   9   0     0    0    0   2.010     67  0.00
+  140  140     2   7   2   0   0   0   0   8  23   0   6   4   0   1   2  16   8   7   4  10     0    0    0   2.364     78  0.00
+  141  141     1  10   0   1   3   1   5   9   1   0   0   5   0   4   3   7   6   5  32   6     0    0    0   2.357     78  0.00
+  142  142     1  18   2   5   1   6   0  10  21   1   7  24   0   2   0   0   0   0   1   0     0    0    0   2.098     70  0.00
+  143  143     2   3   0   3   0   0   0   0   0   6  23   4   2  12   0   1   8   5  29   1     0    0    0   2.100     70  0.00
+  144  144     2   0   5   0   0   0   0   6   2  63   2   0   0   0   0   4   1   7   8   0     0    0    0   1.442     48  0.00
+  145  145     0   6   0   0   1   1   0  70   0   0  13   2   0   0   0   1   0   2   2   2     0    0    0   1.187     39  0.00
+  146  146     0   1   0   1   0   0   0   0   8   0   2   6   0   1   0   2   7  48   1  22     0    0    0   1.613     53  0.00
+  147  147     5   0  11   4   0   0   0   0   6   0   6   8   0   1  17  17   3  11   3   7     0    0    0   2.429     81  0.00
+  148  148     0   0   0   0   1  12   2  49  23   9   0   1   0   0   0   1   0   0   0   0     0    0    0   1.492     49  0.00
+  149  149     0   0   3   4   6   0   2  39   9   0   3   0   0   1   9   8   0   1   1  12     0    0    0   2.060     68  0.00
+  150  150     2   0   0   0   0   1   7   0   6   0   3  12   0   0   5  24   4  30   1   5     0    0    0   2.022     67  0.00
+  151  151     8  10   4   2  55   4   2   0   0   0   3  11   0   0   0   0   0   0   0   1     0    0    0   1.605     53  0.00
+  152  152     2   1   1   0   0   0  25   4   7   1  16  22   0   0   0   6  11   1   0   0     0    0    0   2.061     68  0.00
+  153  153     2   0   3   0   2   0   4  11   7   0  22  13   0   6   1  10   9   3   2   3     0    0    0   2.460     82  0.00
+  154  154     0   0   0   2   0   9   1   0   4  18   5  11   0   2   1   2  27  14   2   2     0    0    0   2.188     73  0.00
+  155  155     3   9   0   0  41   4   3   0   4   0   2  11   0  13   1   3   2   0   0   1     0    0    0   2.021     67  0.00
+  156  156     3   1   0   0   0   2   1   2   7   1  13  21   0   3   0   0   0   9  29   7     0    0    0   2.094     69  0.00
+  157  157     1   6   0   8   1   0   7   2   8  23   3   6   0   0  12  12   0   1   3   4     0    0    0   2.398     80  0.00
+  158  158     2   1   1   0   0   0   0   1   3   1   1   4   0   2   0  10   8   7   0  57     0    0    0   1.607     53  0.00
+  159  159     0   0   0   0   0   0   0  12   2   2   0  18   0   3   1  13   5   3  30   9     0    0    0   2.049     68  0.00
+  160  160     8   1   1  11   0   0   0   5  19  13   5   9   0   2   1   2   4   7  13   1     0    0    0   2.370     79  0.00
+  161  161    25   4   1   1   9   8  11   1   9   2   1  11   0   0   1   2  10   1   1   3     0    0    0   2.345     78  0.00
+  162  162     1   2   0   0   0   0   2  11  11   1  12  34   1   3   8   1   8   1   1   2     0    0    0   2.156     71  0.00
+  163  163     0   0   4   6   0   0   0  10   7   1  30  17   0   0   0   2   6   4   6   5     0    0    0   2.186     72  0.00
+  164  164     6   0   0   0   0   0   0   4   6  39   4   6   0   2   0   1   3   4   1  24     0    0    0   1.879     62  0.00
+  165  165     6   0   0   0   0   0   0   1  13   0   7   8   0   8   0  30  16   2   2   7     0    0    0   2.088     69  0.00
+  166  166     5   0   0   0   0   0   0   5   3   0   4   9   0  20  26   8   7   2   6   3     0    0    0   2.227     74  0.00
+  167  167     0   2   0   0   0  16   0   2  17   0   4   0   0   3   5   8   7  17  12   7     0    0    0   2.263     75  0.00
+  168  168    19   5   3   1  30   5  21   0   3  10   2   0   0   1   0   0   0   0   0   0     0    0    0   1.887     62  0.00
+  169  169     5   1   2   0   0   9   4   2   1   1   1  14  27   0   0  20   9   0   4   0     0    0    0   2.154     71  0.00
+  170  170     9   0   0   0   0   0   0  10   5  48   4   3   0   0   3   4   5   0   7   2     0    0    0   1.841     61  0.00
+  171  171    35   4   4   0   2   0   8   0  15   4   1   4   0   0   0   2   1  17   1   2     0    0    0   2.023     67  0.00
+  172  172    15   2   6   0   0   0   0   1   4   1   7   0   0   0   9   0   3  16  11  25     0    0    0   2.147     71  0.00
+  173  173     0   0   1   3   1  13  50   0   6   0   0   1   1   7   0   4  12   3   1   0     0    0    0   1.696     56  0.00
+  174  174     8  29   0   0   0   1   0   5   3  10   1   1   1   0   0   1   9   0  25   8     0    0    0   1.960     65  0.00
+  175  175     0  25   0  10   8   0  12   1  22   2   5   0   0   2   5   0   1   0   9   0     0    0    0   2.093     69  0.00
+  176  176     0   0   0   0   8   0   3  61   4   0   0   1   3   0   4   1   2   0   3  10     0    0    0   1.488     49  0.00
+  177  177     6   1   0  34   1   3   0   4  11   0   4   5  12   0   0   0   0   0   9  12     0    0    0   2.082     69  0.00
+  178  178     0   0   0   0   0   0   0  99   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.057      1  0.00
+  179  179    46   1  19   3   7   0   0   0   0   0   1  23   0   0   0   0   0   0   0   0     0    0    0   1.386     46  0.00
+  180  180     0  31   0   0   7   0   0  17  12  10  22   0   0   0   0   0   0   0   0   0     0    0    0   1.760     58  0.00
+  181  181    27  38   7   0   0   0   0   0  10  18   0   1   0   0   0   0   0   0   0   0     0    0    0   1.479     49  0.00
+  182  182     0   1   0   4   0   0   3  63   1   0   7   2   2   0   0   0  17   0   0   0     0    0    0   1.289     43  0.00
+  183  183     0   0   0   0   0   0   0   0   0   0  18   0   1   0   0   0  19   0  62   0     0    0    0   0.956     31  0.00
+  184  184     1  63   3   0   0   5   0   0  19   0   2   0   0   6   0   0   0   0   0   0     0    0    0   1.174     39  0.00
+  185  185     0  13   0   0  30   0   0   0   0   1   0  55   0   0   0   0   0   0   0   0     0    0    0   1.008     33  0.00
+  186  186    31  17  38   0   0   0   0   0   0   0   0   0  14   0   0   0   0   0   0   0     0    0    0   1.326     44  0.00
+  187  187     0   0   0   0  60   0  34   0   0   0   0   0   5   0   0   0   0   0   0   0     0    0    0   0.847     28  0.00
+  188  188     0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+  189  189     0   0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0     0    0    0   0.023      0  0.00
+  190  190     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0     0    0    0   0.023      0  0.00
+  191  191     0  19  20   0  27  33   1   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.402     46  0.00
+  192  192     1  16  83   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.480     16  0.00
+  193  193     0   0   0   0   0   0   0   0   0   0   3   0   0   0   0   0   0   0  97   0     0    0    0   0.137      4  0.00
+  194  194     0  73   0   1   0   0   0   0   0  26   0   0   0   0   0   0   0   0   0   0     0    0    0   0.610     20  0.00
+  195  195     0   0   0   0   0   0   0   0   0   0   0   0   0   0  99   0   0   0   0   0     0    0    0   0.045      1  0.00
+  196  196     0   0   0   0   0   0   0   0   0   0   6  93   0   0   0   0   0   0   0   0     0    0    0   0.298      9  0.00
+  197  197     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  99   0     0    0    0   0.045      1  0.00
+  198  198     0   0   0  12   0   0   0   0   0   0  19  11   0   0   0   0   0   0  59   0     0    0    0   1.132     37  0.00
+  199  199     0   0   0   0   0   0   0   0   0   0  59  26  15   0   0   0   0   0   0   0     0    0    0   0.946     31  0.00
+  200  200    15   0   0   0   0   0   0   0  85   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.444     14  0.00
+  201  201     0   0   0   0   0   0   0   0   0   0   0  72   0  17   0   0   0   0   0  10     0    0    0   0.792     26  0.00
+  202  202     0  46  54   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.689     23  0.00
+  203  203    50   0  14   0   0   0   0   0   0   0   0  11  14   0   0   0   0  11   0   0     0    0    0   1.434     47  0.00
+  204  204    37  26   8  28   0   0   0   0   2   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.344     44  0.00
+  205  205     0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0     0    0    0   0.023      0  0.00
+  206  206     0   0   0   0   8   1  92   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.307     10  0.00
+  207  207    57   4  30   4   0   0   0   0   0   0   0   5   0   0   0   0   0   0   0   0     0    0    0   1.094     36  0.00
+  208  208     0   0   0   0   0   0   0  18   0   0   0   0   0   0   0   0   0   0  67  14     0    0    0   0.877     29  0.00
+  209  209    17   0   6   0   0   0   0   0  19   6  33   3  16   0   0   0   0   0   0   0     0    0    0   1.747     58  0.00
+  210  210    32  21   2   0   0   0   0  20  11   0   0   1   0   0   0   0   0   0  12   0     0    0    0   1.674     55  0.00
+  211  211     0   0   0   0   0   0   0   0   6  72   9   0   0   0  13   0   1   0   0   0     0    0    0   0.936     31  0.00
+  212  212     0   2  30  33   6   0  12   0   0   1   4  11   0   0   0   0   0   0   0   0     0    0    0   1.680     56  0.00
+  213  213     0   0   0   0   0   0   0   0   0   0  11  20   0   0   0   0   0   1   0  69     0    0    0   0.852     28  0.00
+  214  214     0   0   0   0   1   0   0   0   0   0  42   0   1   0   0   0  13   0  29  14     0    0    0   1.353     45  0.00
+  215  215    14   5   0  46   0  10  12   2   8   1   0   0   0   0   0   0   0   0   0   0     0    0    0   1.643     54  0.00
+  216  216    14   7   5   0  17   0   7   0   1   0   0  35   0   0   1  12   0   0   1   0     0    0    0   1.873     62  0.00
+  217  217    18   6   0   0   0   0   0   0   0   0   1   0   0   0  35  18  16   0   6   0     0    0    0   1.659     55  0.00
+  218  218     0   0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+  219  219     0   0   0   0   0   0  10   0  11   0   2   0  20   2   4  10   1   0  41   0     0    0    0   1.706     56  0.00
+  220  220     0   0   0   0   0   0   0   0   0  33   5   0   0   0   0   0   0   0  61   0     0    0    0   0.861     28  0.00
+  221  221     7   0   0   0  26  67   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.824     27  0.00
+  222  222     0   0   0   0   0   0   0  20  14   0   8  57   1   0   0   0   0   0   0   0     0    0    0   1.154     38  0.00
+  223  223     1  66  33   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.708     23  0.00
+  224  224    48   5   1  27   0   0   0   0  18   0   1   0   0   0   0   0   0   0   0   0     0    0    0   1.264     42  0.00
+  225  225    49   1  50   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.766     25  0.00
+  226  226    20  21  35  13   0   0   0   0  10   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.538     51  0.00
+  227  227    38   0   5   0   0   0   0   0   0  56   0   0   0   0   0   0   0   0   0   0     0    0    0   0.867     28  0.00
+  228  228    22  42  11   0  25   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.283     42  0.00
+  229  229    14   0   0   0   0   0   0   0  41   0  26   1   5   0  14   0   0   0   0   0     0    0    0   1.462     48  0.00
+  230  230     0   0   0   0   0   0   0   0   0  69   0   0   0   0   0   9  11  11   0   1     0    0    0   0.982     32  0.00
+  231  231     0 100   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.024      0  0.00
+  232  232     0   6   0   0   0   0   0   0   4   0   2  33   0   0   1   3   8   7   7  28     0    0    0   1.865     62  0.00
+  233  233    26   0   0   0  21   0  33   6   1   0   4   5   0   4   0   0   0   0   0   0     0    0    0   1.706     56  0.00
+  234  234     5   0   0   0   0   0   0   1  38   9  22   2   4   0   0   0   0   1  13   5     0    0    0   1.829     61  0.00
+  235  235     1   1   0   1   0   0   0   7   7  10  11  35   0   0   0   0  12   0  12   4     0    0    0   1.991     66  0.00
+  236  236     1   0   2   0   0   0   0  53   4   0   4   5   0   0   0   0   9  14   1   7     0    0    0   1.600     53  0.00
+  237  237     0   0   1   0   0   0   0  25  32   0  33   9   0   0   0   0   0   0   0   0     0    0    0   1.364     45  0.00
+  238  238     0   0   0   0   0   0   0   0  14   1  46  35   0   0   0   0   0   0   5   0     0    0    0   1.183     39  0.00
+  239  239     7   0   2   0   0   0   1   1   1  39   6  36   0   0   0   0   6   0   1   0     0    0    0   1.530     51  0.00
+  240  240     6   2   1   0   3   0  23   0   0   0  21   3   0   1   0   0  14  17   2   6     0    0    0   2.072     69  0.00
+  241  241    54   8  37   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.945     31  0.00
+  242  242     0   0   0   0   0   0   0   1   1  61   1   0   0   0   0  12   5   0   0  19     0    0    0   1.147     38  0.00
+  243  243    20   0  79   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.526     17  0.00
+  244  244     0   0   0   0   0   0  13   0   0   0   0  73   0   0   0   0   0   0  14   0     0    0    0   0.808     26  0.00
+  245  245    55   8  10   5   0   0   0   0  22   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.262     42  0.00
+  246  246     0   0   0   0   0   0   0   0   0   0  35  52   0   0   0   0   0   0  13   0     0    0    0   0.990     33  0.00
+  247  247    28  18  53   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.026     34  0.00
+  248  248     0   0   0   0   0   0   0   0  85   0   4   1   0   0   0   0  10   0   0   0     0    0    0   0.544     18  0.00
+  249  249     0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+  250  250    12   0   6  65   0   0   0   0   0   0   0   0  16   0   0   0   0   0   0   0     0    0    0   1.049     35  0.00
+  251  251     0   0   0   0   1   0   0   0   1   0   4   0  55   0   6   0   0   4  15  14     0    0    0   1.419     47  0.00
+  252  252    16   0   0   0   0   0   0   0  40  12  14   8   9   0   0   0   0   0   0   0     0    0    0   1.652     55  0.00
+  253  253    12   0   0   6   0   0   0   0   0   0   0   0   0   0   0   0   1  80   0   0     0    0    0   0.663     22  0.00
+  254  254     6   0   0   0  46   0  48   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.904     30  0.00
+  255  255     0   0   0   0   0   0   0   0   6   0   8   1   0  17   0   0   0   0  68   0     0    0    0   0.989     33  0.00
+  256  256     0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+  257  257     0  92   3   0   0   0   0   0   4   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.351     11  0.00
+  258  258     0   0   0   0   0   0   0   0   0   6   0   0   0   0  94   0   0   0   0   0     0    0    0   0.230      7  0.00
+  259  259     0   2   0   0   0   0   0   0   4   0   7   0   0  23   5   0  11   0  48   0     0    0    0   1.467     48  0.00
+  260  260    18   0  22   0   0   0   0   0  19  14   2   0   0   0   0   5   0  21   0   0     0    0    0   1.776     59  0.00
+  261  261    13   0   6   0   0   0   0   0   0   0   0  67   0   0   0   0   0  14   0   0     0    0    0   0.975     32  0.00
+  262  262     9  20   1   0   0   0   0   0  51   0   1  16   0   0   0   0   1   0   0   0     0    0    0   1.346     44  0.00
+  263  263     0   0   0   0   0   0   0   0   0  82   0   0   0   0   0   0  18   0   0   0     0    0    0   0.476     15  0.00
+  264  264     2   0   0   0   0   0   0  23   2   0   0   0   0   0  39  32   2   0   0   0     0    0    0   1.287     42  0.00
+  265  265     0  33   0   0  53   0   0   0   0   0   0  13   0   2   0   0   0   0   0   0     0    0    0   1.038     34  0.00
+  266  266     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0     0    0    0   0.000      0  0.00
+//

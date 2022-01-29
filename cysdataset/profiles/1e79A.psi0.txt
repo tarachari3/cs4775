@@ -1,0 +1,1498 @@
+ID Pseudo hssp file.
+SEQ 
+SEQ gi|1942370|pdb|1EFR|C Chain C, Bovine Mitochondrial F1-Atpase Co...   924  0.0
+SEQ gi|9256938|pdb|1E1Q|A Chain A, Bovine Mitochondrial F1-Atpase At...   924  0.0
+SEQ gi|114402|sp|P19483|ATP0_BOVIN ATP SYNTHASE ALPHA CHAIN HEART IS...   922  0.0
+SEQ gi|4757810|ref|NP_004037.1| ATP synthase, H+ transporting, mitoc...   916  0.0
+SEQ gi|6680748|ref|NP_031531.1| ATP synthase, H+ transporting, mitoc...   914  0.0
+SEQ gi|6729934|pdb|1MAB|A Chain A, Rat Liver F1-Atpase                    911  0.0
+SEQ gi|114523|sp|P15999|ATPA_RAT ATP SYNTHASE ALPHA CHAIN, MITOCHOND...   910  0.0
+SEQ gi|14009437|dbj|BAB47389.1| (AB042437) mitochondrial ATP synthas...   868  0.0
+SEQ gi|114535|sp|P08428|ATPA_XENLA ATP SYNTHASE ALPHA CHAIN, MITOCHO...   850  0.0
+SEQ gi|14125001|gb|AAH08028.1|AAH08028 (BC008028) Unknown (protein f...   850  0.0
+SEQ gi|5921205|sp|P35381|ATPA_DROME ATP SYNTHASE ALPHA CHAIN, MITOCH...   809  0.0
+SEQ gi|7504983|pir||T23128 hypothetical protein H28O16.1 - Caenorhab...   796  0.0
+SEQ gi|1556441|emb|CAA69203.1| (Y07895) mitochondrial ATP synthase a...   787  0.0
+SEQ gi|13938339|gb|AAH07299.1|AAH07299 (BC007299) Similar to ATP syn...   760  0.0
+SEQ gi|2447011|dbj|BAA22508.1| (D37948) F1F0-ATPase alpha subunit pr...   702  0.0
+SEQ gi|114526|sp|P24487|ATPA_SCHPO ATP SYNTHASE ALPHA CHAIN, MITOCHO...   701  0.0
+SEQ gi|6319370|ref|NP_009453.1| mitochondrial F1F0-ATPase alpha subu...   700  0.0
+SEQ gi|1660995|dbj|BAA13613.1| (D88458) defective F1F0-ATPase alpha ...   700  0.0
+SEQ gi|1352026|sp|P49375|ATPA_KLULA ATP SYNTHASE ALPHA CHAIN, MITOCH...   700  0.0
+SEQ gi|2447013|dbj|BAA22509.1| (D37949) defective F1F0-ATPase alpha ...   700  0.0
+SEQ gi|584806|sp|P37211|ATPA_NEUCR ATP SYNTHASE ALPHA CHAIN, MITOCHO...   699  0.0
+SEQ gi|13111901|gb|AAH03119.1|AAH03119 (BC003119) Similar to ATP syn...   688  0.0
+SEQ gi|11497478|ref|NP_042268.1| H(+)-transporting ATPase, subunit 1...   683  0.0
+SEQ gi|171116|gb|AAA66888.1| (J02603) ATPase 1 alpha subunit [Saccha...   680  0.0
+SEQ gi|11466576|ref|NP_066466.1| ATP synthase F1 subunit alpha [Rhod...   679  0.0
+SEQ gi|2147140|pir||S62702 H+-transporting ATP synthase (EC 3.6.1.34...   677  0.0
+SEQ gi|13473458|ref|NP_105025.1| ATP synthetase alpha [Mesorhizobium...   676  0.0
+SEQ gi|11466531|ref|NP_044780.1| ATP synthase F1 subunit alpha [Recl...   675  0.0
+SEQ gi|6066186|gb|AAF03204.1|AF110138_36 (AF110138) ATP synthase F1 ...   674  0.0
+SEQ gi|11467148|ref|NP_054447.1| atpA [Marchantia polymorpha] >gi|41...   674  0.0
+SEQ gi|114525|sp|P05036|ATPA_RHORU ATP SYNTHASE ALPHA CHAIN >gi|6781...   667  0.0
+SEQ gi|3410894|dbj|BAA32243.1| (AB007034) F1 ATPase subunit alpha [B...   660  0.0
+SEQ gi|114408|sp|P05492|ATP0_OENBI ATP SYNTHASE ALPHA CHAIN, MITOCHO...   658  0.0
+SEQ gi|543866|sp|P05493|ATP0_PEA ATP SYNTHASE ALPHA CHAIN, MITOCHOND...   658  0.0
+SEQ gi|100086|pir||A26760 H+-transporting ATP synthase (EC 3.6.1.34)...   658  0.0
+SEQ gi|13725|emb|CAA34060.1| (X15918) ATP synthase alpha subunit (AA...   658  0.0
+SEQ gi|114409|sp|P15998|ATP0_ORYSA ATP SYNTHASE ALPHA CHAIN, MITOCHO...   657  0.0
+SEQ gi|903838|gb|AAA70290.1| (M24234) F-1-ATPase alpha subunit [Oeno...   657  0.0
+SEQ gi|114524|sp|P05439|ATPA_RHOBL ATP SYNTHASE ALPHA CHAIN >gi|7954...   657  0.0
+SEQ gi|2493020|sp|P72245|ATPA_RHOCA ATP SYNTHASE ALPHA CHAIN >gi|152...   657  0.0
+SEQ gi|9695382|ref|NP_037604.1| ATP synthase F1 subunit alpha [Phyto...   657  0.0
+SEQ gi|114405|sp|P05494|ATP0_MAIZE ATP SYNTHASE ALPHA CHAIN, MITOCHO...   656  0.0
+SEQ gi|344002|dbj|BAA00131.1| (D00193) F1 ATPase alpha-subunit type ...   656  0.0
+SEQ gi|231585|sp|Q01915|ATP0_SOYBN ATP SYNTHASE ALPHA CHAIN, MITOCHO...   656  0.0
+SEQ gi|13425167|gb|AAK25411.1| (AE006004) ATP synthase F1, alpha sub...   656  0.0
+SEQ gi|114411|sp|P24459|ATP0_PHAVU ATP SYNTHASE ALPHA CHAIN, MITOCHO...   655  0.0
+SEQ gi|5305369|gb|AAD41619.1|AF071550_4 (AF071550) ATP synthase alph...   655  0.0
+SEQ gi|114419|sp|P12862|ATP0_WHEAT ATP SYNTHASE ALPHA CHAIN, MITOCHO...   654  0.0
+SEQ gi|9838493|ref|NP_064105.1| ATPase subunit 1 [Beta vulgaris] >gi...   653  0.0
+SEQ gi|2118184|pir||S46508 H+-transporting ATP synthase (EC 3.6.1.34...   650  0.0
+SEQ gi|114404|sp|P18260|ATP0_HELAN ATP SYNTHASE ALPHA CHAIN, MITOCHO...   648  0.0
+SEQ gi|2645893|gb|AAB87529.1| (AF034118) F1 ATPase a-subunit [Panax ...   646  0.0
+SEQ gi|100529|pir||S19261 H+-transporting ATP synthase (EC 3.6.1.34)...   646  0.0
+SEQ gi|13449389|ref|NP_085571.1| ATPase subunit 1 [Arabidopsis thali...   645  0.0
+SEQ gi|11263|emb|CAA48649.1| (X68690) ATPase subunit [Beta vulgaris]...   645  0.0
+SEQ gi|1421799|gb|AAB03873.1| (U61391) F1-ATPase alpha subunit [Petu...   645  0.0
+SEQ gi|114407|sp|P05495|ATP0_NICPL ATP SYNTHASE ALPHA CHAIN, MITOCHO...   644  0.0
+SEQ gi|9408184|emb|CAB99314.1| (AJ278689) F0-F1 ATPase alpha subunit...   644  0.0
+SEQ gi|114403|sp|P22201|ATP0_BRANA ATP SYNTHASE ALPHA CHAIN, MITOCHO...   641  0.0
+SEQ gi|114417|sp|P23413|ATP0_RAPSA ATP SYNTHASE ALPHA CHAIN, MITOCHO...   641  0.0
+SEQ gi|6561621|gb|AAF16965.1|AF197633_1 (AF197633) ATPase alpha subu...   641  0.0
+SEQ gi|903732|gb|AAA75456.1| (M65129) F1 ATPase alpha subunit [Helia...   640  0.0
+SEQ gi|6561666|gb|AAF17010.1|AF197678_1 (AF197678) ATPase alpha subu...   640  0.0
+SEQ gi|2829759|sp|P92549|ATP0_ARATH ATP SYNTHASE ALPHA CHAIN, MITOCH...   639  0.0
+SEQ gi|7436068|pir||T08113 H+-transporting ATP synthase (EC 3.6.1.34...   639  0.0
+SEQ gi|6561620|gb|AAF16964.1|AF197632_1 (AF197632) ATPase alpha subu...   635  0.0
+SEQ gi|6561610|gb|AAF16954.1|AF197622_1 (AF197622) ATPase alpha subu...   634  e-180
+SEQ gi|6561646|gb|AAF16990.1|AF197658_1 (AF197658) ATPase alpha subu...   632  e-180
+SEQ gi|6561624|gb|AAF16968.1|AF197636_1 (AF197636) ATPase alpha subu...   632  e-180
+SEQ gi|6561668|gb|AAF17012.1|AF197680_1 (AF197680) ATPase alpha subu...   632  e-180
+SEQ gi|6561622|gb|AAF16966.1|AF197634_1 (AF197634) ATPase alpha subu...   632  e-180
+SEQ gi|6561623|gb|AAF16967.1|AF197635_1 (AF197635) ATPase alpha subu...   632  e-180
+SEQ gi|3273584|gb|AAC24774.1| (AF039248) F1-ATPase alpha subunit [Fl...   630  e-179
+SEQ gi|3273578|gb|AAC24771.1| (AF039245) F1-ATPase alpha subunit [Sy...   630  e-179
+SEQ gi|6561692|gb|AAF17036.1|AF197704_1 (AF197704) ATPase alpha subu...   630  e-179
+SEQ gi|3273600|gb|AAC24782.1| (AF039256) F1-ATPase alpha subunit [Ac...   630  e-179
+SEQ gi|3273580|gb|AAC24772.1| (AF039246) F1-ATPase alpha subunit [An...   629  e-179
+SEQ gi|7620569|gb|AAF64671.1| (AF209113) F1 ATPase alpha subunit [Ly...   628  e-179
+SEQ gi|6561694|gb|AAF17038.1|AF197706_1 (AF197706) ATPase alpha subu...   628  e-179
+SEQ gi|6561659|gb|AAF17003.1|AF197671_1 (AF197671) ATPase alpha subu...   628  e-179
+SEQ gi|6561629|gb|AAF16973.1|AF197641_1 (AF197641) ATPase alpha subu...   627  e-179
+SEQ gi|1381689|gb|AAB02743.1| (U58831) F1-ATPase alpha subunit [Phoe...   627  e-179
+SEQ gi|2665936|gb|AAB88551.1| (AF036246) putative F1-ATP synthase al...   627  e-178
+SEQ gi|1381685|gb|AAB02741.1| (U58832) F1-ATPase alpha subunit [Cala...   626  e-178
+SEQ gi|6561625|gb|AAF16969.1|AF197637_1 (AF197637) ATPase alpha subu...   626  e-178
+SEQ gi|6561635|gb|AAF16979.1|AF197647_1 (AF197647) ATPase alpha subu...   626  e-178
+SEQ gi|6561697|gb|AAF17041.1|AF197709_1 (AF197709) ATPase alpha subu...   626  e-178
+SEQ gi|3273576|gb|AAC24770.1| (AF039244) F1-ATPase alpha subunit [Gy...   626  e-178
+SEQ gi|6561691|gb|AAF17035.1|AF197703_1 (AF197703) ATPase alpha subu...   626  e-178
+SEQ gi|12659355|gb|AAG60212.1| (AY009411) ATPase alpha subunit [Caly...   625  e-178
+SEQ gi|6561648|gb|AAF16992.1|AF197660_1 (AF197660) ATPase alpha subu...   625  e-178
+SEQ gi|12659381|gb|AAG60225.1| (AY009424) ATPase alpha subunit [Saur...   625  e-178
+SEQ gi|6226555|sp|O50288|ATPA_RICPR ATP SYNTHASE ALPHA CHAIN >gi|743...   625  e-178
+SEQ gi|3273586|gb|AAC24775.1| (AF039249) F1-ATPase alpha subunit [Cu...   624  e-177
+SEQ gi|6561609|gb|AAF16953.1|AF197621_1 (AF197621) ATPase alpha subu...   623  e-177
+SEQ gi|6561639|gb|AAF16983.1|AF197651_1 (AF197651) ATPase alpha subu...   623  e-177
+SEQ gi|6561660|gb|AAF17004.1|AF197672_1 (AF197672) ATPase alpha subu...   623  e-177
+SEQ gi|6561704|gb|AAF17048.1|AF197716_1 (AF197716) ATPase alpha subu...   623  e-177
+SEQ gi|6561618|gb|AAF16962.1|AF197630_1 (AF197630) ATPase alpha subu...   622  e-177
+SEQ gi|6561638|gb|AAF16982.1|AF197650_1 (AF197650) ATPase alpha subu...   622  e-177
+SEQ gi|6561699|gb|AAF17043.1|AF197711_1 (AF197711) ATPase alpha subu...   622  e-177
+SEQ gi|3273588|gb|AAC24776.1| (AF039250) F1-ATPase alpha subunit [Xa...   622  e-177
+SEQ gi|6561693|gb|AAF17037.1|AF197705_1 (AF197705) ATPase alpha subu...   622  e-177
+SEQ gi|6561705|gb|AAF17049.1|AF197717_1 (AF197717) ATPase alpha subu...   621  e-177
+SEQ gi|6561695|gb|AAF17039.1|AF197707_1 (AF197707) ATPase alpha subu...   621  e-177
+SEQ gi|1381687|gb|AAB02742.1| (U58833) F1-ATPase alpha subunit [Nypa...   621  e-177
+SEQ gi|6561652|gb|AAF16996.1|AF197664_1 (AF197664) ATPase alpha subu...   621  e-177
+SEQ gi|6561630|gb|AAF16974.1|AF197642_1 (AF197642) ATPase alpha subu...   620  e-176
+SEQ gi|6561696|gb|AAF17040.1|AF197708_1 (AF197708) ATPase alpha subu...   620  e-176
+SEQ gi|3273602|gb|AAC24783.1| (AF039257) F1-ATPase alpha subunit [Ca...   620  e-176
+SEQ gi|6561657|gb|AAF17001.1|AF197669_1 (AF197669) ATPase alpha subu...   619  e-176
+SEQ gi|3273604|gb|AAC24784.1| (AF039258) F1-ATPase alpha subunit [Er...   619  e-176
+SEQ gi|6561679|gb|AAF17023.1|AF197691_1 (AF197691) ATPase alpha subu...   619  e-176
+SEQ gi|6561672|gb|AAF17016.1|AF197684_1 (AF197684) ATPase alpha subu...   619  e-176
+SEQ gi|3273590|gb|AAC24777.1| (AF039251) F1-ATPase alpha subunit [Sm...   619  e-176
+SEQ gi|6561664|gb|AAF17008.1|AF197676_1 (AF197676) ATPase alpha subu...   619  e-176
+SEQ gi|6561688|gb|AAF17032.1|AF197700_1 (AF197700) ATPase alpha subu...   619  e-176
+SEQ gi|6561661|gb|AAF17005.1|AF197673_1 (AF197673) ATPase alpha subu...   619  e-176
+SEQ gi|6561631|gb|AAF16975.1|AF197643_1 (AF197643) ATPase alpha subu...   619  e-176
+SEQ gi|6561689|gb|AAF17033.1|AF197701_1 (AF197701) ATPase alpha subu...   619  e-176
+SEQ gi|6561669|gb|AAF17013.1|AF197681_1 (AF197681) ATPase alpha subu...   619  e-176
+SEQ gi|3273582|gb|AAC24773.1| (AF039247) F1-ATPase alpha subunit [Ve...   619  e-176
+SEQ gi|6561682|gb|AAF17026.1|AF197694_1 (AF197694) ATPase alpha subu...   619  e-176
+SEQ gi|6561654|gb|AAF16998.1|AF197666_1 (AF197666) ATPase alpha subu...   619  e-176
+SEQ gi|6561633|gb|AAF16977.1|AF197645_1 (AF197645) ATPase alpha subu...   618  e-176
+SEQ gi|6561637|gb|AAF16981.1|AF197649_1 (AF197649) ATPase alpha subu...   618  e-176
+SEQ gi|6561671|gb|AAF17015.1|AF197683_1 (AF197683) ATPase alpha subu...   617  e-176
+SEQ gi|6561663|gb|AAF17007.1|AF197675_1 (AF197675) ATPase alpha subu...   617  e-176
+SEQ gi|6561634|gb|AAF16978.1|AF197646_1 (AF197646) ATPase alpha subu...   617  e-176
+SEQ gi|3273596|gb|AAC24780.1| (AF039254) F1-ATPase alpha subunit [Al...   617  e-175
+SEQ gi|6561640|gb|AAF16984.1|AF197652_1 (AF197652) ATPase alpha subu...   617  e-175
+SEQ gi|12659367|gb|AAG60218.1| (AY009417) ATPase alpha subunit [Dios...   617  e-175
+SEQ gi|6561674|gb|AAF17018.1|AF197686_1 (AF197686) ATPase alpha subu...   616  e-175
+SEQ gi|12659387|gb|AAG60228.1| (AY009427) ATPase alpha subunit [Tetr...   616  e-175
+SEQ gi|7620559|gb|AAF64666.1| (AF209108) F1 ATPase alpha subunit [Pi...   616  e-175
+SEQ gi|6561673|gb|AAF17017.1|AF197685_1 (AF197685) ATPase alpha subu...   616  e-175
+SEQ gi|6561642|gb|AAF16986.1|AF197654_1 (AF197654) ATPase alpha subu...   616  e-175
+SEQ gi|6561687|gb|AAF17031.1|AF197699_1 (AF197699) ATPase alpha subu...   616  e-175
+SEQ gi|82013|pir||S17916 H+-transporting ATP synthase (EC 3.6.1.34) ...   616  e-175
+SEQ gi|6561676|gb|AAF17020.1|AF197688_1 (AF197688) ATPase alpha subu...   615  e-175
+SEQ gi|6561670|gb|AAF17014.1|AF197682_1 (AF197682) ATPase alpha subu...   614  e-175
+SEQ gi|6561678|gb|AAF17022.1|AF197690_1 (AF197690) ATPase alpha subu...   614  e-175
+SEQ gi|6561658|gb|AAF17002.1|AF197670_1 (AF197670) ATPase alpha subu...   614  e-175
+SEQ gi|6561649|gb|AAF16993.1|AF197661_1 (AF197661) ATPase alpha subu...   614  e-175
+SEQ gi|6561685|gb|AAF17029.1|AF197697_1 (AF197697) ATPase alpha subu...   614  e-175
+SEQ gi|12659385|gb|AAG60227.1| (AY009426) ATPase alpha subunit [Aris...   614  e-175
+SEQ gi|6561645|gb|AAF16989.1|AF197657_1 (AF197657) ATPase alpha subu...   614  e-174
+SEQ gi|6561617|gb|AAF16961.1|AF197629_1 (AF197629) ATPase alpha subu...   614  e-174
+SEQ gi|6561686|gb|AAF17030.1|AF197698_1 (AF197698) ATPase alpha subu...   613  e-174
+SEQ gi|6561677|gb|AAF17021.1|AF197689_1 (AF197689) ATPase alpha subu...   613  e-174
+SEQ gi|12659357|gb|AAG60213.1| (AY009412) ATPase alpha subunit [Cane...   612  e-174
+SEQ gi|3273606|gb|AAC24785.1| (AF039259) F1-ATPase alpha subunit [Ca...   612  e-174
+SEQ gi|6561684|gb|AAF17028.1|AF197696_1 (AF197696) ATPase alpha subu...   612  e-174
+SEQ gi|6561632|gb|AAF16976.1|AF197644_1 (AF197644) ATPase alpha subu...   612  e-174
+SEQ gi|6561615|gb|AAF16959.1|AF197627_1 (AF197627) ATPase alpha subu...   612  e-174
+SEQ gi|12659363|gb|AAG60216.1| (AY009415) ATPase alpha subunit [Cinn...   612  e-174
+SEQ gi|6561656|gb|AAF17000.1|AF197668_1 (AF197668) ATPase alpha subu...   611  e-174
+SEQ gi|6561650|gb|AAF16994.1|AF197662_1 (AF197662) ATPase alpha subu...   611  e-174
+SEQ gi|6561636|gb|AAF16980.1|AF197648_1 (AF197648) ATPase alpha subu...   611  e-174
+SEQ gi|12659349|gb|AAG60209.1| (AY009408) ATPase alpha subunit [Aris...   611  e-174
+SEQ gi|3273598|gb|AAC24781.1| (AF039255) F1-ATPase alpha subunit [Ve...   611  e-174
+SEQ gi|6561614|gb|AAF16958.1|AF197626_1 (AF197626) ATPase alpha subu...   611  e-174
+SEQ gi|6561605|gb|AAF16949.1|AF197617_1 (AF197617) ATPase alpha subu...   611  e-173
+SEQ gi|12659369|gb|AAG60219.1| (AY009418) ATPase alpha subunit [Drim...   610  e-173
+SEQ gi|12659347|gb|AAG60208.1| (AY009407) ATPase alpha subunit [Ambo...   610  e-173
+SEQ gi|12659345|gb|AAG60207.1| (AY009406) ATPase alpha subunit [Akeb...   610  e-173
+SEQ gi|12659375|gb|AAG60222.1| (AY009421) ATPase alpha subunit [Pipe...   610  e-173
+SEQ gi|6561680|gb|AAF17024.1|AF197692_1 (AF197692) ATPase alpha subu...   610  e-173
+SEQ gi|3273592|gb|AAC24778.1| (AF039252) F1-ATPase alpha subunit [Ta...   610  e-173
+SEQ gi|6561702|gb|AAF17046.1|AF197714_1 (AF197714) ATPase alpha subu...   610  e-173
+SEQ gi|6561703|gb|AAF17047.1|AF197715_1 (AF197715) ATPase alpha subu...   609  e-173
+SEQ gi|12659373|gb|AAG60221.1| (AY009420) ATPase alpha subunit [Nelu...   609  e-173
+SEQ gi|3273572|gb|AAC24768.1| (AF039242) F1-ATPase alpha subunit [Sa...   608  e-173
+SEQ gi|6561683|gb|AAF17027.1|AF197695_1 (AF197695) ATPase alpha subu...   608  e-173
+SEQ gi|6561667|gb|AAF17011.1|AF197679_1 (AF197679) ATPase alpha subu...   608  e-173
+SEQ gi|3273594|gb|AAC24779.1| (AF039253) F1-ATPase alpha subunit [Tr...   608  e-173
+SEQ gi|3273574|gb|AAC24769.1| (AF039243) F1-ATPase alpha subunit [Pi...   607  e-173
+SEQ gi|6561698|gb|AAF17042.1|AF197710_1 (AF197710) ATPase alpha subu...   607  e-173
+SEQ gi|12659365|gb|AAG60217.1| (AY009416) ATPase alpha subunit [Cory...   607  e-173
+SEQ gi|7620543|gb|AAF64658.1| (AF209100) F1 ATPase alpha subunit [Ma...   607  e-172
+SEQ gi|12659389|gb|AAG60229.1| (AY009428) ATPase alpha subunit [Trim...   606  e-172
+SEQ gi|12659353|gb|AAG60211.1| (AY009410) ATPase alpha subunit [Aust...   606  e-172
+SEQ gi|6561647|gb|AAF16991.1|AF197659_1 (AF197659) ATPase alpha subu...   605  e-172
+SEQ gi|12659351|gb|AAG60210.1| (AY009409) ATPase alpha subunit [Asim...   605  e-172
+SEQ gi|12659359|gb|AAG60214.1| (AY009413) ATPase alpha subunit [Cera...   604  e-172
+SEQ gi|7620547|gb|AAF64660.1| (AF209102) F1 ATPase alpha subunit [Ny...   603  e-171
+SEQ gi|6561626|gb|AAF16970.1|AF197638_1 (AF197638) ATPase alpha subu...   603  e-171
+SEQ gi|12659371|gb|AAG60220.1| (AY009419) ATPase alpha subunit [Knem...   602  e-171
+SEQ gi|6561643|gb|AAF16987.1|AF197655_1 (AF197655) ATPase alpha subu...   602  e-171
+SEQ gi|6561690|gb|AAF17034.1|AF197702_1 (AF197702) ATPase alpha subu...   602  e-171
+SEQ gi|6561619|gb|AAF16963.1|AF197631_1 (AF197631) ATPase alpha subu...   602  e-171
+SEQ gi|6561644|gb|AAF16988.1|AF197656_1 (AF197656) ATPase alpha subu...   602  e-171
+SEQ gi|12659377|gb|AAG60223.1| (AY009422) ATPase alpha subunit [Grev...   601  e-171
+SEQ gi|6561653|gb|AAF16997.1|AF197665_1 (AF197665) ATPase alpha subu...   601  e-170
+SEQ gi|6561641|gb|AAF16985.1|AF197653_1 (AF197653) ATPase alpha subu...   601  e-170
+SEQ gi|6561701|gb|AAF17045.1|AF197713_1 (AF197713) ATPase alpha subu...   600  e-170
+SEQ gi|6561665|gb|AAF17009.1|AF197677_1 (AF197677) ATPase alpha subu...   599  e-170
+SEQ gi|584805|sp|Q07405|ATPA_MYXXA ATP SYNTHASE ALPHA CHAIN (59 KD M...   599  e-170
+SEQ gi|6561613|gb|AAF16957.1|AF197625_1 (AF197625) ATPase alpha subu...   599  e-170
+SEQ gi|12659361|gb|AAG60215.1| (AY009414) ATPase alpha subunit [Hedy...   599  e-170
+SEQ gi|12659383|gb|AAG60226.1| (AY009425) ATPase alpha subunit [Schi...   598  e-170
+SEQ gi|6561627|gb|AAF16971.1|AF197639_1 (AF197639) ATPase alpha subu...   594  e-169
+SEQ gi|6561628|gb|AAF16972.1|AF197640_1 (AF197640) ATPase alpha subu...   594  e-169
+SEQ gi|7620563|gb|AAF64668.1| (AF209110) F1 ATPase alpha subunit [Gi...   594  e-168
+SEQ gi|6561700|gb|AAF17044.1|AF197712_1 (AF197712) ATPase alpha subu...   594  e-168
+SEQ gi|7620549|gb|AAF64661.1| (AF209103) F1 ATPase alpha subunit [Ag...   593  e-168
+SEQ gi|6561651|gb|AAF16995.1|AF197663_1 (AF197663) ATPase alpha subu...   592  e-168
+SEQ gi|7620541|gb|AAF64657.1| (AF209099) F1 ATPase alpha subunit [Tr...   587  e-166
+SEQ gi|6561662|gb|AAF17006.1|AF197674_1 (AF197674) ATPase alpha subu...   586  e-166
+SEQ gi|7436069|pir||F72231 ATP synthase F1, subunit alpha - Thermoto...   585  e-166
+SEQ gi|7620561|gb|AAF64667.1| (AF209109) F1 ATPase alpha subunit [Gn...   584  e-166
+SEQ gi|7620551|gb|AAF64662.1| (AF209104) F1 ATPase alpha subunit [Ar...   583  e-165
+SEQ gi|11266683|pir||A81427 H+-transporting ATP synthase (EC 3.6.1.3...   581  e-165
+SEQ gi|3913127|sp|O66907|ATPA_AQUAE ATP SYNTHASE ALPHA CHAIN >gi|743...   579  e-164
+SEQ gi|6561681|gb|AAF17025.1|AF197693_1 (AF197693) ATPase alpha subu...   578  e-164
+SEQ gi|5811566|dbj|BAA83611.1| (AB022018) F1F0-ATPase alpha subunit ...   576  e-163
+SEQ gi|7436071|pir||C71606 ATP synthase alpha chain PFB0795w - malar...   575  e-163
+SEQ gi|7620545|gb|AAF64659.1| (AF209101) F1 ATPase alpha subunit [Il...   575  e-163
+SEQ gi|6561606|gb|AAF16950.1|AF197618_1 (AF197618) ATPase alpha subu...   571  e-162
+SEQ gi|10176380|dbj|BAB07475.1| (AP001519) ATP synthase alpha subuni...   569  e-161
+SEQ gi|7620553|gb|AAF64663.1| (AF209105) F1 ATPase alpha subunit [Po...   567  e-161
+SEQ gi|12061044|gb|AAG48361.1|AF330160_8 (AF330160) ATP synthase alp...   567  e-161
+SEQ gi|114510|sp|P17674|ATPA_BACME ATP SYNTHASE ALPHA CHAIN >gi|9813...   567  e-160
+SEQ gi|543872|sp|Q05372|ATPA_SYNP1 ATP SYNTHASE ALPHA CHAIN >gi|4804...   567  e-160
+SEQ gi|114511|sp|P19482|ATPA_BOVIN ATP SYNTHASE ALPHA CHAIN LIVER IS...   563  e-159
+SEQ gi|114530|sp|P27179|ATPA_SYNY3 ATP SYNTHASE ALPHA CHAIN >gi|6781...   562  e-159
+SEQ gi|2493018|sp|P55987|ATPA_HELPY ATP SYNTHASE ALPHA CHAIN >gi|743...   560  e-158
+SEQ gi|11467065|ref|NP_042541.1| H(+)-transporting ATPase, subunit 1...   560  e-158
+SEQ gi|7620567|gb|AAF64670.1| (AF209112) F1 ATPase alpha subunit [Cy...   559  e-158
+SEQ gi|1929511|gb|AAB51464.1| (U64318) ATP synthase subunit alpha [M...   558  e-158
+SEQ gi|4323566|gb|AAD16424.1| (AF101055) ATP synthase subunit alpha ...   558  e-158
+SEQ gi|11467516|ref|NP_043662.1| ATP synthase CF1 subunit alpha [Odo...   558  e-158
+SEQ gi|6561655|gb|AAF16999.1|AF197667_1 (AF197667) ATPase alpha subu...   556  e-157
+SEQ gi|114529|sp|P08449|ATPA_SYNP6 ATP SYNTHASE ALPHA CHAIN >gi|6781...   556  e-157
+SEQ gi|7620565|gb|AAF64669.1| (AF209111) F1 ATPase alpha subunit [Za...   556  e-157
+SEQ gi|9910636|sp|Q9ZK79|ATPA_HELPJ ATP SYNTHASE ALPHA CHAIN >gi|743...   556  e-157
+SEQ gi|99307|pir||S23359 H+-transporting ATP synthase (EC 3.6.1.34) ...   555  e-157
+SEQ gi|6561611|gb|AAF16955.1|AF197623_1 (AF197623) ATPase alpha subu...   553  e-156
+SEQ gi|114531|sp|P09219|ATPA_BACP3 ATP SYNTHASE ALPHA CHAIN >gi|7745...   553  e-156
+SEQ gi|1168565|sp|P42005|ATPA_BACST ATP SYNTHASE ALPHA CHAIN >gi|534...   550  e-155
+SEQ gi|541394|pir||S39254 H+-transporting ATP synthase (EC 3.6.1.34)...   550  e-155
+SEQ gi|584804|sp|P37808|ATPA_BACSU ATP SYNTHASE ALPHA CHAIN (VEGETAT...   550  e-155
+SEQ gi|11467778|ref|NP_050829.1| CF1 alpha subunit of ATP synthase [...   548  e-155
+SEQ gi|461562|sp|P35009|ATPA_GALSU ATP SYNTHASE ALPHA CHAIN >gi|6294...   548  e-155
+SEQ gi|13701899|dbj|BAB43191.1| (AP003136) ATP synthase alpha chain ...   547  e-154
+SEQ gi|231594|sp|P29706|ATPA_PROMO ATP SYNTHASE ALPHA CHAIN, SODIUM ...   545  e-154
+SEQ gi|114515|sp|P26679|ATPA_ENTHR ATP SYNTHASE ALPHA CHAIN >gi|1535...   544  e-153
+SEQ gi|11466686|ref|NP_039282.1| atpA [Marchantia polymorpha] >gi|11...   542  e-153
+SEQ gi|11466375|ref|NP_038378.1| CF1 alpha subunit of ATP synthase [...   542  e-153
+SEQ gi|114508|sp|P12405|ATPA_ANASP ATP SYNTHASE ALPHA CHAIN >gi|7974...   539  e-152
+SEQ gi|114509|sp|P22477|ATPA_BACFI ATP SYNTHASE ALPHA CHAIN >gi|8009...   538  e-152
+SEQ gi|1703652|sp|Q10592|ATPA_MYCTU ATP SYNTHASE ALPHA CHAIN >gi|743...   537  e-151
+SEQ gi|1168567|sp|P45825|ATPA_MYCLE ATP SYNTHASE ALPHA CHAIN >gi|743...   537  e-151
+SEQ gi|7524779|ref|NP_045781.1| ATP synthase CF1 alpha chain [Chlore...   536  e-151
+SEQ gi|11465708|ref|NP_053852.1| ATP synthase CF1 alpha chain [Porph...   536  e-151
+SEQ gi|7620555|gb|AAF64664.1| (AF209106) F1 ATPase alpha subunit [Ju...   535  e-151
+SEQ gi|11465567|ref|NP_045041.1| unknown; ATP synthase CF1 alpha cha...   534  e-151
+SEQ gi|11467680|ref|NP_050732.1| ATP synthase CF1 subunit a [Guillar...   534  e-150
+SEQ gi|11467365|ref|NP_043222.1| alpha subunit of F1 portion of ATP ...   533  e-150
+SEQ gi|7525018|ref|NP_051044.1| ATPase alpha subunit [Arabidopsis th...   533  e-150
+SEQ gi|6561608|gb|AAF16952.1|AF197620_1 (AF197620) ATPase alpha subu...   533  e-150
+SEQ gi|114527|sp|P06450|ATPA_SPIOL ATP SYNTHASE ALPHA CHAIN >gi|6782...   532  e-150
+SEQ gi|2662324|dbj|BAA23753.1| (AB009314) proton-translocating ATPas...   532  e-150
+SEQ gi|11465939|ref|NP_054481.1| ATPase alpha subunit [Nicotiana tab...   532  e-150
+SEQ gi|13518443|ref|NP_084803.1| ATPase alpha subunit [Lotus japonic...   532  e-150
+SEQ gi|399078|sp|Q02848|ATPA_ANTSP ATP SYNTHASE ALPHA CHAIN >gi|4854...   532  e-150
+SEQ gi|11467021|ref|NP_041928.1| ATP synthase, CFI-alpha subunit [Eu...   531  e-150
+SEQ gi|3132304|dbj|BAA28167.1| (AB012085) Cl--pumping ATPase a subun...   531  e-150
+SEQ gi|11466784|ref|NP_039380.1| ATPase alpha subunit [Oryza sativa]...   531  e-149
+SEQ gi|11266615|pir||H82036 ATP synthase F1, alpha chain VC2766 [imp...   530  e-149
+SEQ gi|14547932|sp|Q9KNH3|ATPA_VIBCH ATP SYNTHASE ALPHA CHAIN             530  e-149
+SEQ gi|6048351|gb|AAF02206.1|AF059739_6 (AF059739) H+-ATPase cytopla...   530  e-149
+SEQ gi|2493021|sp|P95787|ATPA_STRMU ATP SYNTHASE ALPHA CHAIN >gi|743...   529  e-149
+SEQ gi|11347471|pir||E82952 ATP synthase alpha chain PA5556 [importe...   529  e-149
+SEQ gi|6561607|gb|AAF16951.1|AF197619_1 (AF197619) ATPase alpha subu...   529  e-149
+SEQ gi|14017569|ref|NP_114256.1| ATPase alpha subunit [Triticum aest...   528  e-149
+SEQ gi|114534|sp|P12112|ATPA_WHEAT ATP SYNTHASE ALPHA CHAIN >gi|6782...   528  e-149
+SEQ gi|11467189|ref|NP_043022.1| ATPase subunit alpha [Zea mays] >gi...   527  e-148
+SEQ gi|114522|sp|P08215|ATPA_PEA ATP SYNTHASE ALPHA CHAIN >gi|67826|...   527  e-148
+SEQ gi|7524606|ref|NP_042360.1| H+-ATPase alpha subunit [Pinus thunb...   526  e-148
+SEQ gi|728921|sp|P41167|ATPA_THIFE ATP SYNTHASE ALPHA CHAIN >gi|1546...   526  e-148
+SEQ gi|114513|sp|P26526|ATPA_CHLRE ATP SYNTHASE ALPHA CHAIN               526  e-148
+SEQ gi|7428286|pir||PWKMA H+-transporting ATP synthase (EC 3.6.1.34)...   525  e-148
+SEQ gi|12724788|gb|AAK05864.1|AE006406_8 (AE006406) ATP synthase alp...   524  e-148
+SEQ gi|13518336|ref|NP_084695.1| ATP synthase alpha subunit [Oenothe...   524  e-147
+SEQ gi|13621936|gb|AAK33701.1| (AE006527) putative proton-translocat...   522  e-147
+SEQ gi|114533|sp|P12985|ATPA_VIBAL ATP SYNTHASE ALPHA CHAIN >gi|7923...   522  e-147
+SEQ gi|2493022|sp|Q40611|ATPA_OCHNE ATP SYNTHASE ALPHA CHAIN >gi|143...   522  e-147
+SEQ gi|6652831|gb|AAF22496.1|AF098522_6 (AF098522) F1F0-ATPase subun...   520  e-146
+SEQ gi|4469303|emb|CAB38453.1| (AJ236874) ATP synthase CF1 alpha cha...   519  e-146
+SEQ gi|399079|sp|P00822|ATPA_ECOLI ATP SYNTHASE ALPHA CHAIN >gi|7428...   518  e-146
+SEQ gi|6625701|gb|AAF19360.1|AF188265_6 (AF188265) The ATP synthase ...   518  e-146
+SEQ gi|4100655|gb|AAD00916.1| (AF001955) proton-translocating ATPase...   517  e-145
+SEQ gi|2145498|pir||S66663 Na+-transporting ATP synthase (EC 3.6.1.-...   516  e-145
+SEQ gi|6561612|gb|AAF16956.1|AF197624_1 (AF197624) ATPase alpha subu...   515  e-145
+SEQ gi|11266611|pir||A82716 ATP synthase, alpha chain XF1145 [import...   514  e-144
+SEQ gi|8568793|emb|CAB94542.1| (AL359152) ATP synthase alpha chain [...   514  e-144
+SEQ gi|1703668|sp|P50001|ATPA_STRLI ATP SYNTHASE ALPHA CHAIN >gi|480...   512  e-144
+SEQ gi|11266679|pir||A81970 H+-transporting ATP synthase (EC 3.6.1.3...   512  e-144
+SEQ gi|11266689|pir||A81025 ATP synthase F1, alpha chain NMB1936 [im...   511  e-144
+SEQ gi|12721876|gb|AAK03576.1| (AE006185) AtpA [Pasteurella multocida]    510  e-143
+SEQ gi|1168566|sp|P43714|ATPA_HAEIN ATP SYNTHASE ALPHA CHAIN >gi|107...   506  e-142
+SEQ gi|45653|emb|CAA41372.1| (X58461) F1 subunit [Propionigenium mod...   504  e-142
+SEQ gi|42283|emb|CAA23596.1| (V00312) papA [Escherichia coli] >gi|43...   503  e-141
+SEQ gi|10039450|dbj|BAB13358.1| (AB048368) H+-ATPase alpha subunit [...   502  e-141
+SEQ gi|148137|gb|AAA24735.1| (J01594) ATP synthase alpha subunit (at...   502  e-141
+SEQ gi|1334356|emb|CAA42840.1| (X60298) adenosinetriphosphatase [Chl...   502  e-141
+SEQ gi|9757619|dbj|BAB08155.1| (AB046112) H+-ATPase alpha subunit [C...   502  e-141
+SEQ gi|2118185|pir||I41275 H+ ATPase F1 subunit alpha - Escherichia ...   501  e-140
+SEQ gi|7524980|ref|NP_050078.1| ATPase subunit 1 [Dictyostelium disc...   499  e-140
+SEQ gi|11467147|ref|NP_054448.1| atpA intron2 ORF [Marchantia polymo...   497  e-139
+SEQ gi|14089681|emb|CAC13441.1| (AL445563) ATP SYNTHASE ALPHA CHAIN ...   494  e-138
+SEQ gi|4033368|sp|O51874|ATPA_BUCAP ATP SYNTHASE ALPHA CHAIN >gi|282...   492  e-138
+SEQ gi|41030|emb|CAA23519.1| (V00265) reading frame atpase alpha sub...   487  e-136
+SEQ gi|102302|pir||S13641 H+-transporting ATP synthase (EC 3.6.1.34)...   480  e-134
+SEQ gi|227515|prf||1705291A ATP synthetase alpha [Physarum polycepha...   480  e-134
+SEQ gi|13508339|ref|NP_110289.1| ATP synthase alpha chain [Mycoplasm...   480  e-134
+SEQ gi|11131212|sp|P57122|ATPA_BUCAI ATP SYNTHASE ALPHA CHAIN >gi|10...   476  e-133
+SEQ gi|11497509|ref|NP_054917.1| ATPase subunit I [Spinacia oleracea...   476  e-133
+SEQ gi|12045263|ref|NP_073074.1| ATP synthase F1, subunit alpha (atp...   473  e-132
+SEQ gi|6014711|gb|AAA79906.2| (U10505) F1FO ATPase alpha subunit [Ac...   473  e-132
+SEQ gi|11466328|ref|NP_051156.1| ATP synthase F1 subunit alpha [Cafe...   472  e-132
+SEQ gi|461563|sp|P33252|ATPA_MYCGA ATP SYNTHASE ALPHA CHAIN >gi|2825...   470  e-131
+SEQ gi|7620557|gb|AAF64665.1| (AF209107) F1 ATPase alpha subunit [Me...   466  e-130
+SEQ gi|11467146|ref|NP_054449.1| atpA intron1 ORF [Marchantia polymo...   460  e-128
+SEQ gi|13357689|ref|NP_077963.1| ATP synthase alpha chain [Ureaplasm...   458  e-128
+SEQ gi|13647033|ref|XP_008763.2| ATP synthase, H+ transporting, mito...   436  e-121
+SEQ gi|57029|emb|CAA39599.1| (X56133) H(+)-transporting ATP synthase...   428  e-118
+SEQ gi|7436103|pir||JC5797 F0F1-ATPase (EC 3.4.-.-) alpha chain - Me...   413  e-114
+SEQ gi|13272346|gb|AAK17109.1|AF291051_6 (AF291051) ATP synthase alp...   403  e-111
+SEQ gi|2662064|dbj|BAA23686.1| (AB006151) proton-translocating ATPas...   401  e-110
+SEQ gi|13122234|emb|CAC32270.1| (AL583933) ATPase alpha subunit [Lei...   373  e-102
+SEQ gi|11055687|gb|AAG23339.1| (AY007705) ATPase alpha subunit [Tryp...   369  e-101
+SEQ gi|11466177|ref|NP_066500.1| ATP synthase F1 subunit alpha [Naeg...   358  9e-98
+SEQ gi|5532306|gb|AAD44703.1| (AF130036) ATP synthase CF1 subunit al...   350  3e-95
+SEQ gi|13374970|emb|CAC34544.1| (AJ311630) ATPase CF1 alpha subunit ...   333  3e-90
+SEQ gi|13509079|emb|CAC35290.1| (AJ292166) ATP synthase F1 alpha [Ca...   304  2e-81
+SEQ gi|13509091|emb|CAC35296.1| (AJ292172) ATP synthase F1 alpha [Ca...   302  5e-81
+SEQ gi|4467505|emb|CAB37704.1| (AJ239593) putative ATP synthase, F1 ...   297  2e-79
+SEQ gi|4467509|emb|CAB37706.1| (AJ239595) putative ATP synthase, F1 ...   297  2e-79
+SEQ gi|4467519|emb|CAB37711.1| (AJ239600) putative ATP synthase, F1 ...   297  2e-79
+SEQ gi|4467531|emb|CAB37717.1| (AJ239606) putative ATP synthase, F1 ...   297  2e-79
+SEQ gi|4467501|emb|CAB37702.1| (AJ239591) putative ATP synthase, F1 ...   297  3e-79
+SEQ gi|4456282|emb|CAB37361.1| (AJ132983) putative ATP synthase F1 a...   296  3e-79
+SEQ gi|4467529|emb|CAB37716.1| (AJ239605) putative ATP synthase, F1 ...   296  5e-79
+SEQ gi|4467495|emb|CAB37699.1| (AJ239588) putative ATP synthase, F1 ...   295  7e-79
+SEQ gi|431865|emb|CAA53716.1| (X76110) truncated putative F1-ATP syn...   272  5e-72
+SEQ gi|14089648|emb|CAC13408.1| (AL445563) ATP SYNTHASE ALPHA CHAIN ...   270  4e-71
+SEQ gi|473487|gb|AAA25410.1| (M29168) ATPase alpha subunit [Mycoplas...   267  2e-70
+SEQ gi|322699|pir||S29876 pseudo-atpA - soybean >gi|22742|emb|CAA784...   265  6e-70
+SEQ gi|563545|emb|CAA57786.1| (X82386) atpA [Helianthus annuus]           262  5e-69
+SEQ gi|10444423|gb|AAG17905.1|AF298659_1 (AF298659) ATP synthase alp...   259  6e-68
+SEQ gi|14089863|emb|CAC13622.1| (AL445564) ATP SYNTHASE ALPHA CHAIN ...   219  8e-56
+SEQ gi|14318449|gb|AAG24495.2| (AY004863) ATP synthase alpha subunit...   209  9e-53
+SEQ gi|11999239|gb|AAG24493.1| (AY004861) ATP synthase alpha subunit...   207  3e-52
+SEQ gi|11999241|gb|AAG24494.1| (AY004862) ATP synthase alpha subunit...   206  4e-52
+SEQ gi|13357609|ref|NP_077883.1| ATP synthase alpha chain [Ureaplasm...   206  5e-52
+SEQ gi|11999245|gb|AAG24496.1| (AY004864) ATP synthase alpha subunit...   206  6e-52
+SEQ gi|11999225|gb|AAG24486.1| (AY004854) ATP synthase alpha subunit...   205  1e-51
+SEQ gi|14318447|gb|AAG24489.2| (AY004857) ATP synthase alpha subunit...   202  8e-51
+SEQ gi|14090115|emb|CAC13873.1| (AL445565) ATP SYNTHASE ALPHA CHAIN ...   199  8e-50
+SEQ gi|6478261|gb|AAF13777.1|AF129402_1 (AF129402) alpha subunit of ...   198  1e-49
+SEQ gi|6478269|gb|AAF13783.1|AF129404_1 (AF129404) alpha subunit of ...   196  8e-49
+SEQ gi|11999237|gb|AAG24492.1| (AY004860) ATP synthase alpha subunit...   195  9e-49
+SEQ gi|99082|pir||S25500 H+-transporting ATP synthase (EC 3.6.1.34) ...   192  7e-48
+SEQ gi|5917761|gb|AAD56026.1|AF181565_1 (AF181565) F1-ATPase alpha s...   188  2e-46
+SEQ gi|11999233|gb|AAG24490.1| (AY004858) ATP synthase alpha subunit...   187  3e-46
+SEQ gi|6478265|gb|AAF13780.1|AF129403_1 (AF129403) alpha subunit of ...   185  1e-45
+SEQ gi|82768|pir||S06209 H+-transporting ATP synthase (EC 3.6.1.34) ...   185  2e-45
+SEQ gi|45606|emb|CAA46898.1| (X66103) ATPase alpha subunit [Propioni...   185  2e-45
+SEQ gi|259965|gb|AAB24176.1| ATP synthase F1Fo sector alpha-subunit,...   181  2e-44
+SEQ gi|10803385|emb|CAC13114.1| (AJ295020) F-1-ATP synthase [Elymus ...   170  3e-41
+SEQ gi|14193293|gb|AAK55880.1|AF267208_1 (AF267208) ATP synthase alp...   162  9e-39
+SEQ gi|14193289|gb|AAK55877.1|AF267207_1 (AF267207) ATP synthase alp...   161  2e-38
+SEQ gi|14193337|gb|AAK55913.1|AF267219_1 (AF267219) ATP synthase alp...   161  2e-38
+SEQ gi|14193273|gb|AAK55865.1|AF267203_1 (AF267203) ATP synthase alp...   159  6e-38
+SEQ gi|14193309|gb|AAK55892.1|AF267212_1 (AF267212) ATP synthase alp...   159  6e-38
+SEQ gi|14193329|gb|AAK55907.1|AF267217_1 (AF267217) ATP synthase alp...   159  7e-38
+SEQ gi|14193277|gb|AAK55868.1|AF267204_1 (AF267204) ATP synthase alp...   159  8e-38
+SEQ gi|14193285|gb|AAK55874.1|AF267206_1 (AF267206) ATP synthase alp...   159  8e-38
+SEQ gi|14193321|gb|AAK55901.1|AF267215_1 (AF267215) ATP synthase alp...   159  8e-38
+SEQ gi|14193281|gb|AAK55871.1|AF267205_1 (AF267205) ATP synthase alp...   159  9e-38
+SEQ gi|14193301|gb|AAK55886.1|AF267210_1 (AF267210) ATP synthase alp...   159  1e-37
+SEQ gi|14193353|gb|AAK55925.1|AF267224_1 (AF267224) ATP synthase alp...   158  1e-37
+SEQ gi|14193269|gb|AAK55862.1|AF267202_1 (AF267202) ATP synthase alp...   158  1e-37
+SEQ gi|14193313|gb|AAK55895.1|AF267213_1 (AF267213) ATP synthase alp...   158  2e-37
+SEQ gi|14193345|gb|AAK55919.1|AF267221_1 (AF267221) ATP synthase alp...   158  2e-37
+SEQ gi|14193261|gb|AAK55856.1|AF267200_1 (AF267200) ATP synthase alp...   158  2e-37
+SEQ gi|14028606|gb|AAK52426.1|AF280098_1 (AF280098) ATP synthase alp...   157  3e-37
+SEQ gi|14193253|gb|AAK55850.1|AF267198_1 (AF267198) ATP synthase alp...   156  4e-37
+SEQ gi|14193265|gb|AAK55859.1|AF267201_1 (AF267201) ATP synthase alp...   156  4e-37
+SEQ gi|14193317|gb|AAK55898.1|AF267214_1 (AF267214) ATP synthase alp...   156  5e-37
+SEQ gi|14193297|gb|AAK55883.1|AF267209_1 (AF267209) ATP synthase alp...   155  1e-36
+SEQ gi|14193361|gb|AAK55931.1|AF267226_1 (AF267226) ATP synthase alp...   154  3e-36
+SEQ gi|14193257|gb|AAK55853.1|AF267199_1 (AF267199) ATP synthase alp...   153  7e-36
+SEQ gi|14193305|gb|AAK55889.1|AF267211_1 (AF267211) ATP synthase alp...   152  1e-35
+SEQ gi|14028610|gb|AAK52429.1|AF280099_1 (AF280099) ATP synthase alp...   152  1e-35
+SEQ gi|14193325|gb|AAK55904.1|AF267216_1 (AF267216) ATP synthase alp...   152  1e-35
+SEQ gi|14193357|gb|AAK55928.1|AF267225_1 (AF267225) ATP synthase alp...   151  2e-35
+SEQ gi|14193341|gb|AAK55916.1|AF267220_1 (AF267220) ATP synthase alp...   151  2e-35
+SEQ gi|14193349|gb|AAK55922.1|AF267223_1 (AF267223) ATP synthase alp...   150  4e-35
+SEQ gi|7350913|gb|AAF61281.1| (AF026197) HrpB6 [Xanthomonas oryzae p...   146  5e-34
+SEQ gi|462306|sp|P80153|HRB6_XANCV PROBABLE ATP SYNTHASE HRPB6 >gi|3...   146  8e-34
+SEQ gi|14193333|gb|AAK55910.1|AF267218_1 (AF267218) ATP synthase alp...   145  9e-34
+SEQ gi|6016024|sp|O83417|FLII_TREPA FLAGELLUM-SPECIFIC ATP SYNTHASE ...   142  8e-33
+SEQ gi|120331|sp|P23445|FLII_BACSU FLAGELLUM-SPECIFIC ATP SYNTHASE >...   140  4e-32
+SEQ gi|6225361|sp|O34171|FLII_AGRTU FLAGELLUM-SPECIFIC ATP SYNTHASE ...   139  8e-32
+SEQ gi|2459981|gb|AAB86534.1| (AF010151) PscN [Pseudomonas aeruginosa]    138  2e-31
+SEQ gi|11347478|pir||A83435 ATP synthase in type III secretion syste...   136  5e-31
+SEQ gi|7436113|pir||D72404 flagellum-specific ATP synthase - Thermot...   135  1e-30
+SEQ gi|10800834|emb|CAC12989.1| (AJ291297) F-1-ATPase alpha subunit ...   135  1e-30
+SEQ gi|12620523|gb|AAG60799.1|AF322012_104 (AF322013) RhcN [Bradyrhi...   134  2e-30
+SEQ gi|10175075|dbj|BAB06174.1| (AP001515) flagellar-specific ATP sy...   133  7e-30
+SEQ gi|11348555|pir||A83509 flagellum-specific ATP synthase FliI PA1...   132  1e-29
+SEQ gi|4322012|gb|AAD15915.1| (AF069392) polar flagellum-specific AT...   131  2e-29
+SEQ gi|10955560|ref|NP_052401.1| ATPase YscN [Yersinia enterocolitic...   131  3e-29
+SEQ gi|10955631|ref|NP_054604.1| Yops secretion ATPase YscN homolog ...   131  3e-29
+SEQ gi|11266617|pir||B82114 flagellum-specific ATP synthase FliI VC2...   129  6e-29
+SEQ gi|732262|sp|P40291|YSCN_YERPS PROBABLE ATP SYNTHASE YSCN (YOPS ...   129  6e-29
+SEQ gi|414464|gb|AAC43205.1| (U01727) Homologous to PIR accession Nu...   129  9e-29
+SEQ gi|2120692|pir||S61858 hrpE protein - Pseudomonas solanacearum >...   128  1e-28
+SEQ gi|2935537|gb|AAC38612.1| (AF049488) BscN [Bordetella bronchisep...   127  3e-28
+SEQ gi|1706850|sp|P52607|FLII_BORBU FLAGELLUM-SPECIFIC ATP SYNTHASE ...   124  3e-27
+SEQ gi|11095421|gb|AAG29861.1|AF313764_4 (AF313764) probable H+-tran...   122  7e-27
+SEQ gi|1196321|gb|AAB51413.1| (L76303) flagellar export apparatus [B...   122  1e-26
+SEQ gi|7436099|pir||A71486 probable yop N (flagellar-type ATPase) - ...   121  2e-26
+SEQ gi|13475302|ref|NP_106866.1| ATP synthase in type III secretion ...   121  2e-26
+SEQ gi|3024659|sp|P74857|SSAN_SALTY PROBABLE SECRETION SYSTEM APPARA...   120  3e-26
+SEQ gi|2493150|sp|P55717|Y4YI_RHISN PROBABLE ATP SYNTHASE Y4YI >gi|2...   120  4e-26
+SEQ gi|7436119|pir||C72046 type III secretion cytoplasmic ATPase Sct...   119  7e-26
+SEQ gi|9711877|dbj|BAB07971.1| (AP002524) putative ATP synthetase al...   119  1e-25
+SEQ gi|1938361|gb|AAB52239.1| (U85783) nucleotide binding protein Fl...   117  2e-25
+SEQ gi|13449096|ref|NP_085312.1| invasion protein [Shigella flexneri...   117  4e-25
+SEQ gi|11498767|ref|NP_069996.1| H+-transporting ATP synthase, subun...   117  5e-25
+SEQ gi|12585403|sp|O29100|VATB_ARCFU V-TYPE ATP SYNTHASE BETA CHAIN ...   117  5e-25
+SEQ gi|11266673|pir||D81749 type III secretion cytoplasmic ATPase Sc...   116  9e-25
+SEQ gi|14389|emb|CAA78274.1| (Z12627) ATPase alpha subunit [Brassica...   115  1e-24
+SEQ gi|120332|sp|P26465|FLII_SALTY FLAGELLUM-SPECIFIC ATP SYNTHASE >...   115  1e-24
+SEQ gi|728923|sp|P41168|ATPB_THIFE ATP SYNTHASE BETA CHAIN >gi|15467...   115  2e-24
+SEQ gi|2493127|sp|Q38681|VAB1_ACEAT VACUOLAR ATP SYNTHASE SUBUNIT B ...   115  2e-24
+SEQ gi|2731646|gb|AAB93498.1| (U75584) ATPase [Helicobacter pylori]       114  3e-24
+SEQ gi|12585523|sp|Q9YF36|VATB_AERPE V-TYPE ATP SYNTHASE BETA CHAIN ...   114  3e-24
+SEQ gi|2493149|sp|O07025|FLII_HELPY FLAGELLUM-SPECIFIC ATP SYNTHASE ...   114  3e-24
+SEQ gi|9973201|sp|Q9ZJJ3|FLII_HELPJ FLAGELLUM-SPECIFIC ATP SYNTHASE ...   114  3e-24
+SEQ gi|14318445|gb|AAG24487.2| (AY004855) ATP synthase alpha subunit...   114  3e-24
+SEQ gi|1648933|gb|AAB17681.1| (L12251) putative ATPase [Sinorhizobiu...   114  3e-24
+SEQ gi|12585423|sp|O57729|VATB_PYRHO V-TYPE ATP SYNTHASE BETA CHAIN ...   114  3e-24
+SEQ gi|2352532|gb|AAB69192.1| (AF005744) YsaN [Yersinia enterocolitica]   114  4e-24
+SEQ gi|1890178|emb|CAA69911.1| (Y08620) F0/F1-ATPase [Helicobacter p...   113  5e-24
+SEQ gi|3913122|sp|O50292|ATPB_AQUPY ATP SYNTHASE BETA CHAIN >gi|2687...   113  6e-24
+SEQ gi|11266687|pir||B81438 H+-transporting ATP synthase (EC 3.6.1.3...   112  7e-24
+SEQ gi|3913128|sp|O67828|ATPB_AQUAE ATP SYNTHASE BETA CHAIN >gi|7436...   112  9e-24
+SEQ gi|1168577|sp|P42466|ATPB_HERAU ATP SYNTHASE BETA CHAIN >gi|5608...   112  9e-24
+SEQ gi|2105151|gb|AAB57902.1| (U78776) FliI [Treponema denticola]         112  1e-23
+SEQ gi|12585410|sp|O32467|VATB_THESI V-TYPE ATP SYNTHASE BETA CHAIN ...   111  2e-23
+SEQ gi|11347473|pir||C82952 ATP synthase beta chain PA5554 [imported...   111  2e-23
+SEQ gi|1090495|prf||2019228A CF1 ATPase:SUBUNIT=alpha [Allium porrum]     111  2e-23
+SEQ gi|14521959|ref|NP_127436.1| H+-transporting ATP synthase, subun...   111  3e-23
+SEQ gi|6226815|sp|O54249|FLII_RHIME FLAGELLUM-SPECIFIC ATP SYNTHASE ...   110  4e-23
+SEQ gi|665603|emb|CAA47272.1| (X66734) C1 ATPase alpha subunit [Alli...   110  4e-23
+SEQ gi|13472571|ref|NP_104138.1| flagella-specific ATPase fliI [Meso...   110  5e-23
+SEQ gi|13621450|gb|AAK33258.1| (AE006484) putative V-type Na+ -ATPas...   109  8e-23
+SEQ gi|730791|sp|P39444|SPAL_SALTY PROBABLE ATP SYNTHASE SPAL/INVC >...   109  1e-22
+SEQ gi|11266669|pir||T44675 H+-transporting ATP synthase, chain B [i...   108  1e-22
+SEQ gi|12585392|sp|O06505|VATB_DESSY V-TYPE ATP SYNTHASE BETA CHAIN ...   108  1e-22
+SEQ gi|14193440|gb|AAK55969.1| (AF301566) ATP synthase subunit alpha...   108  2e-22
+SEQ gi|11266691|pir||G81024 ATP synthase F1, beta chain NMB1934 [imp...   107  3e-22
+SEQ gi|114568|sp|P13052|VATB_SULAC V-TYPE ATP SYNTHASE BETA CHAIN (V...   107  3e-22
+SEQ gi|6319603|ref|NP_009685.1| vacuolar ATPase V1 domain subunit B ...   106  5e-22
+SEQ gi|14193460|gb|AAK55979.1| (AF301576) ATP synthase subunit alpha...   106  5e-22
+SEQ gi|12585503|sp|Q9UWW8|VATB_SULSO V-TYPE ATP SYNTHASE BETA CHAIN ...   106  6e-22
+SEQ gi|13540884|ref|NP_110572.1| Vacuolar-type H+-ATPase, subunit B ...   106  7e-22
+SEQ gi|2493128|sp|Q38680|VAB2_ACEAT VACUOLAR ATP SYNTHASE SUBUNIT B ...   106  8e-22
+SEQ gi|2493126|sp|Q26976|VATB_TRYCO VACUOLAR ATP SYNTHASE SUBUNIT B ...   106  9e-22
+SEQ gi|171122|gb|AAA66890.1| (J04450) vacuolar H+-ATPase 52 kDa subu...   105  1e-21
+SEQ gi|137466|sp|P22550|VATB_CANTR VACUOLAR ATP SYNTHASE SUBUNIT B (...   105  1e-21
+SEQ gi|10176378|dbj|BAB07473.1| (AP001519) ATP synthase beta subunit...   105  1e-21
+SEQ gi|461565|sp|P35110|ATPB_CHLLI ATP SYNTHASE BETA CHAIN >gi|42134...   105  1e-21
+SEQ gi|1181169|gb|AAB06001.1| (L25828) HrcN [Erwinia amylovora]           105  1e-21
+SEQ gi|13447716|gb|AAK26715.1|AF200363_23 (AF200363) EscN [Escherich...   105  2e-21
+SEQ gi|3414902|gb|AAC31513.1| (AF071034) L0034 [Escherichia coli] >g...   105  2e-21
+SEQ gi|3913671|sp|O67531|FLII_AQUAE FLAGELLUM-SPECIFIC ATP SYNTHASE ...   105  2e-21
+SEQ gi|2493102|sp|Q48333|VATB_HALVO V-TYPE ATP SYNTHASE BETA CHAIN (...   105  2e-21
+SEQ gi|1168571|sp|P42468|ATPB_BURCE ATP SYNTHASE BETA CHAIN >gi|5875...   104  2e-21
+SEQ gi|1352831|sp|P48413|VATB_CYACA VACUOLAR ATP SYNTHASE SUBUNIT B ...   104  2e-21
+SEQ gi|14193462|gb|AAK55980.1| (AF301577) ATP synthase subunit alpha...   104  2e-21
+SEQ gi|2865290|gb|AAC38383.1| (AF022236) EscN [Escherichia coli]          104  2e-21
+SEQ gi|12061046|gb|AAG48363.1|AF330160_10 (AF330160) ATP synthase be...   104  3e-21
+SEQ gi|2493131|sp|Q40078|VAB1_HORVU VACUOLAR ATP SYNTHASE SUBUNIT B ...   104  3e-21
+SEQ gi|11266681|pir||C81970 H+-transporting ATP synthase (EC 3.6.1.3...   104  3e-21
+SEQ gi|2493023|sp|P55988|ATPB_HELPY ATP SYNTHASE BETA CHAIN >gi|7436...   104  4e-21
+SEQ gi|9910638|sp|Q9ZK81|ATPB_HELPJ ATP SYNTHASE BETA CHAIN >gi|7436...   104  4e-21
+SEQ gi|114540|sp|P22478|ATPB_BACFI ATP SYNTHASE BETA CHAIN >gi|80091...   103  4e-21
+SEQ gi|13701897|dbj|BAB43189.1| (AP003136) ATP synthase beta chain [...   103  4e-21
+SEQ gi|1171782|sp|Q08637|NTPB_ENTHR V-TYPE SODIUM ATP SYNTHASE SUBUN...   103  6e-21
+SEQ gi|137468|sp|P11593|VATB_NEUCR VACUOLAR ATP SYNTHASE SUBUNIT B (...   102  9e-21
+SEQ gi|2493132|sp|Q40079|VAB2_HORVU VACUOLAR ATP SYNTHASE SUBUNIT B ...   102  9e-21
+SEQ gi|2197129|gb|AAB61298.1| (AF004014) F1F0-ATPase beta subunit [H...   102  1e-20
+SEQ gi|7578511|gb|AAF64075.1|AF147781_1 (AF147781) ATP synthase beta...   102  1e-20
+SEQ gi|7436116|pir||F69227 ATP synthase, subunit B - Methanobacteriu...   102  1e-20
+SEQ gi|12585396|sp|O27035|VATB_METTH V-TYPE ATP SYNTHASE BETA CHAIN ...   102  1e-20
+SEQ gi|11386785|sp|P57178|FLII_BUCAI FLAGELLUM-SPECIFIC ATP SYNTHASE...   102  1e-20
+SEQ gi|13366196|dbj|BAB39419.1| (AP002901) putative H+-transporting ...   102  1e-20
+SEQ gi|1146265|gb|AAB04681.1| (L43325) flagellar export protein [Bor...   102  1e-20
+SEQ gi|8918242|dbj|BAA97567.1| (AB023581) vacuolar ATPase B subunit ...   102  1e-20
+SEQ gi|12082754|gb|AAG48602.1|AF306649_3 (AF306649) SpaL/InvC [Sodal...   102  1e-20
+SEQ gi|12585436|sp|O83540|VAB2_TREPA V-TYPE ATP SYNTHASE BETA CHAIN ...   102  1e-20
+SEQ gi|114553|sp|P22663|VATB_METBA V-TYPE ATP SYNTHASE BETA CHAIN (V...   102  1e-20
+SEQ gi|2506213|sp|P52612|FLII_ECOLI FLAGELLUM-SPECIFIC ATP SYNTHASE ...   102  1e-20
+SEQ gi|12516045|gb|AAG56956.1|AE005416_10 (AE005416) flagellum-speci...   102  1e-20
+SEQ gi|13362148|dbj|BAB36103.1| (AP002559) flagellum-specific ATP sy...   102  1e-20
+SEQ gi|114571|sp|P07677|ATPB_BACP3 ATP SYNTHASE BETA CHAIN >gi|77453...   102  2e-20
+SEQ gi|2493129|sp|Q43432|VAB1_GOSHI VACUOLAR ATP SYNTHASE SUBUNIT B ...   101  2e-20
+SEQ gi|1168573|sp|P42465|ATPB_CHLVI ATP SYNTHASE BETA CHAIN >gi|5608...   101  2e-20
+SEQ gi|14150751|gb|AAK54617.1|AF375052_1 (AF375052) vacuolar ATPase ...   101  2e-20
+SEQ gi|356768|prf||1211283A ATPase beta F1 [thermophilic bacterium PS3]   101  2e-20
+SEQ gi|487000|pir||S37304 spaL protein - Salmonella typhimurium (fra...   101  2e-20
+SEQ gi|14193466|gb|AAK55982.1| (AF301579) ATP synthase subunit alpha...   101  3e-20
+SEQ gi|284621|pir||B42254 H+-transporting ATPase (EC 3.6.1.35) chain...   101  3e-20
+SEQ gi|7436088|pir||JC5798 F0F1-ATPase (EC 3.4.-.-) beta chain - Met...   101  3e-20
+SEQ gi|1703697|sp|P49376|ATPB_KLULA ATP SYNTHASE BETA CHAIN, MITOCHO...   100  3e-20
+SEQ gi|11266665|pir||T43789 H+-transporting ATP synthase (EC 3.6.1.3...   100  4e-20
+SEQ gi|14193480|gb|AAK55989.1| (AF301586) ATP synthase subunit alpha...   100  4e-20
+SEQ gi|2493124|sp|Q19626|VATB_CAEEL PROBABLE VACUOLAR ATP SYNTHASE S...   100  4e-20
+SEQ gi|7436120|pir||T05679 H+-transporting ATP synthase (EC 3.6.1.34...   100  4e-20
+SEQ gi|14547933|sp|Q9KNH5|ATPB_VIBCH ATP SYNTHASE BETA CHAIN >gi|112...   100  5e-20
+SEQ gi|10639152|emb|CAC11154.1| (AL445063) probable ATP synthase (su...   100  6e-20
+SEQ gi|12585461|sp|Q9HM64|VATB_THEAC V-TYPE ATP SYNTHASE BETA CHAIN ...   100  6e-20
+SEQ gi|11131216|sp|P57124|ATPB_BUCAI ATP SYNTHASE BETA CHAIN >gi|100...   100  6e-20
+SEQ gi|728922|sp|P41009|ATPB_BACCA ATP SYNTHASE BETA CHAIN >gi|53329...   100  7e-20
+SEQ gi|226371|prf||1508208B ATPase beta [Enterobacter aerogenes]           99  8e-20
+SEQ gi|137465|sp|P11574|VATB_ARATH VACUOLAR ATP SYNTHASE SUBUNIT B (...    99  8e-20
+SEQ gi|114542|sp|P12698|ATPB_BACME ATP SYNTHASE BETA CHAIN >gi|67849...    99  9e-20
+SEQ gi|14193474|gb|AAK55986.1| (AF301583) ATP synthase subunit alpha...    99  9e-20
+SEQ gi|14193478|gb|AAK55988.1| (AF301585) ATP synthase subunit alpha...    99  9e-20
+SEQ gi|12517372|gb|AAG57986.1|AE005515_8 (AE005515) type III secreti...    99  1e-19
+SEQ gi|11266677|pir||D81743 virulence ATPase, probable TC0090 [impor...    99  1e-19
+SEQ gi|11908130|gb|AAG23340.1| (AY007706) ATPase beta subunit [Trypa...    98  2e-19
+SEQ gi|8979232|dbj|BAA99066.1| (AP002548) flagellum-specific ATP syn...    98  2e-19
+SEQ gi|2921502|gb|AAC04806.1| (AF037468) B subunit V-ATPase [Culex p...    98  2e-19
+SEQ gi|401327|sp|P31401|VATB_MANSE VACUOLAR ATP SYNTHASE SUBUNIT B (...    98  2e-19
+SEQ gi|4033705|sp|Q07232|ATPB_BUCAP ATP SYNTHASE BETA CHAIN >gi|2827...    98  2e-19
+SEQ gi|14193464|gb|AAK55981.1| (AF301578) ATP synthase subunit alpha...    98  2e-19
+SEQ gi|6425061|gb|AAF08281.1|AF189779_1 (AF189779) vacuolar ATP synt...    98  3e-19
+SEQ gi|401326|sp|P31410|VATB_HELVI VACUOLAR ATP SYNTHASE SUBUNIT B (...    98  3e-19
+SEQ gi|1073879|pir||D64071 H+-transporting ATP synthase (EC 3.6.1.34...    98  3e-19
+SEQ gi|2506208|sp|P43715|ATPB_HAEIN ATP SYNTHASE BETA CHAIN >gi|1573...    98  3e-19
+SEQ gi|2493103|sp|Q57669|VATB_METJA V-TYPE ATP SYNTHASE BETA CHAIN (...    98  3e-19
+SEQ gi|14193468|gb|AAK55983.1| (AF301580) ATP synthase subunit alpha...    98  3e-19
+SEQ gi|14089679|emb|CAC13439.1| (AL445563) ATP SYNTHASE BETA CHAIN [...    98  3e-19
+SEQ gi|114547|sp|P25164|VATB_HALSA V-TYPE ATP SYNTHASE BETA CHAIN (V...    98  4e-19
+SEQ gi|12229705|sp|Q9HNE4|VATB_HALN1 V-TYPE ATP SYNTHASE BETA CHAIN ...    98  4e-19
+SEQ gi|6322581|ref|NP_012655.1| F(1)F(0)-ATPase complex beta subunit...    98  4e-19
+SEQ gi|7331730|gb|AAF60418.1| (AC006708) contains similarity to Pfam...    97  4e-19
+SEQ gi|11266609|pir||G82715 ATP synthase, beta chain XF1143 [importe...    97  5e-19
+SEQ gi|12721878|gb|AAK03578.1| (AE006185) AtpD [Pasteurella multocida]     97  5e-19
+SEQ gi|1168569|sp|P42006|ATPB_BACST ATP SYNTHASE BETA CHAIN >gi|5348...    97  5e-19
+SEQ gi|4502311|ref|NP_001684.1| ATPase, H+ transporting, lysosomal (...    97  6e-19
+SEQ gi|106210|pir||A39212 H+-transporting ATPase (EC 3.6.1.35), vacu...    97  6e-19
+SEQ gi|162703|gb|AAA30391.1| (M83131) H+-ATPase B subunit [Bos taurus]     97  6e-19
+SEQ gi|162723|gb|AAA30400.1| (M88690) vacuolar H+-ATPase [Bos taurus]      97  6e-19
+SEQ gi|12643430|sp|P50517|VAB2_MOUSE VACUOLAR ATP SYNTHASE SUBUNIT B...    97  6e-19
+SEQ gi|12643271|sp|P21281|VAB2_HUMAN VACUOLAR ATP SYNTHASE SUBUNIT B...    97  6e-19
+SEQ gi|13938355|gb|AAH07309.1|AAH07309 (BC007309) Unknown (protein f...    97  6e-19
+SEQ gi|401325|sp|P31409|VATB_DROME VACUOLAR ATP SYNTHASE SUBUNIT B (...    97  6e-19
+SEQ gi|1168583|sp|P42470|ATPB_WOLSU ATP SYNTHASE BETA CHAIN >gi|5875...    97  6e-19
+SEQ gi|3901366|gb|AAC78641.1| (AF099743) vacuolar-type H+ transporti...    97  6e-19
+SEQ gi|14193486|gb|AAK55992.1| (AF301589) ATP synthase subunit alpha...    97  6e-19
+SEQ gi|114575|sp|P00830|ATPB_YEAST ATP SYNTHASE BETA CHAIN, MITOCHON...    96  7e-19
+SEQ gi|4680480|gb|AAD27666.1|AF092934_1 (AF092934) vacuolar ATPase B...    96  7e-19
+SEQ gi|6715512|gb|AAF26445.1| (AF220611) vacuolar H+-ATPase B subuni...    96  8e-19
+SEQ gi|1071643|gb|AAA82637.1| (L49147) ATPase [Escherichia coli]           96  8e-19
+SEQ gi|114546|sp|P00824|ATPB_ECOLI ATP SYNTHASE BETA CHAIN >gi|67830...    96  8e-19
+SEQ gi|6625703|gb|AAF19362.1|AF188265_8 (AF188265) ATP synthase subu...    96  8e-19
+SEQ gi|549205|sp|P31408|VAB2_BOVIN VACUOLAR ATP SYNTHASE SUBUNIT B, ...    96  9e-19
+SEQ gi|7436123|pir||B72025 flagellum-specific ATP synthase - Chlamyd...    96  9e-19
+SEQ gi|5881241|gb|AAD55091.1|AF179250_1 (AF179250) vacuolar-type H+ ...    96  1e-18
+SEQ gi|1718088|sp|P49712|VATB_CHICK VACUOLAR ATP SYNTHASE SUBUNIT B ...    96  1e-18
+SEQ gi|1085256|pir||JC4198 adenosinetriphosphatase (EC 3.6.1.3) B ch...    96  1e-18
+SEQ gi|8163560|gb|AAF73735.1|U61724_1 (U61724) vacuolar H-ATPase B s...    96  1e-18
+SEQ gi|11266675|pir||A81513 virulence ATPase, probable CP1011 [impor...    96  1e-18
+SEQ gi|2493104|sp|Q60187|VATB_METMA V-TYPE ATP SYNTHASE BETA CHAIN (...    95  1e-18
+SEQ gi|4323568|gb|AAD16426.1| (AF101055) ATP synthase subunit beta [...    95  2e-18
+SEQ gi|6226557|sp|P95789|ATPB_STRMU ATP SYNTHASE BETA CHAIN >gi|4239...    95  2e-18
+SEQ gi|4929105|gb|AAD33861.1| (AF140022) V-type ATPase B subunit [On...    95  2e-18
+SEQ gi|2493125|sp|Q25691|VATB_PLAFA VACUOLAR ATP SYNTHASE SUBUNIT B ...    94  3e-18
+SEQ gi|4100657|gb|AAD00918.1| (AF001955) proton-translocating ATPase...    94  4e-18
+SEQ gi|522193|gb|AAA58661.1| (L35249) vacuolar H+-ATPase 56,000 subu...    94  4e-18
+SEQ gi|4126681|dbj|BAA36692.1| (AB016484) vacuolar-type H+-ATPase su...    94  4e-18
+SEQ gi|6652833|gb|AAF22498.1|AF098522_8 (AF098522) F1F0-ATPase subun...    94  4e-18
+SEQ gi|114537|sp|P06540|ATPB_ANASP ATP SYNTHASE BETA CHAIN >gi|14200...    94  4e-18
+SEQ gi|283083|pir||S25335 H+-transporting ATPase (EC 3.6.1.35) chain...    94  4e-18
+SEQ gi|11276511|gb|AAG33879.1| (AF232004) HrcN [Pseudomonas syringae...    94  4e-18
+SEQ gi|507390|gb|AAA81942.1| (U07346) HrpJ4 [Pseudomonas syringae]         94  4e-18
+SEQ gi|2147141|pir||S69885 H+-transporting ATP synthase (EC 3.6.1.34...    94  5e-18
+SEQ gi|79751|pir||A26926 H+-transporting ATP synthase (EC 3.6.1.34) ...    94  5e-18
+SEQ gi|584808|sp|P37809|ATPB_BACSU ATP SYNTHASE BETA CHAIN (VEGETATI...    94  5e-18
+SEQ gi|1174937|sp|P31411|VATB_SCHPO VACUOLAR ATP SYNTHASE SUBUNIT B ...    93  6e-18
+SEQ gi|10644737|gb|AAG21379.1| (AF295355) flagella-specific ATPase [...    93  6e-18
+SEQ gi|7949003|ref|NP_058054.1| ATP synthase, H+ transporting mitoch...    93  6e-18
+SEQ gi|92350|pir||A28701 H+-transporting ATP synthase (EC 3.6.1.34) ...    93  7e-18
+SEQ gi|114562|sp|P10719|ATPB_RAT ATP SYNTHASE BETA CHAIN, MITOCHONDR...    93  7e-18
+SEQ gi|1374715|gb|AAB02288.1| (M19044) ATP synthase beta subunit [Ra...    93  7e-18
+SEQ gi|6729935|pdb|1MAB|B Chain B, Rat Liver F1-Atpase                     93  7e-18
+SEQ gi|12832739|dbj|BAB22236.1| (AK002621) putative [Mus musculus]         93  7e-18
+SEQ gi|12845667|dbj|BAB26846.1| (AK010314) putative [Mus musculus]         93  7e-18
+SEQ gi|1168575|sp|P43451|ATPB_ENTHR ATP SYNTHASE BETA CHAIN >gi|1535...    93  8e-18
+SEQ gi|3660252|pdb|1NBM|E Chain E, The Structure Of Bovine F1-Atpase...    93  8e-18
+SEQ gi|418175|sp|P15313|VAB1_HUMAN VACUOLAR ATP SYNTHASE SUBUNIT B, ...    93  9e-18
+SEQ gi|4502309|ref|NP_001683.1| ATPase, H+ transporting, lysosomal (...    93  9e-18
+SEQ gi|4093211|gb|AAD11943.1| (AF107478) H+-ATPase beta 1 subunit [H...    93  9e-18
+SEQ gi|2493028|sp|Q25117|ATPB_HEMPU ATP SYNTHASE BETA CHAIN, MITOCHO...    93  9e-18
+SEQ gi|401318|sp|P31407|VAB1_BOVIN VACUOLAR ATP SYNTHASE SUBUNIT B, ...    93  9e-18
+SEQ gi|114543|sp|P00829|ATPB_BOVIN ATP SYNTHASE BETA CHAIN, MITOCHON...    93  1e-17
+SEQ gi|9256941|pdb|1E1Q|D Chain D, Bovine Mitochondrial F1-Atpase At...    93  1e-17
+SEQ gi|3660251|pdb|1NBM|D Chain D, The Structure Of Bovine F1-Atpase...    93  1e-17
+SEQ gi|12045261|ref|NP_073072.1| ATP synthase F1, subunit beta (atpD...    93  1e-17
+SEQ gi|1938379|gb|AAC45616.1| (U93180) FliI [Caulobacter crescentus]       93  1e-17
+SEQ gi|940783|emb|CAA83570.1| (Z32647) fragment of ATP-Synthase alph...    92  1e-17
+SEQ gi|11514059|pdb|1E79|D Chain D, Bovine F1-Atpase Inhibited By Dc...    92  1e-17
+SEQ gi|13621938|gb|AAK33703.1| (AE006527) putative proton-translocat...    92  1e-17
+SEQ gi|13650291|ref|XP_006710.2| ATP synthase, H+ transporting, mito...    92  1e-17
+SEQ gi|114695|sp|P25075|ATPX_BACFI ATP SYNTHASE BETA CHAIN >gi|67850...    92  1e-17
+SEQ gi|114549|sp|P06576|ATPB_HUMAN ATP SYNTHASE BETA CHAIN, MITOCHON...    92  2e-17
+SEQ gi|114573|sp|P12986|ATPB_VIBAL ATP SYNTHASE BETA CHAIN >gi|79235...    92  2e-17
+SEQ gi|7436091|pir||JC5741 membrane-bound proton-translocating ATPas...    92  2e-17
+SEQ gi|4502295|ref|NP_001677.1| ATP synthase, H+ transporting, mitoc...    91  2e-17
+SEQ gi|6680754|ref|NP_031535.1| ATPase, H+ transporting, lysosomal (...    91  3e-17
+SEQ gi|5689156|dbj|BAA82837.1| (AB023582) ATP synthase beta-subunit ...    91  3e-17
+SEQ gi|13637704|sp|O05528|FLII_CAUCR FLAGELLUM-SPECIFIC ATP SYNTHASE...    91  4e-17
+SEQ gi|3913124|sp|O50550|ATPB_THEMA ATP SYNTHASE BETA CHAIN >gi|7436...    91  4e-17
+SEQ gi|461567|sp|P33253|ATPB_MYCGA ATP SYNTHASE BETA CHAIN >gi|28259...    91  4e-17
+SEQ gi|12585458|sp|Q56404|VATB_THETH V-TYPE ATP SYNTHASE BETA CHAIN ...    90  5e-17
+SEQ gi|13508337|ref|NP_110287.1| ATP synthase beta chain [Mycoplasma...    90  5e-17
+SEQ gi|7514971|pir||T10475 H+-transporting ATP synthase (EC 3.6.1.34...    90  5e-17
+SEQ gi|1168579|sp|P42467|ATPB_PEPNI ATP SYNTHASE BETA CHAIN                90  5e-17
+SEQ gi|13473456|ref|NP_105023.1| ATP synthase beta subunit [Mesorhiz...    90  5e-17
+SEQ gi|1929513|gb|AAB51466.1| (U64318) ATP synthase subunit beta [Mo...    90  6e-17
+SEQ gi|114565|sp|P22068|ATPB_SCHPO ATP SYNTHASE BETA CHAIN, MITOCHON...    90  6e-17
+SEQ gi|416680|sp|Q03235|ATPB_PECFR ATP SYNTHASE BETA CHAIN >gi|42132...    90  6e-17
+SEQ gi|13272348|gb|AAK17111.1|AF291051_8 (AF291051) ATP synthase bet...    90  7e-17
+SEQ gi|7436124|pir||D71480 probable flagellum-specific ATP synthase ...    90  8e-17
+SEQ gi|114421|sp|P17614|ATP2_NICPL ATP SYNTHASE BETA CHAIN, MITOCHON...    89  8e-17
+SEQ gi|6721533|dbj|BAA89597.1| (AB036925) vacuolar H+-ATPase B subun...    89  9e-17
+SEQ gi|12724786|gb|AAK05862.1|AE006406_6 (AE006406) ATP synthase alp...    89  9e-17
+SEQ gi|287945|emb|CAA50332.1| (X71013) ATP synthase beta subunit [Dr...    89  1e-16
+SEQ gi|584809|sp|Q05825|ATPB_DROME ATP SYNTHASE BETA CHAIN, MITOCHON...    89  1e-16
+SEQ gi|7304361|gb|AAF59391.1| (AE003846) ATPsyn-beta gene product [D...    89  1e-16
+SEQ gi|7688341|emb|CAB89740.1| (AJ235634) ATP synthase beta subunit ...    89  1e-16
+SEQ gi|13548325|emb|CAC35872.1| (AL590346) H+-transporting ATP synth...    89  1e-16
+SEQ gi|13548326|emb|CAC35873.1| (AL590346) H+-transporting ATP synth...    89  1e-16
+SEQ gi|13548327|emb|CAC35874.1| (AL590346) H+-transporting ATP synth...    89  1e-16
+SEQ gi|142564|gb|AAA22253.1| (M31107) ATP synthase beta subunit (atp...    89  1e-16
+SEQ gi|6048355|gb|AAF02210.1| (AF059739) H+-ATPase cytoplasmic F1-pa...    89  2e-16
+SEQ gi|3138975|gb|AAC16696.1| (AF056245) F1-ATP synthase subunit alp...    89  2e-16
+SEQ gi|2493130|sp|Q43433|VAB2_GOSHI VACUOLAR ATP SYNTHASE SUBUNIT B ...    89  2e-16
+SEQ gi|179279|gb|AAA51808.1| (M19483) ATP synthase beta subunit [Hom...    88  2e-16
+SEQ gi|1168582|sp|P42469|ATPB_STIAU ATP SYNTHASE BETA CHAIN >gi|5875...    88  2e-16
+SEQ gi|13357686|ref|NP_077960.1| ATP synthase beta chain [Ureaplasma...    88  2e-16
+SEQ gi|1304067|dbj|BAA12667.1| (D84449) proton ATPase beta subunit [...    88  2e-16
+SEQ gi|114555|sp|P23704|ATPB_NEUCR ATP SYNTHASE BETA CHAIN, MITOCHON...    88  3e-16
+SEQ gi|1272678|emb|CAA65834.1| (X97201) FliI protein [Rhodobacter sp...    88  3e-16
+SEQ gi|2662066|dbj|BAA23688.1| (AB006151) proton-translocating ATPas...    88  3e-16
+SEQ gi|2126479|pir||JC4733 probable H+-transporting ATP synthase (EC...    88  4e-16
+SEQ gi|4388534|emb|CAA75478.1| (Y15179) F1-ATP synthase, beta subuni...    88  4e-16
+SEQ gi|114420|sp|P19023|ATP2_MAIZE ATP SYNTHASE BETA CHAIN, MITOCHON...    87  4e-16
+SEQ gi|6721109|gb|AAF26763.1|AC007396_12 (AC007396) T4O12.24 [Arabid...    87  4e-16
+SEQ gi|11266685|pir||C81427 H+-transporting ATP synthase (EC 3.6.1.3...    87  4e-16
+SEQ gi|13435885|gb|AAH04789.1|AAH04789 (BC004789) Unknown (protein f...    87  5e-16
+SEQ gi|3138942|gb|AAC16679.1| (AF037143) ATP synthase beta subunit [...    87  6e-16
+SEQ gi|629818|pir||S47350 H+-transporting ATP synthase (EC 3.6.1.34)...    87  6e-16
+SEQ gi|584796|sp|P38482|ATP2_CHLRE ATP SYNTHASE BETA CHAIN, MITOCHON...    87  7e-16
+SEQ gi|1168572|sp|P46561|ATPB_CAEEL PROBABLE ATP SYNTHASE BETA CHAIN...    86  8e-16
+SEQ gi|4388533|emb|CAA75477.1| (Y15178) F1-ATP synthase, beta subuni...    86  9e-16
+SEQ gi|6226556|sp|O50290|ATPB_RICPR ATP SYNTHASE BETA CHAIN >gi|7436...    86  9e-16
+SEQ gi|416679|sp|Q03234|ATPB_LACCA ATP SYNTHASE BETA CHAIN >gi|42157...    86  9e-16
+SEQ gi|12585483|sp|Q9RWG7|VATB_DEIRA V-TYPE ATP SYNTHASE BETA CHAIN ...    86  9e-16
+SEQ gi|3138944|gb|AAC16680.1| (AF037144) ATP synthase beta subunit [...    86  1e-15
+SEQ gi|7508505|pir||T25293 hypothetical protein T26E3.7 - Caenorhabd...    86  1e-15
+SEQ gi|3138934|gb|AAC16675.1| (AF037139) ATP synthase beta subunit [...    85  2e-15
+SEQ gi|4063548|gb|AAC98332.1| (AF035906) ATP synthase beta subunit [...    85  2e-15
+SEQ gi|114564|sp|P05038|ATPB_RHORU ATP SYNTHASE BETA CHAIN >gi|67847...    84  3e-15
+SEQ gi|3138950|gb|AAC16683.1| (AF037147) ATP synthase beta subunit [...    84  3e-15
+SEQ gi|3676296|gb|AAD03392.1| (U96497) mitochondrial ATPase beta sub...    84  3e-15
+SEQ gi|1703703|sp|Q10593|ATPB_MYCTU ATP SYNTHASE BETA CHAIN >gi|7436...    84  4e-15
+SEQ gi|3138956|gb|AAC16686.1| (AF037150) ATP synthase beta subunit [...    84  4e-15
+SEQ gi|3138970|gb|AAC16693.1| (AF037157) ATP synthase beta subunit [...    84  4e-15
+SEQ gi|3138952|gb|AAC16684.1| (AF037148) ATP synthase beta subunit [...    84  4e-15
+SEQ gi|3893824|gb|AAD03394.1| (U96499) ATPase beta subunit [Nicotian...    84  5e-15
+SEQ gi|3913123|sp|O50341|ATPB_FERIS ATP SYNTHASE BETA CHAIN >gi|2687...    84  5e-15
+SEQ gi|114563|sp|P05440|ATPB_RHOBL ATP SYNTHASE BETA CHAIN >gi|79547...    84  6e-15
+SEQ gi|13425165|gb|AAK25409.1| (AE006004) ATP synthase F1, beta subu...    83  6e-15
+SEQ gi|4519350|dbj|BAA75590.1| (AB014037) ATP synthase beta-subunit ...    83  7e-15
+SEQ gi|3676294|gb|AAD03391.1| (U96496) mitochondrial ATPase beta sub...    83  7e-15
+SEQ gi|1352033|sp|P29707|ATPB_PROMO ATP SYNTHASE BETA CHAIN, SODIUM ...    83  8e-15
+SEQ gi|7708278|emb|CAB90064.1| (AJ235459) ATP synthase beta subunit ...    83  9e-15
+SEQ gi|9651843|gb|AAF91293.1|AF236667_1 (AF236667) vacuolar ATP synt...    83  9e-15
+SEQ gi|4519346|dbj|BAA75588.1| (AB014035) ATP synthase beta-subunit ...    83  9e-15
+SEQ gi|474066|emb|CAA83571.1| (Z32649) ATP-Synthase alpha [Mycoplasm...    83  1e-14
+SEQ gi|11465725|ref|NP_053869.1| ATP synthase CF1 beta chain [Porphy...    83  1e-14
+SEQ gi|231587|sp|Q01859|ATP2_ORYSA ATP SYNTHASE BETA CHAIN, MITOCHON...    83  1e-14
+SEQ gi|5758870|gb|AAD50844.1| (AF168902) ATP synthase beta subunit [...    83  1e-14
+SEQ gi|461568|sp|Q05373|ATPB_SYNP1 ATP SYNTHASE BETA CHAIN >gi|48049...    82  2e-14
+SEQ gi|3893822|gb|AAD03393.1| (U96498) ATPase beta subunit [Nicotian...    82  2e-14
+SEQ gi|12585415|sp|O51120|VATB_BORBU V-TYPE ATP SYNTHASE BETA CHAIN ...    82  2e-14
+SEQ gi|3023341|sp|O03069|ATPB_EQUAR ATP SYNTHASE BETA CHAIN >gi|1934...    82  2e-14
+SEQ gi|6706286|emb|CAB65915.1| (AJ236221) ATP synthase beta subunit ...    82  2e-14
+SEQ gi|12005284|gb|AAG44369.1| (AF235041) ATP synthase beta subunit ...    81  3e-14
+SEQ gi|6688861|emb|CAB65308.1| (AJ236188) ATP synthase beta subunit ...    81  3e-14
+SEQ gi|7708676|emb|CAB90016.1| (AJ235625) ATP synthase beta subunit ...    81  3e-14
+SEQ gi|5758897|gb|AAD50871.1| (AF168929) ATP synthase beta subunit [...    81  3e-14
+SEQ gi|7708554|emb|CAB89957.1| (AJ235567) ATP synthase beta subunit ...    81  3e-14
+SEQ gi|11467760|ref|NP_050811.1| CF1 beta subunit of ATP synthase [N...    81  3e-14
+SEQ gi|4063550|gb|AAC98333.1| (AF035907) ATP synthase beta subunit [...    81  3e-14
+SEQ gi|7708169|emb|CAB90025.1| (AJ235413) ATP synthase beta subunit ...    81  4e-14
+SEQ gi|4519352|dbj|BAA75591.1| (AB014038) ATP synthase beta-subunit ...    81  5e-14
+SEQ gi|1703680|sp|P50002|ATPB_ACEWO ATP SYNTHASE BETA CHAIN, SODIUM ...    81  5e-14
+SEQ gi|9558599|gb|AAF88162.1|AC026234_13 (AC026234) Nearly identical...    80  5e-14
+SEQ gi|14089649|emb|CAC13409.1| (AL445563) ATP SYNTHASE BETA CHAIN [...    80  5e-14
+SEQ gi|114548|sp|P00828|ATPB_HORVU ATP SYNTHASE BETA CHAIN >gi|67835...    80  5e-14
+SEQ gi|7687962|emb|CAB89703.1| (AJ235408) ATP synthase beta subunit ...    80  6e-14
+SEQ gi|8452711|emb|CAB89950.2| (AJ235550) ATP synthase beta subunit ...    80  6e-14
+SEQ gi|584797|sp|P37399|ATP2_DAUCA ATP SYNTHASE BETA CHAIN, MITOCHON...    80  6e-14
+SEQ gi|2662326|dbj|BAA23755.1| (AB009314) proton-translocating ATPas...    80  6e-14
+SEQ gi|7708452|emb|CAB89915.1| (AJ235506) ATP synthase beta subunit ...    80  6e-14
+SEQ gi|114570|sp|P26527|ATPB_SYNY3 ATP SYNTHASE BETA CHAIN >gi|67845...    80  7e-14
+SEQ gi|4680283|gb|AAD27607.1|AF121902_2 (AF121902) F1-ATP synthase s...    80  7e-14
+SEQ gi|5758902|gb|AAD50876.1| (AF168934) ATP synthase beta subunit [...    80  7e-14
+SEQ gi|8439268|emb|CAB90043.3| (AJ235432) ATP synthase beta subunit ...    80  7e-14
+SEQ gi|4995844|emb|CAB44277.1| (AJ233070) H(+)-transporting ATP synt...    80  8e-14
+SEQ gi|11465583|ref|NP_045025.1| unknown; ATP synthase CF1 beta chai...    79  8e-14
+SEQ gi|7708276|emb|CAB90063.1| (AJ235458) ATP synthase beta subunit ...    79  9e-14
+SEQ gi|7688031|emb|CAB89721.1| (AJ235554) ATP synthase beta subunit ...    79  9e-14
+SEQ gi|5758863|gb|AAD50837.1| (AF168895) ATP synthase beta subunit [...    79  9e-14
+SEQ gi|5758901|gb|AAD50875.1| (AF168933) ATP synthase beta subunit [...    79  9e-14
+SEQ gi|7688039|emb|CAB89724.1| (AJ235599) ATP synthase beta subunit ...    79  1e-13
+SEQ gi|114560|sp|P05037|ATPB_PEA ATP SYNTHASE BETA CHAIN >gi|81961|p...    79  1e-13
+SEQ gi|7708141|emb|CAB89940.1| (AJ235385) ATP synthase beta subunit ...    79  1e-13
+SEQ gi|1703726|sp|P50004|ATPB_STRLI ATP SYNTHASE BETA CHAIN >gi|4809...    79  1e-13
+SEQ gi|7708311|emb|CAB89906.1| (AJ235475) ATP synthase beta subunit ...    79  1e-13
+SEQ gi|7708636|emb|CAB89985.1| (AJ235592) ATP synthase beta subunit ...    79  1e-13
+SEQ gi|6467941|gb|AAF13240.1|AF197607_1 (AF197607) ATPase beta subun...    79  1e-13
+SEQ gi|1168578|sp|P45823|ATPB_MYCLE ATP SYNTHASE BETA CHAIN >gi|7436...    79  1e-13
+SEQ gi|6688863|emb|CAB65307.1| (AJ236204) ATP synthase beta subunit ...    79  1e-13
+SEQ gi|4206558|gb|AAD11710.1| (AF066825) ATP synthase beta subunit [...    79  1e-13
+SEQ gi|5758913|gb|AAD50887.1| (AF168945) ATP synthase beta subunit [...    79  1e-13
+SEQ gi|114557|sp|P26530|ATPB_NICRU ATP SYNTHASE BETA CHAIN >gi|67841...    79  1e-13
+SEQ gi|4519354|dbj|BAA75592.1| (AB014039) ATP synthase beta-subunit ...    79  1e-13
+SEQ gi|6687737|emb|CAB65057.1| (AJ236184) ATP synthase beta subunit ...    79  1e-13
+SEQ gi|12004131|gb|AAG43905.1|AF213774_1 (AF213774) ATP synthase bet...    79  1e-13
+SEQ gi|6689365|emb|CAB65457.1| (AJ236185) ATP synthase beta subunit ...    79  1e-13
+SEQ gi|7708478|emb|CAB89928.1| (AJ235523) ATP synthase beta subunit ...    79  1e-13
+SEQ gi|7708536|emb|CAB89951.1| (AJ235553) ATP synthase beta subunit ...    79  1e-13
+SEQ gi|13236786|gb|AAK14698.1| (AY012443) ATP synthase beta subunit ...    79  1e-13
+SEQ gi|7687960|emb|CAB89700.1| (AJ235403) ATP synthase beta subunit ...    79  1e-13
+SEQ gi|12004125|gb|AAG43902.1|AF213771_1 (AF213771) ATP synthase bet...    79  1e-13
+SEQ gi|7687958|emb|CAB89701.1| (AJ235401) ATP synthase beta subunit ...    79  2e-13
+SEQ gi|7708640|emb|CAB90007.1| (AJ235597) ATP synthase beta subunit ...    79  2e-13
+SEQ gi|7294187|gb|AAF49540.1| (AE003528) CG5389 gene product [Drosop...    79  2e-13
+SEQ gi|8452749|emb|CAB89990.1| (AJ235602) ATP synthase beta subunit ...    79  2e-13
+SEQ gi|14017579|ref|NP_114266.1| ATPase beta subunit [Triticum aesti...    79  2e-13
+SEQ gi|231595|sp|Q01396|ATPB_AEGCO ATP SYNTHASE BETA CHAIN >gi|34398...    79  2e-13
+SEQ gi|6467947|gb|AAF13246.1|AF197613_1 (AF197613) ATPase beta subun...    79  2e-13
+SEQ gi|6467948|gb|AAF13247.1|AF197614_1 (AF197614) ATPase beta subun...    79  2e-13
+SEQ gi|4099349|gb|AAD00595.1| (U86394) ATP synthase beta subunit [Pa...    79  2e-13
+SEQ gi|8517408|emb|CAB94295.1| (AJ235437) ATP synthase beta subunit ...    79  2e-13
+SEQ gi|7708574|emb|CAB90096.1| (AJ235579) ATP synthase beta subunit ...    78  2e-13
+SEQ gi|7708499|emb|CAB89937.1| (AJ235536) ATP synthase beta subunit ...    78  2e-13
+SEQ gi|6688527|emb|CAB65168.1| (AJ236183) ATP synthase beta subunit ...    78  2e-13
+SEQ gi|14090114|emb|CAC13872.1| (AL445565) ATP SYNTHASE BETA CHAIN [...    78  2e-13
+SEQ gi|7708298|emb|CAB90074.1| (AJ235465) ATP synthase beta subunit ...    78  2e-13
+SEQ gi|5001573|gb|AAD37033.1| (AF092107) ATP synthase beta subunit [...    78  2e-13
+SEQ gi|7708187|emb|CAB90037.1| (AJ235425) ATP synthase beta subunit ...    78  2e-13
+SEQ gi|7708335|emb|CAB89909.1| (AJ235496) ATP synthase beta subunit ...    78  2e-13
+SEQ gi|7708684|emb|CAB90019.1| (AJ235624) ATP synthase beta subunit ...    78  2e-13
+SEQ gi|7708286|emb|CAB90071.1| (AJ235470) ATP synthase beta subunit ...    78  2e-13
+SEQ gi|7708252|emb|CAB90055.1| (AJ235423) ATP synthase beta subunit ...    78  2e-13
+SEQ gi|7708333|emb|CAB90092.1| (AJ235495) ATP synthase beta subunit ...    78  2e-13
+SEQ gi|5001593|gb|AAD37043.1|AF092117_1 (AF092117) ATP synthase beta...    78  2e-13
+SEQ gi|11466372|ref|NP_038375.1| CF1 beta subunit of ATP synthase [M...    78  2e-13
+SEQ gi|4206582|gb|AAD11722.1| (AF066837) ATP synthase beta subunit [...    78  2e-13
+SEQ gi|7708472|emb|CAB89927.1| (AJ235517) ATP synthase beta subunit ...    78  2e-13
+SEQ gi|7708652|emb|CAB90011.1| (AJ235606) ATP synthase beta subunit ...    78  2e-13
+SEQ gi|7688415|emb|CAB89732.1| (AJ235638) ATP synthase beta subunit ...    78  2e-13
+SEQ gi|7688413|emb|CAB89735.1| (AJ235637) ATP synthase beta subunit ...    78  2e-13
+SEQ gi|7708211|emb|CAB90049.1| (AJ235443) ATP synthase beta subunit ...    78  2e-13
+SEQ gi|3850978|gb|AAC72181.1| (AF060429) ATP synthase beta subunit [...    78  2e-13
+SEQ gi|4063558|gb|AAC98337.1| (AF035911) ATP synthase beta subunit [...    78  2e-13
+SEQ gi|7706839|emb|CAB90028.1| (AJ235404) ATP synthase beta subunit ...    78  2e-13
+SEQ gi|5758907|gb|AAD50881.1| (AF168939) ATP synthase beta subunit [...    78  2e-13
+SEQ gi|114556|sp|P26529|ATPB_NICPL ATP SYNTHASE BETA CHAIN >gi|67838...    78  3e-13
+SEQ gi|4206580|gb|AAD11721.1| (AF066836) ATP synthase beta subunit [...    78  3e-13
+SEQ gi|12004113|gb|AAG43896.1|AF213765_1 (AF213765) ATP synthase bet...    78  3e-13
+SEQ gi|7708570|emb|CAB89977.1| (AJ235577) ATP synthase beta subunit ...    78  3e-13
+SEQ gi|7708670|emb|CAB90014.1| (AJ235618) ATP synthase beta subunit ...    78  3e-13
+SEQ gi|3850954|gb|AAC72169.1| (AF060417) ATP synthase beta subunit [...    78  3e-13
+SEQ gi|7708470|emb|CAB89926.1| (AJ235516) ATP synthase beta subunit ...    78  3e-13
+SEQ gi|5758903|gb|AAD50877.1| (AF168935) ATP synthase beta subunit [...    78  3e-13
+SEQ gi|6017838|gb|AAF01653.1| (AF093399) ATP synthase beta subunit [...    78  3e-13
+SEQ gi|5001603|gb|AAD37048.1|AF092122_1 (AF092122) ATP synthase beta...    78  3e-13
+SEQ gi|6687548|emb|CAB64990.1| (AJ236192) ATP synthase beta subunit ...    78  3e-13
+SEQ gi|7708662|emb|CAB90000.1| (AJ235613) ATP synthase beta subunit ...    78  3e-13
+SEQ gi|12004163|gb|AAG43921.1|AF213790_1 (AF213790) ATP synthase bet...    78  3e-13
+SEQ gi|7708191|emb|CAB90036.1| (AJ235428) ATP synthase beta subunit ...    78  3e-13
+SEQ gi|7708155|emb|CAB89966.1| (AJ235397) ATP synthase beta subunit ...    78  3e-13
+SEQ gi|8439276|emb|CAB90072.1| (AJ235468) ATP synthase beta subunit ...    78  3e-13
+SEQ gi|11034787|gb|AAG27082.1| (AF187058) ATP synthase beta subunit ...    78  3e-13
+SEQ gi|7708658|emb|CAB89995.1| (AJ235610) ATP synthase beta subunit ...    78  3e-13
+SEQ gi|6689002|emb|CAB65349.1| (AJ236194) ATP synthase beta subunit ...    78  3e-13
+SEQ gi|1703718|sp|P50003|ATPB_PRODI ATP SYNTHASE BETA CHAIN >gi|2852...    78  3e-13
+SEQ gi|6687280|emb|CAB64905.1| (AJ236202) ATP synthase beta subunit ...    78  3e-13
+SEQ gi|3850924|gb|AAC72154.1| (AF060402) ATP synthase beta subunit [...    78  3e-13
+SEQ gi|7708302|emb|CAB90078.1| (AJ235469) ATP synthase beta subunit ...    78  3e-13
+SEQ gi|5758891|gb|AAD50865.1| (AF168923) ATP synthase beta subunit [...    78  3e-13
+SEQ gi|6687623|emb|CAB65029.1| (AJ236193) ATP synthase beta subunit ...    78  3e-13
+SEQ gi|12004117|gb|AAG43898.1|AF213767_1 (AF213767) ATP synthase bet...    78  3e-13
+SEQ gi|12004143|gb|AAG43911.1|AF213780_1 (AF213780) ATP synthase bet...    78  3e-13
+SEQ gi|6688903|emb|CAB65312.1| (AJ236189) ATP synthase beta subunit ...    78  3e-13
+SEQ gi|8132536|gb|AAF73294.1| (AF188845) ATP synthase beta subunit [...    78  3e-13
+SEQ gi|7708268|emb|CAB90065.1| (AJ235453) ATP synthase beta subunit ...    78  3e-13
+SEQ gi|7708578|emb|CAB89975.1| (AJ235584) ATP synthase beta subunit ...    78  3e-13
+SEQ gi|6706141|emb|CAB65901.1| (AJ236186) ATP synthase beta subunit ...    78  3e-13
+SEQ gi|4063524|gb|AAC98320.1| (AF035894) ATP synthase beta subunit [...    78  3e-13
+SEQ gi|4519344|dbj|BAA75587.1| (AB014034) ATP synthase beta-subunit ...    78  3e-13
+SEQ gi|6467950|gb|AAF13249.1|AF197616_1 (AF197616) ATPase beta subun...    78  3e-13
+SEQ gi|7578493|gb|AAF64069.1|AF132887_1 (AF132887) ATP synthase, B s...    78  3e-13
+SEQ gi|13236710|gb|AAK14660.1| (AY012405) ATP synthase beta subunit ...    78  3e-13
+SEQ gi|4995097|emb|CAB44016.1| (AJ233053) H(+)-transporting ATP synt...    78  3e-13
+SEQ gi|5758914|gb|AAD50888.1| (AF168946) ATP synthase beta subunit [...    78  3e-13
+SEQ gi|12004147|gb|AAG43913.1|AF213782_1 (AF213782) ATP synthase bet...    78  3e-13
+SEQ gi|5758853|gb|AAD50827.1| (AF168885) ATP synthase beta subunit [...    78  3e-13
+SEQ gi|5758882|gb|AAD50856.1| (AF168914) ATP synthase beta subunit [...    78  3e-13
+SEQ gi|322770|pir||A43264 proton-adenosine triphosphatase beta subun...    78  3e-13
+SEQ gi|5758876|gb|AAD50850.1| (AF168908) ATP synthase beta subunit [...    78  3e-13
+SEQ gi|1168574|sp|P42464|ATPB_CORGL ATP SYNTHASE BETA CHAIN >gi|2118...    78  3e-13
+SEQ gi|5031151|gb|AAD38086.1|AF093425_1 (AF093425) ATP synthase beta...    78  3e-13
+SEQ gi|7708546|emb|CAB89971.1| (AJ235563) ATP synthase beta subunit ...    78  3e-13
+SEQ gi|6689235|emb|CAB65397.1| (AJ236208) ATP synthase beta subunit ...    78  3e-13
+SEQ gi|7708317|emb|CAB90085.1| (AJ235484) ATP synthase beta subunit ...    78  3e-13
+SEQ gi|114558|sp|P26531|ATPB_NICSP ATP SYNTHASE BETA CHAIN >gi|67840...    78  4e-13
+SEQ gi|5758906|gb|AAD50880.1| (AF168938) ATP synthase beta subunit [...    78  4e-13
+SEQ gi|12004111|gb|AAG43895.1|AF213764_1 (AF213764) ATP synthase bet...    78  4e-13
+SEQ gi|12004161|gb|AAG43920.1|AF213789_1 (AF213789) ATP synthase bet...    78  4e-13
+SEQ gi|3850942|gb|AAC72163.1| (AF060411) ATP synthase beta subunit [...    78  4e-13
+SEQ gi|3850944|gb|AAC72164.1| (AF060412) ATP synthase beta subunit [...    78  4e-13
+SEQ gi|3850984|gb|AAC72184.1| (AF060432) ATP synthase beta subunit [...    78  4e-13
+SEQ gi|3850988|gb|AAC72186.1| (AF060434) ATP synthase beta subunit [...    78  4e-13
+SEQ gi|4995848|emb|CAB44291.1| (AJ233091) H(+)-transporting ATP synt...    78  4e-13
+SEQ gi|904161|gb|AAA70390.1| (L37933) adenosine triphosphatase [Tino...    78  4e-13
+SEQ gi|7708468|emb|CAB89924.1| (AJ235515) ATP synthase beta subunit ...    78  4e-13
+SEQ gi|7578495|gb|AAF64070.1|AF132888_1 (AF132888) ATP synthase, B s...    78  4e-13
+SEQ gi|7708493|emb|CAB89941.1| (AJ235533) ATP synthase beta subunit ...    78  4e-13
+SEQ gi|3850922|gb|AAC72153.1| (AF060401) ATP synthase beta subunit [...    78  4e-13
+SEQ gi|5758868|gb|AAD50842.1| (AF168900) ATP synthase beta subunit [...    78  4e-13
+SEQ gi|7578491|gb|AAF64068.1|AF132886_1 (AF132886) ATP synthase, B s...    78  4e-13
+SEQ gi|7708524|emb|CAB89949.1| (AJ235546) ATP synthase beta subunit ...    78  4e-13
+SEQ gi|7706850|emb|CAB90046.1| (AJ235391) ATP synthase beta subunit ...    78  4e-13
+SEQ gi|6467934|gb|AAF13233.1|AF197600_1 (AF197600) ATPase beta subun...    78  4e-13
+SEQ gi|6687278|emb|CAB64899.1| (AJ236190) ATP synthase beta subunit ...    78  4e-13
+SEQ gi|6687447|emb|CAB64950.1| (AJ236203) ATP synthase beta subunit ...    78  4e-13
+SEQ gi|6689113|emb|CAB65396.1| (AJ236191) ATP synthase beta subunit ...    78  4e-13
+SEQ gi|7708548|emb|CAB89970.1| (AJ235564) ATP synthase beta subunit ...    78  4e-13
+SEQ gi|7708177|emb|CAB90029.1| (AJ235419) ATP synthase beta subunit ...    78  4e-13
+SEQ gi|7708630|emb|CAB90001.1| (AJ235589) ATP synthase beta subunit ...    78  4e-13
+SEQ gi|4206590|gb|AAD11726.1| (AF066841) ATP synthase beta subunit [...    78  4e-13
+SEQ gi|4731151|gb|AAD28365.1|AF095731_1 (AF095731) ATP synthase beta...    78  4e-13
+SEQ gi|5031153|gb|AAD38087.1|AF093426_1 (AF093426) ATP synthase beta...    78  4e-13
+SEQ gi|6686965|emb|CAB64777.1| (AJ236218) ATP synthase beta subunit ...    78  4e-13
+SEQ gi|12004159|gb|AAG43919.1|AF213788_1 (AF213788) ATP synthase bet...    78  4e-13
+SEQ gi|5758904|gb|AAD50878.1| (AF168936) ATP synthase beta subunit [...    77  4e-13
+SEQ gi|7688429|emb|CAB89730.1| (AJ235646) ATP synthase beta subunit ...    77  4e-13
+SEQ gi|7708339|emb|CAB90089.1| (AJ235499) ATP synthase beta subunit ...    77  4e-13
+SEQ gi|5758916|gb|AAD50890.1| (AF168948) ATP synthase beta subunit [...    77  4e-13
+SEQ gi|12004139|gb|AAG43909.1|AF213778_1 (AF213778) ATP synthase bet...    77  4e-13
+SEQ gi|5031149|gb|AAD38085.1|AF093424_1 (AF093424) ATP synthase beta...    77  4e-13
+SEQ gi|4206566|gb|AAD11714.1| (AF066829) ATP synthase beta subunit [...    77  4e-13
+SEQ gi|7708329|emb|CAB89908.1| (AJ235493) ATP synthase beta subunit ...    77  4e-13
+SEQ gi|8452663|emb|CAB90091.2| (AJ235494) ATP synthase beta subunit ...    77  4e-13
+SEQ gi|3850974|gb|AAC72179.1| (AF060427) ATP synthase beta subunit [...    77  4e-13
+SEQ gi|3850976|gb|AAC72180.1| (AF060428) ATP synthase beta subunit [...    77  4e-13
+SEQ gi|3850914|gb|AAC72149.1| (AF060397) ATP synthase beta subunit [...    77  4e-13
+SEQ gi|3850918|gb|AAC72151.1| (AF060399) ATP synthase beta subunit [...    77  4e-13
+SEQ gi|7582350|gb|AAF64290.1| (AF233084) ATP synthase beta subunit [...    77  4e-13
+SEQ gi|7708215|emb|CAB90045.1| (AJ235446) ATP synthase beta subunit ...    77  4e-13
+SEQ gi|7708454|emb|CAB89918.1| (AJ235508) ATP synthase beta subunit ...    77  4e-13
+SEQ gi|7708512|emb|CAB89963.1| (AJ235398) ATP synthase beta subunit ...    77  4e-13
+SEQ gi|7708514|emb|CAB89945.1| (AJ235540) ATP synthase beta subunit ...    77  4e-13
+SEQ gi|7708558|emb|CAB89954.1| (AJ235570) ATP synthase beta subunit ...    77  4e-13
+SEQ gi|7708650|emb|CAB90009.1| (AJ235605) ATP synthase beta subunit ...    77  4e-13
+SEQ gi|13236708|gb|AAK14659.1| (AY012404) ATP synthase beta subunit ...    77  4e-13
+SEQ gi|5001577|gb|AAD37035.1|AF092109_1 (AF092109) ATP synthase beta...    77  4e-13
+SEQ gi|6467946|gb|AAF13245.1|AF197612_1 (AF197612) ATPase beta subun...    77  4e-13
+SEQ gi|6689008|emb|CAB65351.1| (AJ236231) ATP synthase beta subunit ...    77  4e-13
+SEQ gi|7688035|emb|CAB89722.1| (AJ235593) ATP synthase beta subunit ...    77  4e-13
+SEQ gi|8517628|emb|CAB94373.1| (AJ235525) ATP synthase beta subunit ...    77  4e-13
+SEQ gi|5758889|gb|AAD50863.1| (AF168921) ATP synthase beta subunit [...    77  4e-13
+SEQ gi|3850966|gb|AAC72175.1| (AF060423) ATP synthase beta subunit [...    77  5e-13
+SEQ gi|4995763|emb|CAB44249.1| (AJ233096) H(+)-transporting ATP synt...    77  5e-13
+SEQ gi|4995649|emb|CAB44208.1| (AJ233082) H(+)-transporting ATP synt...    77  5e-13
+SEQ gi|11034789|gb|AAG27083.1| (AF187059) ATP synthase beta subunit ...    77  5e-13
+SEQ gi|2493025|sp|P72247|ATPB_RHOCA ATP SYNTHASE BETA CHAIN >gi|1524...    77  5e-13
+SEQ gi|7708185|emb|CAB90033.1| (AJ235417) ATP synthase beta subunit ...    77  5e-13
+SEQ gi|7708319|emb|CAB90084.1| (AJ235485) ATP synthase beta subunit ...    77  5e-13
+SEQ gi|5001585|gb|AAD37039.1|AF092113_1 (AF092113) ATP synthase beta...    77  5e-13
+SEQ gi|7708300|emb|CAB90077.1| (AJ235467) ATP synthase beta subunit ...    77  5e-13
+SEQ gi|7708544|emb|CAB89969.1| (AJ235562) ATP synthase beta subunit ...    77  5e-13
+SEQ gi|6467939|gb|AAF13238.1|AF197605_1 (AF197605) ATPase beta subun...    77  5e-13
+SEQ gi|7687966|emb|CAB89706.1| (AJ235422) ATP synthase beta subunit ...    77  5e-13
+SEQ gi|6689564|emb|CAB65488.1| (AJ236217) ATP synthase beta subunit ...    77  5e-13
+SEQ gi|7687980|emb|CAB89710.1| (AJ235487) ATP synthase beta subunit ...    77  5e-13
+SEQ gi|7708566|emb|CAB89955.1| (AJ235575) ATP synthase beta subunit ...    77  5e-13
+SEQ gi|5758869|gb|AAD50843.1| (AF168901) ATP synthase beta subunit [...    77  5e-13
+SEQ gi|7708626|emb|CAB89984.1| (AJ235587) ATP synthase beta subunit ...    77  5e-13
+SEQ gi|6688962|emb|CAB65337.1| (AJ236182) ATP synthase beta subunit ...    77  5e-13
+SEQ gi|5001587|gb|AAD37040.1|AF092114_1 (AF092114) ATP synthase beta...    77  5e-13
+SEQ gi|5758890|gb|AAD50864.1| (AF168922) ATP synthase beta subunit [...    77  5e-13
+SEQ gi|5758918|gb|AAD50892.1| (AF168950) ATP synthase beta subunit [...    77  5e-13
+SEQ gi|6687282|emb|CAB64900.1| (AJ236229) ATP synthase beta subunit ...    77  5e-13
+SEQ gi|7708159|emb|CAB90027.1| (AJ235405) ATP synthase beta subunit ...    77  5e-13
+SEQ gi|7708213|emb|CAB90095.1| (AJ235444) ATP synthase beta subunit ...    77  5e-13
+SEQ gi|8517623|emb|CAB94372.1| (AJ235507) ATP synthase beta subunit ...    77  5e-13
+SEQ gi|6017824|gb|AAF01646.1| (AF093392) ATP synthase beta subunit [...    77  5e-13
+SEQ gi|6467936|gb|AAF13235.1|AF197602_1 (AF197602) ATPase beta subun...    77  5e-13
+SEQ gi|6689233|emb|CAB65417.1| (AJ236201) ATP synthase beta subunit ...    77  5e-13
+SEQ gi|7687972|emb|CAB89704.1| (AJ235436) ATP synthase beta subunit ...    77  5e-13
+SEQ gi|7687982|emb|CAB89712.1| (AJ235490) ATP synthase beta subunit ...    77  5e-13
+SEQ gi|7687986|emb|CAB89714.1| (AJ235500) ATP synthase beta subunit ...    77  5e-13
+SEQ gi|7688021|emb|CAB89715.1| (AJ235518) ATP synthase beta subunit ...    77  5e-13
+SEQ gi|7708462|emb|CAB89922.1| (AJ235512) ATP synthase beta subunit ...    77  5e-13
+SEQ gi|7708616|emb|CAB89980.1| (AJ235580) ATP synthase beta subunit ...    77  5e-13
+SEQ gi|7708163|emb|CAB89996.1| (AJ235407) ATP synthase beta subunit ...    77  5e-13
+SEQ gi|7708262|emb|CAB90053.1| (AJ235449) ATP synthase beta subunit ...    77  5e-13
+SEQ gi|7708175|emb|CAB90024.1| (AJ235416) ATP synthase beta subunit ...    77  5e-13
+SEQ gi|4995109|emb|CAB44011.1| (AJ233094) H(+)-transporting ATP synt...    77  5e-13
+SEQ gi|7708337|emb|CAB89905.1| (AJ235498) ATP synthase beta subunit ...    77  5e-13
+SEQ gi|4995221|emb|CAB44060.1| (AJ233064) H(+)-transporting ATP synt...    77  5e-13
+SEQ gi|6689074|emb|CAB65380.1| (AJ236180) ATP synthase beta subunit ...    77  5e-13
+SEQ gi|6706178|emb|CAB65908.1| (AJ236200) ATP synthase beta subunit ...    77  5e-13
+SEQ gi|7708260|emb|CAB90054.1| (AJ235440) ATP synthase beta subunit ...    77  5e-13
+SEQ gi|7688037|emb|CAB89723.1| (AJ235595) ATP synthase beta subunit ...    77  5e-13
+SEQ gi|1361451|pir||B64244 H+-transporting ATP synthase (EC 3.6.1.34...    77  6e-13
+SEQ gi|4206564|gb|AAD11713.1| (AF066828) ATP synthase beta subunit [...    77  6e-13
+SEQ gi|7688411|emb|CAB89743.1| (AJ235636) ATP synthase beta subunit ...    77  6e-13
+SEQ gi|7706846|emb|CAB90056.1| (AJ235383) ATP synthase beta subunit ...    77  6e-13
+SEQ gi|7708292|emb|CAB90070.1| (AJ235474) ATP synthase beta subunit ...    77  6e-13
+SEQ gi|5758910|gb|AAD50884.1| (AF168942) ATP synthase beta subunit [...    77  6e-13
+SEQ gi|5001571|gb|AAD37032.1|AF092106_1 (AF092106) ATP synthase beta...    77  6e-13
+SEQ gi|6017804|gb|AAF01636.1| (AF093382) ATP synthase beta subunit [...    77  6e-13
+SEQ gi|6467938|gb|AAF13237.1|AF197604_1 (AF197604) ATPase beta subun...    77  6e-13
+SEQ gi|7708183|emb|CAB90032.1| (AJ235412) ATP synthase beta subunit ...    77  6e-13
+SEQ gi|7708556|emb|CAB89967.1| (AJ235569) ATP synthase beta subunit ...    77  6e-13
+SEQ gi|4519356|dbj|BAA75593.1| (AB014040) ATP synthase beta-subunit ...    77  6e-13
+SEQ gi|7708264|emb|CAB90058.1| (AJ235450) ATP synthase beta subunit ...    77  6e-13
+SEQ gi|5758884|gb|AAD50858.1| (AF168916) ATP synthase beta subunit [...    77  6e-13
+SEQ gi|5758875|gb|AAD50849.1| (AF168907) ATP synthase beta subunit [...    77  6e-13
+SEQ gi|7708327|emb|CAB89910.1| (AJ235492) ATP synthase beta subunit ...    77  6e-13
+SEQ gi|7708686|emb|CAB90021.1| (AJ235630) ATP synthase beta subunit ...    77  6e-13
+SEQ gi|3850950|gb|AAC72167.1| (AF060415) ATP synthase beta subunit [...    77  6e-13
+SEQ gi|13236774|gb|AAK14692.1| (AY012437) ATP synthase beta subunit ...    77  6e-13
+SEQ gi|4099335|gb|AAD00589.1| (U86387) ATP synthase beta subunit [Sa...    77  6e-13
+SEQ gi|4995181|emb|CAB44038.1| (AJ233078) H(+)-transporting ATP synt...    77  6e-13
+SEQ gi|5758873|gb|AAD50847.1| (AF168905) ATP synthase beta subunit [...    77  6e-13
+SEQ gi|6017794|gb|AAF01631.1| (AF093377) ATP synthase beta subunit [...    77  6e-13
+SEQ gi|7708195|emb|CAB90034.1| (AJ235438) ATP synthase beta subunit ...    77  6e-13
+SEQ gi|82300|pir||A26850 H+-transporting ATP synthase (EC 3.6.1.34) ...    77  6e-13
+SEQ gi|7708552|emb|CAB89959.1| (AJ235566) ATP synthase beta subunit ...    77  6e-13
+SEQ gi|4995183|emb|CAB44042.1| (AJ233080) H(+)-transporting ATP synt...    77  6e-13
+SEQ gi|7687976|emb|CAB89709.1| (AJ235473) ATP synthase beta subunit ...    77  6e-13
+SEQ gi|7708294|emb|CAB90076.1| (AJ235462) ATP synthase beta subunit ...    77  6e-13
+SEQ gi|11320813|dbj|BAB18459.1| (AB044533) ATP synthase beta-subunit...    77  6e-13
+SEQ gi|3850906|gb|AAC72145.1| (AF060393) ATP synthase beta subunit [...    77  6e-13
+SEQ gi|3850908|gb|AAC72146.1| (AF060394) ATP synthase beta subunit [...    77  6e-13
+SEQ gi|3850910|gb|AAC72147.1| (AF060395) ATP synthase beta subunit [...    77  6e-13
+SEQ gi|3850912|gb|AAC72148.1| (AF060396) ATP synthase beta subunit [...    77  6e-13
+SEQ gi|3850916|gb|AAC72150.1| (AF060398) ATP synthase beta subunit [...    77  6e-13
+SEQ gi|3850930|gb|AAC72157.1| (AF060405) ATP synthase beta subunit [...    77  6e-13
+SEQ gi|3850934|gb|AAC72159.1| (AF060407) ATP synthase beta subunit [...    77  6e-13
+SEQ gi|3850936|gb|AAC72160.1| (AF060408) ATP synthase beta subunit [...    77  6e-13
+SEQ gi|3850938|gb|AAC72161.1| (AF060409) ATP synthase beta subunit [...    77  6e-13
+SEQ gi|3850946|gb|AAC72165.1| (AF060413) ATP synthase beta subunit [...    77  6e-13
+SEQ gi|3850948|gb|AAC72166.1| (AF060414) ATP synthase beta subunit [...    77  6e-13
+SEQ gi|3850958|gb|AAC72171.1| (AF060419) ATP synthase beta subunit [...    77  6e-13
+SEQ gi|3850962|gb|AAC72173.1| (AF060421) ATP synthase beta subunit [...    77  6e-13
+SEQ gi|3850964|gb|AAC72174.1| (AF060422) ATP synthase beta subunit [...    77  6e-13
+SEQ gi|3850968|gb|AAC72176.1| (AF060424) ATP synthase beta subunit [...    77  6e-13
+SEQ gi|4099347|gb|AAD00594.1| (U86393) ATP synthase beta subunit [Ar...    77  6e-13
+SEQ gi|5001565|gb|AAD37029.1|AF092103_1 (AF092103) ATP synthase beta...    77  6e-13
+SEQ gi|5001567|gb|AAD37030.1|AF092104_1 (AF092104) ATP synthase beta...    77  6e-13
+SEQ gi|6017796|gb|AAF01632.1| (AF093378) ATP synthase beta subunit [...    77  6e-13
+SEQ gi|6467940|gb|AAF13239.1|AF197606_1 (AF197606) ATPase beta subun...    77  6e-13
+SEQ gi|6467949|gb|AAF13248.1|AF197615_1 (AF197615) ATPase beta subun...    77  6e-13
+SEQ gi|7687978|emb|CAB89711.1| (AJ235478) ATP synthase beta subunit ...    77  6e-13
+SEQ gi|7688023|emb|CAB89716.1| (AJ235522) ATP synthase beta subunit ...    77  6e-13
+SEQ gi|7688025|emb|CAB89718.1| (AJ235526) ATP synthase beta subunit ...    77  6e-13
+SEQ gi|7688027|emb|CAB89717.1| (AJ235539) ATP synthase beta subunit ...    77  6e-13
+SEQ gi|7688339|emb|CAB89742.1| (AJ235631) ATP synthase beta subunit ...    77  6e-13
+SEQ gi|7708143|emb|CAB89948.1| (AJ235386) ATP synthase beta subunit ...    77  6e-13
+SEQ gi|7708189|emb|CAB90039.1| (AJ235426) ATP synthase beta subunit ...    77  6e-13
+SEQ gi|7708680|emb|CAB90013.1| (AJ235627) ATP synthase beta subunit ...    77  6e-13
+SEQ gi|8517653|emb|CAB94374.1| (AJ235557) ATP synthase beta subunit ...    77  6e-13
+SEQ 
+## SEQUENCE PROFILE AND ENTROPY
+ SeqNo PDBNo   V   L   I   M   F   W   Y   G   A   P   S   T   C   H   R   K   Q   E   N   D  NOCC NDEL NINS ENTROPY RELENT WEIGHT
+    1    1     0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+    2    2     0   0   0   0   0   0   2   0   0   0   0   0   0   0   2   0   0  22  11  62     0    0    0   1.043     34  0.00
+    3    3     5   1   0   0   0   0   0   1   0   1  12  63   0   0   0   0  11   1   2   2     0    0    0   1.317     43  0.00
+    4    4     2   0   0   0   0   0   0   5   5   0  18   2   0   1   0   9   3  12  34   8     0    0    0   1.977     66  0.00
+    5    5    38  16  12   1  22   0   0   0   7   1   2   0   0   0   0   0   0   0   0   0     0    0    0   1.618     54  0.00
+    6    6     3   1   0   0   0   0   0   3   1   0   3   1   0   0   1  15  28  15   9  18     0    0    0   1.990     66  0.00
+    7    7    54  21  12   6   1   0   0   0   3   0   1   3   0   0   1   0   0   0   0   0     0    0    0   1.393     46  0.00
+    8    8     9   0   1   1   0   0   0   1   8   0   6   3   0   0   8   2   4  26   4  28     0    0    0   2.041     68  0.00
+    9    9     0   0   0   0   1   0   0   0   3   0   1   2   0   1   1   0   1  66  17   9     0    0    0   1.154     38  0.00
+   10   10    24   1  32   0   2   0   4   2   0   0   2  28   1   0   1   1   1   2   2   0     0    0    0   1.706     56  0.00
+   11   11     0   0   0   0   0   0   0  97   0   0   2   1   0   0   1   0   0   0   0   0     0    0    0   0.181      6  0.00
+   12   12     4   2   2   0   0   0   1   0   1   0   1  25   0   3  49   7   3   0   1   0     0    0    0   1.627     54  0.00
+   13   13    82   3  13   0   0   0   0   0   0   0   0   1   0   0   0   0   1   0   0   0     0    0    0   0.643     21  0.00
+   14   14    49  22  12   0   2   0   0   0   0   2   2   5   2   0   0   2   0   0   1   0     0    0    0   1.608     53  0.00
+   15   15     0   1   0   1   0   0   3   0   4   2  65   2   0   0   1   1  15   3   1   1     0    0    0   1.341     44  0.00
+   16   16    76   2  20   0   0   0   1   0   2   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.718     23  0.00
+   17   17     1   0   1   0   1   0   2  70   3   0   7   1   0   0   0   3   0   8   2   0     0    0    0   1.221     40  0.00
+   18   18     0   0   0   1   0   0   0   7   1   0   0   0   0   0   0   0   0   1   2  88     0    0    0   0.569     18  0.00
+   19   19     0   0   0   0   0   0   1  86   4   5   1   3   0   0   0   0   0   1   1   0     0    0    0   0.664     22  0.00
+   20   20     7   8  83   0   0   0   1   0   0   0   0   1   0   1   0   0   0   0   0   0     0    0    0   0.654     21  0.00
+   21   21     7   2   5   1   0   0   1   1  79   1   0   0   1   0   1   1   0   1   0   1     0    0    0   0.941     31  0.00
+   22   22     1   2   4   0   2   0   0   0   1   0   0   2   0   1  78   5   2   1   0   1     0    0    0   1.018     33  0.00
+   23   23    74   3  15   0   0   0   0   0   5   0   0   0   0   0   0   0   2   0   1   0     0    0    0   0.898     29  0.00
+   24   24     1   0   1   0   3   0  62   1   0   1   4   1   0  12   1   0   1   6   2   2     0    0    0   1.473     49  0.00
+   25   25     0   0   0   0   1   0   0  92   0   0   0   0   0   0   1   2   1   1   1   2     0    0    0   0.439     14  0.00
+   26   26     7  84   1   1   0   0   0   1   3   1   2   0   0   0   0   0   0   0   0   0     0    0    0   0.712     23  0.00
+   27   27     0   1   0   0   0   0   1   1   4   3   4   1   0   1   7   7   2   8  51  10     0    0    0   1.808     60  0.00
+   28   28     1   0   0   0   1   0   0   5   0   1   3   1   0   1   1   7   2  50  20   8     0    0    0   1.638     54  0.00
+   29   29    26   0  56   0   1   0   1   0  10   1   0   0   3   1   0   0   0   1   0   0     0    0    0   1.221     40  0.00
+   30   30     0   2   0  22   0   0   0   1   3   0   1   0   0   0   3   4  61   2   0   0     0    0    0   1.278     42  0.00
+   31   31     3   3   1   0   1   0   7   0  69   0   9   1   0   0   0   1   4   1   1   0     0    0    0   1.237     41  0.00
+   32   32     0   0   0   1   1   0   2  76   1   0   3   0   0   0   0   0   1   9   4   1     0    0    0   1.018     33  0.00
+   33   33     0   1   0   0   0   0   1   0   0   0   1   0   0   0   0   0   1  92   1   2     0    0    0   0.462     15  0.00
+   34   34     5  23   5  61   1   0   0   0   1   0   0   1   0   0   0   1   0   2   0   0     0    0    0   1.236     41  0.00
+   35   35    76  14   9   0   1   0   0   0   1   0   0   0   1   0   0   0   0   0   0   0     0    0    0   0.815     27  0.00
+   36   36     1   2   1   0   0   0   0   1   1   0   2   0   0   1   1   2   1  84   2   2     0    0    0   0.829     27  0.00
+   37   37     3   6   6   0  81   0   0   0   0   1   0   0   0   1   0   1   0   0   1   0     0    0    0   0.816     27  0.00
+   38   38     0   0   0   0   1   0   0   1  50   8  14   2   0   0   1   2   3  13   1   3     0    0    0   1.678     56  0.00
+   39   39     1   2   0   0   0   0   0   7   2   0  56   4   1   0   0   1   2   4  13   8     0    0    0   1.619     54  0.00
+   40   40     1   0   0   0   0   0   0  79   2   1   1   1   0   1   2   4   2   1   6   2     0    0    0   1.001     33  0.00
+   41   41    57   9   5   0   1   0   0   0   1   0   1  12   0   0   8   0   1   2   1   1     0    0    0   1.519     50  0.00
+   42   42     2   3   4   2   2   0   6   2   1   0   2   1   0   0   9  57   4   4   1   0     0    0    0   1.717     57  0.00
+   43   43     0   0   0   0   0   0   0  93   4   0   0   0   0   0   1   0   0   1   0   0     0    0    0   0.362     12  0.00
+   44   44     7   5  51  19   1   0   0   0   0   0   0   0   0   0   2   0  12   2   0   0     0    0    0   1.522     50  0.00
+   45   45    17   0   1   0   0   0   0   1  72   0   4   0   1   0   1   0   0   0   0   1     0    0    0   0.961     32  0.00
+   46   46     3  82   3   2   3   0   0   0   0   0   0   1   0   0   0   0   5   0   0   0     0    0    0   0.797     26  0.00
+   47   47     2   0   0   0   1   0   0   1   2   0   2   0   0   3   0   1   0  11  74   3     0    0    0   1.106     36  0.00
+   48   48     9  80   3   0   1   0   0   1   2   2   1   1   0   0   0   0   0   0   0   0     0    0    0   0.845     28  0.00
+   49   49     0   0   0   1   0   0   0   6   2   0   5   0   0   0   2   0   3  74   1   6     0    0    0   1.088     36  0.00
+   50   50     1   0   0   1   0   0   0   8   6   8   5   2   0   0   4   3   3  10  43   5     0    0    0   2.012     67  0.00
+   51   51     0   1   1   0   0   0   0   5   1   0   3   2   0   1   0   3   1  46  11  26     0    0    0   1.620     54  0.00
+   52   52     3   2   1   1   1   0   1   1   1   0   7   4   0   0   5   7   3   3  58   2     0    0    0   1.695     56  0.00
+   53   53    83   1   4   0   1   0   0   1  10   0   0   0   0   0   0   0   0   1   0   0     0    0    0   0.703     23  0.00
+   54   54     7   1   3   0   1   0   1  69   2   0   1   1   0   0  13   0   0   0   0   0     0    0    0   1.153     38  0.00
+   55   55    45   2  36   0   0   0   0   0   8   0   0   4   3   0   0   0   0   0   0   0     0    0    0   1.344     44  0.00
+   56   56    42   1   9   0   0   0   0   1  38   0   0   1   0   0   0   0   7   1   0   0     0    0    0   1.338     44  0.00
+   57   57    35   8   8  37   0   0   0   0   8   2   0   0   0   0   0   0   0   0   0   0     0    0    0   1.485     49  0.00
+   58   58     0   9   1  14  38   0   1   0   0   0  32   0   0   0   0   0   0   0   0   6     0    0    0   1.497     49  0.00
+   59   59     0   0   0   0   0   0   0  59  31   1   4   0   0   0   0   0   0   2   1   2     0    0    0   1.075     35  0.00
+   60   60     0   0   0   0   1   0   0   2   3   4  30  44   0   0   0   0   0   3   5   7     0    0    0   1.602     53  0.00
+   61   61     1   0   1   0   2   0   4   5   1   0   7   8   0   0   1   0   0   6   1  62     0    0    0   1.495     49  0.00
+   62   62     1   3   0   0   0   0   1  43   2   0   3  26   0   0   6   2   1   5   1   7     0    0    0   1.764     58  0.00
+   63   63     2  43   5   1   0   0   0  13  24   0   2   1   0   1   0   1   0   1   2   3     0    0    0   1.755     58  0.00
+   64   64    10  14  38  23   0   0   0   0   1   0   1   7   0   0   0   0   0   0   0   5     0    0    0   1.689     56  0.00
+   65   65     2   2   1   1   0   0   0   1   4   1   2   4   0   0  41  32   4   1   2   0     0    0    0   1.724     57  0.00
+   66   66     1   0   1   0   0   0   0  31   1   1   1   1   0   0  13   5   2  42   0   0     0    0    0   1.545     51  0.00
+   67   67     0   1   0  28   1   0   1  62   0   0   0   1   0   0   0   1   0   0   3   1     0    0    0   1.111     37  0.00
+   68   68     0   3   1   8   0   0   0   0   2   0   6   7   0   0   0   0   6  29   0  34     0    0    0   1.826     60  0.00
+   69   69    32  23   5   0   1   0   0   0   2   1   5   7   0   0   3   8   1   9   1   1     0    0    0   2.075     69  0.00
+   70   70    65   1  29   0   0   0   0   0   3   0   0   0   2   0   0   0   0   0   0   0     0    0    0   0.901     30  0.00
+   71   71     3   6   6   0   0   0   1   0   0   0   2   2   0   0   7  36   2   4   1  28     0    0    0   1.893     63  0.00
+   72   72     0   0   0   0  10   0   1   2   6   3   2   1   3   0  46   0   0   0   5  18     0    0    0   1.777     59  0.00
+   73   73     0   5   0   0   0   0   0   0   0   0   3  89   0   0   1   1   1   0   0   0     0    0    0   0.508     16  0.00
+   74   74     0   0   0   0   0   0   0  92   0   0   0   0   0   0   0   2   1   2   2   0     0    0    0   0.468     15  0.00
+   75   75     0   0   0   0   0   0   0   1  39   0  25   1   0   2   8   7   2   6   2   5     0    0    0   1.858     62  0.00
+   76   76     4   2  39   1   0   0   0   2   7  40   1   2   0   0   0   0   0   1   0   0     0    0    0   1.474     49  0.00
+   77   77    27  43  17   4   1   0   0   0   5   0   0   0   0   1   0   1   0   0   0   0     0    0    0   1.497     49  0.00
+   78   78     0   0   0   0   0   0   0   0   1   0  40   3   0   1   6   7   6   8   1  25     0    0    0   1.766     58  0.00
+   79   79    78   3  11   1   1   0   0   0   2   0   0   6   0   0   0   0   0   0   0   0     0    0    0   0.863     28  0.00
+   80   80     0   0   0   0   0   0   0   2   1  92   0   0   0   0   1   1   1   0   1   0     0    0    0   0.433     14  0.00
+   81   81    75   2   2   0   0   0   0   0  19   0   0   1   0   0   0   0   0   0   0   0     0    0    0   0.778     25  0.00
+   82   82     0   0   0   0   0   0   0  87   0   0  11   0   0   0   0   0   0   0   0   1     0    0    0   0.474     15  0.00
+   83   83     0   2   0   1   0   0   1  28   1   6   0   1   0   0   5  28   1  19   1   6     0    0    0   1.911     63  0.00
+   84   84     3   0   0   0   0   0   0   7  59   0   3   1   0   1   0   1   1  13   2   9     0    0    0   1.508     50  0.00
+   85   85     4  19   1  29   2   1   3   0   0   0   0  43   0   0   0   0   0   0   0   0     0    0    0   1.411     47  0.00
+   86   86     1  93   3   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.360     12  0.00
+   87   87     0   0   0   0   0   0   0  99   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.054      1  0.00
+   88   88     0   0   0   0   0   0   0   0   0   0   0   0   0   0  97   1   1   0   0   0     0    0    0   0.200      6  0.00
+   89   89    51   1  46   1   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0     0    0    0   0.843     28  0.00
+   90   90    37   6   7   6  45   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.256     41  0.00
+   91   91     0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0  62  37     0    0    0   0.714     23  0.00
+   92   92    45   0   0   0   0   0   0  14  32   6   2   1   0   0   0   0   0   0   0   0     0    0    0   1.318     43  0.00
+   93   93     2  79   7   1   2   0   0   0   1   0   8   1   0   0   1   0   0   0   0   0     0    0    0   0.892     29  0.00
+   94   94     0   0   0   0   0   0   0  96   3   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.221      7  0.00
+   95   95    20   1   0   0   0   0   0   0   2   0   0   0   0   0   6   9   5  45   8   3     0    0    0   1.724     57  0.00
+   96   96     1   0   0   0   1   0   0   0   4  90   1   2   1   0   0   0   0   0   0   0     0    0    0   0.505     16  0.00
+   97   97    31   5  62   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.924     30  0.00
+   98   98     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  98     0    0    0   0.120      3  0.00
+   99   99     0   2   0   1   0   0   0  47   1   0   0   0   0   0   0   1   0   9  35   3     0    0    0   1.358     45  0.00
+  100  100     0  35   0   1   0   0   0   8   1   0   1   0   0   0  25  25   2   1   1   1     0    0    0   1.659     55  0.00
+  101  101     0   0   0   0   0   0   0  86   1   7   0   0   0   0   0   1   0   3   0   0     0    0    0   0.629     20  0.00
+  102  102     1   1   0   0   0   0   0   0  23  56   1   0   0   0   0   1   1   9   1   5     0    0    0   1.354     45  0.00
+  103  103    40  27  27   0   2   0   0   0   1   2   0   0   0   0   0   0   0   0   0   0     0    0    0   1.358     45  0.00
+  104  104     3   4   2   0   1   0   1   6   5   4  22   3   0   0   0   8   2   4   3  34     0    0    0   2.144     71  0.00
+  105  105     4   1   0   0   1   0   1   1  12   5   9  39   1   1   0   1   0   3   3  20     0    0    0   1.966     65  0.00
+  106  106     2   3   1   1   0   0   0   2   2   1   7   5   0  19  26   9   1  10   3   8     0    0    0   2.273     75  0.00
+  107  107     1   2   1   0   0   0   0   2   9   1   1  32   0   2   1   5   4  33   1   5     0    0    0   1.933     64  0.00
+  108  108     1   2   0   1   6   1   6   0   0   0   3  36   0   1  33   2   1   5   1   1     0    0    0   1.824     60  0.00
+  109  109     1   8   0   1   1   4   2   0   4   0  32   1   0   0  38   2   0   1   0   4     0    0    0   1.750     58  0.00
+  110  110     1   4   0   0   3   0   1   0   5  46   3   0   0   0  27   1   1   2   1   6     0    0    0   1.699     56  0.00
+  111  111    32   7  57   0   0   0   0   0   2   1   0   1   0   0   0   0   0   0   0   0     0    0    0   1.069     35  0.00
+  112  112     1   1   1   0   1   0   1   4   1   0   2   1   0  46   0   0   2  33   2   5     0    0    0   1.551     51  0.00
+  113  113    22   5   4   1   1   0   0   6   7   0   5   1   0   0  38   5   1   1   1   0     0    0    0   1.952     65  0.00
+  114  114     0   1   3   2   0   0   0   0   4  10  31   1   0   0   1  32   4   7   3   2     0    0    0   1.939     64  0.00
+  115  115     1   0   0   0   0   0   0   3  84   8   2   1   0   0   0   1   0   0   0   0     0    0    0   0.662     22  0.00
+  116  116     0   1   5   1   0   0   1   0   0  88   1   0   0   0   0   0   2   0   0   0     0    0    0   0.600     20  0.00
+  117  117     0   0   0   0   0   0   0  38  33   5   6   2   0   0   0   3   0   3   8   2     0    0    0   1.649     55  0.00
+  118  118     6   1  36   0  41   0   3   0   1  10   0   0   0   0   0   0   0   0   0   0     0    0    0   1.391     46  0.00
+  119  119     7   4  61   8   0   1   1   0   2   0   2   1   0   0   0   0   1   5   4   2     0    0    0   1.569     52  0.00
+  120  120     0   0   0   0   0   0   0   0   5   9   6   2   0   0   0   1  30  36   1   7     0    0    0   1.786     59  0.00
+  121  121     0  36   0   2   0   0   0   0   0   0   0   0   0   0  55   0   6   0   0   0     0    0    0   0.996     33  0.00
+  122  122     1   1   7   0   0   0   0   1   4   1   9   4   0   0   5  27   5   5   1  29     0    0    0   2.028     67  0.00
+  123  123     3   1   0   0   1   0   8   1   1   4  37  38   0   0   1   1   0   1   2   0     0    0    0   1.605     53  0.00
+  124  124    40   1   5   0   0   0   0   0   1   9   4   2   0   0   2  30   1   5   0   0     0    0    0   1.680     56  0.00
+  125  125     1  30   0   0   1   0   2   0   1   1   3   4   1  26   6   1   5   9   3   3     0    0    0   2.167     72  0.00
+  126  126     0   0   0   0   0   0   0   0   1   0  30   1   0   1   1   0   6  56   0   2     0    0    0   1.205     40  0.00
+  127  127     3   2  41   7   3   0   0   0   0  42   0   0   0   0   0   0   1   0   0   0     0    0    0   1.344     44  0.00
+  128  128     3  25  10  26  36   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.417     47  0.00
+  129  129     5   1   1   0   0   0   0   0   1   2   2   0   0   0   0   0  43  42   0   2     0    0    0   1.359     45  0.00
+  130  130     1   2   0   0   0   0   0   0   0   0   0  97   0   0   0   0   0   0   0   0     0    0    0   0.175      5  0.00
+  131  131     0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.015      0  0.00
+  132  132     7  25  65   0   0   0   3   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.925     30  0.00
+  133  133     1   1   2   0   0   0   0   0   0   0   9   1   0   0   5  81   0   0   0   0     0    0    0   0.782     26  0.00
+  134  134    47   0   1   0   0   0   0   0  44   1   4   3   1   0   0   0   0   0   0   0     0    0    0   1.075     35  0.00
+  135  135    67   1  32   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.706     23  0.00
+  136  136     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   2  98     0    0    0   0.086      2  0.00
+  137  137     4  45   1   0   0   0   0   9  10   0  30   1   0   0   0   0   0   0   0   0     0    0    0   1.421     47  0.00
+  138  138     1  76   1  19   2   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0     0    0    0   0.763     25  0.00
+  139  139    30   6   8   0   0   0   0   0  39   0   0   3   3   0   0   0   0   0   9   0     0    0    0   1.622     54  0.00
+  140  140     0   0   0   0   0   0   0   0   0  85   6   8   0   0   0   0   0   0   0   0     0    0    0   0.567     18  0.00
+  141  141     4   4  44   0   3   0  41   0   0   0   0   0   3   0   0   0   0   0   0   0     0    0    0   1.220     40  0.00
+  142  142     4   1   2   0   0   0   0  45  12   1   1   0   1   0  31   0   2   0   0   0     0    0    0   1.475     49  0.00
+  143  143     0   0   1   0   0   0   0   0   0   0   0   0   0   0  82  13   0   2   0   0     0    0    0   0.658     21  0.00
+  144  144     0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.017      0  0.00
+  145  145     0   0   0   0   0   0   0  45   0   0   0   0   0   0   0   0  55   0   0   0     0    0    0   0.717     23  0.00
+  146  146     0   0   0   0   0   0   0   0   0   0   0   0   0   0  45  55   0   0   0   0     0    0    0   0.688     22  0.00
+  147  147     5   4  48   2   0   0   0   0   0   0   0   1   0   0   0   0   1  38   0   0     0    0    0   1.177     39  0.00
+  148  148     0  38   0   0   0   0   0  52   0   9   0   0   0   0   0   0   0   0   0   0     0    0    0   0.955     31  0.00
+  149  149     1  48  50   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.779     26  0.00
+  150  150     1   0  38   0  60   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.783     26  0.00
+  151  151     0   0   0   0   0   0   0  84   5   0  10   0   0   0   0   0   0   0   0   0     0    0    0   0.558     18  0.00
+  152  152     0   0   0   0   0   0   0  52   7   0   1   0   0   0   0   0   0   1   0  39     0    0    0   1.005     33  0.00
+  153  153     0   0   0   0   0   0   0   0  52   1   7   0   0   0  38   1   0   0   0   0     0    0    0   1.049     35  0.00
+  154  154     0   0   0   0   0   0   0  60   0   0   0   0   0   0   0   1  38   0   0   0     0    0    0   0.753     25  0.00
+  155  155    49   8   1   0   0   0   0   1   0   0   1  39   1   0   0   0   0   0   0   0     0    0    0   1.119     37  0.00
+  156  156     0   0   0   0   0   0   0  92   0   8   0   0   0   0   0   0   0   0   0   0     0    0    0   0.292      9  0.00
+  157  157     0   0   0   0   0   0   0   0   0   0   0   0   0   8   0  91   0   0   0   0     0    0    0   0.347     11  0.00
+  158  158     0   0   0   0   0   0   0   0   0   0   6  85   0   0   0   0   0   0   8   0     0    0    0   0.556     18  0.00
+  159  159    46   0   0   1   0   0   0   0  31   0   7   5   0   0   0   0   1   7   0   1     0    0    0   1.429     47  0.00
+  160  160    10  49  37   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   3   0     0    0    0   1.104     36  0.00
+  161  161     1   4  42   5   0   0   0   0  47   0   0   0   1   0   0   0   0   0   0   0     0    0    0   1.120     37  0.00
+  162  162     3   7  32  42   0   0   0   1   8   0   0   2   0   0   0   0   5   0   0   0     0    0    0   1.514     50  0.00
+  163  163     0   0   0   0   0   0   0   2   1   0   1   0   0   0   0   0   9  46   0  39     0    0    0   1.213     40  0.00
+  164  164     0  46   7   3   0   0   0   0   6   0   1  35   0   0   0   0   0   1   0   0     0    0    0   1.310     43  0.00
+  165  165     2   4  88   2   0   0   0   0   2   0   0   0   1   0   0   0   0   0   0   0     0    0    0   0.541     18  0.00
+  166  166     2  30  13   1   0   0   0   0   2   0   1   0   4   3   5   1   0   0  39   0     0    0    0   1.696     56  0.00
+  167  167     0   0   0   0   0   0   0   1   2   1   1   0   0   0   6   1   2   1  85   0     0    0    0   0.733     24  0.00
+  168  168     5   0  37   2   0   0   1   3   2   0   1   0   0   0   0   1  44   1   1   0     0    0    0   1.461     48  0.00
+  169  169     0   1   2   0   0   0   0   1  44   0   1   1   0   0   3  42   2   4   0   0     0    0    0   1.298     43  0.00
+  170  170     3   1   3   1   0   0   1   3   4   0   2   1   0   0  12  41  24   2   0   2     0    0    0   1.855     61  0.00
+  171  171     4   5   6  15   4   1   1   1  40   0   3   4   0   0   2   2   4   7   1   0     0    0    0   2.129     71  0.00
+  172  172     1   1   0   0   0   1   0   2   2   0   0   0   0  49   3   2   0   2  33   3     0    0    0   1.469     49  0.00
+  173  173     0   0   0   0   0   0   0  13   2   0  26   1   0   1   2   2   1  39   2  10     0    0    0   1.756     58  0.00
+  174  174     3   0   0   0   0   0   1  50   5   0   3   2   0   1  32   1   0   1   1   1     0    0    0   1.403     46  0.00
+  175  175     5   2   5   1   0   0   0   4   4   1   4  62   1   2   0   1   2   1   5   1     0    0    0   1.631     54  0.00
+  176  176     0   0   1   0   0   0   0   2   0   0  29   1   0   0  35   2   0   2   3  23     0    0    0   1.589     53  0.00
+  177  177     1   4   0   0   0   0   3   0   0   1   3   2   0   1   0   1   1  79   0   3     0    0    0   1.025     34  0.00
+  178  178     0   0   0   0   0   0   3  41   1   0  32   1   0   1   1   6   1   5   4   5     0    0    0   1.651     55  0.00
+  179  179     1   0   0   1   2   0   0   1   1   0   3   1   0   1   0  12   2  33  38   4     0    0    0   1.673     55  0.00
+  180  180     0   0   0   0   0   0   0   5   3   0   2  23   1   0   0  11   1   7   6  40     0    0    0   1.787     59  0.00
+  181  181    13  65   5   6   7   0   0   0   0   0   0   0   0   0   0   0   0   0   2   1     0    0    0   1.240     41  0.00
+  182  182     5   1   9   0   6   0  67   0   6   0   0   0   0   0   1   4   0   0   0   0     0    0    0   1.259     42  0.00
+  183  183     6   0   7   2   0   0   0   0   3   1  17   1  58   0   2   0   0   3   0   0     0    0    0   1.479     49  0.00
+  184  184    74   0  21   0   0   0   0   0   0   0   3   0   0   0   0   0   0   1   0   0     0    0    0   0.758     25  0.00
+  185  185     3   2   3   1  34   0  52   3   0   0   0   0   0   0   0   1   0   0   0   0     0    0    0   1.259     42  0.00
+  186  186    55   1   0   0   0   0   0   4  33   0   1   3   0   0   0   1   0   0   0   0     0    0    0   1.156     38  0.00
+  187  187     0   8   3   0   0   0   0  23  63   0   1   0   0   0   0   0   0   2   0   0     0    0    0   1.116     37  0.00
+  188  188    19   0  44  34   0   0   0   0   0   0   1   0   0   0   0   0   0   0   2   0     0    0    0   1.209     40  0.00
+  189  189     0   0   0   0   0   0   0  72   0   0   0   0   0   0   0   0   0  27   1   0     0    0    0   0.667     22  0.00
+  190  190     7   0   2  25   0   0   0   0   0   0   0   0   0   0   0   0  40  24   0   0     0    0    0   1.414     47  0.00
+  191  191     0   0   0   0   0   0   0   0   0   0   0   2   0   0  24  64   0   1   8   0     0    0    0   1.012     33  0.00
+  192  192     0   1   0   5   0   0   1   8   6   0   1  14   0   1  27   1   1  31   1   1     0    0    0   1.902     63  0.00
+  193  193     0   0   0   0   0   0   0   0   0   0  66   0   0   0  22   0   0  10   0   1     0    0    0   0.960     32  0.00
+  194  194     0   0   0   2   0   0   0  25   1   0   5  38   0   0   0   4   0  25   1   0     0    0    0   1.504     50  0.00
+  195  195    70   1   6   0   0   0   0  15   7   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.005     33  0.00
+  196  196     0   1  25   0   0   0   0   1  39   1   1   1   0   0  10   2   0   2  16   0     0    0    0   1.667     55  0.00
+  197  197     0   3   0   0   6   0   1   1   1   0   2   1   0   0   1   0  32   7  28  16     0    0    0   1.831     61  0.00
+  198  198    14  42   5   0  21   0   0   2   0   0   0   0   0   0   0   0   1  14   0   0     0    0    0   1.635     54  0.00
+  199  199    41   2   7   2   2   1  18   0   0   0   0   1   0   0   1   5  13   6   0   0     0    0    0   1.861     62  0.00
+  200  200     0   1   2   1   1   1   1   4   1   0   4   3   0   8   5  14  25   9  17   2     0    0    0   2.317     77  0.00
+  201  201     1   3  34   0   1   0   0   0   1   0   2   8   0   1   5   8   5  17   7   7     0    0    0   2.129     71  0.00
+  202  202     1  44   7  19  11   0   0   0  13   1   0   0   0   1   0   0   0   1   1   2     0    0    0   1.695     56  0.00
+  203  203     0   5   4   1   0   0   0   2   5   6  14   5   0   1   3   8   3  38   5   1     0    0    0   2.133     71  0.00
+  204  204     1   0   0   0   0   0   0   5   1   0  13   0   0   0   2   3   4  60   1  10     0    0    0   1.434     47  0.00
+  205  205     0   1   0   0   0   0   2   4  24   4  17   5   0   4   3  16   1   4  16   0     0    0    0   2.205     73  0.00
+  206  206    13   1   8   0   0   0   0  30   0   4   1   1   0   0   0   6   2   4  21  10     0    0    0   2.038     68  0.00
+  207  207    16   1   1   0   0   0   0   7  63   0   7   1   0   0   1   2   0   0   1   0     0    0    0   1.258     42  0.00
+  208  208     0  49   8  17   0   0   0   0   9   0   1   2   0   0   2   0   0  10   0   0     0    0    0   1.622     54  0.00
+  209  209    13   0   0   0   0   0   0   2   3   0  17   0   0   1   6   8   1  35   2  12     0    0    0   1.959     65  0.00
+  210  210     0   1   0   4   0   0  51   0   0   0   1   0   0   0  10  25   0   0   6   0     0    0    0   1.447     48  0.00
+  211  211    26   1   0   0   0   0   0   0   3   1  33  27   4   0   4   1   0   0   0   0     0    0    0   1.569     52  0.00
+  212  212    19   1  41   0   0   0   0   0  24   0   3   6   5   0   0   0   0   0   0   0     0    0    0   1.536     51  0.00
+  213  213    19  59  10   6   0   0   0   4   1   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.234     41  0.00
+  214  214    79   5   4   0  10   0   0   0   0   0   0   0   1   0   0   0   0   0   1   0     0    0    0   0.813     27  0.00
+  215  215     8   9   0   1   7   0  25   0  34   0   4   6   2   2   0   0   0   0   2   0     0    0    0   1.931     64  0.00
+  216  216     0   0   0   0   0   0   1  41  44   0   3   0   0   0   0   0   0   2   8   0     0    0    0   1.226     40  0.00
+  217  217     0  12   0   1   0   0   0   2   0   2   5  35   0   0   0   0  41   0   2   0     0    0    0   1.449     48  0.00
+  218  218     0   0   0  42   0   0   0   0  50   0   6   0   0   0   0   0   1   0   0   0     0    0    0   1.008     33  0.00
+  219  219     0   0   0   1   0   0   0   0   1   0  35   0   0   0   0   0   0   0  51  11     0    0    0   1.101     36  0.00
+  220  220     1   0   0   0   0   0   0   0   0   0   2   0   0   0   2   0   3  51   1  39     0    0    0   1.146     38  0.00
+  221  221     0   1   0   0   0   0   0   0   5  83  10   1   0   0   0   0   0   1   0   0     0    0    0   0.680     22  0.00
+  222  222     0   0   0   0   0   0   0   0  42  46   4   7   0   0   0   0   0   0   0   0     0    0    0   1.077     35  0.00
+  223  223     2   3   8   2   0   0   0  44   5  30   2   4   0   0   0   0   0   0   0   0     0    0    0   1.568     52  0.00
+  224  224     0  37   0   4   1   0   0   0  40   1   1   1   0   0   0   0   0  11   3   0     0    0    0   1.467     48  0.00
+  225  225     0   2   1   0   0   0   0   0   0   0   0   0   0   0  58   2  36   0   0   0     0    0    0   0.966     32  0.00
+  226  226     1   5   9  34  25   0  15   0   7   0   0   1   1   0   1   1   0   0   1   0     0    0    0   1.825     60  0.00
+  227  227     1  35  12   2   0   0   1   0   0   0   0   0   0   0  44   2   1   0   1   0     0    0    0   1.382     46  0.00
+  228  228    42   0   1   0   0   0   0   2  43   0   1   9   0   0   0   0   0   0   0   0     0    0    0   1.193     39  0.00
+  229  229     0   0   0   0   0   0   0  32  18  49   0   0   0   0   0   0   0   0   0   0     0    0    0   1.094     36  0.00
+  230  230     0  43   0   1   5   0  39   0   1   0   0   0   0   1  10   0   0   0   0   0     0    0    0   1.307     43  0.00
+  231  231     3   5   3   3   0   0   1   0   6   1  28  50   1   0   0   0   0   0   0   0     0    0    0   1.450     48  0.00
+  232  232     0   0   0   0   0   0   0  52  47   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.759     25  0.00
+  233  233     5  53   1   1   0   0   0   0   6   0   1   6  27   0   0   0   0   0   0   0     0    0    0   1.310     43  0.00
+  234  234     0   1   0   0   0   0   0   0  32   0   6  60   0   0   1   0   0   0   0   0     0    0    0   0.954     31  0.00
+  235  235     7   5  12  67   0   0   0   0   2   0   0   6   0   0   0   0   0   0   0   0     0    0    0   1.163     38  0.00
+  236  236     0   0   0   0   0   0   0  31  69   0   1   0   0   0   0   0   0   0   0   0     0    0    0   0.671     22  0.00
+  237  237     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1  99   0   0     0    0    0   0.064      2  0.00
+  238  238     0   0   0   0   6   1  83   0   0   0   0   0   0   4   0   2   0   2   0   1     0    0    0   0.794     26  0.00
+  239  239     0   9   0   0  88   2   1   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.477     15  0.00
+  240  240     0   1   0   8   0   0   0   0   9   0   0   0   0   0  81   1   0   0   0   0     0    0    0   0.704     23  0.00
+  241  241     0   0   0   0   0   0   7   0   0   0   1   0   0   0   0   1   4   5   1  80     0    0    0   0.844     28  0.00
+  242  242     0   0   0   0   0   0   1   0   0   0   1   2   5   2   5   5  11   8  59   1     0    0    0   1.551     51  0.00
+  243  243     0   0   0   0   0   0   0  57   2   0   0   0   0   0   0   5   0  31   2   2     0    0    0   1.121     37  0.00
+  244  244     0   3   0  23   0   0   1   0   0   0   0   0   0   1   7  18  43   3   0   1     0    0    0   1.579     52  0.00
+  245  245     0   0   0   0   0   0   0   0   1   1   0   0   0  42   2   1   1   1   3  48     0    0    0   1.144     38  0.00
+  246  246    65   0   1   0   0   0   0   0  29   0   0   4   0   0   0   0   0   0   0   1     0    0    0   0.908     30  0.00
+  247  247     2  96   0   0   0   0   0   0   1   0   1   0   0   0   0   0   0   0   0   0     0    0    0   0.244      8  0.00
+  248  248    12  48  34   1   4   0   0   0   0   0   0   1   1   0   0   0   0   0   0   0     0    0    0   1.223     40  0.00
+  249  249     7   3  42   2  46   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.143     38  0.00
+  250  250     4   9  42   5   3   0  36   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.378     45  0.00
+  251  251     0   0   0   0   0   0   0   0   0   0   0   9   0   0   0   0   0   0   0  91     0    0    0   0.329     10  0.00
+  252  252     0   0   0   0   0   0   0   0   0   0   7   0   0   0   0   0   0   0  45  47     0    0    0   0.917     30  0.00
+  253  253     2  41  46   9   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0     0    0    0   1.100     36  0.00
+  254  254     0   0   0   0  42   0   3   0   0   0  42  13   0   0   0   0   0   0   0   0     0    0    0   1.100     36  0.00
+  255  255     0   0   0   0   0   0   0   0   0   0   6   0   0   0  53  38   0   0   3   0     0    0    0   1.034     34  0.00
+  256  256     0   1   0   0  46   1  14   0   0   0   0   0   0   5   0   0  33   0   0   0     0    0    0   1.269     42  0.00
+  257  257    32   0   1   0   0   0   0   0  50   0   1  12   3   0   0   0   0   0   0   0     0    0    0   1.205     40  0.00
+  258  258    31   3   1   2   0   0   0   0   1   0   1   0   0   1   3   0  47   7   1   3     0    0    0   1.517     50  0.00
+  259  259     0   0   0   0   0   0   0   0  98   0   1   0   0   0   0   0   0   0   0   0     0    0    0   0.122      4  0.00
+  260  260     0  11   0   1   0   0  37  44   0   0   0   0   0   0   0   0   4   0   2   0     0    0    0   1.301     43  0.00
+  261  261     0   0   0   0   0   0   0   0   2   0  42   3   0   0  53   0   1   0   0   0     0    0    0   0.909     30  0.00
+  262  262     0   0   0   0   0   0   0   0   1   0   0   1   0   0   0   0  31  66   0   1     0    0    0   0.791     26  0.00
+  263  263    54   5  11  30   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.104     36  0.00
+  264  264     0   0   0   0   0   0   0   5   3   0  92   0   0   0   0   0   0   0   0   0     0    0    0   0.371     12  0.00
+  265  265     0  44   1   0   0   0   0   0  53   0   0   1   0   0   0   0   0   0   0   0     0    0    0   0.834     27  0.00
+  266  266     0  81   1   0   0   0   0   0  15   0   1   0   0   0   0   0   0   0   0   0     0    0    0   0.638     21  0.00
+  267  267     1  84   1   1   0   0   0   0   3   0   1   0   0   0   9   0   0   0   0   0     0    0    0   0.672     22  0.00
+  268  268     0   0   0   0   0   0   0  53   0   0   0   0   0   0  37   1   0   8   0   0     0    0    0   1.016     33  0.00
+  269  269     0   0   0   0   0   0   0   0   0   0   0   0   0   0  83   1   0  16   0   0     0    0    0   0.521     17  0.00
+  270  270     9   1   7  38   0   0   0   0   0  44   0   1   0   0   0   0   0   0   0   0     0    0    0   1.269     42  0.00
+  271  271     0   1   0   0   0   0   0   0   0  98   0   0   0   0   0   0   0   0   0   0     0    0    0   0.132      4  0.00
+  272  272     1   0   0   0   0   0   0  47   2   0  46   3   0   0   0   0   0   0   0   0     0    0    0   0.959     32  0.00
+  273  273     0   0   0   0   0   0   0   0  46   0   1   2   0   0  50   0   0   0   0   0     0    0    0   0.896     29  0.00
+  274  274    45   0   0   0   0   0   0   2   0   0   0   0   0   1  11   3   0  38   0   0     0    0    0   1.229     41  0.00
+  275  275     0   0   0   0   0   0   0  61  37   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.746     24  0.00
+  276  276     0   0   0   0  30   0  69   0   0   0   1   0   0   0   0   0   0   0   0   0     0    0    0   0.688     22  0.00
+  277  277     0   0   0   0   0   0   0   0   1  53   0   1   0   0   0   0  45   0   0   0     0    0    0   0.802     26  0.00
+  278  278     0   0   0   0   0   0   0  47   1  51   0   0   0   0   0   0   0   0   0   0     0    0    0   0.799     26  0.00
+  279  279     0   0   0   0   0   0   9   0   0   0   7  45   0   0   0   0   0   0   0  39     0    0    0   1.182     39  0.00
+  280  280    45  44   2   8   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.029     34  0.00
+  281  281     0   1   0   0  46   0   9   2  13   0  29   0   0   0   0   0   0   0   0   0     0    0    0   1.362     45  0.00
+  282  282     0   0   0   0   1   0  41   0   3   0   3  49   0   1   0   0   0   2   0   1     0    0    0   1.175     39  0.00
+  283  283     1  39   2   0   0   0   0   0   1   0   1   1   0   1   0   1   0  38   0  15     0    0    0   1.408     46  0.00
+  284  284     1  16   1  41   0   0   0   0   0   0   0   0   0  41   0   0   0   0   0   0     0    0    0   1.138     37  0.00
+  285  285     0   0   0   0   0   0   0  43   7   6  43   0   0   0   0   0   0   0   0   0     0    0    0   1.101     36  0.00
+  286  286     1   1   0   0   0   0   0   3   3   0  26  14   0   0  43   3   5   2   0   0     0    0    0   1.673     55  0.00
+  287  287     0  88   8   3   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.480     16  0.00
+  288  288     1  43   0   1   0   0   9   0   0   0   1   0   0   0   0   0  43   0   0   0     0    0    0   1.155     38  0.00
+  289  289     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  99   0   0     0    0    0   0.056      1  0.00
+  290  290     0   0   0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0     0    0    0   0.025      0  0.00
+  291  291     0   0  44   0   0   0   0   0  49   1   5   1   0   0   0   0   0   0   0   0     0    0    0   0.993     33  0.00
+  292  292     0   0   0   0   0   0   0  16  36   0   5  42   1   0   0   0   0   0   0   0     0    0    0   1.252     41  0.00
+  293  293     0   0   0   1   0   0   0   0   0   1  40   5   0   0  11  39   1   0   1   0     0    0    0   1.398     46  0.00
+  294  294    11  12   3   4   1   0   0   1   0   0   1  45   0   0  20   0   0   1   1   0     0    0    0   1.648     55  0.00
+  295  295     0   1   0   0   0   0   0   1   0   1  29   1   1   0   2  42   1   8  14   1     0    0    0   1.557     51  0.00
+  296  296     0   0   0   0   0   0   0  10   1   1   2   2   0   0   1  15   1  31   4  32     0    0    0   1.733     57  0.00
+  297  297     1   3   2   0   3   0   1   1  11   0   3   1   0   0  13   9  38   9   2   4     0    0    0   2.079     69  0.00
+  298  298     0  15   1   0  14   0   6   1   0   1   2  47   0   2   0   6   0   3   1   0     0    0    0   1.803     60  0.00
+  299  299     0   0   0   0   0   0   0  81   2   0   0   1   0   0   0   9   0   1   3   0     0    0    0   0.805     26  0.00
+  300  300     2   0   0   0   0   0   0  19  44   0   3   6   0   1   0   8   1   5  11   0     0    0    0   1.758     58  0.00
+  301  301     0   0   0   0   0   0   0  99   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.068      2  0.00
+  302  302     0   0   0   0   0   0   0   0   1   0  96   3   0   0   0   0   0   0   0   0     0    0    0   0.202      6  0.00
+  303  303     4  22  59   4   0   0   0   0   0   0  10   0   0   0   0   0   0   0   0   0     0    0    0   1.162     38  0.00
+  304  304     0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0     0    0    0   0.025      0  0.00
+  305  305     0   0   0   0   0   0   0   1  46   0  44   0   0   0   0   0   9   0   0   0     0    0    0   1.026     34  0.00
+  306  306    10  39  42   2   8   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.234     41  0.00
+  307  307     0   0   0   0   1   0   6   0   0  49   0   0   0   0   0   0  43   0   0   0     0    0    0   0.959     32  0.00
+  308  308    25   0  23   0   2   0   0   0  44   0   1   6   0   0   0   0   0   0   0   0     0    0    0   1.322     44  0.00
+  309  309    47   9  44   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.959     32  0.00
+  310  310     0   7   0   0   0   0  43   0   0   0   0   8   0   0   0   0   0  40   0   0     0    0    0   1.209     40  0.00
+  311  311    47   1   0   9   0   0   0   0   1   0   0  41   0   0   0   0   0   0   0   0     0    0    0   1.075     35  0.00
+  312  312     0   4   0   0   0   0   0   0   0  53   0   0   0   0   0   1  35   5   0   1     0    0    0   1.156     38  0.00
+  313  313     0   0   0   0   0   0   0   7  77   0   2   0   0   0   0   0   1   4   7   2     0    0    0   0.892     29  0.00
+  314  314     0   0   0   0   0   0   0  38   0   0   0   0   0   0   0   0   0   1   2  58     0    0    0   0.836     27  0.00
+  315  315     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1  97     0    0    0   0.165      5  0.00
+  316  316    37  41  12   2   1   0   3   0   0   0   0   1   0   1   0   0   1   1   0   0     0    0    0   1.403     46  0.00
+  317  317     0   0   0   0   0   0   0   0   1   0  38  56   0   0   0   0   1   0   2   0     0    0    0   0.934     31  0.00
+  318  318     0   0   0   0   0   0   0   0  36   0   4   0   0   9   0   0   0   2   0  48     0    0    0   1.208     40  0.00
+  319  319     0   0   0   0   6   0  34   0   0  59   0   0   0   0   0   0   0   0   0   0     0    0    0   0.878     29  0.00
+  320  320     5   0  49   0   0   0   0   0  42   0   2   2   0   0   0   0   0   0   0   0     0    0    0   1.076     35  0.00
+  321  321     1   0   0   0   0   0   0   1   6  92   1   0   0   0   0   0   0   0   0   0     0    0    0   0.373     12  0.00
+  322  322     0   0   0   0   0   0   0   0  42   0   1  40   0   0   0   0   0   1   0  14     0    0    0   1.163     38  0.00
+  323  323     0   9   0   0   0   0   0   0   1   0   2  43   0   0   0   0   1   3  41   0     0    0    0   1.233     41  0.00
+  324  324    42   1   2   0   0   0   0   0   3   0   2  51   0   0   0   0   0   0   0   0     0    0    0   1.015     33  0.00
+  325  325     0   0  40   0  44   0   0   9   0   0   0   0   0   0   6   1   0   0   0   0     0    0    0   1.187     39  0.00
+  326  326     0   0   0   0   1   0   8   2  43  13  32   1   0   0   0   0   0   0   0   0     0    0    0   1.374     45  0.00
+  327  327     1   1  54   0   0   0   0   0   0   0   0   0   0  44   0   0   0   0   0   0     0    0    0   0.806     26  0.00
+  328  328     0  50   0   0   0   0   0   0   0   0   0  49   0   0   0   0   0   0   0   0     0    0    0   0.758     25  0.00
+  329  329     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   9   0  91     0    0    0   0.328     10  0.00
+  330  330     0   0   0   0   0   0   0  56  42   0   1   0   0   0   0   0   0   0   0   0     0    0    0   0.761     25  0.00
+  331  331     0   0   0   0   0   0   0   0   0   0   0  43   0   7   0   1  49   0   0   0     0    0    0   0.967     32  0.00
+  332  332     3   1  52   0   1   0   0   0   0   0   0  41   0   0   0   0   0   0   0   0     0    0    0   0.967     32  0.00
+  333  333    47   0   2   0  21   0   7   0   0   0   0   1  18   0   1   0   0   0   2   0     0    0    0   1.480     49  0.00
+  334  334     5  80   2   1   0   0   0   0   0   1  11   1   0   0   0   0   0   0   0   0     0    0    0   0.763     25  0.00
+  335  335     0   0   0   0   0   0   0   0   0   0  50   1   0   0   0   0   2  32   1  12     0    0    0   1.213     40  0.00
+  336  336     0   0   0   0   0   0   0   0   3   0   6  29   0   0  59   1   0   0   1   0     0    0    0   1.118     37  0.00
+  337  337     1   0   0   0   0   0   0  30   5   0   3   0   0   0   2   4  10  28   8  10     0    0    0   1.901     63  0.00
+  338  338     1  87  11   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.485     16  0.00
+  339  339     0   0   0   0  40   0   1   0  44   0   4   2   0   7   0   0   0   0   1   0     0    0    0   1.237     41  0.00
+  340  340     0   0   0   0   1   0  25   1  32   0   5   0   0   0   2   1   2  12  19   1     0    0    0   1.784     59  0.00
+  341  341     0   9   0   2   0   0   0   0   7   0   9   0   0   0  28  40   3   1   0   0     0    0    0   1.653     55  0.00
+  342  342     0   0   0   0   0   0   0  90   1   0   0   0   0   0   0   0   5   0   3   0     0    0    0   0.473     15  0.00
+  343  343     3   3  85   0   1   0   0   0   0   0   0   0   0   4   1   0   2   0   0   0     0    0    0   0.716     23  0.00
+  344  344     0   0   0   0   2   0  57   0   0   0   1   0   0   0  39   1   0   0   0   0     0    0    0   0.901     30  0.00
+  345  345     0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0     0    0    0   0.008      0  0.00
+  346  346     0   0   0   0   0   0   0   0  89  10   1   0   0   0   0   0   0   0   0   0     0    0    0   0.411     13  0.00
+  347  347    49   1  50   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.745     24  0.00
+  348  348     0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0  47  52     0    0    0   0.756     25  0.00
+  349  349    62   1   5   0   0   0   0   0   4  27   0   0   0   0   0   0   0   0   0   0     0    0    0   1.046     34  0.00
+  350  350     0  42   0   0   0   0   0  55   0   0   0   0   0   0   0   0   0   2   0   0     0    0    0   0.852     28  0.00
+  351  351     1  36  10   0   0   0   0   0   7  11  11   0   0   1   1   2   1   2   1  16     0    0    0   1.996     66  0.00
+  352  352     0   0   0   0   0   0   0   0   0   7  92   1   0   0   0   0   0   0   0   0     0    0    0   0.314     10  0.00
+  353  353    52  19   3   0   0   0   0   0   2   0   3  19   0   0   1   1   0   0   0   0     0    0    0   1.366     45  0.00
+  354  354     0   0   0   0   0   0   0   0   0   0  92   1   0   0   0   0   0   0   0   7     0    0    0   0.307     10  0.00
+  355  355     0   0   0   1   0   0   0   0   0   0   7   1   0   0  90   1   0   0   0   0     0    0    0   0.444     14  0.00
+  356  356    59  17   9   4   0   0   0   0   2   0   1   8   0   0   0   0   0   0   0   0     0    0    0   1.264     42  0.00
+  357  357     0   4   0  14   1   0   0  64   4   0   8   0   0   0   0   0   1   0   0   2     0    0    0   1.266     42  0.00
+  358  358     0   0   0   0   0   0   0  15   0   6  52  10   0   1   0  10   1   0   2   1     0    0    0   1.549     51  0.00
+  359  359     0   1   1   9   0   0   0   2  56   3  17   0   0   0   1   1   3   2   2   2     0    0    0   1.561     52  0.00
+  360  360     6   9   7   0   0   0   0   1  72   0   0   0   0   0   0   1   0   2   0   0     0    0    0   1.125     37  0.00
+  361  361    10   1   6   1   0   1   0   0   1   0   0   3   0   0   1   0  75   1   0   0     0    0    0   1.024     34  0.00
+  362  362     5  32  12   0   0   0   5   9   0  11   4  15   0   1   1   0   0   0   0   1     0    0    0   2.095     69  0.00
+  363  363     1   0   0   5   0   0   1   0   1   2   1   1   0   0  25  47   2  10   1   2     0    0    0   1.664     55  0.00
+  364  364     1   6  16   0   0   0   0   4  50   0   2   4   0   1   1   1   1  10   0   3     0    0    0   1.749     58  0.00
+  365  365    11   2   7  54   1   0   0   0   0   0   0   1   0  16   1   0   8   0   0   0     0    0    0   1.471     49  0.00
+  366  366     0   1   0   0   0   0  10   8   1   6   1   3   0   1   5  63   1   1   1   0     0    0    0   1.430     47  0.00
+  367  367     0   1   0   1   0   0   0   0   2   0   1   1   0   1   7  16  54  12   1   3     0    0    0   1.551     51  0.00
+  368  368    61  11  12   0   0   1   0   0   5   0   0   6   1   1   0   0   1   0   0   0     0    0    0   1.352     45  0.00
+  369  369     7   1   1   0   0   0   0   1  45   0  13   1  12   0  20   0   0   0   0   0     0    0    0   1.579     52  0.00
+  370  370     0   0   0   0   0   0   0  70   4   0   4   2   0   0   6   1  11   1   2   1     0    0    0   1.186     39  0.00
+  371  371     1   0   1   0   1   0   0   6   2   1  38  10   0   1  11  11   4   8   1   5     0    0    0   2.024     67  0.00
+  372  372    19  28  11   6   3   0   0   0   1   1  25   0   1   0   0   0   1   5   0   0     0    0    0   1.855     61  0.00
+  373  373     0   0   0   0   0   0   1   0   0   0   0   0   0   5  22  61   7   0   1   0     0    0    0   1.169     39  0.00
+  374  374     1  52   6   0   0   0   6   1   2   2   3   4   0   1   3   2  14   3   0   1     0    0    0   1.781     59  0.00
+  375  375     3   8   2   6   1   0   0   0   4   0   0  14   0   0   0   0   1  53   0   6     0    0    0   1.684     56  0.00
+  376  376     0  86   5   1   1   0   4   0   0   0   1   3   0   0   0   0   0   0   0   0     0    0    0   0.634     21  0.00
+  377  377     0   0   0   0   0   0   0   0  75   0   3   1   0   1   0   1  17   1   0   0     0    0    0   0.842     28  0.00
+  378  378     1   1   1   0   0   0   0   0   4   0   2   1   0   0  18   5  65   2   0   0     0    0    0   1.240     41  0.00
+  379  379     0   2   0   0  10   0  85   1   0   0   0   0   0   0   0   0   0   0   1   0     0    0    0   0.571     19  0.00
+  380  380     1   0   0   0   0   0   0   0   7   0   1   0   0   1  61  20   2   3   2   1     0    0    0   1.280     42  0.00
+  381  381     0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   1  89   1   5     0    0    0   0.502     16  0.00
+  382  382    45  47   1   2   0   0   1   0   2   0   1   1   0   0   0   0   0   0   1   0     0    0    0   1.102     36  0.00
+  383  383     2   2   1   1   0   0   0   1  50   0   1   0   0   0   2   2  16  24   0   1     0    0    0   1.427     47  0.00
+  384  384     1   3  13   2   0   0   0   0  64   0   9   2   0   0   0   1   0   2   0   3     0    0    0   1.324     44  0.00
+  385  385     2  25  15   1  54   0   1   0   0   0   2   0   0   0   0   0   0   0   0   0     0    0    0   1.240     41  0.00
+  386  386     1   2   5   0   0   0   0   3  70   0  15   2   0   0   1   1   0   0   0   0     0    0    0   1.095     36  0.00
+  387  387     1   1  13   0   0   0   0   0   3   0   1   0   0   1   3   8  66   1   1   1     0    0    0   1.279     42  0.00
+  388  388     2  17   5   1  71   0   2   1   0   0   1   0   0   0   0   0   0   0   0   0     0    0    0   1.004     33  0.00
+  389  389     1   0   0   0   0   0   0  76  13   0   9   0   0   0   0   0   0   0   0   1     0    0    0   0.818     27  0.00
+  390  390     0   7   0   5   0   0   0   1   5   1  75   0   0   0   0   1   1   2   0   0     0    0    0   1.064     35  0.00
+  391  391     0   0   0   0   0   0   2   4   1   0   0   0   0   0   0   0   1   3   0  88     0    0    0   0.575     19  0.00
+  392  392     1  88   1   0   0   0   2   0   1   1   2   1   0   0   1   0   1   1   0   0     0    0    0   0.659     22  0.00
+  393  393     0   0   0   0   0   0   0   0   0   1  14   0   0   0   1   0   1   0   1  80     0    0    0   0.759     25  0.00
+  394  394     0   1   4   1   0   0   0   2  50   4   2   1   0   0   0   9   3  16   1   6     0    0    0   1.725     57  0.00
+  395  395    14   2   1   1   0   0   0   2  48   0   5   2   0   0   0   0   2  18   1   3     0    0    0   1.699     56  0.00
+  396  396     1   2   1   0   0   0   0   0   1   0   4  74   0   0   0   0   0   1   1  14     0    0    0   1.017     33  0.00
+  397  397     0   2   0   0   0   0   0   0   1   0   0   0   0   0  13  20  55   1   0   7     0    0    0   1.326     44  0.00
+  398  398     0  10   1   0   0   0   1   1  44   1   2   1   0   1   3   9   9   3  12   1     0    0    0   1.932     64  0.00
+  399  399     4  47   6   0   1   0   0   0   5   2   0   6   0   0   1   4  22   1   0   0     0    0    0   1.701     56  0.00
+  400  400    16  56   5   1   1   0   1   0   0  18   2   0   0   0   0   0   0   0   0   0     0    0    0   1.318     43  0.00
+  401  401     1   1   2   0   0   0   1   1  19   0   5   1   0   4   0   1   4   9  43   6     0    0    0   1.886     62  0.00
+  402  402     0   2   1   0   0   0   1   0   0   0   1   0   0   5  78   3   1   1   6   0     0    0    0   0.996     33  0.00
+  403  403     0   0   2   0   1   1   1  76  17   0   0   0   0   0   1   0   0   0   0   0     0    0    0   0.840     28  0.00
+  404  404     5   1   2   0   0   0   0   1  43   2   1   0   0   1  17   3  11  10   0   1     0    0    0   1.866     62  0.00
+  405  405     1   1   1   0   0   0   0   0   1   0   0   0   0   1  70  22   2   1   0   1     0    0    0   0.974     32  0.00
+  406  406     6  62  24   2   1   0   0   0   0   0   0   4   0   0   0   1   0   0   0   0     0    0    0   1.118     37  0.00
+  407  407     8   2   1   2   0   0   1   0   0   0   1  56   0   0  10   2   5  10   1   0     0    0    0   1.609     53  0.00
+  408  408     0   3   1   0   4   0   0   1   3   1   0   0   0   0  11   2   3  69   0   1     0    0    0   1.276     42  0.00
+  409  409    42  28   6   2  19   1   2   0   0   0   1   0   0   0   0   0   0   0   0   0     0    0    0   1.450     48  0.00
+  410  410     1  55   3  10   2   0   0   0   0  30   0   0   0   0   0   0   0   0   0   0     0    0    0   1.128     37  0.00
+  411  411     0   0   1   0   0   0   0   0   1   0  14   2   0   0   3  76   1   1   1   0     0    0    0   0.936     31  0.00
+  412  412     0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0  99   0   0   0     0    0    0   0.089      2  0.00
+  413  413     0   0   0   0   1   0   0  13   3  52   6   0   0   0   0  12   1   1   3   5     0    0    0   1.632     54  0.00
+  414  414     1   6   1   0   2   0   1   0   0   8   1   1   0   0   0   0  72   2   1   0     0    0    0   1.198     39  0.00
+  415  415     0   0   0   0   5   0  65   2   3   0   5   0   0   8   1   0   2   0   8   2     0    0    0   1.374     45  0.00
+  416  416     3   0   0   0   0   0   0   0  21   1  26   2   0   0   0   5   4  25   7   2     0    0    0   1.962     65  0.00
+  417  417     3   0   1   0   0   0   0   0   1  87   1   1   0   0   1   1   0   0   5   1     0    0    0   0.668     22  0.00
+  418  418     4  60   4  13   3   0   8   0   2   0   1   0   1   0   2   0   0   0   0   0     0    0    0   1.474     49  0.00
+  419  419     1   0   0   0   1   0   0   0  12  52  20   5   0   0   1   0   1   1   3   2     0    0    0   1.564     52  0.00
+  420  420    26   4  59   0   3   0   1   0   0   0   1   3   0   0   0   0   2   0   0   0     0    0    0   1.243     41  0.00
+  421  421     2   0   5   1   2   0   2   0   9   0   2   1   0   0   0   0   1  74   0   0     0    0    0   1.139     38  0.00
+  422  422     0   0   0   0   0   0   1   0   0   0   1   1   0   1   0  50   4  33   1   6     0    0    0   1.351     45  0.00
+  423  423     0   7   1   1   0   0   0   0   1   0   3   3   0   0   0   0  78   6   0   0     0    0    0   0.890     29  0.00
+  424  424    27   4  56   0   1   0   0   1   5   0   2   2   1   0   1   0   0   0   0   0     0    0    0   1.299     43  0.00
+  425  425    17  43  11   2   1   0   0   1  18   2   1   1   1   0   0   0   1   0   0   1     0    0    0   1.699     56  0.00
+  426  426    57   6  18   1   1   0   0   1   2   0   5   6   0   0   0   0   0   1   0   1     0    0    0   1.470     49  0.00
+  427  427     4  26  66   1   2   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.947     31  0.00
+  428  428     0   9   1   0  14   3  70   0   0   0   1   0   0   1   0   1   0   0   0   0     0    0    0   1.067     35  0.00
+  429  429     1   5   7   0   0   0   0   1  69   0   3  11   1   0   0   0   0   1   0   0     0    0    0   1.171     39  0.00
+  430  430     4   9  13   0   0   0   0  36  36   0   0   3   1   0   0   0   0   0   0   0     0    0    0   1.480     49  0.00
+  431  431    40   4  10   1   0   0   0   2   3   0   2  20   0   0   0  11   0   5   2   0     0    0    0   1.864     62  0.00
+  432  432     0   0   0   0   2   0   0   1   0   3   2   2   0   5  21  15   2   2  46   0     0    0    0   1.656     55  0.00
+  433  433     0   0   3   0   0   0   0  80   1   0   3   0   0   0   1   3   0   0   5   4     0    0    0   0.915     30  0.00
+  434  434     0   3   0   0  40   0  41   0   1   0   1   0   0   6   1   4   0   2   0   0     0    0    0   1.427     47  0.00
+  435  435     1  57   6   2  14   0   4   0   1   0   0   0  12   0   0   3   0   0   0   0     0    0    0   1.436     47  0.00
+  436  436     4   2   4   0   1   0   0   0   3   0   2   1   0   0   1   7   1   4   4  65     0    0    0   1.514     50  0.00
+  437  437     1   2   3   0   1   1   0   3   1   0  10   0   0   0  16  27   1   4   5  24     0    0    0   2.105     70  0.00
+  438  438    19  26  38  14   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.468     48  0.00
+  439  439     0   0   0   0   0   0   0   0   5  46   5   0   0   0   0   7   0  30   2   4     0    0    0   1.459     48  0.00
+  440  440    36  26  16   0   0   0   0   3   1  11   1   4   0   0   0   0   0   0   0   0     0    0    0   1.691     56  0.00
+  441  441     0   0   0   0   0   0   0   4   8   0  20   1   0   0   1   9   2  12  12  29     0    0    0   2.010     67  0.00
+  442  442     0   2   0   0   0   0   4   0   1   0   3   0   0   3  15  27  24   1   3  15     0    0    0   1.976     65  0.00
+  443  443    34   2  59   1   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   3     0    0    0   0.946     31  0.00
+  444  444     3   6   1   0   0   0   0   9   5   2  14  12   0   0  19   6   2  15   1   2     0    0    0   2.335     77  0.00
+  445  445     0   5   1   0   2   0  10   1   7   1   7   1   0   0  13  23  16   7   0   6     0    0    0   2.325     77  0.00
+  446  446     0   0   0   0  74   1  20   0   0   3   0   0   0   0   0   0   0   0   0   0     0    0    0   0.801     26  0.00
+  447  447     2  12   2   0   0   0   1   0   0   0   0   0   1   0   0   3   1  76   0   0     0    0    0   0.945     31  0.00
+  448  448     4   1   3   0   0   0   0   1   9   0  13   6   0   2  11  20   5   9   9   7     0    0    0   2.399     80  0.00
+  449  449     1   0   2   0   0   0   1   8  29   0   5   3   0   0   1   8   3  23   8   5     0    0    0   2.137     71  0.00
+  450  450     0  41  28   3  22   0   3   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.409     47  0.00
+  451  451     0  48  16   0   6   0   4   0   0   6   0   0   0   2  15   0   0   0   0   0     0    0    0   1.662     55  0.00
+  452  452     0   2   1   1   1   0   0   0  11   2  23   6   0   1   2  14   4  10  13   8     0    0    0   2.326     77  0.00
+  453  453     0   0   0   0  10   2  43   0   2   0  10   5   0  16   1   2   1   5   1   1     0    0    0   1.870     62  0.00
+  454  454    26  34  22   3   6   0   1   0   6   0   1   0   1   0   0   0   0   0   2   0     0    0    0   1.650     55  0.00
+  455  455     6   3   5   0   0   1   1   1   2   1   2   0   0   3  16  31   2   3   7  16     0    0    0   2.172     72  0.00
+  456  456     1   1   0   0   0   0   0   2  10  12  22  15   0   2   6   4   6   2  14   3     0    0    0   2.300     76  0.00
+  457  457     1   0   5   0   0   0   2   1   2   0  13   5   0   4   1   6  14  18  22   5     0    0    0   2.211     73  0.00
+  458  458     1  16   0   0   2   0  12   5   2   2   1   0   0  27   3  18   3   3   5   2     0    0    0   2.184     72  0.00
+  459  459     1   2   2   0   1   0   0   0  15  23   3   2   0   0   2  11  30   3   5   1     0    0    0   1.990     66  0.00
+  460  460     0   0   1   0   0   0   0   2  15   7  18   1   0   2   0   5   9  21   1  18     0    0    0   2.064     68  0.00
+  461  461     7  49  16   1  17   0   5   0   1   0   0   0   0   0   0   3   1   1   0   0     0    0    0   1.529     51  0.00
+  462  462     5  44   5  11   6   0   5   5   3   0   0   0   0   0   1   8   5   1   2   0     0    0    0   1.973     65  0.00
+  463  463     0   1   1   0   0   0   0  18   7   0   3   7   0   0   1   7   6  39   3   6     0    0    0   1.944     64  0.00
+  464  464     1   1  12   0   0   1   0  10   5   0  10  11   0   3   1  17   4  18   3   3     0    0    0   2.332     77  0.00
+  465  465     6  14  69   1   1   0   0   8   1   0   0   1   0   0   0   1   0   0   0   0     0    0    0   1.079     36  0.00
+  466  466     1   2   0   1   0   0   0   8   5   0   9   9   0   1  35  10   2   2  14   2     0    0    0   2.084     69  0.00
+  467  467     1   8   1   0   1   0   0   3   7   0  22  19   0   0   0   9   5  14   8   4     0    0    0   2.195     73  0.00
+  468  468     0   0   1   0   1   0   1   3   1   0  10  34   0   0   0  15   1  15   5  15     0    0    0   1.881     62  0.00
+  469  469     1   4   1   0   0   0   0  35   1   1   0   1   1   0   8  33   3   0  11   2     0    0    0   1.698     56  0.00
+  470  470     4   0   1   0   0   0   0   6  11   0   2  11   1   1   0  26   7  16   6   9     0    0    0   2.178     72  0.00
+  471  471     1  36  21   8  18   1   6   0   0   0   0   1   0   0   8   0   0   0   1   0     0    0    0   1.721     57  0.00
+  472  472     1   1   0   0   0   0   0   1   2  10  29  25   0   0   0  10   0   2  13   7     0    0    0   1.875     62  0.00
+  473  473     0   1   4   6   0   0   0   3   5   6   3   1   0   0   0  10   1  34   3  23     0    0    0   2.005     66  0.00
+  474  474     1   1   1   0   0   0   0   0   4   1   1   1   0   0   0   1  11  63   4  13     0    0    0   1.320     44  0.00
+  475  475     2  17  16   0   1   0   1   1  22  11  13   6   0   0   1   2   0   4   2   2     0    0    0   2.165     72  0.00
+  476  476     1   5   0   0   1   0   0   0   1   0   1   1   0   0   1   5   3  43   2  36     0    0    0   1.507     50  0.00
+  477  477     0   2   2   0   4   0   2   7  42   0   7  11   0   0   0   7   4   7   3   4     0    0    0   2.031     67  0.00
+  478  478     1  14   2   2  17   0   2   1  11   0   7   6   1   1   0  27   6   1   1   1     0    0    0   2.204     73  0.00
+  479  479     4  80   8   1   7   0   0   0   0   0   0   1   0   0   0   0   0   1   0   0     0    0    0   0.790     26  0.00
+  480  480     1   2   2   0   0   0   0   1   4   0   1   3   0   0   3  73   1   3   7   2     0    0    0   1.198     40  0.00
+  481  481     0   0   0   0   1   0   0   4   9   0   6   2   0   0   0  13   4  54   2   6     0    0    0   1.595     53  0.00
+  482  482     8   6  23   0   7   0   1   2  37   0   6   1   3   1   0   1   1   1   2   0     0    0    0   1.943     64  0.00
+  483  483    17  13  47   2   1   0   0   0   9   0   1   7   1   0   0   2   0   0   0   0     0    0    0   1.620     54  0.00
+  484  484     2   9   1   0   0   0   0   0   5   0   4  14   0   0   1  14   8  17  12  14     0    0    0   2.250     75  0.00
+  485  485     0   0   1   0   0   0   3   1   7   4  14   4   0   0   1   6   1  24  24  12     0    0    0   2.074     69  0.00
+  486  486     1   1   0   0  73   0  14   0   1   0   1   2   1   1   0   0   5   0   0   0     0    0    0   1.017     33  0.00
+  487  487     6  28  15   3   1   0   0   0   4   0   1   6   0   0   0  34   0   0   1   0     0    0    0   1.720     57  0.00
+  488  488     0   0   6   0   2   0   0   1  37   0  10   2   0   0   0  15   9  13   2   3     0    0    0   1.902     63  0.00
+  489  489     4   1   0   0   0   0   0  36   6   1  12  17   0   0   9   3   2   4   3   1     0    0    0   2.021     67  0.00
+  490  490     0   0   0   0  94   0   6   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.232      7  0.00
+  491  491     0   7   0   0   0   0   0   0  10   0   5   5   0   0   0  19  12  43   0   0     0    0    0   1.635     54  0.00
+  492  492     0   0   0   0   0   0   0   0  88   0  12   0   0   0   0   0   0   0   0   0     0    0    0   0.367     12  0.00
+//

@@ -1,0 +1,469 @@
+ID Pseudo hssp file.
+SEQ 
+SEQ gi|34295|emb|CAA31884.1| (X13529) lck protein (AA 1-509) [Homo s...   214  3e-55
+SEQ gi|125474|sp|P06239|LCK_HUMAN PROTO-ONCOGENE TYROSINE-PROTEIN KI...   214  3e-55
+SEQ gi|4885449|ref|NP_005347.1| lymphocyte-specific protein tyrosine...   214  3e-55
+SEQ gi|460966|gb|AAA18225.1| (U07236) lymphocyte-specific protein ty...   214  3e-55
+SEQ gi|775208|gb|AAC50287.1| (U23852) p56lck [Homo sapiens] >gi|1585...   214  3e-55
+SEQ gi|1311313|pdb|1LCK|A Chain A, Sh3-Sh2 Domain Fragment Of Human ...   214  3e-55
+SEQ gi|6984209|gb|AAF34794.1|AF228313_1 (AF228313) tyrosine kinase L...   214  3e-55
+SEQ gi|1311315|pdb|1LCJ|A Chain A, Sh2 (Src Homology-2) Domain Of Hu...   213  5e-55
+SEQ gi|1421535|pdb|1LKK|A Chain A, Human P56-Lck Tyrosine Kinase Sh2...   213  7e-55
+SEQ gi|3891686|pdb|1BHF|A Chain A, P56lck Sh2 Domain Inhibitor Compl...   213  8e-55
+SEQ gi|1421537|pdb|1LKL|A Chain A, Human P56-Lck Tyrosine Kinase Sh2...   212  1e-54
+SEQ gi|10120800|pdb|1FBZ|A Chain A, Structure-Based Design Of A Nove...   212  1e-54
+SEQ gi|2117800|pir||I48845 protein-tyrosine kinase (EC 2.7.1.112) lc...   211  2e-54
+SEQ gi|125475|sp|P06240|LCK_MOUSE PROTO-ONCOGENE TYROSINE-PROTEIN KI...   211  2e-54
+SEQ gi|14140183|emb|CAC38871.1| (AJ277921) Lck tyrosine kinase [Saim...   211  3e-54
+SEQ gi|3891689|pdb|1BHH|B Chain B, Free P56lck Sh2 Domain                 211  3e-54
+SEQ gi|36808|emb|CAA28691.1| (X05027) PTK homologous protein (AA 1-5...   196  8e-50
+SEQ gi|1943029|pdb|1CWD|L Chain L, Human P56lck Tyrosine Kinase Comp...   195  2e-49
+SEQ gi|212713|gb|AAA49081.1| (J03579) c-tkl tyrosine kinase (EC 2.7....   177  4e-44
+SEQ gi|1071850|pir||A39939 protein-tyrosine kinase (EC 2.7.1.112) tk...   177  4e-44
+SEQ gi|1170731|sp|P42683|LCK_CHICK PROTO-ONCOGENE TYROSINE-PROTEIN K...   177  4e-44
+SEQ gi|198941|gb|AAA39471.1| (M57696) lyn A protein tyrosine kinase ...   151  3e-36
+SEQ gi|198943|gb|AAA39472.1| (M57697) lyn B protein tyrosine kinase ...   151  3e-36
+SEQ gi|4504357|ref|NP_002101.1| hemopoietic cell kinase [Homo sapien...   151  3e-36
+SEQ gi|13653487|ref|XP_009539.2| hemopoietic cell kinase [Homo sapie...   151  3e-36
+SEQ gi|1170188|sp|P08631|HCK_HUMAN TYROSINE-PROTEIN KINASE HCK (P59-...   151  3e-36
+SEQ gi|2194103|pdb|1AD5|A Chain A, Src Family Kinase Hck-Amp-Pnp Com...   151  3e-36
+SEQ gi|2624693|pdb|3HCK|    Nmr Ensemble Of The Uncomplexed Human Hc...   151  3e-36
+SEQ gi|5542349|pdb|1QCF|A Chain A, Crystal Structure Of Hck In Compl...   151  3e-36
+SEQ gi|110658|pir||A39719 protein-tyrosine kinase (EC 2.7.1.112) lyn...   151  4e-36
+SEQ gi|7434383|pir||I67811 lyn A protein tyrosine kinase - black rat...   151  4e-36
+SEQ gi|7434384|pir||I67812 lyn B protein tyrosine kinase - black rat...   151  4e-36
+SEQ gi|13540677|ref|NP_110484.1| lyn protein non-receptor kinase [Ra...   151  4e-36
+SEQ gi|2105002|gb|AAB71345.1| (AF000301) Lyn B tyrosine kinase [Ratt...   151  4e-36
+SEQ gi|2507208|sp|P25911|LYN_MOUSE TYROSINE-PROTEIN KINASE LYN            151  4e-36
+SEQ gi|4505055|ref|NP_002341.1| v-yes-1 Yamaguchi sarcoma viral rela...   150  4e-36
+SEQ gi|2117805|pir||I53715 Lyn B protein - human >gi|187271|gb|AAB50...   150  4e-36
+SEQ gi|2114076|dbj|BAA20078.1| (AB003358) Lyn protein tyrosine kinas...   148  2e-35
+SEQ gi|7018398|emb|CAB75606.1| (AL049539) dJ836N17.1 (hemopoietic ce...   148  3e-35
+SEQ gi|6754166|ref|NP_034537.1| hemopoietic cell kinase [Mus musculu...   146  9e-35
+SEQ gi|1170189|sp|P08103|HCK_MOUSE TYROSINE-PROTEIN KINASE HCK (P56-...   146  9e-35
+SEQ gi|6981014|ref|NP_037317.1| hemopoietic cell tyrosine kinase [Ra...   146  1e-34
+SEQ gi|57582|emb|CAA44218.1| (X62345) protein-tyrosine kinase [Rattu...   146  1e-34
+SEQ gi|10439296|dbj|BAB15482.1| (AK026432) unnamed protein product [...   146  1e-34
+SEQ gi|6680786|ref|NP_031575.1| B lymphoid kinase [Mus musculus] >gi...   144  3e-34
+SEQ gi|1942130|pdb|1BLJ|    Nmr Ensemble Of Blk Sh2 Domain, 20 Struc...   144  3e-34
+SEQ gi|11596416|gb|AAG38611.1|AF321110_1 (AF321110) src-family tyros...   144  4e-34
+SEQ gi|4502413|ref|NP_001706.1| B lymphoid tyrosine kinase; BLK nonr...   134  3e-31
+SEQ gi|914204|gb|AAB33265.1| (S76617) protein tyrosine kinase=blk [h...   134  3e-31
+SEQ gi|12734330|ref|XP_005212.2| B lymphoid tyrosine kinase [Homo sa...   134  3e-31
+SEQ gi|280989|pir||A43807 protein-tyrosine kinase (EC 2.7.1.112) fgr...   133  7e-31
+SEQ gi|6753860|ref|NP_034338.1| Gardner-Rasheed feline sarcoma viral...   131  2e-30
+SEQ gi|13162331|ref|NP_077059.1| FGR [Rattus norvegicus] >gi|112234|...   130  4e-30
+SEQ gi|4885235|ref|NP_005239.1| Gardner-Rasheed feline sarcoma viral...   130  4e-30
+SEQ gi|553286|gb|AAA52762.1| (M12724) c-fgr peptide [Homo sapiens]        130  4e-30
+SEQ gi|3411274|gb|AAC31209.1| (AF081803) non-receptor protein tyrosi...   128  2e-29
+SEQ gi|321075|pir||A45501 protein-tyrosine kinase (EC 2.7.1.112) yes...   127  3e-29
+SEQ gi|1070474|pir||TVMVRR protein-tyrosine kinase (EC 2.7.1.112) fg...   127  5e-29
+SEQ gi|125357|sp|P00544|FGR_FSVGR TYROSINE-PROTEIN KINASE TRANSFORMI...   127  5e-29
+SEQ gi|66784|pir||TVHUSR protein-tyrosine kinase (EC 2.7.1.112) slk ...   126  6e-29
+SEQ gi|125871|sp|P10936|YES_XENLA PROTO-ONCOGENE TYROSINE-PROTEIN KI...   126  8e-29
+SEQ gi|125372|sp|P27446|FYN_XIPHE PROTO-ONCOGENE TYROSINE-PROTEIN KI...   126  1e-28
+SEQ gi|4503823|ref|NP_002028.1| FYN oncogene related to SRC, FGR, YE...   126  1e-28
+SEQ gi|6978863|ref|NP_036887.1| fyn proto-oncogene [Rattus norvegicu...   126  1e-28
+SEQ gi|6678617|ref|NP_033561.1| Yamaguchi sarcoma viral (v-yes) onco...   125  1e-28
+SEQ gi|12539401|dbj|BAB21451.1| (AB037472) protein tyrosine kinase c...   125  1e-28
+SEQ gi|4885661|ref|NP_005424.1| v-yes-1 Yamaguchi sarcoma viral onco...   125  2e-28
+SEQ gi|125371|sp|P13406|FYN_XENLA PROTO-ONCOGENE TYROSINE-PROTEIN KI...   124  3e-28
+SEQ gi|1362664|pir||B49114 protein-tyrosine kinase (EC 2.7.1.112) fy...   124  4e-28
+SEQ gi|125872|sp|P27447|YES_XIPHE PROTO-ONCOGENE TYROSINE-PROTEIN KI...   124  4e-28
+SEQ gi|63363|emb|CAA31595.1| (X13207) p61 c-yes protein (AA 1 - 541)...   124  4e-28
+SEQ gi|125869|sp|P09324|YES_CHICK PROTO-ONCOGENE TYROSINE-PROTEIN KI...   124  4e-28
+SEQ gi|66797|pir||TVFVG9 protein-tyrosine kinase (EC 2.7.1.112) yes ...   124  4e-28
+SEQ gi|223452|prf||0806225A genome Y73 [Avian sarcoma virus]              124  4e-28
+SEQ gi|2760550|emb|CAB10788.1| (Z97989) Proto-oncogene tyrosine kina...   124  5e-28
+SEQ gi|77235|pir||S04205 protein-tyrosine kinase (EC 2.7.1.112) - fe...   123  6e-28
+SEQ gi|462471|sp|Q02977|YRK_CHICK PROTO-ONCOGENE TYROSINE-PROTEIN KI...   123  7e-28
+SEQ gi|462444|sp|Q05876|FYN_CHICK PROTO-ONCOGENE TYROSINE-PROTEIN KI...   122  2e-27
+SEQ gi|479367|pir||S33568 protein-tyrosine kinase (EC 2.7.1.112) fyn...   122  2e-27
+SEQ gi|9247171|gb|AAB33113.2| (S74774) tyrosine kinase p59fyn(T) [Ho...   122  2e-27
+SEQ gi|9626157|ref|NP_040506.1| p30 gag-yes protein [Y73 sarcoma vir...   122  2e-27
+SEQ gi|1351818|sp|P00527|YES_AVISY TYROSINE-PROTEIN KINASE TRANSFORM...   122  2e-27
+SEQ gi|3025159|sp|Q28923|YES_CANFA PROTO-ONCOGENE TYROSINE-PROTEIN K...   121  2e-27
+SEQ gi|6679879|ref|NP_032080.1| Fyn proto-oncogene [Mus musculus] >g...   121  4e-27
+SEQ gi|2760551|emb|CAB10789.1| (Z97989) Proto-oncogene tyrosine kina...   120  6e-27
+SEQ gi|1362665|pir||A49114 protein-tyrosine kinase (EC 2.7.1.112) fy...   119  8e-27
+SEQ gi|2914653|pdb|1AOT|F Chain F, Nmr Structure Of The Fyn Sh2 Doma...   119  9e-27
+SEQ gi|14488656|pdb|1G83|A Chain A, Crystal Structure Of Fyn Sh3-Sh2...   119  9e-27
+SEQ gi|1536790|dbj|BAA07705.1| (D42125) Dsrc41 [Drosophila melanogas...   117  5e-26
+SEQ gi|7302199|gb|AAF57295.1| (AE003784) Src42A gene product [Drosop...   117  5e-26
+SEQ gi|66791|pir||TVFV60 protein-tyrosine kinase (EC 2.7.1.112) src ...   114  3e-25
+SEQ gi|125714|sp|P00524|SRC_RSVSR TYROSINE-PROTEIN KINASE TRANSFORMI...   114  3e-25
+SEQ gi|125706|sp|P15054|SRC_AVIS2 TYROSINE-PROTEIN KINASE TRANSFORMI...   114  3e-25
+SEQ gi|125709|sp|P14085|SRC_AVIST TYROSINE-PROTEIN KINASE TRANSFORMI...   114  3e-25
+SEQ gi|125707|sp|P00525|SRC_AVISR TYROSINE-PROTEIN KINASE TRANSFORMI...   114  3e-25
+SEQ gi|210226|gb|AAA42573.1| (M11753) tyrosine-specific protein kina...   114  3e-25
+SEQ gi|210271|gb|AAA42585.1| (M33292) pp60v-src protein [Rous sarcom...   114  3e-25
+SEQ gi|223627|prf||0903255A protein v-src [Rous sarcoma virus]            114  3e-25
+SEQ gi|249851|gb|AAB96845.1| (S37068) tsUP1 Src [Rous sarcoma virus ...   114  3e-25
+SEQ gi|576274|pdb|1SPR|B Chain B, Src-Sh2 (Src Homology (Sh2) Domain...   114  3e-25
+SEQ gi|625220|pir||TVCHS protein-tyrosine kinase (EC 2.7.1.112) src ...   114  3e-25
+SEQ gi|901820|gb|AAA70194.1| (J00844) putative [Gallus gallus]            114  3e-25
+SEQ gi|6175046|sp|P00523|SRC_CHICK PROTO-ONCOGENE TYROSINE-PROTEIN K...   114  3e-25
+SEQ gi|2780916|pdb|2PTK|    Chicken Src Tyrosine Kinase                   114  3e-25
+SEQ gi|3003004|gb|AAC08990.1| (AF052428) src tyrosine kinase [Rous s...   114  3e-25
+SEQ gi|125708|sp|P14084|SRC_AVISS TYROSINE-PROTEIN KINASE TRANSFORMI...   114  3e-25
+SEQ gi|3721908|dbj|BAA33741.1| (AB016815) Src-type protein tyrosine ...   114  3e-25
+SEQ gi|2982122|pdb|1SKJ|    Cocrystal Structure Of Urea-Substituted ...   114  4e-25
+SEQ gi|347052|gb|AAC37877.1| (L21974) protein-tyrosine kinase [Avian...   113  6e-25
+SEQ gi|4503787|ref|NP_002022.1| fyn-related kinase [Homo sapiens] >g...   113  6e-25
+SEQ gi|9955318|pdb|1F1W|A Chain A, Src Sh2 Thref1trp Mutant Complexe...   112  1e-24
+SEQ gi|221014|dbj|BAA01500.1| (D10652) tyrosine kinase [Rous sarcoma...   112  1e-24
+SEQ gi|210247|gb|AAA42581.1| (M84475) phosphoprotein p60 [Rous sarco...   112  2e-24
+SEQ gi|400155|sp|P31693|SRC_RSVPA TYROSINE-PROTEIN KINASE TRANSFORMI...   112  2e-24
+SEQ gi|1072767|pir||S52313 protein-tyrosine kinase (EC 2.7.1.112) sr...   112  2e-24
+SEQ gi|1072768|pir||S52314 protein-tyrosine kinase (EC 2.7.1.112) sr...   112  2e-24
+SEQ gi|2392190|pdb|1BKL|    Self-Associated Apo Src Sh2 Domain            112  2e-24
+SEQ gi|2392191|pdb|1BKM|    Cocrystal Structure Of D-Amino Acid Subs...   111  2e-24
+SEQ gi|125703|sp|P13115|SRC1_XENLA TYROSINE-PROTEIN KINASE SRC-1 (P6...   111  3e-24
+SEQ gi|3114446|pdb|1A1A|A Chain A, C-Src (Sh2 Domain With C188a Muta...   111  3e-24
+SEQ gi|6678129|ref|NP_033297.1| Rous sarcoma oncogene [Mus musculus]...   111  4e-24
+SEQ gi|4885609|ref|NP_005408.1| v-src avian sarcoma (Schmidt-Ruppin ...   111  4e-24
+SEQ gi|625219|pir||TVHUSC protein-tyrosine kinase (EC 2.7.1.112) src...   111  4e-24
+SEQ gi|5822499|pdb|2SRC|    Crystal Structure Of Human Tyrosine-Prot...   111  4e-24
+SEQ gi|8134704|sp|Q9WUD9|SRC_RAT PROTO-ONCOGENE TYROSINE-PROTEIN KIN...   111  4e-24
+SEQ gi|14010835|ref|NP_114183.1| tyrosine protein kinase pp60-c-src ...   111  4e-24
+SEQ gi|13653645|ref|XP_009641.2| v-src avian sarcoma (Schmidt-Ruppin...   111  4e-24
+SEQ gi|13242263|ref|NP_077344.1| src related tyrosine kinase [Rattus...   110  5e-24
+SEQ gi|732528|gb|AAC50116.1| (U22322) Rak [Homo sapiens]                  110  6e-24
+SEQ gi|1127141|pdb|1HCS|B Chain B, Nmr Structure Of The Human Src Sh...   109  1e-23
+SEQ gi|125705|sp|P13116|SRC2_XENLA TYROSINE-PROTEIN KINASE SRC-2 (P6...   109  1e-23
+SEQ gi|6753908|ref|NP_034367.1| B-cell src-homology tyrosine kinase ...   108  2e-23
+SEQ gi|13938042|gb|AAH07137.1|AAH07137 (BC007137) B-cell src-homolog...   108  2e-23
+SEQ gi|12655286|emb|CAC27542.1| (AL357141) bA702N8.1 (fyn-related ki...   108  2e-23
+SEQ gi|2117803|pir||I48608 intestinal tyrosine kinase - mouse >gi|73...   107  3e-23
+SEQ gi|77260|pir||S15582 protein-tyrosine kinase (EC 2.7.1.112) src ...   107  6e-23
+SEQ gi|12861543|dbj|BAB32223.1| (AK020837) putative [Mus musculus]        107  6e-23
+SEQ gi|628312|pir||S26420 protein-tyrosine kinase (EC 2.7.1.112) src...   106  7e-23
+SEQ gi|1174439|sp|P42690|SRK4_SPOLA TYROSINE-PROTEIN KINASE SRK4 >gi...   106  7e-23
+SEQ gi|65305|emb|CAA45924.1| (X64658) c-src tyrosine kinase [Xiphoph...   106  1e-22
+SEQ gi|9626200|ref|NP_056888.1| p60 src [Rous sarcoma virus] >gi|125...   105  2e-22
+SEQ gi|109465|pir||S20808 protein-tyrosine kinase (EC 2.7.1.112) src...   104  3e-22
+SEQ gi|125712|sp|P25020|SRC_RSVH1 TYROSINE-PROTEIN KINASE TRANSFORMI...   104  3e-22
+SEQ gi|158501|gb|AAA28913.1| (M11917) c-src tyrosine kinase [Drosoph...   103  8e-22
+SEQ gi|14286176|sp|P00528|SRC1_DROME TYROSINE-PROTEIN KINASE SRC64B ...   103  8e-22
+SEQ gi|6983726|emb|CAB75365.1| (AL050318) dJ977B1.1 (novel protein t...   101  2e-21
+SEQ gi|14149916|ref|NP_115590.1| hypothetical protein FLJ21992 [Homo...   101  2e-21
+SEQ gi|125717|sp|P17713|STK_HYDAT TYROSINE-PROTEIN KINASE STK (P57-S...   100  5e-21
+SEQ gi|210238|gb|AAA42578.1| (J02350) src-p60 phosphoprotein [Rous s...   100  8e-21
+SEQ gi|7160701|emb|CAB04427.2| (Z81543) contains similarity to Pfam ...   100  8e-21
+SEQ gi|7578848|gb|AAF64151.1|AF232691_1 (AF232691) tyrosine kinase 5...    93  7e-19
+SEQ gi|5804911|emb|CAA41565.2| (X58741) tyrosine kinase [Homo sapiens]     93  8e-19
+SEQ gi|1174436|sp|P42686|SRK1_SPOLA TYROSINE-PROTEIN KINASE SRK1 >gi...    93  1e-18
+SEQ gi|251793|gb|AAB22579.1| srk1 protein kinase=src-related tyrosin...    93  1e-18
+SEQ gi|5803171|ref|NP_006739.1| Src-like-adapter [Homo sapiens] >gi|...    90  1e-17
+SEQ gi|6677985|ref|NP_033218.1| src-like adapter protein [Mus muscul...    88  2e-17
+SEQ gi|1363239|pir||A57152 src-like adaptor protein - mouse                88  2e-17
+SEQ gi|1174437|sp|P42688|SRK2_SPOLA TYROSINE-PROTEIN KINASE SRK2 >gi...    81  4e-15
+SEQ gi|11095454|gb|AAG29878.1|AF235100_2 (AF235100) Src-like adapter...    73  1e-12
+SEQ gi|1848077|emb|CAA26485.1| (X02647) c-src [Homo sapiens]               72  2e-12
+SEQ gi|5174647|ref|NP_005966.1| PTK6 protein tyrosine kinase 6; PTK6...    72  2e-12
+SEQ gi|11137518|emb|CAC15526.1| (AL121829) dJ697K14.1 (novel tyrosin...    69  1e-11
+SEQ gi|554599|gb|AAA42571.1| (K01644) src-p60 phoshoprotein [Rous sa...    69  1e-11
+SEQ gi|6677971|ref|NP_033210.1| src-related intestinal kinase [Mus m...    68  5e-11
+SEQ gi|554598|gb|AAA42570.1| (K03381) src-p68 phosphoprotein [Rous s...    67  7e-11
+SEQ gi|6755658|ref|NP_035611.1| src-related kinase lacking C-termina...    66  1e-10
+SEQ gi|2499673|sp|Q62270|SRM_MOUSE TYROSINE-PROTEIN KINASE SRM (PTK7...    66  1e-10
+SEQ gi|14330032|emb|CAC40740.1| (AL450341) bM401L17.5 (src-related k...    66  1e-10
+SEQ gi|3560565|gb|AAC35011.1| (AF067775) non-receptor protein-tyrosi...    64  4e-10
+SEQ gi|125134|sp|P10447|ABL_FSVHY TYROSINE-PROTEIN KINASE TRANSFORMI...    64  4e-10
+SEQ gi|625609|pir||A26132 gag-abl-pol polyprotein - feline sarcoma v...    64  4e-10
+SEQ gi|223232|prf||0610239A protein src [Avian sarcoma virus]              64  5e-10
+SEQ gi|125135|sp|P00519|ABL1_HUMAN PROTO-ONCOGENE TYROSINE-PROTEIN K...    61  4e-09
+SEQ gi|61488|emb|CAA24781.1| (V01541) oncogene v-abl [Abelson murine...    61  4e-09
+SEQ gi|125137|sp|P00520|ABL_MOUSE PROTO-ONCOGENE TYROSINE-PROTEIN KI...    61  4e-09
+SEQ gi|125136|sp|P00521|ABL_MLVAB TYROSINE-PROTEIN KINASE TRANSFORMI...    61  4e-09
+SEQ gi|9626954|ref|NP_057866.1| p120 polyprotein [Abelson murine leu...    61  4e-09
+SEQ gi|514267|gb|AAB60394.1| (U07563) proto-oncogene tyrosine-protei...    61  4e-09
+SEQ gi|514268|gb|AAB60393.1| (U07563) proto-oncogene tyrosine-protei...    61  4e-09
+SEQ gi|2144425|pir||TVHUA protein-tyrosine kinase (EC 2.7.1.112) abl...    61  4e-09
+SEQ gi|2554681|pdb|2ABL|    Sh3-Sh2 Domain Fragment Of Human Bcr-Abl...    61  4e-09
+SEQ gi|4033555|emb|CAA10376.1| (AJ131466) BCR/ABL (major breakpoint)...    61  4e-09
+SEQ gi|4033557|emb|CAA10377.1| (AJ131467) BCR/ABL chimeric fusion pe...    61  4e-09
+SEQ gi|5912560|emb|CAB56204.1| (X02963) gag-abl gene product, altere...    61  4e-09
+SEQ gi|12733943|emb|CAC28939.1| (AJ291981) c-Src protein-tyrosine ki...    61  4e-09
+SEQ gi|493790|pdb|1AB2|    Proto-Oncogene Tyrosine Kinase (E.C.2.7.1...    61  5e-09
+SEQ gi|4151946|gb|AAD04633.1| (AF113911) BCR-ABL minor breakpoint pe...    61  6e-09
+SEQ gi|417209|sp|P32577|CSK_RAT TYROSINE-PROTEIN KINASE CSK (C-SRC K...    60  8e-09
+SEQ gi|6681053|ref|NP_031809.1| c-src tyrosine kinase [Mus musculus]...    60  8e-09
+SEQ gi|6382060|ref|NP_005149.2| v-abl Abelson murine leukemia viral ...    60  9e-09
+SEQ gi|6382062|ref|NP_009298.1| v-abl Abelson murine leukemia viral ...    60  9e-09
+SEQ gi|13631054|ref|XP_001717.3| v-abl Abelson murine leukemia viral...    60  9e-09
+SEQ gi|4758078|ref|NP_004374.1| c-src tyrosine kinase [Homo sapiens]...    59  1e-08
+SEQ gi|729886|sp|P41239|CSK_CHICK TYROSINE-PROTEIN KINASE CSK (C-SRC...    59  1e-08
+SEQ gi|2144009|pir||A48875 tyrosine kinase receptor - rat (fragment)...    59  1e-08
+SEQ gi|975277|gb|AAA75166.1| (U21683) p72 [Rattus norvegicus]              59  1e-08
+SEQ gi|6981620|ref|NP_036890.1| spleen tyrosine kinase [Rattus norve...    59  1e-08
+SEQ gi|1363317|pir||B56707 protein-tyrosine kinase (EC 2.7.1.112) p7...    59  1e-08
+SEQ gi|1363318|pir||A56707 protein-tyrosine kinase (EC 2.7.1.112) sy...    59  1e-08
+SEQ gi|7503796|pir||T22405 protein-tyrosine kinase (EC 2.7.1.112) F4...    59  1e-08
+SEQ gi|13924736|gb|AAK49117.1|AF253045_1 (AF253045) spleen protein t...    59  2e-08
+SEQ gi|1711636|sp|P48025|KSYK_MOUSE TYROSINE-PROTEIN KINASE SYK (SPL...    59  2e-08
+SEQ gi|6755706|ref|NP_035648.1| spleen tyrosine kinase [Mus musculus...    59  2e-08
+SEQ gi|4885045|ref|NP_005148.1| v-abl Abelson murine leukemia viral ...    58  3e-08
+SEQ gi|6382058|ref|NP_009297.1| v-abl Abelson murine leukemia viral ...    58  3e-08
+SEQ gi|2967840|gb|AAC05835.1| (AF052430) c-Src kinase [Xenopus laevis]     58  3e-08
+SEQ gi|1174826|sp|P42682|TXK_MOUSE TYROSINE-PROTEIN KINASE TXK (PTK-...    58  4e-08
+SEQ gi|7305601|ref|NP_038726.1| TXK tyrosine kinase [Mus musculus] >...    58  4e-08
+SEQ gi|1174438|sp|P42689|SRK3_SPOLA TYROSINE-PROTEIN KINASE SRK3 >gi...    57  6e-08
+SEQ gi|4504111|ref|NP_002077.1| growth factor receptor-bound protein...    57  7e-08
+SEQ gi|6680083|ref|NP_032189.1| growth factor receptor bound protein...    57  7e-08
+SEQ gi|13540654|ref|NP_110473.1| growth factor receptor bound protei...    57  7e-08
+SEQ gi|2392590|pdb|1TZE|E Chain E, Signal Transduction Adaptor Growt...    57  7e-08
+SEQ gi|3318896|pdb|1FHS|    The Three-Dimensional Solution Structure...    57  7e-08
+SEQ gi|4699616|pdb|1ZFP|E Chain E, Growth Factor Receptor Binding Pr...    57  7e-08
+SEQ gi|6729886|pdb|1BM2|A Chain A, Grb2-Sh2 Domain In Complex With C...    57  7e-08
+SEQ gi|6729888|pdb|1BMB|A Chain A, Grb2-Sh2 Domain In Complex With K...    57  7e-08
+SEQ gi|12084681|pdb|1FYR|A Chain A, Dimer Formation Through Domain S...    57  7e-08
+SEQ gi|266436|sp|Q00655|KSYK_PIG TYROSINE-PROTEIN KINASE SYK (SPLEEN...    57  8e-08
+SEQ gi|6730169|pdb|1CJ1|A Chain A, Growth Factor Receptor Binding Pr...    57  9e-08
+SEQ gi|448916|prf||1918215A protein Tyr kinase [Homo sapiens]              57  9e-08
+SEQ gi|1174527|sp|P43405|KSYK_HUMAN TYROSINE-PROTEIN KINASE SYK (SPL...    57  9e-08
+SEQ gi|4507329|ref|NP_003168.1| spleen tyrosine kinase [Homo sapiens...    57  9e-08
+SEQ gi|627590|pir||JC2198 protein-tyrosine kinase (EC 2.7.1.112), Sy...    57  9e-08
+SEQ gi|1092813|prf||2101280A p72syk protein [Homo sapiens]                 57  9e-08
+SEQ gi|1943551|pdb|1CSY|A Chain A, Syk Tyrosine Kinase C-Terminal Sh...    57  9e-08
+SEQ gi|4140019|pdb|1A81|A Chain A, Crystal Structure Of The Tandem S...    57  9e-08
+SEQ gi|7302973|gb|AAF58044.1| (AE003807) shark gene product [Drosoph...    56  2e-07
+SEQ gi|4507743|ref|NP_003319.1| TXK tyrosine kinase [Homo sapiens] >...    56  2e-07
+SEQ gi|1161364|gb|AAB60412.1| (U34380) tyrosine kinase [Homo sapiens]      56  2e-07
+SEQ gi|1022831|gb|AAA79851.1| (U37773) tyrosine kinase [Drosophila m...    55  2e-07
+SEQ gi|553223|gb|AAA35679.1| (M27454) tyrosine kinase [Homo sapiens]       55  3e-07
+SEQ gi|552072|gb|AAA28129.1| (M13235) abl-like putative oncogene; pu...    55  4e-07
+SEQ gi|627103|pir||A00629 protein-tyrosine kinase (EC 2.7.1.112) abl...    55  4e-07
+SEQ gi|6226547|sp|P03949|ABL1_CAEEL TYROSINE-PROTEIN KINASE ABL-1 >g...    55  4e-07
+SEQ gi|6425196|emb|CAB60296.1| (Z50806) contains similarity to Pfam ...    55  4e-07
+SEQ gi|6425197|emb|CAB60297.1| (Z50806) contains similarity to Pfam ...    55  4e-07
+SEQ gi|729629|sp|Q07883|GRB2_CHICK GROWTH FACTOR RECEPTOR-BOUND PROT...    54  4e-07
+SEQ gi|5729856|ref|NP_006604.1| GRB2-related adaptor protein [Homo s...    54  4e-07
+SEQ gi|134425|sp|P29355|SEM5_CAEEL SEX MUSCLE ABNORMAL PROTEIN 5 >gi...    54  4e-07
+SEQ gi|12858168|dbj|BAB31222.1| (AK018457) putative [Mus musculus]         54  5e-07
+SEQ gi|2136036|pir||I38137 protein tyrosin kinase - human >gi|515871...    54  6e-07
+SEQ gi|28876|emb|CAA44664.1| (X62852) ash protein [Homo sapiens]           54  6e-07
+SEQ gi|4930125|pdb|1QG1|E Chain E, Growth Factor Receptor Binding Pr...    54  6e-07
+SEQ gi|6103277|emb|CAB59279.1| (AJ223061) Grb2 protein [Xenopus laevis]    54  8e-07
+SEQ gi|3913784|sp|P87379|GRB2_XENLA GROWTH FACTOR RECEPTOR-BOUND PRO...    53  1e-06
+SEQ gi|7709994|ref|NP_038510.1| Bruton agammaglobulinemia tyrosine k...    52  2e-06
+SEQ gi|346653|pir||B45184 protein-tyrosine kinase (EC 2.7.1.112) BPK...    52  2e-06
+SEQ gi|423549|pir||JN0471 protein-tyrosine kinase (EC 2.7.1.112) emb...    52  2e-06
+SEQ gi|2507603|sp|P35991|BTK_MOUSE TYROSINE-PROTEIN KINASE BTK (BRUT...    52  2e-06
+SEQ gi|2695869|emb|CAB05103.1| (Z82206) dJ370M22.1 (GRB2-related ada...    52  3e-06
+SEQ gi|4758476|ref|NP_004801.1| GRB2-related adaptor protein 2 [Homo...    52  3e-06
+SEQ gi|7331201|gb|AAF60319.1|AF236119_1 (AF236119) adapter protein G...    52  3e-06
+SEQ gi|2117817|pir||I39457 Bruton's agammaglobulinemia tyrosine kina...    52  3e-06
+SEQ gi|2117810|pir||I48926 protein-tyrosine kinase (EC 2.7.1.112) Ct...    51  3e-06
+SEQ gi|6754646|ref|NP_034898.1| megakaryocyte-associated tyrosine ki...    51  3e-06
+SEQ gi|639859|dbj|BAA08199.1| (D45243) ctk [Mus musculus]                  51  3e-06
+SEQ gi|957296|gb|AAB33566.1| (S77473) nonreceptor protein-tyrosine k...    51  3e-06
+SEQ gi|1345852|sp|P41242|MATK_MOUSE MEGAKARYOCYTE-ASSOCIATED TYROSIN...    51  3e-06
+SEQ gi|1524143|emb|CAA58806.1| (X83972) HYL tyrosine kinase [Mus mus...    51  3e-06
+SEQ gi|12851035|dbj|BAB28926.1| (AK013606) putative [Mus musculus]         51  3e-06
+SEQ gi|4505109|ref|NP_002369.1| megakaryocyte-associated tyrosine ki...    51  4e-06
+SEQ gi|11177904|ref|NP_068631.1| non-receptor protein kinase protein...    51  4e-06
+SEQ gi|1169123|sp|P42679|MATK_HUMAN MEGAKARYOCYTE-ASSOCIATED TYROSIN...    51  4e-06
+SEQ gi|6808457|emb|CAB70906.1| (AL137754) hypothetical protein [Homo...    51  4e-06
+SEQ gi|13633012|ref|XP_009255.2| megakaryocyte-associated tyrosine k...    51  4e-06
+SEQ gi|7299480|gb|AAF54668.1| (AE003692) CG17309 gene product [Droso...    51  4e-06
+SEQ gi|3387870|gb|AAC28629.1| (AF060949) protein-tyrosine kinase HTK...    51  4e-06
+SEQ gi|1942431|pdb|1GHU|    Nmr Solution Structure Of Growth Factor ...    51  4e-06
+SEQ gi|6117919|gb|AAF03915.1| (AF093133) growth factor receptor-boun...    51  4e-06
+SEQ gi|283728|pir||A43254 protein-tyrosine-phosphatase (EC 3.1.3.48)...    51  5e-06
+SEQ gi|1375479|gb|AAB02543.1| (U19909) corkscrew protein Y1229 [Dros...    51  5e-06
+SEQ gi|1375482|gb|AAB02545.1| (U22356) corkscrew protein [Drosophila...    51  5e-06
+SEQ gi|14286101|sp|P29349|CSW_DROME PROTEIN-TYROSINE PHOSPHATASE COR...    51  5e-06
+SEQ gi|13626739|ref|XP_003333.3| TXK tyrosine kinase [Homo sapiens]        51  5e-06
+SEQ gi|2117813|pir||I58397 gene lsk protein - human >gi|559594|gb|AA...    51  5e-06
+SEQ gi|4557377|ref|NP_000052.1| Bruton agammaglobulinemia tyrosine k...    51  6e-06
+SEQ gi|6754722|ref|NP_034945.1| monocytic adapter [Mus musculus] >gi...    51  6e-06
+SEQ gi|6678623|ref|NP_033565.1| zeta-chain (TCR) associated protein ...    50  7e-06
+SEQ gi|546693|gb|AAB30743.1| ZAP-70=protein tyrosine kinase Syk homo...    50  7e-06
+SEQ gi|1684833|gb|AAB36538.1| (U77667) tyrosine kinase [Mus musculus]      50  7e-06
+SEQ gi|6753700|ref|NP_036139.1| EWS/FLI1 activated transcript 2 [Mus...    50  8e-06
+SEQ gi|1375480|gb|AAB02544.1| (U19909) corkscrew protein 4A [Drosoph...    50  1e-05
+SEQ gi|6706168|emb|CAB65871.1| (AL132797) the EST embl|AA697809|AA69...    50  1e-05
+SEQ gi|557900|gb|AAA82880.1| (U15528) protein tyrosine phosphatase 1...    50  1e-05
+SEQ gi|35782|emb|CAA43982.1| (X62055) protein-tyrosine  phosphatase ...    49  1e-05
+SEQ gi|131469|sp|P29350|PTN6_HUMAN PROTEIN-TYROSINE PHOSPHATASE, NON...    49  1e-05
+SEQ gi|4506297|ref|NP_002822.1| protein tyrosine phosphatase, non-re...    49  1e-05
+SEQ gi|5825608|gb|AAD53317.1| (AF178946) 70 kDa SHP-1L protein [Homo...    49  1e-05
+SEQ gi|13652321|ref|XP_006638.2| protein tyrosine phosphatase, non-r...    49  1e-05
+SEQ gi|585361|sp|Q08881|ITK_HUMAN TYROSINE-PROTEIN KINASE ITK/TSK (T...    49  2e-05
+SEQ gi|7949058|ref|NP_005537.2| IL2-inducible T-cell kinase; T-cell-...    49  2e-05
+SEQ gi|5729678|gb|AAC60250.2| (U85659) protein tyrosine kinase [Raja...    49  2e-05
+SEQ gi|1079313|pir||A55651 protein-tyrosine-phosphatase (EC 3.1.3.48...    49  2e-05
+SEQ gi|125133|sp|P00522|ABL_DROME TYROSINE-PROTEIN KINASE DASH/ABL >...    48  3e-05
+SEQ gi|7294076|gb|AAF49431.1| (AE003526) Abl gene product [Drosophil...    48  3e-05
+SEQ gi|346421|pir||A44266 protein-tyrosine kinase (EC 2.7.1.112) ZAP...    48  4e-05
+SEQ gi|1177044|sp|P43403|ZA70_HUMAN TYROSINE-PROTEIN KINASE ZAP-70 (...    48  4e-05
+SEQ gi|3930217|gb|AAC80284.1| (AF047487) Nck-2 [Homo sapiens]              48  4e-05
+SEQ gi|11429557|ref|XP_002448.1| NCK adaptor protein 2 [Homo sapiens...    48  4e-05
+SEQ gi|464494|sp|Q06124|PTNB_HUMAN PROTEIN-TYROSINE PHOSPHATASE, NON...    47  5e-05
+SEQ gi|464495|sp|P35235|PTNB_MOUSE PROTEIN-TYROSINE PHOSPHATASE, NON...    47  5e-05
+SEQ gi|6755228|ref|NP_035332.1| protein tyrosine phosphatase, non-re...    47  5e-05
+SEQ gi|13430846|ref|NP_002825.1| protein tyrosine phosphatase, non-r...    47  5e-05
+SEQ gi|4558223|pdb|2SHP|A Chain A, Tyrosine Phosphatase Shp-2 >gi|45...    47  5e-05
+SEQ gi|12847612|dbj|BAB27639.1| (AK011468) putative [Mus musculus]         47  5e-05
+SEQ gi|13652741|ref|XP_015457.1| protein tyrosine phosphatase, non-r...    47  5e-05
+SEQ gi|14250501|gb|AAH08692.1|AAH08692 (BC008692) protein tyrosine p...    47  5e-05
+SEQ gi|628027|pir||A53593 protein-tyrosine-phosphatase (EC 3.1.3.48)...    47  6e-05
+SEQ gi|6981444|ref|NP_037220.1| SH-PTP2 protein tyrosine phosphatase...    47  6e-05
+SEQ gi|3123258|sp|P41499|PTNB_RAT PROTEIN-TYROSINE PHOSPHATASE, NON-...    47  6e-05
+SEQ gi|2353318|gb|AAC12900.1| (AF016326) Tec-family kinase [Danio re...    47  6e-05
+SEQ gi|729368|sp|Q08012|DRK_DROME PROTEIN E(SEV)2B (SH2-SH3 ADAPTER ...    47  6e-05
+SEQ gi|4502435|ref|NP_001712.1| BMX non-receptor tyrosine kinase [Ho...    47  7e-05
+SEQ gi|6753196|ref|NP_033889.1| BMX non-receptor tyrosine kinase [Mu...    47  8e-05
+SEQ gi|7710032|ref|NP_057928.1| growth factor receptor bound protein...    47  8e-05
+SEQ gi|13629314|ref|XP_009444.2| PTK6 protein tyrosine kinase 6 [Hom...    47  9e-05
+SEQ gi|4505347|ref|NP_003572.1| NCK adaptor protein 2 [Homo sapiens]...    47  9e-05
+SEQ gi|6754386|ref|NP_034713.1| IL2-inducible T-cell kinase [Mus mus...    46  1e-04
+SEQ gi|220614|dbj|BAA03129.1| (D14042) tyrosine kinase [Mus musculus...    46  1e-04
+SEQ gi|423550|pir||JN0472 protein-tyrosine kinase (EC 2.7.1.112) emt...    46  1e-04
+SEQ gi|423589|pir||A47333 T-cell-specific tyrosine kinase - mouse          46  1e-04
+SEQ gi|2134391|pir||JC5167 protein-tyrosine-phosphatase (EC 3.1.3.48...    46  1e-04
+SEQ gi|423456|pir||B46243 epidermal growth factor-receptor-binding p...    46  1e-04
+SEQ gi|7106375|ref|NP_035009.1| non-catalytic region of tyrosine kin...    46  1e-04
+SEQ gi|7305133|ref|NP_038573.1| hemopoietic cell phosphatase [Mus mu...    46  1e-04
+SEQ gi|538545|pir||A44390 protein-tyrosine-phosphatase (EC 3.1.3.48)...    46  1e-04
+SEQ gi|4097668|gb|AAD00151.1| (U65955) SH2 phosphatase 1 [Mus musculus]    46  1e-04
+SEQ gi|212706|gb|AAA49078.1| (M57290) pp60c-scr [Gallus gallus]            46  2e-04
+SEQ gi|5453754|ref|NP_006144.1| NCK adaptor protein 1; non-catalytic...    46  2e-04
+SEQ gi|4249651|gb|AAD13752.1| (AF084183) SH2/SH3 adaptor protein [Mu...    46  2e-04
+SEQ gi|12805117|gb|AAH02015.1|AAH02015 (BC002015) non-catalytic regi...    46  2e-04
+SEQ gi|13644889|ref|XP_002987.2| NCK adaptor protein 1 [Homo sapiens]      46  2e-04
+SEQ gi|7511162|pir||T27877 hypothetical protein ZK470.5 - Caenorhabd...    46  2e-04
+SEQ gi|14043155|gb|AAH07565.1|AAH07565 (BC007565) phospholipase C, g...    46  2e-04
+SEQ gi|4758478|ref|NP_004481.1| growth factor receptor-bound protein...    46  2e-04
+SEQ gi|12728034|ref|XP_010770.1| growth factor receptor-bound protei...    46  2e-04
+SEQ gi|13559691|gb|AAK29898.1| (AC024796) Hypothetical protein Y48G1...    46  2e-04
+SEQ gi|7106373|ref|NP_035008.1| non-catalytic region of tyrosine kin...    45  2e-04
+SEQ gi|7331969|gb|AAF60657.1| (AC024791) contains similarity to Pfam...    45  3e-04
+SEQ gi|1174425|sp|P42687|SPK1_DUGTI TYROSINE-PROTEIN KINASE SPK-1 >g...    45  3e-04
+SEQ gi|2723311|dbj|BAA24063.1| (AB009840) Dsrc29A type 1 protein [Dr...    45  3e-04
+SEQ gi|2723313|dbj|BAA24064.1| (AB009841) Dsrc29A type 2 protein [Dr...    45  3e-04
+SEQ gi|2827464|gb|AAB99858.1| (AF044337) TEC29 [Drosophila melanogas...    45  3e-04
+SEQ gi|10728663|gb|AAF52631.2| (AE003620) Btk29A gene product [Droso...    45  3e-04
+SEQ gi|8393984|ref|NP_058864.1| phospholipase C, gamma 2 [Rattus nor...    44  4e-04
+SEQ gi|13924738|gb|AAK49118.1|AF253046_1 (AF253046) spleen protein t...    44  4e-04
+SEQ gi|13492045|gb|AAK28059.1|AF312692_1 (AF312692) SPRINT-a [Drosop...    44  5e-04
+SEQ gi|13492047|gb|AAK28060.1|AF312693_1 (AF312693) SPRINT-b [Drosop...    44  5e-04
+SEQ gi|121742|sp|P09851|RSG1_BOVIN RAS GTPASE-ACTIVATING PROTEIN 1 (...    44  6e-04
+SEQ gi|226139|prf||1411306A GTPase activating protein GAP [Bos taurus]     44  6e-04
+SEQ gi|6981460|ref|NP_037267.1| RAS p21 protein activator [Rattus no...    44  6e-04
+SEQ gi|1816662|gb|AAC60143.1| (U85781) SH2/SH3 adaptor protein [Xeno...    44  6e-04
+SEQ gi|4521173|dbj|BAA76275.1| (AB017510) PLC-gammaS [Ephydatia fluv...    44  7e-04
+SEQ gi|4506431|ref|NP_002881.1| RAS p21 protein activator 1, isoform...    44  8e-04
+SEQ gi|12545406|ref|NP_072179.1| RAS p21 protein activator 1, isofor...    44  8e-04
+SEQ gi|13645888|ref|XP_015271.1| RAS p21 protein activator 1, isofor...    44  8e-04
+SEQ gi|4098327|gb|AAD00262.1| (U77038) protein-tyrosine phosphatase ...    44  8e-04
+SEQ gi|125704|sp|P08630|SRC2_DROME TYROSINE-PROTEIN KINASE SRC28C >g...    44  8e-04
+SEQ 
+## SEQUENCE PROFILE AND ENTROPY
+ SeqNo PDBNo   V   L   I   M   F   W   Y   G   A   P   S   T   C   H   R   K   Q   E   N   D  NOCC NDEL NINS ENTROPY RELENT WEIGHT
+    1    1     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   6  38  53   0   3     0    0    0   0.970     32  0.00
+    2    2     1   0   0   1   0   0   0   0  42  17   3  14   0   0   2  19   0   0   0   0     0    0    0   1.574     52  0.00
+    3    3     0   0   0  10   0   0   2   0   0   0   0   0   0  14   0   0   4  69   0   0     0    0    0   0.986     32  0.00
+    4    4     0   0   0   0   0   0   0   0   1  42   8   0   0   0   6   2   0  39   0   1     0    0    0   1.308     43  0.00
+    5    5     0   0   0   0   3  95   2   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.254      8  0.00
+    6    6     0   2   0   0  51   0  47   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.773     25  0.00
+    7    7     1   2   0   0  53   0   5   0   1   0   2   0   0  33   0   0   0   0   2   0     0    0    0   1.218     40  0.00
+    8    8     0   0   0   0   0   0   0  69   0   1   3   0   0   1   6  17   0   3   0   0     0    0    0   1.031     34  0.00
+    9    9     0   0   0   1   0   0   0   8   2   6   5   1   1   5   2  43   1   0  18   8     0    0    0   1.867     62  0.00
+   10   10    11  25  56   7   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0     0    0    0   1.156     38  0.00
+   11   11     0   1   0   0   0   0   0  12   0   5  46  30   0   0   1   3   1   1   0   2     0    0    0   1.445     48  0.00
+   12   12     0   0   0   0   0   0   0  11   0   0   1   0   0   0  87   1   0   0   0   0     0    0    0   0.435     14  0.00
+   13   13     1   2   1   0   0   0   0   0   8   1   7   2   0   4  14  30   5  11   7   6     0    0    0   2.228     74  0.00
+   14   14     0   1   2   0   0   0   0   1   7   0   0   1   0   0   2   9  10  37   1  30     0    0    0   1.669     55  0.00
+   15   15     0   0   0   0   0   0   0   0  79   0  20   1   0   0   0   0   0   0   0   0     0    0    0   0.580     19  0.00
+   16   16     2   0   2   0   0   0   0   1   1   0   0   0   0   0   0   0   2  90   0   1     0    0    0   0.500     16  0.00
+   17   17     1   0   0   2   0   0   2   0   1   0   0   3   2   1  49  15  12   7   2   5     0    0    0   1.750     58  0.00
+   18   18     0  34   2   1   0   0   9   0   5   1   2   2   1   3   4   3  27   6   0   0     0    0    0   1.957     65  0.00
+   19   19     5  87   4   5   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.553     18  0.00
+   20   20     3  70   1   2   0   0   2   0   0   0   1   4   0   0   2   5   6   0   3   0     0    0    0   1.266     42  0.00
+   21   21     0   5   4   1   0   0   2   5  16   5  20   1   1   1   2   5   8   8  15   2     0    0    0   2.434     81  0.00
+   22   22     0   2   0   0   3   0   0  10   5  39  11   3   0   0   8   9   7   2   0   0     0    0    0   2.040     68  0.00
+   23   23     0   0   2   1   1   0   0  56   1   1   5   1   0   0   1   1   6  24   0   1     0    0    0   1.430     47  0.00
+   24   24     0   2   1   5   0   0   1   4   1   0   2   2   0   1   5  16   1   1  51   6     0    0    0   1.792     59  0.00
+   25   25     7   0   6   4   0   0   0   1   4  23   8  17   0   6   1  12   6   4   1   0     0    0    0   2.328     77  0.00
+   26   26     2   5   1   0   0   0   0   1   4   3   1   3   0  13  24   1   2  12  12  16     0    0    0   2.236     74  0.00
+   27   27     0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   28   28     1  11   3   0   1   0   0   2  19   0  31  21   1   0   0   6   0   0   0   3     0    0    0   1.908     63  0.00
+   29   29     0   0   0   0  93   0   7   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.263      8  0.00
+   30   30     2  86   5   7   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.571     19  0.00
+   31   31    47   7  43   0   0   0   0   0   3   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.006     33  0.00
+   32   32     0   0   0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0     0    0    0   0.000      0  0.00
+   33   33     1   0   0   0   0   0   0   1   5   6   0   0   0   0   0   4   6  62   1  14     0    0    0   1.319     44  0.00
+   34   34     0   0   0   0   0   0   0   0   1   0  91   0   1   0   6   0   0   0   0   0     0    0    0   0.387     12  0.00
+   35   35     0   1   0   0   0   0   0   1   4   0   1   3   0   0  11   2   9  64   0   6     0    0    0   1.324     44  0.00
+   36   36     0   0   0   0   0   0   0   0   0   0  37  38   0   2   6   4   0   1  10   1     0    0    0   1.498     50  0.00
+   37   37     0   3   1   0   2   0   5   0   7   1  16  34   0   7   3   5   4   0  10   0     0    0    0   2.136     71  0.00
+   38   38     1   6   3   0   0   0   0   1   9  36   1   0   0   1   1  38   3   0   0   0     0    0    0   1.564     52  0.00
+   39   39     0   0   0   0   0   0   0  91   1   0   2   0   0   0   1   1   0   0   4   0     0    0    0   0.432     14  0.00
+   40   40     0   2   0   0   1   0   0   7  24   0  22   5   1   0   0   2   7   2   1  28     0    0    0   1.892     63  0.00
+   41   41     0   2   0   1  39   0  53   0   0   0   0   0   0   0   5   0   0   0   0   0     0    0    0   0.978     32  0.00
+   42   42    14   0   0   0   0   0   0   0  10   0  51  11  13   0   0   0   0   0   0   0     0    0    0   1.364     45  0.00
+   43   43     8  81  11   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.658     21  0.00
+   44   44     0   0   0   0   0   0   0   1   1   0  88   0  10   0   0   0   0   0   0   0     0    0    0   0.430     14  0.00
+   45   45    68  18  10   1   2   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.945     31  0.00
+   46   46     1   3   1   0   2   1   0   0   4   0  16   0   1   3  56  13   0   0   0   0     0    0    0   1.489     49  0.00
+   47   47     4   2   0   1   1   0   0   0   6   0   1   8   1   3   0   0   0   0   0  70     0    0    0   1.231     41  0.00
+   48   48     4   1   2   0  37  17   9  10   0   1   4   0   1   0   1   0   4   2   0   5     0    0    0   2.086     69  0.00
+   49   49     1   0   0   0   0   0   0   6   5   1   0   4   0   0   4   0   1   2   0  75     0    0    0   1.069     35  0.00
+   50   50     0   9   0   0   0   0   0   1   1  11   8   2   0   1   4  13  16   7  19   8     0    0    0   2.302     76  0.00
+   51   51     6   0   1   7   0   0   8   2  20   0  13   5   2   7   4   1   2   1  19   2     0    0    0   2.383     79  0.00
+   52   52     0   0   0   0  10   0   3   0   0   2   3   3   0  10   9  22  17  17   1   5     0    0    0   2.193     73  0.00
+   53   53     0   0   0   1   0   1   0  85   2   0   2   2   0   0   0   2   2   0   4   0     0    0    0   0.725     24  0.00
+   54   54     0  13   0   0   0   0   1   2   1   5   2   0   0   0  18  13   2  13   7  23     0    0    0   2.091     69  0.00
+   55   55    32   1   1   0   0   0   1   0   2   0   5   8   2  10   2   5   3   0  19   9     0    0    0   2.078     69  0.00
+   56   56    68   4  12   0   3   0   6   0   4   0   0   0   2   0   0   0   0   0   0   0     0    0    0   1.161     38  0.00
+   57   57     0   0   4   0   0   0   3   0   0   0   0   9   0   5   4  60   9   3   2   0     0    0    0   1.479     49  0.00
+   58   58     0   0   0   0   0   0   0   0   0   0   0   0   0  99   0   0   0   0   0   0     0    0    0   0.074      2  0.00
+   59   59     5   0   3   0  13   0  78   0   0   0   0   0   1   0   0   0   0   0   0   0     0    0    0   0.758     25  0.00
+   60   60     2   2   0   5   0   0   0   0   0   1   0   4   0   3  32  47   3   0   0   0     0    0    0   1.463     48  0.00
+   61   61    18   0  82   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.504     16  0.00
+   62   62     0   9   4   2   1   1   1   0   0   0   2   0   4   1  45   7   7   6   6   5     0    0    0   2.010     67  0.00
+   63   63     1   1   0   1   0   2   0   0   2   2   7  12   2   4  19  31   4   2  10   0     0    0    0   2.128     71  0.00
+   64   64     4  49   0   3   0   0   5   0   6   1   0   6   0   1   4   1   4   5   4   8     0    0    0   1.933     64  0.00
+   65   65     0   5   0   1   0   0   2   0   4   5   7   0   0   1   0   8   1   3   3  62     0    0    0   1.494     49  0.00
+   66   66     3   0   0   1   0   0   0   5   3   0  22   6   2   1   1   2   3   7  33  11     0    0    0   2.072     69  0.00
+   67   67     1   0   0   0   0   0   0  79   5   0   4   3   1   0   0   1   0   0   3   2     0    0    0   0.924     30  0.00
+   68   68     1   1   0   0   1   2   1  52   0   2   2   5   0   4   1  19   4   2   0   4     0    0    0   1.706     56  0.00
+   69   69     3  19   0   2  29   1  37   3   0   0   1   0   0   0   0   5   0   0   1   0     0    0    0   1.607     53  0.00
+   70   70     0   1   0   0   8   0  66   0   5   0   7   5   3   1   0   0   0   3   0   2     0    0    0   1.346     44  0.00
+   71   71    12  13  66   0   5   0   0   0   0   0   0   0   2   0   0   0   0   1   0   0     0    0    0   1.088     36  0.00
+   72   72     0   6   2   0   0   2   3   6  11   6  26  31   0   0   0   0   1   0   1   7     0    0    0   1.984     66  0.00
+   73   73     1   0   0   0   0   6   0  14   1  17  18  12   0   0   4   1   4  20   1   3     0    0    0   2.120     70  0.00
+   74   74     5   0   0   0   0   0   0  18   4   0   0   1   0   0  50   6   2  11   2   0     0    0    0   1.568     52  0.00
+   75   75    14   3  12   0   1   0   3   0  11   0  11  16   0   5   8   8   1   7   0   0     0    0    0   2.366     78  0.00
+   76   76     3   4   1   0   2   0   2   0   4   1   4  22   4   0  12  19  23   0   1   0     0    0    0   2.122     70  0.00
+   77   77     0   1   0   0  93   0   0   0   0   0   0   0   1   5   0   0   0   0   0   0     0    0    0   0.319     10  0.00
+   78   78     0   0   0   0   0   0   0   4   7  15  21   1   5   2   2   0   3   9  16  14     0    0    0   2.232     74  0.00
+   79   79     0   0   1   0   0   0   0   7   0   0  44  37   4   0   0   0   0   0   7   0     0    0    0   1.285     42  0.00
+   80   80     2  76  12   3   0   0   0   0   0   5   0   0   0   0   0   0   0   0   0   0     0    0    0   0.853     28  0.00
+   81   81     0   1   1   5   0   6   1   2  11   8   6   6   0   8   0   0  30   3   9   2     0    0    0   2.328     77  0.00
+   82   82     0   2   0   0   0   0   0   0   5   0   1   1   0   0   0   5  25  42   0  20     0    0    0   1.484     49  0.00
+   83   83     1  91   0   6   2   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.378     12  0.00
+   84   84    77   1  17   0   0   0   0   0   0   0   0   0   5   0   0   0   0   0   0   0     0    0    0   0.704     23  0.00
+   85   85     1   1   0   1   0   1   0   2  15   0   2   1   0  12   6   7  12  23   7  12     0    0    0   2.235     74  0.00
+   86   86     0   0   0   0   2   0  39   0   1   0   0   0   0  57   0   0   0   0   0   0     0    0    0   0.849     28  0.00
+   87   87     0   1   0   0   0   0  73   0   0   0   1   0   0  25   0   0   0   0   0   0     0    0    0   0.687     22  0.00
+   88   88     1   0   0   2   0   0   0   1   1   0  45  17   0   0  10  11  11   1   0   0     0    0    0   1.623     54  0.00
+   89   89     1   1   1   0   0   0   7   1   1   1   6  12   0   8   2  32   7  13   6   0     0    0    0   2.183     72  0.00
+   90   90    11   1   0   0   0   0   0   4  10   0   2   7   1  19   3  10   4   7  10   9     0    0    0   2.406     80  0.00
+   91   91     1   1   0   0   0   1   0   5  46   6  30   1   1   0   0   5   0   0   5   0     0    0    0   1.530     51  0.00
+   92   92     0   1   0   0   0   0   0   9   9   0   0   0   0   1   0   1   0   1   1  76     0    0    0   0.926     30  0.00
+   93   93     0   1   0   0   0   0   0  91   4   0   1   0   0   0   0   0   0   1   0   1     0    0    0   0.418     13  0.00
+   94   94     0  91   7   1   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0     0    0    0   0.338     11  0.00
+   95   95     8   6  15   1   0   0   0   1   2   3   1   0  62   0   0   0   1   0   0   0     0    0    0   1.346     44  0.00
+   96   96     5   1   0   0   2   0   4   0   0   0   4  28  17  21  10   0   7   0   2   0     0    0    0   1.985     66  0.00
+   97   97     7  10   1   0   0   0   0   0   1   2   0   8   1   0  44  19   1   0   5   0     0    0    0   1.772     59  0.00
+   98   98     0 100   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   99   99     8   3   2   2   0   0   0   3   1   0  14  35   1   7   7  11   0   5   0   0     0    0    0   2.109     70  0.00
+  100  100    15   3   0   0   0   0  17   0   5   0   2   9   0   1  10  20   2   3  12   0     0    0    0   2.245     74  0.00
+  101  101    21   0   0   0   0   0   0   0   6  72   0   0   0   0   0   0   0   0   0   0     0    0    0   0.754     25  0.00
+  102  102     1   0   0   0   0   0   0   0   0   0   0   0  99   0   0   0   0   0   0   0     0    0    0   0.057      1  0.00
+  103  103     0   1   0   8   0   0   0   0   0  47   2   4   0   0   4   0  31   3   0   0     0    0    0   1.405     46  0.00
+  104  104     0   0   0   0   0   0   0   0   0   0  10  90   0   0   0   0   0   0   0   0     0    0    0   0.318     10  0.00
+//

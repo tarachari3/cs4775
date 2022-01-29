@@ -1,0 +1,553 @@
+ID Pseudo hssp file.
+SEQ 
+SEQ gi|12804335|gb|AAH03026.1|AAH03026 (BC003026) Unknown (protein f...   322  2e-87
+SEQ gi|10863927|ref|NP_066953.1| peptidylprolyl isomerase A (cycloph...   319  2e-86
+SEQ gi|3659980|pdb|1BCK|A Chain A, Human Cyclophilin A Complexed Wit...   319  2e-86
+SEQ gi|2981731|pdb|1AWR|A Chain A, Cypa Complexed With Hagpia >gi|29...   319  2e-86
+SEQ gi|13543666|gb|AAH05982.1|AAH05982 (BC005982) peptidylprolyl iso...   317  7e-86
+SEQ gi|13937981|gb|AAH07104.1|AAH07104 (BC007104) peptidylprolyl iso...   316  9e-86
+SEQ gi|4033689|sp|P04374|CYPH_BOVIN PEPTIDYL-PROLYL CIS-TRANS ISOMER...   315  2e-85
+SEQ gi|68401|pir||CSBOAB peptidylprolyl isomerase (EC 5.2.1.8) A - b...   315  3e-85
+SEQ gi|118098|sp|P14851|CYPH_CRILO PEPTIDYL-PROLYL CIS-TRANS ISOMERA...   309  2e-83
+SEQ gi|6651171|gb|AAF22215.1|AF139893_1 (AF139893) cyclophilin 18 [O...   308  4e-83
+SEQ gi|2981743|pdb|1AWS|A Chain A, Secypa Complexed With Hagpia (Pse...   307  5e-83
+SEQ gi|13646801|ref|XP_016512.1| similar to peptidylprolyl isomerase...   307  6e-83
+SEQ gi|6679439|ref|NP_032933.1| peptidylprolyl isomerase A; cyclophi...   307  6e-83
+SEQ gi|8394009|ref|NP_058797.1| peptidylprolyl isomerase A (cyclophi...   305  2e-82
+SEQ gi|12846244|dbj|BAB27089.1| (AK010649) putative [Mus musculus]        304  4e-82
+SEQ gi|12849271|dbj|BAB28276.1| (AK012491) putative [Mus musculus]        303  1e-81
+SEQ gi|8699209|gb|AAF78600.1|AF243140_1 (AF243140) cyclophilin A [Ca...   300  6e-81
+SEQ gi|5441629|emb|CAB46877.1| (AL022240) dJ328E19.1 (cyclophilin-li...   278  3e-74
+SEQ gi|6691868|emb|CAB65786.1| (AL021395) dJ269M15.1 (similar to pep...   272  1e-72
+SEQ gi|2507228|sp|P29117|CYPM_RAT PEPTIDYL-PROLYL CIS-TRANS ISOMERAS...   264  4e-70
+SEQ gi|13278483|gb|AAH04041.1|AAH04041 (BC004041) Similar to peptidy...   263  8e-70
+SEQ gi|5031987|ref|NP_005720.1| peptidylprolyl isomerase F (cyclophi...   260  6e-69
+SEQ gi|1703696|gb|AAB37708.1| (S82440) cyclophilin [Hemicentrotus pu...   256  1e-67
+SEQ gi|1706258|sp|P54985|CYPH_BLAGE PEPTIDYL-PROLYL CIS-TRANS ISOMER...   250  9e-66
+SEQ gi|3334157|sp|Q39613|CYPH_CATRO PEPTIDYL-PROLYL CIS-TRANS ISOMER...   244  5e-64
+SEQ gi|118099|sp|P25007|CYPH_DROME PEPTIDYL-PROLYL CIS-TRANS ISOMERA...   242  2e-63
+SEQ gi|11270316|pir||T50768 cyclophylin [imported] - Digitalis lanat...   241  4e-63
+SEQ gi|7294404|gb|AAF49750.1| (AE003535) CG7768 gene product [alt 1]...   240  6e-63
+SEQ gi|1532210|gb|AAB07894.1| (U68268) cyclophilin A [Trypanosoma co...   240  9e-63
+SEQ gi|11270318|pir||T50769 cyclophilin [imported] - Digitalis lanat...   240  1e-62
+SEQ gi|2655157|gb|AAB87888.1| (AF025803) cyclophilin 1 [Drosophila p...   240  1e-62
+SEQ gi|2655159|gb|AAB87889.1| (AF025804) cyclophilin 1 [Drosophila s...   238  4e-62
+SEQ gi|1480463|gb|AAC47232.1| (U47813) cyclophilin Dicyp-2 [Dirofila...   237  7e-62
+SEQ gi|1532214|gb|AAB07896.1| (U68270) cyclophilin A [Trypanosoma br...   237  7e-62
+SEQ gi|118104|sp|P21569|CYPH_MAIZE PEPTIDYL-PROLYL CIS-TRANS ISOMERA...   237  8e-62
+SEQ gi|6014890|sp|O49886|CYPH_LUPLU PEPTIDYL-PROLYL CIS-TRANS ISOMER...   237  1e-61
+SEQ gi|1076366|pir||S50141 peptidylprolyl isomerase (EC 5.2.1.8) - A...   236  1e-61
+SEQ gi|7963789|gb|AAF71354.1|AF252388_1 (AF252388) cyclophilin [Maca...   236  1e-61
+SEQ gi|7437318|pir||T07950 peptidylprolyl isomerase (EC 5.2.1.8) 1 -...   235  2e-61
+SEQ gi|3777556|gb|AAC64933.1| (AF078071) cyclophilin [Griffithsia ja...   235  3e-61
+SEQ gi|118103|sp|P21568|CYPH_LYCES PEPTIDYL-PROLYL CIS-TRANS ISOMERA...   235  3e-61
+SEQ gi|68406|pir||CSTO peptidylprolyl isomerase (EC 5.2.1.8) - tomato     235  3e-61
+SEQ gi|13925731|gb|AAK49426.1|AF262982_1 (AF262982) cyclophilin A-1 ...   235  3e-61
+SEQ gi|1480461|gb|AAC47231.1| (U47811) cyclophilin Bmcyp-2 [Brugia m...   234  5e-61
+SEQ gi|1532212|gb|AAB07895.1| (U68269) cyclophilin A [Trypanosoma vi...   234  5e-61
+SEQ gi|1706246|sp|P52009|CYP1_CAEEL PEPTIDYL-PROLYL CIS-TRANS ISOMER...   234  6e-61
+SEQ gi|1480465|gb|AAC47233.1| (U47812) cyclophilin Ovcyp-2 [Onchocer...   234  6e-61
+SEQ gi|1076510|pir||S54833 peptidylprolyl isomerase (EC 5.2.1.8) Cyp...   234  7e-61
+SEQ gi|11270322|pir||T50771 cyclophilin [imported] - potato >gi|4559...   233  1e-60
+SEQ gi|1084454|pir||S48018 peptidylprolyl isomerase (EC 5.2.1.8) Cyp...   232  2e-60
+SEQ gi|13925734|gb|AAK49427.1|AF262983_1 (AF262983) cyclophilin A-2 ...   232  2e-60
+SEQ gi|461903|sp|P34790|CYP1_ARATH PEPTIDYL-PROLYL CIS-TRANS ISOMERA...   232  2e-60
+SEQ gi|11270320|pir||T50770 hypothetical protein vcCyP [imported] - ...   231  4e-60
+SEQ gi|11270314|pir||T50767 cyclophilin [imported] - Arabidopsis tha...   231  6e-60
+SEQ gi|11270362|pir||T47724 peptidylprolyl isomerase (EC 5.2.1.8) RO...   231  6e-60
+SEQ gi|14196340|ref|NP_062362.1| peptidylprolyl isomerase E (cycloph...   231  6e-60
+SEQ gi|5174637|ref|NP_006103.1| peptidylprolyl isomerase E (cyclophi...   231  6e-60
+SEQ gi|5051367|emb|CAB44733.1| (AL049824) dJ117L23.1 (Cyclophilin 33...   231  6e-60
+SEQ gi|2129568|pir||S71220 peptidylprolyl isomerase (EC 5.2.1.8) ROC...   230  7e-60
+SEQ gi|1076367|pir||A53422 peptidylprolyl isomerase (EC 5.2.1.8) ROC...   230  9e-60
+SEQ gi|2129569|pir||S71219 peptidylprolyl isomerase (EC 5.2.1.8) ROC...   230  1e-59
+SEQ gi|1084455|pir||S48017 peptidylprolyl isomerase (EC 5.2.1.8) Cyp...   230  1e-59
+SEQ gi|2828149|gb|AAC00006.1| (AF042385) cyclophilin-33A [Homo sapiens]   229  2e-59
+SEQ gi|4803930|gb|AAD29803.1|AC006264_11 (AC006264) cyclophilin (CYP...   228  3e-59
+SEQ gi|6224860|gb|AAF05985.1|AF191832_1 (AF191832) cyclophilin A [Tr...   228  3e-59
+SEQ gi|68407|pir||CSRP peptidylprolyl isomerase (EC 5.2.1.8) - rape       228  3e-59
+SEQ gi|1345921|sp|P24525|CYPH_BRANA PEPTIDYL-PROLYL CIS-TRANS ISOMER...   228  3e-59
+SEQ gi|11270324|pir||T50772 cyclophilin [imported] - Arabidopsis tha...   228  4e-59
+SEQ gi|13124087|sp|Q9QZH3|CYPE_MOUSE PEPTIDYL-PROLYL CIS-TRANS ISOME...   227  5e-59
+SEQ gi|7649161|gb|AAF65770.1|AF242312_1 (AF242312) cyclophilin [Euph...   227  6e-59
+SEQ gi|2665343|emb|CAA73904.1| (Y13576) cyclophilin [Leishmania major]    227  6e-59
+SEQ gi|4678574|emb|CAB41016.1| (AJ238310) cyclophilin A [Lumbricus r...   227  7e-59
+SEQ gi|600769|gb|AAA57046.1| (L29470) cyclophilin 2 [Oryza sativa]        226  1e-58
+SEQ gi|1709217|sp|P49792|RBP2_HUMAN RAN-BINDING PROTEIN 2 (RANBP2) (...   226  1e-58
+SEQ gi|6382079|ref|NP_006258.2| RAN binding protein 2; nucleoporin 3...   226  1e-58
+SEQ gi|1098322|prf||2115390A Ran/TC4-binding nucleopore protein [Hom...   226  1e-58
+SEQ gi|13635752|ref|XP_017769.1| similar to RAN binding protein 2; n...   226  1e-58
+SEQ gi|10442646|gb|AAG17403.1|AF279458_1 (AF279458) Ran-binding prot...   226  2e-58
+SEQ gi|8039801|sp|P48820|RBP2_BOVIN RAN-BINDING PROTEIN 2 (RANBP2) (...   226  2e-58
+SEQ gi|1004092|gb|AAB00072.1| (L41692) retina-specific cyclophilin [...   226  2e-58
+SEQ gi|1928939|gb|AAB51386.1| (U92087) stress responsive cyclophilin...   225  2e-58
+SEQ gi|3550686|emb|CAA08988.1| (AJ010066) cyclophilin (TcCYP) [Trypa...   225  4e-58
+SEQ gi|167138|gb|AAA62706.1| (M55018) cyclophilin [Brassica napus]        223  8e-58
+SEQ gi|118097|sp|P22011|CYPH_CANAL PEPTIDYL-PROLYL CIS-TRANS ISOMERA...   223  1e-57
+SEQ gi|118109|sp|P18253|CYPH_SCHPO PEPTIDYL-PROLYL CIS-TRANS ISOMERA...   223  2e-57
+SEQ gi|160945|gb|AAA29863.1| (M93420) cyclophilin [Schistosoma japon...   222  3e-57
+SEQ gi|13182785|gb|AAK14936.1|AF222790_1 (AF222790) cyclophilin 1 [T...   221  3e-57
+SEQ gi|630464|pir||B53522 20k cyclophilin - Toxoplasma gondii (fragm...   221  3e-57
+SEQ gi|13644624|ref|XP_002102.2| peptidylprolyl isomerase E (cycloph...   221  4e-57
+SEQ gi|2190533|gb|AAC47543.1| (U30265) similar to Schistosoma japoni...   221  5e-57
+SEQ gi|10720390|sp|P52015|CYP7_CAEEL PEPTIDYL-PROLYL CIS-TRANS ISOME...   220  8e-57
+SEQ gi|863016|gb|AAC47125.1| (U27559) cyclophilin [Caenorhabditis el...   219  2e-56
+SEQ gi|1706248|sp|P52011|CYP3_CAEEL PEPTIDYL-PROLYL CIS-TRANS ISOMER...   218  4e-56
+SEQ gi|6066431|emb|CAB58298.1| (AL121851) cyclophilin [Leishmania ma...   218  4e-56
+SEQ gi|118100|sp|P14088|CYPH_ECHGR PEPTIDYL-PROLYL CIS-TRANS ISOMERA...   218  5e-56
+SEQ gi|1245402|gb|AAC47317.1| (U50388) cyclophilin A [Schistosoma ma...   218  5e-56
+SEQ gi|227879|prf||1713247A cyclophilin [Dictyostelium discoideum]        216  1e-55
+SEQ gi|13124101|sp|Q9V3G3|CYPE_DROME PEPTIDYL-PROLYL CIS-TRANS ISOME...   216  1e-55
+SEQ gi|461902|sp|P34887|CYPH_ALLCE PEPTIDYL-PROLYL CIS-TRANS ISOMERA...   216  2e-55
+SEQ gi|4138173|emb|CAA09884.1| (AJ011956) allergen [Malassezia furfur]    215  4e-55
+SEQ gi|1045518|gb|AAB01531.1| (U36797) cyclophilin-A [Hirudo medicin...   214  5e-55
+SEQ gi|7798692|gb|AAF69795.1|AF180336_1 (AF180336) cyclophilin A [Fi...   211  4e-54
+SEQ gi|2828151|gb|AAC00007.1| (AF042386) cyclophilin-33B [Homo sapie...   210  7e-54
+SEQ gi|729278|sp|Q06118|PPI_STRCH PEPTIDYL-PROLYL CIS-TRANS ISOMERAS...   210  9e-54
+SEQ gi|13182787|gb|AAK14937.1|AF222791_1 (AF222791) cyclophilin 1 [T...   210  1e-53
+SEQ gi|13377786|gb|AAK20862.1|AF333996_1 (AF333996) cyclophilin A [F...   210  1e-53
+SEQ gi|6320359|ref|NP_010439.1| cyclophilin peptidyl-prolyl cis-tran...   210  1e-53
+SEQ gi|13377788|gb|AAK20863.1|AF333997_1 (AF333997) cyclophilin A [F...   209  2e-53
+SEQ gi|9955556|emb|CAC05440.1| (AL391711) peptidylprolyl isomerase-l...   209  2e-53
+SEQ gi|13605817|gb|AAK32894.1|AF367307_1 (AF367307) AT5g13120/T19L5_...   209  2e-53
+SEQ gi|13486733|dbj|BAB39968.1| (AP003018) putative peptidyl-prolyl ...   209  2e-53
+SEQ gi|461899|sp|P34791|CYP4_ARATH PEPTIDYL-PROLYL CIS-TRANS ISOMERA...   208  3e-53
+SEQ gi|14495020|emb|CAC42137.1| (AL592126) peptidyl-prolyl cis-trans...   208  4e-53
+SEQ gi|11762200|gb|AAG40378.1|AF325026_1 (AF325026) AT3g62030 [Arabi...   207  9e-53
+SEQ gi|5731960|gb|AAD48893.1|AF053068_1 (AF053068) cyclophilin B [Di...   206  1e-52
+SEQ gi|1078650|pir||JT0686 peptidylprolyl isomerase (EC 5.2.1.8) a, ...   206  2e-52
+SEQ gi|7509375|pir||T31517 hypothetical protein Y116A8C.34 - Caenorh...   205  3e-52
+SEQ gi|6323562|ref|NP_013633.1| cyclophilin-3 (cyclosporin-sensitive...   205  4e-52
+SEQ gi|7798694|gb|AAF69796.1|AF180337_1 (AF180337) cyclophilin A [Fi...   205  4e-52
+SEQ gi|2624966|gb|AAB86601.1| (AF017993) cyclophilin [Entamoeba hist...   204  6e-52
+SEQ gi|12654763|gb|AAH01224.1|AAH01224 (BC001224) Unknown (protein f...   204  6e-52
+SEQ gi|11968126|ref|NP_071981.1| cyclophilin B [Rattus norvegicus] >...   204  7e-52
+SEQ gi|849081|gb|AAD04195.1| (U17900) cyclophilin B precursor [Orpin...   203  1e-51
+SEQ gi|7437323|pir||T02489 peptidylprolyl isomerase (EC 5.2.1.8) F23...   202  2e-51
+SEQ gi|1209511|gb|AAC41390.1| (U33869) cyclophilin [Plasmodium falci...   202  2e-51
+SEQ gi|11514610|pdb|1QNG|A Chain A, Plasmodium Falciparum Cyclophili...   202  2e-51
+SEQ gi|11357239|pir||T49181 cyclophylin-like protein - Arabidopsis t...   202  3e-51
+SEQ gi|11270326|pir||T50837 cyclophilin CYP5 [imported] - Arabidopsi...   202  3e-51
+SEQ gi|13398511|gb|AAK21908.1|AF336984_1 (AF336984) cyclophilin [Vau...   202  3e-51
+SEQ gi|11641132|gb|AAG38247.1| (AY008846) cyclophilin [Sus scrofa]        201  3e-51
+SEQ gi|6014889|sp|Q41651|CYPB_VICFA PEPTIDYL-PROLYL CIS-TRANS ISOMER...   201  4e-51
+SEQ gi|4758950|ref|NP_000933.1| peptidylprolyl isomerase B (cyclophi...   201  4e-51
+SEQ gi|118090|sp|P23284|CYPB_HUMAN PEPTIDYL-PROLYL CIS-TRANS ISOMERA...   201  4e-51
+SEQ gi|181250|gb|AAA35733.1| (M60457) cyclophilin [Homo sapiens]          200  8e-51
+SEQ gi|7437314|pir||S74880 peptidylprolyl isomerase (EC 5.2.1.8) - S...   200  8e-51
+SEQ gi|2143900|pir||S71547 peptidylprolyl isomerase (EC 5.2.1.8) B, ...   200  9e-51
+SEQ gi|7511185|pir||T27882 peptidylprolyl isomerase (EC 5.2.1.8) ZK5...   200  1e-50
+SEQ gi|6014892|sp|O00060|CYPH_UROFA PEPTIDYL-PROLYL CIS-TRANS ISOMER...   199  2e-50
+SEQ gi|118106|sp|P10255|CYPH_NEUCR PEPTIDYL-PROLYL CIS-TRANS ISOMERA...   199  2e-50
+SEQ gi|118088|sp|P24367|CYPB_CHICK PEPTIDYL-PROLYL CIS-TRANS ISOMERA...   199  2e-50
+SEQ gi|2118328|pir||S71849 peptidylprolyl isomerase (EC 5.2.1.8) A p...   199  2e-50
+SEQ gi|11514612|pdb|1QNH|A Chain A, Plasmodium Falciparum Cyclophili...   198  3e-50
+SEQ gi|3869176|dbj|BAA34384.1| (AB019518) cyclophilin [Trichophyton ...   198  3e-50
+SEQ gi|11270328|pir||T50838 cyclophilin ROC7 [imported] - Arabidopsi...   198  3e-50
+SEQ gi|295927|emb|CAA35682.1| (X17692) cyclophilin (cytosolic form) ...   198  4e-50
+SEQ gi|9945069|gb|AAG03106.1|AC073405_22 (AC073405) similar to Arabi...   198  4e-50
+SEQ gi|1310882|pdb|1CYN|A Chain A, Cyclophilin B Complexed With [d-(...   198  4e-50
+SEQ gi|2118329|pir||A56861 peptidylprolyl isomerase (EC 5.2.1.8) CyP...   198  5e-50
+SEQ gi|6755142|ref|NP_035279.1| peptidylprolyl isomerase B; cyclophi...   198  5e-50
+SEQ gi|13645145|ref|XP_017224.1| similar to peptidylprolyl isomerase...   198  5e-50
+SEQ gi|10179990|gb|AAG13968.1|AF293848_1 (AF293848) cyclophilin [Mag...   197  9e-50
+SEQ gi|2118327|pir||S51497 peptidylprolyl isomerase (EC 5.2.1.8) A -...   196  1e-49
+SEQ gi|1169176|sp|P80311|CYPB_BOVIN PEPTIDYL-PROLYL CIS-TRANS ISOMER...   196  1e-49
+SEQ gi|2507229|sp|P26882|CYP4_BOVIN 40 KDA PEPTIDYL-PROLYL CIS-TRANS...   196  2e-49
+SEQ gi|13385854|ref|NP_080628.1| RIKEN cDNA 4930564J03 gene [Mus mus...   196  2e-49
+SEQ gi|4322946|gb|AAD16142.1| (AF096318) cyclophilin-like peptidyl p...   196  2e-49
+SEQ gi|9558358|emb|CAC00484.1| (AJ292563) peptidyl-prolyl cis-trans ...   195  4e-49
+SEQ gi|972781|gb|AAB41257.1| (L46884) cyclophilin [Schistosoma mansoni]   195  4e-49
+SEQ gi|4826932|ref|NP_005029.1| peptidylprolyl isomerase D (cyclophi...   193  1e-48
+SEQ gi|642360|emb|CAA88042.1| (Z48002) cyclophilin, cytosolic form [...   193  1e-48
+SEQ gi|4336889|gb|AAD17998.1| (AF107254) cyclophilin B; CYPB [Emeric...   192  2e-48
+SEQ gi|10179991|gb|AAG13969.1|AF293848_2 (AF293848) cyclophilin [Mag...   192  3e-48
+SEQ gi|7492280|pir||T40819 peptidylprolyl isomerase (EC 5.2.1.8) SPB...   191  5e-48
+SEQ gi|544125|sp|P35627|CYP2_ARATH PEPTIDYL-PROLYL CIS-TRANS ISOMERA...   191  6e-48
+SEQ gi|1706247|sp|P52010|CYP2_CAEEL PEPTIDYL-PROLYL CIS-TRANS ISOMER...   191  6e-48
+SEQ gi|992633|gb|AAC46985.1| (U30874) cyclophilin B [Schistosoma man...   190  8e-48
+SEQ gi|2104853|emb|CAA73578.1| (Y13117) peptidylprolyl isomerase [Pa...   190  1e-47
+SEQ gi|1245400|gb|AAC47316.1| (U50389) cyclophilin B [Schistosoma ja...   188  3e-47
+SEQ gi|1084982|pir||S52758 adenosine kinase (EC 2.7.1.20) - Leishman...   187  7e-47
+SEQ gi|7291447|gb|AAF46873.1| (AE003458) CG2852 gene product [alt 1]...   185  3e-46
+SEQ gi|9757006|emb|CAB98318.1| (AL390114) probable cyclophilin [Leis...   185  4e-46
+SEQ gi|5670017|gb|AAD46565.1|AF158368_1 (AF158368) cyclophilin [Leis...   184  5e-46
+SEQ gi|1706251|sp|P52014|CYP6_CAEEL PEPTIDYL-PROLYL CIS-TRANS ISOMER...   183  2e-45
+SEQ gi|14334173|gb|AAK60569.1|AF384147_1 (AF384147) cyclophilin [Tri...   183  2e-45
+SEQ gi|7767529|gb|AAF69142.1| (AF228021) cyclophilin I [Bos taurus]       182  3e-45
+SEQ gi|6679441|ref|NP_032934.1| peptidylprolyl isomerase C; cyclophi...   181  3e-45
+SEQ gi|1000033|pdb|2RMC|A Chain A, Cyclophilin C Complexed With Cycl...   181  3e-45
+SEQ gi|1706250|sp|P52013|CYP5_CAEEL PEPTIDYL-PROLYL CIS-TRANS ISOMER...   181  6e-45
+SEQ gi|9885808|gb|AAG01536.1|AF291180_1 (AF291180) cyclophilin CACYP...   181  6e-45
+SEQ gi|5306252|gb|AAD41985.1|AC006438_17 (AC006438) putative cycloph...   180  1e-44
+SEQ gi|13442983|gb|AAK02067.1| (AY026065) cyclophilin-40 [Arabidopsi...   180  1e-44
+SEQ gi|7500219|pir||T21587 peptidylprolyl isomerase (EC 5.2.1.8) F31...   179  2e-44
+SEQ gi|4454307|emb|CAA10766.1| (AJ132763) cyclophilin [Pseudotsuga m...   179  2e-44
+SEQ gi|3785999|gb|AAC67345.1| (AC005499) putative peptidyl-prolyl ci...   178  3e-44
+SEQ gi|118092|sp|P24368|CYPB_RAT PEPTIDYL-PROLYL CIS-TRANS ISOMERASE...   178  4e-44
+SEQ gi|5454154|ref|NP_006338.1| cyclophilin [Homo sapiens] >gi|77671...   178  5e-44
+SEQ gi|4505991|ref|NP_000934.1| peptidylprolyl isomerase C (cyclophi...   177  8e-44
+SEQ gi|7302284|gb|AAF57375.1| (AE003789) CG17266 gene product [Droso...   176  1e-43
+SEQ gi|6323246|ref|NP_013317.1| cyclophilin related to the mammalian...   176  1e-43
+SEQ gi|11270308|pir||T49204 cyclophilin-like protein - Arabidopsis t...   176  2e-43
+SEQ gi|5019414|emb|CAB44442.1| (AJ006689) PPIase [Aspergillus fumiga...   174  6e-43
+SEQ gi|2665388|dbj|BAA23764.1| (AB002814) cyclophilin G [Tachypleus ...   173  1e-42
+SEQ gi|12842553|dbj|BAB25645.1| (AK008394) putative [Mus musculus]        172  2e-42
+SEQ gi|630463|pir||A53522 peptidylprolyl isomerase (EC 5.2.1.8) [sim...   172  3e-42
+SEQ gi|348725|gb|AAA30484.1| (L11668) cyclophilin-40 [Bos taurus]         171  4e-42
+SEQ gi|2130193|pir||S62327 probable 40 kd peptidyl-prolyl cis-trans ...   171  5e-42
+SEQ gi|11602709|emb|CAC18541.1| (AJ292367) putative U-snRNP-associat...   171  7e-42
+SEQ gi|7770370|gb|AAF69736.1|AC068783_12 (AC068783) Peptidyl-prolyl ...   170  9e-42
+SEQ gi|436957|gb|AAA17997.1| (U04633) 18 kDa cyclophilin [Toxoplasma...   170  1e-41
+SEQ gi|5739196|gb|AAD50375.1|AF121347_1 (AF121347) cyclophilin D [Di...   169  2e-41
+SEQ gi|1706257|sp|P52018|CYPB_CAEEL PEPTIDYL-PROLYL CIS-TRANS ISOMER...   169  2e-41
+SEQ gi|13640095|ref|XP_018528.1| similar to peptidylprolyl isomerase...   168  3e-41
+SEQ gi|7301671|gb|AAF56786.1| (AE003765) CG1866 gene product [alt 2]...   168  6e-41
+SEQ gi|1078790|pir||S52760 peptidylprolyl isomerase (EC 5.2.1.8) pre...   167  7e-41
+SEQ gi|1706254|sp|P52016|CYP8_CAEEL PEPTIDYL-PROLYL CIS-TRANS ISOMER...   167  7e-41
+SEQ gi|14574005|gb|AAK68283.1|U40938_4 (U40938) Hypothetical protein...   167  7e-41
+SEQ gi|3044089|gb|AAC13283.1| (AF055990) cyclophilin [Fucus distichus]    167  9e-41
+SEQ gi|7493543|pir||T39632 peptidylprolyl isomerase (EC 5.2.1.8) u-s...   166  2e-40
+SEQ gi|7437319|pir||T05766 peptidylprolyl isomerase (EC 5.2.1.8) M4E...   163  1e-39
+SEQ gi|4758106|ref|NP_004783.1| Clk-associating RS-cyclophilin [Homo...   161  6e-39
+SEQ gi|13929124|ref|NP_113981.1| matrin cyclophilin (matrin-cyp) [Ra...   161  6e-39
+SEQ gi|7437311|pir||S68767 peptidylprolyl isomerase (EC 5.2.1.8) - r...   160  1e-38
+SEQ gi|423009|pir||A47328 natural killer cell tumor-recognition prot...   157  7e-38
+SEQ gi|627920|pir||B47328 natural killer cell tumor-recognition prot...   157  7e-38
+SEQ gi|1490551|gb|AAC53053.1| (U63545) natural killer tumor recognit...   157  7e-38
+SEQ gi|6631100|ref|NP_005376.2| natural killer-tumor recognition seq...   157  7e-38
+SEQ gi|6754858|ref|NP_035048.1| natural killer tumor recognition [Mu...   157  7e-38
+SEQ gi|8039799|sp|P30415|NKCR_MOUSE NK-TUMOR RECOGNITION PROTEIN (NA...   157  7e-38
+SEQ gi|5911377|gb|AAD55769.1|AF177281_1 (AF177281) cyclophilin [Plas...   157  9e-38
+SEQ gi|1000521|gb|AAC46975.1| (U10322) cyclophilin [Plasmodium falci...   157  1e-37
+SEQ gi|9587354|gb|AAF89277.1|AF286342_1 (AF286342) cyclophilin [Tryp...   156  2e-37
+SEQ gi|4097889|gb|AAD09564.1| (U70827) cyclophilin [Onchocerca volvu...   154  9e-37
+SEQ gi|6321848|ref|NP_011924.1| Peptidylprolyl isomerase (cyclophili...   153  2e-36
+SEQ gi|1326035|emb|CAA35865.1| (X51497) cyclophilin-related protein ...   153  2e-36
+SEQ gi|6320510|ref|NP_010590.1| Cyclophilin D, Peptidyl-prolyl cis-t...   152  2e-36
+SEQ gi|1706255|sp|Q09637|CYP9_CAEEL PEPTIDYL-PROLYL CIS-TRANS ISOMER...   152  3e-36
+SEQ gi|3219786|sp|Q27450|CYP1_BRUMA PEPTIDYLPROLYL ISOMERASE CYP-1 (...   151  4e-36
+SEQ gi|3212364|pdb|1A58|    Cyclophilin From Brugia Malayi >gi|67301...   151  4e-36
+SEQ gi|4995707|emb|CAB44223.1| (Y09143) cypB [Lumbricus rubellus]         148  4e-35
+SEQ gi|4097882|gb|AAD09216.1| (U70884) cyclophilin 1 [Dirofilaria im...   148  6e-35
+SEQ gi|7294905|gb|AAF50235.1| (AE003551) CG8336 gene product [Drosop...   146  2e-34
+SEQ gi|4581960|emb|CAB40202.1| (AJ005807) proline isomerase [Caenorh...   142  2e-33
+SEQ gi|1314810|gb|AAC47321.1| (U55771) cyclophilin homolog Ta cyp [T...   141  7e-33
+SEQ gi|118112|sp|P28517|CYPR_CALVI PEPTIDYL-PROLYL CIS-TRANS ISOMERA...   139  1e-32
+SEQ gi|7301672|gb|AAF56787.1| (AE003765) CG1866 gene product [alt 1]...   137  1e-31
+SEQ gi|118113|sp|P15425|CYPR_DROME PEPTIDYL-PROLYL CIS-TRANS ISOMERA...   134  5e-31
+SEQ gi|9957875|gb|AAG00259.1| (AY004869) cyclophilin [Mesocricetus a...   132  3e-30
+SEQ gi|11994721|dbj|BAB03037.1| (AP001300) contains similarity to pe...   131  5e-30
+SEQ gi|7497005|pir||T29283 peptidylprolyl isomerase (EC 5.2.1.8) C34...   131  7e-30
+SEQ gi|13640702|ref|XP_004890.7| peptidylprolyl isomerase A (cycloph...   131  7e-30
+SEQ gi|6920001|gb|AAF28343.2|AF215865_1 (AF215865) cyclophilin E [Di...   131  8e-30
+SEQ gi|5918516|gb|AAD56049.1| (AF041412) peptidyl-prolyl cis-trans i...   130  9e-30
+SEQ gi|3219935|sp|P87051|CYP2_SCHPO PEPTIDYL-PROLYL CIS-TRANS ISOMER...   128  4e-29
+SEQ gi|6841028|gb|AAF28867.1| (AF121134) cyclophilin [Schistosoma ma...   127  1e-28
+SEQ gi|10727043|gb|AAG22196.1| (AE003458) CG2852 gene product [alt 2...   125  3e-28
+SEQ gi|12835476|dbj|BAB23265.1| (AK004331) putative [Mus musculus]        121  6e-27
+SEQ gi|11357431|pir||T48940 hypothetical protein F14L2.150 - Arabido...   121  7e-27
+SEQ gi|7706339|ref|NP_057143.1| peptidylprolyl isomerase (cyclophili...   121  7e-27
+SEQ gi|7291975|gb|AAF47391.1| (AE003468) CG13892 gene product [Droso...   121  7e-27
+SEQ gi|13654769|ref|XP_016355.1| similar to peptidylprolyl isomerase...   120  1e-26
+SEQ gi|8570445|gb|AAF76472.1|AC020622_6 (AC020622) Contains similari...   119  3e-26
+SEQ gi|13638571|ref|XP_002032.2| 6481 [Homo sapiens]                      118  4e-26
+SEQ gi|7486628|pir||T05352 hypothetical protein F8B4.120 - Arabidops...   118  4e-26
+SEQ gi|4678225|gb|AAD26970.1|AC007135_7 (AC007135) cyclophilin-like ...   117  7e-26
+SEQ gi|6006361|dbj|BAA84791.1| (AP000559) ESTs AU030008(E50477),AU07...   116  2e-25
+SEQ gi|474404|emb|CAA83586.1| (Z32674) cyclophilin [Tolypocladium in...   114  6e-25
+SEQ gi|559713|dbj|BAA07555.1| (D38552) The ha1539 protein is related...   114  7e-25
+SEQ gi|6014891|sp|O66105|PPIB_TREPA PROBABLE PEPTIDYL-PROLYL CIS-TRA...   113  2e-24
+SEQ gi|11466114|ref|NP_047047.1| PPCTIB; cyclophilin B; L2759.1 [Lei...   112  4e-24
+SEQ gi|7492498|pir||T41399 probable cyclophilin-related peptidyl pro...   111  6e-24
+SEQ gi|12006167|gb|AAG44766.1|AF271652_1 (AF271652) cyclophilin-like...   111  6e-24
+SEQ gi|14043400|gb|AAH07693.1|AAH07693 (BC007693) Unknown (protein f...   111  6e-24
+SEQ gi|7302948|gb|AAF58019.1| (AE003807) CG7747 gene product [Drosop...   111  7e-24
+SEQ gi|6425519|emb|CAB60429.1| (AL110500) contains similarity to Pfa...   109  2e-23
+SEQ gi|12845482|dbj|BAB26768.1| (AK010207) putative [Mus musculus]        109  2e-23
+SEQ gi|6322492|ref|NP_012566.1| peptidyl-prolyl cis/trans isomerase;...   109  3e-23
+SEQ gi|1515350|gb|AAC49415.1| (U48868) Cpr7p [Saccharomyces cerevisiae]   109  3e-23
+SEQ gi|1706256|sp|P52017|CYPA_CAEEL PEPTIDYL-PROLYL CIS-TRANS ISOMER...   102  2e-21
+SEQ gi|14574609|gb|AAK68671.1|U23453_5 (U23453) Hypothetical protein...   102  2e-21
+SEQ gi|68414|pir||CSRT31 protein P31 - rat >gi|224731|prf||1112143A ...   101  5e-21
+SEQ gi|11270303|pir||H82708 peptidyl-prolyl cis-trans isomerase XF12...   101  5e-21
+SEQ gi|12846825|dbj|BAB27319.1| (AK011000) putative [Mus musculus]        101  6e-21
+SEQ gi|9757874|dbj|BAB08461.1| (AB013390) peptidylprolyl isomerase (...   101  6e-21
+SEQ gi|1351676|sp|Q09928|YAL5_SCHPO PROBABLE PEPTIDYL-PROLYL CIS-TRA...   100  2e-20
+SEQ gi|6166106|sp|P52012|CYP4_CAEEL PEPTIDYL-PROLYL CIS-TRANS ISOMER...    99  2e-20
+SEQ gi|11270360|pir||T43805 peptidylprolyl isomerase (EC 5.2.1.8) cy...    99  2e-20
+SEQ gi|10581353|gb|AAG20104.1| (AE005089) peptidyl-prolyl isomerase;...    99  2e-20
+SEQ gi|5499743|gb|AAD43979.1|AF154878_1 (AF154878) cyclophilin-like ...    99  5e-20
+SEQ gi|7510553|pir||T27467 hypothetical protein Y87G2A.o - Caenorhab...    98  5e-20
+SEQ gi|11270305|pir||T51359 peptidylprolyl isomerase (EC 5.2.1.8) B ...    98  1e-19
+SEQ gi|7303738|gb|AAF58787.1| (AE003829) CG11777 gene product [Droso...    97  1e-19
+SEQ gi|13700758|dbj|BAB42054.1| (AP003132) ORFID:SA0815~peptidyl-pro...    96  2e-19
+SEQ gi|6118512|gb|AAF04127.1|AF193577_1 (AF193577) cyclophilin [Cavi...    96  2e-19
+SEQ gi|3483075|emb|CAA06162.1| (AJ004826) CB-CYP-4 [Caenorhabditis b...    96  3e-19
+SEQ gi|3483078|emb|CAA04389.1| (AJ000916) cyclophilin 4 [Brugia malayi]    95  5e-19
+SEQ gi|7473285|pir||E75543 peptidylprolyl isomerase (EC 5.2.1.8) DR0...    95  6e-19
+SEQ gi|12723824|gb|AAK04991.1|AE006323_6 (AE006323) peptidyl-prolyl ...    95  6e-19
+SEQ gi|7486212|pir||T05314 hypothetical protein F26P21.180 - Arabido...    95  7e-19
+SEQ gi|3581828|emb|CAA04390.1| (AJ000917) O. volvulus cyclophilin 4 ...    94  8e-19
+SEQ gi|2829514|sp|P71578|PPIA_MYCTU PROBABLE PEPTIDYL-PROLYL CIS-TRA...    90  2e-17
+SEQ gi|12851324|dbj|BAB29003.1| (AK013818) putative [Mus musculus]         89  2e-17
+SEQ gi|3057040|gb|AAC38986.1| (AF000668) cyclophilin Dicyp-3 [Dirofi...    89  3e-17
+SEQ gi|4377712|emb|CAB06658.1| (Z85996) match: multiple proteins; ma...    89  4e-17
+SEQ gi|7473283|pir||E75341 peptidyl-prolyl cis-trans isomerase, cycl...    88  5e-17
+SEQ gi|12844270|dbj|BAB26301.1| (AK009460) putative [Mus musculus]         88  7e-17
+SEQ gi|12849241|dbj|BAB28265.1| (AK012472) putative [Mus musculus]         88  7e-17
+SEQ gi|7657473|ref|NP_055152.1| peptidylprolyl isomerase (cyclophili...    88  8e-17
+SEQ gi|1199600|gb|AAC50377.1| (U37220) cyclophilin-like protein [Hom...    88  8e-17
+SEQ gi|1199602|gb|AAC50378.1| (U37221) cyclophilin-like protein [Hom...    88  8e-17
+SEQ gi|13366579|gb|AAH00022.1|AAH00022 (BC000022) Similar to peptidy...    88  8e-17
+SEQ gi|13647765|ref|XP_013021.2| peptidylprolyl isomerase (cyclophil...    88  8e-17
+SEQ gi|7294671|gb|AAF50009.1| (AE003543) CG10907 gene product [Droso...    87  1e-16
+SEQ gi|13092422|emb|CAC29519.1| (AL583917) putative peptidyl-prolyl ...    87  2e-16
+SEQ gi|7481168|pir||T36725 peptidylprolyl isomerase (EC 5.2.1.8) SCH...    86  2e-16
+SEQ gi|10174162|dbj|BAB05264.1| (AP001512) peptidyl-prolyl cis-trans...    84  1e-15
+SEQ gi|13021648|gb|AAK11503.1| (AF170328) peptidyl-prolyl cis-trans ...    84  1e-15
+SEQ gi|443954|emb|CAA78459.1| (Z14081) cyclophilin [Nicotiana tabacum]     83  2e-15
+SEQ gi|7437315|pir||H69044 peptidylprolyl isomerase (EC 5.2.1.8) MTH...    83  2e-15
+SEQ gi|14277126|ref|NP_115861.1| peptidylprolyl isomerase (cyclophil...    81  7e-15
+SEQ gi|629679|pir||S45372 peptidylprolyl isomerase (EC 5.2.1.8) - co...    81  8e-15
+SEQ gi|7509444|pir||T26500 peptidylprolyl isomerase (EC 5.2.1.8) Y17...    81  9e-15
+SEQ gi|1279366|emb|CAA65889.1| (X97255) cyclophilin [Digitalis lanata]     81  9e-15
+SEQ gi|6319914|ref|NP_009995.1| cyclophilin homolog; Scc3p [Saccharo...    79  3e-14
+SEQ gi|5759144|gb|AAD50996.1|AF171073_1 (AF171073) cyclophilin A [Mu...    78  1e-13
+SEQ gi|7473286|pir||F75261 peptidylprolyl isomerase (EC 5.2.1.8) DR2...    77  1e-13
+SEQ gi|461900|sp|P35137|PPIB_BACSU PEPTIDYL-PROLYL CIS-TRANS ISOMERA...    75  5e-13
+SEQ gi|11270364|pir||E81322 peptidylprolyl isomerase (EC 5.2.1.8) Cj...    74  1e-12
+SEQ gi|13621684|gb|AAK33471.1| (AE006505) putative cyclophilin-type ...    73  4e-12
+SEQ gi|7437321|pir||D71820 peptidylprolyl isomerase (EC 5.2.1.8) ppi...    72  5e-12
+SEQ gi|12324027|gb|AAG51976.1|AC024260_14 (AC024260) hypothetical pr...    72  5e-12
+SEQ gi|231962|sp|P29820|PPI_SYNP7 PEPTIDYL-PROLYL CIS-TRANS ISOMERAS...    72  6e-12
+SEQ gi|7437316|pir||A64700 peptidylprolyl isomerase (EC 5.2.1.8) B -...    70  2e-11
+SEQ gi|7492274|pir||T39621 peptidyl prolyl cis trans isomerase - fis...    70  2e-11
+SEQ gi|567248|dbj|BAA07651.1| (D42050) BST-PPIase [Bacillus stearoth...    70  2e-11
+SEQ gi|7503022|pir||T22008 hypothetical protein F39H2.2 - Caenorhabd...    69  3e-11
+SEQ gi|12847571|dbj|BAB27623.1| (AK011443) putative [Mus musculus]         69  3e-11
+SEQ gi|12849069|dbj|BAB28194.1| (AK012371) putative [Mus musculus]         69  3e-11
+SEQ gi|12850698|dbj|BAB28818.1| (AK013377) putative [Mus musculus]         69  3e-11
+SEQ gi|12852237|dbj|BAB29330.1| (AK014406) putative [Mus musculus]         69  3e-11
+SEQ gi|12856573|dbj|BAB30711.1| (AK017370) putative [Mus musculus]         69  3e-11
+SEQ gi|7594617|emb|CAB88111.1| (AL078581) dJ12G14.1 (novel cyclophil...    69  4e-11
+SEQ gi|7301354|gb|AAF56482.1| (AE003752) CG5071 gene product [Drosop...    67  2e-10
+SEQ gi|2961458|gb|AAC05726.1| (U91923) unknown [Mus musculus]              67  2e-10
+SEQ gi|6466229|gb|AAF12845.1|AF203881_18 (AF203881) peptidyl prolyl ...    65  7e-10
+SEQ gi|13422977|gb|AAK23563.1| (AE005833) peptidyl-prolyl cis-trans ...    65  7e-10
+SEQ gi|13470905|ref|NP_102474.1| peptidyl prolyl cis-trans isomerase...    64  1e-09
+SEQ gi|1169179|sp|P42693|PPIA_ACICA PEPTIDYL-PROLYL CIS-TRANS ISOMER...    63  2e-09
+SEQ gi|1073178|pir||S49314 peptidylprolyl isomerase (EC 5.2.1.8) - L...    61  1e-08
+SEQ gi|1041969|gb|AAB35169.1| 17 kda cyclophilin A {internal fragmen...    59  3e-08
+SEQ gi|4972682|gb|AAD34736.1| (AF132148) unknown [Drosophila melanog...    59  5e-08
+SEQ gi|11270312|pir||H81103 peptidyl-prolyl cis-trans isomerase NMB1...    59  5e-08
+SEQ gi|7331757|gb|AAF60445.1| (AC006720) contains similarity to Pfam...    58  6e-08
+SEQ gi|7480312|pir||T35704 peptidylprolyl isomerase (EC 5.2.1.8) SC7...    58  9e-08
+SEQ gi|9622251|gb|AAF89694.1|AF170251_1 (AF170251) peptidyl-prolyl c...    58  1e-07
+SEQ gi|840840|emb|CAA58868.1| (X84050) peptidylprolyl isomerase [Pse...    58  1e-07
+SEQ gi|1073003|pir||S54841 peptidylprolyl isomerase (EC 5.2.1.8) - P...    58  1e-07
+SEQ gi|11994725|dbj|BAB03041.1| (AP001300) contains similarity to cy...    58  1e-07
+SEQ gi|12231034|sp|Q59641|PPIA_PSEAE PEPTIDYL-PROLYL CIS-TRANS ISOME...    57  1e-07
+SEQ gi|12325145|gb|AAG52521.1|AC016662_15 (AC016662) hypothetical pr...    57  1e-07
+SEQ gi|111289|pir||S21218 peptidylprolyl isomerase (EC 5.2.1.8), 22K...    57  2e-07
+SEQ gi|9587291|gb|AAF89247.1|AF286042_1 (AF286042) cyclophilin [Tryp...    56  2e-07
+SEQ gi|13470906|ref|NP_102475.1| peptidyl prolyl cis-trans isomerase...    56  2e-07
+SEQ gi|1169177|sp|P44499|PPIB_HAEIN PEPTIDYL-PROLYL CIS-TRANS ISOMER...    56  3e-07
+SEQ gi|11270310|pir||H81837 probable peptidylprolyl isomerase (EC 5....    56  4e-07
+SEQ gi|12513422|gb|AAG54882.1|AE005233_8 (AE005233) peptidyl-prolyl ...    56  5e-07
+SEQ gi|118101|sp|P20752|PPIA_ECOLI PEPTIDYL-PROLYL CIS-TRANS ISOMERA...    55  5e-07
+SEQ gi|118108|sp|P20753|PPIA_SALTY PEPTIDYL-PROLYL CIS-TRANS ISOMERA...    55  5e-07
+SEQ gi|147052|gb|AAA24261.1| (M32354) protein of unknown function (u...    55  5e-07
+SEQ gi|576051|pdb|1CLH|    Cyclophilin (Nmr, 12 Structures)                55  5e-07
+SEQ gi|11355783|pir||C82095 peptidyl-prolyl cis-trans isomerase A VC...    55  5e-07
+SEQ gi|2507227|sp|P23869|PPIB_ECOLI PEPTIDYL-PROLYL CIS-TRANS ISOMER...    54  1e-06
+SEQ gi|13486642|dbj|BAB39880.1| (AP002882) hypothetical protein~simi...    54  2e-06
+SEQ gi|7470768|pir||S74559 peptidyl-prolyl cis-trans isomerase B - S...    53  2e-06
+SEQ gi|11270332|pir||F81156 peptidylprolyl isomerase (EC 5.2.1.8) B ...    52  3e-06
+SEQ gi|1942801|pdb|1LOP|A Chain A, Cyclophilin A Complexed With Succ...    52  5e-06
+SEQ gi|12721266|gb|AAK03028.1| (AE006134) PpiB [Pasteurella multocida]     51  7e-06
+SEQ gi|3184556|gb|AAC18971.1| (AF052290) peptidyl-prolyl cis-trans i...    51  9e-06
+SEQ gi|3334156|sp|O53021|PPIA_ERWCH PEPTIDYL-PROLYL CIS-TRANS ISOMER...    51  1e-05
+SEQ gi|12721265|gb|AAK03027.1| (AE006134) unknown [Pasteurella multo...    51  1e-05
+SEQ gi|13539605|emb|CAC35733.1| (AJ409115) cyclophilin-RNA interacti...    51  1e-05
+SEQ gi|11270306|pir||B82150 peptidyl-prolyl cis-trans isomerase B VC...    51  1e-05
+SEQ gi|12723235|gb|AAK04463.1|AE006273_9 (AE006273) peptidyl-prolyl ...    51  1e-05
+SEQ gi|11350735|pir||E83421 peptidyl-prolyl cis-trans isomerase B PA...    50  2e-05
+SEQ gi|11967836|emb|CAC19424.1| (AJ292309) peptidyl-prolyl cis-trans...    49  3e-05
+SEQ gi|2499771|sp|Q50639|PPIB_MYCTU PROBABLE PEPTIDYL-PROLYL CIS-TRA...    49  3e-05
+SEQ gi|265531|gb|AAB25353.1| PPI-III=peptidyl prolyl cis-trans isome...    49  4e-05
+SEQ gi|2275210|gb|AAB63832.1| (AC002337) putative peptidyl-prolyl ci...    47  1e-04
+SEQ gi|7492790|pir||T39728 probable peptidyl prolyl cis-trans isomer...    47  1e-04
+SEQ gi|8249969|emb|CAB93390.1| (AL357523) putative peptidyl-prolyl c...    45  5e-04
+SEQ gi|9622253|gb|AAF89695.1|AF170252_1 (AF170252) peptidyl-prolyl c...    45  5e-04
+SEQ gi|7290636|gb|AAF46085.1| (AE003435) CG15767 gene product [Droso...    45  5e-04
+SEQ gi|7510672|pir||T15250 hypothetical protein ZC250.1 - Caenorhabd...    45  7e-04
+SEQ gi|14574516|gb|AAB54233.2| (AF003383) Hypothetical protein ZC250...    45  7e-04
+SEQ 
+## SEQUENCE PROFILE AND ENTROPY
+ SeqNo PDBNo   V   L   I   M   F   W   Y   G   A   P   S   T   C   H   R   K   Q   E   N   D  NOCC NDEL NINS ENTROPY RELENT WEIGHT
+    1    1    94   1   4   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.257      8  0.00
+    2    2     0   0   0   0   0   0   0   0   0   0   0  27   0   2   0   0   0   0  70   1     0    0    0   0.748     24  0.00
+    3    3     6   1   0   0   0   0   0   1   3  73   4   2   0   2   0   1   1   1   2   5     0    0    0   1.191     39  0.00
+    4    4    10   4   2   0   0   0   1   0   0   0   0  13   0   0  20  40   8   1   2   0     0    0    0   1.724     57  0.00
+    5    5    88   0   2   0   0   0   0   0   3   0   0   0   6   0   0   0   0   0   0   0     0    0    0   0.512     17  0.00
+    6    6     0   0   0   0  64   1  31   0   0   0   1   0   0   2   0   0   0   0   0   0     0    0    0   0.866     28  0.00
+    7    7     0   8   1   8  82   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.654     21  0.00
+    8    8     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   2   0  96     0    0    0   0.205      6  0.00
+    9    9    22   9  53  13   2   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0     0    0    0   1.294     43  0.00
+   10   10     0   2   0   1   0   0   0   2  14   0  20  25   3   0   5   6   4  12   1   4     0    0    0   2.185     72  0.00
+   11   11    19   3  56   0   1   2   0   0  11   0   1   1   0   3   0   0   1   0   0   0     0    0    0   1.423     47  0.00
+   12   12     0   0   0   0   0   0   0  47   3   0   1   0   0   0   0   0   0   3  12  33     0    0    0   1.290     43  0.00
+   13   13     0   0   0   0   0   0   0  62   0   0   3   1   0   0   2   4   0   4  10  11     0    0    0   1.372     45  0.00
+   14   14     2   1   1   2   0   0   0   1   9   1   3   3   0   1   2  21  14  35   3   2     0    0    0   2.008     67  0.00
+   15   15     2   4   0   0   1   0   0   1   6  54   4   2   0   1   2   8   2   2   3   7     0    0    0   1.843     61  0.00
+   16   16    16  31   7   4   0   0   0   1  33   0   3   1   1   0   1   0   1   1   0   0     0    0    0   1.729     57  0.00
+   17   17     0   0   0   0   0   0   0  96   1   0   0   0   0   0   0   1   0   1   0   0     0    0    0   0.217      7  0.00
+   18   18     1   0   1   0   0   0   0   0   1   2   0   2   0   0  65   5   1   2   4  16     0    0    0   1.290     43  0.00
+   19   19    24   5  66   3   2   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0     0    0    0   0.998     33  0.00
+   20   20    40   2   7   2   0   0   0   0   1   0   7  12   0   1   1   8   3   7   6   2     0    0    0   2.077     69  0.00
+   21   21     4  14  27  24  29   0   0   0   0   0   0   1   1   0   0   0   0   0   0   0     0    0    0   1.559     52  0.00
+   22   22     1   2   0   0   0   0   0  14   2   0   1   1   0   0   2   9   3  60   2   3     0    0    0   1.477     49  0.00
+   23   23     2  95   0   1   1   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0     0    0    0   0.255      8  0.00
+   24   24     0   1   0   0  53   2  26   0   0   0   0   0   0   3   7   2   0   0   1   5     0    0    0   1.390     46  0.00
+   25   25     2   0   0   0   1   1   1  16  25   6  12   5   7   1   1   3   1   3   7   9     0    0    0   2.352     78  0.00
+   26   26     0   0   0   0   0   0   0   0   1   0   2   1   0   1   0  15   2  11   9  58     0    0    0   1.386     46  0.00
+   27   27    25   4  14   0   0   0   1   0   6   0   0  12   1   3   2  17   1   7   1   7     0    0    0   2.184     72  0.00
+   28   28    52   0   1   0   0   0   0   0  26   0   1  12   7   0   2   0   0   0   0   0     0    0    0   1.282     42  0.00
+   29   29     0   0   0   0   0   0   0   0   0  99   0   0   0   0   0   0   0   0   0   0     0    0    0   0.038      1  0.00
+   30   30     3   3   2   2   0   0   0   1   1   0   0   0   0   1  16  62   3   2   2   0     0    0    0   1.418     47  0.00
+   31   31     1   0   0   0   0   0   0   1   8   0   4  85   0   1   0   0   0   0   0   0     0    0    0   0.614     20  0.00
+   32   32    28   0   0   0   0   0   0   0  51   0   2   2  18   0   0   0   0   0   0   0     0    0    0   1.160     38  0.00
+   33   33     0   2   0   0   0   0   0   1   6   0   1   1   1   0   4   9   4  61   4   5     0    0    0   1.517     50  0.00
+   34   34     0   0   0   0   0   0   0   1   0   0   1   0   0   0   1   0   1   0  96   0     0    0    0   0.234      7  0.00
+   35   35     0   0   1   0  98   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0     0    0    0   0.114      3  0.00
+   36   36    11  11   4   0   1   0   2   0   2   0   1   0   1   1  58   4   0   3   0   1     0    0    0   1.556     51  0.00
+   37   37     2   1   0   2   1   0   1   2  52   0   3   2   6   1   2   8   8   8   1   1     0    0    0   1.842     61  0.00
+   38   38     3  86   3   0   4   0   1   0   0   0   0   1   1   1   0   0   0   0   0   0     0    0    0   0.653     21  0.00
+   39   39     3   0   0   0   1   0   0   0  15   1  11   3  60   0   1   2   0   1   1   2     0    0    0   1.411     47  0.00
+   40   40     1   3   1   0   0   0   5   1   4   0   3  67   0   4   2   4   1   1   2   1     0    0    0   1.442     48  0.00
+   41   41     3   1   0   0   0   0   0  76   2   0   5   1   4   4   1   2   0   0   1   0     0    0    0   1.071     35  0.00
+   42   42     0   0   1   1   0   0   0   1   1   2   1   3   0   0   5   6   5  64   4   3     0    0    0   1.510     50  0.00
+   43   43     1   1   0   0   0   0   5   1   3   2   4   0   0   1  10  56   3   5   7   1     0    0    0   1.718     57  0.00
+   44   44     0   0   0   0   0   0   1  81   1   3   2   1   0   1   1   5   0   1   2   1     0    0    0   0.902     30  0.00
+   45   45    11   7  11   3  39   1  15   1   2   0   0   3   0   3   0   2   0   1   1   0     0    0    0   2.022     67  0.00
+   46   46     0   0   0   0   2   0   4  76   2   0   4   2   0   4   0   3   0   1   0   1     0    0    0   1.106     36  0.00
+   47   47     0   0   0   0  13   0  86   0   0   0   0   0   1   0   0   0   0   0   0   1     0    0    0   0.480     16  0.00
+   48   48     1   0   1   0   0   0   2   0   4   1   1   1   0   1   2  59   1   2  11  13     0    0    0   1.513     50  0.00
+   49   49     0   0   0   0   0   0   0  72   0   0   2   1   0   0   1   1   0   1  18   4     0    0    0   0.944     31  0.00
+   50   50     4   4   1   0   1   0   2   0   1   0  58  17   8   1   0   1   0   0   2   0     0    0    0   1.460     48  0.00
+   51   51     7   4  18   0   1   0   0   4   4   4  12  19   8   1   2  12   1   2   1   0     0    0    0   2.384     79  0.00
+   52   52     1   3   1   0  95   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0     0    0    0   0.258      8  0.00
+   53   53     1   0   0   0   1   0   0   0   0   0   0   0   0  96   1   0   0   0   0   0     0    0    0   0.271      9  0.00
+   54   54     0   1   0   0   0   0   0   0   0   0   0   1   0   1  93   1   1   0   2   0     0    0    0   0.387     12  0.00
+   55   55    60   2  30   0   0   0   0   0   0   0   2   1   1   0   1   0   0   0   3   0     0    0    0   1.094     36  0.00
+   56   56     8   1  85   1   0   0   0   0   0   0   0   1   0   0   0   0   2   0   0   0     0    0    0   0.667     22  0.00
+   57   57     0   0   0   0   0   0   0   1   2  51   2   2   0   0   7  27   2   2   2   3     0    0    0   1.469     49  0.00
+   58   58     0   0   0   0   0   0   0  33   1   0   3   0   0   1   1   4   7   4  21  25     0    0    0   1.746     58  0.00
+   59   59     0   1   0   0  95   0   2   1   1   0   1   0   0   0   0   0   0   0   1   0     0    0    0   0.307     10  0.00
+   60   60    10   1   4  81   0   1   0   0   0   0   1   1   0   0   0   0   0   0   0   0     0    0    0   0.752     25  0.00
+   61   61    10   9  43   1   0   0   0   0   6   0   1   0  30   0   0   0   1   0   0   0     0    0    0   1.474     49  0.00
+   62   62     0   0   0   1   0   0   0   0   0   0   0   0   0   1   1   0  96   0   0   0     0    0    0   0.225      7  0.00
+   63   63     0   0   0   0   1   0   0  85   4   0   1   9   1   0   0   0   0   0   0   0     0    0    0   0.597     19  0.00
+   64   64     0   0   0   0   0   0   0  99   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.075      2  0.00
+   65   65     0   1   0   0   0   0   0   8   0   0   0   0   0   0   0   0   0   0   0  90     0    0    0   0.394     13  0.00
+   66   66     2   2   9   1  67   0   0   0   0  14   1   0   2   0   0   0   0   0   0   2     0    0    0   1.202     40  0.00
+   67   67     6   2   1   0   0   0   0   1   1   9   7  69   1   0   0   1   0   2   0   1     0    0    0   1.237     41  0.00
+   68   68     0   2   0   0   1   0   1   2  12   1   5   4   0   3  27  11   1   8  20   1     0    0    0   2.187     72  0.00
+   69   69     0   0   0   0   2   0   1  60   1   0   1   2   0  20   2   1   4   2   3   1     0    0    0   1.420     47  0.00
+   70   70     1   0   0   2   0   0   0   2   1   1   2  14   0   1   1   1   1   0  52  22     0    0    0   1.474     49  0.00
+   71   71     0   0   0   1   0   0   0  94   1   0   0   1   0   0   1   1   1   0   0   0     0    0    0   0.339     11  0.00
+   72   72     1   1   1   5   0   0   0   3   1   0   4  65   1   1   8   6   2   0   1   1     0    0    0   1.435     47  0.00
+   73   73     0   0   0   0   0   0   0  89   1   1   1   0   0   0   1   3   1   0   1   1     0    0    0   0.584     19  0.00
+   74   74     1   0   0   0   0   0   0  85   1   2   2   0   1   0   1   1   2   2   0   1     0    0    0   0.769     25  0.00
+   75   75     1   1   2   1   1   0   2   2   3   4   2   2   1   1   6  31   3  33   1   2     0    0    0   2.062     68  0.00
+   76   76     0   0   0   0   0   0   2   1   3   2  85   1   0   0   1   2   0   1   2   1     0    0    0   0.752     25  0.00
+   77   77     4   1  83   0   1   0   1   0   1   2   0   4   0   0   0   2   0   1   0   0     0    0    0   0.823     27  0.00
+   78   78     1   1   0   0   5   9  75   0   1   3   0   0   0   1   2   2   0   0   0   1     0    0    0   1.075     35  0.00
+   79   79     1   0   1   0   0   0   0  82   5   1   1   1   1   0   2   1   0   2   1   2     0    0    0   0.864     28  0.00
+   80   80     0   1   1   1   0   0   2   8   7   5   7   2   0   0   6  13   3  31   4   8     0    0    0   2.302     76  0.00
+   81   81     1   2   3   1   1   0   4   0   1   7   1   5   1   1   9  54   2   4   3   1     0    0    0   1.870     62  0.00
+   82   82     0   1   1   0  86   0   2   1   1   1   0   0   1   0   1   1   1   2   1   0     0    0    0   0.741     24  0.00
+   83   83     0   1   0   0   1   0   0   2  20  14   1   1   0   2   1  11   1  28   6  13     0    0    0   2.039     68  0.00
+   84   84     0   0   0   0   1   0   0   1   1   1   0   1   1   0   0   0   0   3   2  88     0    0    0   0.608     20  0.00
+   85   85     0   0   0   0   0   0   0   0   3   1   1   0   0   0   0   1   3  86   3   2     0    0    0   0.665     22  0.00
+   86   86     1   0   1   0   1   0   1   3   3   1   7   2   0   4   3   3   0   2  67   1     0    0    0   1.435     47  0.00
+   87   87     0   4   1   0  70   0   1   2   0   6   6   0   0   1   0   2   1   2   4   0     0    0    0   1.299     43  0.00
+   88   88     8   5  15   1   2   0   2   3   4   2   3   8   0   1   3  21   6   5   5   6     0    0    0   2.564     85  0.00
+   89   89     6  60   4   3   2   0   2   4   1   1   0   0   0   3   2   7   1   3   1   1     0    0    0   1.677     55  0.00
+   90   90     1   1   0   0   0   0   0   0   1   1   5   2   0   1  11  69   1   2   3   1     0    0    0   1.285     42  0.00
+   91   91     1   0   0   0   4   0   1   0   0   0   0   1   0  85   1   0   0   1   5   0     0    0    0   0.737     24  0.00
+   92   92     5   1   1   0   2   0   6   0   0   0   5  39   0   1   2   4   1   4   8  20     0    0    0   2.016     67  0.00
+   93   93     2   1   1   0   0   0   0  48   4   1   3   1   0   1  17  13   3   4   0   1     0    0    0   1.712     57  0.00
+   94   94     1   1   1   1   2   0   1   4  10  54   1   2   0   0  15   5   0   3   0   0     0    0    0   1.666     55  0.00
+   95   95     1   0   0   0   9   0   3  81   1   0   1   3   0   0   0   0   0   1   0   0     0    0    0   0.789     26  0.00
+   96   96    18  24  28   3   1   6   1   0   3   1   1  11   2   0   1   1   0   1   0   0     0    0    0   1.981     66  0.00
+   97   97    15  76   3   1   0   0   0   0   4   0   0   0   1   0   0   0   0   0   0   0     0    0    0   0.822     27  0.00
+   98   98     0   1   0   4   0   0   0   3   9   0  82   1   0   0   0   0   0   0   0   0     0    0    0   0.748     24  0.00
+   99   99     0   1   0  92   0   0   0   0   4   1   0   1   0   0   0   0   0   1   0   0     0    0    0   0.426     14  0.00
+  100  100     2   0   0   0   0   0   0   0  91   0   1   0   0   0   5   0   0   1   0   0     0    0    0   0.453     15  0.00
+  101  101     1   0   0   0   0   0   0   0   0   0   1   4   0   3   3   1   1   0  85   1     0    0    0   0.696     23  0.00
+  102  102     0   1   1   1   0   0   1   1  59   0  15   5   1   0   6   2   2   0   4   0     0    0    0   1.521     50  0.00
+  103  103     0   0   0   0   0   0   0  90   1   0   1   0   0   0   0   1   1   0   2   4     0    0    0   0.495     16  0.00
+  104  104     2   0   0   0   0   0   0   1   6  65   4   1   0   0   3  14   3   1   1   0     0    0    0   1.326     44  0.00
+  105  105     0   0   1   0   0   0   0   6   0   0   1   1   0   6   0   0   0   1  59  26     0    0    0   1.186     39  0.00
+  106  106     1   1   0   0   0   0   0   1   1   1  14  79   0   0   0   0   2   0   0   1     0    0    0   0.778     25  0.00
+  107  107     0   0   0   0   1   0   0   3   8   0   1   1   0   2   0   0   0   0  85   0     0    0    0   0.661     22  0.00
+  108  108     0   0   0   0   0   0   0  80   1   0   5   6   0   0   2   1   0   0   4   0     0    0    0   0.835     27  0.00
+  109  109     0   0   0   0   0   0   0   0   3   1  91   1   3   0   0   0   0   0   0   0     0    0    0   0.429     14  0.00
+  110  110     0   1   0   0   0   0   0   0   1   0   0   0   0   0   0   0  96   1   0   0     0    0    0   0.233      7  0.00
+  111  111     0   0   0   0  99   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.056      1  0.00
+  112  112     2   3   1   0  90   0   3   0   0   0   1   0   0   0   0   0   1   0   0   0     0    0    0   0.493     16  0.00
+  113  113     6   8  84   0   2   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0     0    0    0   0.630     21  0.00
+  114  114     4   2   1   0   0   0   0   0   0   0   1  55  30   0   0   0   0   0   7   0     0    0    0   1.215     40  0.00
+  115  115     7  12   0   1   8   0   5   0   1   0   1  58   4   2   0   0   1   0   0   0     0    0    0   1.520     50  0.00
+  116  116    30   0   2   0   0   0   1   7  27   0   2   7   1   0   4   7   2   5   2   5     0    0    0   2.062     68  0.00
+  117  117     5   1   0   0   0   0   0   1   4  24   4   2   0   0   2  40   1   5   1  10     0    0    0   1.837     61  0.00
+  118  118     1   1   0   1   0   0   1   0  11   1   2  55  12   0   0   1   5   0  10   0     0    0    0   1.533     51  0.00
+  119  119     0   0   0   0   0   0   0   1  10  28  18   4   0   0   0   2   4  16   2  15     0    0    0   1.955     65  0.00
+  120  120     0   1   0   0   9  59   6   1   0   0   2   0   0  18   1   0   1   2   1   0     0    0    0   1.385     46  0.00
+  121  121     1  97   0   1   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0     0    0    0   0.172      5  0.00
+  122  122     0   0   0   0   0   0   0   0   0   1   0   1   0   0   0   0   0   1  12  86     0    0    0   0.524     17  0.00
+  123  123     0   0   0   2   4   0   1  75   1   1   0   0   0   2   2   3   0   1   7   1     0    0    0   1.149     38  0.00
+  124  124     5   1   1   0   0   0   0   4   0   1   2   1   0   2  10  67   2   1   1   1     0    0    0   1.352     45  0.00
+  125  125     0   0   0   0   0   0  14   0   1   0   1   0   0  81   0   0   0   0   2   0     0    0    0   0.695     23  0.00
+  126  126    66   1   0   0   0   0   0   0   5   0   1  24   2   0   0   0   0   0   0   0     0    0    0   0.975     32  0.00
+  127  127    83   2  12   0   0   0   0   1   1   1   0   0   0   0   0   0   0   0   0   0     0    0    0   0.619     20  0.00
+  128  128     1   0   2   0  96   1   0   0   0   0   0   0   1   0   0   0   0   0   0   0     0    0    0   0.235      7  0.00
+  129  129     0   0   0   0   0   0   0  98   2   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.102      3  0.00
+  130  130     0   2   0   0   2   0   0   0   1   0   1   1   0   3  16  34  19  21   1   1     0    0    0   1.783     59  0.00
+  131  131    92   2   6   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.352     11  0.00
+  132  132    37  11  17   0   0   0   1   1   2   0   2  11   1   0   0  11   2   2   1   1     0    0    0   1.928     64  0.00
+  133  133     0   0   0   0   0   0   0   4   2   0  10   1   0   1   2   7   3  51   0  18     0    0    0   1.595     53  0.00
+  134  134     0   0   0   0   0   0   0  94   0   0   5   0   0   0   0   0   0   0   0   0     0    0    0   0.239      7  0.00
+  135  135     1  19   3  51   8   1   5   0   1   0   0   1   0   0   0   2   6   1   1   1     0    0    0   1.675     55  0.00
+  136  136     0   2   1   0   0   0   0   5   1   1   4   2   0   0   1   3   0  15  14  51     0    0    0   1.664     55  0.00
+  137  137    65   4  16   1   0   0   0   0   1   0   0  11   0   0   0   0   0   0   1   0     0    0    0   1.132     37  0.00
+  138  138    71  17   7   2   0   0   0   0   3   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.926     30  0.00
+  139  139     1   0   0   0   0   0   1   0   1   0   1   4   0   2  22  32   3  15   2  14     0    0    0   1.906     63  0.00
+  140  140     0   2   1   1   0   0   1   1  29   1   3   4   0   1   4  35   8   6   2   2     0    0    0   1.949     65  0.00
+  141  141    11  10  57  20   0   0   0   0   2   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.207     40  0.00
+  142  142     0   0   0   0   0   0   0   0   5   0   3   1   0   0   1   4   1  83   1   0     0    0    0   0.802     26  0.00
+  143  143     0   1   0   0   0   0   1   2  18   0  14   1   0   2  12  24   8   2  13   2     0    0    0   2.113     70  0.00
+  144  144    34  12   2   1  15   0   4   0   3   0   1  13   1   0   0   1   5   4   3   0     0    0    0   2.102     70  0.00
+  145  145     0   0   0   0   0   0   0  62   2   5   4   2   0   0   0   7   2   9   0   6     0    0    0   1.458     48  0.00
+  146  146     3   0   0   0   0   0   0   3   3   0  59  23   0   0   0   3   1   1   1   3     0    0    0   1.349     45  0.00
+  147  147     1   2   0   0   0   0   1   8   3   5  11   3   0   0  25   9  13   6   3  11     0    0    0   2.310     77  0.00
+  148  148     0   0   0   2   0   0   0   5   5   2  41   2   0   1   1   3   2   2  23  11     0    0    0   1.855     61  0.00
+  149  149     0   0   0   0   1   0   1  73   4   0   2   0   0   0   1   0   0   2   5  10     0    0    0   1.093     36  0.00
+  150  150     2   0   1   0   1   0   1   1   4   0   6   6   1   0  21  48   2   1   2   4     0    0    0   1.789     59  0.00
+  151  151     7   0   1   0   0   0   3   0   1  51   1  33   2   0   1   0   0   0   0   0     0    0    0   1.289     43  0.00
+  152  152     6   9   2   0   1   0   2   1   7   2  35   5   2   0   4  17   0   2   3   1     0    0    0   2.190     73  0.00
+  153  153     3   3   0   0   0   0   0   1  11   0   6   2   1   0   6  51   7   5   0   2     0    0    0   1.805     60  0.00
+  154  154     3   2   0   0   0   0   0   0   4  20   3   2   0   0  10  29   2   5   1  17     0    0    0   2.023     67  0.00
+  155  155    56   2  28   0   0   0   0   0   4   2   1   0   6   0   0   0   0   0   0   0     0    0    0   1.210     40  0.00
+  156  156    34   3  13   2   0   0   0   0   2   0   1  22   0   0   7  11   0   2   1   0     0    0    0   1.901     63  0.00
+  157  157    13   0  85   0   0   0   0   0   0   0   0   2   0   0   0   0   0   0   0   0     0    0    0   0.469     15  0.00
+  158  158    13   3   4   0   0   0   1   0  44   0  11  12   1   2   1   1   0   6   0   2     0    0    0   1.879     62  0.00
+  159  159     0   0   0   0   0   0   0   1   5   0   3   0   0   1   2   6   2  10  12  58     0    0    0   1.470     49  0.00
+  160  160     0   0   1   0   0   0   0   0   2   0  16   0  81   0   0   0   0   0   0   0     0    0    0   0.585     19  0.00
+  161  161     0   0   0   0   0   0   0  99   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.084      2  0.00
+  162  162     5   1   0   0   0   0   0   0   2   0   0   3   0   3   0   5  42  39   0   0     0    0    0   1.393     46  0.00
+  163  163     1  73  19   6   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.814     27  0.00
+  164  164     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  26   0  68   0   6     0    0    0   0.786     26  0.00
+//

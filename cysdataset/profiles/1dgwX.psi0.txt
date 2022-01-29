@@ -1,0 +1,181 @@
+ID Pseudo hssp file.
+SEQ 
+SEQ gi|6730347|pdb|1DGW|X Chain X, Structure Of The Rhombohedral Cry...   147  2e-35
+SEQ gi|1705573|sp|P50477|CANA_CANEN CANAVALIN PRECURSOR >gi|541933|p...   146  4e-35
+SEQ gi|115561|sp|P10562|CANA_CANGL CANAVALIN PRECURSOR >gi|81744|pir...   146  4e-35
+SEQ gi|18007|emb|CAA33172.1| (X15076) canavalin [Canavalia gladiata]      146  4e-35
+SEQ gi|442706|pdb|1CAU|B Chain B, Canavalin (Jack Bean 7s Vicilin) >...   145  8e-35
+SEQ gi|9967361|dbj|BAA74452.2| (AB008680) alpha' subunit of beta-con...   117  2e-26
+SEQ gi|121281|sp|P13916|GLCA_SOYBN BETA-CONGLYCININ, ALPHA CHAIN PRE...   114  1e-25
+SEQ gi|99889|pir||S20007 beta-conglycinin alpha chain precursor - so...   114  1e-25
+SEQ gi|9967357|dbj|BAA23360.2| (AB008678) alpha subunit of beta cong...   114  2e-25
+SEQ gi|121282|sp|P25974|GLCB_SOYBN BETA-CONGLYCININ, BETA CHAIN PREC...   112  5e-25
+SEQ gi|9967359|dbj|BAA23361.2| (AB008679) beta subunit of beta congl...   112  5e-25
+SEQ gi|99890|pir||S16334 beta-conglycinin alpha chain precursor - so...   109  4e-24
+SEQ gi|121286|sp|P11827|GLCX_SOYBN BETA-CONGLYCININ, ALPHA' CHAIN PR...   104  1e-22
+SEQ gi|137582|sp|P13918|VCLC_PEA VICILIN PRECURSOR >gi|100073|pir||S...   103  4e-22
+SEQ gi|1297072|emb|CAA96514.1| (Z71987) vicilin precursor [Vicia nar...   102  5e-22
+SEQ gi|81954|pir||S00567 vicilin precursor (clone pDUB9) - garden pe...   102  6e-22
+SEQ gi|137579|sp|P02855|VCLA_PEA PROVICILIN (TYPE A) >gi|72292|pir||...   101  1e-21
+SEQ gi|137584|sp|P08438|VCL_VICFA VICILIN PRECURSOR >gi|82004|pir||S...   101  1e-21
+SEQ gi|226228|prf||1502201A vicilin [Vicia faba]                          101  1e-21
+SEQ gi|81991|pir||A27288 vicilin precursor - fava bean >gi|22053|emb...   100  3e-21
+SEQ gi|117655|sp|P13915|CVCA_PEA CONVICILIN PRECURSOR >gi|81895|pir|...    98  1e-20
+SEQ gi|421887|pir||S35757 vicilin, 47K - garden pea >gi|297170|emb|C...    98  2e-20
+SEQ gi|1297070|emb|CAA96513.1| (Z71986) convicilin precursor [Vicia ...    97  2e-20
+SEQ gi|7339551|emb|CAB82855.1| (AJ276875) convicilin [Pisum sativum]       96  7e-20
+SEQ gi|227928|prf||1713472A convicilin [Pisum sativum]                     95  9e-20
+SEQ gi|137581|sp|P02854|VCLB_PEA PROVICILIN PRECURSOR (TYPE B) >gi|7...    95  1e-19
+SEQ gi|7688242|emb|CAB89812.1| (AJ276683) convicilin [Lens culinaris]      94  2e-19
+SEQ gi|1168391|sp|P43238|AL12_ARAHY ALLERGEN ARA H 1, CLONE P41B (AR...    84  3e-16
+SEQ gi|1168390|sp|P43237|AL11_ARAHY ALLERGEN ARA H 1, CLONE P17 (ARA...    83  6e-16
+SEQ gi|7442025|pir||T06399 7S storage protein alpha chain - soybean ...    83  6e-16
+SEQ gi|137577|sp|P02856|VCL1_PEA VICILIN, 14 KDA COMPONENT >gi|72293...    82  1e-15
+SEQ gi|137580|sp|P09801|VCLB_GOSHI VICILIN C72 PRECURSOR (ALPHA-GLOB...    76  8e-14
+SEQ gi|225580|prf||1306412A storage protein C72 [Saguinus oedipus]         76  8e-14
+SEQ gi|81546|pir||S08059 alpha-globulin type B precursor (tandem 1) ...    73  4e-13
+SEQ gi|207905|gb|AAA72622.1| (M18027) alpha globulin B [synthetic co...    73  4e-13
+SEQ gi|6580762|gb|AAF18269.1|AF066055_1 (AF066055) vicilin-like prot...    71  2e-12
+SEQ gi|226120|prf||1410330B vicilin gene B [Saguinus oedipus]              71  2e-12
+SEQ gi|13124595|sp|Q43358|VCL_THECC VICILIN PRECURSOR >gi|21911|emb|...    67  4e-11
+SEQ gi|21913|emb|CAA44494.1| (X62626) vicilin [Theobroma cacao]            67  4e-11
+SEQ gi|384341|prf||1905429A major storage protein [Theobroma cacao]        67  4e-11
+SEQ gi|418908|pir||S22477 vicilin precursor - cacao                        67  4e-11
+SEQ gi|137578|sp|P09799|VCLA_GOSHI VICILIN GC72-A PRECURSOR (ALPHA-G...    66  6e-11
+SEQ gi|5852874|gb|AAD54245.1|AF161884_1 (AF161884) vicilin precursor...    64  2e-10
+SEQ gi|5852876|gb|AAD54246.1| (AF161885) vicilin precursor [Macadami...    64  2e-10
+SEQ gi|9279682|dbj|BAB01239.1| (AB022223) gene_id:MWI23.1~similar to...    64  2e-10
+SEQ gi|5852872|gb|AAD54244.1|AF161883_1 (AF161883) vicilin precursor...    64  2e-10
+SEQ gi|11357142|pir||T44430 protein PV100 [imported] - winter squash...    63  4e-10
+SEQ gi|99996|pir||S10156 alpha-phaseolin precursor - kidney bean >gi...    60  5e-09
+SEQ gi|403596|gb|AAC04316.1| (U01132) phaseolin [Phaseolus vulgaris]       60  5e-09
+SEQ gi|403594|gb|AAA99534.1| (U01131) phaseolin [Phaseolus vulgaris]       59  5e-09
+SEQ gi|21040|emb|CAA26789.1| (X03004) precursor [Phaseolus vulgaris]       59  5e-09
+SEQ gi|130170|sp|P02853|PHSB_PHAVU PHASEOLIN, BETA-TYPE PRECURSOR >g...    59  5e-09
+SEQ gi|169323|gb|AAC23610.1| (J01263) beta-type phaseolin storage pr...    59  5e-09
+SEQ gi|640275|pdb|2PHL|C Chain C, Phaseolin >gi|640273|pdb|2PHL|A Ch...    59  5e-09
+SEQ gi|130169|sp|P07219|PHSA_PHAVU PHASEOLIN, ALPHA-TYPE PRECURSOR >...    59  1e-08
+SEQ gi|897800|emb|CAA24492.1| (V01163) phaseolin [Phaseolus vulgaris]      58  1e-08
+SEQ gi|72285|pir||FSFB phaseolin - kidney bean (fragment)                  58  2e-08
+SEQ gi|13183177|gb|AAK15089.1|AF240006_1 (AF240006) 7S globulin [Ses...    57  3e-08
+SEQ gi|403582|gb|AAA99532.1| (U01121) phaseolin [Phaseolus lunatus]        57  3e-08
+SEQ gi|403584|gb|AAA99533.1| (U01122) phaseolin [Phaseolus lunatus]        57  3e-08
+SEQ gi|4097098|gb|AAD10373.1| (U45320) globulin-like protein [Oryza ...    54  3e-07
+SEQ gi|4097100|gb|AAD10374.1| (U45321) globulin-like protein [Oryza ...    53  4e-07
+SEQ gi|13507023|gb|AAK28402.1|AF250228_1 (AF250228) 7S globulin [Ela...    53  6e-07
+SEQ gi|6469901|gb|AAF13483.1|AF113052_1 (AF113052) vicilin [Guazuma ...    51  2e-06
+SEQ gi|6469903|gb|AAF13484.1|AF113053_1 (AF113053) vicilin [Guazuma ...    51  2e-06
+SEQ gi|7442047|pir||T06459 62K sucrose-binding protein homolog - gar...    51  2e-06
+SEQ gi|6469873|gb|AAF13469.1|AF113038_1 (AF113038) vicilin [Theobrom...    51  2e-06
+SEQ gi|6469875|gb|AAF13470.1|AF113039_1 (AF113039) vicilin [Theobrom...    51  2e-06
+SEQ gi|2148163|pir||S60190 vicilin - Zamia furfuracea >gi|949978|emb...    51  2e-06
+SEQ gi|1019833|emb|CAA91188.1| (Z54365) vicilin [Zamia furfuracea]         51  2e-06
+SEQ gi|6469889|gb|AAF13477.1|AF113046_1 (AF113046) vicilin [Theobrom...    50  3e-06
+SEQ gi|6469893|gb|AAF13479.1|AF113048_1 (AF113048) vicilin [Theobrom...    50  3e-06
+SEQ gi|6469907|gb|AAF13486.1|AF113055_1 (AF113055) vicilin [Herrania...    50  5e-06
+SEQ gi|6469909|gb|AAF13487.1|AF113056_1 (AF113056) vicilin [Herrania...    50  5e-06
+SEQ gi|6469911|gb|AAF13488.1|AF113057_1 (AF113057) vicilin [Herrania...    50  5e-06
+SEQ gi|100876|pir||S15675 globulin-2 precursor - maize >gi|228310|pr...    49  1e-05
+SEQ gi|6179947|gb|AAF05723.1|AF191299_1 (AF191299) sucrose binding p...    48  2e-05
+SEQ gi|6469905|gb|AAF13485.1|AF113054_1 (AF113054) vicilin [Herrania...    48  2e-05
+SEQ gi|12580894|emb|CAC27161.1| (AJ292221) putative sucrose binding ...    47  2e-05
+SEQ gi|6469863|gb|AAF13464.1|AF113033_1 (AF113033) vicilin [Theobrom...    47  3e-05
+SEQ gi|6469865|gb|AAF13465.1|AF113034_1 (AF113034) vicilin [Theobrom...    47  3e-05
+SEQ gi|6469877|gb|AAF13471.1|AF113040_1 (AF113040) vicilin [Theobrom...    47  3e-05
+SEQ gi|6469881|gb|AAF13473.1|AF113042_1 (AF113042) vicilin [Theobrom...    47  3e-05
+SEQ gi|6469883|gb|AAF13474.1|AF113043_1 (AF113043) vicilin [Theobrom...    47  3e-05
+SEQ gi|6469859|gb|AAF13462.1|AF113031_1 (AF113031) vicilin [Abroma a...    47  3e-05
+SEQ gi|6469899|gb|AAF13482.1|AF113051_1 (AF113051) vicilin [Theobrom...    47  4e-05
+SEQ gi|6469867|gb|AAF13466.1|AF113035_1 (AF113035) vicilin [Theobrom...    46  5e-05
+SEQ gi|6469871|gb|AAF13468.1|AF113037_1 (AF113037) vicilin [Theobrom...    46  6e-05
+SEQ gi|6469885|gb|AAF13475.1|AF113044_1 (AF113044) vicilin [Theobrom...    46  6e-05
+SEQ gi|6469887|gb|AAF13476.1|AF113045_1 (AF113045) vicilin [Theobrom...    46  6e-05
+SEQ gi|6469897|gb|AAF13481.1|AF113050_1 (AF113050) vicilin [Theobrom...    46  6e-05
+SEQ gi|6469879|gb|AAF13472.1|AF113041_1 (AF113041) vicilin [Theobrom...    46  6e-05
+SEQ gi|548900|sp|Q04672|SBP_SOYBN SUCROSE-BINDING PROTEIN PRECURSOR ...    46  9e-05
+SEQ gi|1350502|gb|AAB01554.1| (L47744) vicilin-like storage protein ...    45  1e-04
+SEQ gi|6469913|gb|AAF13489.1|AF113058_1 (AF113058) vicilin [Herrania...    45  1e-04
+SEQ gi|6469915|gb|AAF13490.1|AF113059_1 (AF113059) vicilin [Herrania...    45  1e-04
+SEQ gi|99473|pir||S24756 vicilin-like storage protein precursor - wh...    45  1e-04
+SEQ gi|6469869|gb|AAF13467.1|AF113036_1 (AF113036) vicilin [Herrania...    43  5e-04
+SEQ gi|6469861|gb|AAF13463.1|AF113032_1 (AF113032) vicilin [Rulingia...    42  7e-04
+SEQ 
+## SEQUENCE PROFILE AND ENTROPY
+ SeqNo PDBNo   V   L   I   M   F   W   Y   G   A   P   S   T   C   H   R   K   Q   E   N   D  NOCC NDEL NINS ENTROPY RELENT WEIGHT
+    1    1     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100     0    0    0   0.000      0  0.00
+    2    2     0   0   0   0   0   0   0   0   0   0   0   0   0   0   3  48   6  42   0   0     0    0    0   0.991     33  0.00
+    3    3     0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+    4    4     0   0  10   0  80   0   5   0   0   0   5   0   0   0   0   0   0   0   0   0     0    0    0   0.717     23  0.00
+    5    5     0   0   0   0   0   0   0   0   0   0  12   0   0   0   0   1   0   0  87   0     0    0    0   0.416     13  0.00
+    6    6     1  94   5   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.264      8  0.00
+    7    7     0  33   0   1  16   0   1   2   0   0   7   3   0   0  33   3   0   1   0   0     0    0    0   1.658     55  0.00
+    8    8     0   0   0   0   0   0   4   2   1   0  72   0   0   1   0   7   1   1   8   2     0    0    0   1.128     37  0.00
+    9    9     0   0   1   0   0   0   0   2   0   0   1   0   0   3  28   9  52   2   2   0     0    0    0   1.353     45  0.00
+   10   10     0   0   0   0   0   0   0   2   0   0  35   7   0   0   7   6   0   5  11  27     0    0    0   1.744     58  0.00
+   11   11     0   0   0   0   0   0   0   0   0  90   0   0   0   0   0   0   0   0  10   0     0    0    0   0.330     11  0.00
+   12   12    33   4  26   0   0   0   2   0   3   0   1  14   0   0   6   2   0   3   0   6     0    0    0   1.884     62  0.00
+   13   13     0   2  11   0   9   0  73   0   0   0   0   0   0   4   0   0   0   0   0   0     0    0    0   0.901     30  0.00
+   14   14     0   0   0   0   0   0   0  10   2   0  78   0   7   0   0   0   0   2   1   0     0    0    0   0.813     27  0.00
+   15   15     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0  99   0     0    0    0   0.056      1  0.00
+   16   16     0   0   0   0   0   0   0   2   0   0   1   0   0   0   8  22  35  16  15   1     0    0    0   1.651     55  0.00
+   17   17     0   7   0   0  31   2  14   0   0   0   1   0   0   4   0   0   0   0  41   0     0    0    0   1.443     48  0.00
+   18   18     0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   19   19     0   1   0   0   0   0   0   0   0   0   1   1   0   1  42  33   6   3  12   0     0    0    0   1.443     48  0.00
+   20   20     0  35   2   1  58   0   0   0   3   0   0   0   0   1   0   0   0   0   0   0     0    0    0   0.959     32  0.00
+   21   21     0   0   0   0  68   0  13   0   0   0   0  16   0   2   1   0   0   0   0   0     0    0    0   0.945     31  0.00
+   22   22     0   0   2   0   0   0   0   0   0   0   0   2   0   0   0   0   0  94   0   2     0    0    0   0.293      9  0.00
+   23   23    20   3  31   0   0   0   0   0  36   0   0   0   0   0  10   0   0   0   0   0     0    0    0   1.388     46  0.00
+   24   24     2   0   0   0   0   0   0   6   0   0   3  43  26   1  10   5   0   0   0   4     0    0    0   1.620     54  0.00
+   25   25     0   0   0   0   0   0   0   5   3  82   1   0   0   0   0   0   0   0   0   8     0    0    0   0.672     22  0.00
+   26   26     0   0   0   0   0   0   0   0   2   2   2   0   0   0   3   6   3  60  12   9     0    0    0   1.405     46  0.00
+   27   27     0   0   0   0   1   0   0   0   7   0  10   0   0   0   4  29   1  16   7  24     0    0    0   1.832     61  0.00
+   28   28     0   0   0   0  41   0   9   0   0   0   0   0   3   3   1  10   1   0  31   0     0    0    0   1.511     50  0.00
+   29   29     0   0   0   0   0   0   0   0   0  32  43   1   0   0  16   1   6   0   1   0     0    0    0   1.335     44  0.00
+   30   30     2   0   0   0   2   2   0   2   0   0   0   0   0   3   1   0  85   1   0   0     0    0    0   0.697     23  0.00
+   31   31     0  68   0   0  30   0   2   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.709     23  0.00
+   32   32     0   0   0   0   0   0   0   0   0   0   2   0   0   0  30   2  58   2   2   2     0    0    0   1.102     36  0.00
+   33   33     0   1   0   0   0   0   0   2   2   0   2   0   0   0   6   2   0   2  32  50     0    0    0   1.345     44  0.00
+   34   34     4  58   7  30   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0     0    0    0   1.038     34  0.00
+   35   35     0   0   0   0   0   0   0   0   0   0   0   1   0   1   0   0   0   0  27  71     0    0    0   0.689     22  0.00
+   36   36    59  12  24   3   0   0   0   0   0   0   1   0   1   0   0   0   0   0   0   0     0    0    0   1.106     36  0.00
+   37   37     0  23   0   6  20   0   0   2  22   0  17   6   0   1   0   0   2   0   0   1     0    0    0   1.880     62  0.00
+   38   38    63  22  12   0   0   0   0   0   1   1   0   1   0   0   0   0   0   0   0   0     0    0    0   1.017     33  0.00
+   39   39     1   0   0   0   3   0   0   5  22   0  39  10   0   0   0   0   3   0  17   0     0    0    0   1.638     54  0.00
+   40   40     3   9   7   0   3   1   8   0  35   0  22   0  12   0   0   0   0   0   0   0     0    0    0   1.816     60  0.00
+   41   41    28  16  15   2  21   0   0   0  14   0   0   2   2   0   0   0   0   0   0   0     0    0    0   1.772     59  0.00
+   42   42     0   0   0   0   0   0   0   1   0   0   0   0   0   0   4  27  11  28  15  14     0    0    0   1.687     56  0.00
+   43   43     4  37  35  23   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.248     41  0.00
+   44   44     0   0   0   0   0   0   0   0   1   0   2  11   0   0   0  19   0   7  60   0     0    0    0   1.175     39  0.00
+   45   45     1   0   0   0   0   0   0   0   0  12   0   0   0   0   5   5  36  41   0   0     0    0    0   1.333     44  0.00
+   46   46     0   0   0   0   0   0   0  96   0   0   0   0   0   0   4   0   0   0   0   0     0    0    0   0.168      5  0.00
+   47   47     0   0   0   0   0   0   0   5  59   0  36   0   0   0   0   0   0   0   0   0     0    0    0   0.829     27  0.00
+   48   48     0  44  36  18   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0     0    0    0   1.085     36  0.00
+   49   49     0  20   3  12  53   1   2   0   0   0   4   5   0   0   0   0   0   0   0   0     0    0    0   1.429     47  0.00
+   50   50    57  26   0   0   0   0   0   3   9   0   1   4   0   0   0   0   0   0   0   0     0    0    0   1.173     39  0.00
+   51   51     0   0   4   0   0   0   0   0   1  95   0   0   0   0   0   0   0   0   0   0     0    0    0   0.227      7  0.00
+   52   52     0   0   0   0   4   0   0   0   0   0   4   1   0  82   0   0   0   0   8   0     0    0    0   0.688     22  0.00
+   53   53     0   4   0   0  21   0  75   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.670     22  0.00
+   54   54     0   0   0   0   0   0  14   0   0   0   0   0   0   0   0   0   1   0  82   3     0    0    0   0.591     19  0.00
+   55   55     0   0   0   0   1   0   0   0   0   0  84  15   0   0   0   0   0   0   0   0     0    0    0   0.494     16  0.00
+   56   56     0   0   0   0   0   0   0   0   0   0   0   0   0   3  41  52   0   1   3   0     0    0    0   0.961     32  0.00
+   57   57     0   0   0   0   0   0   0   1  88   0  10   1   0   0   0   0   0   0   0   0     0    0    0   0.458     15  0.00
+   58   58     1   0  47   3   0   0   0   0   0   0   0  44   0   1   0   0   0   0   4   0     0    0    0   1.065     35  0.00
+   59   59    59   1   0   0  15   1   0   0   0   0   4   0   0   0   3  16   0   0   0   0     0    0    0   1.241     41  0.00
+   60   60    32   3  64   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.805     26  0.00
+   61   61    32  44   4   0   0   0   0   5  11   0   1   3   0   0   0   0   0   0   0   0     0    0    0   1.415     47  0.00
+   62   62    48  21   7   0  10   0   1   0   0   0   1  12   0   0   0   0   0   0   0   0     0    0    0   1.462     48  0.00
+   63   63    81   0  11   0   0   0   0   0   8   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.620     20  0.00
+   64   64     5   3   3   1   0   0   0   0   4   0   1  16   1   0   3   0   0   4  58   0     0    0    0   1.508     50  0.00
+   65   65     0   0   0   0   0   0   0   1   0   0   4   0   0   0   0   4   3  67   8  12     0    0    0   1.151     38  0.00
+   66   66     0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   67   67     3   0   0   0   0   0   0   0   1   0   3   4   1   0  14  22   1  30  10   9     0    0    0   1.944     64  0.00
+   68   68     0   0   0   0   0   0   0  55  45   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.688     22  0.00
+   69   69     0   0   3   0   0   0  13   0   0   0   1   0   0  19   6   3   0  10  23  22     0    0    0   1.915     63  0.00
+   70   70    36  17  16   0  25   0   1   0   4   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.508     50  0.00
+   71   71     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   4  96   0   0     0    0    0   0.179      5  0.00
+   72   72     0  65   6  29   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.803     26  0.00
+   73   73    94   6   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.218      7  0.00
+   74   74     0   0   0   0   0   0   0  95   5   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.199      6  0.00
+   75   75    11  56  28   0   6   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.087     36  0.00
+   76   76     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  86   0  14   0   0     0    0    0   0.410     13  0.00
+//

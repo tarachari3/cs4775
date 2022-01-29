@@ -1,0 +1,1285 @@
+ID Pseudo hssp file.
+SEQ 
+SEQ gi|61155|emb|CAA25444.1| (X00925) polyprotein precursor [Human p...   562  e-159
+SEQ gi|77341|pir||S03822 genome polyprotein - human poliovirus 3 (st...   562  e-159
+SEQ gi|9627044|ref|NP_056792.1| viral protein precursor [Human polio...   561  e-159
+SEQ gi|1335449|emb|CAA25545.1| (X01076) VP1 [Human poliovirus 3]          560  e-159
+SEQ gi|61140|emb|CAA25247.1| (X00596) PV3 polyprotein [Human poliovi...   560  e-159
+SEQ gi|13751766|gb|AAK38581.1| (AF334949) polyprotein [Human poliovi...   560  e-159
+SEQ gi|13751768|gb|AAK38582.1| (AF334950) polyprotein [Human poliovi...   560  e-159
+SEQ gi|13751773|gb|AAK38584.1| (AF334952) polyprotein [Human poliovi...   560  e-159
+SEQ gi|13751775|gb|AAK38585.1| (AF334953) polyprotein [Human poliovi...   560  e-159
+SEQ gi|13751771|gb|AAK38583.1| (AF334951) polyprotein [Human poliovi...   558  e-158
+SEQ gi|388329|gb|AAA19632.1| (L23844) capsid proteins [Human poliovi...   550  e-156
+SEQ gi|388335|gb|AAA19635.1| (L23847) capsid proteins [Human poliovi...   550  e-155
+SEQ gi|11558238|emb|CAB77542.1| (AJ288081) capsid protein [Human pol...   549  e-155
+SEQ gi|1127070|pdb|1PVC|1 Chain 1, Mol_id: 1; Molecule: Poliovirus T...   547  e-155
+SEQ gi|1633098|pdb|1VBB|1 Chain 1, Poliovirus (Type 3, Sabin Strain)...   547  e-155
+SEQ gi|388333|gb|AAA19634.1| (L23846) capsid proteins [Human poliovi...   547  e-155
+SEQ gi|628413|pir||S42524 VP1 protein - human poliovirus 3 >gi|33298...   546  e-154
+SEQ gi|388331|gb|AAA19633.1| (L23845) capsid proteins [Human poliovi...   545  e-154
+SEQ gi|1633083|pdb|1VBE|1 Chain 1, Poliovirus (Type 3, Sabin Strain,...   544  e-154
+SEQ gi|9998765|emb|CAC07403.1| (AJ293918) polyprotein precursor [Hum...   539  e-152
+SEQ gi|130502|sp|P06209|POLG_POL32 GENOME POLYPROTEIN [CONTAINS: COA...   531  e-150
+SEQ gi|11558200|emb|CAC17719.1| (AJ288062) capsid protein, P1 precur...   483  e-135
+SEQ gi|130500|sp|P06210|POLG_POL2L GENOME POLYPROTEIN [CONTAINS: COA...   478  e-134
+SEQ gi|9627042|ref|NP_056745.1| PV2 polyprotein [Human poliovirus 2]...   474  e-133
+SEQ gi|130501|sp|P23069|POLG_POL2W GENOME POLYPROTEIN [CONTAINS: COA...   473  e-133
+SEQ gi|222349|dbj|BAA00516.1| (D00625) polyprotein precursor [Human ...   473  e-133
+SEQ gi|11558212|emb|CAB77530.1| (AJ288068) capsid protein [Human pol...   473  e-132
+SEQ gi|11558232|emb|CAB77540.1| (AJ288078) capsid protein [Human pol...   470  e-131
+SEQ gi|10945386|gb|AAG24527.1|AF249264_1 (AF249264) polyprotein [Hum...   468  e-131
+SEQ gi|10945384|gb|AAG24526.1|AF249263_1 (AF249263) polyprotein [Hum...   468  e-131
+SEQ gi|10945388|gb|AAG24528.1|AF249265_1 (AF249265) polyprotein [Hum...   467  e-131
+SEQ gi|10945382|gb|AAG24525.1|AF249262_1 (AF249262) polyprotein [Hum...   466  e-130
+SEQ gi|11558204|emb|CAB77526.1| (AJ288064) capsid protein [Human pol...   465  e-130
+SEQ gi|10945380|gb|AAG24524.1|AF249261_1 (AF249261) polyprotein [Hum...   465  e-130
+SEQ gi|11558202|emb|CAC17720.1| (AJ288063) capsid protein [Human pol...   465  e-130
+SEQ gi|11558208|emb|CAB77528.1| (AJ288066) capsid protein [Human pol...   464  e-130
+SEQ gi|3660190|pdb|1EAH|1 Chain 1, Pv2l Complexed With Antiviral Age...   463  e-130
+SEQ gi|10945378|gb|AAG24523.1|AF249260_1 (AF249260) polyprotein [Hum...   463  e-129
+SEQ gi|7008424|gb|AAF35009.1| (AF233105) capsid protein VP1 [Human p...   450  e-126
+SEQ gi|130499|sp|P03301|POLG_POL1S GENOME POLYPROTEIN [CONTAINS: COA...   447  e-125
+SEQ gi|6682297|emb|CAB64658.1| (AJ132960) enterovirus precursor prot...   446  e-124
+SEQ gi|14009390|dbj|BAB47364.1| (AB061282) VP3-VP1/2A [Human poliovi...   446  e-124
+SEQ gi|14009400|dbj|BAB47369.1| (AB061287) VP3-VP1/2A [Human poliovi...   446  e-124
+SEQ gi|14009384|dbj|BAB47361.1| (AB061279) VP3-VP1/2A [Human poliovi...   445  e-124
+SEQ gi|14009388|dbj|BAB47363.1| (AB061281) VP3-VP1/2A [Human poliovi...   444  e-124
+SEQ gi|9627037|ref|NP_041277.1| polyprotein [Human poliovirus 1] >gi...   444  e-124
+SEQ gi|1335528|emb|CAA24463.1| (V01149) reading frame VP1 [Human pol...   444  e-124
+SEQ gi|14009396|dbj|BAB47367.1| (AB061285) VP3-VP1/2A [Human poliovi...   443  e-123
+SEQ gi|11036513|gb|AAG27161.1| (AF111976) polyprotein [Human poliovi...   443  e-123
+SEQ gi|6682299|emb|CAB64659.1| (AJ132961) enterovirus precursor poly...   443  e-123
+SEQ gi|14009398|dbj|BAB47368.1| (AB061286) VP3-VP1/2A [Human poliovi...   442  e-123
+SEQ gi|11036503|gb|AAG27156.1| (AF111971) polyprotein [Human poliovi...   442  e-123
+SEQ gi|11036505|gb|AAG27157.1| (AF111972) polyprotein [Human poliovi...   442  e-123
+SEQ gi|14009386|dbj|BAB47362.1| (AB061280) VP3-VP1/2A [Human poliovi...   442  e-123
+SEQ gi|11036509|gb|AAG27159.1| (AF111974) polyprotein [Human poliovi...   441  e-123
+SEQ gi|11036461|gb|AAG27135.1| (AF111950) polyprotein [Human poliovi...   441  e-123
+SEQ gi|11036465|gb|AAG27137.1| (AF111952) polyprotein [Human poliovi...   441  e-123
+SEQ gi|11036467|gb|AAG27138.1| (AF111953) polyprotein [Human poliovi...   441  e-123
+SEQ gi|11036473|gb|AAG27141.1| (AF111956) polyprotein [Human poliovi...   441  e-123
+SEQ gi|11036497|gb|AAG27153.1| (AF111968) polyprotein [Human poliovi...   441  e-123
+SEQ gi|11036507|gb|AAG27158.1| (AF111973) polyprotein [Human poliovi...   441  e-123
+SEQ gi|11036501|gb|AAG27155.1| (AF111970) polyprotein [Human poliovi...   441  e-123
+SEQ gi|11036525|gb|AAG27167.1| (AF111982) polyprotein [Human poliovi...   441  e-123
+SEQ gi|11036481|gb|AAG27145.1| (AF111960) polyprotein [Human poliovi...   441  e-123
+SEQ gi|11036489|gb|AAG27149.1| (AF111964) polyprotein [Human poliovi...   441  e-123
+SEQ gi|7008410|gb|AAF35002.1| (AF233098) capsid protein VP1 [Human p...   441  e-123
+SEQ gi|130498|sp|P03299|POLG_POL1M GENOME POLYPROTEIN [CONTAINS: COA...   441  e-123
+SEQ gi|1335512|emb|CAA24445.1| (V01148) open reading frame [Human po...   441  e-123
+SEQ gi|1335513|emb|CAA24447.1| (V01148) reading frame P1-1a [Human p...   441  e-123
+SEQ gi|11036479|gb|AAG27144.1| (AF111959) polyprotein [Human poliovi...   441  e-123
+SEQ gi|11036485|gb|AAG27147.1| (AF111962) polyprotein [Human poliovi...   441  e-123
+SEQ gi|11036527|gb|AAG27168.1| (AF111983) polyprotein [Human poliovi...   441  e-123
+SEQ gi|11036483|gb|AAG27146.1| (AF111961) polyprotein [Human poliovi...   440  e-123
+SEQ gi|11036515|gb|AAG27162.1| (AF111977) polyprotein [Human poliovi...   440  e-122
+SEQ gi|11036517|gb|AAG27163.1| (AF111978) polyprotein [Human poliovi...   440  e-122
+SEQ gi|11036519|gb|AAG27164.1| (AF111979) polyprotein [Human poliovi...   440  e-122
+SEQ gi|11036493|gb|AAG27151.1| (AF111966) polyprotein [Human poliovi...   440  e-122
+SEQ gi|11036491|gb|AAG27150.1| (AF111965) polyprotein [Human poliovi...   439  e-122
+SEQ gi|11036499|gb|AAG27154.1| (AF111969) polyprotein [Human poliovi...   439  e-122
+SEQ gi|3511177|gb|AAC33744.1| (AF065158) polyprotein [Human poliovir...   439  e-122
+SEQ gi|11036463|gb|AAG27136.1| (AF111951) polyprotein [Human poliovi...   438  e-122
+SEQ gi|11036487|gb|AAG27148.1| (AF111963) polyprotein [Human poliovi...   438  e-122
+SEQ gi|14009394|dbj|BAB47366.1| (AB061284) VP3-VP1/2A [Human poliovi...   436  e-121
+SEQ gi|7008418|gb|AAF35006.1| (AF233102) capsid protein VP1 [Human p...   435  e-121
+SEQ gi|6687757|emb|CAB65067.1| (AJ237880) VP1 [Human poliovirus 1]        435  e-121
+SEQ gi|3617986|gb|AAC36120.1| (AF083932) polyprotein [Human poliovir...   435  e-121
+SEQ gi|2781162|pdb|1AR6|1 Chain 1, P1MAHONEY POLIOVIRUS, DOUBLE MUTA...   434  e-121
+SEQ gi|7008426|gb|AAF35010.1| (AF233106) capsid protein VP1 [Human p...   434  e-121
+SEQ gi|2781167|pdb|1AR7|1 Chain 1, P1MAHONEY POLIOVIRUS, DOUBLE MUTA...   434  e-121
+SEQ gi|2781327|pdb|1AL2|1 Chain 1, P1MAHONEY POLIOVIRUS, SINGLE SITE...   434  e-121
+SEQ gi|7230614|gb|AAF43033.1| (AF236796) polyprotein [human poliovir...   434  e-121
+SEQ gi|7230616|gb|AAF43034.1| (AF236797) polyprotein [human poliovir...   434  e-121
+SEQ gi|7008432|gb|AAF35013.1| (AF233109) capsid protein VP1 [Human p...   433  e-121
+SEQ gi|7008446|gb|AAF35020.1| (AF233116) capsid protein VP1 [Human p...   433  e-120
+SEQ gi|7008456|gb|AAF35025.1| (AF233121) capsid protein VP1 [Human p...   433  e-120
+SEQ gi|7008428|gb|AAF35011.1| (AF233107) capsid protein VP1 [Human p...   433  e-120
+SEQ gi|7008452|gb|AAF35023.1| (AF233119) capsid protein VP1 [Human p...   433  e-120
+SEQ gi|2781177|pdb|1AR9|1 Chain 1, P1MAHONEY POLIOVIRUS, SINGLE SITE...   433  e-120
+SEQ gi|6687741|emb|CAB65059.1| (AJ237872) VP1 [Human poliovirus 1]        433  e-120
+SEQ gi|6687739|emb|CAB65058.1| (AJ237871) VP1 [Human poliovirus 1] >...   433  e-120
+SEQ gi|6687761|emb|CAB65069.1| (AJ237882) VP1 [Human poliovirus 1]        432  e-120
+SEQ gi|7008440|gb|AAF35017.1| (AF233113) capsid protein VP1 [Human p...   432  e-120
+SEQ gi|3617982|gb|AAC36119.1| (AF083931) polyprotein [Human poliovir...   432  e-120
+SEQ gi|6687749|emb|CAB65063.1| (AJ237876) VP1 [Human poliovirus 1]        432  e-120
+SEQ gi|6687745|emb|CAB65061.1| (AJ237874) VP1 [Human poliovirus 1]        432  e-120
+SEQ gi|7008434|gb|AAF35014.1| (AF233110) capsid protein VP1 [Human p...   431  e-120
+SEQ gi|3617998|gb|AAC36124.1| (AF083936) polyprotein [Human poliovir...   431  e-120
+SEQ gi|3617994|gb|AAC36123.1| (AF083935) polyprotein [Human poliovir...   431  e-120
+SEQ gi|1335518|emb|CAA24452.1| (V01148) reading frame P1-VP1 [Human ...   431  e-120
+SEQ gi|7008420|gb|AAF35007.1| (AF233103) capsid protein VP1 [Human p...   429  e-119
+SEQ gi|7008430|gb|AAF35012.1| (AF233108) capsid protein VP1 [Human p...   429  e-119
+SEQ gi|7008442|gb|AAF35018.1| (AF233114) capsid protein VP1 [Human p...   429  e-119
+SEQ gi|6687767|emb|CAB65072.1| (AJ237885) VP1 [Human poliovirus 1]        429  e-119
+SEQ gi|7008422|gb|AAF35008.1| (AF233104) capsid protein VP1 [Human p...   429  e-119
+SEQ gi|7008416|gb|AAF35005.1| (AF233101) capsid protein VP1 [Human p...   428  e-119
+SEQ gi|7008444|gb|AAF35019.1| (AF233115) capsid protein VP1 [Human p...   428  e-119
+SEQ gi|7008414|gb|AAF35004.1| (AF233100) capsid protein VP1 [Human p...   428  e-119
+SEQ gi|7008454|gb|AAF35024.1| (AF233120) capsid protein VP1 [Human p...   427  e-119
+SEQ gi|7008412|gb|AAF35003.1| (AF233099) capsid protein VP1 [Human p...   427  e-118
+SEQ gi|230671|pdb|2PLV|1 Chain 1, Poliovirus (Type 1, Mahoney Strain...   426  e-118
+SEQ gi|11558226|emb|CAB77537.1| (AJ288075) capsid protein [Human pol...   423  e-117
+SEQ gi|7008436|gb|AAF35015.1| (AF233111) capsid protein VP1 [Human p...   423  e-117
+SEQ gi|11558228|emb|CAB77538.1| (AJ288076) capsid protein [Human pol...   422  e-117
+SEQ gi|11558224|emb|CAB77536.1| (AJ288074) capsid protein [Human pol...   420  e-117
+SEQ gi|7008450|gb|AAF35022.1| (AF233118) capsid protein VP1 [Human p...   416  e-115
+SEQ gi|11558230|emb|CAB77539.1| (AJ288077) capsid protein [Human pol...   411  e-114
+SEQ gi|7008448|gb|AAF35021.1| (AF233117) capsid protein VP1 [Human p...   408  e-113
+SEQ gi|4336283|gb|AAD17713.1| (AF081309) capsid protein VP1 [Human c...   405  e-112
+SEQ gi|4336277|gb|AAD17707.1| (AF081303) capsid protein VP1 [Human c...   403  e-111
+SEQ gi|4336280|gb|AAD17710.1| (AF081306) capsid protein VP1 [Human c...   400  e-110
+SEQ gi|4336281|gb|AAD17711.1| (AF081307) capsid protein VP1 [Human c...   400  e-110
+SEQ gi|7008438|gb|AAF35016.1| (AF233112) capsid protein VP1 [Human p...   397  e-110
+SEQ gi|11558222|emb|CAB77535.1| (AJ288073) capsid protein [Human pol...   387  e-107
+SEQ gi|4336279|gb|AAD17709.1| (AF081305) capsid protein VP1 [Human c...   367  e-100
+SEQ gi|4336275|gb|AAD17705.1| (AF081301) capsid protein VP1 [Human c...   364  e-100
+SEQ gi|13659240|ref|NP_112512.1| polyprotein [Human coxsackievirus A...   361  8e-99
+SEQ gi|4336321|gb|AAD17751.1| (AF081347) capsid protein VP1 [Echovir...   352  3e-96
+SEQ gi|4336285|gb|AAD17715.1| (AF081311) capsid protein VP1 [Human c...   349  2e-95
+SEQ gi|11558218|emb|CAB77533.1| (AJ288071) capsid protein [Human pol...   341  1e-92
+SEQ gi|11558214|emb|CAB77531.1| (AJ288069) capsid protein [Human pol...   341  1e-92
+SEQ gi|11558216|emb|CAB77532.1| (AJ288070) capsid protein [Human pol...   339  2e-92
+SEQ gi|9626434|ref|NP_040759.1| polyprotein precursor [Human coxsack...   332  3e-90
+SEQ gi|4336282|gb|AAD17712.1| (AF081308) capsid protein VP1 [Human c...   328  4e-89
+SEQ gi|4336267|gb|AAD17697.1| (AF081293) capsid protein VP1 [Human c...   320  1e-86
+SEQ gi|11558220|emb|CAB77534.1| (AJ288072) capsid protein [Human pol...   314  1e-84
+SEQ gi|4336284|gb|AAD17714.1| (AF081310) capsid protein VP1 [Human c...   313  2e-84
+SEQ gi|11072118|ref|NP_068349.1| polyprotein [Human echovirus 5] >gi...   243  2e-63
+SEQ gi|10443876|gb|AAG17621.1|AF250874_1 (AF250874) capsid polyprote...   243  2e-63
+SEQ gi|9632296|ref|NP_049259.1| polyprotein [Human coxsackievirus B6...   241  9e-63
+SEQ gi|6465921|gb|AAF12719.1|AF105342_1 (AF105342) polyprotein [Huma...   240  1e-62
+SEQ gi|6650685|gb|AAF21972.1|AF114384_1 (AF114384) polyprotein [Huma...   240  1e-62
+SEQ gi|4038655|dbj|BAA35144.1| (AB017151) polyprotein [Human coxsack...   240  2e-62
+SEQ gi|5823847|emb|CAB53966.1| (AJ241425) capsid protein [Human echo...   239  4e-62
+SEQ gi|4406136|gb|AAD19874.1| (AF085363) polyprotein [Human coxsacki...   238  5e-62
+SEQ gi|9628106|ref|NP_042694.1| polyprotein [Human echovirus 6] >gi|...   238  7e-62
+SEQ gi|6174920|sp|P29813|POLG_EC11G GENOME POLYPROTEIN [CONTAINS: CO...   237  1e-61
+SEQ gi|230294|pdb|1RMU|1 Chain 1, Rhinovirus 14 (HRV14) (Mutant With...   236  3e-61
+SEQ gi|1311115|pdb|1RUG|1 Chain 1, Rhinovirus 14 Mutant N1219s Compl...   235  4e-61
+SEQ gi|4336294|gb|AAD17724.1| (AF081320) capsid protein VP1 [Human e...   235  4e-61
+SEQ gi|4336299|gb|AAD17729.1| (AF081325) capsid protein VP1 [Human e...   235  5e-61
+SEQ gi|6174919|sp|O91734|POLG_EC01F GENOME POLYPROTEIN [CONTAINS: CO...   235  5e-61
+SEQ gi|7408184|gb|AAC63944.2| (AF029859) polyprotein precursor [Echo...   235  5e-61
+SEQ gi|7263138|gb|AAF44101.1| (AF225468) polyprotein [Human coxsacki...   235  6e-61
+SEQ gi|9635433|ref|NP_059432.1| polyprotein [Human coxsackievirus A9...   235  6e-61
+SEQ gi|4336289|gb|AAD17719.1| (AF081315) capsid protein VP1 [Human e...   235  6e-61
+SEQ gi|1311127|pdb|1RUD|1 Chain 1, Rhinovirus 14 Mutant N1105s Compl...   235  7e-61
+SEQ gi|6102773|emb|CAB59199.1| (X77709) polyprotein [Human echovirus...   235  7e-61
+SEQ gi|4336312|gb|AAD17742.1| (AF081338) capsid protein VP1 [Human e...   235  7e-61
+SEQ gi|74439|pir||GNNYA9 genome polyprotein - coxsackievirus A9 (str...   234  8e-61
+SEQ gi|1311123|pdb|1RUE|1 Chain 1, Rhinovirus 14 Site Directed Mutan...   234  8e-61
+SEQ gi|4530589|gb|AAD22106.1| (AF132497) polyprotein [Enterovirus St...   234  1e-60
+SEQ gi|130480|sp|P03303|POLG_HRV14 GENOME POLYPROTEIN [CONTAINS: COA...   234  1e-60
+SEQ gi|230271|pdb|1R09|1 Chain 1, Rhinovirus 14 (HRV14) Complex With...   234  1e-60
+SEQ gi|291486|gb|AAA45758.1| (L05355) polyprotein [Human rhinovirus 14]   234  1e-60
+SEQ gi|7327402|gb|AAF59711.1|AF160054_1 (AF160054) polyprotein [Coxs...   234  1e-60
+SEQ gi|4336323|gb|AAD17753.1| (AF081349) capsid protein VP1 [Enterov...   234  1e-60
+SEQ gi|130417|sp|P08292|POLG_CXB4J GENOME POLYPROTEIN [CONTAINS: COA...   234  1e-60
+SEQ gi|74438|pir||GNNYB4 genome polyprotein - coxsackievirus B4           234  1e-60
+SEQ gi|9626088|ref|NP_059442.1| polyprotein [Human coxsackievirus B4...   234  1e-60
+SEQ gi|7327334|gb|AAF59677.1|AF160020_1 (AF160020) polyprotein [Coxs...   234  1e-60
+SEQ gi|9629459|ref|NP_059445.1| Echovirus 12 polyprotein [Human echo...   234  1e-60
+SEQ gi|7327312|gb|AAF59666.1|AF160009_1 (AF160009) polyprotein [Coxs...   234  1e-60
+SEQ gi|7327412|gb|AAF59716.1|AF160059_1 (AF160059) polyprotein [Coxs...   234  1e-60
+SEQ gi|1311107|pdb|1RUI|1 Chain 1, Rhinovirus 14 Mutant S1223g Compl...   233  1e-60
+SEQ gi|7107365|gb|AAF36390.1|AF222977_1 (AF222977) polyprotein [Huma...   233  2e-60
+SEQ gi|7327378|gb|AAF59699.1|AF160042_1 (AF160042) polyprotein [Coxs...   233  2e-60
+SEQ gi|628412|pir||S44251 polyprotein - echovirus 12                      233  2e-60
+SEQ gi|7327410|gb|AAF59715.1|AF160058_1 (AF160058) polyprotein [Coxs...   233  2e-60
+SEQ gi|7327440|gb|AAF59730.1|AF160073_1 (AF160073) polyprotein [Coxs...   233  2e-60
+SEQ gi|7327404|gb|AAF59712.1|AF160055_1 (AF160055) polyprotein [Coxs...   233  2e-60
+SEQ gi|474025|dbj|BAA03866.1| (D16364) polyprotein [Coxsackievirus B]     233  2e-60
+SEQ gi|7327352|gb|AAF59686.1|AF160029_1 (AF160029) polyprotein [Coxs...   233  2e-60
+SEQ gi|230701|pdb|2RMU|1 Chain 1, Rhinovirus 14 (HRV14) (Mutant With...   233  2e-60
+SEQ gi|7327418|gb|AAF59719.1|AF160062_1 (AF160062) polyprotein [Coxs...   233  2e-60
+SEQ gi|61083|emb|CAA25565.1| (X01087) polyprotein [Human rhinovirus]      233  2e-60
+SEQ gi|7327392|gb|AAF59706.1|AF160049_1 (AF160049) polyprotein [Coxs...   233  2e-60
+SEQ gi|7327414|gb|AAF59717.1|AF160060_1 (AF160060) polyprotein [Coxs...   233  2e-60
+SEQ gi|628411|pir||S44194 polyprotein - echovirus 12 >gi|474421|emb|...   233  2e-60
+SEQ gi|5823763|emb|CAB53936.1| (AJ241422) capsid protein [Human echo...   233  3e-60
+SEQ gi|7327390|gb|AAF59705.1|AF160048_1 (AF160048) polyprotein [Coxs...   233  3e-60
+SEQ gi|7327366|gb|AAF59693.1|AF160036_1 (AF160036) polyprotein [Coxs...   233  3e-60
+SEQ gi|7327406|gb|AAF59713.1|AF160056_1 (AF160056) polyprotein [Coxs...   233  3e-60
+SEQ gi|7327436|gb|AAF59728.1|AF160071_1 (AF160071) polyprotein [Coxs...   233  3e-60
+SEQ gi|7327416|gb|AAF59718.1|AF160061_1 (AF160061) polyprotein [Coxs...   232  3e-60
+SEQ gi|7327386|gb|AAF59703.1|AF160046_1 (AF160046) polyprotein [Coxs...   232  3e-60
+SEQ gi|7327320|gb|AAF59670.1|AF160013_1 (AF160013) polyprotein [Coxs...   232  3e-60
+SEQ gi|7327370|gb|AAF59695.1|AF160038_1 (AF160038) polyprotein [Coxs...   232  3e-60
+SEQ gi|7327396|gb|AAF59708.1|AF160051_1 (AF160051) polyprotein [Coxs...   232  3e-60
+SEQ gi|7327310|gb|AAF59665.1|AF160008_1 (AF160008) polyprotein [Coxs...   232  4e-60
+SEQ gi|130519|sp|P13900|POLG_SVDVU GENOME POLYPROTEIN [CONTAINS: COA...   232  4e-60
+SEQ gi|7327362|gb|AAF59691.1|AF160034_1 (AF160034) polyprotein [Coxs...   232  4e-60
+SEQ gi|7327364|gb|AAF59692.1|AF160035_1 (AF160035) polyprotein [Coxs...   232  4e-60
+SEQ gi|7327336|gb|AAF59678.1|AF160021_1 (AF160021) polyprotein [Coxs...   232  4e-60
+SEQ gi|7327438|gb|AAF59729.1|AF160072_1 (AF160072) polyprotein [Coxs...   232  4e-60
+SEQ gi|7327422|gb|AAF59721.1|AF160064_1 (AF160064) polyprotein [Coxs...   232  4e-60
+SEQ gi|7327300|gb|AAF59660.1|AF160003_1 (AF160003) polyprotein [Coxs...   232  4e-60
+SEQ gi|7327302|gb|AAF59661.1|AF160004_1 (AF160004) polyprotein [Coxs...   232  4e-60
+SEQ gi|7327344|gb|AAF59682.1|AF160025_1 (AF160025) polyprotein [Coxs...   232  4e-60
+SEQ gi|7327384|gb|AAF59702.1|AF160045_1 (AF160045) polyprotein [Coxs...   232  4e-60
+SEQ gi|7327400|gb|AAF59710.1|AF160053_1 (AF160053) polyprotein [Coxs...   232  4e-60
+SEQ gi|7327372|gb|AAF59696.1|AF160039_1 (AF160039) polyprotein [Coxs...   232  4e-60
+SEQ gi|7327432|gb|AAF59726.1|AF160069_1 (AF160069) polyprotein [Coxs...   232  4e-60
+SEQ gi|9628717|ref|NP_043719.1| polyprotein [Swine vesicular disease...   232  4e-60
+SEQ gi|7327356|gb|AAF59688.1|AF160031_1 (AF160031) polyprotein [Coxs...   232  5e-60
+SEQ gi|6093756|sp|Q66282|POLG_CXB3W GENOME POLYPROTEIN [CONTAINS: CO...   232  5e-60
+SEQ gi|4336288|gb|AAD17718.1| (AF081314) capsid protein VP1 [Human e...   232  5e-60
+SEQ gi|7327318|gb|AAF59669.1|AF160012_1 (AF160012) polyprotein [Coxs...   232  5e-60
+SEQ gi|7327322|gb|AAF59671.1|AF160014_1 (AF160014) polyprotein [Coxs...   232  5e-60
+SEQ gi|7327368|gb|AAF59694.1|AF160037_1 (AF160037) polyprotein [Coxs...   232  5e-60
+SEQ gi|7327428|gb|AAF59724.1|AF160067_1 (AF160067) polyprotein [Coxs...   232  5e-60
+SEQ gi|7327306|gb|AAF59663.1|AF160006_1 (AF160006) polyprotein [Coxs...   232  5e-60
+SEQ gi|4336305|gb|AAD17735.1| (AF081331) capsid protein VP1 [Human e...   232  5e-60
+SEQ gi|7327314|gb|AAF59667.1|AF160010_1 (AF160010) polyprotein [Coxs...   232  5e-60
+SEQ gi|6093761|sp|Q66790|POLG_EC16H GENOME POLYPROTEIN [CONTAINS: CO...   232  5e-60
+SEQ gi|7327326|gb|AAF59673.1|AF160016_1 (AF160016) polyprotein [Coxs...   232  5e-60
+SEQ gi|7327358|gb|AAF59689.1|AF160032_1 (AF160032) polyprotein [Coxs...   232  5e-60
+SEQ gi|7327374|gb|AAF59697.1|AF160040_1 (AF160040) polyprotein [Coxs...   232  5e-60
+SEQ gi|7327424|gb|AAF59722.1|AF160065_1 (AF160065) polyprotein [Coxs...   232  5e-60
+SEQ gi|7327360|gb|AAF59690.1|AF160033_1 (AF160033) polyprotein [Coxs...   231  5e-60
+SEQ gi|7327354|gb|AAF59687.1|AF160030_1 (AF160030) polyprotein [Coxs...   231  5e-60
+SEQ gi|5823851|emb|CAB53967.1| (AJ241437) capsid protein [Human echo...   231  5e-60
+SEQ gi|13311201|gb|AAK18713.1|AF241361_1 (AF241361) polyprotein [ent...   231  5e-60
+SEQ gi|7327430|gb|AAF59725.1|AF160068_1 (AF160068) polyprotein [Coxs...   231  6e-60
+SEQ gi|7327328|gb|AAF59674.1|AF160017_1 (AF160017) polyprotein [Coxs...   231  6e-60
+SEQ gi|13242738|ref|NP_077383.1| polyprotein [Enterovirus CA55-1988]...   231  6e-60
+SEQ gi|9625563|ref|NP_039817.1| polyprotein [Human coxsackievirus B5...   231  7e-60
+SEQ gi|4336287|gb|AAD17717.1| (AF081313) capsid protein VP1 [Human c...   231  7e-60
+SEQ gi|7327294|gb|AAF59657.1|AF160000_1 (AF160000) polyprotein [Coxs...   231  7e-60
+SEQ gi|7327380|gb|AAF59700.1|AF160043_1 (AF160043) polyprotein [Coxs...   231  7e-60
+SEQ gi|7327296|gb|AAF59658.1|AF160001_1 (AF160001) polyprotein [Coxs...   231  7e-60
+SEQ gi|7327382|gb|AAF59701.1|AF160044_1 (AF160044) polyprotein [Coxs...   231  7e-60
+SEQ gi|7327304|gb|AAF59662.1|AF160005_1 (AF160005) polyprotein [Coxs...   231  7e-60
+SEQ gi|4336303|gb|AAD17733.1| (AF081329) capsid protein VP1 [Human e...   231  8e-60
+SEQ gi|7327292|gb|AAF59656.1|AF159999_1 (AF159999) polyprotein [Coxs...   231  8e-60
+SEQ gi|7327348|gb|AAF59684.1|AF160027_1 (AF160027) polyprotein [Coxs...   231  8e-60
+SEQ gi|7327290|gb|AAF59655.1|AF159998_1 (AF159998) polyprotein [Coxs...   231  8e-60
+SEQ gi|5833887|gb|AAD53727.1| (AF169671) capsid protein [Human coxsa...   231  8e-60
+SEQ gi|7327332|gb|AAF59676.1|AF160019_1 (AF160019) polyprotein [Coxs...   231  8e-60
+SEQ gi|7327346|gb|AAF59683.1|AF160026_1 (AF160026) polyprotein [Coxs...   231  9e-60
+SEQ gi|7327308|gb|AAF59664.1|AF160007_1 (AF160007) polyprotein [Coxs...   231  9e-60
+SEQ gi|4336308|gb|AAD17738.1| (AF081334) capsid protein VP1 [Human e...   231  9e-60
+SEQ gi|9628104|ref|NP_042693.1| complete genomic coding region [Huma...   231  1e-59
+SEQ gi|1072814|pir||S52919 polyprotein (1A, 1B, 1C, 1D, 2A, 2B, 2C, ...   231  1e-59
+SEQ gi|7327434|gb|AAF59727.1|AF160070_1 (AF160070) polyprotein [Coxs...   231  1e-59
+SEQ gi|7327398|gb|AAF59709.1|AF160052_1 (AF160052) polyprotein [Coxs...   230  1e-59
+SEQ gi|5833883|gb|AAD53726.1| (AF169666) capsid protein [Human coxsa...   230  1e-59
+SEQ gi|10863161|gb|AAG23918.1|AF231763_1 (AF231763) polyprotein [Hum...   230  1e-59
+SEQ gi|4336302|gb|AAD17732.1| (AF081328) capsid protein VP1 [Human e...   230  1e-59
+SEQ gi|7263142|gb|AAF44103.1| (AF225470) polyprotein [Human coxsacki...   230  2e-59
+SEQ gi|7327376|gb|AAF59698.1|AF160041_1 (AF160041) polyprotein [Coxs...   230  2e-59
+SEQ gi|7327426|gb|AAF59723.1|AF160066_1 (AF160066) polyprotein [Coxs...   230  2e-59
+SEQ gi|4572559|emb|CAA62257.2| (X90722) polyprotein [Human echovirus...   230  2e-59
+SEQ gi|7263140|gb|AAF44102.1| (AF225469) polyprotein [Human coxsacki...   230  2e-59
+SEQ gi|9632988|ref|NP_050012.1| polyprotein [Human coxsackievirus B2...   230  2e-59
+SEQ gi|6093759|sp|Q66577|POLG_EC09B GENOME POLYPROTEIN [CONTAINS: CO...   230  2e-59
+SEQ gi|13311203|gb|AAK18714.1|AF241362_1 (AF241362) polyprotein [ent...   230  2e-59
+SEQ gi|7327394|gb|AAF59707.1|AF160050_1 (AF160050) polyprotein [Coxs...   230  2e-59
+SEQ gi|6650683|gb|AAF21971.1|AF114383_1 (AF114383) polyprotein [Huma...   230  3e-59
+SEQ gi|4388976|pdb|1EV1|1 Chain 1, Echovirus 1                            229  3e-59
+SEQ gi|9635676|ref|NP_061590.1| polyprotein [Swine vesicular disease...   229  3e-59
+SEQ gi|5823767|emb|CAB53938.1| (AJ241428) capsid protein [Human echo...   229  3e-59
+SEQ gi|4336304|gb|AAD17734.1| (AF081330) capsid protein VP1 [Human e...   229  3e-59
+SEQ gi|4336295|gb|AAD17725.1| (AF081321) capsid protein VP1 [Human e...   229  3e-59
+SEQ gi|7327388|gb|AAF59704.1|AF160047_1 (AF160047) polyprotein [Coxs...   229  3e-59
+SEQ gi|5823866|emb|CAB53960.1| (AJ241435) capsid protein [Human echo...   229  3e-59
+SEQ gi|4336291|gb|AAD17721.1| (AF081317) capsid protein VP1 [Human e...   229  4e-59
+SEQ gi|5685878|gb|AAB22445.2| (S39291) VP1 [Human coxsackievirus B4]      229  4e-59
+SEQ gi|4336297|gb|AAD17727.1| (AF081323) capsid protein VP1 [Human e...   229  4e-59
+SEQ gi|348672|pir||A45576 capsid protein VP1 - Coxsackievirus             229  4e-59
+SEQ gi|6730243|pdb|1D4M|1 Chain 1, The Crystal Structure Of Coxsacki...   229  4e-59
+SEQ gi|14139953|emb|CAC39015.1| (AJ295178) polyprotein [Human echovi...   228  4e-59
+SEQ gi|10863165|gb|AAG23920.1|AF231765_1 (AF231765) polyprotein [Hum...   228  5e-59
+SEQ gi|2745830|gb|AAB94756.1| (AF039166) polyprotein capsid protein ...   228  5e-59
+SEQ gi|14139941|emb|CAC39010.1| (AJ295171) polyprotein [Human echovi...   228  5e-59
+SEQ gi|323433|gb|AAB59927.1| (M88483) polyprotein [Human coxsackievi...   228  5e-59
+SEQ gi|9626680|ref|NP_040959.1| polyprotein [Human coxsackievirus B3...   228  6e-59
+SEQ gi|14139943|emb|CAC39011.1| (AJ295172) polyprotein [Human echovi...   228  6e-59
+SEQ gi|130416|sp|P03313|POLG_CXB3N GENOME POLYPROTEIN [CONTAINS: COA...   228  7e-59
+SEQ gi|10863163|gb|AAG23919.1|AF231764_1 (AF231764) polyprotein [Hum...   228  7e-59
+SEQ gi|10863167|gb|AAG23921.1|AF231766_1 (AF231766) polyprotein caps...   228  7e-59
+SEQ gi|13311205|gb|AAK18715.1|AF241363_1 (AF241363) polyprotein [ent...   228  7e-59
+SEQ gi|7264731|gb|AAF44331.1|AF233373_1 (AF233373) polyprotein [Huma...   228  8e-59
+SEQ gi|4581993|emb|CAB40216.1| (AJ133661) polyprotein [Human echovir...   228  8e-59
+SEQ gi|2326876|emb|CAA74812.1| (Y14464) VP1 [Swine vesicular disease...   228  8e-59
+SEQ gi|4336318|gb|AAD17748.1| (AF081344) capsid protein VP1 [Human e...   227  1e-58
+SEQ gi|5823855|emb|CAB53962.1| (AJ241446) capsid protein [Human echo...   227  1e-58
+SEQ gi|5901759|gb|AAD55400.1|AF179613_1 (AF179613) polyprotein [Huma...   227  1e-58
+SEQ gi|4336320|gb|AAD17750.1| (AF081346) capsid protein VP1 [Human e...   227  1e-58
+SEQ gi|5823864|emb|CAB53947.1| (AJ241434) capsid protein [Human echo...   227  2e-58
+SEQ gi|9632977|ref|NP_050004.1| polyprotein [Human echovirus 30] >gi...   226  2e-58
+SEQ gi|4336293|gb|AAD17723.1| (AF081319) capsid protein VP1 [Human e...   226  3e-58
+SEQ gi|5823853|emb|CAB53965.1| (AJ241445) capsid protein [Human echo...   226  3e-58
+SEQ gi|4033538|emb|CAA10383.1| (AJ131523) polyprotein [Human echovir...   226  3e-58
+SEQ gi|14139965|emb|CAC39019.1| (AJ295185) polyprotein [Human echovi...   226  4e-58
+SEQ gi|4336310|gb|AAD17740.1| (AF081336) capsid protein VP1 [Human e...   226  4e-58
+SEQ gi|4336319|gb|AAD17749.1| (AF081345) capsid protein VP1 [Human e...   226  4e-58
+SEQ gi|5823777|emb|CAB53935.1| (AJ241440) capsid protein [Human echo...   225  4e-58
+SEQ gi|4581995|emb|CAB40217.1| (AJ133662) polyprotein [Human echovir...   225  4e-58
+SEQ gi|4539510|emb|CAA62258.2| (X90723) polyprotein [Human echovirus...   225  4e-58
+SEQ gi|1421061|pdb|1COV|1 Chain 1, Coxsackievirus B3 Coat Protein         225  5e-58
+SEQ gi|4336313|gb|AAD17743.1| (AF081339) capsid protein VP1 [Human e...   225  5e-58
+SEQ gi|4336300|gb|AAD17730.1| (AF081326) capsid protein VP1 [Human e...   225  5e-58
+SEQ gi|5823845|emb|CAB53964.1| (AJ241424) capsid protein [Human echo...   225  5e-58
+SEQ gi|4336292|gb|AAD17722.1| (AF081318) capsid protein VP1 [Human e...   225  6e-58
+SEQ gi|4336290|gb|AAD17720.1| (AF081316) capsid protein VP1 [Human e...   225  6e-58
+SEQ gi|5739379|gb|AAD50446.1| (AF169026) polyprotein [Human coxsacki...   225  7e-58
+SEQ gi|5823773|emb|CAB53942.1| (AJ241431) capsid protein [Human echo...   225  8e-58
+SEQ gi|4336286|gb|AAD17716.1| (AF081312) capsid protein VP1 [Human c...   225  8e-58
+SEQ gi|2326896|emb|CAA74822.1| (Y14474) VP1 [Swine vesicular disease...   225  8e-58
+SEQ gi|5823874|emb|CAB53943.1| (AJ241442) capsid protein [Human echo...   224  8e-58
+SEQ gi|5823771|emb|CAB53940.1| (AJ241430) capsid protein [Human echo...   224  1e-57
+SEQ gi|6093757|sp|Q86887|POLG_CXB4E GENOME POLYPROTEIN [CONTAINS: CO...   224  1e-57
+SEQ gi|4689236|gb|AAD27821.1|AF121268_1 (AF121268) capsid protein VP...   223  2e-57
+SEQ gi|323428|gb|AAA42933.1| (M21949) polyprotein [Human coxsackievi...   223  2e-57
+SEQ gi|4336307|gb|AAD17737.1| (AF081333) capsid protein VP1 [Human e...   223  2e-57
+SEQ gi|2326880|emb|CAA74814.1| (Y14466) VP1 [Swine vesicular disease...   223  2e-57
+SEQ gi|5823857|emb|CAB53969.1| (AJ241447) capsid protein [Human echo...   223  2e-57
+SEQ gi|4336301|gb|AAD17731.1| (AF081327) capsid protein VP1 [Human e...   223  2e-57
+SEQ gi|4336296|gb|AAD17726.1| (AF081322) capsid protein VP1 [Human e...   223  2e-57
+SEQ gi|5823765|emb|CAB53937.1| (AJ241427) capsid protein [Human echo...   223  3e-57
+SEQ gi|14140012|emb|CAC38994.1| (AJ295209) polyprotein [Echovirus sp.]    223  3e-57
+SEQ gi|6578448|gb|AAF17836.1|AF128078_1 (AF128078) VP1 [Human echovi...   223  3e-57
+SEQ gi|6578395|gb|AAF17783.1|AF128025_1 (AF128025) VP1 [Human echovi...   223  3e-57
+SEQ gi|6578460|gb|AAF17848.1|AF128090_1 (AF128090) VP1 [Human echovi...   222  3e-57
+SEQ gi|6578440|gb|AAF17828.1|AF128070_1 (AF128070) VP1 [Human echovi...   222  4e-57
+SEQ gi|6578447|gb|AAF17835.1|AF128077_1 (AF128077) VP1 [Human echovi...   222  4e-57
+SEQ gi|6580913|gb|AAF18348.1|AF152869_1 (AF152869) capsid protein VP...   222  4e-57
+SEQ gi|3914380|sp|Q82081|POLG_HRV3 GENOME POLYPROTEIN [CONTAINS: COA...   222  4e-57
+SEQ gi|6580910|gb|AAF18345.1|AF152866_1 (AF152866) capsid protein VP...   222  4e-57
+SEQ gi|6580918|gb|AAF18353.1|AF152874_1 (AF152874) capsid protein VP...   222  4e-57
+SEQ gi|6580929|gb|AAF18364.1|AF152885_1 (AF152885) capsid protein VP...   222  5e-57
+SEQ gi|6578455|gb|AAF17843.1|AF128085_1 (AF128085) VP1 [Human echovi...   222  5e-57
+SEQ gi|6578389|gb|AAF17777.1|AF128019_1 (AF128019) VP1 [Human echovi...   222  5e-57
+SEQ gi|13661315|gb|AAK37859.1| (AF236536) VP1 [Human echovirus 30]        222  5e-57
+SEQ gi|6578438|gb|AAF17826.1|AF128068_1 (AF128068) VP1 [Human echovi...   222  5e-57
+SEQ gi|6580930|gb|AAF18365.1|AF152886_1 (AF152886) capsid protein VP...   222  5e-57
+SEQ gi|6578363|gb|AAF17751.1|AF127993_1 (AF127993) VP1 [Human echovi...   222  5e-57
+SEQ gi|6580931|gb|AAF18366.1|AF152887_1 (AF152887) capsid protein VP...   222  5e-57
+SEQ gi|6578441|gb|AAF17829.1|AF128071_1 (AF128071) VP1 [Human echovi...   222  5e-57
+SEQ gi|13661353|gb|AAK37878.1| (AF236555) VP1 [Human echovirus 30]        221  6e-57
+SEQ gi|6578430|gb|AAF17818.1|AF128060_1 (AF128060) VP1 [Human echovi...   221  6e-57
+SEQ gi|13661301|gb|AAK37852.1| (AF236529) VP1 [Human echovirus 30]        221  6e-57
+SEQ gi|6580912|gb|AAF18347.1|AF152868_1 (AF152868) capsid protein VP...   221  6e-57
+SEQ gi|6578446|gb|AAF17834.1|AF128076_1 (AF128076) VP1 [Human echovi...   221  6e-57
+SEQ gi|4336298|gb|AAD17728.1| (AF081324) capsid protein VP1 [Human e...   221  6e-57
+SEQ gi|6578453|gb|AAF17841.1|AF128083_1 (AF128083) VP1 [Human echovi...   221  6e-57
+SEQ gi|6578459|gb|AAF17847.1|AF128089_1 (AF128089) VP1 [Human echovi...   221  6e-57
+SEQ gi|13661325|gb|AAK37864.1| (AF236541) VP1 [Human echovirus 30]        221  7e-57
+SEQ gi|6578368|gb|AAF17756.1|AF127998_1 (AF127998) VP1 [Human echovi...   221  7e-57
+SEQ gi|13661349|gb|AAK37876.1| (AF236553) VP1 [Human echovirus 30] >...   221  7e-57
+SEQ gi|13661401|gb|AAK37902.1| (AF236579) VP1 [Human echovirus 30]        221  7e-57
+SEQ gi|6580927|gb|AAF18362.1|AF152883_1 (AF152883) capsid protein VP...   221  7e-57
+SEQ gi|6578362|gb|AAF17750.1|AF127992_1 (AF127992) VP1 [Human echovi...   221  7e-57
+SEQ gi|13661277|gb|AAK37840.1| (AF236517) VP1 [Human echovirus 30]        221  7e-57
+SEQ gi|2326910|emb|CAA74829.1| (Y14481) VP1 [Swine vesicular disease...   221  7e-57
+SEQ gi|6578425|gb|AAF17813.1|AF128055_1 (AF128055) VP1 [Human echovi...   221  8e-57
+SEQ gi|6578400|gb|AAF17788.1|AF128030_1 (AF128030) VP1 [Human echovi...   221  8e-57
+SEQ gi|13661393|gb|AAK37898.1| (AF236575) VP1 [Human echovirus 30]        221  8e-57
+SEQ gi|13661363|gb|AAK37883.1| (AF236560) VP1 [Human echovirus 30]        221  8e-57
+SEQ gi|4336314|gb|AAD17744.1| (AF081340) capsid protein VP1 [Human e...   221  8e-57
+SEQ gi|6578354|gb|AAF17742.1|AF127984_1 (AF127984) VP1 [Human echovi...   221  8e-57
+SEQ gi|6578431|gb|AAF17819.1|AF128061_1 (AF128061) VP1 [Human echovi...   221  8e-57
+SEQ gi|7320840|emb|CAB81944.1| (AJ276626) capsid polypeptide [Human ...   221  8e-57
+SEQ gi|13661389|gb|AAK37896.1| (AF236573) VP1 [Human echovirus 30]        221  9e-57
+SEQ gi|6578376|gb|AAF17764.1|AF128006_1 (AF128006) VP1 [Human echovi...   221  9e-57
+SEQ gi|6578442|gb|AAF17830.1|AF128072_1 (AF128072) VP1 [Human echovi...   221  9e-57
+SEQ gi|6580922|gb|AAF18357.1|AF152878_1 (AF152878) capsid protein VP...   221  9e-57
+SEQ gi|6578391|gb|AAF17779.1|AF128021_1 (AF128021) VP1 [Human echovi...   221  9e-57
+SEQ gi|6578456|gb|AAF17844.1|AF128086_1 (AF128086) VP1 [Human echovi...   221  9e-57
+SEQ gi|13661375|gb|AAK37889.1| (AF236566) VP1 [Human echovirus 30] >...   221  1e-56
+SEQ gi|6580920|gb|AAF18355.1|AF152876_1 (AF152876) capsid protein VP...   221  1e-56
+SEQ gi|6580914|gb|AAF18349.1|AF152870_1 (AF152870) capsid protein VP...   221  1e-56
+SEQ gi|5823882|emb|CAB53952.1| (AJ241449) capsid protein [Human echo...   221  1e-56
+SEQ gi|6578364|gb|AAF17752.1|AF127994_1 (AF127994) VP1 [Human echovi...   221  1e-56
+SEQ gi|13661379|gb|AAK37891.1| (AF236568) VP1 [Human echovirus 30] >...   221  1e-56
+SEQ gi|13661387|gb|AAK37895.1| (AF236572) VP1 [Human echovirus 30]        221  1e-56
+SEQ gi|2326898|emb|CAA74823.1| (Y14475) VP1 [Swine vesicular disease...   221  1e-56
+SEQ gi|5823888|emb|CAB53955.1| (AJ241452) capsid protein [Human echo...   221  1e-56
+SEQ gi|6578366|gb|AAF17754.1|AF127996_1 (AF127996) VP1 [Human echovi...   221  1e-56
+SEQ gi|6578437|gb|AAF17825.1|AF128067_1 (AF128067) VP1 [Human echovi...   221  1e-56
+SEQ gi|4581987|emb|CAB40213.1| (AJ133658) capsid protein [Human echo...   221  1e-56
+SEQ gi|13661321|gb|AAK37862.1| (AF236539) VP1 [Human echovirus 30]        221  1e-56
+SEQ gi|13661291|gb|AAK37847.1| (AF236524) VP1 [Human echovirus 30]        221  1e-56
+SEQ gi|6578439|gb|AAF17827.1|AF128069_1 (AF128069) VP1 [Human echovi...   221  1e-56
+SEQ gi|6580911|gb|AAF18346.1|AF152867_1 (AF152867) capsid protein VP...   221  1e-56
+SEQ gi|6578454|gb|AAF17842.1|AF128084_1 (AF128084) VP1 [Human echovi...   221  1e-56
+SEQ gi|14139948|emb|CAC39013.1| (AJ295175) polyprotein [Human echovi...   221  1e-56
+SEQ gi|13661285|gb|AAK37844.1| (AF236521) VP1 [Human echovirus 30]        221  1e-56
+SEQ gi|13661399|gb|AAK37901.1| (AF236578) VP1 [Human echovirus 30]        221  1e-56
+SEQ gi|13661357|gb|AAK37880.1| (AF236557) VP1 [Human echovirus 30]        221  1e-56
+SEQ gi|13661329|gb|AAK37866.1| (AF236543) VP1 [Human echovirus 30] >...   221  1e-56
+SEQ gi|6580934|gb|AAF18369.1|AF152890_1 (AF152890) capsid protein VP...   220  1e-56
+SEQ gi|13661287|gb|AAK37845.1| (AF236522) VP1 [Human echovirus 30]        220  1e-56
+SEQ gi|6578405|gb|AAF17793.1|AF128035_1 (AF128035) VP1 [Human echovi...   220  1e-56
+SEQ gi|5823775|emb|CAB53941.1| (AJ241438) capsid protein [Human echo...   220  1e-56
+SEQ gi|5823849|emb|CAB53968.1| (AJ241426) capsid protein [Human echo...   220  1e-56
+SEQ gi|6578369|gb|AAF17757.1|AF127999_1 (AF127999) VP1 [Human echovi...   220  1e-56
+SEQ gi|6578392|gb|AAF17780.1|AF128022_1 (AF128022) VP1 [Human echovi...   220  1e-56
+SEQ gi|7263899|emb|CAB81766.1| (AJ276815) capsid protein [Human echo...   220  1e-56
+SEQ gi|6578360|gb|AAF17748.1|AF127990_1 (AF127990) VP1 [Human echovi...   220  1e-56
+SEQ gi|6578449|gb|AAF17837.1|AF128079_1 (AF128079) VP1 [Human echovi...   220  1e-56
+SEQ gi|13661397|gb|AAK37900.1| (AF236577) VP1 [Human echovirus 30]        220  1e-56
+SEQ gi|6578410|gb|AAF17798.1|AF128040_1 (AF128040) VP1 [Human echovi...   220  1e-56
+SEQ gi|5823880|emb|CAB53951.1| (AJ241448) capsid protein [Human echo...   220  2e-56
+SEQ gi|4581983|emb|CAB40211.1| (AJ133656) capsid protein [Human echo...   220  2e-56
+SEQ gi|13661323|gb|AAK37863.1| (AF236540) VP1 [Human echovirus 30]        220  2e-56
+SEQ gi|6578451|gb|AAF17839.1|AF128081_1 (AF128081) VP1 [Human echovi...   220  2e-56
+SEQ gi|6578382|gb|AAF17770.1|AF128012_1 (AF128012) VP1 [Human echovi...   220  2e-56
+SEQ gi|6578393|gb|AAF17781.1|AF128023_1 (AF128023) VP1 [Human echovi...   220  2e-56
+SEQ gi|6580915|gb|AAF18350.1|AF152871_1 (AF152871) capsid protein VP...   220  2e-56
+SEQ gi|13661345|gb|AAK37874.1| (AF236551) VP1 [Human echovirus 30]        220  2e-56
+SEQ gi|6578428|gb|AAF17816.1|AF128058_1 (AF128058) VP1 [Human echovi...   220  2e-56
+SEQ gi|13661283|gb|AAK37843.1| (AF236520) VP1 [Human echovirus 30]        220  2e-56
+SEQ gi|5823890|emb|CAB53956.1| (AJ241453) capsid protein [Human echo...   220  2e-56
+SEQ gi|13661327|gb|AAK37865.1| (AF236542) VP1 [Human echovirus 30]        220  2e-56
+SEQ gi|13661293|gb|AAK37848.1| (AF236525) VP1 [Human echovirus 30]        220  2e-56
+SEQ gi|14140017|emb|CAC38990.1| (AJ295212) polyprotein [Human echovi...   220  2e-56
+SEQ gi|6578458|gb|AAF17846.1|AF128088_1 (AF128088) VP1 [Human echovi...   220  2e-56
+SEQ gi|13661307|gb|AAK37855.1| (AF236532) VP1 [Human echovirus 30]        220  2e-56
+SEQ gi|13661365|gb|AAK37884.1| (AF236561) VP1 [Human echovirus 30]        220  2e-56
+SEQ gi|6578371|gb|AAF17759.1|AF128001_1 (AF128001) VP1 [Human echovi...   220  2e-56
+SEQ gi|6580926|gb|AAF18361.1|AF152882_1 (AF152882) capsid protein VP...   220  2e-56
+SEQ gi|6578444|gb|AAF17832.1|AF128074_1 (AF128074) VP1 [Human echovi...   220  2e-56
+SEQ gi|6580933|gb|AAF18368.1|AF152889_1 (AF152889) capsid protein VP...   220  2e-56
+SEQ gi|6578424|gb|AAF17812.1|AF128054_1 (AF128054) VP1 [Human echovi...   220  2e-56
+SEQ gi|6578452|gb|AAF17840.1|AF128082_1 (AF128082) VP1 [Human echovi...   220  2e-56
+SEQ gi|6578408|gb|AAF17796.1|AF128038_1 (AF128038) VP1 [Human echovi...   220  2e-56
+SEQ gi|6578372|gb|AAF17760.1|AF128002_1 (AF128002) VP1 [Human echovi...   220  2e-56
+SEQ gi|13661305|gb|AAK37854.1| (AF236531) VP1 [Human echovirus 30]        220  2e-56
+SEQ gi|6578361|gb|AAF17749.1|AF127991_1 (AF127991) VP1 [Human echovi...   220  2e-56
+SEQ gi|13661395|gb|AAK37899.1| (AF236576) VP1 [Human echovirus 30]        220  2e-56
+SEQ gi|13661311|gb|AAK37857.1| (AF236534) VP1 [Human echovirus 30]        220  2e-56
+SEQ gi|4581985|emb|CAB40212.1| (AJ133657) capsid protein [Human echo...   220  2e-56
+SEQ gi|6578399|gb|AAF17787.1|AF128029_1 (AF128029) VP1 [Human echovi...   220  2e-56
+SEQ gi|13661339|gb|AAK37871.1| (AF236548) VP1 [Human echovirus 30]        220  2e-56
+SEQ gi|5823870|emb|CAB53948.1| (AJ241439) capsid protein [Human echo...   220  2e-56
+SEQ gi|1942026|pdb|1RHI|1 Chain 1, Human Rhinovirus 3 Coat Protein        220  2e-56
+SEQ gi|6578406|gb|AAF17794.1|AF128036_1 (AF128036) VP1 [Human echovi...   220  2e-56
+SEQ gi|6580924|gb|AAF18359.1|AF152880_1 (AF152880) capsid protein VP...   220  2e-56
+SEQ gi|6580932|gb|AAF18367.1|AF152888_1 (AF152888) capsid protein VP...   220  3e-56
+SEQ gi|6578358|gb|AAF17746.1|AF127988_1 (AF127988) VP1 [Human echovi...   220  3e-56
+SEQ gi|6578421|gb|AAF17809.1|AF128051_1 (AF128051) VP1 [Human echovi...   220  3e-56
+SEQ gi|6578370|gb|AAF17758.1|AF128000_1 (AF128000) VP1 [Human echovi...   220  3e-56
+SEQ gi|13661281|gb|AAK37842.1| (AF236519) VP1 [Human echovirus 30]        220  3e-56
+SEQ gi|13661317|gb|AAK37860.1| (AF236537) VP1 [Human echovirus 30] >...   219  3e-56
+SEQ gi|6578380|gb|AAF17768.1|AF128010_1 (AF128010) VP1 [Human echovi...   219  3e-56
+SEQ gi|6580925|gb|AAF18360.1|AF152881_1 (AF152881) capsid protein VP...   219  3e-56
+SEQ gi|13661309|gb|AAK37856.1| (AF236533) VP1 [Human echovirus 30]        219  3e-56
+SEQ gi|7248615|gb|AAF43593.1|AF152298_1 (AF152298) capsid protein VP...   219  3e-56
+SEQ gi|6578450|gb|AAF17838.1|AF128080_1 (AF128080) VP1 [Human echovi...   219  3e-56
+SEQ gi|6578355|gb|AAF17743.1|AF127985_1 (AF127985) VP1 [Human echovi...   219  3e-56
+SEQ gi|6578429|gb|AAF17817.1|AF128059_1 (AF128059) VP1 [Human echovi...   219  3e-56
+SEQ gi|6578356|gb|AAF17744.1|AF127986_1 (AF127986) VP1 [Human echovi...   219  3e-56
+SEQ gi|6578457|gb|AAF17845.1|AF128087_1 (AF128087) VP1 [Human echovi...   219  3e-56
+SEQ gi|5823862|emb|CAB53946.1| (AJ241433) capsid protein [Human echo...   219  3e-56
+SEQ gi|6578412|gb|AAF17800.1|AF128042_1 (AF128042) VP1 [Human echovi...   219  3e-56
+SEQ gi|7320836|emb|CAB81942.1| (AJ276624) capsid polypeptide [Human ...   219  3e-56
+SEQ gi|4336315|gb|AAD17745.1| (AF081341) capsid protein VP1 [Human e...   219  3e-56
+SEQ gi|6578417|gb|AAF17805.1|AF128047_1 (AF128047) VP1 [Human echovi...   219  3e-56
+SEQ gi|13661289|gb|AAK37846.1| (AF236523) VP1 [Human echovirus 30]        219  3e-56
+SEQ gi|6578384|gb|AAF17772.1|AF128014_1 (AF128014) VP1 [Human echovi...   219  4e-56
+SEQ gi|13661295|gb|AAK37849.1| (AF236526) VP1 [Human echovirus 30]        219  4e-56
+SEQ gi|6578420|gb|AAF17808.1|AF128050_1 (AF128050) VP1 [Human echovi...   219  4e-56
+SEQ gi|4336317|gb|AAD17747.1| (AF081343) capsid protein VP1 [Human e...   219  4e-56
+SEQ gi|13661391|gb|AAK37897.1| (AF236574) VP1 [Human echovirus 30]        219  4e-56
+SEQ gi|6578353|gb|AAF17741.1|AF127983_1 (AF127983) VP1 [Human echovi...   219  4e-56
+SEQ gi|2326928|emb|CAA74856.1| (Y14516) VP1 [Swine vesicular disease...   219  4e-56
+SEQ gi|6578404|gb|AAF17792.1|AF128034_1 (AF128034) VP1 [Human echovi...   219  4e-56
+SEQ gi|6580917|gb|AAF18352.1|AF152873_1 (AF152873) capsid protein VP...   219  4e-56
+SEQ gi|13661367|gb|AAK37885.1| (AF236562) VP1 [Human echovirus 30]        219  4e-56
+SEQ gi|6580916|gb|AAF18351.1|AF152872_1 (AF152872) capsid protein VP...   219  5e-56
+SEQ gi|4336311|gb|AAD17741.1| (AF081337) capsid protein VP1 [Human e...   218  5e-56
+SEQ gi|6578378|gb|AAF17766.1|AF128008_1 (AF128008) VP1 [Human echovi...   218  5e-56
+SEQ gi|6580923|gb|AAF18358.1|AF152879_1 (AF152879) capsid protein VP...   218  5e-56
+SEQ gi|6578413|gb|AAF17801.1|AF128043_1 (AF128043) VP1 [Human echovi...   218  5e-56
+SEQ gi|6578388|gb|AAF17776.1|AF128018_1 (AF128018) VP1 [Human echovi...   218  5e-56
+SEQ gi|5823878|emb|CAB53950.1| (AJ241444) capsid protein [Human echo...   218  6e-56
+SEQ gi|6580919|gb|AAF18354.1|AF152875_1 (AF152875) capsid protein VP...   218  6e-56
+SEQ gi|6578443|gb|AAF17831.1|AF128073_1 (AF128073) VP1 [Human echovi...   218  6e-56
+SEQ gi|6578445|gb|AAF17833.1|AF128075_1 (AF128075) VP1 [Human echovi...   218  6e-56
+SEQ gi|13661279|gb|AAK37841.1| (AF236518) VP1 [Human echovirus 30]        218  6e-56
+SEQ gi|6578416|gb|AAF17804.1|AF128046_1 (AF128046) VP1 [Human echovi...   218  6e-56
+SEQ gi|6578398|gb|AAF17786.1|AF128028_1 (AF128028) VP1 [Human echovi...   218  6e-56
+SEQ gi|4336306|gb|AAD17736.1| (AF081332) capsid protein VP1 [Human e...   218  6e-56
+SEQ gi|13661373|gb|AAK37888.1| (AF236565) VP1 [Human echovirus 30]        218  7e-56
+SEQ gi|7263893|emb|CAB81763.1| (AJ276812) capsid protein [Human echo...   218  7e-56
+SEQ gi|4336316|gb|AAD17746.1| (AF081342) capsid protein VP1 [Human e...   218  7e-56
+SEQ gi|5823886|emb|CAB53954.1| (AJ241451) capsid protein [Human echo...   218  7e-56
+SEQ gi|13661335|gb|AAK37869.1| (AF236546) VP1 [Human echovirus 30]        218  7e-56
+SEQ gi|6578414|gb|AAF17802.1|AF128044_1 (AF128044) VP1 [Human echovi...   218  7e-56
+SEQ gi|13661361|gb|AAK37882.1| (AF236559) VP1 [Human echovirus 30]        218  8e-56
+SEQ gi|6578423|gb|AAF17811.1|AF128053_1 (AF128053) VP1 [Human echovi...   218  8e-56
+SEQ gi|6578435|gb|AAF17823.1|AF128065_1 (AF128065) VP1 [Human echovi...   218  8e-56
+SEQ gi|6578426|gb|AAF17814.1|AF128056_1 (AF128056) VP1 [Human echovi...   218  9e-56
+SEQ gi|5823860|emb|CAB53945.1| (AJ241432) capsid protein [Human echo...   218  9e-56
+SEQ gi|6580921|gb|AAF18356.1|AF152877_1 (AF152877) capsid protein VP...   218  1e-55
+SEQ gi|6580935|gb|AAF18370.1|AF152891_1 (AF152891) capsid protein VP...   217  1e-55
+SEQ gi|6580928|gb|AAF18363.1|AF152884_1 (AF152884) capsid protein VP...   217  1e-55
+SEQ gi|6578407|gb|AAF17795.1|AF128037_1 (AF128037) VP1 [Human echovi...   217  1e-55
+SEQ gi|6578402|gb|AAF17790.1|AF128032_1 (AF128032) VP1 [Human echovi...   217  1e-55
+SEQ gi|6578422|gb|AAF17810.1|AF128052_1 (AF128052) VP1 [Human echovi...   217  2e-55
+SEQ gi|6578397|gb|AAF17785.1|AF128027_1 (AF128027) VP1 [Human echovi...   217  2e-55
+SEQ gi|9716504|gb|AAF97521.1| (AF252165) capsid protein VP1 [Human p...   216  2e-55
+SEQ gi|7263895|emb|CAB81764.1| (AJ276813) capsid protein [Human echo...   216  2e-55
+SEQ gi|2326894|emb|CAA74821.1| (Y14473) VP1 [Swine vesicular disease...   216  3e-55
+SEQ gi|6578415|gb|AAF17803.1|AF128045_1 (AF128045) VP1 [Human echovi...   216  4e-55
+SEQ gi|2326884|emb|CAA74816.1| (Y14468) VP1 [Swine vesicular disease...   216  4e-55
+SEQ gi|4336309|gb|AAD17739.1| (AF081335) capsid protein VP1 [Human e...   215  4e-55
+SEQ gi|9626736|ref|NP_041009.1| polyprotein [Human rhinovirus 14] >g...   215  6e-55
+SEQ gi|9626678|ref|NP_040958.1| coxsackievirus B1 polyprotein [Human...   215  7e-55
+SEQ gi|7263897|emb|CAB81765.1| (AJ276814) capsid protein [Human echo...   215  8e-55
+SEQ gi|6578411|gb|AAF17799.1|AF128041_1 (AF128041) VP1 [Human echovi...   214  1e-54
+SEQ gi|7248565|gb|AAF43568.1|AF152273_1 (AF152273) capsid protein VP...   212  4e-54
+SEQ gi|7248607|gb|AAF43589.1|AF152294_1 (AF152294) capsid protein VP...   212  5e-54
+SEQ gi|5823843|emb|CAB53961.1| (AJ241423) capsid protein [Human echo...   211  8e-54
+SEQ gi|2326900|emb|CAA74824.1| (Y14476) VP1 [Swine vesicular disease...   205  8e-52
+SEQ gi|5823769|emb|CAB53939.1| (AJ241429) capsid protein [Human echo...   205  9e-52
+SEQ gi|14009432|dbj|BAB47385.1| (AB061303) VP3-VP1 capsid protein [H...   204  1e-51
+SEQ gi|14009434|dbj|BAB47386.1| (AB061304) VP3-VP1 capsid protein [H...   204  1e-51
+SEQ gi|14009430|dbj|BAB47384.1| (AB061302) VP3-VP1 capsid protein [H...   203  3e-51
+SEQ gi|14020939|dbj|BAB47581.1| (AB061353) VP3-VP1 capsid protein [H...   203  3e-51
+SEQ gi|14009428|dbj|BAB47383.1| (AB061301) VP3-VP1 capsid protein [H...   203  3e-51
+SEQ gi|9627731|ref|NP_042288.1| HRV89 polyprotein precursor [Human r...   201  9e-51
+SEQ gi|14020937|dbj|BAB47580.1| (AB061352) VP3-VP1 capsid protein [H...   200  2e-50
+SEQ gi|14020933|dbj|BAB47578.1| (AB061350) VP3-VP1 capsid protein [H...   200  2e-50
+SEQ gi|2326878|emb|CAA74813.1| (Y14465) VP1 [Swine vesicular disease...   197  2e-49
+SEQ gi|2326892|emb|CAA74820.1| (Y14472) VP1 [Swine vesicular disease...   194  1e-48
+SEQ gi|9211054|gb|AAF85765.1|AF201894_1 (AF201894) A2 polyprotein [A...   193  2e-48
+SEQ gi|4378678|gb|AAD19619.1| (AF107283) polyprotein [Human echoviru...   192  4e-48
+SEQ gi|4378676|gb|AAD19618.1| (AF107282) polyprotein [Human echoviru...   190  2e-47
+SEQ gi|5163042|gb|AAD40507.1| (AF081603) VP1 [Human coxsackievirus A24]   190  2e-47
+SEQ gi|563968|dbj|BAA04526.1| (D17606) major capsid protein VP1 [Ent...   190  2e-47
+SEQ gi|563961|dbj|BAA04519.1| (D17599) major capsid protein VP1 [Ent...   190  2e-47
+SEQ gi|563963|dbj|BAA04521.1| (D17601) major capsid protein VP1 [Ent...   190  2e-47
+SEQ gi|563967|dbj|BAA04525.1| (D17605) major capsid protein VP1 [Ent...   189  4e-47
+SEQ gi|563971|dbj|BAA04529.1| (D17609) major capsid protein VP1 [Ent...   189  5e-47
+SEQ gi|563959|dbj|BAA04517.1| (D17597) major capsid protein VP1 [Ent...   188  6e-47
+SEQ gi|563973|dbj|BAA04531.1| (D17611) major capsid protein VP1 [Ent...   188  6e-47
+SEQ gi|563969|dbj|BAA04527.1| (D17607) major capsid protein VP1 [Ent...   188  6e-47
+SEQ gi|563962|dbj|BAA04520.1| (D17600) major capsid protein VP1 [Ent...   188  7e-47
+SEQ gi|563958|dbj|BAA04516.1| (D17596) major capsid protein VP1 [Ent...   188  9e-47
+SEQ gi|563957|dbj|BAA04515.1| (D17595) major capsid protein VP1 [Ent...   188  1e-46
+SEQ gi|13160891|gb|AAK13401.1|AF295513_1 (AF295513) VP1 [Human echov...   188  1e-46
+SEQ gi|4336322|gb|AAD17752.1| (AF081348) capsid protein VP1 [Enterov...   188  1e-46
+SEQ gi|9629177|ref|NP_044339.1| polyprotein [Human rhinovirus 16] >g...   188  1e-46
+SEQ gi|3915817|sp|Q82122|POLG_HRV16 GENOME POLYPROTEIN [CONTAINS: CO...   188  1e-46
+SEQ gi|9626452|ref|NP_040762.1| polyprotein precursor [Human rhinovi...   187  1e-46
+SEQ gi|74432|pir||GNNYH2 genome polyprotein - human rhinovirus 2          187  1e-46
+SEQ gi|130487|sp|P04936|POLG_HRV2 GENOME POLYPROTEIN [CONTAINS: COAT...   187  1e-46
+SEQ gi|10835727|pdb|1FPN|1 Chain 1, Human Rhinovirus Serotype 2 (Hrv2)    187  1e-46
+SEQ gi|130485|sp||POLG_HRV1A_2 [Segment 2 of 2] GENOME POLYPROTEIN [...   187  2e-46
+SEQ gi|230275|pdb|1R1A|1 Chain 1, Rhinovirus Serotype 1 (HRV1) Coat ...   187  2e-46
+SEQ gi|563970|dbj|BAA04528.1| (D17608) major capsid protein VP1 [Ent...   186  3e-46
+SEQ gi|9626437|ref|NP_040760.1| polyprotein [Enterovirus 70] >gi|117...   186  3e-46
+SEQ gi|320009|pir||GNNYE7 genome polyprotein - human enterovirus 70 ...   186  3e-46
+SEQ gi|11513465|pdb|1C8M|1 Chain 1, Refined Crystal Structure Of Hum...   186  4e-46
+SEQ gi|563964|dbj|BAA04522.1| (D17602) major capsid protein VP1 [Ent...   186  4e-46
+SEQ gi|6980415|pdb|1D3E|1 Chain 1, Cryo-Em Structure Of Human Rhinov...   185  4e-46
+SEQ gi|563974|dbj|BAA04532.1| (D17612) major capsid protein VP1 [Ent...   185  5e-46
+SEQ gi|563965|dbj|BAA04523.1| (D17603) major capsid protein VP1 [Ent...   185  7e-46
+SEQ gi|563960|dbj|BAA04518.1| (D17598) major capsid protein VP1 [Ent...   183  2e-45
+SEQ gi|10120226|emb|CAC08132.1| (AJ279182) polyprotein [Human coxsac...   183  2e-45
+SEQ gi|14009404|dbj|BAB47371.1| (AB061289) VP3-VP1 capsid protein [H...   181  8e-45
+SEQ gi|14009402|dbj|BAB47370.1| (AB061288) VP3-VP1 capsid protein [H...   181  1e-44
+SEQ gi|14009406|dbj|BAB47372.1| (AB061290) VP3-VP1 capsid protein [H...   180  2e-44
+SEQ gi|14009426|dbj|BAB47382.1| (AB061300) VP3-VP1 capsid protein [H...   180  2e-44
+SEQ gi|14009422|dbj|BAB47380.1| (AB061298) VP3-VP1 capsid protein [H...   179  4e-44
+SEQ gi|10120232|emb|CAC08131.1| (AJ279185) polyprotein [Human coxsac...   179  4e-44
+SEQ gi|14009408|dbj|BAB47373.1| (AB061291) VP3-VP1 capsid protein [H...   179  4e-44
+SEQ gi|14009416|dbj|BAB47377.1| (AB061295) VP3-VP1 capsid protein [H...   179  4e-44
+SEQ gi|14009424|dbj|BAB47381.1| (AB061299) VP3-VP1 capsid protein [H...   179  5e-44
+SEQ gi|14009412|dbj|BAB47375.1| (AB061293) VP3-VP1 capsid protein [H...   178  8e-44
+SEQ gi|7248619|gb|AAF43595.1|AF152300_1 (AF152300) capsid protein VP...   177  2e-43
+SEQ gi|5163037|gb|AAD40502.1| (AF081598) VP1 [Human coxsackievirus A...   176  2e-43
+SEQ gi|7248549|gb|AAF43560.1|AF152265_1 (AF152265) capsid protein VP...   176  3e-43
+SEQ gi|13160834|gb|AAK13381.1|AF295493_1 (AF295493) VP1 [Human echov...   176  3e-43
+SEQ gi|10120224|emb|CAC08130.1| (AJ279181) polyprotein [Human coxsac...   176  3e-43
+SEQ gi|13160674|gb|AAK13324.1|AF295436_1 (AF295436) VP1 [Human echov...   176  4e-43
+SEQ gi|10120220|emb|CAC08128.1| (AJ279179) polyprotein [Human coxsac...   176  4e-43
+SEQ gi|13160921|gb|AAK13412.1|AF295524_1 (AF295524) VP1 [Human echov...   175  7e-43
+SEQ gi|7248535|gb|AAF43553.1|AF152258_1 (AF152258) capsid protein VP...   174  8e-43
+SEQ gi|10120222|emb|CAC08129.1| (AJ279180) polyprotein [Human coxsac...   174  1e-42
+SEQ gi|13160911|gb|AAK13409.1|AF295521_1 (AF295521) VP1 [Human echov...   173  2e-42
+SEQ gi|13160848|gb|AAK13386.1|AF295498_1 (AF295498) VP1 [Human echov...   173  3e-42
+SEQ gi|13160701|gb|AAK13334.1|AF295446_1 (AF295446) VP1 [Human echov...   173  3e-42
+SEQ gi|13160886|gb|AAK13399.1|AF295511_1 (AF295511) VP1 [Human echov...   173  3e-42
+SEQ gi|2120040|pir||S45041 genome polyprotein - bovine enterovirus (...   172  4e-42
+SEQ gi|1093929|prf||2105169A capsid protein [Bovine enterovirus]          172  4e-42
+SEQ gi|13160791|gb|AAK13366.1|AF295478_1 (AF295478) VP1 [Human echov...   172  4e-42
+SEQ gi|13160756|gb|AAK13354.1|AF295466_1 (AF295466) VP1 [Human echov...   171  8e-42
+SEQ gi|13160927|gb|AAK13414.1|AF295526_1 (AF295526) VP1 [Enterovirus...   171  8e-42
+SEQ gi|13160804|gb|AAK13371.1|AF295483_1 (AF295483) VP1 [Human echov...   171  9e-42
+SEQ gi|13160773|gb|AAK13360.1|AF295472_1 (AF295472) VP1 [Human echov...   171  1e-41
+SEQ gi|13160751|gb|AAK13352.1|AF295464_1 (AF295464) VP1 [Human echov...   171  1e-41
+SEQ gi|13160816|gb|AAK13375.1|AF295487_1 (AF295487) VP1 [Human echov...   171  1e-41
+SEQ gi|9627720|ref|NP_042242.1| polyprotein [Human coxsackievirus A1...   171  1e-41
+SEQ gi|13160837|gb|AAK13382.1|AF295494_1 (AF295494) VP1 [Human echov...   171  1e-41
+SEQ gi|13160668|gb|AAK13322.1|AF295434_1 (AF295434) VP1 [Human echov...   171  1e-41
+SEQ gi|13160810|gb|AAK13373.1|AF295485_1 (AF295485) VP1 [Human echov...   170  2e-41
+SEQ gi|13160819|gb|AAK13376.1|AF295488_1 (AF295488) VP1 [Human echov...   170  2e-41
+SEQ gi|13160828|gb|AAK13379.1|AF295491_1 (AF295491) VP1 [Human coxsa...   170  2e-41
+SEQ gi|13160799|gb|AAK13369.1|AF295481_1 (AF295481) VP1 [Human echov...   170  2e-41
+SEQ gi|13160894|gb|AAK13402.1|AF295514_1 (AF295514) VP1 [Human echov...   170  2e-41
+SEQ gi|13160869|gb|AAK13393.1|AF295505_1 (AF295505) VP1 [Human echov...   170  2e-41
+SEQ gi|13160729|gb|AAK13344.1|AF295456_1 (AF295456) VP1 [Human echov...   170  2e-41
+SEQ gi|5881229|gb|AAD55085.1|AF177911_1 (AF177911) polyprotein [Huma...   169  3e-41
+SEQ gi|13160677|gb|AAK13325.1|AF295437_1 (AF295437) VP1 [Human echov...   169  3e-41
+SEQ gi|13160732|gb|AAK13345.1|AF295457_1 (AF295457) VP1 [Human echov...   169  3e-41
+SEQ gi|13160797|gb|AAK13368.1|AF295480_1 (AF295480) VP1 [Human echov...   169  3e-41
+SEQ gi|4336270|gb|AAD17700.1| (AF081296) capsid protein VP1 [Human c...   169  3e-41
+SEQ gi|13160671|gb|AAK13323.1|AF295435_1 (AF295435) VP1 [Human echov...   169  3e-41
+SEQ gi|13160743|gb|AAK13349.1|AF295461_1 (AF295461) VP1 [Human echov...   169  4e-41
+SEQ gi|13160872|gb|AAK13394.1|AF295506_1 (AF295506) VP1 [Human echov...   169  4e-41
+SEQ gi|13160707|gb|AAK13336.1|AF295448_1 (AF295448) VP1 [Human echov...   169  5e-41
+SEQ gi|13160782|gb|AAK13363.1|AF295475_1 (AF295475) VP1 [Human echov...   169  5e-41
+SEQ gi|13160881|gb|AAK13397.1|AF295509_1 (AF295509) VP1 [Human echov...   168  6e-41
+SEQ gi|13160735|gb|AAK13346.1|AF295458_1 (AF295458) VP1 [Human echov...   168  6e-41
+SEQ gi|13160843|gb|AAK13384.1|AF295496_1 (AF295496) VP1 [Human echov...   168  6e-41
+SEQ gi|13160726|gb|AAK13343.1|AF295455_1 (AF295455) VP1 [Human echov...   168  7e-41
+SEQ gi|13160712|gb|AAK13338.1|AF295450_1 (AF295450) VP1 [Human echov...   168  7e-41
+SEQ gi|13160685|gb|AAK13328.1|AF295440_1 (AF295440) VP1 [Human coxsa...   168  8e-41
+SEQ gi|13160788|gb|AAK13365.1|AF295477_1 (AF295477) VP1 [Human echov...   168  1e-40
+SEQ gi|13160693|gb|AAK13331.1|AF295443_1 (AF295443) VP1 [Human echov...   168  1e-40
+SEQ gi|13160909|gb|AAK13408.1|AF295520_1 (AF295520) VP1 [Human echov...   167  1e-40
+SEQ gi|13160813|gb|AAK13374.1|AF295486_1 (AF295486) VP1 [Human echov...   167  2e-40
+SEQ gi|13160845|gb|AAK13385.1|AF295497_1 (AF295497) VP1 [Human echov...   167  2e-40
+SEQ gi|13160720|gb|AAK13341.1|AF295453_1 (AF295453) VP1 [Human echov...   166  2e-40
+SEQ gi|13160753|gb|AAK13353.1|AF295465_1 (AF295465) VP1 [Human echov...   166  2e-40
+SEQ gi|13160680|gb|AAK13326.1|AF295438_1 (AF295438) VP1 [Human echov...   166  2e-40
+SEQ gi|13160690|gb|AAK13330.1|AF295442_1 (AF295442) VP1 [Human echov...   166  3e-40
+SEQ gi|10198654|gb|AAG15272.1| (L28146) capsid protein [Human coxsac...   166  3e-40
+SEQ gi|4336269|gb|AAD17699.1| (AF081295) capsid protein VP1 [Human c...   166  3e-40
+SEQ gi|13160688|gb|AAK13329.1|AF295441_1 (AF295441) VP1 [Human echov...   166  4e-40
+SEQ gi|13160802|gb|AAK13370.1|AF295482_1 (AF295482) VP1 [Human echov...   166  4e-40
+SEQ gi|4336274|gb|AAD17704.1| (AF081300) capsid protein VP1 [Human c...   166  4e-40
+SEQ gi|13160695|gb|AAK13332.1|AF295444_1 (AF295444) VP1 [Human echov...   166  4e-40
+SEQ gi|13160923|gb|AAK13413.1|AF295525_1 (AF295525) VP1 [Human echov...   165  6e-40
+SEQ gi|13160758|gb|AAK13355.1|AF295467_1 (AF295467) VP1 [Human echov...   165  6e-40
+SEQ gi|13160906|gb|AAK13407.1|AF295519_1 (AF295519) VP1 [Human echov...   165  6e-40
+SEQ gi|13160915|gb|AAK13410.1|AF295522_1 (AF295522) VP1 [Human echov...   165  7e-40
+SEQ gi|4336268|gb|AAD17698.1| (AF081294) capsid protein VP1 [Human c...   165  7e-40
+SEQ gi|4336272|gb|AAD17702.1| (AF081298) capsid protein VP1 [Human c...   165  7e-40
+SEQ gi|13160723|gb|AAK13342.1|AF295454_1 (AF295454) VP1 [Human echov...   165  7e-40
+SEQ gi|13160863|gb|AAK13391.1|AF295503_1 (AF295503) VP1 [Human echov...   165  7e-40
+SEQ gi|13160851|gb|AAK13387.1|AF295499_1 (AF295499) VP1 [Human echov...   164  9e-40
+SEQ gi|13160857|gb|AAK13389.1|AF295501_1 (AF295501) VP1 [Human echov...   164  9e-40
+SEQ gi|13160779|gb|AAK13362.1|AF295474_1 (AF295474) VP1 [Human echov...   164  9e-40
+SEQ gi|13160896|gb|AAK13403.1|AF295515_1 (AF295515) VP1 [Human echov...   164  9e-40
+SEQ gi|2120041|pir||S45042 genome polyprotein - bovine enterovirus (...   164  1e-39
+SEQ gi|1093930|prf||2105169B capsid protein [Bovine enterovirus]          164  1e-39
+SEQ gi|4336273|gb|AAD17703.1| (AF081299) capsid protein VP1 [Human c...   164  1e-39
+SEQ gi|13160860|gb|AAK13390.1|AF295502_1 (AF295502) VP1 [Human echov...   164  1e-39
+SEQ gi|13160715|gb|AAK13339.1|AF295451_1 (AF295451) VP1 [Human echov...   164  2e-39
+SEQ gi|13160745|gb|AAK13350.1|AF295462_1 (AF295462) VP1 [Human echov...   164  2e-39
+SEQ gi|265043|gb|AAB25284.1| VP1=capsid protein [coxsackievirus A2 C...   164  2e-39
+SEQ gi|13160698|gb|AAK13333.1|AF295445_1 (AF295445) VP1 [Human echov...   163  2e-39
+SEQ gi|13160901|gb|AAK13405.1|AF295517_1 (AF295517) VP1 [Human echov...   163  2e-39
+SEQ gi|13160899|gb|AAK13404.1|AF295516_1 (AF295516) VP1 [Human echov...   163  2e-39
+SEQ gi|13160831|gb|AAK13380.1|AF295492_1 (AF295492) VP1 [Human echov...   163  3e-39
+SEQ gi|13160917|gb|AAK13411.1|AF295523_1 (AF295523) VP1 [Human echov...   163  3e-39
+SEQ gi|4336278|gb|AAD17708.1| (AF081304) capsid protein VP1 [Human c...   163  4e-39
+SEQ gi|13160878|gb|AAK13396.1|AF295508_1 (AF295508) VP1 [Human echov...   162  4e-39
+SEQ gi|13160884|gb|AAK13398.1|AF295510_1 (AF295510) VP1 [Human echov...   162  6e-39
+SEQ gi|4336276|gb|AAD17706.1| (AF081302) capsid protein VP1 [Human c...   162  6e-39
+SEQ gi|13160840|gb|AAK13383.1|AF295495_1 (AF295495) VP1 [Human echov...   162  7e-39
+SEQ gi|13160704|gb|AAK13335.1|AF295447_1 (AF295447) VP1 [Human echov...   161  7e-39
+SEQ gi|13160866|gb|AAK13392.1|AF295504_1 (AF295504) VP1 [Human echov...   161  9e-39
+SEQ gi|7716640|gb|AAF68470.1| (AF251358) polyprotein [Human enterovi...   161  1e-38
+SEQ gi|13160929|gb|AAK13415.1|AF295527_1 (AF295527) VP1 [Human echov...   161  1e-38
+SEQ gi|13160776|gb|AAK13361.1|AF295473_1 (AF295473) VP1 [Human coxsa...   161  1e-38
+SEQ gi|13160770|gb|AAK13359.1|AF295471_1 (AF295471) VP1 [Human echov...   161  1e-38
+SEQ gi|13160785|gb|AAK13364.1|AF295476_1 (AF295476) VP1 [Human echov...   161  1e-38
+SEQ gi|13160682|gb|AAK13327.1|AF295439_1 (AF295439) VP1 [Human echov...   161  1e-38
+SEQ gi|2499562|sp|Q66479|POLG_HE71M GENOME POLYPROTEIN [CONTAINS: CO...   161  1e-38
+SEQ gi|13242736|ref|NP_077382.1| polyprotein [enterovirus 5865/sin/0...   161  1e-38
+SEQ gi|13621160|ref|NP_112434.1| polyprotein [enterovirus 5666/sin/0...   161  1e-38
+SEQ gi|13160875|gb|AAK13395.1|AF295507_1 (AF295507) VP1 [Human echov...   161  1e-38
+SEQ gi|2326912|emb|CAA74830.1| (Y14482) VP1 [Swine vesicular disease...   161  1e-38
+SEQ gi|13160794|gb|AAK13367.1|AF295479_1 (AF295479) VP1 [Human coxsa...   161  1e-38
+SEQ gi|13160761|gb|AAK13356.1|AF295468_1 (AF295468) VP1 [Human echov...   161  1e-38
+SEQ gi|2258032|gb|AAB63227.1| (AF009539) polyprotein [Human enterovi...   161  1e-38
+SEQ gi|2326916|emb|CAA74850.1| (Y14510) VP1 [Swine vesicular disease...   160  2e-38
+SEQ gi|6470066|gb|AAF13535.1|AF135901_1 (AF135901) capsid protein VP...   160  2e-38
+SEQ gi|13160822|gb|AAK13377.1|AF295489_1 (AF295489) VP1 [Human echov...   160  3e-38
+SEQ gi|13160854|gb|AAK13388.1|AF295500_1 (AF295500) VP1 [Human echov...   159  3e-38
+SEQ gi|9629182|ref|NP_044366.1| polyprotein [Human enterovirus 71] >...   159  4e-38
+SEQ gi|7716642|gb|AAF68471.1| (AF251359) polyprotein [Human enterovi...   159  4e-38
+SEQ gi|6470033|gb|AAF13502.1|AF135868_1 (AF135868) capsid protein VP...   159  5e-38
+SEQ gi|6470053|gb|AAF13522.1|AF135888_1 (AF135888) capsid protein VP...   159  5e-38
+SEQ gi|5815314|gb|AAD52643.1|AF176044_1 (AF176044) polyprotein [Huma...   158  6e-38
+SEQ gi|2257998|gb|AAB63210.1| (AF009522) polyprotein [Human enterovi...   158  7e-38
+SEQ gi|5532391|gb|AAD44710.1|AF136379_1 (AF136379) polyprotein [Huma...   158  7e-38
+SEQ gi|5597015|gb|AAD22046.3| (AF119796) polyprotein [Human enterovi...   158  7e-38
+SEQ gi|10946421|gb|AAG24905.1|AF304457_1 (AF304457) polyprotein [Hum...   158  7e-38
+SEQ gi|10946423|gb|AAG24906.1|AF304458_1 (AF304458) polyprotein [Hum...   158  7e-38
+SEQ gi|2258024|gb|AAB63223.1| (AF009535) polyprotein [Human enterovi...   158  7e-38
+SEQ gi|2258028|gb|AAB63225.1| (AF009537) polyprotein [Human enterovi...   158  7e-38
+SEQ gi|6470060|gb|AAF13529.1|AF135895_1 (AF135895) capsid protein VP...   158  7e-38
+SEQ gi|2258002|gb|AAB63212.1| (AF009524) polyprotein [Human enterovi...   158  7e-38
+SEQ gi|6470078|gb|AAF13547.1|AF135913_1 (AF135913) capsid protein VP...   158  7e-38
+SEQ gi|2258000|gb|AAB63211.1| (AF009523) polyprotein [Human enterovi...   158  8e-38
+SEQ gi|9633627|ref|NP_051126.1| polypeptide [Bovine enterovirus stra...   158  8e-38
+SEQ gi|6470058|gb|AAF13527.1|AF135893_1 (AF135893) capsid protein VP...   158  8e-38
+SEQ gi|6470077|gb|AAF13546.1|AF135912_1 (AF135912) capsid protein VP...   158  8e-38
+SEQ gi|6470031|gb|AAF13500.1|AF135866_1 (AF135866) capsid protein VP...   158  8e-38
+SEQ gi|6470038|gb|AAF13507.1|AF135873_1 (AF135873) capsid protein VP...   158  8e-38
+SEQ gi|6470042|gb|AAF13511.1|AF135877_1 (AF135877) capsid protein VP...   158  8e-38
+SEQ gi|6470074|gb|AAF13543.1|AF135909_1 (AF135909) capsid protein VP...   158  8e-38
+SEQ gi|2258022|gb|AAB63222.1| (AF009534) polyprotein [Human enterovi...   158  9e-38
+SEQ gi|6470037|gb|AAF13506.1|AF135872_1 (AF135872) capsid protein VP...   158  9e-38
+SEQ gi|6470030|gb|AAF13499.1|AF135865_1 (AF135865) capsid protein VP...   158  9e-38
+SEQ gi|6470035|gb|AAF13504.1|AF135870_1 (AF135870) capsid protein VP...   158  9e-38
+SEQ gi|6470032|gb|AAF13501.1|AF135867_1 (AF135867) capsid protein VP...   158  9e-38
+SEQ gi|6470034|gb|AAF13503.1|AF135869_1 (AF135869) capsid protein VP...   158  9e-38
+SEQ gi|2258010|gb|AAB63216.1| (AF009528) polyprotein [Human enterovi...   158  1e-37
+SEQ gi|2258018|gb|AAB63220.1| (AF009532) polyprotein [Human enterovi...   158  1e-37
+SEQ gi|6470068|gb|AAF13537.1|AF135903_1 (AF135903) capsid protein VP...   158  1e-37
+SEQ gi|6470052|gb|AAF13521.1|AF135887_1 (AF135887) capsid protein VP...   158  1e-37
+SEQ gi|2258008|gb|AAB63215.1| (AF009527) polyprotein [Human enterovi...   158  1e-37
+SEQ gi|6470062|gb|AAF13531.1|AF135897_1 (AF135897) capsid protein VP...   158  1e-37
+SEQ gi|2258006|gb|AAB63214.1| (AF009526) polyprotein [Human enterovi...   158  1e-37
+SEQ gi|6470063|gb|AAF13532.1|AF135898_1 (AF135898) capsid protein VP...   158  1e-37
+SEQ gi|6470084|gb|AAF13553.1|AF135919_1 (AF135919) capsid protein VP...   158  1e-37
+SEQ gi|6470049|gb|AAF13518.1|AF135884_1 (AF135884) capsid protein VP...   158  1e-37
+SEQ gi|6470073|gb|AAF13542.1|AF135908_1 (AF135908) capsid protein VP...   157  1e-37
+SEQ gi|6470064|gb|AAF13533.1|AF135899_1 (AF135899) capsid protein VP...   157  1e-37
+SEQ gi|6470088|gb|AAF13557.1|AF135923_1 (AF135923) capsid protein VP...   157  1e-37
+SEQ gi|6470048|gb|AAF13517.1|AF135883_1 (AF135883) capsid protein VP...   157  1e-37
+SEQ gi|6470065|gb|AAF13534.1|AF135900_1 (AF135900) capsid protein VP...   157  1e-37
+SEQ gi|2258012|gb|AAB63217.1| (AF009529) polyprotein [Human enterovi...   157  2e-37
+SEQ gi|2258016|gb|AAB63219.1| (AF009531) polyprotein [Human enterovi...   157  2e-37
+SEQ gi|2258068|gb|AAB63245.1| (AF009557) polyprotein [Human enterovi...   157  2e-37
+SEQ gi|6470046|gb|AAF13515.1|AF135881_1 (AF135881) capsid protein VP...   157  2e-37
+SEQ gi|6470036|gb|AAF13505.1|AF135871_1 (AF135871) capsid protein VP...   157  2e-37
+SEQ gi|2258014|gb|AAB63218.1| (AF009530) polyprotein [Human enterovi...   156  2e-37
+SEQ gi|2258004|gb|AAB63213.1| (AF009525) polyprotein [Human enterovi...   156  2e-37
+SEQ gi|14475657|gb|AAK62678.1| (AF237688) capsid protein VP1 [Human ...   156  3e-37
+SEQ gi|6470099|gb|AAF13568.1|AF135934_1 (AF135934) capsid protein VP...   156  3e-37
+SEQ gi|2258054|gb|AAB63238.1| (AF009550) polyprotein [Human enterovi...   156  3e-37
+SEQ gi|2258066|gb|AAB63244.1| (AF009556) polyprotein [Human enterovi...   156  3e-37
+SEQ gi|6470102|gb|AAF13571.1|AF135937_1 (AF135937) capsid protein VP...   156  3e-37
+SEQ gi|6470116|gb|AAF13585.1|AF135951_1 (AF135951) capsid protein VP...   156  3e-37
+SEQ gi|6470119|gb|AAF13588.1|AF135954_1 (AF135954) capsid protein VP...   156  4e-37
+SEQ gi|6470123|gb|AAF13592.1|AF135958_1 (AF135958) capsid protein VP...   156  4e-37
+SEQ gi|9629635|ref|NP_044921.1| polyprotein [porcine enterovirus 9] ...   156  4e-37
+SEQ gi|6470111|gb|AAF13580.1|AF135946_1 (AF135946) capsid protein VP...   156  4e-37
+SEQ gi|2258036|gb|AAB63229.1| (AF009541) polyprotein [Human enterovi...   156  4e-37
+SEQ gi|2258056|gb|AAB63239.1| (AF009551) polyprotein [Human enterovi...   156  4e-37
+SEQ gi|2258040|gb|AAB63231.1| (AF009543) polyprotein [Human enterovi...   156  4e-37
+SEQ gi|6470108|gb|AAF13577.1|AF135943_1 (AF135943) capsid protein VP...   156  4e-37
+SEQ gi|6470104|gb|AAF13573.1|AF135939_1 (AF135939) capsid protein VP...   156  4e-37
+SEQ gi|6470107|gb|AAF13576.1|AF135942_1 (AF135942) capsid protein VP...   156  4e-37
+SEQ gi|6470100|gb|AAF13569.1|AF135935_1 (AF135935) capsid protein VP...   156  4e-37
+SEQ gi|6470124|gb|AAF13593.1|AF135959_1 (AF135959) capsid protein VP...   156  4e-37
+SEQ gi|2258030|gb|AAB63226.1| (AF009538) polyprotein [Human enterovi...   156  4e-37
+SEQ gi|6470103|gb|AAF13572.1|AF135938_1 (AF135938) capsid protein VP...   156  4e-37
+SEQ gi|6470115|gb|AAF13584.1|AF135950_1 (AF135950) capsid protein VP...   156  5e-37
+SEQ gi|130409|sp|P12915|POLG_BOVEV GENOME POLYPROTEIN [CONTAINS: COA...   156  5e-37
+SEQ gi|9629893|ref|NP_045756.1| polyprotein [Bovine enterovirus] >gi...   156  5e-37
+SEQ gi|6470096|gb|AAF13565.1|AF135931_1 (AF135931) capsid protein VP...   156  5e-37
+SEQ gi|3193138|gb|AAC19178.1| (AF067079) capsid protein [Human echov...   155  5e-37
+SEQ gi|2258048|gb|AAB63235.1| (AF009547) polyprotein [Human enterovi...   155  5e-37
+SEQ gi|6470114|gb|AAF13583.1|AF135949_1 (AF135949) capsid protein VP...   155  5e-37
+SEQ gi|6470110|gb|AAF13579.1|AF135945_1 (AF135945) capsid protein VP...   155  6e-37
+SEQ gi|3193136|gb|AAC19177.1| (AF067078) capsid protein [Human echov...   155  6e-37
+SEQ gi|3660000|pdb|1BEV|1 Chain 1, Bovine Enterovirus Vg-5-27             155  6e-37
+SEQ gi|6470079|gb|AAF13548.1|AF135914_1 (AF135914) capsid protein VP...   155  7e-37
+SEQ gi|6470043|gb|AAF13512.1|AF135878_1 (AF135878) capsid protein VP...   155  7e-37
+SEQ gi|13160764|gb|AAK13357.1|AF295469_1 (AF295469) VP1 [Human echov...   155  7e-37
+SEQ gi|6470105|gb|AAF13574.1|AF135940_1 (AF135940) capsid protein VP...   154  1e-36
+SEQ gi|4336271|gb|AAD17701.1| (AF081297) capsid protein VP1 [Human c...   154  1e-36
+SEQ gi|7248561|gb|AAF43566.1|AF152271_1 (AF152271) capsid protein VP...   154  1e-36
+SEQ gi|13160889|gb|AAK13400.1|AF295512_1 (AF295512) VP1 [Human echov...   153  2e-36
+SEQ gi|2326886|emb|CAA74817.1| (Y14469) VP1 [Swine vesicular disease...   153  2e-36
+SEQ gi|9633625|ref|NP_051125.1| polyprotein [Bovine enterovirus stra...   153  2e-36
+SEQ gi|6470106|gb|AAF13575.1|AF135941_1 (AF135941) capsid protein VP...   153  3e-36
+SEQ gi|10120230|emb|CAC08133.1| (AJ279184) polyprotein [Human coxsac...   153  4e-36
+SEQ gi|13160767|gb|AAK13358.1|AF295470_1 (AF295470) VP1 [Human echov...   152  7e-36
+SEQ gi|4530465|gb|AAD22045.1| (AF119795) polyprotein [Human enterovi...   151  1e-35
+SEQ gi|13160738|gb|AAK13347.1|AF295459_1 (AF295459) VP1 [Human echov...   150  2e-35
+SEQ gi|13160718|gb|AAK13340.1|AF295452_1 (AF295452) VP1 [Human echov...   149  4e-35
+SEQ gi|7248563|gb|AAF43567.1|AF152272_1 (AF152272) capsid protein VP...   149  5e-35
+SEQ gi|10799099|gb|AAG23181.1| (AF302996) polyprotein [Human enterov...   146  5e-34
+SEQ gi|2326888|emb|CAA74818.1| (Y14470) VP1 [Swine vesicular disease...   140  2e-32
+SEQ gi|3126858|gb|AAC15994.1| (AF061396) capsid protein [Human echov...   140  2e-32
+SEQ gi|3126866|gb|AAC15998.1| (AF061400) capsid protein [Human echov...   139  3e-32
+SEQ gi|3126862|gb|AAC15996.1| (AF061398) capsid protein [Human echov...   139  5e-32
+SEQ gi|3193122|gb|AAC19170.1| (AF067071) capsid protein [Human echov...   139  5e-32
+SEQ gi|13810509|dbj|BAB43941.1| (AB060686) capsid protein VP-1 [Huma...   139  5e-32
+SEQ gi|3193130|gb|AAC19174.1| (AF067075) capsid protein [Human echov...   138  6e-32
+SEQ gi|13810503|dbj|BAB43938.1| (AB060683) capsid protein VP-1 [Huma...   138  8e-32
+SEQ gi|13702212|dbj|BAB43825.1| (AB060301) capsid protein VP-1 [Huma...   138  8e-32
+SEQ gi|13810463|dbj|BAB43918.1| (AB060663) capsid protein VP-1 [Huma...   138  1e-31
+SEQ gi|3193132|gb|AAC19175.1| (AF067076) capsid protein [Human echov...   138  1e-31
+SEQ gi|3126860|gb|AAC15995.1| (AF061397) capsid protein [Human echov...   137  1e-31
+SEQ gi|13702214|dbj|BAB43826.1| (AB060302) capsid protein VP-1 [Huma...   137  2e-31
+SEQ gi|13702236|dbj|BAB43837.1| (AB060313) capsid protein VP-1 [Huma...   137  2e-31
+SEQ gi|13810501|dbj|BAB43937.1| (AB060682) capsid protein VP-1 [Huma...   137  2e-31
+SEQ gi|13702282|dbj|BAB43860.1| (AB060336) capsid protein VP-1 [Huma...   136  3e-31
+SEQ gi|13702226|dbj|BAB43832.1| (AB060308) capsid protein VP-1 [Huma...   136  3e-31
+SEQ gi|13810584|dbj|BAB43963.1| (AB060711) capsid protein VP-1 [Huma...   136  3e-31
+SEQ gi|13810590|dbj|BAB43966.1| (AB060714) capsid protein VP-1 [Huma...   136  4e-31
+SEQ gi|7271914|gb|AAF44688.1|AF240363_1 (AF240363) capsid protein VP...   136  5e-31
+SEQ gi|3126856|gb|AAC15993.1| (AF061395) capsid protein [Human echov...   135  5e-31
+SEQ gi|13810600|dbj|BAB43971.1| (AB060719) capsid protein VP-1 [Huma...   135  6e-31
+SEQ gi|3193124|gb|AAC19171.1| (AF067072) capsid protein [Human echov...   135  8e-31
+SEQ gi|13702280|dbj|BAB43859.1| (AB060335) capsid protein VP-1 [Huma...   135  9e-31
+SEQ gi|3126864|gb|AAC15997.1| (AF061399) capsid protein [Human echov...   134  1e-30
+SEQ gi|13810592|dbj|BAB43967.1| (AB060715) capsid protein VP-1 [Huma...   134  1e-30
+SEQ gi|13702224|dbj|BAB43831.1| (AB060307) capsid protein VP-1 [Huma...   134  1e-30
+SEQ gi|13810489|dbj|BAB43931.1| (AB060676) capsid protein VP-1 [Huma...   134  1e-30
+SEQ gi|3193126|gb|AAC19172.1| (AF067073) capsid protein [Human echov...   133  2e-30
+SEQ gi|4704678|gb|AAD28207.1| (AF116812) capsid protein VP1 [Human e...   133  3e-30
+SEQ gi|3193134|gb|AAC19176.1| (AF067077) capsid protein [Human echov...   133  3e-30
+SEQ gi|4704688|gb|AAD28212.1| (AF116817) capsid protein VP1 [Human e...   133  4e-30
+SEQ gi|4704670|gb|AAD28203.1| (AF116808) capsid protein VP1 [Human e...   133  4e-30
+SEQ gi|4704664|gb|AAD28200.1| (AF116805) capsid protein VP1 [Human e...   133  4e-30
+SEQ gi|4704674|gb|AAD28205.1| (AF116810) capsid protein VP1 [Human e...   133  4e-30
+SEQ gi|4704684|gb|AAD28210.1| (AF116815) capsid protein VP1 [Human e...   132  5e-30
+SEQ gi|4704690|gb|AAD28213.1| (AF116818) capsid protein VP1 [Human e...   131  1e-29
+SEQ gi|4704672|gb|AAD28204.1| (AF116809) capsid protein VP1 [Human e...   130  2e-29
+SEQ gi|4704666|gb|AAD28201.1| (AF116806) capsid protein VP1 [Human e...   129  3e-29
+SEQ gi|7248533|gb|AAF43552.1|AF152257_1 (AF152257) capsid protein VP...   128  7e-29
+SEQ gi|4704694|gb|AAD28215.1| (AF116820) capsid protein VP1 [Human e...   127  1e-28
+SEQ gi|4704698|gb|AAD28217.1| (AF116822) capsid protein VP1 [Human e...   127  2e-28
+SEQ gi|4379362|emb|CAA07794.1| (AJ007967) VP1 protein [Human poliovi...   126  4e-28
+SEQ gi|4379361|emb|CAA07793.1| (AJ007966) VP1 protein [Human poliovi...   126  4e-28
+SEQ gi|2326926|emb|CAA74855.1| (Y14515) VP1 [Swine vesicular disease...   125  6e-28
+SEQ gi|4704668|gb|AAD28202.1| (AF116807) capsid protein VP1 [Human e...   124  2e-27
+SEQ gi|10120238|emb|CAC08140.1| (AJ279189) polyprotein [Human coxsac...   123  2e-27
+SEQ gi|10120210|emb|CAC08139.1| (AJ279173) polyprotein [Human coxsac...   123  3e-27
+SEQ gi|4704696|gb|AAD28216.1| (AF116821) capsid protein VP1 [Human e...   120  3e-26
+SEQ gi|4704686|gb|AAD28211.1| (AF116816) capsid protein VP1 [Human e...   118  8e-26
+SEQ gi|3193128|gb|AAC19173.1| (AF067074) capsid protein [Human echov...   117  1e-25
+SEQ gi|7248545|gb|AAF43558.1|AF152263_1 (AF152263) capsid protein VP...   114  2e-24
+SEQ gi|5163043|gb|AAD40508.1| (AF081604) VP1 [Human coxsackievirus B2]    113  2e-24
+SEQ gi|5163064|gb|AAD40529.1| (AF081625) VP1 [Human echovirus 6]          113  2e-24
+SEQ gi|7248539|gb|AAF43555.1|AF152260_1 (AF152260) capsid protein VP...   113  3e-24
+SEQ gi|9716526|gb|AAF97532.1| (AF252176) capsid protein VP1 [Human e...   113  3e-24
+SEQ gi|5163060|gb|AAD40525.1| (AF081621) VP1 [Human coxsackievirus B2]    113  3e-24
+SEQ gi|5163080|gb|AAD40545.1| (AF081641) VP1 [Human echovirus 6]          113  3e-24
+SEQ gi|7248557|gb|AAF43564.1|AF152269_1 (AF152269) capsid protein VP...   112  5e-24
+SEQ gi|7248583|gb|AAF43577.1|AF152282_1 (AF152282) capsid protein VP...   112  5e-24
+SEQ gi|5163068|gb|AAD40533.1| (AF081629) VP1 [Human echovirus 6]          112  6e-24
+SEQ gi|7248591|gb|AAF43581.1|AF152286_1 (AF152286) capsid protein VP...   112  6e-24
+SEQ gi|5163035|gb|AAD40500.1| (AF081596) VP1 [Human echovirus 9]          112  6e-24
+SEQ gi|5163041|gb|AAD40506.1| (AF081602) VP1 [Human echovirus 18]         112  7e-24
+SEQ gi|5163082|gb|AAD40547.1| (AF081643) VP1 [Human echovirus 4]          112  7e-24
+SEQ gi|5163084|gb|AAD40549.1| (AF081645) VP1 [Human echovirus 9]          112  8e-24
+SEQ gi|9716548|gb|AAF97543.1| (AF252187) capsid protein VP1 [Human e...   111  8e-24
+SEQ gi|9716528|gb|AAF97533.1| (AF252177) capsid protein VP1 [Human c...   111  9e-24
+SEQ gi|5163050|gb|AAD40515.1| (AF081611) VP1 [Human coxsackievirus B...   111  1e-23
+SEQ gi|5163059|gb|AAD40524.1| (AF081620) VP1 [Human echovirus 9]          111  1e-23
+SEQ gi|5163071|gb|AAD40536.1| (AF081632) VP1 [Human echovirus 33]         111  1e-23
+SEQ gi|7248593|gb|AAF43582.1|AF152287_1 (AF152287) capsid protein VP...   111  2e-23
+SEQ gi|7248617|gb|AAF43594.1|AF152299_1 (AF152299) capsid protein VP...   111  2e-23
+SEQ gi|5163040|gb|AAD40505.1| (AF081601) VP1 [Human echovirus 5]          111  2e-23
+SEQ gi|7248559|gb|AAF43565.1|AF152270_1 (AF152270) capsid protein VP...   110  2e-23
+SEQ gi|7248531|gb|AAF43551.1|AF152256_1 (AF152256) capsid protein VP...   110  2e-23
+SEQ gi|7248587|gb|AAF43579.1|AF152284_1 (AF152284) capsid protein VP...   110  2e-23
+SEQ gi|11558236|emb|CAB77541.1| (AJ288080) capsid protein [Human pol...   110  3e-23
+SEQ gi|5163077|gb|AAD40542.1| (AF081638) VP1 [Human echovirus 18]         110  3e-23
+SEQ gi|9716542|gb|AAF97540.1| (AF252184) capsid protein VP1 [Human e...   109  3e-23
+SEQ gi|5163038|gb|AAD40503.1| (AF081599) VP1 [Human echovirus 16]         109  3e-23
+SEQ gi|7248555|gb|AAF43563.1|AF152268_1 (AF152268) capsid protein VP...   109  3e-23
+SEQ gi|5163083|gb|AAD40548.1| (AF081644) VP1 [Human echovirus 3]          109  3e-23
+SEQ gi|7248567|gb|AAF43569.1|AF152274_1 (AF152274) capsid protein VP...   109  4e-23
+SEQ gi|12584540|emb|CAC27386.1| (AJ304420) polyprotein [Human coxsac...   109  5e-23
+SEQ gi|14139960|emb|CAC38997.1| (AJ295182) polyprotein [Human coxsac...   109  5e-23
+SEQ gi|7263144|gb|AAF44104.1| (AF225471) polyprotein [Human coxsacki...   109  5e-23
+SEQ gi|9716534|gb|AAF97536.1| (AF252180) capsid protein VP1 [Human e...   109  5e-23
+SEQ gi|5163074|gb|AAD40539.1| (AF081635) VP1 [Human echovirus 13]         109  6e-23
+SEQ gi|9716540|gb|AAF97539.1| (AF252183) capsid protein VP1 [Human c...   109  6e-23
+SEQ gi|7248603|gb|AAF43587.1|AF152292_1 (AF152292) capsid protein VP...   109  6e-23
+SEQ gi|5163046|gb|AAD40511.1| (AF081607) VP1 [Human coxsackievirus A9]    108  8e-23
+SEQ gi|9716506|gb|AAF97522.1| (AF252166) capsid protein VP1 [Human e...   108  1e-22
+SEQ gi|9716508|gb|AAF97523.1| (AF252167) capsid protein VP1 [Human e...   108  1e-22
+SEQ gi|5163053|gb|AAD40518.1| (AF081614) VP1 [Human coxsackievirus A9]    108  1e-22
+SEQ gi|9716538|gb|AAF97538.1| (AF252182) capsid protein VP1 [Human c...   107  1e-22
+SEQ gi|5163070|gb|AAD40535.1| (AF081631) VP1 [Human echovirus 11]         107  1e-22
+SEQ gi|9716546|gb|AAF97542.1| (AF252186) capsid protein VP1 [Human e...   107  1e-22
+SEQ gi|5163066|gb|AAD40531.1| (AF081627) VP1 [Human echovirus 25]         107  1e-22
+SEQ gi|5163047|gb|AAD40512.1| (AF081608) VP1 [Human echovirus 7] >gi...   107  2e-22
+SEQ gi|5163069|gb|AAD40534.1| (AF081630) VP1 [Human echovirus 7]          107  2e-22
+SEQ gi|5163058|gb|AAD40523.1| (AF081619) VP1 [Human echovirus 25]         107  2e-22
+SEQ gi|9716524|gb|AAF97531.1| (AF252175) capsid protein VP1 [Human e...   107  2e-22
+SEQ gi|7248569|gb|AAF43570.1|AF152275_1 (AF152275) capsid protein VP...   107  2e-22
+SEQ gi|5163054|gb|AAD40519.1| (AF081615) VP1 [Human echovirus 25]         107  2e-22
+SEQ gi|7263146|gb|AAF44105.1| (AF225472) polyprotein [Human coxsacki...   107  2e-22
+SEQ gi|5163057|gb|AAD40522.1| (AF081618) VP1 [Human echovirus 25]         106  3e-22
+SEQ gi|7248541|gb|AAF43556.1|AF152261_1 (AF152261) capsid protein VP...   106  4e-22
+SEQ gi|7248579|gb|AAF43575.1|AF152280_1 (AF152280) capsid protein VP...   106  4e-22
+SEQ gi|9716510|gb|AAF97524.1| (AF252168) capsid protein VP1 [Human e...   106  4e-22
+SEQ gi|7248573|gb|AAF43572.1|AF152277_1 (AF152277) capsid protein VP...   106  4e-22
+SEQ gi|7248571|gb|AAF43571.1|AF152276_1 (AF152276) capsid protein VP...   106  4e-22
+SEQ gi|12275484|dbj|BAB21047.1| (AB054202) VP-1 capsid protein [Huma...   106  5e-22
+SEQ gi|12246865|dbj|BAB21007.1| (AB054073) VP-1 capsid protein [Huma...   106  5e-22
+SEQ gi|7248529|gb|AAF43550.1|AF152255_1 (AF152255) capsid protein VP...   106  5e-22
+SEQ gi|9716532|gb|AAF97535.1| (AF252179) capsid protein VP1 [Human c...   106  6e-22
+SEQ gi|5163045|gb|AAD40510.1| (AF081606) VP1 [Human echovirus 11]         105  6e-22
+SEQ gi|5163044|gb|AAD40509.1| (AF081605) VP1 [Human echovirus 11]         105  7e-22
+SEQ gi|12275482|dbj|BAB21046.1| (AB054201) VP-1 capsid protein [Huma...   105  7e-22
+SEQ gi|5163078|gb|AAD40543.1| (AF081639) VP1 [Human echovirus 11]         105  8e-22
+SEQ gi|7248527|gb|AAF43549.1|AF152254_1 (AF152254) capsid protein VP...   105  8e-22
+SEQ gi|9716530|gb|AAF97534.1| (AF252178) capsid protein VP1 [Human c...   104  1e-21
+SEQ gi|12231253|dbj|BAB20966.1| (AB053602) VP-1 capsid protein [Huma...   104  1e-21
+SEQ gi|5163081|gb|AAD40546.1| (AF081642) VP1 [Human echovirus 11]         104  1e-21
+SEQ gi|12231229|dbj|BAB20954.1| (AB053590) VP-1 capsid protein [Huma...   104  2e-21
+SEQ gi|12231233|dbj|BAB20956.1| (AB053592) VP-1 capsid protein [Huma...   104  2e-21
+SEQ gi|12275490|dbj|BAB21050.1| (AB054205) VP-1 capsid protein [Huma...   104  2e-21
+SEQ gi|12275497|dbj|BAB21053.1| (AB054208) VP-1 capsid protein [Huma...   104  2e-21
+SEQ gi|12246883|dbj|BAB21016.1| (AB054082) VP-1 capsid protein [Huma...   104  2e-21
+SEQ gi|9716514|gb|AAF97526.1| (AF252170) capsid protein VP1 [Human c...   104  2e-21
+SEQ gi|9716544|gb|AAF97541.1| (AF252185) capsid protein VP1 [Human e...   104  2e-21
+SEQ gi|12275459|dbj|BAB21036.1| (AB054191) VP-1 capsid protein [Huma...   104  2e-21
+SEQ gi|12275488|dbj|BAB21049.1| (AB054204) VP-1 capsid protein [Huma...   104  2e-21
+SEQ gi|12231271|dbj|BAB20987.1| (AB053962) VP-1 capsid protein [Huma...   104  2e-21
+SEQ gi|12246859|dbj|BAB21004.1| (AB054070) VP-1 capsid protein [Huma...   103  2e-21
+SEQ gi|12275493|dbj|BAB21051.1| (AB054206) VP-1 capsid protein [Huma...   103  2e-21
+SEQ gi|12275478|dbj|BAB21044.1| (AB054199) VP-1 capsid protein [Huma...   103  2e-21
+SEQ gi|9716512|gb|AAF97525.1| (AF252169) capsid protein VP1 [Human c...   103  3e-21
+SEQ gi|12231263|dbj|BAB20983.1| (AB053958) VP-1 capsid protein [Huma...   103  3e-21
+SEQ gi|12231269|dbj|BAB20986.1| (AB053961) VP-1 capsid protein [Huma...   103  3e-21
+SEQ gi|12231219|dbj|BAB20949.1| (AB053585) VP-1 capsid protein [Huma...   103  3e-21
+SEQ gi|12231275|dbj|BAB20989.1| (AB053964) VP-1 capsid protein [Huma...   103  3e-21
+SEQ gi|12246863|dbj|BAB21006.1| (AB054072) VP-1 capsid protein [Huma...   103  3e-21
+SEQ gi|12246867|dbj|BAB21008.1| (AB054074) VP-1 capsid protein [Huma...   103  3e-21
+SEQ gi|12275464|dbj|BAB21038.1| (AB054193) VP-1 capsid protein [Huma...   103  3e-21
+SEQ gi|12275454|dbj|BAB21034.1| (AB054189) VP-1 capsid protein [Huma...   103  3e-21
+SEQ gi|12231227|dbj|BAB20953.1| (AB053589) VP-1 capsid protein [Huma...   103  3e-21
+SEQ gi|13702284|dbj|BAB43861.1| (AB060337) VP-1 capsid protein [Huma...   103  4e-21
+SEQ gi|11761346|dbj|BAB19255.1| (AB052562) VP-1 capsid protein [Huma...   102  4e-21
+SEQ gi|7263136|gb|AAF44100.1| (AF225467) polyprotein [Human coxsacki...   102  5e-21
+SEQ gi|5163072|gb|AAD40537.1| (AF081633) VP1 [Human echovirus 21]         102  5e-21
+SEQ gi|12584536|emb|CAC27384.1| (AJ304418) polyprotein [Human coxsac...   102  5e-21
+SEQ gi|12231239|dbj|BAB20959.1| (AB053595) VP-1 capsid protein [Huma...   102  5e-21
+SEQ gi|12231235|dbj|BAB20957.1| (AB053593) VP-1 capsid protein [Huma...   102  5e-21
+SEQ gi|12246875|dbj|BAB21012.1| (AB054078) VP-1 capsid protein [Huma...   102  5e-21
+SEQ gi|12231217|dbj|BAB20948.1| (AB053584) VP-1 capsid protein [Huma...   102  6e-21
+SEQ gi|7248521|gb|AAF43546.1|AF152251_1 (AF152251) capsid protein VP...   102  6e-21
+SEQ gi|11761348|dbj|BAB19256.1| (AB052563) VP-1 capsid protein [Huma...   102  6e-21
+SEQ gi|12231215|dbj|BAB20947.1| (AB053583) VP-1 capsid protein [Huma...   102  7e-21
+SEQ gi|12231237|dbj|BAB20958.1| (AB053594) VP-1 capsid protein [Huma...   102  7e-21
+SEQ gi|5163061|gb|AAD40526.1| (AF081622) VP1 [Human coxsackievirus B3]    102  7e-21
+SEQ gi|11761350|dbj|BAB19257.1| (AB052564) VP-1 capsid protein [Huma...   102  7e-21
+SEQ gi|12231277|dbj|BAB20990.1| (AB053965) VP-1 capsid protein [Huma...   102  7e-21
+SEQ gi|12275471|dbj|BAB21041.1| (AB054196) VP-1 capsid protein [Huma...   102  7e-21
+SEQ gi|11761352|dbj|BAB19258.1| (AB052565) VP-1 capsid protein [Huma...   102  8e-21
+SEQ gi|12231213|dbj|BAB20946.1| (AB053582) VP-1 capsid protein [Huma...   102  8e-21
+SEQ gi|12231199|dbj|BAB20939.1| (AB053575) VP-1 capsid protein [Huma...   102  8e-21
+SEQ gi|9716520|gb|AAF97529.1| (AF252173) capsid protein VP1 [Human e...   102  8e-21
+SEQ gi|12231205|dbj|BAB20942.1| (AB053578) VP-1 capsid protein [Huma...   101  9e-21
+SEQ gi|9716516|gb|AAF97527.1| (AF252171) capsid protein VP1 [Human e...   101  9e-21
+SEQ gi|7248519|gb|AAF43545.1|AF152250_1 (AF152250) capsid protein VP...   101  9e-21
+SEQ gi|7248601|gb|AAF43586.1|AF152291_1 (AF152291) capsid protein VP...   101  1e-20
+SEQ gi|12231261|dbj|BAB20982.1| (AB053957) VP-1 capsid protein [Huma...   101  1e-20
+SEQ gi|5163062|gb|AAD40527.1| (AF081623) VP1 [Human coxsackievirus B3]    101  1e-20
+SEQ gi|12231251|dbj|BAB20965.1| (AB053601) VP-1 capsid protein [Huma...   101  1e-20
+SEQ gi|12231257|dbj|BAB20968.1| (AB053604) VP-1 capsid protein [Huma...   101  1e-20
+SEQ gi|12275499|dbj|BAB21054.1| (AB054209) VP-1 capsid protein [Huma...   101  1e-20
+SEQ gi|5163034|gb|AAD40499.1| (AF081595) VP1 [Human echovirus 30] >g...   101  1e-20
+SEQ gi|9716522|gb|AAF97530.1| (AF252174) capsid protein VP1 [Human e...   101  1e-20
+SEQ gi|12231247|dbj|BAB20963.1| (AB053599) VP-1 capsid protein [Huma...   101  1e-20
+SEQ gi|5163065|gb|AAD40530.1| (AF081626) VP1 [Human echovirus 30]         101  1e-20
+SEQ gi|9716550|gb|AAF97544.1| (AF252188) capsid protein VP1 [Human e...   101  1e-20
+SEQ gi|12231259|dbj|BAB20981.1| (AB053956) VP-1 capsid protein [Huma...   100  2e-20
+SEQ gi|5163079|gb|AAD40544.1| (AF081640) VP1 [Human echovirus 30]         100  2e-20
+SEQ gi|11761344|dbj|BAB19254.1| (AB052561) VP-1 capsid protein [Huma...   100  3e-20
+SEQ gi|7248517|gb|AAF43544.1|AF152249_1 (AF152249) capsid protein VP...   100  3e-20
+SEQ gi|12231225|dbj|BAB20952.1| (AB053588) VP-1 capsid protein [Huma...    99  6e-20
+SEQ gi|12231203|dbj|BAB20941.1| (AB053577) VP-1 capsid protein [Huma...    99  7e-20
+SEQ gi|9716536|gb|AAF97537.1| (AF252181) capsid protein VP1 [Human e...    99  8e-20
+SEQ gi|12231243|dbj|BAB20961.1| (AB053597) VP-1 capsid protein [Huma...    98  1e-19
+SEQ gi|10120246|emb|CAC08171.1| (AJ279159) polyprotein [Human echovi...    98  1e-19
+SEQ gi|2326936|emb|CAA74860.1| (Y14520) VP1 [Swine vesicular disease...    97  2e-19
+SEQ gi|10120242|emb|CAC08164.1| (AJ279152) polyprotein [Human echovi...    97  3e-19
+SEQ gi|9965492|gb|AAG02248.1| (AY007223) capsid protein VP1 [Human e...    97  3e-19
+SEQ gi|2326934|emb|CAA74859.1| (Y14519) VP1 [Swine vesicular disease...    96  4e-19
+SEQ gi|12231267|dbj|BAB20985.1| (AB053960) VP-1 capsid protein [Huma...    95  1e-18
+SEQ gi|10120194|emb|CAC08154.1| (AJ279161) polyprotein [Human echovi...    93  4e-18
+SEQ 
+## SEQUENCE PROFILE AND ENTROPY
+ SeqNo PDBNo   V   L   I   M   F   W   Y   G   A   P   S   T   C   H   R   K   Q   E   N   D  NOCC NDEL NINS ENTROPY RELENT WEIGHT
+    1    1     0   0   0   0   0   0   0   0   0   0   0   0   0   0  78   1  18   3   0   0     0    0    0   0.654     21  0.00
+    2    2     0   0   0   0   0   0   0   0   0   2   0   0   0   0   0   0   1   3  17  76     0    0    0   0.799     26  0.00
+    3    3     1   0   0   0   0   0   0   0  54   0  23  17   0   0   3   0   0   0   3   0     0    0    0   1.211     40  0.00
+    4    4    20  80   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.525     17  0.00
+    5    5     0   0   0   0   0   0   0   0   9  85   4   1   0   0   0   0   1   0   0   0     0    0    0   0.572     19  0.00
+    6    6     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  26  74     0    0    0   0.593     19  0.00
+    7    7     0   0   2   0   0   0   0   0   0   0   0  98   0   0   0   0   0   0   0   0     0    0    0   0.109      3  0.00
+    8    8    10   3  46   3   0   0   0   0   0   0   0   1   0   0   1   8   3  21   2   0     0    0    0   1.673     55  0.00
+    9    9     0   0   0   1   0   0   0   6  51  15  19   0   0   1   2   1   3   1   0   0     0    0    0   1.484     49  0.00
+   10   10     0   0   0   0   0   0   0   0   0   0  80   8   0   0  10   1   0   0   0   0     0    0    0   0.697     23  0.00
+   11   11     0   0   0   0   0   0   0  93   0   0   2   1   0   2   0   0   1   0   1   0     0    0    0   0.363     12  0.00
+   12   12     0   0   0   0   0   0   0   1   2  96   1   0   0   1   0   0   0   0   0   0     0    0    0   0.235      7  0.00
+   13   13    31   0   1   0   0   0   0   0  28   0  25  10   0   0   2   2   0   1   0   0     0    0    0   1.571     52  0.00
+   14   14     0   0   0   0   0   0   0   0   1   0   1   1   0  30   0   0   0   0  67   0     0    0    0   0.777     25  0.00
+   15   15     0   0   0   0   0   0   0   0   0   0  68  30   0   0   0   0   0   0   2   0     0    0    0   0.703     23  0.00
+   16   16     1   0   0   0   0   0   0   0   1   0   0   2   0   0   0  28   6  59   1   1     0    0    0   1.163     38  0.00
+   17   17     0   0   0   0   0   0   0   0   9   0  11   0   0   0   6   7  34  33   0   0     0    0    0   1.562     52  0.00
+   18   18    32   0  65   0   0   0   0   0   2   0   0   2   0   0   0   0   0   0   0   0     0    0    0   0.796     26  0.00
+   19   19     0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   20   20     1   0   1   0   0   0   0   0  92   0   2   0   0   0   0   0   0   0   3   0     0    0    0   0.437     14  0.00
+   21   21     0 100   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.009      0  0.00
+   22   22     0   0   0   0   0   0   0   0   0   0   0  82   0   0   0   0  14   0   2   1     0    0    0   0.579     19  0.00
+   23   23     0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.035      1  0.00
+   24   24    71   0   0   0   0   0   0   0  28   0   0   0   0   0   0   0   0   0   2   0     0    0    0   0.672     22  0.00
+   25   25     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100   0   0     0    0    0   0.000      0  0.00
+   26   26     0   0  12   0   0   0   0   0   0   0   0  88   0   0   0   0   0   0   0   0     0    0    0   0.396     13  0.00
+   27   27     0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.009      0  0.00
+   28   28     0   0   0   0   0   0   0   0  43   0   0   0   0  57   0   0   0   0   0   0     0    0    0   0.700     23  0.00
+   29   29     0   0   0   0   0   0   0   0   0   0  13  87   0   0   0   0   0   0   0   0     0    0    0   0.385     12  0.00
+   30   30     0   0   0   1   0   0   0   0   0   0  74   0   0   0   0   0   0   0  24   0     0    0    0   0.681     22  0.00
+   31   31     0   0   0   0   0   0   0   0   0  25   1   1   0   0   0   0  56   0  16   0     0    0    0   1.088     36  0.00
+   32   32    58  24   0   0   0   0   0   0   9   0   0   9   0   0   0   0   0   0   0   0     0    0    0   1.126     37  0.00
+   33   33    61   1   1   0   0   0   0   0   2   0  13   5   0   0   1   0   2   6   0   7     0    0    0   1.389     46  0.00
+   34   34     0   0   0   0   0   0   0   0   0  85   0   0   0   0   0   0   0   0   0  14     0    0    0   0.421     14  0.00
+   35   35     0   0   0   0   0   0   0   8   1   0  73   0   0   0   0   0   0  18   0   0     0    0    0   0.786     26  0.00
+   36   36     0   0   0   0   0   0   0   0   0   0  13   0   0   0   0   0   0   2   1  83     0    0    0   0.580     19  0.00
+   37   37     1   2   0  13   0   0   0   0   3   0   1  78   0   0   0   0   0   0   2   0     0    0    0   0.822     27  0.00
+   38   38    25   0  26  49   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.070     35  0.00
+   39   39     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  82  18   0   0     0    0    0   0.477     15  0.00
+   40   40     0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   41   41     0   0   0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0     0    0    0   0.009      0  0.00
+   42   42     0   0   0   0   0   0   1   0   0   0   0   4  15  79   0   0   0   0   0   0     0    0    0   0.716     23  0.00
+   43   43    98   0   0   0   0   0   0   0   0   0   0   2   0   0   0   0   0   0   0   0     0    0    0   0.118      3  0.00
+   44   44    36  12  22   0   0   0   2   0   0   0   0   0   0  11   2  13   2   0   0   0     0    0    0   1.751     58  0.00
+   45   45     0   0   0   2   0   0   0   0   0   1   0   1   0   0   0   0  24   0  72   0     0    0    0   0.770     25  0.00
+   46   46     0   0   0   6  12   0  37   0   0   0  13   2   0  19   7   2   1   0   1   0     0    0    0   1.835     61  0.00
+   47   47     0   0   0   0   2   0   0   0   0   0   0   0   0  71  24   1   1   0   1   0     0    0    0   0.804     26  0.00
+   48   48     2   0   1   0   0   0   0   4   0   0  55  35   0   0   0   1   0   0   1   0     0    0    0   1.117     37  0.00
+   49   49     2   0   0   0   0   0   0   1   0   0   0  14   0   0  82   0   0   0   0   0     0    0    0   0.630     21  0.00
+   50   50     0   0   0   0   0   0   0   0  14   0  79   3   0   1   0   0   0   1   0   1     0    0    0   0.754     25  0.00
+   51   51     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100   0   0     0    0    0   0.009      0  0.00
+   52   52     0   0   0   1   0   0   0   0   1   0  80  16   2   0   0   0   0   0   0   0     0    0    0   0.650     21  0.00
+   53   53     0   2   0   0   0   0   0   0   0   0  61  35   0   0   0   0   0   0   0   1     0    0    0   0.858     28  0.00
+   54   54    23  17  60   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.954     31  0.00
+   55   55     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  88   0  11     0    0    0   0.426     14  0.00
+   56   56     0   0   0   0   0   0   0   0   1   0  38   0   1   1   0   0   0   0  59   0     0    0    0   0.825     27  0.00
+   57   57     0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.018      0  0.00
+   58   58     0  33   0  27  38   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.134     37  0.00
+   59   59     0   0   0   0   0   0   0  35  27   0  19   0  19   0   0   0   0   0   0   0     0    0    0   1.353     45  0.00
+   60   60     0   0   0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0     0    0    0   0.016      0  0.00
+   61   61     0   0   0   0   0   0   0  23  45   0  32   0   0   0   0   0   0   0   0   0     0    0    0   1.070     35  0.00
+   62   62     0   0   0   0   0   0   0  14  85   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.449     14  0.00
+   63   63     0  14   0   0   0   0   0   0   0   0   0   0  86   0   0   0   0   0   0   0     0    0    0   0.408     13  0.00
+   64   64    96   0   1   2   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.218      7  0.00
+   65   65     0   0   8   0   4   0  39  13   9   0   1  16   0   6   3   0   0   0   0   0     0    0    0   1.817     60  0.00
+   66   66     3   0  67   5   4   0  17   0   0   0   2   0   0   0   0   0   0   1   0   0     0    0    0   1.115     37  0.00
+   67   67     4   4  20  18   3   0   0   1  33   0   1  12   0   0   1   1   0   1   0   2     0    0    0   1.915     63  0.00
+   68   68     0   0   0   0   0   0   0   1   0   0   3  24   0   4   2  12  22  29   1   1     0    0    0   1.803     60  0.00
+   69   69    26   2  14   0   0   0  56   0   0   0   0   1   0   0   0   0   0   0   0   0     0    0    0   1.156     38  0.00
+   70   70     0   0   0   0   0   0   1   1  26   0  10   2   0   0   0  13   1   4   4  37     0    0    0   1.768     59  0.00
+   71   71     1  12   0   0   0   0   2   1   3   0   9  33   0   0   0   0   0   0  36   2     0    0    0   1.607     53  0.00
+   72   72     0   0   0   0   1   0   1   2  10  13  18   1   0   6   1   8   4  28   1   7     0    0    0   2.135     71  0.00
+   73   73     1  12   0   0   0   0   1   5  20   0   3   5   0   0   1  28   4  10   2   7     0    0    0   2.126     70  0.00
+   74   74    24   0   0   0   0   0   0   5  11  11  16  11   0   0   0   2   1  13   3   4     0    0    0   2.145     71  0.00
+   75   75     1   1   0   0   0   0   0  14   5   0   8  33   0   0   0   1   0   1  29   5     0    0    0   1.773     59  0.00
+   76   76     1   1   0   0   0   0   1   8   2   0  10  37   0   0   0   6   2   3   2  27     0    0    0   1.811     60  0.00
+   77   77     0   0   0   0   0   0   0   3   1   2  11  14   0   0  11   2   3  24  14  14     0    0    0   2.124     70  0.00
+   78   78     2  28   0   0   0   0   0   6  11   2   5   2   0   0   0  11   0   5  24   2     0    0    0   2.048     68  0.00
+   79   79     0  10   1   0   0   0   0   1   4  13   7   5   0   0   1   3   7   3   2  44     0    0    0   1.925     64  0.00
+   80   80     0   0   0   0   0   0   0   1   0   0   1   1   0   0  36  38   2   1  16   3     0    0    0   1.414     47  0.00
+   81   81     0  35   1   3   0   0   2  22   1   0   2   1   0   0  24   3   2   0   4   0     0    0    0   1.785     59  0.00
+   82   82     0   0   1   0  39   0  60   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.759     25  0.00
+   83   83     1   0   0   2   2   0   0   1  41   0  12  31   0   0   0   0   0   0   3   4     0    0    0   1.576     52  0.00
+   84   84    16   0   2   3   0   0   3   0   1   0  14   3   0   0   2   2   1  10  41   2     0    0    0   1.895     63  0.00
+   85   85     0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.009      0  0.00
+   86   86    16   0   1   0   0   0   0   0   1   1   0   8   0   0   6  19   0  31   2  13     0    0    0   1.937     64  0.00
+   87   87     2   3  95   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.258      8  0.00
+   88   88     0   0   0   0   0   0   0   0   0   0   5  55   0   0   0   0   0   0  26  14     0    0    0   1.103     36  0.00
+   89   89     3   3  15   0   1   0  20   0   3   2   0  52   0   0   0   0   0   0   1   0     0    0    0   1.429     47  0.00
+   90   90     0   0   0   2   0   0   0   0   0   0   2  14   0   0  60  20   1   0   0   0     0    0    0   1.181     39  0.00
+   91   91     0   0   0   0   0   0   0  13   1   0   2   0   0   0   4   2  49   8   0  22     0    0    0   1.474     49  0.00
+   92   92    47   5   0  11   2   0  13   0   3   0   0  20   0   0   0   0   0   0   0   0     0    0    0   1.510     50  0.00
+   93   93    36   0   0   0   0   0   0   0  63   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.689     22  0.00
+   94   94     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0     0    0    0   0.037      1  0.00
+   95   95     0  82   3  14   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.581     19  0.00
+   96   96     0   0   0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0     0    0    0   0.000      0  0.00
+   97   97     0   0   0   0   0   0   0   0   1   0   0   0   0   0  97   2   0   0   0   0     0    0    0   0.168      5  0.00
+   98   98     0   0   0   1   0   0   0   0   0   0   0   0   0   0   0  99   0   0   0   0     0    0    0   0.042      1  0.00
+   99   99    12  64   1  13   4   0   0   0   0   0   0   0   6   0   0   0   0   0   0   0     0    0    0   1.171     39  0.00
+  100  100     0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0  99   0   0     0    0    0   0.060      2  0.00
+  101  101     0  25   0  52  22   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.079     36  0.00
+  102  102     0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.035      1  0.00
+  103  103     0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0     0    0    0   0.009      0  0.00
+  104  104     0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.009      0  0.00
+  105  105     5  15  11  45   0   0   0   0   5   0  18   1   0   0   0   0   0   0   0   0     0    0    0   1.538     51  0.00
+  106  106     0   0   0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0     0    0    0   0.019      0  0.00
+  107  107     0   0   0   0  87   0   4   0   0   0   0   0   9   0   0   0   0   0   0   0     0    0    0   0.478     15  0.00
+  108  108     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1  99     0    0    0   0.077      2  0.00
+  109  109     8  36   4  33   0   0   0   0  14   0   3   2   0   0   0   0   0   0   0   0     0    0    0   1.525     50  0.00
+  110  110     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100   0   0     0    0    0   0.000      0  0.00
+  111  111    16  17  33   2  30   0   2   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.477     49  0.00
+  112  112     0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+  113  113     1   4   6   1  87   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.531     17  0.00
+  114  114    97   2   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.151      5  0.00
+  115  115    12   0  69   0   0   0   0   0  15   3   0   0   0   0   0   0   0   0   0   0     0    0    0   0.966     32  0.00
+  116  116     0   0   0   0   0   0   0   0   1   0   1  86  13   0   0   0   0   0   0   0     0    0    0   0.471     15  0.00
+  117  117     0   3   1   0   0   0   0   0  21   0  71   1   0   0   0   0   0   3   0   0     0    0    0   0.901     30  0.00
+  118  118     1   0   0   0   0   0   1   0   2   0  41   7   0  11   6   0   3   0  21   5     0    0    0   1.790     59  0.00
+  119  119     1   3   1  11  17   0   7   1   1   1   0  31   0   1   0   0  24   0   0   2     0    0    0   1.882     62  0.00
+  120  120     2   0   1   0   3   0   1   1   1   2  29  45   0   0   5   0   1   4   1   3     0    0    0   1.678     56  0.00
+  121  121     0   0   1   0   0   0  26   2   1   0   8  28   1   0   2   3   6  12   5   5     0    0    0   2.030     67  0.00
+  122  122     2   1   1   0   0   0   0   1  40   0  16  28   0   0   1   1   9   0   0   0     0    0    0   1.585     52  0.00
+  123  123     0   1   1   0   0   0   1   1   2  13  28  19   0   0   1   1   5   2  19   6     0    0    0   2.000     66  0.00
+  124  124     1   0   2   0   0   0   0   1   1   2   4  15   0   0   2   2   7   0  37  25     0    0    0   1.811     60  0.00
+  125  125     1   1   0   0   0   0   0  42   1   2  40   3   0   0   0   1   9   0   0   0     0    0    0   1.315     43  0.00
+  126  126     0   0   0   0   0   0   2   6   0  24   1   8   0  19   1   0   4   9   4  22     0    0    0   2.039     68  0.00
+  127  127    22   2   2   1   0   0   0   0  26  23   9   6   0   0   1   1   6   0   0   1     0    0    0   1.942     64  0.00
+  128  128    13  47   1   0   0   0   0   0   0  26   2   1   0   0   1   0   2   0   0   5     0    0    0   1.548     51  0.00
+  129  129    15   0   4   0   0   0   0   1   4  19   3  28   0   1   0   0   0   0  24   1     0    0    0   1.897     63  0.00
+  130  130     1  23   1   1   0   0   1   0   1   6   0   0   0   0   0   0  63   0   0   1     0    0    0   1.174     39  0.00
+  131  131    33  16   0   1   0   0   0   0   1   0   0  47   0   0   0   0   0   0   0   0     0    0    0   1.206     40  0.00
+  132  132     2  16   0   1   0   0  19   0   0   0   0   0   0  61   0   0   0   0   0   0     0    0    0   1.095     36  0.00
+  133  133     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0     0    0    0   0.026      0  0.00
+  134  134    26   1  54   0   0   0  15   0   4   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.153     38  0.00
+  135  135     0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.019      0  0.00
+  136  136     0   0   0   0  13   0  87   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.384     12  0.00
+  137  137    87   0  13   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.414     13  0.00
+  138  138     0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+  139  139     0   0   0   0   0   0   0   0   0  97   0   2   0   0   0   0   0   0   0   0     0    0    0   0.143      4  0.00
+  140  140     0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.019      0  0.00
+  141  141     0   0   0   0   0   0   0  62  38   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.673     22  0.00
+  142  142     0   0   0   0   0   0   0   0   1  96   2   0   0   0   1   0   0   0   0   0     0    0    0   0.234      7  0.00
+  143  143    39   1  40   0   1   0   0   0   0   0   0   3   0   0   1  14   0   1   1   0     0    0    0   1.341     44  0.00
+  144  144     0   0   0   0   0   0   0   0   0  99   0   0   0   0   0   0   0   0   0   0     0    0    0   0.097      3  0.00
+  145  145     1   0   1   0   0   0   0   5   6   0   5  18   0   0  11  22   2  15   5   9     0    0    0   2.196     73  0.00
+  146  146     0   0   0   0   0   0   0  15   2   0  49   2   0   0   1  26   0   2   2   1     0    0    0   1.426     47  0.00
+  147  147    30   0   1   0   0  18  27   0   4   0   1   1   0   0  14   0   3   0   0   0     0    0    0   1.726     57  0.00
+  148  148     0   0   0   0   0   0   0   0   0   0   0   6   0   0   1   0   0  41  15  36     0    0    0   1.319     44  0.00
+  149  149     0   0   0   0   0   0   0   2   1   0  27   0   0   0   0   0   0   0   0  69     0    0    0   0.790     26  0.00
+  150  150     0  11   0   0  34   0  55   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.960     32  0.00
+  151  151    11   0   0   0   0   0   0   0  50   0  10  19   1   0   0   0   2   5   2   0     0    0    0   1.522     50  0.00
+  152  152     0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.009      0  0.00
+  153  153     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  99   0   0   0     0    0    0   0.055      1  0.00
+  154  154     0   0   0   0   0   0   0   0   0   0  12  87   0   0   0   0   0   0   0   0     0    0    0   0.413     13  0.00
+  155  155     0   0   0   0   0   0   0   2  15   0  82   0   0   0   0   0   0   0   0   0     0    0    0   0.536     17  0.00
+  156  156     0   0   0   0   0   0   0   0   0   0  18  79   3   0   0   0   0   0   0   0     0    0    0   0.623     20  0.00
+  157  157     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100   0     0    0    0   0.026      0  0.00
+  158  158     0   0   0   0   0   0   0   0   1  98   0   0   0   0   0   0   0   0   0   0     0    0    0   0.101      3  0.00
+  159  159     0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0     0    0    0   0.017      0  0.00
+  160  160    65   1  34   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.724     24  0.00
+  161  161     0   0   1   0  98   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.108      3  0.00
+  162  162    11   0   0   0   4  66  17   0   1   0   1   0   0   0   0   0   0   0   0   0     0    0    0   1.056     35  0.00
+  163  163     0   0   0   1   0   0   0   0   0   0   0  81   0   0   0  16   1   0   0   1     0    0    0   0.638     21  0.00
+  164  164     2  11   2   1   0   0  17   0   0   0   0   1   0   1   0   0   0  65   0   0     0    0    0   1.167     38  0.00
+  165  165     0   0   0   0   0   0   0  85   1   0   5   7   0   0   0   0   0   0   2   0     0    0    0   0.638     21  0.00
+  166  166     0   0   0   0   0   0   0   1   6   0   5  10   1   0   0   0   1   0  60  16     0    0    0   1.297     43  0.00
+  167  167     0   0   0   0   0   0   0   0  78  19   0   2   0   0   0   0   0   0   0   0     0    0    0   0.640     21  0.00
+  168  168     0   0   0   0   1   0   0   0   0  98   0   0   0   0   0   0   0   0   0   0     0    0    0   0.106      3  0.00
+  169  169     0   0   0   0   0   0   0   0  41  57   2   0   0   0   0   0   0   0   0   0     0    0    0   0.790     26  0.00
+  170  170     0   0   0   0   0   0   0   0   0   0   0   0   0   0  87   0  13   0   0   0     0    0    0   0.424     14  0.00
+  171  171    13   3  20  60   3   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.127     37  0.00
+  172  172     0   0   0   0   0   0   0   0   0   0  97   2   0   0   0   0   0   0   0   0     0    0    0   0.160      5  0.00
+  173  173    31   1  67   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.724     24  0.00
+  174  174     0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0     0    0    0   0.015      0  0.00
+  175  175     0   0   0   0  82   0  18   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.488     16  0.00
+  176  176    19   4  21  56   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.113     37  0.00
+  177  177     0   0   0   0   0   0   0  22   0   0  77   0   0   0   0   0   0   0   0   0     0    0    0   0.555     18  0.00
+  178  178    34   4  48   0   0   0   0   0   0  12   1   1   0   0   0   0   0   0   0   0     0    0    0   1.169     39  0.00
+  179  179     0   0   0   0   0   0   0  61  26   0  10   0   0   0   0   0   0   0   2   0     0    0    0   0.978     32  0.00
+  180  180     0   0   0   0   0   0   0   0   0   0  19   0   0   0   0   0   0   0  81   0     0    0    0   0.530     17  0.00
+  181  181     0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.028      0  0.00
+  182  182     0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.009      0  0.00
+  183  183     0   0   0   0   0   0   1   0   3   0  44   9  28   0   0   0  13   0   2   0     0    0    0   1.440     48  0.00
+  184  184     0   1   0  15   0  13   0   0   0   0   6   2   2  19   0   0   0   0  41   0     0    0    0   1.658     55  0.00
+  185  185     0   0   0   0  99   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.063      2  0.00
+  186  186     0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+  187  187     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100     0    0    0   0.009      0  0.00
+  188  188     0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+  189  189     0   0   0   0  21  61  18   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.949     31  0.00
+  190  190     0   0   0   0   0   0   0   0  15  12  71   0   0   0   0   0   0   0   0   0     0    0    0   0.874     29  0.00
+  191  191     1   0   0   0   0   0   0   3   0   0   1  14   0  40   5  18   1   4  13   1     0    0    0   1.757     58  0.00
+  192  192    17   0   4   0  78   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1     0    0    0   0.683     22  0.00
+  193  193     0   0   0   0   0   0   0   1   2  43  40   3   0   1   2   0   0   5   0   3     0    0    0   1.332     44  0.00
+  194  194     1  49   2   1   1   0   1   0   0   0   5   1   0   0  31   6   3   0   0   0     0    0    0   1.425     47  0.00
+  195  195     0   0   0   0   1   0   0   0  10   0   3   1   0   6   0  70   0   6   1   2     0    0    0   1.171     39  0.00
+  196  196     0   2   0   1   0   0   0  40   3   0   2  31   0   0   1   0   1   0   1  19     0    0    0   1.486     49  0.00
+  197  197     0   0   0   0   0   0   0  32   0   1   2   1   0   0   0   0  10   5   2  46     0    0    0   1.398     46  0.00
+  198  198     1   0   0   0   1   0   0   1  22   2   1   5   0   1   0   0  30  32   2   1     0    0    0   1.714     57  0.00
+  199  199     1   1   1   0   0   0   0   1   2   0  31  11   0  32   1   0   3   4  10   4     0    0    0   1.814     60  0.00
+  200  200     2   0   0   0   0   0   0   1  14   1  35   7   0   0   1  17   1   0   4  18     0    0    0   1.815     60  0.00
+  201  201     0   0   0   0   1   0   0   0  16   1   2   1   0   0   0   5  65   8   0   1     0    0    0   1.208     40  0.00
+  202  202     1  17   4   0   0   0   2   1   2   0  37  11   0   0   1   1   6  17   1   0     0    0    0   1.890     63  0.00
+  203  203     0   0   0   0   0   0   0  64   3   0   1   0   0   1   0  14  15   0   1   0     0    0    0   1.118     37  0.00
+  204  204     0   0   2   0   0   0   0   1   2   1   9   8   0   0   0   1   0   1  12  63     0    0    0   1.312     43  0.00
+  205  205     0  17   0   0   0   0   1  44   3   0  28   4   0   0   0   0   0   0   1   3     0    0    0   1.458     48  0.00
+  206  206    44  21  11   0   1   0   2   1   2   1   0   2   0   0   2   1   0  12   0   0     0    0    0   1.716     57  0.00
+  207  207     0   1   0   0   0   0  98   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.100      3  0.00
+  208  208     0   0   0   0   0   0   0  95   0   0   3   0   0   0   0   0   0   0   1   0     0    0    0   0.245      8  0.00
+  209  209     0   4  10   1   9   0  42   0  30   0   1   1   0   1   0   0   1   0   0   0     0    0    0   1.543     51  0.00
+  210  210     3   1   0   4   0   0   0   0  15   0   3  30  13   0   0   0   0   0  31   0     0    0    0   1.670     55  0.00
+  211  211     1   0   0   0   0   0   0   0   2  16  28  52   0   0   0   0   0   0   1   0     0    0    0   1.148     38  0.00
+  212  212     3  75   3   0   0   0   0   0   2   0   1   1   0   0   0   0   0   0  13   0     0    0    0   0.910     30  0.00
+  213  213     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  97   3     0    0    0   0.152      5  0.00
+  214  214     0   0   0  13   1   0   1   0   1   0   1   3   0   2   0   3   0   0  53  22     0    0    0   1.403     46  0.00
+  215  215     0   3   0  76  21   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.647     21  0.00
+  216  216     0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+  217  217     4   1  11   1   0   0   0   0   0   0   7  34   0  25   2   5   8   0   2   0     0    0    0   1.892     63  0.00
+  218  218     0  68  16   3  13   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.926     30  0.00
+  219  219     1   0   0   0   6   0  55   0  22   0  12   0   4   0   0   0   0   0   0   0     0    0    0   1.267     42  0.00
+  220  220    37   2   6   5  34   0   0   0  14   0   1   0   1   0   0   0   0   0   0   0     0    0    0   1.520     50  0.00
+  221  221     0   0   0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0     0    0    0   0.029      0  0.00
+  222  222    22   0   4   0   0   0   0   0   1   0   0  12   0  60   0   0   0   0   1   0     0    0    0   1.146     38  0.00
+  223  223    98   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.097      3  0.00
+  224  224     0   0   0   0   0   0   0  11   0   0   2   2   0   0   0   0   0   1  84   0     0    0    0   0.611     20  0.00
+  225  225     0   0   0   0   0   0   0   6   3   0  10   5   0   0   1  34   0   9   0  31     0    0    0   1.709     57  0.00
+  226  226     0   2   0   0   1   0   3   8   1   5  41   1   0  23   1   2   3   4   1   4     0    0    0   1.900     63  0.00
+  227  227     0   0   0   0   0   0   0   3   0   0  31  33   0   0   0   2   3   0  24   3     0    0    0   1.537     51  0.00
+  228  228     1   3   2   0   0   0   0   1  25  53   0   3   0   0   0  10   1   2   0   0     0    0    0   1.408     47  0.00
+  229  229     5   2   0   0   0   0  25  23   3   0  12  21   0   6   0   1   0   0   2   0     0    0    0   1.892     63  0.00
+  230  230     1   0   1   0   0   0   0  10   3  39   2   7   0   0   5  24   6   1   0   1     0    0    0   1.841     61  0.00
+  231  231    45  13  18   2   0   0  17   0   0   0   1   2   0   0   0   0   0   0   0   0     0    0    0   1.550     51  0.00
+  232  232     4   1   1   0   0   0   0   0   1  11   3  44   0   1   0   5   1   1  24   2     0    0    0   1.706     56  0.00
+  233  233     3  14   1   0   0   0   0   0   0   0  80   1   0   0   0   0   0   0   0   0     0    0    0   0.713     23  0.00
+  234  234    39   0   1   0   0   0   2   0   1   0   1  32   0   0   2  23   0   0   0   0     0    0    0   1.343     44  0.00
+  235  235    31   1  38   0   1   0   0   0  28   0   0   1   0   0   0   0   0   0   0   0     0    0    0   1.237     41  0.00
+  236  236     0   0   0   0   0   0   0   0   0   0   0   0   0   0  99   0   0   0   0   0     0    0    0   0.044      1  0.00
+  237  237    55   0  43   1   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.775     25  0.00
+  238  238     0   0   0   0   0   0  99   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.062      2  0.00
+  239  239     0  11   0  26  59   0   0   0   1   0   0   0   0   3   0   0   0   0   0   0     0    0    0   1.079     36  0.00
+  240  240     0   0   0   0   0   0   0   0   0   0   0   0   0   0  14  86   0   0   0   0     0    0    0   0.428     14  0.00
+  241  241     0   2   1  11   0   0   0   0   3  83   0   0   0   0   0   0   0   0   0   0     0    0    0   0.625     20  0.00
+  242  242     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0     0    0    0   0.027      0  0.00
+  243  243     0   0   0   0   0   0   0   0   0   0   0   0   0  99   0   0   0   0   0   0     0    0    0   0.039      1  0.00
+  244  244    78   0  20   0   0   0   0   0   0   0   0   2   0   0   0   0   0   0   0   0     0    0    0   0.619     20  0.00
+  245  245     0   0   0   0   0   0   0   0   0   0   0   0   0   0  43  54   0   2   0   0     0    0    0   0.797     26  0.00
+  246  246    20   0   0   0   0   0   0   0  73   0   0   4   2   0   0   0   0   0   0   0     0    0    0   0.794     26  0.00
+  247  247     0   0   0   0   0  91   9   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.308     10  0.00
+  248  248    56   0  19   0   0   0   0   0   2   0   0   0  22   0   0   0   0   0   0   0     0    0    0   1.096     36  0.00
+  249  249     0   0   0   0   0   0   0   0   0  99   0   0   0   0   0   0   0   0   0   0     0    0    0   0.035      1  0.00
+  250  250     0   0   0   0   0   0   0   0   0   0   0   0   0   0  99   0   0   0   0   0     0    0    0   0.049      1  0.00
+  251  251     0   0   0   0   0   0   0   0  29  71   0   0   0   0   0   0   0   0   0   0     0    0    0   0.618     20  0.00
+  252  252     0   1   1  10   0   0   0   0   0  87   0   0   0   0   0   0   0   0   0   0     0    0    0   0.462     15  0.00
+  253  253     0   0   0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0     0    0    0   0.010      0  0.00
+  254  254     1  60   0   0   0   0   0   0  23   0   1   3   0   0   0   0   1   0  11   0     0    0    0   1.166     38  0.00
+  255  255    21   3   0   3   0   0   0   0   2   0   1   0  58   0   0   0  12   0   0   0     0    0    0   1.237     41  0.00
+  256  256     0   1   0   0   0   0   0   0  12  42   2   0   0   0   0   1  25   3  11   2     0    0    0   1.583     52  0.00
+  257  257     0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.019      0  0.00
+  258  258     4   2   5   0   8   0  58   0   0   0   0   3   0   1   3   1   7   6   0   0     0    0    0   1.603     53  0.00
+  259  259     0   0   0   0   0   0   1  51  18   0   5   0   0   1   1  16   0   0   7   0     0    0    0   1.396     46  0.00
+  260  260     0   0   4   0   0   0   0   0  15  49   4   1   0   2   3  17   1   3   0   1     0    0    0   1.630     54  0.00
+  261  261     0   0   0   0   0   0   0  76   0   0   0   1   0   0   0   0   0   0  22   0     0    0    0   0.618     20  0.00
+  262  262    93   0   0   0   0   0   0   0   0   1   0   6   0   0   0   0   0   0   0   0     0    0    0   0.308     10  0.00
+  263  263     0   0   0   0   0   0   0   0   0   0   0   2   0   0   0   1   0   1  25  71     0    0    0   0.770     25  0.00
+  264  264     3   1   0   0  26   0  66   0   0   1   0   0   0   2   0   0   0   0   0   0     0    0    0   0.976     32  0.00
+  265  265     0   0   0   0   0   0   0   0   4   5   2   0   0   0  10  70   0   1   7   0     0    0    0   1.114     37  0.00
+  266  266     1   0   0   0   4   0   0   4   0   1   2   2   0   3   0   6   1   0  12  63     0    0    0   1.418     47  0.00
+  267  267     0   0   0   0   0   0   0  13   0   0   4  46   0   0   0   4   0   1  26   4     0    0    0   1.466     48  0.00
+  268  268     9  75   3   0   2   0   0   1   0   4   0   6   0   0   0   0   1   0   0   0     0    0    0   0.973     32  0.00
+  269  269     1   0   0   0   0   0   0   0  11   0   0  61   0   0   0   2   1   6   3  17     0    0    0   1.247     41  0.00
+  270  270     0   0   0   0   0   0   0   0   1  98   0   1   0   0   0   0   0   0   0   0     0    0    0   0.093      3  0.00
+  271  271    10  80   1   0   6   0   1   0   0   0   1   1   0   0   0   1   0   0   0   0     0    0    0   0.772     25  0.00
+  272  272     0   1   6   0   0   0   0   0   0  17  60  14   0   0   0   0   1   3   0   0     0    0    0   1.214     40  0.00
+  273  273     1   0   1   0   0   0   0   1   1   7   0  49   0   1   3   7   0  29   1   1     0    0    0   1.430     47  0.00
+  274  274     0   0   0   0   0   0   0   0   0   0   0   2   0   2   1  92   4   0   0   1     0    0    0   0.401     13  0.00
+  275  275     0   0   0   0   0   0   0  39   1   0   3   1   0   0   1   0   0   2   5  50     0    0    0   1.119     37  0.00
+  276  276     9  87   2   1   0   0   1   0   1   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.539     17  0.00
+  277  277     0   0   1   0   0   0   0   0   1   0   0  96   0   1   0   0   0   0   1   0     0    0    0   0.199      6  0.00
+  278  278     0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+  279  279     0   0   0   0   1   0  99   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.040      1  0.00
+//

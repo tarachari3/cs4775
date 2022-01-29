@@ -1,0 +1,9 @@
+This tar contains the 20-fold cross-validation set
+together with the profile files used for the training/testing.
+The profiles were obtained using blast against the non-redundat database.
+Moreove the sequences with the assigned cysteines are also included.
+The *.seq files contain the sequence and a descriptor
+0 => for non-Cysteines
+1 => intra-chein bonds
+2 => inter-chain bonds (trated here as -1)
+-1=> free cysteines

@@ -1,0 +1,552 @@
+ID Pseudo hssp file.
+SEQ 
+SEQ gi|126608|sp|P00698|LYC_CHICK LYSOZYME C PRECURSOR (1,4-BETA-N-A...   242  1e-63
+SEQ gi|63581|emb|CAA23711.1| (V00428) coding sequence lysozyme [Gall...   241  4e-63
+SEQ gi|1000054|pdb|1LSY|    Lysozyme (E.C.3.2.1.17) Mutant With Asp ...   240  8e-63
+SEQ gi|1127120|pdb|1LSG|    Lysozyme, Fibrinogen Mol_id: 1; Molecule...   238  2e-62
+SEQ gi|2851416|sp|P00701|LYC_COTJA LYSOZYME C PRECURSOR (1,4-BETA-N-...   233  6e-61
+SEQ gi|9257052|pdb|1F0W|A Chain A, Crystal Structure Of Orthorhombic...   233  7e-61
+SEQ gi|229157|prf||630460A lysozyme [Gallus gallus]                       233  9e-61
+SEQ gi|2781269|pdb|1KXW|    Analysis Of The Stabilization Of Hen Lys...   233  9e-61
+SEQ gi|1065030|pdb|1LZE|    Lysozyme (E.C.3.2.1.17) Mutant With Trp ...   233  1e-60
+SEQ gi|1065031|pdb|1LZG|    Lysozyme (E.C.3.2.1.17) Mutant With Trp ...   233  1e-60
+SEQ gi|442980|pdb|1HEM|    Lysozyme (E.C.3.2.1.17) Mutant With Ser 9...   233  1e-60
+SEQ gi|442982|pdb|1HEO|    Lysozyme (E.C.3.2.1.17) Mutant With Ile 5...   232  1e-60
+SEQ gi|576405|pdb|2IFF|Y Chain Y, Igg1 Fab Fragment (Hyhel-5) Comple...   232  1e-60
+SEQ gi|14278672|pdb|1IOT|A Chain A, Stabilization Of Hen Egg White L...   232  1e-60
+SEQ gi|442981|pdb|1HEN|    Lysozyme (E.C.3.2.1.17) Mutant With Ile 5...   232  2e-60
+SEQ gi|442985|pdb|1HER|    Lysozyme (E.C.3.2.1.17) Mutant With Thr 4...   231  2e-60
+SEQ gi|14278671|pdb|1IOS|A Chain A, Stabilization Of Hen Egg White L...   231  2e-60
+SEQ gi|10120552|pdb|1FLQ|A Chain A, Hen Egg White Lysozyme Mutant Wi...   231  2e-60
+SEQ gi|10120553|pdb|1FLU|A Chain A, Hen Egg White Lysozyme Mutant Wi...   231  2e-60
+SEQ gi|10120554|pdb|1FLW|A Chain A, Hen Egg White Lysozyme Mutant Wi...   231  2e-60
+SEQ gi|10120555|pdb|1FLY|A Chain A, Hen Egg White Lysozyme Mutant Wi...   231  2e-60
+SEQ gi|10120556|pdb|1FN5|A Chain A, Hen Egg White Lysozyme Mutant Wi...   231  2e-60
+SEQ gi|442984|pdb|1HEQ|    Lysozyme (E.C.3.2.1.17) Mutant With Thr 4...   231  3e-60
+SEQ gi|11514346|pdb|1E8L|A Chain A, Nmr Solution Structure Of Hen Ly...   231  3e-60
+SEQ gi|14278670|pdb|1IOR|A Chain A, Stabilization Of Hen Egg White L...   231  3e-60
+SEQ gi|14278669|pdb|1IOQ|A Chain A, Stabilization Of Hen Egg White L...   231  4e-60
+SEQ gi|442983|pdb|1HEP|    Lysozyme (E.C.3.2.1.17) Mutant With Thr 4...   231  4e-60
+SEQ gi|2982050|pdb|1AT6|    Hen Egg White Lysozyme With A Isoasparta...   230  5e-60
+SEQ gi|2781276|pdb|1UID|    Analysis Of The Stabilization Of Hen Lys...   230  5e-60
+SEQ gi|2781271|pdb|1KXY|    Analysis Of The Stabilization Of Hen Lys...   230  5e-60
+SEQ gi|2781270|pdb|1KXX|    Analysis Of The Stabilization Of Hen Lys...   230  5e-60
+SEQ gi|3212285|pdb|1A2Y|C Chain C, Hen Egg White Lysozyme, D18a Muta...   230  6e-60
+SEQ gi|2811089|sp|P00700|LYC_COLVI LYSOZYME C (1,4-BETA-N-ACETYLMURA...   230  7e-60
+SEQ gi|809244|pdb|1LSN|    Lysozyme (E.C.3.2.1.17) Mutant With Ser 9...   230  8e-60
+SEQ gi|126617|sp|P00699|LYC_LOPCA LYSOZYME C (1,4-BETA-N-ACETYLMURAM...   230  9e-60
+SEQ gi|2781278|pdb|1UIF|    Analysis Of The Stabilization Of Hen Lys...   230  1e-59
+SEQ gi|126619|sp|P00703|LYC_MELGA LYSOZYME C PRECURSOR (1,4-BETA-N-A...   229  1e-59
+SEQ gi|809243|pdb|1LSM|    Lysozyme (E.C.3.2.1.17) Mutant With Ile 5...   229  1e-59
+SEQ gi|2781275|pdb|1UIC|    Analysis Of The Stabilization Of Hen Lys...   229  1e-59
+SEQ gi|2781277|pdb|1UIE|    Analysis Of The Stabilization Of Hen Lys...   229  2e-59
+SEQ gi|2982049|pdb|1AT5|    Hen Egg White Lysozyme With A Succinimid...   228  2e-59
+SEQ gi|547878|sp|P00702|LYC_PHACO LYSOZYME C PRECURSOR (1,4-BETA-N-A...   228  2e-59
+SEQ gi|67408|pir||LZFER lysozyme (EC 3.2.1.17) c precursor [validate...   228  2e-59
+SEQ gi|7435406|pir||JC5555 lysozyme (EC 3.2.1.17) - cheer pheasant >...   226  9e-59
+SEQ gi|494792|pdb|2IHL|    Lysozyme (E.C.3.2.1.17) (Japanese Quail)       225  2e-58
+SEQ gi|484661|pir||JU0237 lysozyme (EC 3.2.1.17) C precursor - Japan...   225  3e-58
+SEQ gi|126624|sp|P19849|LYC_PAVCR LYSOZYME C (1,4-BETA-N-ACETYLMURAM...   223  6e-58
+SEQ gi|2781274|pdb|1UIB|    Analysis Of The Stabilization Of Hen Lys...   223  9e-58
+SEQ gi|7435405|pir||JC5544 lysozyme (EC 3.2.1.17) - Temminck's tragopan   222  1e-57
+SEQ gi|126609|sp|P22910|LYC_CHRAM LYSOZYME C (1,4-BETA-N-ACETYLMURAM...   222  2e-57
+SEQ gi|126620|sp|P00704|LYC_NUMME LYSOZYME C (1,4-BETA-N-ACETYLMURAM...   221  3e-57
+SEQ gi|2144476|pir||LZUH lysozyme (EC 3.2.1.17) c [validated] - helm...   221  4e-57
+SEQ gi|11514088|pdb|1DZB|X Chain X, Crystal Structure Of Phage Libra...   221  4e-57
+SEQ gi|443109|pdb|1LZ3|    Lysozyme (E.C.3.2.1.17)                        220  7e-57
+SEQ gi|126618|sp|P24364|LYC_LOPLE LYSOZYME C (1,4-BETA-N-ACETYLMURAM...   220  7e-57
+SEQ gi|442943|pdb|1GHL|A Chain A, Lysozyme (E.C.3.2.1.17) >gi|442944...   220  8e-57
+SEQ gi|494223|pdb|1JHL|A Chain A, Fv Fragment (Igg1, Kappa) (Light A...   220  9e-57
+SEQ gi|1346475|sp|P49663|LYC_PHAVE LYSOZYME C (1,4-BETA-N-ACETYLMURA...   220  1e-56
+SEQ gi|742827|prf||2011187A lysozyme [Syrmaticus soemmerringii]           218  3e-56
+SEQ gi|126655|sp|P24533|LYC_SYRRE LYSOZYME C (1,4-BETA-N-ACETYLMURAM...   218  4e-56
+SEQ gi|8928169|sp|P81711|LYC_SYRSO LYSOZYME C (1,4-BETA-N-ACETYLMURA...   217  6e-56
+SEQ gi|230142|pdb|1LZ2|    Lysozyme                                       216  1e-55
+SEQ gi|7435403|pir||JC5380 lysozyme (EC 3.2.1.17) - wood duck             210  7e-54
+SEQ gi|126592|sp|P00705|LYC1_ANAPL LYSOZYME C-1 PRECURSOR (1,4-BETA-...   206  1e-52
+SEQ gi|7435401|pir||JE0185 lysozyme (EC 3.2.1.17) - bare-faced crassow    201  4e-51
+SEQ gi|126595|sp|P00706|LYC3_ANAPL LYSOZYME C-3 (1,4-BETA-N-ACETYLMU...   199  2e-50
+SEQ gi|350714|prf||0802160A lysozyme DL1 [Anas platyrhynchos]             199  2e-50
+SEQ gi|126622|sp|P00707|LYC_ORTVE LYSOZYME C (1,4-BETA-N-ACETYLMURAM...   198  3e-50
+SEQ gi|350715|prf||0802160B lysozyme DL3 [Anas platyrhynchos]             195  3e-49
+SEQ gi|7435404|pir||JC5493 lysozyme (EC 3.2.1.17) - Trionyx sinensis      172  2e-42
+SEQ gi|1170844|sp|P80189|LYCN_BOVIN LYSOZYME C, NON-STOMACH ISOZYME ...   164  6e-40
+SEQ gi|1083047|pir||C49315 lysozyme (EC 3.2.1.17) 5a, tracheal - bov...   161  5e-39
+SEQ gi|11344949|gb|AAG34564.1|AF321519_1 (AF321519) lysozyme variant...   160  8e-39
+SEQ gi|266487|sp|P80190|LYCK_SHEEP LYSOZYME C, KIDNEY (1,4-BETA-N-AC...   159  1e-38
+SEQ gi|266485|sp|P11941|LYC2_ONCMY LYSOZYME C II PRECURSOR (1,4-BETA...   159  1e-38
+SEQ gi|1310930|pdb|1LMQ|    Mol_id: 1; Molecule: Lysozyme; Chain: Nu...   159  1e-38
+SEQ gi|1002429|gb|AAC48683.1| (U25810) lysozyme [Bos taurus]              159  2e-38
+SEQ gi|266489|sp|P30201|LYC_MACMU LYSOZYME C PRECURSOR (1,4-BETA-N-A...   158  3e-38
+SEQ gi|2506828|sp|P00696|LYC_PAPAN LYSOZYME C PRECURSOR (1,4-BETA-N-...   157  6e-38
+SEQ gi|2497776|sp|P79179|LYC_GORGO LYSOZYME C PRECURSOR (1,4-BETA-N-...   156  1e-37
+SEQ gi|2497780|sp|P79239|LYC_PONPY LYSOZYME C PRECURSOR (1,4-BETA-N-...   156  1e-37
+SEQ gi|307141|gb|AAA36188.1| (M21119) lysozyme precursor (EC 3.2.1.1...   156  2e-37
+SEQ gi|4557894|ref|NP_000230.1| lysozyme precursor [Homo sapiens] >g...   156  2e-37
+SEQ gi|126628|sp|P16973|LYC_RABIT LYSOZYME C (1,4-BETA-N-ACETYLMURAM...   155  2e-37
+SEQ gi|67401|pir||LZBA lysozyme (EC 3.2.1.17) c - baboon (tentative ...   155  2e-37
+SEQ gi|2497781|sp|P79847|LYC_PYGNE LYSOZYME C PRECURSOR (1,4-BETA-N-...   155  2e-37
+SEQ gi|1085481|pir||JX0367 lysozyme (EC 3.2.1.17) colonic 1 - rabbit      155  2e-37
+SEQ gi|1790947|gb|AAB41212.1| (U76918) lysozyme c precursor [Trachyp...   155  3e-37
+SEQ gi|2497778|sp|P79806|LYC_MIOTA LYSOZYME C PRECURSOR (1,4-BETA-N-...   155  3e-37
+SEQ gi|2497779|sp|P79811|LYC_NASLA LYSOZYME C PRECURSOR (1,4-BETA-N-...   155  3e-37
+SEQ gi|1085469|pir||JC2506 colonic lysozyme 2 - rabbit                    155  3e-37
+SEQ gi|2497777|sp|P79180|LYC_HYLLA LYSOZYME C PRECURSOR (1,4-BETA-N-...   154  3e-37
+SEQ gi|266488|sp|P30200|LYC_CERAE LYSOZYME C PRECURSOR (1,4-BETA-N-A...   154  3e-37
+SEQ gi|266490|sp|P07232|LYC_PREEN LYSOZYME C PRECURSOR (1,4-BETA-N-A...   154  3e-37
+SEQ gi|2497771|sp|P79687|LYC_ALLNI LYSOZYME C PRECURSOR (1,4-BETA-N-...   154  4e-37
+SEQ gi|126593|sp|P12067|LYC1_PIG LYSOZYME C-1 (1,4-BETA-N-ACETYLMURA...   154  6e-37
+SEQ gi|6730356|pdb|1DI3|A Chain A, Role Of Amino Acid Residues At Tu...   153  9e-37
+SEQ gi|11513935|pdb|1GE3|A Chain A, Crystal Structure Of Mutant Huma...   153  1e-36
+SEQ gi|12084272|pdb|1GFR|A Chain A, Crystal Structure Of Mutant Huma...   153  1e-36
+SEQ gi|2497772|sp|P79158|LYC_CALJA LYSOZYME C PRECURSOR (1,4-BETA-N-...   152  2e-36
+SEQ gi|494255|pdb|1LHJ|    Lysozyme (E.C.3.2.1.17) Mutant With Pro 1...   152  2e-36
+SEQ gi|4930014|pdb|1CJ6|A Chain A, T11a Mutant Human Lysozyme             152  2e-36
+SEQ gi|3318693|pdb|1WQO|    Contribution Of Hydrogen Bonds To The Co...   152  2e-36
+SEQ gi|230343|pdb|1TDY|    Lysozyme (E.C.3.2.1.17) Mutant With Tyr 6...   151  3e-36
+SEQ gi|2506829|sp|P12068|LYC2_PIG LYSOZYME C-2 PRECURSOR (1,4-BETA-N...   151  3e-36
+SEQ gi|847820|gb|AAC63078.1| (U25677) lysozyme precursor [Homo sapiens]   151  3e-36
+SEQ gi|494256|pdb|1LHK|    Lysozyme (E.C.3.2.1.17) Mutant With Asp 9...   151  3e-36
+SEQ gi|14278472|pdb|1GF3|A Chain A, Buried Polar Mutant Human Lysozyme    151  3e-36
+SEQ gi|7546189|pdb|1C7P|A Chain A, Crystal Structure Of Mutant Human...   151  4e-36
+SEQ gi|11513937|pdb|1GE4|A Chain A, Crystal Structure Of Mutant Huma...   151  4e-36
+SEQ gi|2497782|sp|P79268|LYC_SAGOE LYSOZYME C PRECURSOR (1,4-BETA-N-...   151  4e-36
+SEQ gi|6729883|pdb|1B7O|A Chain A, Verification Of Spmp Using Mutant...   151  4e-36
+SEQ gi|4930015|pdb|1CJ7|A Chain A, T11v Mutant Human Lysozyme             151  5e-36
+SEQ gi|9955033|pdb|1GB8|A Chain A, Crystal Structure Of Mutant Human...   151  5e-36
+SEQ gi|494257|pdb|1LHL|    Lysozyme (E.C.3.2.1.17) Mutant With Ala 4...   151  5e-36
+SEQ gi|407088|emb|CAA53144.1| (X75362) lysozyme [synthetic construct]     151  5e-36
+SEQ gi|12084401|pdb|1GFH|A Chain A, Crystal Structure Of Mutant Huma...   151  5e-36
+SEQ gi|6730357|pdb|1DI4|A Chain A, Role Of Amino Acid Residues At Tu...   151  5e-36
+SEQ gi|9955034|pdb|1GB9|A Chain A, Crystal Structure Of Mutant Human...   151  5e-36
+SEQ gi|9955032|pdb|1GB7|A Chain A, Crystal Structure Of Mutant Human...   151  5e-36
+SEQ gi|6729705|pdb|1B5X|A Chain A, Contribution Of Hydrogen Bonds To...   151  6e-36
+SEQ gi|2506830|sp|P12069|LYC3_PIG LYSOZYME C-3 PRECURSOR (1,4-BETA-N...   151  6e-36
+SEQ gi|3212551|pdb|1JSF|    Full-Matrix Least-Squares Refinement Of ...   150  6e-36
+SEQ gi|2497783|sp|P79294|LYC_SAISC LYSOZYME C PRECURSOR (1,4-BETA-N-...   150  6e-36
+SEQ gi|1421350|pdb|1YAN|    Mol_id: 1; Molecule: Lysozyme; Chain: Nu...   150  6e-36
+SEQ gi|4388853|pdb|1B7S|    Verification Of Spmp Using Mutant Human ...   150  6e-36
+SEQ gi|5821957|pdb|1C46|A Chain A, Mutant Human Lysozyme With Foreig...   150  6e-36
+SEQ gi|12084402|pdb|1GFJ|A Chain A, Crystal Structure Of Mutant Huma...   150  6e-36
+SEQ gi|6165445|emb|CAB59841.1| (AJ250732) lysozyme precursor [Scopht...   150  6e-36
+SEQ gi|13399625|pdb|1I1Z|A Chain A, Mutant Human Lysozyme (Q86d)          150  6e-36
+SEQ gi|3318694|pdb|1WQP|    Contribution Of Hydrogen Bonds To The Co...   150  7e-36
+SEQ gi|9955031|pdb|1GB6|A Chain A, Crystal Structure Of Mutant Human...   150  7e-36
+SEQ gi|230342|pdb|1TCY|    Lysozyme (E.C.3.2.1.17) Mutant With Tyr 6...   150  7e-36
+SEQ gi|3318691|pdb|1WQM|    Contribution Of Hydrogen Bonds To The Co...   150  7e-36
+SEQ gi|220950|dbj|BAA00314.1| (D00413) lysozyme [synthetic construct]     150  7e-36
+SEQ gi|1421348|pdb|1YAM|    Mol_id: 1; Molecule: Lysozyme; Chain: Nu...   150  7e-36
+SEQ gi|1942306|pdb|1OUH|    Contribution Of Hydrophobic Residues To ...   150  7e-36
+SEQ gi|13399626|pdb|1I20|A Chain A, Mutant Human Lysozyme (A92d)          150  7e-36
+SEQ gi|86660|pir||A29736 lysozyme (EC 3.2.1.17) - hanuman langur >gi...   150  7e-36
+SEQ gi|2497774|sp|P79698|LYC_COLAN LYSOZYME C PRECURSOR (1,4-BETA-N-...   150  8e-36
+SEQ gi|9955027|pdb|1GAZ|A Chain A, Crystal Structure Of Mutant Human...   150  8e-36
+SEQ gi|9955036|pdb|1GBW|A Chain A, Crystal Structure Of Mutant Human...   150  8e-36
+SEQ gi|12084403|pdb|1GFK|A Chain A, Crystal Structure Of Mutant Huma...   150  8e-36
+SEQ gi|108437|pir||S10047 lysozyme (EC 3.2.1.17) - red deer               150  8e-36
+SEQ gi|230892|pdb|3LHM|    Lysozyme (E.C.3.2.1.17) (Holo) (Mutant Wi...   150  9e-36
+SEQ gi|1421352|pdb|1YAO|    Mol_id: 1; Molecule: Lysozyme; Chain: Nu...   150  9e-36
+SEQ gi|1421354|pdb|1YAP|    Mol_id: 1; Molecule: Lysozyme; Chain: Nu...   150  9e-36
+SEQ gi|1421357|pdb|1YAQ|    Mol_id: 1; Molecule: Lysozyme; Chain: Nu...   150  9e-36
+SEQ gi|1942304|pdb|1OUF|    Contribution Of Hydrophobic Residues To ...   150  9e-36
+SEQ gi|9955030|pdb|1GB5|A Chain A, Crystal Structure Of Mutant Human...   150  9e-36
+SEQ gi|7305247|ref|NP_038618.1| P lysozyme structural [Mus musculus]...   149  1e-35
+SEQ gi|2914307|pdb|2HEB|    Contribution Of Water Molecules In The I...   149  1e-35
+SEQ gi|3402141|pdb|2MEB|    Changes In Conformational Stability Of A...   149  1e-35
+SEQ gi|3402145|pdb|2MEE|    Contribution Of Hydrophobic Effect To Th...   149  1e-35
+SEQ gi|4388847|pdb|1B5Z|A Chain A, Contribution Of Hydrogen Bonds To...   149  1e-35
+SEQ gi|6729876|pdb|1B5U|A Chain A, Contribution Of Hydrogen Bonds To...   149  1e-35
+SEQ gi|6729877|pdb|1B5V|A Chain A, Contribution Of Hydrogen Bonds To...   149  1e-35
+SEQ gi|6729878|pdb|1B5W|A Chain A, Contribution Of Hydrogen Bonds To...   149  1e-35
+SEQ gi|6729879|pdb|1B5Y|A Chain A, Contribution Of Hydrogen Bonds To...   149  1e-35
+SEQ gi|3318692|pdb|1WQN|    Contribution Of Hydrogen Bonds To The Co...   149  1e-35
+SEQ gi|3318695|pdb|1WQQ|    Contribution Of Hydrogen Bonds To The Co...   149  1e-35
+SEQ gi|6729884|pdb|1B7P|A Chain A, Verification Of Spmp Using Mutant...   149  1e-35
+SEQ gi|9955028|pdb|1GB0|A Chain A, Crystal Structure Of Mutant Human...   149  1e-35
+SEQ gi|9955037|pdb|1GBX|A Chain A, Crystal Structure Of Mutant Human...   149  1e-35
+SEQ gi|14278470|pdb|1GEZ|A Chain A, Buried Polar Mutant Human Lysozyme    149  1e-35
+SEQ gi|14278471|pdb|1GF0|A Chain A, Buried Polar Mutant Human Lysozyme    149  1e-35
+SEQ gi|14278474|pdb|1GF5|A Chain A, Buried Polar Mutant Human Lysozyme    149  1e-35
+SEQ gi|9955038|pdb|1GBY|A Chain A, Crystal Structure Of Mutant Human...   149  1e-35
+SEQ gi|9955327|pdb|1GB2|A Chain A, Crystal Structure Of Mutant Human...   149  1e-35
+SEQ gi|3402142|pdb|2MEC|A Chain A, Changes In Conformational Stabili...   149  1e-35
+SEQ gi|3402146|pdb|2MEF|    Contribution Of Hydrophobic Effect To Th...   149  1e-35
+SEQ gi|4930017|pdb|1CJ9|A Chain A, T40v Mutant Human Lysozyme             149  1e-35
+SEQ gi|4930021|pdb|1CKD|A Chain A, T43v Mutant Human Lysozyme             149  1e-35
+SEQ gi|4930023|pdb|1CKH|A Chain A, T70v Mutant Human Lysozyme             149  1e-35
+SEQ gi|5107556|pdb|1CKG|A Chain A, T52v Mutant Human Lysozyme >gi|51...   149  1e-35
+SEQ gi|230114|pdb|1LAA|    Lysozyme (E.C.3.2.1.17) Mutant With Asp 5...   149  1e-35
+SEQ gi|6980459|pdb|1D6Q|A Chain A, Human Lysozyme E102 Mutant Labell...   149  1e-35
+SEQ gi|6729881|pdb|1B7M|A Chain A, Verification Of Spmp Using Mutant...   149  1e-35
+SEQ gi|5821955|pdb|1C43|A Chain A, Mutant Human Lysozyme With Foreig...   149  1e-35
+SEQ gi|3659962|pdb|1BB5|A Chain A, Human Lysozyme Mutant A96l Comple...   149  1e-35
+SEQ gi|6729880|pdb|1B7L|A Chain A, Verification Of Spmp Using Mutant...   149  1e-35
+SEQ gi|230341|pdb|1TBY|    Lysozyme (E.C.3.2.1.17) Mutant With Tyr 6...   149  1e-35
+SEQ gi|442590|pdb|133L|    Lysozyme (E.C.3.2.1.17) Mutant With Arg 1...   149  1e-35
+SEQ gi|9955029|pdb|1GB3|A Chain A, Crystal Structure Of Mutant Human...   149  2e-35
+SEQ gi|9955039|pdb|1GBZ|A Chain A, Crystal Structure Of Mutant Human...   149  2e-35
+SEQ gi|3402139|pdb|2MEA|A Chain A, Changes In Conformational Stabili...   149  2e-35
+SEQ gi|3402144|pdb|2MED|    Contribution Of Hydrophobic Effect To Th...   149  2e-35
+SEQ gi|442591|pdb|134L|    Lysozyme (E.C.3.2.1.17) Mutant With Arg 1...   149  2e-35
+SEQ gi|2914544|pdb|2HEA|    Contribution Of Water Molecules In The I...   149  2e-35
+SEQ gi|11513933|pdb|1GE2|A Chain A, Crystal Structure Of Mutant Huma...   149  2e-35
+SEQ gi|7767015|pdb|1EQ4|A Chain A, Crystal Structures Of Salt Bridge...   149  2e-35
+SEQ gi|2194061|pdb|1JKA|    Human Lysozyme Mutant With Glu 35 Replac...   149  2e-35
+SEQ gi|2194068|pdb|1JKC|    Human Lysozyme Mutant With Trp 109 Repla...   149  2e-35
+SEQ gi|4930016|pdb|1CJ8|A Chain A, T40a Mutant Human Lysozyme             149  2e-35
+SEQ gi|4930020|pdb|1CKC|A Chain A, T43a Mutant Human Lysozyme             149  2e-35
+SEQ gi|4930022|pdb|1CKF|A Chain A, T52a Mutant Human Lysozyme             149  2e-35
+SEQ gi|14278475|pdb|1GF6|A Chain A, Buried Polar Mutant Human Lysozyme    149  2e-35
+SEQ gi|12084273|pdb|1GFT|A Chain A, Crystal Structure Of Mutant Huma...   149  2e-35
+SEQ gi|12084397|pdb|1GF9|A Chain A, Crystal Structure Of Mutant Huma...   149  2e-35
+SEQ gi|5821956|pdb|1C45|A Chain A, Mutant Human Lysozyme With Foreig...   149  2e-35
+SEQ gi|6729885|pdb|1B7Q|A Chain A, Verification Of Spmp Using Mutant...   149  2e-35
+SEQ gi|494253|pdb|1LHH|    Lysozyme (E.C.3.2.1.17) Mutant With Val 1...   149  2e-35
+SEQ gi|14278473|pdb|1GF4|A Chain A, Buried Polar Mutant Human Lysozyme    149  2e-35
+SEQ gi|14278476|pdb|1GF7|A Chain A, Buried Polar Mutant Human Lysozyme    149  2e-35
+SEQ gi|539967|pir||A40729 lysozyme (EC 3.2.1.17) 1 precursor - rat >...   149  2e-35
+SEQ gi|13399627|pdb|1I22|A Chain A, Mutant Human Lysozyme (A83kQ86DA...   149  2e-35
+SEQ gi|3402149|pdb|2MEI|    Contribution Of Hydrophobic Effect To Th...   149  2e-35
+SEQ gi|1942303|pdb|1OUE|    Contribution Of Hydrophobic Residues To ...   148  2e-35
+SEQ gi|1942308|pdb|1OUJ|    Contribution Of Hydrophobic Residues To ...   148  2e-35
+SEQ gi|1942300|pdb|1OUB|    Contribution Of Hydrophobic Residues To ...   148  2e-35
+SEQ gi|1942301|pdb|1OUC|    Contribution Of Hydrophobic Residues To ...   148  2e-35
+SEQ gi|1942302|pdb|1OUD|    Contribution Of Hydrophobic Residues To ...   148  2e-35
+SEQ gi|1942305|pdb|1OUG|    Contribution Of Hydrophobic Residues To ...   148  2e-35
+SEQ gi|1942307|pdb|1OUI|    Contribution Of Hydrophobic Residues To ...   148  2e-35
+SEQ gi|2098480|pdb|1LYY|    Amyloidogenic Variant (Asp67his) Of Huma...   148  2e-35
+SEQ gi|230340|pdb|1TAY|    Lysozyme (E.C.3.2.1.17) Mutant With Tyr 6...   148  3e-35
+SEQ gi|1942299|pdb|1OUA|    Contribution Of Hydrophobic Residues To ...   148  3e-35
+SEQ gi|3402148|pdb|2MEH|    Contribution Of Hydrophobic Effect To Th...   148  3e-35
+SEQ gi|11513927|pdb|1GDX|A Chain A, Crystal Structure Of Mutant Huma...   148  3e-35
+SEQ gi|7767016|pdb|1EQ5|A Chain A, Crystal Structures Of Salt Bridge...   148  3e-35
+SEQ gi|7767021|pdb|1EQE|A Chain A, Crystal Structures Of Salt Bridge...   148  3e-35
+SEQ gi|14278467|pdb|1GEV|A Chain A, Buried Polar Mutant Human Lysozyme    148  3e-35
+SEQ gi|1827555|pdb|207L|A Chain A, Mutant Human Lysozyme C77a >gi|99...   148  3e-35
+SEQ gi|11513931|pdb|1GE1|A Chain A, Crystal Structure Of Mutant Huma...   148  3e-35
+SEQ gi|2914545|pdb|2HEC|    Contribution Of Water Molecules In The I...   148  3e-35
+SEQ gi|2914546|pdb|2HED|    Contribution Of Water Molecules In The I...   148  3e-35
+SEQ gi|2914548|pdb|2HEF|    Contribution Of Water Molecules In The I...   148  3e-35
+SEQ gi|12084396|pdb|1GF8|A Chain A, Crystal Structure Of Mutant Huma...   148  3e-35
+SEQ gi|2194067|pdb|1JKB|    Human Lysozyme Mutant With Glu 35 Replac...   148  4e-35
+SEQ gi|6729882|pdb|1B7N|A Chain A, Verification Of Spmp Using Mutant...   148  4e-35
+SEQ gi|11514208|pdb|1GDW|A Chain A, Crystal Structure Of Mutant Huma...   148  4e-35
+SEQ gi|11513929|pdb|1GE0|A Chain A, Crystal Structure Of Mutant Huma...   148  4e-35
+SEQ gi|12084274|pdb|1GFU|A Chain A, Crystal Structure Of Mutant Huma...   148  4e-35
+SEQ gi|12084398|pdb|1GFA|A Chain A, Crystal Structure Of Mutant Huma...   148  4e-35
+SEQ gi|6980888|pdb|1B7R|A Chain A, Verification Of Spmp Using Mutant...   148  4e-35
+SEQ gi|12084400|pdb|1GFG|A Chain A, Crystal Structure Of Mutant Huma...   148  4e-35
+SEQ gi|12084409|pdb|1INU|A Chain A, Crystal Structure Of Mutant Huma...   148  4e-35
+SEQ gi|3402147|pdb|2MEG|    Changes In Conformational Stability Of A...   148  5e-35
+SEQ gi|11034661|dbj|BAB17215.1| (AB050469) chicken-type lysozyme [Pa...   148  5e-35
+SEQ gi|9256911|pdb|1GAY|A Chain A, Crystal Structure Of Mutant Human...   148  5e-35
+SEQ gi|9955035|pdb|1GBO|A Chain A, Crystal Structure Of Mutant Human...   148  5e-35
+SEQ gi|6981170|ref|NP_036903.1| lysozyme [Rattus norvegicus] >gi|585...   147  5e-35
+SEQ gi|5802278|gb|AAD51637.1| (AF170559) lysozyme 3 [Ovis aries]          147  5e-35
+SEQ gi|2194056|pdb|1JKD|    Human Lysozyme Mutant With Trp 109 Repla...   147  6e-35
+SEQ gi|2914547|pdb|2HEE|    Contribution Of Water Molecules In The I...   147  6e-35
+SEQ gi|12084275|pdb|1GFV|A Chain A, Crystal Structure Of Mutant Huma...   147  6e-35
+SEQ gi|12084399|pdb|1GFE|A Chain A, Crystal Structure Of Mutant Huma...   147  6e-35
+SEQ gi|3659960|pdb|1BB4|A Chain A, Human Lysozyme Double Mutant A96l...   146  9e-35
+SEQ gi|6730358|pdb|1DI5|A Chain A, Role Of Amino Acid Residues At Tu...   146  1e-34
+SEQ gi|8928189|sp|P81709|LYC2_CANFA LYSOZYME C, SPLEEN ISOZYME (1,4-...   146  1e-34
+SEQ gi|494254|pdb|1LHI|    Lysozyme (E.C.3.2.1.17) Mutant With Pro 7...   146  1e-34
+SEQ gi|385536|gb|AAB26912.1| lysozyme {beta-sheet domain} [human, Pe...   146  2e-34
+SEQ gi|585435|sp|Q05820|LYC2_RAT LYSOZYME C, TYPE 2 PRECURSOR (1,4-B...   146  2e-34
+SEQ gi|3660299|pdb|2BQC|    Contribution Of Hydrophobic Effect To Th...   146  2e-34
+SEQ gi|3660297|pdb|2BQA|    Contribution Of Hydrophobic Effect To Th...   146  2e-34
+SEQ gi|3660298|pdb|2BQB|    Contribution Of Hydrophobic Effect To Th...   145  2e-34
+SEQ gi|3660309|pdb|2BQM|    Contribution Of Hydrophobic Effect To Th...   145  2e-34
+SEQ gi|108789|pir||F34277 lysozyme (EC 3.2.1.17) c 3 precursor - bov...   145  2e-34
+SEQ gi|3660300|pdb|2BQD|    Contribution Of Hydrophobic Effect To Th...   145  2e-34
+SEQ gi|3660301|pdb|2BQE|    Contribution Of Hydrophobic Effect To Th...   145  2e-34
+SEQ gi|3660307|pdb|2BQK|    Contribution Of Hydrophobic Effect To Th...   145  3e-34
+SEQ gi|108782|pir||A34277 lysozyme (EC 3.2.1.17) c 1 precursor - bov...   145  3e-34
+SEQ gi|1070491|pir||LZBO lysozyme (EC 3.2.1.17) c 2 precursor - bovi...   145  3e-34
+SEQ gi|443111|pdb|1LZ5|    Lysozyme (E.C.3.2.1.17) Mutant With Four ...   145  3e-34
+SEQ gi|163315|gb|AAA30628.1| (M26241) lysozyme 2a precursor [Bos tau...   144  4e-34
+SEQ gi|443112|pdb|1LZ6|    Lysozyme (E.C.3.2.1.17) Mutant With Eight...   144  6e-34
+SEQ gi|3660306|pdb|2BQJ|    Contribution Of Hydrophobic Effect To Th...   144  7e-34
+SEQ gi|3660304|pdb|2BQH|    Contribution Of Hydrophobic Effect To Th...   144  7e-34
+SEQ gi|3660305|pdb|2BQI|    Contribution Of Hydrophobic Effect To Th...   144  7e-34
+SEQ gi|3660308|pdb|2BQL|    Contribution Of Hydrophobic Effect To Th...   144  7e-34
+SEQ gi|163311|gb|AAA30626.1| (M26245) lysozyme 1a precursor [Bos tau...   143  7e-34
+SEQ gi|8393739|ref|NP_059068.1| lysozyme [Mus musculus] >gi|126598|s...   143  8e-34
+SEQ gi|126607|sp|P04421|LYC_BOVIN LYSOZYME C PRECURSOR (1,4-BETA-N-A...   143  9e-34
+SEQ gi|999970|pdb|1LMT|    Lysozyme (E.C.3.2.1.17) (Lz_crgd4) Mutant...   143  1e-33
+SEQ gi|3660310|pdb|2BQN|    Contribution Of Hydrophobic Effect To Th...   142  3e-33
+SEQ gi|109055|pir||F35558 lysozyme (EC 3.2.1.17) 3 - sheep >gi|16597...   141  3e-33
+SEQ gi|14456630|emb|CAC41950.1| (Z98304) dJ54B20.3 (novel protein si...   141  3e-33
+SEQ gi|585437|sp|P37712|LYC_CAMDR LYSOZYME C (1,4-BETA-N-ACETYLMURAM...   141  4e-33
+SEQ gi|165972|gb|AAA31561.1| (M32496) lysozyme 3a precursor [Ovis ar...   141  5e-33
+SEQ gi|109054|pir||E35558 lysozyme (EC 3.2.1.17) 2 - sheep >gi|16597...   140  6e-33
+SEQ gi|163319|gb|AAA30630.1| (M26244) lysozyme 2c precursor [Bos tau...   140  6e-33
+SEQ gi|484214|gb|AAA74656.1| (L14853) lysozyme [Sus scrofa]               140  7e-33
+SEQ gi|5802272|gb|AAD51636.1| (AF170555) lysozyme 1 [Ovis aries]          140  8e-33
+SEQ gi|841212|gb|AAA85544.1| (U19466) lysozyme [Bos taurus]               140  9e-33
+SEQ gi|585431|sp|P37713|LYC1_CAPHI LYSOZYME C-1 (1,4-BETA-N-ACETYLMU...   139  2e-32
+SEQ gi|1708893|sp|P51782|LYC_TRIVU LYSOZYME C PRECURSOR (1,4-BETA-N-...   139  2e-32
+SEQ gi|1083046|pir||B49315 lysozyme (EC 3.2.1.17) 14d, tracheal - bo...   138  3e-32
+SEQ gi|108434|pir||H35558 lysozyme (EC 3.2.1.17) 2 - chital >gi|1625...   138  3e-32
+SEQ gi|126606|sp|P12066|LYC_AXIAX LYSOZYME C 1 AND 2 (1,4-BETA-N-ACE...   138  5e-32
+SEQ gi|12861149|dbj|BAB32128.1| (AK020538) putative [Mus musculus]        137  8e-32
+SEQ gi|126630|sp|P17607|LYC_SHEEP LYSOZYME C 1A TO 4B (1,4-BETA-N-AC...   136  1e-31
+SEQ gi|585434|sp|P37714|LYC2_CAPHI LYSOZYME C-2 (1,4-BETA-N-ACETYLMU...   135  2e-31
+SEQ gi|3660303|pdb|2BQG|    Contribution Of Hydrophobic Effect To Th...   135  3e-31
+SEQ gi|3660311|pdb|2BQO|    Contribution Of Hydrophobic Effect To Th...   135  3e-31
+SEQ gi|9257149|pdb|1QQY|A Chain A, X-Ray Crystal Structure Analysis ...   133  1e-30
+SEQ gi|3660302|pdb|2BQF|    Contribution Of Hydrophobic Effect To Th...   133  1e-30
+SEQ gi|8928188|sp|P81708|LYC1_CANFA LYSOZYME C, MILK ISOZYME (1,4-BE...   133  1e-30
+SEQ gi|9971739|gb|AAG10396.1|AF179305_1 (AF179305) lysozyme [Salmo s...   133  1e-30
+SEQ gi|13787134|pdb|1EL1|A Chain A, X-Ray Crystal Structure Analysis...   133  1e-30
+SEQ gi|13385592|ref|NP_080368.1| RIKEN cDNA 1700038F02 gene [Mus mus...   132  3e-30
+SEQ gi|126610|sp|P00708|LYC_COLLI LYSOZYME C (1,4-BETA-N-ACETYLMURAM...   128  3e-29
+SEQ gi|9966905|ref|NP_065159.1| lysozyme homolog [Homo sapiens] >gi|...   128  4e-29
+SEQ gi|3122373|sp|Q91159|LYC_OPIHO LYSOZYME C PRECURSOR (1,4-BETA-N-...   127  5e-29
+SEQ gi|1079457|pir||A55241 lysozyme (EC 3.2.1.17) precursor, stomach...   127  5e-29
+SEQ gi|12839292|dbj|BAB24499.1| (AK006279) putative [Mus musculus]        127  7e-29
+SEQ gi|11990770|emb|CAC19651.1| (AL158167) bA534G20.1.1 (novel prote...   127  8e-29
+SEQ gi|12839415|dbj|BAB24544.1| (AK006357) putative [Mus musculus]        125  3e-28
+SEQ gi|585433|sp|P37156|LYC1_TACAC LYSOZYME C I (1,4-BETA-N-ACETYLMU...   124  5e-28
+SEQ gi|126614|sp|P11376|LYC1_HORSE LYSOZYME C, MILK ISOZYME (1,4-BET...   124  6e-28
+SEQ gi|126613|sp|P11375|LYC_EQUAS LYSOZYME C (1,4-BETA-N-ACETYLMURAM...   116  2e-25
+SEQ gi|7939556|dbj|BAA95698.1| (AB027305) lysozyme C [Cyprinus carpio]    114  6e-25
+SEQ gi|163321|gb|AAA30631.1| (M26240) lysozyme 2d [Bos taurus]            107  9e-23
+SEQ gi|11990771|emb|CAC19652.1| (AL158167) bA534G20.1.2 (novel prote...   106  2e-22
+SEQ gi|12840949|dbj|BAB25023.1| (AK007412) putative [Mus musculus]        104  6e-22
+SEQ gi|14149135|dbj|BAB55657.1| (AB061816) hibernation related prote...   101  6e-21
+SEQ gi|2497784|sp|Q17005|LYC_ANOGA LYSOZYME PRECURSOR (1,4-BETA-N-AC...    99  3e-20
+SEQ gi|1346474|sp|P48816|LYC_BOMMO LYSOZYME PRECURSOR (1,4-BETA-N-AC...    98  4e-20
+SEQ gi|13786965|pdb|1GD6|A Chain A, Structure Of The Bombyx Mori Lys...    95  4e-19
+SEQ gi|2198832|gb|AAB61345.1| (AF003945) lysozyme [Anopheles darlingi]     95  5e-19
+SEQ gi|125998|sp|P00712|LCA_CAPHI ALPHA-LACTALBUMIN PRECURSOR (LACTO...    94  8e-19
+SEQ gi|126008|sp|P09462|LCA_SHEEP ALPHA-LACTALBUMIN PRECURSOR (LACTO...    94  1e-18
+SEQ gi|11610599|dbj|BAB18926.1| (AB052168) alpha lactalbumin [Ovis a...    93  2e-18
+SEQ gi|13399946|pdb|1FKQ|A Chain A, Recombinant Goat Alpha-Lactalbum...    92  3e-18
+SEQ gi|6573358|pdb|1HMK|A Chain A, Recombinant Goat Alpha-Lactalbumin      92  3e-18
+SEQ gi|13399947|pdb|1FKV|A Chain A, Recombinant Goat Alpha-Lactalbum...    92  3e-18
+SEQ gi|2392356|pdb|1HFY|A Chain A, Alpha-Lactalbumin >gi|2392357|pdb...    92  4e-18
+SEQ gi|6225598|sp|P81646|LCA_TACAC ALPHA-LACTALBUMIN (LACTOSE SYNTHA...    91  5e-18
+SEQ gi|67418|pir||LAHO alpha-lactalbumin - horse                           91  7e-18
+SEQ gi|125991|sp|P08334|LCAA_HORSE ALPHA-LACTALBUMIN A (LACTOSE SYNT...    91  7e-18
+SEQ gi|126000|sp|P28546|LCA_EQUAS ALPHA-LACTALBUMIN (LACTOSE SYNTHAS...    91  8e-18
+SEQ gi|7327646|gb|AAB31190.2| (S71028) lysozyme [Manduca sexta]            90  1e-17
+SEQ gi|295774|emb|CAA29664.1| (X06366) alpha-lactalbumin [Bos taurus...    89  2e-17
+SEQ gi|6289063|gb|AAF06794.1|AF194373_1 (AF194373) alpha-lactalbumin...    88  4e-17
+SEQ gi|125996|sp|P00711|LCA_BOVIN ALPHA-LACTALBUMIN PRECURSOR (LACTO...    88  6e-17
+SEQ gi|2136708|pir||I45994 alpha lactalbumin - bovine (fragment) >gi...    88  7e-17
+SEQ gi|400171|sp|P30805|LCA_ORNAN ALPHA-LACTALBUMIN (LACTOSE SYNTHAS...    87  9e-17
+SEQ gi|67425|pir||LARB alpha-lactalbumin - rabbit                          87  1e-16
+SEQ gi|7435409|pir||S74175 alpha-lactalbumin - domestic water buffalo      87  1e-16
+SEQ gi|84831|pir||A40796 lysozyme (EC 3.2.1.17) - tobacco hornworm >...    87  1e-16
+SEQ gi|8928540|sp|P00716|LCA_RABIT ALPHA-LACTALBUMIN PRECURSOR (LACT...    87  1e-16
+SEQ gi|7959046|dbj|BAA95930.1| (AB035079) alpha-lactalbumin [Canis f...    86  2e-16
+SEQ gi|6289061|gb|AAF06793.1|AF194372_1 (AF194372) alpha-lactalbumin...    86  2e-16
+SEQ gi|12084466|pdb|1F6R|A Chain A, Crystal Structure Of Apo-Bovine ...    86  2e-16
+SEQ gi|2392361|pdb|1HFZ|D Chain D, Alpha-Lactalbumin >gi|2392358|pdb...    86  2e-16
+SEQ gi|444765|prf||1908204A alpha lactalbumin [Ornithorhynchus anati...    86  2e-16
+SEQ gi|126616|sp|P05105|LYC_HYACE LYSOZYME PRECURSOR (1,4-BETA-N-ACE...    85  3e-16
+SEQ gi|12044523|emb|CAC19819.1| (AJ290428) putative lysozyme [Aedes ...    85  4e-16
+SEQ gi|4699575|pdb|1B9O|A Chain A, Human Alpha-Lactalbumin, Low Temp...    85  4e-16
+SEQ gi|125992|sp|P08896|LCAB_HORSE ALPHA-LACTALBUMIN B/C (LACTOSE SY...    85  5e-16
+SEQ gi|265532|gb|AAB25354.1| alpha-lactalbumin [Ornithorhynchus anat...    84  6e-16
+SEQ gi|4097239|gb|AAD00078.1| (U50551) lysozyme [Heliothis virescens]      84  6e-16
+SEQ gi|4504947|ref|NP_002280.1| lactalbumin, alpha- [Homo sapiens] >...    84  7e-16
+SEQ gi|4929847|pdb|1A4V|    Alpha-Lactalbumin >gi|1335200|emb|CAA288...    84  7e-16
+SEQ gi|1708891|sp|P50717|LYC_HYPCU LYSOZYME PRECURSOR (1,4-BETA-N-AC...    83  1e-15
+SEQ gi|418636|pir||LABOZ alpha-lactalbumin - bovine (tentative seque...    83  2e-15
+SEQ gi|12082298|dbj|BAB20806.1| (AB048258) lysozyme [Samia cynthia r...    83  2e-15
+SEQ gi|67415|pir||LZWK lysozyme (EC 3.2.1.17) c precursor - cecropia...    82  3e-15
+SEQ gi|7295199|gb|AAF50522.1| (AE003558) CG8492 gene product [Drosop...    82  4e-15
+SEQ gi|1708892|sp|P50718|LYC_TRINI LYSOZYME PRECURSOR (1,4-BETA-N-AC...    81  6e-15
+SEQ gi|229673|pdb|1ALC|    Alpha-Lactalbumin                               81  9e-15
+SEQ gi|6981140|ref|NP_036726.1| lactalbumin, alpha [Rattus norvegicu...    80  1e-14
+SEQ gi|126004|sp|P12065|LCA_PAPCY ALPHA-LACTALBUMIN (LACTOSE SYNTHAS...    80  2e-14
+SEQ gi|67424|pir||LART2 alpha-lactalbumin (version 2) - rat                79  2e-14
+SEQ gi|11036990|gb|AAG27449.1|AF304094_1 (AF304094) alpla lactalbumi...    79  3e-14
+SEQ gi|11036984|gb|AAG27446.1|AF304091_1 (AF304091) alpla lactalbumi...    78  5e-14
+SEQ gi|11036980|gb|AAG27444.1|AF304089_1 (AF304089) alpla lactalbumi...    78  8e-14
+SEQ gi|12644243|sp|P37161|LYSX_DROME LYSOZYME X PRECURSOR (1,4-BETA-...    78  8e-14
+SEQ gi|11036978|gb|AAG27443.1|AF304088_1 (AF304088) alpla lactalbumi...    77  1e-13
+SEQ gi|11036982|gb|AAG27445.1|AF304090_1 (AF304090) alpla lactalbumi...    77  1e-13
+SEQ gi|7302970|gb|AAF58041.1| (AE003807) CG7798 gene product [Drosop...    76  1e-13
+SEQ gi|266492|sp|P29615|LYSP_DROME LYSOZYME P PRECURSOR (1,4-BETA-N-...    76  3e-13
+SEQ gi|11037000|gb|AAG27454.1|AF304099_1 (AF304099) alpla lactalbumi...    75  4e-13
+SEQ gi|6754500|ref|NP_034809.1| lactalbumin, alpha [Mus musculus] >g...    75  4e-13
+SEQ gi|6289065|gb|AAF06795.1|AF194433_1 (AF194433) alpha-lactalbumin...    74  7e-13
+SEQ gi|7302345|gb|AAF57434.1| (AE003791) CG11159 gene product [Droso...    74  9e-13
+SEQ gi|12644241|sp|P37159|LYSE_DROME LYSOZYME E PRECURSOR (1,4-BETA-...    74  1e-12
+SEQ gi|12644242|sp|P37160|LYSS_DROME LYSOZYME S PRECURSOR (1,4-BETA-...    73  1e-12
+SEQ gi|1085148|pir||S41579 lysozyme (EC 3.2.1.17) S precursor - frui...    73  1e-12
+SEQ gi|422470|pir||S32643 lysozyme (EC 3.2.1.17) - fruit fly (Drosop...    73  1e-12
+SEQ gi|266491|sp|P29614|LYSD_DROME LYSOZYME D PRECURSOR (1,4-BETA-N-...    73  2e-12
+SEQ gi|1085143|pir||S41573 lysozyme (EC 3.2.1.17) precursor - fruit ...    73  2e-12
+SEQ gi|125997|sp|P00710|LCA_CAMDR ALPHA-LACTALBUMIN (LACTOSE SYNTHAS...    73  2e-12
+SEQ gi|1363913|pir||PC4062 lysozyme (EC 3.2.1.17) - house fly >gi|15...    73  2e-12
+SEQ gi|1085146|pir||S41577 lysozyme (EC 3.2.1.17) E precursor - frui...    72  3e-12
+SEQ gi|11036998|gb|AAG27453.1|AF304098_1 (AF304098) alpla lactalbumi...    72  3e-12
+SEQ gi|13124795|sp|Q08694|LYSB_DROME LYSOZYME B PRECURSOR (1,4-BETA-...    72  3e-12
+SEQ gi|11036996|gb|AAG27452.1|AF304097_1 (AF304097) alpla lactalbumi...    72  4e-12
+SEQ gi|11036994|gb|AAG27451.1|AF304096_1 (AF304096) alpla lactalbumi...    71  6e-12
+SEQ gi|126005|sp|P18137|LCA_PIG ALPHA-LACTALBUMIN PRECURSOR (LACTOSE...    69  2e-11
+SEQ gi|8575464|gb|AAF78010.1|AF228410_1 (AF228410) alpha lactalbumin...    69  3e-11
+SEQ gi|3821256|emb|CAA07691.1| (AJ007812) lactalbumin [Monodon monoc...    68  5e-11
+SEQ gi|8575468|gb|AAF78012.1|AF228412_1 (AF228412) alpha lactalbumin...    68  5e-11
+SEQ gi|8575466|gb|AAF78011.1|AF228411_1 (AF228411) alpha lactalbumin...    68  7e-11
+SEQ gi|3859066|emb|CAA07689.1| (AJ007810) unnamed protein product [M...    68  8e-11
+SEQ gi|202815|gb|AAA40707.1| (J00702) alpha-lactalbumin [Rattus norv...    67  1e-10
+SEQ gi|1334301|emb|CAA24564.1| (V01251) reading frame lactalbumin [R...    66  2e-10
+SEQ gi|3858951|emb|CAA07688.1| (AJ007809) unnamed protein product [B...    66  2e-10
+SEQ gi|7302346|gb|AAF57435.1| (AE003791) CG16799 gene product [Droso...    64  7e-10
+SEQ gi|280739|pir||A60394 alpha-lactalbumin precursor - tammar walla...    64  9e-10
+SEQ gi|729922|sp|Q06655|LCA_MACEU ALPHA-LACTALBUMIN PRECURSOR (LACTO...    64  9e-10
+SEQ gi|11036992|gb|AAG27450.1|AF304095_1 (AF304095) alpla lactalbumi...    64  1e-09
+SEQ gi|126003|sp|P07458|LCA_MACRG ALPHA-LACTALBUMIN (LACTOSE SYNTHAS...    64  1e-09
+SEQ gi|1085149|pir||S41580 lysozyme (EC 3.2.1.17) X - fruit fly (Dro...    62  4e-09
+SEQ gi|3859070|emb|CAA07693.1| (AJ007814) lactalbumin [Lama guanicoe]      62  4e-09
+SEQ gi|125999|sp|P00713|LCA_CAVPO ALPHA-LACTALBUMIN PRECURSOR (LACTO...    61  6e-09
+SEQ gi|2392355|pdb|1HFX|    Alpha-Lactalbumin                              61  6e-09
+SEQ gi|305338|gb|AAA60337.1| (J00051) alpha-lactalbumin [Cavia porce...    61  6e-09
+SEQ gi|11036988|gb|AAG27448.1|AF304093_1 (AF304093) alpla lactalbumi...    61  8e-09
+SEQ gi|11036986|gb|AAG27447.1|AF304092_1 (AF304092) alpla lactalbumi...    61  9e-09
+SEQ gi|3868710|gb|AAC73067.1| (U91909) lysozyme [Mirounga leonina]         59  3e-08
+SEQ gi|4204093|gb|AAD10202.1| (J00886) egg white lysozyme [Gallus ga...    59  3e-08
+SEQ gi|3913973|sp|Q29145|LCA_TRIVU ALPHA-LACTALBUMIN PRECURSOR (LACT...    57  9e-08
+SEQ gi|539969|pir||A61281 lysozyme homolog AT-2, bone - rat (fragments)    54  8e-07
+SEQ gi|7290584|gb|AAF46034.1| (AE003434) CG16756 gene product [Droso...    51  7e-06
+SEQ gi|5689720|emb|CAA07692.2| (AJ007813) lactalbumin [Hippopotamus ...    50  1e-05
+SEQ gi|126627|sp|P21776|LYC_PSEPE LYSOZYME C (1,4-BETA-N-ACETYLMURAM...    46  2e-04
+SEQ gi|212279|gb|AAA48944.1| (M10640) lysozyme protein [Gallus gallus]     45  6e-04
+SEQ 
+## SEQUENCE PROFILE AND ENTROPY
+ SeqNo PDBNo   V   L   I   M   F   W   Y   G   A   P   S   T   C   H   R   K   Q   E   N   D  NOCC NDEL NINS ENTROPY RELENT WEIGHT
+    1    1     0   0   0   0   0   0   0   0   0   0   0   0   0   0   4  95   0   1   0   0     0    0    0   0.202      6  0.00
+    2    2    73   1  11   0   0   0   0   0   1   0   0   5   0   1   1   1   5   0   0   1     0    0    0   1.075     35  0.00
+    3    3     0   3   1   2  79   0  15   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.703     23  0.00
+    4    4     0   0   0   0   0   0   0  19   0   0   4   8   0   0   1   1   1  59   1   5     0    0    0   1.343     44  0.00
+    5    5     0   0   1   0   0   0   0   0   0   0   0   0   0   0  82  17   0   0   0   0     0    0    0   0.527     17  0.00
+    6    6     0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0     0    0    0   0.017      0  0.00
+    7    7     0   0   0   0   0   0   0   1   1   0   4   0   0   0   0   1   2  89   0   1     0    0    0   0.522     17  0.00
+    8    8     6  90   0   0   2   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.426     14  0.00
+    9    9     3   0   0   0   8   0   0   0  81   0   7   1   0   0   0   0   0   0   0   0     0    0    0   0.761     25  0.00
+   10   10     0   0   0   0   0   0   0   0  18   0   0   0   0   3  62   4  11   1   0   0     0    0    0   1.174     39  0.00
+   11   11     3   1   5   0   0   0   0   0  20   0   1  50   0   0   4   4   0  10   1   0     0    0    0   1.598     53  0.00
+   12   12     0  77   1  19   2   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.670     22  0.00
+   13   13     1   0   0   0   0   0   1   0   1   0   2   0   0   0   4  88   1   1   0   0     0    0    0   0.610     20  0.00
+   14   14     0   1   0   0   0   0   0   0   3   0   1   0   0   0  75   8   1   6   3   1     0    0    0   0.992     33  0.00
+   15   15     0  65   0   2   2   0   1   1   1   0   2   0   0  15   1   1   3   1   4   0     0    0    0   1.349     45  0.00
+   16   16     0   0   0   0   0   0   0  85   0   0   1   0   0   0   0   0   0   0   0  12     0    0    0   0.535     17  0.00
+   17   17     3  41   2  51   4   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.020     34  0.00
+   18   18     0   0   0   0   0   0   0   1   3   4   1   0   0   0   0   4   0   1   2  83     0    0    0   0.782     26  0.00
+   19   19     0   0   0   0   0   0   0  70   0   0   0   0   0   0   3   2   0   2  19   3     0    0    0   1.005     33  0.00
+   20   20     0   0   0   0   7   0  86   0   0   0   1   0   0   0   0   0   0   0   1   3     0    0    0   0.622     20  0.00
+   21   21     0   2   0   0   0   0   1  11   1   0   0   0   0   2  64  10   5   2   0   0     0    0    0   1.324     44  0.00
+   22   22     1   0   0   0   0   0   0  95   0   0   1   0   0   0   1   0   0   0   0   2     0    0    0   0.286      9  0.00
+   23   23    21   0  53   0   1   0  22   0   1   0   0   1   0   0   0   0   0   0   1   0     0    0    0   1.228     40  0.00
+   24   24     0   0   0   0   0   0   0   0   2   1  86  10   0   0   0   0   0   0   0   0     0    0    0   0.572     19  0.00
+   25   25     1  95   1   3   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.242      8  0.00
+   26   26     0   0   0   0   0   0   0  19  58  16   2   0   0   0   1   0   0   1   0   0     0    0    0   1.206     40  0.00
+   27   27     0   0   0   0   0   0   0   0   0   0   0   1   0   0   1   1   0  15  75   6     0    0    0   0.856     28  0.00
+   28   28     0   2   0   0   0  97   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.152      5  0.00
+   29   29    40   7   6  43   0   0   0   0   2   0   0   2   0   0   0   0   0   0   0   0     0    0    0   1.230     41  0.00
+   30   30     0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   31   31     2  60   5   2   0   0   0   0  17   0   0  13   0   0   0   0   0   0   0   0     0    0    0   1.201     40  0.00
+   32   32     9   2   4   2   0   0   0   0  75   0   2   6   0   0   0   0   0   0   0   0     0    0    0   0.976     32  0.00
+   33   33     0   0   0   0  17   0   1   0   0   0   0   0   0   0   2  67   4   7   1   0     0    0    0   1.096     36  0.00
+   34   34     0   0   0   0  15  53   5   1   0   0   0   0   0  23   0   0   0   0   3   0     0    0    0   1.275     42  0.00
+   35   35     0   0   2   0   0   0   0   0   0   0   1  12   0   0   0   0   0  83   0   0     0    0    0   0.620     20  0.00
+   36   36     0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0     0    0    0   0.034      1  0.00
+   37   37     0   0   0   0   0   0   0  61   1   0  10   0   0   0   0   0   0   0  22   4     0    0    0   1.145     38  0.00
+   38   38     0   2   0   0  25   0  67   0   0   0   0   0   5   0   2   0   0   0   0   0     0    0    0   0.931     31  0.00
+   39   39     0   0   0   0   0   0   0   0   0   0   1   1   0   0   3   1   0   0  76  17     0    0    0   0.781     26  0.00
+   40   40     0   0   0   0   0   0   0   0   0   0   4  94   0   0   0   0   0   0   0   1     0    0    0   0.278      9  0.00
+   41   41     0   0   0   0   0   0   0   3   1   0   2   2   0   3  42   8  32   3   1   1     0    0    0   1.593     53  0.00
+   42   42     3   0   1   0   0   0   0   0  89   0   0   4   0   0   0   3   0   0   0   0     0    0    0   0.528     17  0.00
+   43   43     7   1  11   0   1   0   0   1   0   0   0  75   0   0   0   1   0   0   0   0     0    0    0   0.987     32  0.00
+   44   44    11   0   2   0   0   0   0   5   0   0   0   2   0   0   0   1   0   1  78   0     0    0    0   0.878     29  0.00
+   45   45     6   0   0   0   0   0  53   0   1   0   1   1   0   1  21   4   4   3   2   0     0    0    0   1.555     51  0.00
+   46   46     0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  97   1     0    0    0   0.195      6  0.00
+   47   47     1   0   0   0   0   0   2   1  43  11   5  20   0   0   1   2   0   0  11   1     0    0    0   1.762     58  0.00
+   48   48     0   0   0   0   0   0   0   4   0   0   2   0   0   1   0   0   0   1  15  76     0    0    0   0.821     27  0.00
+   49   49     0   0   0   0   0   0   0  41   0   0   5   0   0   0  43   1   5   4   1   0     0    0    0   1.278     42  0.00
+   50   50     0   0   0   0   0   0   0   1   0   0  96   0   0   1   0   1   0   0   1   0     0    0    0   0.248      8  0.00
+   51   51     1   0   0   0   0   0   0   0   1   0   2  85   0   0   3   3   0   0   3   0     0    0    0   0.715     23  0.00
+   52   52     0   0   0   0   0   0   0   0   0   0   2   0   0   0   0   0   0  16   1  82     0    0    0   0.581     19  0.00
+   53   53     0   0   0   0   0   0  97   0   0   0   0   0   0   2   0   0   0   0   0   0     0    0    0   0.172      5  0.00
+   54   54     0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   55   55     2  21  76   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.675     22  0.00
+   56   56     0  17   0   0  83   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.476     15  0.00
+   57   57     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  99   1   0   0     0    0    0   0.076      2  0.00
+   58   58     0   2  96   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.233      7  0.00
+   59   59     0   0   0   0   0   0   0   0   0   0   5   0   0   0   0   0   0   0  95   0     0    0    0   0.216      7  0.00
+   60   60     0   0   0   0   0   0   0   0   0   0  76   0   0   0   0   0   1   0  15   7     0    0    0   0.761     25  0.00
+   61   61     0   1   0   0   1   0   2   0   1   1   0   0   0   4  67  22   0   0   1   0     0    0    0   1.086     36  0.00
+   62   62     0   2   9   1   2  24  57   1   1   0   0   0   0   0   0   0   0   0   1   1     0    0    0   1.325     44  0.00
+   63   63     0   0   0   0   1  99   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.071      2  0.00
+   64   64     0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   65   65     0   0   0   0   0   0   0   0   2   0   3   0   0   0   7   8   1   0  70   5     0    0    0   1.171     39  0.00
+   66   66     0   0   0   0   0   0   0   0   0   3   5   0   0   1   0   1   0   2   7  81     0    0    0   0.836     27  0.00
+   67   67     0   0   0   0   0   0   0  78   1   1   4   1   0   0   0   2   0   0   8   5     0    0    0   0.934     31  0.00
+   68   68     0   0   0   0   0   0   1   0   1   0   4   1   0   1  18  58  14   2   0   0     0    0    0   1.321     44  0.00
+   69   69     1   0   5   0   2   0   0   3   0   0   2  78   0   0   1   1   0   1   5   0     0    0    0   0.993     33  0.00
+   70   70     1   2   0   0   0   0   0   1   0  87   1   0   0   1   2   1   0   1   0   1     0    0    0   0.670     22  0.00
+   71   71     1   0   0   0   2   0   0  68   0   2   1   0   0  10   3   2   3   1   4   0     0    0    0   1.312     43  0.00
+   72   72     0   0   0   0   0   0   0   1  56   0  38   1   0   0   0   3   1   1   0   0     0    0    0   0.979     32  0.00
+   73   73    50   0   0   0   0   0   3   1   2   0   4   0   0   0  24   8   0   2   2   3     0    0    0   1.580     52  0.00
+   74   74     0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0  88  11     0    0    0   0.424     14  0.00
+   75   75     2  18  15   0   0   0   0   6  53   0   0   0   0   1   0   0   0   3   0   0     0    0    0   1.398     46  0.00
+   76   76     0   0   0   0   0   0   0   0   4   0   0   0  96   0   0   0   0   0   0   0     0    0    0   0.163      5  0.00
+   77   77     0   0   0   0   0   0   0  14   0   0   0   0   0  55   1   1   1   0  22   5     0    0    0   1.262     42  0.00
+   78   78     9  43  46   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0     0    0    0   1.045     34  0.00
+   79   79     0   1   0   1   0   0   0   0   2  20  68   2   0   0   1   2   0   0   1   1     0    0    0   1.124     37  0.00
+   80   80     0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0     0    0    0   0.017      0  0.00
+   81   81     0   0   0   0   0   0   0   1   1   0  72   0   0   0   0   2   0   2   7  13     0    0    0   1.024     34  0.00
+   82   82     3   0   0   0   0   0   0   0  67   0   0   0   0   0   1  17   2   6   1   3     0    0    0   1.155     38  0.00
+   83   83     0  85   0   0  15   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.452     15  0.00
+   84   84     0  92   1   5   0   0   0   0   0   0   0   0   0   0   1   0   1   0   0   0     0    0    0   0.364     12  0.00
+   85   85     0   1   0   0   0   0   0   0   0   0  16   7   0   0   1   2  45   5   2  20     0    0    0   1.611     53  0.00
+   86   86     0   0   0   0   0   0   0   0   1   1  17   0   0   0   0   0   0   0   7  74     0    0    0   0.829     27  0.00
+   87   87     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   2  47  51     0    0    0   0.797     26  0.00
+   88   88     1  17  81   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.562     18  0.00
+   89   89     0   1   1   0   0   0   0   0  47   0   3  41   0   0   0   1   0   2   0   2     0    0    0   1.201     40  0.00
+   90   90     2   0   0   0   0   0   0   0  17   1   1   0   0   1   0   7   5   2   1  64     0    0    0   1.260     42  0.00
+   91   91     0   0   0   0   0   0   0   0  58   0  17   3   0   0   0   0   0   0   0  22     0    0    0   1.064     35  0.00
+   92   92    73   0  22   0   0   0   0   0   2   0   2   0   0   0   0   0   0   0   0   0     0    0    0   0.791     26  0.00
+   93   93     3   1   1   8   0   0   0   0  51   0   1   3   0   0   5   4   2   3  16   0     0    0    0   1.695     56  0.00
+   94   94     0   0   0   0   0   0   0   0   4   0   0   0  96   0   0   0   0   0   0   0     0    0    0   0.159      5  0.00
+   95   95     6   1   0   0   0   0   0   0  92   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.359     11  0.00
+   96   96     0   1   0   1   0   0   0   0   0   0   0   0   0   0   2  94   2   0   0   0     0    0    0   0.283      9  0.00
+   97   97     0   0   0   0   0   0   0   0   0   0   0   0   0   3  55  39   2   0   0   0     0    0    0   0.948     31  0.00
+   98   98    54   0  44   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.804     26  0.00
+   99   99    79  13   1   0   1   0   3   0   3   0   0   0   0   1   0   0   0   0   0   0     0    0    0   0.799     26  0.00
+  100  100     0   1   0   0   0   0   0   1   2   0  32   0   0   1  53   7   2   1   0   1     0    0    0   1.223     40  0.00
+  101  101     0   1   1   0   0   0   0   2   0   0   1   0   0   0   3   0   4   9   1  78     0    0    0   0.926     30  0.00
+  102  102     1   0   2   0   0   0   0  20   2  64   1   1   0   0   1   6   1   0   0   0     0    0    0   1.210     40  0.00
+  103  103     4   1   0   0   0   0   0   0   0   0   0   0   0   5   1   5  59   4  17   4     0    0    0   1.364     45  0.00
+  104  104     0   0   0   0   0   0   0  97   0   0   0   0   0   0   1   2   0   0   0   0     0    0    0   0.134      4  0.00
+  105  105     2   3  66  21   5   3   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.052     35  0.00
+  106  106     0   0   0   0   0   0   0   3   0   0   5   8   0   0  49   2   1   0  24   7     0    0    0   1.490     49  0.00
+  107  107     0   0   0   0   0   0  11   0  86   1   1   0   0   1   0   0   0   0   1   0     0    0    0   0.511     17  0.00
+  108  108     0   0   0   0   0  99   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.053      1  0.00
+  109  109    74   8   1   0   1   0   4   0   2   1   3   1   0   0   0   3   1   1   0   1     0    0    0   1.151     38  0.00
+  110  110     2   0   0   0   0   0   0   5  90   0   0   3   0   0   0   0   0   1   0   0     0    0    0   0.470     15  0.00
+  111  111     0   0   0   0   0  88   1   0   0   0   0   0   0  11   0   0   0   0   0   0     0    0    0   0.405     13  0.00
+  112  112     1   1   0   0   0   0   0   0   0   0   0   1   0   0  70  22   2   1   1   1     0    0    0   0.939     31  0.00
+  113  113     0   2   0   0   0   0   0   1   8   5   6   2   0   1   2   6   0   0  67   0     0    0    0   1.287     42  0.00
+  114  114     0   9   0   1   2   0   3   0   0   0   0   0   0  24  58   1   0   0   1   0     0    0    0   1.256     41  0.00
+  115  115     0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+  116  116     0   1   1   0   0   0   0   0   0   0   3   0   0   0   9  23  60   2   1   0     0    0    0   1.197     39  0.00
+  117  117     0   0   0   0   0   0   0  32   1   0   0   0   0   0   0   0   0   0  60   6     0    0    0   0.928     30  0.00
+  118  118     0   0   0   0   0   0   0   0   0   0   3  22   0   6  57   6   5   2   0   0     0    0    0   1.296     43  0.00
+  119  119     0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   2  97     0    0    0   0.149      4  0.00
+  120  120    84  15   0   1   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.504     16  0.00
+  121  121     0   0   0   0   0   0   0   0   0   0  22   3   0   2  52   0  13   1   4   2     0    0    0   1.427     47  0.00
+  122  122     3   0   0   0   0   0   1   1  17   0  11   0   0   0   1   2  61   2   0   0     0    0    0   1.296     43  0.00
+  123  123     0   0   0   0   0  27  72   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.607     20  0.00
+  124  124    66   3  28   0   0   0   0   0   1   0   0   2   0   0   0   1   0   0   0   0     0    0    0   0.885     29  0.00
+  125  125     0   0   0   0   0   0   0   0   3   0   0   1   0   0  26   5  57   6   0   1     0    0    0   1.196     39  0.00
+  126  126     0   0   0   0   0   0   0  96   0   0   2   0   0   0   0   0   0   0   2   1     0    0    0   0.214      7  0.00
+  127  127     0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+  128  128     0   0   0   0   0   0   0   1   0   0   2  14   0   3  64   8   0   2   5   2     0    0    0   1.267     42  0.00
+  129  129     2  98   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.092      3  0.00
+//

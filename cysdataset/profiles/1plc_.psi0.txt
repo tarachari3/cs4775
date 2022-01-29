@@ -1,0 +1,195 @@
+ID Pseudo hssp file.
+SEQ 
+SEQ gi|1709651|sp|P00299|PLAS_POPNI PLASTOCYANIN A, CHLOROPLAST PREC...   185  1e-46
+SEQ gi|443184|pdb|1PLC|    Plastocyanin (Cu2+, Ph 6.0) >gi|494450|pd...   185  2e-46
+SEQ gi|1709654|sp|P11970|PLAT_POPNI PLASTOCYANIN B, CHLOROPLAST PREC...   172  1e-42
+SEQ gi|81591|pir||S00210 plastocyanin b - Lombardy poplar >gi|225877...   172  1e-42
+SEQ gi|130271|sp|P17340|PLAS_LYCES PLASTOCYANIN PRECURSOR >gi|100238...   161  2e-39
+SEQ gi|130284|sp|P00296|PLAS_SOLTU PLASTOCYANIN >gi|65838|pir||CUPO ...   161  3e-39
+SEQ gi|130266|sp|P00293|PLAS_CUCSA PLASTOCYANIN >gi|65835|pir||CUKV ...   160  4e-39
+SEQ gi|130285|sp|P00289|PLAS_SPIOL PLASTOCYANIN PRECURSOR >gi|214430...   160  5e-39
+SEQ gi|2129961|pir||S40488 plastocyanin b'' - common tobacco              159  6e-39
+SEQ gi|130283|sp|P00297|PLAS_SOLCR PLASTOCYANIN >gi|65839|pir||CUUA ...   159  7e-39
+SEQ gi|223149|prf||0512262B plastocyanin [Mercurialis perennis]           159  8e-39
+SEQ gi|3891757|pdb|1AG6|    Plastocyanin From Spinach                     159  9e-39
+SEQ gi|130262|sp|P00294|PLAS_CAPBU PLASTOCYANIN >gi|65836|pir||CUSU ...   159  1e-38
+SEQ gi|130265|sp|P00292|PLAS_CUCPE PLASTOCYANIN >gi|65834|pir||CUVM ...   158  1e-38
+SEQ gi|421830|pir||S33707 DNA-damage repair protein DRT112 precursor...   158  3e-38
+SEQ gi|548526|sp|P35477|PLAT_TOBAC PLASTOCYANIN B'/B'' >gi|2129960|p...   157  3e-38
+SEQ gi|12644265|sp|P42699|PLAT_ARATH PLASTOCYANIN MAJOR ISOFORM, CHL...   157  3e-38
+SEQ gi|130279|sp|P00298|PLAS_RUMOB PLASTOCYANIN >gi|65840|pir||CURXC...   157  4e-38
+SEQ gi|223146|prf||0512260A plastocyanin [Rumex obtusifolius]             156  5e-38
+SEQ gi|3114360|pdb|2PCF|A Chain A, The Complex Of Cytochrome F And P...   156  6e-38
+SEQ gi|130272|sp|P00295|PLAS_MERPE PLASTOCYANIN >gi|65837|pir||CUDM ...   156  6e-38
+SEQ gi|65841|pir||CUMUM plastocyanin precursor - Arabidopsis thalian...   156  9e-38
+SEQ gi|12644119|sp|P11490|PLAS_ARATH PLASTOCYANIN MINOR ISOFORM, CHL...   156  9e-38
+SEQ gi|6573730|gb|AAF17650.1|AC009978_26 (AC009978) T23E18.3 [Arabid...   156  9e-38
+SEQ gi|130275|sp|P16002|PLAS_PEA PLASTOCYANIN PRECURSOR >gi|81939|pi...   154  2e-37
+SEQ gi|130277|sp|P00287|PLAS_PHAVU PLASTOCYANIN >gi|65830|pir||CUFB ...   154  2e-37
+SEQ gi|6723444|emb|CAB66894.1| (AJ271355) putative plastocyanin [Ara...   154  3e-37
+SEQ gi|1421476|pdb|9PCY|    Plastocyanin (Reduced Form) (Nmr, 16 Str...   153  5e-37
+SEQ gi|130270|sp|P00290|PLAS_LACSA PLASTOCYANIN >gi|65832|pir||CULC ...   153  6e-37
+SEQ gi|548525|sp|P35476|PLAS_TOBAC PLASTOCYANIN A'/A'' >gi|2129958|p...   153  7e-37
+SEQ gi|2129959|pir||S40486 plastocyanin a'' - common tobacco              151  2e-36
+SEQ gi|130280|sp|P00291|PLAS_SAMNI PLASTOCYANIN >gi|65833|pir||CUED ...   151  3e-36
+SEQ gi|130288|sp|P00288|PLAS_VICFA PLASTOCYANIN >gi|65843|pir||CUVF ...   150  4e-36
+SEQ gi|130282|sp|P07030|PLAS_SILPR PLASTOCYANIN PRECURSOR >gi|21366|...   148  2e-35
+SEQ gi|2641207|gb|AAB86855.1| (AF031545) plastocyanin [Fritillaria a...   145  1e-34
+SEQ gi|65842|pir||CUQH plastocyanin precursor - white campion >gi|22...   144  2e-34
+SEQ gi|6435665|pdb|1BYO|A Chain A, Wild-Type Plastocyanin From Silen...   142  1e-33
+SEQ gi|6435642|pdb|1BYP|A Chain A, E43k,D44k Double Mutant Plastocya...   139  9e-33
+SEQ gi|481190|pir||S38255 plastocyanin precursor - barley >gi|22705|...   132  1e-30
+SEQ gi|3885896|gb|AAC78108.1| (AF093636) plastocyanin precursor [Ory...   131  3e-30
+SEQ gi|130269|sp|P08248|PLAS_HORVU PLASTOCYANIN PRECURSOR >gi|82414|...   130  5e-30
+SEQ gi|100696|pir||JT0352 plastocyanin - rice                             129  7e-30
+SEQ gi|130274|sp|P20423|PLAS_ORYSA PLASTOCYANIN >gi|82500|pir||S0610...   128  1e-29
+SEQ gi|7430873|pir||T03584 plastocyanin precursor [validated] - rice...   127  4e-29
+SEQ gi|130276|sp|P17341|PLAS_PETCR PLASTOCYANINS A AND B >gi|82064|p...   127  5e-29
+SEQ gi|100166|pir||S10703 plastocyanin - parsley                          126  5e-29
+SEQ gi|130267|sp|P20422|PLAS_DAUCA PLASTOCYANIN >gi|82053|pir||JW001...   124  4e-28
+SEQ gi|225873|prf||1402235A plastocyanin precursor [Hordeum vulgare ...   123  4e-28
+SEQ gi|130264|sp|P18068|PLAS_CHLRE PLASTOCYANIN PRECURSOR (PC6-2) >g...   121  3e-27
+SEQ gi|443425|pdb|2PLT|    Plastocyanin                                   121  3e-27
+SEQ gi|421767|pir||A46639 preapoplastocyanin - Chlamydomonas reinhar...   119  1e-26
+SEQ gi|3024399|sp|P56274|PLAS_ULVPE PLASTOCYANIN >gi|2392379|pdb|1IU...   113  7e-25
+SEQ gi|130287|sp|P13133|PLAS_ULVAR PLASTOCYANIN >gi|65847|pir||CUUV ...   112  1e-24
+SEQ gi|4138881|gb|AAD03610.1| (AF114235) plastocyanin [Scenedesmus o...   111  3e-24
+SEQ gi|130281|sp|P26956|PLAS_SCEOB PLASTOCYANIN >gi|81303|pir||JW001...   110  5e-24
+SEQ gi|130268|sp|P07465|PLAS_ENTPR PLASTOCYANIN >gi|65846|pir||CUEI ...   109  7e-24
+SEQ gi|11250075|pir||T44426 plastocyanin precursor [imported] - Pedi...   108  2e-23
+SEQ gi|130263|sp|P00300|PLAS_CHLFU PLASTOCYANIN >gi|65845|pir||CUKLC...   107  4e-23
+SEQ gi|4757375|dbj|BAA77274.1| (AB026687) plastocyanin precursor [Ph...   106  6e-23
+SEQ gi|2781074|pdb|1PCS|    The 2.15 A Crystal Structure Of A Triple...    88  2e-17
+SEQ gi|2493320|sp|Q51883|PLAS_PHOLA PLASTOCYANIN PRECURSOR >gi|10861...    84  6e-16
+SEQ gi|4557936|pdb|1BAW|A Chain A, Plastocyanin From Phormidium Lami...    84  6e-16
+SEQ gi|13399980|pdb|1I0W|A Chain A, Solution Structure Of Oxidized P...    81  3e-15
+SEQ gi|13399985|pdb|1I0Y|A Chain A, Solution Structure Of Oxidized P...    81  3e-15
+SEQ gi|130286|sp|P21697|PLAS_SYNY3 PLASTOCYANIN PRECURSOR >gi|97669|...    81  4e-15
+SEQ gi|130260|sp|P00301|PLAS_ANAVA PLASTOCYANIN >gi|65829|pir||CUAI ...    80  6e-15
+SEQ gi|1172525|sp|P46444|PLAS_ANASP PLASTOCYANIN PRECURSOR >gi|21265...    80  6e-15
+SEQ gi|130259|sp|P14114|PLAS_ANASQ PLASTOCYANIN PRECURSOR >gi|97708|...    80  6e-15
+SEQ gi|2911541|emb|CAA05338.1| (AJ002362) plastocyanin [Nostoc sp. P...    78  4e-14
+SEQ gi|1709653|sp|P55020|PLAS_SYNP7 PLASTOCYANIN PRECURSOR >gi|83693...    78  4e-14
+SEQ gi|5542145|pdb|1BXV|A Chain A, Reduced Plastocyanin From Synecho...    78  4e-14
+SEQ gi|4929868|pdb|1B3I|A Chain A, Nmr Solution Structure Of Plastoc...    72  2e-12
+SEQ gi|6686322|sp|P50057|PLAS_PROHO PLASTOCYANIN PRECURSOR                 72  2e-12
+SEQ gi|600496|gb|AAD09144.1| (U13912) plastocyanin precursor [Prochl...    72  2e-12
+SEQ gi|625848|pir||A44637 plastocyanin - Prochlorothrix hollandica (...    72  2e-12
+SEQ gi|632192|pir||E61320 plastocyanin - Eranthis hyemalis (fragment)      70  8e-12
+SEQ gi|632189|pir||B61320 plastocyanin - Aquilegia vulgaris (fragment)     66  9e-11
+SEQ gi|632191|pir||D61320 plastocyanin - Consolida ajacis (fragment)       65  3e-10
+SEQ gi|5107599|pdb|1KDJ|    Oxidized Form Of Plastocyanin From Dryop...    64  4e-10
+SEQ gi|632188|pir||A61320 plastocyanin - Anemone nemorosa (fragment)       63  1e-09
+SEQ gi|632190|pir||C61320 plastocyanin - Clematis vitalba (fragment)       63  1e-09
+SEQ gi|10579888|gb|AAG18846.1| (AE004988) cytochrome-like protein; F...    49  2e-05
+SEQ gi|5821874|pdb|1BQK|    Oxidized Pseudoazurin >gi|2098417|pdb|1Z...    48  3e-05
+SEQ gi|2506224|sp|P19567|AZUP_ACHCY PSEUDOAZURIN PRECURSOR (BLUE COP...    48  3e-05
+SEQ gi|7427617|pir||JC4649 pseudoazurin precursor [validated] - Achr...    48  3e-05
+SEQ gi|79246|pir||A27039 pseudoazurin - Vibrio alginolyticus               48  3e-05
+SEQ gi|14523794|gb|AAK65336.1| (AE007256) Azu1 pseudoazurin (blue co...    46  9e-05
+SEQ gi|10580369|gb|AAG19259.1| (AE005022) halocyanin precursor-like;...    46  1e-04
+SEQ gi|10581613|gb|AAG20328.1| (AE005106) halocyanin precursor-like;...    44  5e-04
+SEQ gi|10580722|gb|AAG19562.1| (AE005046) halocyanin precursor-like;...    44  6e-04
+SEQ 
+## SEQUENCE PROFILE AND ENTROPY
+ SeqNo PDBNo   V   L   I   M   F   W   Y   G   A   P   S   T   C   H   R   K   Q   E   N   D  NOCC NDEL NINS ENTROPY RELENT WEIGHT
+    1    1    44  12  38   6   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.142     38  0.00
+    2    2     0   0   0   0   0   0   0   0   3   0   0   1   0   6   1   0   6  61   3  19     0    0    0   1.264     42  0.00
+    3    3    83   0  11   6   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.561     18  0.00
+    4    4     0  61   0   0   0   0   0   2   0   0   0   0   0   0   0  36   0   1   0   0     0    0    0   0.807     26  0.00
+    5    5     3  76   0  15   0   0   0   0   0   0   0   0   0   0   0   0   0   0   6   0     0    0    0   0.763     25  0.00
+    6    6     0   0   0   0   0   0   0  92   0   0   0   0   0   0   0   6   0   0   0   2     0    0    0   0.323     10  0.00
+    7    7     0   0   0   0   0   0   0  27  33   0  34   4   0   0   0   0   0   0   0   1     0    0    0   1.274     42  0.00
+    8    8     0   0   0   0   0   0   0   9   0   1  12   0   0   0   0   4   0   2  10  62     0    0    0   1.268     42  0.00
+    9    9     1   0   0   1   0   0   0  10   0   0  14   0   0   0   0   9   0   1   2  62     0    0    0   1.252     41  0.00
+   10   10     0   0   0   0   0   0   4  95   0   0   0   0   0   0   0   0   0   0   1   0     0    0    0   0.240      8  0.00
+   11   11     9   7   0   2   0   0   0  22  29   0  29   1   0   0   0   0   0   1   1   0     0    0    0   1.675     55  0.00
+   12   12     1  85   0   5   2   0   2   0   0   4   0   0   0   0   0   0   0   0   0   0     0    0    0   0.655     21  0.00
+   13   13    33   4   0   0   0   0   0   3  52   0   0   0   0   0   0   2   2   3   0   0     0    0    0   1.237     41  0.00
+   14   14     0   0   0   0  95   0   5   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.213      7  0.00
+   15   15    43   3   8   0   0   0   2   2   0   0   3   0   0   0   0   0   0  36   0   2     0    0    0   1.405     46  0.00
+   16   16     0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   17   17     0   0   0   0   0   0   0  13  19   0  35   0   0   0   0   9   0   0  23   1     0    0    0   1.550     51  0.00
+   18   18     0   0   0   0   1   0   0   0   7   0  18  14   0   0   0   7   0  13  18  23     0    0    0   1.903     63  0.00
+   19   19    14  24   9   0  53   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.172     39  0.00
+   20   20     0   0   0   0   0   0   0   0   0   0  49  37   0   0   2   5   0   5   0   0     0    0    0   1.119     37  0.00
+   21   21    63   0  37   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.661     22  0.00
+   22   22     0   0   0   0   0   0   0   1  37   7  23   0   0   2   0  24   2   0   1   2     0    0    0   1.580     52  0.00
+   23   23     1   0   0   0   0   0   0   0  49  19  22   0   0   0   0   9   0   0   0   0     0    0    0   1.258     41  0.00
+   24   24     0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   25   25     0   0   0   0   0   0   0   0   0   0   0   2   0   0   0   0   0  74   0  24     0    0    0   0.653     21  0.00
+   26   26     0   0   0   0   0   0   0   1   3   0   7  37   0   0   0  44   0   8   0   0     0    0    0   1.268     42  0.00
+   27   27    38   0  62   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.666     22  0.00
+   28   28    32   0   1   0   0   0   0   0   1   0   3  37   0   0   0   7   2  13   3   0     0    0    0   1.587     52  0.00
+   29   29     0   0   0   0  85  15   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.429     14  0.00
+   30   30    22   4   1   0   0   0   0   0   0   5   0   4   0   0   0  59   0   3   0   0     0    0    0   1.239     41  0.00
+   31   31     0   1   0   4   1   2   0   0   0   0   0   5   0   1   0   0   0   0  85   0     0    0    0   0.671     22  0.00
+   32   32     3   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   1  89   5     0    0    0   0.475     15  0.00
+   33   33     0   0   0   0   0   0   0   1  70   0   2   0   0   0   0  24   0   1   0   1     0    0    0   0.823     27  0.00
+   34   34     9   9   0   0   0   0   0  78   0   0   1   0   0   0   0   0   0   1   2   0     0    0    0   0.804     26  0.00
+   35   35     0   0   0   0  70   0   8   5   2   7   5   1   0   0   0   0   0   1   0   0     0    0    0   1.137     37  0.00
+   36   36     0   0   0   0   0   0   0   1   1  94   1   2   0   0   0   0   0   0   0   0     0    0    0   0.299      9  0.00
+   37   37     0   0   0   0   0   0   0   1   0   0   0   0   0  99   0   0   0   0   0   0     0    0    0   0.060      2  0.00
+   38   38     0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0  99   0     0    0    0   0.060      2  0.00
+   39   39    67   0  30   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   3     0    0    0   0.741     24  0.00
+   40   40    78  10   4   1   0   0   0   0   0   0   0   1   0   0   0   0   0   6   0   0     0    0    0   0.825     27  0.00
+   41   41     2   0   1   0  88   0   0   0   1   0   0   6   0   1   0   0   0   0   0   0     0    0    0   0.522     17  0.00
+   42   42     0   0   6   0   0   0   1   0   4   0   0   0   0   0   0   0   0   2   0  87     0    0    0   0.546     18  0.00
+   43   43     0   0   1   0   0   0   0   0  11   0   0   0   0   0   0  14   0  71   0   2     0    0    0   0.906     30  0.00
+   44   44     0   0   1   0   0   0   0   5   4   1   0   1   0   0   0   4   1   0   0  82     0    0    0   0.781     26  0.00
+   45   45     0   5   0   7   0   0   0   1  26   0   7   0   0   0   0   0   3  50   0   1     0    0    0   1.421     47  0.00
+   46   46    44   0  50   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   5   0     0    0    0   0.913     30  0.00
+   47   47     0   0   0   0   0   0   0   0   1  98   0   0   0   0   0   0   0   1   0   0     0    0    0   0.133      4  0.00
+   48   48     0   0   0   0   0   0   0   4  44   1  41   0   0   0   0   1   0   0   0   9     0    0    0   1.168     39  0.00
+   49   49     0   0   0   0   0   0   0  89   2   0   0   0   0   0   0   5   1   0   0   2     0    0    0   0.477     15  0.00
+   50   50    73   0   0   0   0   0   0   0  10   1   7   2   0   0   0   0   0   6   0   0     0    0    0   0.954     31  0.00
+   51   51     1   0   0   0   0   0   0   0   6   0   6   0   0   0   0   4   0   5  12  66     0    0    0   1.186     39  0.00
+   52   52    22   1   0   0   0   0   0   0  65   0   4   1   0   0   0   0   0   2   0   5     0    0    0   1.074     35  0.00
+   53   53     2   7   0   0   6   0   0   6  13   5  37   8   0   0   0   0   0   4   0  12     0    0    0   1.972     65  0.00
+   54   54     0   0   0   0   0   0   0   1  21   0   0   0   0   0   0  70   3   1   0   4     0    0    0   0.917     30  0.00
+   55   55     0   1  74   0   1   1   0   0   4   3   7   1   0   0   0   5   0   0   0   3     0    0    0   1.106     36  0.00
+   56   56     0   0   0   0   0   0   0   4  11   0  67   0   0   0   0  15   0   3   0   0     0    0    0   1.033     34  0.00
+   57   57     0  27   5  56   0   3   3   1   0   0   0   1   0   0   0   0   3   0   0   0     0    0    0   1.251     41  0.00
+   58   58     1   0   0   1   0   0   0   1   2  14  57   0   0   0   0   1   0   0  10  12     0    0    0   1.375     45  0.00
+   59   59     0   0   0   0   0   0   0   1   1   0   0   0   0  22   4   0  10  54   6   1     0    0    0   1.358     45  0.00
+   60   60     0   0   0   0   0   0   0   1   3   0   3   9   0   1   0  14   4  53   3  10     0    0    0   1.571     52  0.00
+   61   61     0   0   0   0   0   0   0   5   4   0   0   0   0   0   0   6   8  14   0  63     0    0    0   1.219     40  0.00
+   62   62     0  68   0   0   0   0  29   1   1   1   0   0   0   0   0   0   0   0   0   0     0    0    0   0.788     26  0.00
+   63   63     1  81   2   2   0   0   0   0  10   0   0   0   0   0   2   0   0   0   0   0     0    0    0   0.724     24  0.00
+   64   64     3   0   5   5  10   0   0   0   0   0   1   3   0   0   0   0   0   1  71   1     0    0    0   1.120     37  0.00
+   65   65     0   0   0   0   0   0   0  16  64   0  14   1   0   0   0   0   0   1   2   1     0    0    0   1.103     36  0.00
+   66   66     0   0   0   0   0   0   0   0  21  64   0   1   0   0   0  10   0   2   0   1     0    0    0   1.041     34  0.00
+   67   67     0   0   0   0   0   0   0  98   0   0   0   0   0   0   0   0   0   1   1   0     0    0    0   0.133      4  0.00
+   68   68     0   0   0   0   1   0   1   0   0   1   5   0   0   0   0   0   6  86   0   0     0    0    0   0.598     19  0.00
+   69   69     2   0   0   0   5   0   0   0   0   0  20  64   0   0   0   0   0   5   5   0     0    0    0   1.122     37  0.00
+   70   70     5   1   0   0  26   0  62   0   0   0   0   5   0   1   0   0   0   0   0   1     0    0    0   1.088     36  0.00
+   71   71     7   0   0   0   0   0   0   0   6   0  44   9   0   0   0  12   0  22   0   0     0    0    0   1.525     50  0.00
+   72   72    71   0   3   0   0   0   0   0   7   0   6   5   0   5   3   0   0   0   0   0     0    0    0   1.114     37  0.00
+   73   73     0   0   0   0   0   0   0   0  11   0   0  73   0   0   0  15   0   0   1   0     0    0    0   0.807     26  0.00
+   74   74     1  69   0   0  30   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.672     22  0.00
+   75   75     0   0   0   0   0   0   0   5   6   0  24  49   0   0   0   2   0   3   0  10     0    0    0   1.443     48  0.00
+   76   76     9   0   0   0   0   0   0   0  11   5   2  22   0   0   0   0   0  45   4   2     0    0    0   1.593     53  0.00
+   77   77     0   0   0   0   0   0   0   0  16  38   1   1   0   0   0  40   0   1   0   2     0    0    0   1.273     42  0.00
+   78   78     0   0   0   0   0   0   0  99   1   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.063      2  0.00
+   79   79    10   0   0   0   0   0   0   0   0   0   8  63   0   0   0   0   0  17   0   1     0    0    0   1.089     36  0.00
+   80   80     0   0   0   0   0   0  99   0   0   0   0   0   0   1   0   0   0   0   0   0     0    0    0   0.063      2  0.00
+   81   81     0   0   0   0   0   0   0  28   0   0  28  26   0   0   0  15   0   3   0   0     0    0    0   1.464     48  0.00
+   82   82     9   0   1   0  67   0  22   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.872     29  0.00
+   83   83     1   0   0   0   5   0  88   0   0   0   0   0   0   0   0   6   0   0   0   0     0    0    0   0.469     15  0.00
+   84   84     0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   85   85     0   0   1   1   0   0   0   0  22   0  27  12   0   0   0   0   0  35   1   1     0    0    0   1.511     50  0.00
+   86   86     0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   87   87     0   0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   88   88     2   1   0   0   0   0   5   0  19   0   1   0   0   0  20   2  50   0   0   0     0    0    0   1.401     46  0.00
+   89   89     0   0   0   0   0   0   0  94   2   0   1   1   0   0   0   0   0   0   1   0     0    0    0   0.299      9  0.00
+   90   90     0   1   0   8   0   0   0   0  90   0   1   0   0   0   0   0   0   0   0   0     0    0    0   0.407     13  0.00
+   91   91     0   0   0   0   0   0   0  99   0   0   0   0   0   0   0   0   0   0   1   0     0    0    0   0.063      2  0.00
+   92   92     0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   93   93    81   0   1   0   0   0   0   1   1   0   0   0   0   0   0  14   0   1   0   0     0    0    0   0.650     21  0.00
+   94   94     0   0   0   3   0   0   0  95   1   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.214      7  0.00
+   95   95     6   0   0   0   0   0   0   0   3   0   0  13   0   0   0  72   2   3   0   0     0    0    0   0.986     32  0.00
+   96   96    70   5  26   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.743     24  0.00
+   97   97    14   0   8   0   0   0   0   0   0   0   0  73   0   0   0   0   3   1   0   0     0    0    0   0.876     29  0.00
+   98   98    99   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.063      2  0.00
+   99   99     0   0   0   0   0   0   0   0   0   0   2   0   0   0   0   0   0   0  94   4     0    0    0   0.278      9  0.00
+//

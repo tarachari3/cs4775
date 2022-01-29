@@ -1,0 +1,684 @@
+ID Pseudo hssp file.
+SEQ 
+SEQ gi|13646005|ref|XP_003059.3| peroxisome proliferative activated ...   483  e-135
+SEQ gi|13646013|ref|XP_015267.1| peroxisome proliferative activated ...   483  e-135
+SEQ gi|1490314|emb|CAA62153.1| (X90563) peroxisome proliferator acti...   483  e-135
+SEQ gi|13431788|sp|O18924|PPAT_MACMU PEROXISOME PROLIFERATOR ACTIVAT...   483  e-135
+SEQ gi|2645733|gb|AAB87481.1| (AF033342) peroxisome proliferator-act...   483  e-135
+SEQ gi|13431782|sp|O62807|PPAT_PIG PEROXISOME PROLIFERATOR ACTIVATED...   482  e-135
+SEQ gi|3024414|sp|O19052|PPAT_RABIT PEROXISOME PROLIFERATOR ACTIVATE...   479  e-134
+SEQ gi|4826930|ref|NP_005028.1| peroxisome proliferative activated r...   478  e-134
+SEQ gi|7705549|ref|NP_056953.1| peroxisome proliferative activated r...   478  e-134
+SEQ gi|13431791|sp|P57797|PPAT_CRIGR PEROXISOME PROLIFERATOR ACTIVAT...   478  e-134
+SEQ gi|514307|gb|AAA19971.1| (U10374) peroxisome proliferator-activa...   478  e-134
+SEQ gi|3492843|dbj|BAA32540.1| (AB011365) PPAR-gamma protein [Rattus...   478  e-134
+SEQ gi|6981386|ref|NP_037256.1| peroxisome proliferator activator re...   478  e-134
+SEQ gi|12584576|emb|CAA73382.2| (Y12882) peroxisome proliferator act...   478  e-134
+SEQ gi|2653404|emb|CAA73032.1| (Y12419) peroxisome proliferator acti...   478  e-134
+SEQ gi|13431789|sp|O18971|PPAT_BOVIN PEROXISOME PROLIFERATOR ACTIVAT...   478  e-134
+SEQ gi|7446201|pir||JE0279 peroxisome proliferator-activated recepto...   478  e-134
+SEQ gi|7446202|pir||JE0280 peroxisome proliferator-activated recepto...   478  e-134
+SEQ gi|454001|gb|AAC52134.1| (U01841) peroxisome proliferator activa...   477  e-134
+SEQ gi|6755138|ref|NP_035276.1| peroxisome proliferator activator re...   477  e-134
+SEQ gi|643611|gb|AAA62110.1| (U01664) PPAR gamma [Mus musculus]           474  e-133
+SEQ gi|13399886|pdb|1FM6|D Chain D, The 2.1 Angstrom Resolution Crys...   472  e-132
+SEQ gi|5822490|pdb|2PRG|A Chain A, Ligand-Binding Domain Of The Huma...   472  e-132
+SEQ gi|6980886|pdb|1PRG|A Chain A, Ligand Binding Domain Of The Huma...   472  e-132
+SEQ gi|2605497|dbj|BAA23354.1| (AB005526) peroxisome proliferator ac...   470  e-132
+SEQ gi|543297|pir||JN0881 peroxisome proliferator activated receptor...   469  e-131
+SEQ gi|12620396|gb|AAG60685.1| (AF317514) peroxisome proliferator ac...   468  e-131
+SEQ gi|8843931|gb|AAF80170.1|AF163811_1 (AF163811) peroxisome prolif...   460  e-128
+SEQ gi|6448520|emb|CAB61238.1| (AJ243132) peroxisome proliferator ac...   448  e-125
+SEQ gi|5822523|pdb|3PRG|A Chain A, Ligand Binding Domain Of Human Pe...   445  e-124
+SEQ gi|6448631|emb|CAB61263.1| (AJ243133) peroxisome proliferator ac...   426  e-118
+SEQ gi|13311191|emb|CAC34402.1| (AJ310087) peroxisome proliferator-a...   419  e-116
+SEQ gi|5650728|emb|CAB51618.1| (AJ243956) peroxisome proliferator-ac...   340  1e-92
+SEQ gi|5596832|emb|CAB51396.1| (AJ249075) peroxisome proliferator-ac...   338  5e-92
+SEQ gi|585723|sp|P37234|PPAT_XENLA PEROXISOME PROLIFERATOR ACTIVATED...   328  4e-89
+SEQ gi|13752442|gb|AAK38655.1|AF350327_1 (AF350327) peroxisome proli...   318  6e-86
+SEQ gi|8886491|gb|AAF80480.1|AF163810_1 (AF163810) peroxisome prolif...   318  6e-86
+SEQ gi|6981382|ref|NP_037328.1| peroxisome proliferator activated re...   318  6e-86
+SEQ gi|7549811|ref|NP_005027.2| peroxisome proliferative activated r...   317  1e-85
+SEQ gi|5019313|emb|CAB44427.1| (AL078611) cB5E3.1 (peroxisome prolif...   317  1e-85
+SEQ gi|5453940|ref|NP_006229.1| peroxisome proliferative activated r...   317  1e-85
+SEQ gi|7766936|pdb|3GWX|A Chain A, Molecular Recognition Of Fatty Ac...   317  1e-85
+SEQ gi|8886489|gb|AAF80479.1|AF163809_1 (AF163809) peroxisome prolif...   316  2e-85
+SEQ gi|346286|pir||A45360 steroid hormone receptor delta - human          316  2e-85
+SEQ gi|539656|pir||A49289 peroxisome proliferator-activated receptor...   316  2e-85
+SEQ gi|7106385|ref|NP_035274.1| peroxisome proliferator activated re...   316  2e-85
+SEQ gi|1709728|sp|P23204|PPAR_MOUSE PEROXISOME PROLIFERATOR ACTIVATE...   316  2e-85
+SEQ gi|1514595|emb|CAA68898.1| (Y07619) peroxisome proliferator-acti...   316  3e-85
+SEQ gi|7546609|pdb|2GWX|B Chain B, Molecular Recognition Of Fatty Ac...   315  3e-85
+SEQ gi|8895761|gb|AAF81095.1|AF228697_1 (AF228697) peroxisome prolif...   315  4e-85
+SEQ gi|5923996|emb|CAB56529.1| (AJ011515) peroxisome proliferator ac...   315  4e-85
+SEQ gi|585719|sp|P37232|PPAR_XENLA PEROXISOME PROLIFERATOR ACTIVATED...   313  1e-84
+SEQ gi|6448518|emb|CAB61237.1| (AJ243131) peroxisome proliferator ac...   312  4e-84
+SEQ gi|7243264|dbj|BAA92682.1| (AB033614) peroxisome proliferator ac...   312  4e-84
+SEQ gi|8132820|gb|AAF73405.1|AF229356_1 (AF229356) peroxisome prolif...   310  9e-84
+SEQ gi|548577|sp|P35396|PPAS_MOUSE PEROXISOME PROLIFERATOR ACTIVATED...   309  4e-83
+SEQ gi|2137629|pir||B57740 peroxisome proliferator-activated recepto...   309  4e-83
+SEQ gi|12830496|emb|CAC29088.1| (AJ306400) peroxisome proliferator-a...   307  7e-83
+SEQ gi|8132822|gb|AAF73406.1|AF229357_1 (AF229357) peroxisome prolif...   307  1e-82
+SEQ gi|3779003|gb|AAC65985.1| (U75918) peroxisome proliferator activ...   305  3e-82
+SEQ gi|6981384|ref|NP_037273.1| peroxisome proliferator activator re...   304  8e-82
+SEQ gi|3024415|sp|O35507|PPAR_CAVPO PEROXISOME PROLIFERATOR ACTIVATE...   298  5e-80
+SEQ gi|3150144|emb|CAA06917.1| (AJ006218) peroxisome proliferator ac...   295  3e-79
+SEQ gi|8132818|gb|AAF73404.1|AF228696_1 (AF228696) peroxisome prolif...   295  4e-79
+SEQ gi|9756015|emb|CAC02969.1| (AJ292963) peroxisome proliferator ac...   295  5e-79
+SEQ gi|2795872|gb|AAC39169.1| (AF013266) peroxisome proliferator-act...   285  4e-76
+SEQ gi|585720|sp|P37233|PPAS_XENLA PEROXISOME PROLIFERATOR ACTIVATED...   275  5e-73
+SEQ gi|9964078|gb|AAG09813.1| (AF276755) peroxisome proliferator act...   260  2e-68
+SEQ gi|9756013|emb|CAC02968.1| (AJ292962) peroxisome proliferator ac...   258  6e-68
+SEQ gi|5457301|emb|CAB46980.1| (AJ007664) peroxisome proliferator ac...   255  5e-67
+SEQ gi|12803755|gb|AAH02715.1|AAH02715 (BC002715) Similar to peroxis...   225  6e-58
+SEQ gi|2795868|gb|AAC39167.1| (AF013264) peroxisome proliferator-act...   216  2e-55
+SEQ gi|3334751|emb|CAA76112.1| (Y16186) peroxisome proliferator-acti...   193  2e-48
+SEQ gi|507211|gb|AAC52144.1| (U09504) Rev-Erb-beta [Mus musculus]          99  5e-20
+SEQ gi|6166581|sp|Q60674|NRD2_MOUSE ORPHAN NUCLEAR RECEPTOR NR1D2 (R...    99  5e-20
+SEQ gi|1429379|emb|CAA56551.1| (X80258) REV-ERBb [Gallus gallus]           99  5e-20
+SEQ gi|6166580|sp|Q14995|NRD2_HUMAN ORPHAN NUCLEAR RECEPTOR NR1D2 (R...    99  5e-20
+SEQ gi|687735|gb|AAA62508.1| (U20796) Rev-ErbA-beta [Rattus norvegicus]    98  1e-19
+SEQ gi|6166582|sp|Q63504|NRD2_RAT ORPHAN NUCLEAR RECEPTOR NR1D2 (REV...    98  1e-19
+SEQ gi|6015045|sp|O77245|E75_METEN NUCLEAR HORMONE RECEPTOR E75 >gi|...    97  2e-19
+SEQ gi|3820466|emb|CAA76208.1| (Y16420) peroxisome proliferator-acti...    96  3e-19
+SEQ gi|2135867|pir||A57057 orphan nuclear hormone receptor BD73 - hu...    93  3e-18
+SEQ gi|758418|gb|AAA64750.1| (U15660) orphan nuclear receptor HZF-2 ...    93  3e-18
+SEQ gi|92882|pir||A30226 thyroid/steroid hormone receptor - rat            92  8e-18
+SEQ gi|13430848|ref|NP_068370.1| nuclear receptor subfamily 1, group...    92  8e-18
+SEQ gi|5804932|emb|CAB53540.1| (X72631) Rev-ErbAalpha protein [Homo ...    92  8e-18
+SEQ gi|14290448|gb|AAH08989.1|AAH08989 (BC008989) Similar to nuclear...    91  2e-17
+SEQ gi|13928864|ref|NP_113815.1| nuclear receptor subfamily 1, group...    88  1e-16
+SEQ gi|7305321|ref|NP_038867.1| nuclear receptor subfamily 1, group ...    88  1e-16
+SEQ gi|4322471|gb|AAD16050.1| (AF085745) nuclear orphan receptor LXR...    88  2e-16
+SEQ gi|6093531|sp|Q63503|NRD1_RAT ORPHAN NUCLEAR RECEPTOR NR1D1 (V-E...    88  2e-16
+SEQ gi|2243140|emb|CAA67384.1| (X98881) nuclear hormone receptor [Dr...    86  5e-16
+SEQ gi|2243142|emb|CAA67385.1| (X98882) nuclear hormone receptor [Dr...    86  5e-16
+SEQ gi|7769648|gb|AAF69494.1| (AF238308) nuclear receptor E78A [Dros...    86  5e-16
+SEQ gi|7769650|gb|AAF69495.1|AF238309_1 (AF238309) nuclear receptor ...    86  5e-16
+SEQ gi|5031893|ref|NP_005684.1| nuclear receptor subfamily 1, group ...    84  2e-15
+SEQ gi|12736320|ref|XP_006165.2| nuclear receptor subfamily 1, group...    84  2e-15
+SEQ gi|1169450|sp|P45447|E78A_DROME ECDYSONE-INDUCIBLE PROTEIN E78-A...    83  6e-15
+SEQ gi|539440|pir||A49070 ecdysone-inducible protein E78A - fruit fl...    83  6e-15
+SEQ gi|539441|pir||B49070 ecdysone-inducible protein E78B - fruit fl...    83  6e-15
+SEQ gi|7144508|gb|AAA19976.2| (U01088) truncated nuclear hormone rec...    83  6e-15
+SEQ gi|2143957|pir||I65219 retinoid-related orphan receptor RZR-beta...    79  4e-14
+SEQ gi|2507415|sp|P45446|RORB_RAT NUCLEAR RECEPTOR ROR-BETA (NUCLEAR...    79  4e-14
+SEQ gi|2137631|pir||S68199 peroxisome-proliferator-activated recepto...    79  6e-14
+SEQ gi|119094|sp|P13055|E75C_DROME ECDYSONE-INDUCIBLE PROTEIN E75-C ...    79  7e-14
+SEQ gi|119092|sp|P17671|E75A_DROME ECDYSONE-INDUCIBLE PROTEIN E75-A ...    79  7e-14
+SEQ gi|119093|sp|P17672|E75B_DROME ECDYSONE-INDUCIBLE PROTEIN E75-B ...    79  7e-14
+SEQ gi|10727848|gb|AAF49282.2| (AE003522) Eip75B gene product [Droso...    79  7e-14
+SEQ gi|13928862|ref|NP_113814.1| nuclear receptor subfamily 1, group...    78  1e-13
+SEQ gi|13124670|sp|Q62755|NRH2_RAT OXYSTEROLS RECEPTOR LXR-BETA (LIV...    78  1e-13
+SEQ gi|6678507|ref|NP_033499.1| nuclear receptor subfamily 1, group ...    78  1e-13
+SEQ gi|608135|gb|AAA58594.1| (U14534) orphan receptor [Homo sapiens]       78  2e-13
+SEQ gi|11321630|ref|NP_009052.1| nuclear receptor subfamily 1, group...    78  2e-13
+SEQ gi|13654942|ref|XP_012792.2| nuclear receptor subfamily 1, group...    78  2e-13
+SEQ gi|5902058|ref|NP_008845.1| RAR-related orphan receptor B; RAR-r...    77  3e-13
+SEQ gi|11427952|ref|XP_005384.1| RAR-related orphan receptor B [Homo...    77  3e-13
+SEQ gi|1082764|pir||A56856 retinoid-related orphan receptor RZR-alph...    77  3e-13
+SEQ gi|1082668|pir||A53196 orphan hormone nuclear receptor RORalpha1...    76  3e-13
+SEQ gi|548814|sp|P35398|RORA_HUMAN NUCLEAR RECEPTOR ROR-ALPHA (NUCLE...    76  3e-13
+SEQ gi|4506577|ref|NP_002934.1| RAR-related orphan receptor A; RAR-r...    76  3e-13
+SEQ gi|726301|gb|AAA91122.1| (U22437) steroid receptor [Mus cookii]        76  3e-13
+SEQ gi|7305439|ref|NP_038674.1| RAR-related orphan receptor alpha [M...    76  3e-13
+SEQ gi|1869971|emb|CAB05396.1| (Z82994) nuclear orphan receptor/tran...    76  3e-13
+SEQ gi|6678561|ref|NP_033530.1| vitamin D receptor [Mus musculus] >g...    76  5e-13
+SEQ gi|215024|gb|AAA50049.1| (L03398) retinoic acid receptor alpha-2...    76  6e-13
+SEQ gi|3915241|sp|O13124|VDR_XENLA VITAMIN D3 RECEPTOR (VDR) (1,25-D...    76  7e-13
+SEQ gi|13879475|gb|AAH06716.1|AAH06716 (BC006716) vitamin D receptor...    76  7e-13
+SEQ gi|1619285|emb|CAA69928.1| (Y08638) nuclear orphan receptor ROR-...    75  9e-13
+SEQ gi|3046863|dbj|BAA25569.1| (D86615) retinoic acid receptor homol...    75  9e-13
+SEQ gi|2570170|dbj|BAA22970.1| (D45910) mROR4 [Mus caroli] >gi|96532...    75  1e-12
+SEQ gi|8394529|ref|NP_058754.1| vitamin D (1,25-dihydroxyvitamin D3)...    74  1e-12
+SEQ gi|215026|gb|AAA50050.1| (L03399) retinoic acid receptor alpha-2...    74  2e-12
+SEQ gi|4972006|emb|CAB43870.1| (AJ012378) retinoic acid receptor alp...    74  2e-12
+SEQ gi|4972008|emb|CAB43871.1| (AJ012379) retinoic acid receptor alp...    74  2e-12
+SEQ gi|1498152|dbj|BAA13143.1| (D86614) retinoic acid receptor homol...    74  3e-12
+SEQ gi|1352835|sp|P49701|VDR_COTJA VITAMIN D3 RECEPTOR (VDR) (1,25-D...    73  3e-12
+SEQ gi|3915243|sp|O42392|VDR_CHICK VITAMIN D3 RECEPTOR (VDR) (1,25-D...    73  3e-12
+SEQ gi|6683592|dbj|BAA89262.1| (AB024904) nuclear hormone receptor E...    73  4e-12
+SEQ gi|6683594|dbj|BAA89263.1| (AB024905) nuclear hormone receptor E...    73  4e-12
+SEQ gi|35883|emb|CAA30262.1| (X07282) retinoic acid receptor-epsilon...    73  4e-12
+SEQ gi|2119679|pir||A56558 retinoic acid receptor isoform alpha 2.1 ...    73  5e-12
+SEQ gi|2119680|pir||B56558 retinoic acid receptor isoform alpha 2.2 ...    73  5e-12
+SEQ gi|283822|pir||A41977 retinoic acid receptor alpha - African cla...    73  6e-12
+SEQ gi|9931536|gb|AAG02211.1|AF290610_1 (AF290610) retinoic acid rec...    72  7e-12
+SEQ gi|7441783|pir||S78481 retinoic acid receptor alpha-2 - eastern ...    72  7e-12
+SEQ gi|133488|sp|P18514|RRA_NOTVI RETINOIC ACID RECEPTOR ALPHA (RAR-...    72  7e-12
+SEQ gi|2148007|pir||I51256 retinoic acid receptor alpha - zebra fish...    72  7e-12
+SEQ gi|2133622|pir||C56591 E75 B steroid receptor homolog - tobacco ...    72  7e-12
+SEQ gi|6166165|sp|Q08893|E75_MANSE ECDYSONE-INDUCIBLE PROTEIN E75          72  7e-12
+SEQ gi|4826986|ref|NP_005051.1| RAR-related orphan receptor C; RAR-r...    72  8e-12
+SEQ gi|13626600|ref|XP_001378.2| RAR-related orphan receptor C [Homo...    72  8e-12
+SEQ gi|1089844|emb|CAA52152.1| (X73972) retinoic acid receptor alpha...    72  9e-12
+SEQ gi|2119682|pir||I50674 retinoic acid receptor alpha isoform 2-1 ...    72  9e-12
+SEQ gi|11346362|pir||JC7229 vitamin D receptor subtype a - Paralicht...    72  9e-12
+SEQ gi|62977|emb|CAA40616.1| (X57340) retinoic acid receptor  beta [...    72  1e-11
+SEQ gi|62979|emb|CAA40615.1| (X57339) retinoic acid receptor  beta,i...    72  1e-11
+SEQ gi|280730|pir||A43786 retinoic acid receptor beta-4 - chicken >g...    72  1e-11
+SEQ gi|104852|pir||S13512 retinoic acid receptor beta-1 - chicken >g...    72  1e-11
+SEQ gi|234371|gb|AAB19628.1| (S63196) retinoic acid receptor-beta, R...    72  1e-11
+SEQ gi|3041719|sp|P22448|RRB_CHICK RETINOIC ACID RECEPTOR BETA (RAR-...    72  1e-11
+SEQ gi|4566559|gb|AAD23397.1|AF110729_1 (AF110729) retinoic acid rec...    72  1e-11
+SEQ gi|4507883|ref|NP_000367.1| vitamin D (1,25- dihydroxyvitamin D3...    72  1e-11
+SEQ gi|2500921|sp|Q28037|VDR_BOVIN VITAMIN D3 RECEPTOR (VDR) (1,25-D...    72  1e-11
+SEQ gi|14277806|pdb|1IE8|A Chain A, Crystal Structure Of The Nuclear...    72  1e-11
+SEQ gi|4506421|ref|NP_000956.1| retinoic acid receptor, beta; Retino...    72  1e-11
+SEQ gi|225858|prf||1401244A thyroid/steroid receptor related gene [H...    72  1e-11
+SEQ gi|12729669|ref|XP_003071.2| retinoic acid receptor, beta [Homo ...    72  1e-11
+SEQ gi|91262|pir||S05051 retinoic acid receptor beta-2 - mouse >gi|8...    72  1e-11
+SEQ gi|133494|sp|P22605|RRB_MOUSE RETINOIC ACID RECEPTOR BETA (RAR-B...    72  1e-11
+SEQ gi|226050|prf||1408258A retinoic acid receptor [Homo sapiens]          72  1e-11
+SEQ gi|7706625|ref|NP_057236.1| retinoic acid receptor beta 4; Retin...    72  1e-11
+SEQ gi|13431917|sp|Q9PVE4|THB_BRARE THYROID HORMONE RECEPTOR BETA >g...    71  1e-11
+SEQ gi|13928712|ref|NP_113716.1| retinoic acid receptor, alpha [Ratt...    71  2e-11
+SEQ gi|6649215|gb|AAF21427.1|AF164512_1 (AF164512) vitamin D recepto...    71  2e-11
+SEQ gi|13898704|gb|AAK48863.1|AF354232_1 (AF354232) vitamin D recept...    71  2e-11
+SEQ gi|1619314|emb|CAA69930.1| (Y08640) nuclear orphan receptor ROR-...    71  2e-11
+SEQ gi|5231266|gb|AAC05115.2| (AF146776) thyroid hormone receptor-be...    71  2e-11
+SEQ gi|133484|sp|P11416|RRA_MOUSE RETINOIC ACID RECEPTOR ALPHA (RAR-...    71  2e-11
+SEQ gi|1743345|emb|CAA71177.1| (Y10094) retinoic acid receptor-alpha...    71  2e-11
+SEQ gi|133502|sp|P28699|RRG2_XENLA RETINOIC ACID RECEPTOR GAMMA-2 (R...    71  2e-11
+SEQ gi|1710713|sp|P51127|RRG1_XENLA RETINOIC ACID RECEPTOR GAMMA-1 (...    71  2e-11
+SEQ gi|1839486|gb|AAB47115.1| (S82173) retinoic acid receptor gamma ...    71  2e-11
+SEQ gi|1839488|gb|AAB47116.1| (S82175) retinoic acid receptor gamma ...    71  2e-11
+SEQ gi|6094474|sp|Q91279|THB_PAROL THYROID HORMONE RECEPTOR BETA (TH...    71  2e-11
+SEQ gi|35874|emb|CAA29787.1| (X06538) retinoic acid receptor (AA 1 -...    71  2e-11
+SEQ gi|4506419|ref|NP_000955.1| retinoic acid receptor, alpha; Retin...    71  2e-11
+SEQ gi|190125|gb|AAA60126.1| (M73779) PML-RAR protein [Homo sapiens]       71  2e-11
+SEQ gi|1314308|gb|AAB00112.1| (U41742) nucleophosmin-retinoic acid r...    71  2e-11
+SEQ gi|1314310|gb|AAB00113.1| (U41743) nucleophosmin-retinoic acid r...    71  2e-11
+SEQ gi|7638251|gb|AAF65452.1| (AF242867) ECFP-retinoic acid receptor...    71  2e-11
+SEQ gi|7638253|gb|AAF65453.1| (AF242868) ECFP-retinoic acid receptor...    71  2e-11
+SEQ gi|7766907|pdb|1DKF|B Chain B, Crystal Structure Of A Heterodime...    71  2e-11
+SEQ gi|8815561|gb|AAB19602.2| (S50916) retinoic acid receptor alpha;...    71  2e-11
+SEQ gi|623767|emb|CAA52153.1| (X73973) retinoic acid receptor gamma ...    70  3e-11
+SEQ gi|545176|gb|AAB29813.1| retinoic acid receptor alpha, RAR alpha...    70  3e-11
+SEQ gi|4826980|ref|NP_005114.1| nuclear receptor subfamily 1, group ...    70  4e-11
+SEQ gi|14326451|gb|AAK60271.1|AF384555_1 (AF384555) farnesol recepto...    70  4e-11
+SEQ gi|1706557|sp|P50239|E75_GALME ECDYSONE-INDUCIBLE PROTEIN E75 >g...    69  5e-11
+SEQ gi|6015044|sp|O01639|E75_CHOFU ECDYSONE-INDUCIBLE PROTEIN E75 >g...    69  6e-11
+SEQ gi|4160009|gb|AAD05222.1| (AF088895) retinoic acid receptor alph...    69  6e-11
+SEQ gi|6094141|sp|Q91392|RRG_BRARE RETINOIC ACID RECEPTOR GAMMA (RAR...    69  9e-11
+SEQ gi|212802|gb|AAA49107.1| (M65207) beta-thyroid hormone receptor ...    68  1e-10
+SEQ gi|135713|sp|P18117|THBA_XENLA THYROID HORMONE RECEPTOR BETA-A >...    68  1e-10
+SEQ gi|213964|gb|AAA49654.1| (M35359) thyroid hormone receptor beta ...    68  1e-10
+SEQ gi|1729929|sp|Q02965|THB_RANCA THYROID HORMONE RECEPTOR BETA >gi...    68  1e-10
+SEQ gi|104190|pir||D36067 thyroid hormone receptor beta-B - African ...    68  1e-10
+SEQ gi|135715|sp|P18119|THBB_XENLA THYROID HORMONE RECEPTOR BETA-B >...    68  1e-10
+SEQ gi|92877|pir||A31820 thyroid hormone receptor beta - rat >gi|623...    68  1e-10
+SEQ gi|586093|sp|P37242|THB1_MOUSE THYROID HORMONE RECEPTOR BETA-1 >...    68  1e-10
+SEQ gi|203419|gb|AAA40916.1| (J03933) thyroid hormone receptor [Ratt...    68  1e-10
+SEQ gi|6678343|ref|NP_033406.1| thyroid hormone receptor beta; TR be...    68  1e-10
+SEQ gi|586094|sp|P18113|THB1_RAT THYROID HORMONE RECEPTOR BETA-1           68  1e-10
+SEQ gi|586097|sp|P37826|THB2_RAT THYROID HORMONE RECEPTOR BETA-2           68  1e-10
+SEQ gi|1173170|sp|P18516|RRG_NOTVI RETINOIC ACID RECEPTOR GAMMA (RAR...    68  2e-10
+SEQ gi|85682|pir||S06124 retinoic acid receptor delta - eastern newt...    68  2e-10
+SEQ gi|6677831|ref|NP_033134.1| nuclear receptor subfamily 1, group ...    68  2e-10
+SEQ gi|1843450|emb|CAA49562.1| (X69944) largest of the predicted ret...    68  2e-10
+SEQ gi|8895462|gb|AAF80975.1| (AF206315) retonoic acid receptor gamm...    68  2e-10
+SEQ gi|8895467|gb|AAF80976.1| (AF206318) retonoic acid receptor gamm...    68  2e-10
+SEQ gi|225832|prf||1314259A retinoic acid receptor [Homo sapiens]          68  2e-10
+SEQ gi|586095|sp|P37243|THB2_HUMAN THYROID HORMONE RECEPTOR BETA-2         68  2e-10
+SEQ gi|11120690|ref|NP_068513.1| farnesoid X activated receptor [Rat...    68  2e-10
+SEQ gi|7110711|ref|NP_035374.1| retinoic acid receptor, gamma [Mus m...    68  2e-10
+SEQ gi|4506423|ref|NP_000957.1| retinoic acid receptor, gamma; Retin...    68  2e-10
+SEQ gi|133500|sp|P22932|RRG2_HUMAN RETINOIC ACID RECEPTOR GAMMA-2 (R...    68  2e-10
+SEQ gi|226404|prf||1510302C retinoic acid receptor gamma [Mus musculus]    68  2e-10
+SEQ gi|2624424|pdb|2LBD|    Ligand-Binding Domain Of The Human Retin...    68  2e-10
+SEQ gi|9257146|pdb|1EXA|A Chain A, Enantiomer Discrimination Illustr...    68  2e-10
+SEQ gi|11346363|pir||JC7230 vitamin D receptor subtype b - Paralicht...    67  2e-10
+SEQ gi|6433866|emb|CAB60726.1| (AJ250835) retinoic acid receptor [Ho...    67  2e-10
+SEQ gi|133501|sp|P20787|RRG2_MOUSE RETINOIC ACID RECEPTOR GAMMA-B (R...    67  2e-10
+SEQ gi|133499|sp|P18911|RRG1_MOUSE RETINOIC ACID RECEPTOR GAMMA-A (R...    67  2e-10
+SEQ gi|2507416|sp|P18112|THB_CHICK THYROID HORMONE RECEPTOR BETA >gi...    67  3e-10
+SEQ gi|72120|pir||TVCHTB thyroid hormone receptor beta - chicken           67  3e-10
+SEQ gi|10835870|pdb|1FCX|A Chain A, Isotype Selectivity Of The Human...    67  3e-10
+SEQ gi|10835871|pdb|1FCY|A Chain A, Isotype Selectivity Of The Human...    67  3e-10
+SEQ gi|1710711|sp|P51126|RRA_XENLA RETINOIC ACID RECEPTOR ALPHA (RAR...    67  3e-10
+SEQ gi|1145629|gb|AAB02582.1| (U39071) orphan receptor TOR [Mus musc...    66  4e-10
+SEQ gi|5679307|gb|AAD46913.1|AF163668_1 (AF163668) RORgamma t [Mus m...    66  4e-10
+SEQ gi|13644873|ref|XP_002986.2| thyroid hormone receptor, beta (avi...    66  5e-10
+SEQ gi|5821911|pdb|1BSX|A Chain A, Structure And Specificity Of Nucl...    66  5e-10
+SEQ gi|2738902|gb|AAB94565.1| (AF020186) AamEcRA3 [Amblyomma america...    66  5e-10
+SEQ gi|2738904|gb|AAB94566.1| (AF020187) AamEcRA1 [Amblyomma america...    66  5e-10
+SEQ gi|2738906|gb|AAB94567.1| (AF020188) AamEcRA2 [Amblyomma america...    66  5e-10
+SEQ gi|10835123|ref|NP_000452.1| thyroid hormone receptor, beta (avi...    66  8e-10
+SEQ gi|226278|prf||1504304A retinoic acid receptor [Notophthalmus vi...    66  8e-10
+SEQ gi|4405799|gb|AAD19828.1| (AF049136) ecdysone receptor [Locusta ...    65  1e-09
+SEQ gi|107885|pir||A40917 thyroid hormone receptor alpha, splice for...    64  1e-09
+SEQ gi|72122|pir||QRMSA1 thyroid hormone receptor alpha-1 - mouse >g...    64  1e-09
+SEQ gi|111147|pir||S14416 thyroid hormone receptor alpha-1 - mouse >...    64  1e-09
+SEQ gi|55932|emb|CAA31237.1| (X12744) c-erb-A thyroid hormone  recep...    64  1e-09
+SEQ gi|2500920|sp|Q28570|THA1_SHEEP THYROID HORMONE RECEPTOR ALPHA-1...    64  1e-09
+SEQ gi|4138568|emb|CAA06701.1| (AJ005797) thyroid hormone receptor a...    64  1e-09
+SEQ gi|6755344|ref|NP_035411.1| RAR-related orphan receptor gamma; t...    64  2e-09
+SEQ gi|4186077|emb|CAA10661.1| (AJ132394) ROR gamma T protein [Mus m...    64  2e-09
+SEQ gi|6677671|ref|NP_033050.1| retinoic acid receptor, alpha [Mus m...    64  2e-09
+SEQ gi|53891|emb|CAA40749.1| (X57528) retinoic acid receptor-alpha [...    64  2e-09
+SEQ gi|14250263|gb|AAH08556.1|AAH08556 (BC008556) Unknown (protein f...    64  2e-09
+SEQ gi|104300|pir||A37952 probable thyroid hormone receptor alpha - ...    63  3e-09
+SEQ gi|586091|sp|Q02777|THA_RANCA THYROID HORMONE RECEPTOR ALPHA >gi...    63  3e-09
+SEQ gi|135710|sp|P04625|THA_CHICK THYROID HORMONE RECEPTOR ALPHA >gi...    63  4e-09
+SEQ gi|6580162|emb|CAB63236.1| (AJ251810) ecdysteroid receptor [Bicy...    63  4e-09
+SEQ gi|112393|pir||S09178 thyroid hormone receptor alpha - rat >gi|2...    63  4e-09
+SEQ gi|104188|pir||B36067 thyroid hormone receptor alpha-B - African...    63  4e-09
+SEQ gi|6094469|sp|Q98867|THA1_BRARE THYROID HORMONE RECEPTOR ALPHA 1...    63  5e-09
+SEQ gi|13431918|sp|Q9W6I9|THA_ONCMY THYROID HORMONE RECEPTOR ALPHA >...    63  5e-09
+SEQ gi|72123|pir||TVXLTA thyroid hormone receptor alpha-1 - African ...    63  5e-09
+SEQ gi|135707|sp|P15204|THAA_XENLA THYROID HORMONE RECEPTOR ALPHA-A ...    63  5e-09
+SEQ gi|6175061|sp|P18115|THAB_XENLA THYROID HORMONE RECEPTOR ALPHA-B...    63  5e-09
+SEQ gi|14250704|gb|AAH08819.1|AAH08819 (BC008819) Unknown (protein f...    63  6e-09
+SEQ gi|825639|emb|CAA38899.1| (X55074) thyroid hormone receptor alph...    63  7e-09
+SEQ gi|1706573|sp|P49880|ECR_AEDAE ECDYSONE RECEPTOR (ECDYSTEROID RE...    61  1e-08
+SEQ gi|6601565|gb|AAF19032.1|AF210733_1 (AF210733) ecdysteroid recep...    61  1e-08
+SEQ gi|1778804|gb|AAB40920.1| (U82629) retinoic acid receptor gamma ...    61  1e-08
+SEQ gi|13431919|sp|Q9W6N4|THA_HIPHI THYROID HORMONE RECEPTOR ALPHA >...    61  1e-08
+SEQ gi|13431920|sp|Q9W785|THA_SALSA THYROID HORMONE RECEPTOR ALPHA >...    61  1e-08
+SEQ gi|6015051|sp|O18531|ECR_LUCCU ECDYSONE RECEPTOR (ECDYSTEROID RE...    61  2e-08
+SEQ gi|92878|pir||S06410 thyroid hormone receptor alpha-1 - rat >gi|...    61  2e-08
+SEQ gi|8478106|sp|Q90416|RXRA_BRARE RETINOIC ACID RECEPTOR RXR-ALPHA...    61  2e-08
+SEQ gi|285012|pir||S26670 retinoic acid receptor X-gamma - mouse >gi...    61  2e-08
+SEQ gi|940387|dbj|BAA07890.1| (D43943) ORF [Bombyx mori]                   61  2e-08
+SEQ gi|12034940|gb|AAG46050.1|AF325360_1 (AF325360) ecdysone recepto...    61  2e-08
+SEQ gi|1706576|sp|P49883|ECR_MANSE ECDYSONE RECEPTOR (ECDYSTEROID RE...    60  3e-08
+SEQ gi|2582637|emb|CAA05339.1| (AJ002363) alpha-thyroid hormone rece...    60  3e-08
+SEQ gi|6094472|sp|O42295|THA_APTPA THYROID HORMONE RECEPTOR ALPHA          60  3e-08
+SEQ gi|2582814|emb|CAA05310.1| (AJ002300) thyroid hormone receptor a...    60  4e-08
+SEQ gi|6094473|sp|O42450|THA_PYGAD THYROID HORMONE RECEPTOR ALPHA          60  4e-08
+SEQ gi|3393034|emb|CAA11907.1| (AJ224341) ecdysone receptor [Ceratit...    60  4e-08
+SEQ gi|4506755|ref|NP_002948.1| retinoid X receptor, alpha [Homo sap...    60  4e-08
+SEQ gi|6755384|ref|NP_035435.1| retinoid X receptor alpha [Mus muscu...    60  4e-08
+SEQ gi|6981496|ref|NP_036937.1| retinoid X receptor alpha [Rattus no...    60  4e-08
+SEQ gi|1685271|gb|AAB36777.1| (U77683) RXR alpha 2 [Mus musculus] >g...    60  4e-08
+SEQ gi|1943526|pdb|1LBD|    Ligand-Binding Domain Of The Human Nucle...    60  4e-08
+SEQ gi|4003528|gb|AAC95154.1| (AF098284) retinoic acid receptor RXR ...    60  4e-08
+SEQ gi|9931482|gb|AAG02188.1| (AF264696) retinoic acid receptor RXR ...    60  4e-08
+SEQ gi|9955002|pdb|1FBY|A Chain A, Crystal Structure Of The Human Rx...    60  4e-08
+SEQ gi|13399885|pdb|1FM6|A Chain A, The 2.1 Angstrom Resolution Crys...    60  4e-08
+SEQ gi|13431914|sp|Q90382|THA_CAIMO THYROID HORMONE RECEPTOR ALPHA >...    59  5e-08
+SEQ gi|832972|emb|CAA36459.1| (X52209) gag,v-erb-A,v-erb-B [Avian er...    59  5e-08
+SEQ gi|5902068|ref|NP_008848.1| retinoid X receptor, gamma [Homo sap...    59  5e-08
+SEQ gi|72125|pir||TVFVVR transforming protein erbA - avian erythrobl...    59  5e-08
+SEQ gi|119535|sp|P03373|ERBA_AVIER ERBA ONCOGENE PROTEIN                   59  5e-08
+SEQ gi|209662|gb|AAA42393.1| (K02006) polyprotein gag-p75-erbA [Avia...    59  5e-08
+SEQ gi|209665|gb|AAA42395.1| (M32090) polyprotein [Avian erythroblas...    59  5e-08
+SEQ gi|320347|pir||A44776 transforming protein (erbA) - avian erythr...    59  5e-08
+SEQ gi|420622|pir||S35744 transforming protein (erbA) - avian erythr...    59  5e-08
+SEQ gi|13643937|ref|XP_016769.1| pregnane X receptor, isoform 2 [Hom...    59  5e-08
+SEQ gi|13643940|ref|XP_016768.1| pregnane X receptor, isoform 1 [Hom...    59  5e-08
+SEQ gi|542644|pir||S41497 thyroid hormone receptor homolog - African...    59  6e-08
+SEQ gi|6677829|ref|NP_033133.1| retinoid X receptor gamma [Mus sp.] ...    59  6e-08
+SEQ gi|386369|gb|AAB27245.1| (S62952) retinoid-X receptor-gamma isof...    59  6e-08
+SEQ gi|1710719|sp|P51128|RXRA_XENLA RETINOIC ACID RECEPTOR RXR-ALPHA       59  7e-08
+SEQ gi|2133899|pir||I50514 retinoid X receptor - zebra fish >gi|1046...    59  7e-08
+SEQ gi|1583309|prf||2120366D retinoid X receptor:ISOTYPE=gamma [Dani...    59  7e-08
+SEQ gi|7766906|pdb|1DKF|A Chain A, Crystal Structure Of A Heterodime...    59  7e-08
+SEQ gi|793744|gb|AAA87340.1| (L35266) 20-hydroxy-ecdysone receptor [...    59  7e-08
+SEQ gi|209669|gb|AAA42397.1| (M17870) polyprotein [Avian erythroblas...    59  9e-08
+SEQ gi|209671|gb|AAA42398.1| (M17869) polyprotein [Avian erythroblas...    59  9e-08
+SEQ gi|283824|pir||C41977 retinoid receptor alpha - African clawed frog    58  1e-07
+SEQ gi|5852067|emb|CAB55492.1| (AJ009937) nuclear hormone receptor P...    58  1e-07
+SEQ gi|5852068|emb|CAB55493.1| (AJ009937) nuclear hormone receptor P...    58  1e-07
+SEQ gi|5852069|emb|CAB55494.1| (AJ009937) nuclear hormone receptor P...    58  1e-07
+SEQ gi|13752551|gb|AAK38721.1|AF364606_2 (AF364606) orphan nuclear r...    58  1e-07
+SEQ gi|2135648|pir||I38104 MHC class I promoter binding protein - hu...    58  1e-07
+SEQ gi|13677226|gb|AAC33432.2| (AF034086) ecdysteroid receptor [Celu...    58  1e-07
+SEQ gi|7110506|gb|AAF36970.1|AF230281_1 (AF230281) nuclear receptor ...    58  1e-07
+SEQ gi|1710810|sp|P51129|RXRG_XENLA RETINOIC ACID RECEPTOR RXR-GAMMA...    58  1e-07
+SEQ gi|133700|sp|P28701|RXRG_CHICK RETINOIC ACID RECEPTOR RXR-GAMMA ...    58  2e-07
+SEQ gi|11415052|ref|NP_068811.1| retinoid X receptor, beta [Homo sap...    58  2e-07
+SEQ gi|337720|gb|AAA60293.1| (M84820) retinoid X receptor beta [Homo...    58  2e-07
+SEQ gi|542994|pir||S37781 retinoid X receptor beta - human                 58  2e-07
+SEQ gi|1706574|sp|P49881|ECR_BOMMO ECDYSONE RECEPTOR (ECDYSTEROID RE...    58  2e-07
+SEQ gi|285011|pir||S26669 retinoic acid receptor X-beta - mouse >gi|...    57  2e-07
+SEQ gi|109944|pir||A34418 H-2 region II binding protein - mouse (fra...    57  2e-07
+SEQ gi|112259|pir||A41651 retinoic acid receptor coregulator - rat >...    57  2e-07
+SEQ gi|483195|pir||D41727 retinoid X receptor beta - mouse                 57  2e-07
+SEQ gi|13489062|ref|NP_035436.1| retinoid X receptor beta [Mus muscu...    57  2e-07
+SEQ gi|1710720|sp|P49743|RXRB_RAT RETINOIC ACID RECEPTOR RXR-BETA (N...    57  2e-07
+SEQ gi|7709422|gb|AAA40081.2| (M84818) retinoid X receptor beta [Mus...    57  3e-07
+SEQ gi|6093860|sp|O75469|PXR_HUMAN ORPHAN NUCLEAR RECEPTOR PXR (PREG...    57  3e-07
+SEQ gi|11863132|ref|NP_071285.1| pregnane X receptor, isoform 2; pre...    57  3e-07
+SEQ gi|5852063|emb|CAB55489.1| (AJ009936) nuclear hormone receptor P...    57  3e-07
+SEQ gi|5852064|emb|CAB55490.1| (AJ009936) nuclear hormone receptor P...    57  3e-07
+SEQ gi|5852065|emb|CAB55491.1| (AJ009936) nuclear hormone receptor P...    57  3e-07
+SEQ gi|11863134|ref|NP_003880.2| pregnane X receptor, isoform 1; pre...    57  3e-07
+SEQ gi|840922|emb|CAA60792.1| (X87366) retinoid X receptor beta [Xen...    57  3e-07
+SEQ gi|3098336|gb|AAC15589.1| (AF035578) retinoid X receptor [Amblyo...    57  3e-07
+SEQ gi|6094470|sp|Q91241|THAA_PAROL THYROID HORMONE RECEPTOR ALPHA A...    57  4e-07
+SEQ gi|5713322|gb|AAC61596.2| (AF092030) ecdysone receptor isoform A...    56  4e-07
+SEQ gi|5731356|gb|AAC36491.2| (U29531) ecdysteroid receptor EcR-B [C...    56  4e-07
+SEQ gi|2155008|emb|CAA72296.1| (Y11533) ecdysone receptor [Tenebrio ...    56  4e-07
+SEQ gi|537516|gb|AAA52332.1| (M24900) triiodothyronine receptor [Hom...    56  6e-07
+SEQ gi|461984|sp|P34021|ECR_DROME ECDYSONE RECEPTOR (ECDYSTEROID REC...    56  7e-07
+SEQ gi|4003529|gb|AAC95155.1| (AF098284) ecdysone receptor VgEcR [Cl...    56  7e-07
+SEQ gi|7302184|gb|AAF57280.1| (AE003784) EcR gene product [Drosophil...    56  7e-07
+SEQ gi|3929579|gb|AAC80008.1| (AF091121) retinoic acid X receptor [T...    56  8e-07
+SEQ gi|6015050|sp|O18473|ECR_HELVI ECDYSONE RECEPTOR (ECDYSTEROID RE...    56  8e-07
+SEQ gi|6094471|sp|Q91242|THAB_PAROL THYROID HORMONE RECEPTOR ALPHA B...    55  9e-07
+SEQ gi|6580625|emb|CAB63485.1| (AJ251809) ecdysteroid receptor [Juno...    55  9e-07
+SEQ gi|2133902|pir||I50516 retinoid X receptor delta - zebra fish >g...    55  1e-06
+SEQ gi|111145|pir||S14418 thyroid hormone receptor alpha-3 - mouse (...    55  1e-06
+SEQ gi|2133904|pir||I50517 retinoid X receptor epsilon - zebra fish ...    54  2e-06
+SEQ gi|3915110|sp|Q28571|THB1_SHEEP THYROID HORMONE RECEPTOR BETA-1 ...    54  2e-06
+SEQ gi|399369|sp|P31396|HR3_DROME PROBABLE NUCLEAR HORMONE RECEPTOR ...    54  3e-06
+SEQ gi|215028|gb|AAB59953.1| (L03400) retinoic acid receptor gamma-2...    54  3e-06
+SEQ gi|3643829|gb|AAC42665.1| (AF077403) nuclear receptor 1 [Ciona i...    54  3e-06
+SEQ gi|13699898|gb|AAC32789.2| (AF032983) retinoid X receptor homolo...    54  3e-06
+SEQ gi|5631312|dbj|BAA82618.1| (AB030318) retinoid X receptor [Polya...    53  3e-06
+SEQ gi|1085220|pir||S47633 RXR protein - African clawed frog >gi|685...    53  4e-06
+SEQ gi|14484879|gb|AAK62804.1|AF073927_1 (AF073927) nuclear receptor...    53  4e-06
+SEQ gi|4337458|gb|AAD18132.1| (AF053922) retinoid X receptor beta [S...    53  4e-06
+SEQ gi|10946431|gb|AAG24910.1|AF305201_1 (AF305201) orphan nuclear r...    53  4e-06
+SEQ gi|4507495|ref|NP_003241.1| thyroid hormone receptor, alpha (avi...    53  4e-06
+SEQ gi|111146|pir||S14417 thyroid hormone receptor alpha-2 - mouse (...    53  4e-06
+SEQ gi|72121|pir||TVRTAR thyroid hormone receptor alpha-2 - rat >gi|...    53  4e-06
+SEQ gi|11427350|ref|XP_008585.1| thyroid hormone receptor, alpha (av...    53  4e-06
+SEQ gi|13592115|ref|NP_112396.1| thyroid hormone receptor [Rattus no...    53  4e-06
+SEQ gi|204050|gb|AAA41122.1| (M31177) c-erbA-alpha-2 protein [Rattus...    53  4e-06
+SEQ gi|226131|prf||1411299B thyroid hormone receptor alpha 2 [Rattus...    53  4e-06
+SEQ gi|2507418|sp|P15827|THA_MOUSE THYROID HORMONE RECEPTOR ALPHA (C...    53  4e-06
+SEQ gi|13124576|sp|O97716|THA_PIG THYROID HORMONE RECEPTOR ALPHA (C-...    53  4e-06
+SEQ gi|585482|sp|Q08882|HR3_MANSE PROBABLE NUCLEAR HORMONE RECEPTOR ...    52  8e-06
+SEQ gi|10720242|sp|Q9R1A7|PXR_RAT ORPHAN NUCLEAR RECEPTOR PXR (PREGN...    52  1e-05
+SEQ gi|6983809|emb|CAB75361.1| (AJ251542) USP protein [Tenebrio moli...    52  1e-05
+SEQ gi|92879|pir||S06907 thyroid hormone receptor alpha-2 (clone rTR...    51  1e-05
+SEQ gi|5853354|gb|AAD54426.1|AF182217_1 (AF182217) pregnane x recept...    51  1e-05
+SEQ gi|14133772|gb|AAK54127.1|AF367206_1 (AF367206) nuclear receptor...    51  2e-05
+SEQ gi|14133775|gb|AAK54128.1|AF367207_1 (AF367207) nuclear receptor...    51  2e-05
+SEQ gi|6018474|emb|CAB57886.1| (X55074) thyroid hormone receptor alp...    51  2e-05
+SEQ gi|1706575|sp|P49882|ECR_CHITE ECDYSONE RECEPTOR (ECDYSTEROID RE...    51  2e-05
+SEQ gi|6093861|sp|O54915|PXR_MOUSE ORPHAN NUCLEAR RECEPTOR PXR (PREG...    50  3e-05
+SEQ gi|6754888|ref|NP_033933.1| nuclear receptor subfamily 1, group ...    49  5e-05
+SEQ gi|6007621|gb|AAF00981.1|AF136372_1 (AF136372) RXR [Locusta migr...    48  1e-04
+SEQ gi|4826661|ref|NP_005113.1| nuclear receptor subfamily 1, group ...    48  1e-04
+SEQ gi|13592107|ref|NP_112392.1| nuclear receptor subfamily 2, group...    48  1e-04
+SEQ gi|13173384|gb|AAK14384.1| (AF337637) molt-regulating transcript...    47  2e-04
+SEQ gi|2137735|pir||I49020 retinoid X receptor interacting protein N...    47  2e-04
+SEQ gi|1708295|sp|P49868|HR3_GALME PROBABLE NUCLEAR HORMONE RECEPTOR...    47  3e-04
+SEQ gi|10505179|gb|AAG18374.1|AF276753_1 (AF276753) xenobiotic recep...    47  3e-04
+SEQ gi|548354|sp|Q04913|NR42_XENLA ORPHAN NUCLEAR RECEPTOR NURR1 (NE...    47  3e-04
+SEQ gi|12621108|ref|NP_075230.1| strain Fischer nuclear receptor (CA...    47  4e-04
+SEQ gi|1703646|gb|AAB37686.1| xCOUP-TF-B=proposed retinoid receptor-...    46  4e-04
+SEQ gi|2133651|pir||S58238 DHR38 protein - fruit fly (Drosophila mel...    46  8e-04
+SEQ gi|1036837|gb|AAC46926.1| (U36762) DHR38 [Drosophila melanogaster]     46  8e-04
+SEQ gi|2078499|gb|AAB54059.1| (U63929) hormone receptor 3C [Choristo...    46  8e-04
+SEQ gi|3334657|emb|CAA05172.1| (AJ002073) hormone receptor 38 [Droso...    46  8e-04
+SEQ gi|7298701|gb|AAF53914.1| (AE003667) Hr38 gene product [Drosophi...    46  8e-04
+SEQ gi|12644294|sp|P49869|HR38_DROME PROBABLE NUCLEAR HORMONE RECEPT...    46  8e-04
+SEQ 
+## SEQUENCE PROFILE AND ENTROPY
+ SeqNo PDBNo   V   L   I   M   F   W   Y   G   A   P   S   T   C   H   R   K   Q   E   N   D  NOCC NDEL NINS ENTROPY RELENT WEIGHT
+    1    1     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   2  98   0   0     0    0    0   0.092      3  0.00
+    2    2     0   0   0   6   0   0   0   0   4   0  67  22   2   0   0   0   0   0   0   0     0    0    0   0.961     32  0.00
+    3    3     0   0   0   0   0   0   0   0  99   0   1   0   0   0   0   0   0   0   0   0     0    0    0   0.076      2  0.00
+    4    4     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100     0    0    0   0.000      0  0.00
+    5    5     0  97   0   0   0   0   0   0   0   0   0   0   0   0   0   0   3   0   0   0     0    0    0   0.130      4  0.00
+    6    6     0   1   0   0   0   0   0   0   0   0   0   0   0   0  59  38   0   0   0   1     0    0    0   0.793     26  0.00
+    7    7     4   0   0   5   0   0   0   0  70   0  20   0   0   0   0   0   0   0   0   0     0    0    0   0.859     28  0.00
+    8    8     0  74   0   5  20   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.702     23  0.00
+    9    9     0   0   5   0   0   0   0   3  68   0  24   0   0   0   0   0   0   0   0   0     0    0    0   0.864     28  0.00
+   10   10     0   0   0   0   0   0   0   0   0   0   0   0   0   0  12  86   1   0   0   0     0    0    0   0.440     14  0.00
+   11   11     0   3   0   0   0   0   0   0   0   0   0   0   0  69  18   0   4   5   1   0     0    0    0   1.005     33  0.00
+   12   12     0  61  39   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.669     22  0.00
+   13   13     0   0   0   5   0   0  82   0   0   0   0   0   6   6   0   0   0   0   0   0     0    0    0   0.673     22  0.00
+   14   14     0   3   0   0   0   0   0   0   0   4   4   0   0   0   0   0   0  19  17  53     0    0    0   1.302     43  0.00
+   15   15     0   0   0   0   0   0   0   0  47   0  49   4   0   0   0   0   0   0   0   0     0    0    0   0.830     27  0.00
+   16   16     0   0   1   0   0   0  90   0   0   0   0   0   0   4   0   0   5   0   0   0     0    0    0   0.435     14  0.00
+   17   17     8  40  42   6   0   0   0   0   0   0   0   0   0   3   0   1   0   0   0   0     0    0    0   1.254     41  0.00
+   18   18     0   0   0   0   0   0   4   0   0   0   0   0   0   0   4  91   0   0   1   0     0    0    0   0.392     13  0.00
+   19   19     0   0   0   0   0   0   3   0   0   0  48   6   0   3   0   0   0   1  39   0     0    0    0   1.135     37  0.00
+   20   20     0   0   0   0  95   0   0   1   4   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.229      7  0.00
+   21   21     0   0   0   0   0   0   0   0   0  57   0   1   0   3   0   0   0   0  39   0     0    0    0   0.841     28  0.00
+   22   22     1  52   0  43   0   0   0   0   0   0   0   0   0   0   0   0   0   4   0   0     0    0    0   0.890     29  0.00
+   23   23     0   0   0   0   0   0   0   4   0   0   0  75   0   0   0   1   0   0  20   0     0    0    0   0.726     24  0.00
+   24   24     0   0   0   0   0   0   0   0   0   0   0   0   0   0   1  96   1   1   0   0     0    0    0   0.212      7  0.00
+   25   25    19   0   1   0   0   0   0   1  53   0   4   0   0   0   0  21   0   0   0   0     0    0    0   1.222     40  0.00
+   26   26     0   0   0   0   0   0   0   0   1   4   0   0   0   0   1  92   1   0   0   0     0    0    0   0.378     12  0.00
+   27   27     0   0   0   0   0   0   0   0  99   0   1   0   0   0   0   0   0   0   0   0     0    0    0   0.070      2  0.00
+   28   28     0   0   0   0   0   0   0   0   0   1   0   0   0   0  92   3   0   0   4   0     0    0    0   0.356     11  0.00
+   29   29    18   0   3   0   0   0   0   9  54   0  14   0   0   0   0   0   0   0   0   1     0    0    0   1.297     43  0.00
+   30   30     0   4  92   0   0   0   0   0   1   0   0   1   0   1   0   0   0   0   0   0     0    0    0   0.370     12  0.00
+   31   31     0  94   0   0   0   0   0   0   0   1   1   0   0   0   4   0   0   0   0   0     0    0    0   0.302     10  0.00
+   32   32     0   1   0   0   0   0   0   0  14   0  12  68   0   0   0   0   4   0   0   1     0    0    0   1.033     34  0.00
+   33   33     0   0   0   0   0   0   0  99   0   0   0   0   0   1   0   0   0   0   0   0     0    0    0   0.069      2  0.00
+   34   34     0   0   0   0   0   0   0   0   0   0   1   0   0   0   3  91   1   0   4   0     0    0    0   0.421     14  0.00
+   35   35     0   1   0   0   0   0   0   0  23   0   9  60   0   0   0   0   0   0   1   5     0    0    0   1.113     37  0.00
+   36   36     0   0   0   0   0   0   0   3   0   0  42  49   0   4   0   0   0   0   3   0     0    0    0   1.027     34  0.00
+   37   37     0   0   0   0   0   0   0   3   0   0   4   6   0  18   1   0   0   0  19  48     0    0    0   1.436     47  0.00
+   38   38     0   0   1   0   5   0   0   0   1   1   0  13   0   3   0  46   1   0  28   1     0    0    0   1.487     49  0.00
+   39   39     0   0   0   0   0   0   0   0  20  22  51   1   0   0   0   0   1   0   5   0     0    0    0   1.256     41  0.00
+   40   40     4   2   0   0   0   0   0   0   2  84   2   0   0   5   0   0   0   0   0   0     0    0    0   0.692     23  0.00
+   41   41     1   4   0   0  93   0   1   0   0   0   0   0   0   0   0   0   0   0   0   1     0    0    0   0.356     11  0.00
+   42   42    83   5   4   0   0   0   0   0   0   0   1   1   1   0   0   5   0   0   0   0     0    0    0   0.719     24  0.00
+   43   43     0   0  86   0   1   0   4   0   4   0   0   0   0   0   1   0   0   0   5   0     0    0    0   0.621     20  0.00
+   44   44     0   0   0   0   5   0  43   0   0   0   0   0   4  47   1   0   0   0   0   0     0    0    0   1.037     34  0.00
+   45   45     0   0   0   0   0   0   0   0   0   3   0   0   0   0   5   0   3   1   0  87     0    0    0   0.548     18  0.00
+   46   46     5   5  18  68   0   0   0   0   0   0   1   0   0   0   0   0   3   0   0   0     0    0    0   1.018     33  0.00
+   47   47     0   0   0   0   0   0   0   0   1   0   7   0   0   1   0   8   0  36  41   6     0    0    0   1.383     46  0.00
+   48   48     0   5   0   3   3   0   0   0   0   0  44  39   0   0   3   0   1   0   0   1     0    0    0   1.316     43  0.00
+   49   49     0  80   3   0   2   0   3   0   0   2   0   0   0   0   0   0   5   3   0   1     0    0    0   0.891     29  0.00
+   50   50     0  13   1  39   0  18   0   1   0   3   3   2  18   0   1   0   0   1   0   0     0    0    0   1.731     57  0.00
+   51   51     0   0   2  51   0   0   0   1   3   3   2   2   0   3  13   0  16   2   0   1     0    0    0   1.649     55  0.00
+   52   52     1   0   0   0   0   0   0  62  33   0   4   0   0   0   0   0   0   0   0   0     0    0    0   0.841     28  0.00
+   53   53     0   0   0   0   0   0   0   0   0   1   1   0   0   0   1   0   2  94   0   1     0    0    0   0.329     10  0.00
+   54   54     0   0   0   0   0   0   2   0   0   0   0   1   0   0   0  33   3   3   0  58     0    0    0   1.021     34  0.00
+   55   55     0   1   0   0   4   0   1  30   0   0   0  18   0   0   0  32   9   1   0   3     0    0    0   1.630     54  0.00
+   56   56     5  33  41   4   0   0   0   1   0   0  14   1   0   0   0   1   0   0   0   0     0    0    0   1.423     47  0.00
+   57   57    45   0   0   2   0   0   0   1   1   0   2   0   0   2   4  37   0   0   6   0     0    0    0   1.352     45  0.00
+   58   58     2   1   0   0  36  29   5   1  16   0   0   0   7   0   0   3   1   0   0   0     0    0    0   1.656     55  0.00
+   59   59     0   0   0   0   0   0   0   0   0   0   1   3   1   0   9  59   2  13  12   0     0    0    0   1.317     43  0.00
+   60   60     2   9   0   3   0   0  12   0   0   1   0   3   1  33   3   0  18  15   1   0     0    0    0   1.926     64  0.00
+   61   61    20  17  43   2   0   0   0   0   1   3   0   3   0   0   0  10   1   0   0   0     0    0    0   1.567     52  0.00
+   62   62    15   1   2   1   3   1   0   0  14  13   6  34   0   1   0   4   0   7   0   0     0    0    0   2.003     66  0.00
+   63   63     3   0   0   1   0   0   0   0   3  47   0   1   0   0   0   0   3   8  33   2     0    0    0   1.367     45  0.00
+   64   64     0  41   8   3   0   0  13  17  12   1   4   1   0   0   1   0   1   0   0   0     0    0    0   1.782     59  0.00
+   65   65     3  12   2   0   0   0   0  15   2   3   1   0   0   0   0   0  43   8   1  12     0    0    0   1.772     59  0.00
+   66   66     0   1   9   0   0   0   0   0   0  12  12   1   0   0   3   0   0  52   6   4     0    0    0   1.537     51  0.00
+   67   67     0   0   0   0   0   0   0   9   0  13   0   1   0   1   4  10  59   3   0   0     0    0    0   1.350     45  0.00
+   68   68     0   1   0   0   0   0  11  10   0   1  36   1   0   0  16   0   7   2  11   5     0    0    0   1.897     63  0.00
+   69   69    15   0   0   3   0   0   0   3   1   0   3   1   0   0  15  50   1   4   3   1     0    0    0   1.659     55  0.00
+   70   70     1   0   0   0   0   0   0   1   1   0  19   0   0   0   2   1   1  69   0   6     0    0    0   1.014     33  0.00
+   71   71    33  17  19   0   0   0   0   0  20   1   1   2   0   0   0   1   0   5   0   3     0    0    0   1.737     57  0.00
+   72   72     2   1   0   0   0   0   0   2  31   0  13   1   0   1   7   0   0  16   2  23     0    0    0   1.829     61  0.00
+   73   73    25   5  43   0   9   0   0   0   0   0   1   1   0   0   0   1  10   1   1   4     0    0    0   1.622     54  0.00
+   74   74     0   1   0   1   0   5   1   0   1   1  11   0   0  11  38   5   7   3   0  15     0    0    0   1.951     65  0.00
+   75   75    14  30  30  10   4   0   0   0   1   1   0   0   0   0   7   0   1   1   1   0     0    0    0   1.729     57  0.00
+   76   76     0   8   0   0  54  33   0   0   1   0   0   0   0   0   1   0   3   1   0   0     0    0    0   1.111     37  0.00
+   77   77     0   1   0   0   0   0  11   0   5   8   2   0   0  11   2   1  40   6   0  13     0    0    0   1.880     62  0.00
+   78   78     0   5   1   0   3   0   1  20   0   0   2   0  10  15  18  14   8   1   0   2     0    0    0   2.171     72  0.00
+   79   79     1   1   4   7  26   0   3   0   0   0   1   1  57   0   0   0   0   1   0   0     0    0    0   1.272     42  0.00
+   80   80     0   1   0   0   0   0   0   0  23   0  20   9   0   0   0   0  46   1   0   0     0    0    0   1.311     43  0.00
+   81   81     0   3   8   3  21   0   1   0   6   0   5   0  16   3   0   1   0  22   0  11     0    0    0   2.127     70  0.00
+   82   82     2  21   2  10   0   0   0   1   1   1   3  16   0   3  30   9   3   0   0   0     0    0    0   1.966     65  0.00
+   83   83     3   5   6   0   5   0   0   0  17   0  44  18   0   0   0   0   0   0   0   0     0    0    0   1.642     54  0.00
+   84   84    27   1  14   0   0   0   0   0   6   0   0  51   0   0   0   0   0   0   0   0     0    0    0   1.252     41  0.00
+   85   85     2   9   2   0   0   0   5   1   1   5   2   0   0   6   0  29   1  35   0   0     0    0    0   1.872     62  0.00
+   86   86     3   1   0   6   0   0   0   3  41   0   9  17  20   0   0   0   0   0   0   1     0    0    0   1.635     54  0.00
+   87   87    40   1  55   0   4   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.862     28  0.00
+   88   88     0   0  20   0   0   0   0   1   0   0   0  25   0   0  11   6  36   0   0   1     0    0    0   1.567     52  0.00
+   89   89     2   7   1   0   0   0   6   7   0   0   0   0   0   0  23  24   1  27   2   0     0    0    0   1.850     61  0.00
+   90   90    34  21  37   0   1   0   0   0   0   0   0   8   0   0   0   0   0   0   0   0     0    0    0   1.286     42  0.00
+   91   91    67   0  13   0   0   0   0   0   0   0   0  18   0   0   0   1   0   0   0   0     0    0    0   0.918     30  0.00
+   92   92     0   0   0   0   0   0   0   3   0   0   3   0   0   0   0   1   2  67   1  23     0    0    0   0.997     33  0.00
+   93   93     0   0   0   0  81  11   7   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.610     20  0.00
+   94   94     0   0   0   0   0   0   0   0  96   0   1   3   0   0   0   0   0   0   0   0     0    0    0   0.189      6  0.00
+   95   95     0   0   0   0   0   0   0   2   0   0   0   0   0   0   1  95   0   1   0   0     0    0    0   0.236      7  0.00
+   96   96     4   3   0   5   0   0   0   4   3   0  10   0   0   1  31  18  11   0   9   1     0    0    0   2.105     70  0.00
+   97   97     5  46  49   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.871     29  0.00
+   98   98     0   0   0   0   0   0   0   0   0  91   5   1   0   0   0   0   0   0   0   2     0    0    0   0.400     13  0.00
+   99   99     0   0   0  17   1   0   4  59   3   0   3   0   0  11   0   0   0   0   1   0     0    0    0   1.321     44  0.00
+  100  100     0   0   0   0  99   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.067      2  0.00
+  101  101     8   3   3   7   1   0   0   0   7   0  26  20   7   0  11   0   4   0   0   1     0    0    0   2.204     73  0.00
+  102  102     0   2   0   0   0   0   0   6   0   0  11  13   0   0   0   6   3  27  12  18     0    0    0   2.028     67  0.00
+  103  103     0  92   5   0   2   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.358     11  0.00
+  104  104     0   2   0   0   3   0   1   1   1  32  12  26   5   0   0   0   1   0   0  16     0    0    0   1.798     60  0.00
+  105  105     0  27  24   1   0   0   0   0   1   1   2   0  17   2   4   0  19   0   0   0     0    0    0   1.802     60  0.00
+  106  106     0   0   0   0   0   0   0   0  18   1   1   0   0   3   0   0   0  37  23  15     0    0    0   1.575     52  0.00
+  107  107     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100     0    0    0   0.000      0  0.00
+  108  108     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   2  97   0   0   0     0    0    0   0.133      4  0.00
+  109  109    33   2  60   0   2   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0     0    0    0   0.937     31  0.00
+  110  110     5   5  30   0   0   0   0   0   7   0   5  45   0   0   0   0   0   0   2   0     0    0    0   1.443     48  0.00
+  111  111     0  99   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.066      2  0.00
+  112  112     1  96   2   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.207      6  0.00
+  113  113     0   0   0   0   0   0   0   0   0   0   0   0   0   0  10  87   1   0   0   0     0    0    0   0.457     15  0.00
+  114  114     0   2   0   0   0   0  18  24  41   0  12   2   0   0   0   0   0   0   0   0     0    0    0   1.474     49  0.00
+  115  115     0   0   0   0   0   0   0  43  25   0   9   0  23   0   0   0   0   0   0   0     0    0    0   1.285     42  0.00
+  116  116    19   2   0   0   3  11   0   0  11   0  11   6  37   0   0   0   0   0   0   0     0    0    0   1.766     58  0.00
+  117  117     2  24   7  19  14   0   4   0   0   0   6   0   0  13   0   0   0   0  10   0     0    0    0   2.036     67  0.00
+  118  118     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  79   0  20     0    0    0   0.551     18  0.00
+  119  119    22  18  47   0   0   0   0   0  12   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.279     42  0.00
+  120  120     5  36  20  28   2   2   0   0   2   0   0   0   4   0   0   0   0   0   0   0     0    0    0   1.591     53  0.00
+  121  121     2   9  25  18  16   0   8   0   0   0  18   1   0   1   0   0   3   0   0   0     0    0    0   1.929     64  0.00
+  122  122    11  53   4   0   1   0   0   0  17   0   0  13   0   0   0   0   0   0   0   0     0    0    0   1.390     46  0.00
+  123  123     0   1   0  19   0   0   0   0   1   0  10   0   0   2  63   0   0   3   0   0     0    0    0   1.207     40  0.00
+  124  124     5  25  19   8  18   0   0   1  18   0   3   3   0   0   0   0   0   0   0   0     0    0    0   1.878     62  0.00
+  125  125     0   0   2   0   0   0   0   0  48   0  18   0  23   0   1   0   0   0   7   0     0    0    0   1.338     44  0.00
+  126  126    17   0   0   0   0   0   0   0   1   1  33  22   3   0  18   0   1   2   0   0     0    0    0   1.725     57  0.00
+  127  127     9  18  13   4   0   0   0   0   5   0   2   1   1   0  45   1   0   0   1   0     0    0    0   1.709     57  0.00
+  128  128     5   1   5  16  17   0  44   0   4   0   2   1   0   0   0   0   1   0   0   4     0    0    0   1.733     57  0.00
+  129  129    10   0   0   1   0   0   0   0   0   0   1  19   0   0   0   1   0   0  35  32     0    0    0   1.519     50  0.00
+  130  130     1   2   0   1   1   0   0   0   4  22   9   3   0   2   4  27  18   5   1   1     0    0    0   2.081     69  0.00
+  131  131     0   0   0   0   0   0   0   0   2   0   2   2   0   0   2   2   2  18   6  63     0    0    0   1.288     43  0.00
+  132  132     0   1   0   1   0   0   0  31   1   0  28  24   0   0   1   1   4   0   6   2     0    0    0   1.701     56  0.00
+  133  133    15   8  19  24   0   0   0   1   0   0   1  23   0   1   1   0   0   3   3   3     0    0    0   1.953     65  0.00
+  134  134     5  52   4   0   2   1   0   0   1   1   3  29   2   0   0   0   1   0   0   1     0    0    0   1.406     46  0.00
+  135  135    14  16  12   4  27   3   1   0   0   0   0  19   3   0   0   0   0   0   0   0     0    0    0   1.913     63  0.00
+  136  136     0  25   0   0   4   0   2   0  29   1  26   6   2   0   0   0   0   0   0   2     0    0    0   1.759     58  0.00
+  137  137     0   1   0   0   8   1   7   1   1   0  14  10   2   0   0   1   0  13  20  19     0    0    0   2.173     72  0.00
+  138  138     0   1   0   0   0   0   0  76   1   0   5   4   0   0   0   0   0   1   6   4     0    0    0   0.972     32  0.00
+  139  139     1   9   0   0   2   0   0  10   1   0   4   3   1   3   5   7  21  22   7   4     0    0    0   2.313     77  0.00
+  140  140     5   0   2  22   0   0   0  28   8   2   5   6   0   9   0   7   1   0   1   4     0    0    0   2.165     72  0.00
+  141  141    11   6   1   2  27   5  21   1  21   0   0   2   0   0   0   0   0   0   0   3     0    0    0   1.966     65  0.00
+  142  142    22  27   5  12   2   0   2   3   2   1   2   4   0  10   1   2   0   4   1   0     0    0    0   2.242     74  0.00
+  143  143     3   1   1   0   0   0   3   3   0   1   4  48   4   1  13  15   0   0   0   1     0    0    0   1.802     60  0.00
+  144  144     3  19   1   2   0   0   1   4   0   2   2   2   0   2  45   1   1   3   7   5     0    0    0   1.933     64  0.00
+  145  145     1   0   0   0   0   0   0   5   2   1   8   0   0   2   5   3   6  35  19  11     0    0    0   2.001     66  0.00
+  146  146     3   6   2   2  21   0   3   0   8   0   5   0   2   0  22   1  20   1   2   2     0    0    0   2.195     73  0.00
+  147  147     1  45   3   0   6   0   4   0   2   0   7  19   1   7   2   0   1   0   1   4     0    0    0   1.870     62  0.00
+  148  148     2   0   0   0   1   0   5   1   1   0   9   1   0   3  11  39  19   2   1   1     0    0    0   1.960     65  0.00
+  149  149     1   0   3  18   0   0   0   2  19   0  25   3   4   2   0   1   1   0  21   1     0    0    0   1.948     65  0.00
+  150  150     1  38   2   5   1   0   0  11   4   0   2   1   1  28   4   1   1   0   0   1     0    0    0   1.834     61  0.00
+  151  151    10   2   0   3   0   0   3   8   5   0   4   0   0   0  27   1   1   6  27   2     0    0    0   2.077     69  0.00
+  152  152     2   0   0   1   0   0   0  31  32   1   2   1   2   0   1  19   2   0   0   7     0    0    0   1.691     56  0.00
+  153  153     2   2   2   0   1   0   0  50   9  21   1   3   0   2   4   1   0   3   0   0     0    0    0   1.663     55  0.00
+  154  154     6  19   8   5  46   0   1   0   4   0   3   0   2   1   0   0   2   1   1   1     0    0    0   1.811     60  0.00
+  155  155     2   1   0   2   7   0   0  62   3   0   9   1   7   0   0   0   1   0   1   4     0    0    0   1.472     49  0.00
+  156  156    18   0   0   0   0   0   2   4   2  19   2   1   0   1   0   0   1  13   0  38     0    0    0   1.761     58  0.00
+  157  157    20  32  11   2  21   1   1   0   0   0   1   1   0   0   7   0   0   0   1   0     0    0    0   1.828     61  0.00
+  158  158    14  11  20  15   3   0   0   0   1   0  17  18   0   0   0   0   0   0   0   0     0    0    0   1.927     64  0.00
+  159  159     1   7   0   0   0   0   0   0   0   0   6   1   0   0   1   0   0  32   9  43     0    0    0   1.480     49  0.00
+  160  160     0  18   1   0   2   0   0   1  22  30   7   7   0   0   3   0   1   1   0   6     0    0    0   1.991     66  0.00
+  161  161    25  14  28   9   1   0   0   0   1   0   0   3   0   0   0  19   0   0   0   0     0    0    0   1.698     56  0.00
+  162  162     2  15   2   2  78   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0     0    0    0   0.756     25  0.00
+  163  163     0   0   0   0   0   0   0   0  13   0   2   4   0   6   2   9   0  40   3  21     0    0    0   1.772     59  0.00
+  164  164     0  28   0   0  69   0   0   0   1   0   0   1   0   0   0   0   0   0   0   0     0    0    0   0.768     25  0.00
+  165  165    11   0   0   0   0   0   1  20  43   0  10   0   6   5   0   0   3   0   0   0     0    0    0   1.656     55  0.00
+  166  166    17   0   1   8   0   0   3   4   1   0   9   0   1   2  12  18   0   9  14   1     0    0    0   2.290     76  0.00
+  167  167     0   0   0   4   1   0   0   3   3   0  25   3   2   0   4  33  20   0   1   0     0    0    0   1.830     61  0.00
+  168  168     1  56   2  22  18   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.118     37  0.00
+  169  169     0  17   0   0   2   0   3   1   3   0  17   1   4   1  10  10   1   0  28   0     0    0    0   2.113     70  0.00
+  170  170     0   0   0   0   0   0   0   1  33  18  18   1   0   0   3   8   2   4   1  10     0    0    0   1.915     63  0.00
+  171  171     0  60   0  20  18   0   2   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.040     34  0.00
+  172  172     0   0   0   0   0   0   0   4   2   0   2   0   1   4   4   7  15  37  22   1     0    0    0   1.868     62  0.00
+  173  173     4  62   2  31   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.941     31  0.00
+  174  174     0   0   0   0   0   0   0   0   0   0   6  11   0   7   0   0   1   0   2  73     0    0    0   0.998     33  0.00
+  175  175     0   0   1   0   0   0   0   0   0   0   1   0   0   0   0  11   1  16   6  63     0    0    0   1.206     40  0.00
+  176  176     4   0   0   0   0   0   0   0  16   1  23  39   0   0   0   0   0  14   0   4     0    0    0   1.588     53  0.00
+  177  177     0   0   0   0   0   0   0   0   1   0   0   0   0   2   0   0   0  78   0  18     0    0    0   0.693     23  0.00
+  178  178    17  27  14   3   4   0  14   0   0   0   0  17   0   3   0   0   0   0   0   0     0    0    0   1.887     63  0.00
+  179  179     8   0   0   0   0   0   0  35  50   0   8   0   0   0   0   0   0   0   0   0     0    0    0   1.108     36  0.00
+  180  180     0  78   8   1   0   0   0   0   0   0   0   0  13   0   0   0   0   0   0   0     0    0    0   0.696     23  0.00
+  181  181     0  61   0   5  30   0   4   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.950     31  0.00
+  182  182     6   0  14   3   0   0   0   0   1   0  23  12   5   0  11   1  23   0   0   0     0    0    0   2.023     67  0.00
+  183  183     0   0   0   0   0   0   0   0  95   0   3   0   0   0   0   0   0   0   0   0     0    0    0   0.229      7  0.00
+  184  184    32   5  48   3   2   0   0   0   9   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.307     43  0.00
+  185  185    29  18  23   0   0   0   0   0   1   0   5   1  21   0   0   0   0   0   1   0     0    0    0   1.674     55  0.00
+  186  186     0  68  31   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.664     22  0.00
+  187  187     6  23  22  19  25   0   0   0   0   0   0   0   4   0   0   0   0   0   0   0     0    0    0   1.649     55  0.00
+  188  188     0   0   0   0   0   2   0   0   3   0  52   5  26   0   0   0   0   0  12   0     0    0    0   1.260     42  0.00
+  189  189     0   0   0   0   0   0   0  38  12  27  16   6   0   0   0   0   1   0   0   0     0    0    0   1.460     48  0.00
+  190  190     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   5   1  93     0    0    0   0.300     10  0.00
+  191  191     0   0   0   0   0   0   0   0   7   0   3   0   0   0  88   0   0   0   0   0     0    0    0   0.529     17  0.00
+  192  192     0   0   0   6   0   0   0   0   3  45  13   6   0   3   0  10  13   0   0   0     0    0    0   1.740     58  0.00
+  193  193     0   0   0   0   0   3   1  71   0   0   1   0   0   0   1   0   0   0   3  18     0    0    0   0.977     32  0.00
+  194  194    13  82   3   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.639     21  0.00
+  195  195     4  21   7   4   0   0   0   0   3   0  13   3   0   0   5   2  10  26   0   0     0    0    0   2.112     70  0.00
+  196  196     0   0   0   0   0   0   0   2   0   0   4   0  15   0   0   2  15  21  33   8     0    0    0   1.783     59  0.00
+  197  197    35   1   3   0   0   0   0   0   6  35   2   2   0   4   3   4   1   0   2   0     0    0    0   1.806     60  0.00
+  198  198     2   2   0   2   0   0   0   6   7   3   7   3   0   2   6  14   2  21   2  19     0    0    0   2.373     79  0.00
+  199  199     6   9   0   0   0   0   1   0   1   9   4   0   0   4  13  34   5  12   0   1     0    0    0   2.054     68  0.00
+  200  200    58   0  42   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.709     23  0.00
+  201  201     0   0   0   0   0   0   0   0   0   0   0   0   0   0   3   0   3  72   0  21     0    0    0   0.800     26  0.00
+  202  202     3   1   3   5   0   0   0   0  15   0   2   1   1   2   6  36   9   5   1  10     0    0    0   2.108     70  0.00
+  203  203     0  57  21   6   0   0   3   0   0   0   3   0  10   0   0   0   0   0   0   0     0    0    0   1.274     42  0.00
+  204  204     2   0   0   0   2   0   1   0   0   0   0   0   0   2  12   0  81   1   0   0     0    0    0   0.727     24  0.00
+  205  205     0   0   0   1   0   0   2   0   2   0   4   1   0   2   2   0   4  62   2  18     0    0    0   1.369     45  0.00
+  206  206     0   1   1   2   0   0   5   5   4  21   7  13   0   1   8  16   3   4  10   0     0    0    0   2.331     77  0.00
+  207  207    13  40  15   1   9   0  18   0   2   0   2   0   0   0   0   0   0   0   0   0     0    0    0   1.649     55  0.00
+  208  208     8  54   6   2   0   0  12   0   5   0   3   1   0   0   0   3   3   2   0   0     0    0    0   1.661     55  0.00
+  209  209     0  20   3   0   1   0   1   3  12   0   2   0   1   5   9   0  10  24   4   4     0    0    0   2.232     74  0.00
+  210  210     8   0   1   0   0   0   0   1  62   0  10  14   3   0   0   0   0   0   0   0     0    0    0   1.257     41  0.00
+  211  211     0  79   1   1  16   0   0   0   0   0   0   0   0   0   0   0   2   0   0   0     0    0    0   0.708     23  0.00
+  212  212     0   2   2   0   0   0   0   0   0   0   0   0   0   3  17  25  11  40   1   0     0    0    0   1.563     52  0.00
+  213  213     6  20  13   1   5   1   2   0  11   0   6   9   0  21   0   1   1   2   1   2     0    0    0   2.266     75  0.00
+  214  214     6   5   1   0   1   0  61   0   0   0   0   0   0  13   2   0  10   2   0   0     0    0    0   1.366     45  0.00
+  215  215    18  23  36   0   0   0   0   0   7   0   3   4   9   0   0   0   0   0   0   0     0    0    0   1.677     55  0.00
+  216  216     0   5   1   3   0   0   0   0   3   0   2   1   2   0  27  21  12   7  15   1     0    0    0   2.078     69  0.00
+  217  217     2   9   4   0   0   0  11   0   5   0   5   5   6   8   8  19   9   1   7   0     0    0    0   2.482     82  0.00
+  218  218     0   0   1   0   0   0   1   2   0   0   1   2   0   3  39  12   4   1  35   0     0    0    0   1.538     51  0.00
+  219  219     0   0   0   0   0   0  10   0   2   0   3   0   0  36  30  15   2   0   1   1     0    0    0   1.578     52  0.00
+  220  220     0   1   0   0   0   0   0   0   3  72   2   0   1  15   4   0   0   1   0   0     0    0    0   1.035     34  0.00
+  221  221     0   1   0   1   0   0   1   2   2   6  10   0   0   7   2   3  10  20  19  17     0    0    0   2.183     72  0.00
+  222  222     4   0  10   0   0   0   0   3   5   4  17   0   1   0   5  13  15   6   2  14     0    0    0   2.337     78  0.00
+  223  223     2   3   2   0   0   0   0   3  10  41  13   6   0   2   4   1  11   1   1   0     0    0    0   1.993     66  0.00
+  224  224     2   6   0   2   6   0  10  13   0   0   4   4   0  34   2   0  15   2   1   0     0    0    0   2.102     70  0.00
+  225  225     3  32   7  20  19   0   2   0   0   0   0   0   1   1  15   0   0   0   0   0     0    0    0   1.740     58  0.00
+  226  226     0   8   0   2  67  15   7   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.049     35  0.00
+  227  227     0   4   0   0   0   0   0   3  33  46   4   7   0   1   2   0   0   0   0   2     0    0    0   1.432     47  0.00
+  228  228     0   0   0   0   0   0   0   0   2   0   1   2   1   0  12  80   0   2   0   0     0    0    0   0.765     25  0.00
+  229  229     3  65  11  21   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.962     32  0.00
+  230  230     0  83   7   6   0   0   0   0   0   2   0   0   0   0   0   0   0   2   0   0     0    0    0   0.681     22  0.00
+  231  231     1  16   0  37   0   0   0   4   8   2   5   0   2   0   0   0  21   2   1   2     0    0    0   1.857     61  0.00
+  232  232     3   1   4   3   0   0   0   0   0   0   0   3   1   0  13  73   0   0   0   0     0    0    0   1.015     33  0.00
+  233  233    17  39  24  19   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0     0    0    0   1.374     45  0.00
+  234  234     4   0   0   0   0   0   0   2  15  25   3  50   0   0   0   0   0   1   0   0     0    0    0   1.326     44  0.00
+  235  235     0   1   0   0   0   0   0   0  11   0   4   5   0   0   0   2   0  16   1  62     0    0    0   1.251     41  0.00
+  236  236     0  96   2   0   2   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.215      7  0.00
+  237  237     0   0   0   0   0   0   0   0   0   0   0   1   0   0  98   0   0   0   0   0     0    0    0   0.086      2  0.00
+  238  238     0   0   0  15   0   0   0   6   4   0  38  16   1   0   0   0  19   1   0   1     0    0    0   1.673     55  0.00
+  239  239     3  37  59   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.837     27  0.00
+  240  240    19   0   0   0   0   0   0  23   1   0  26   0  16   0   1   0   0   0  14   0     0    0    0   1.679     56  0.00
+  241  241     1  12   2   1   1   0   0   2  32   0   5  29   0   1   0   0   0   4   9   1     0    0    0   1.848     61  0.00
+  242  242     3   4   1   6   0   0   2   0   1   0   0   0  12   1   3  21  12  33   0   1     0    0    0   1.972     65  0.00
+  243  243     0   0   0   0   0   0   1  19   0   0   0   0   0  72   0   0   1   0   6   0     0    0    0   0.839     28  0.00
+  244  244    11  15   1   1   2   0   0   2  43   0  16   9   0   0   0   0   0   0   0   0     0    0    0   1.633     54  0.00
+  245  245     0   0   0   0  12   0   1   1   0   0  14   0   0   1   0   4  24  41   2   1     0    0    0   1.603     53  0.00
+  246  246     0  18   0  12  13   0   0   0   2   0   0   0   0   2  33  10   5   3   0   0     0    0    0   1.923     64  0.00
+  247  247    18  33   3   4  25   0   4   0   1   0   0   0   6   0   6   0   0   0   0   0     0    0    0   1.756     58  0.00
+  248  248     3  21   3   5   6   0   0   0   7   0   1   0   1   3   5  13  28   0   0   3     0    0    0   2.124     70  0.00
+  249  249    18  15  23   0   0   4   2   0   5   0  10   0   2  12   7   1   0   1   0   0     0    0    0   2.128     71  0.00
+  250  250     1  16  35  12  16   1   0   0   0   0   0  19   0   1   0   0   0   0   0   0     0    0    0   1.643     54  0.00
+  251  251     0  19   0   1   0   1   0  12   3   0   4   0   0   0   8  47   6   0   0   0     0    0    0   1.590     53  0.00
+  252  252    14  10   1   3   0   0   0   1   3   0   0   3   0   2   1  42   5   0   0  16     0    0    0   1.817     60  0.00
+  253  253     2   3   7  20   0   0   0   0   0   4   2  37   0   0   4   0   1  17   3   0     0    0    0   1.863     62  0.00
+  254  254     0   4   0   1   0   3   3   0   0  14   1   0  13  11   0   0   1  50   0   1     0    0    0   1.587     52  0.00
+  255  255     0   1  33   0   0   0   0   0   1  23   7  15   1   2   0   9   4   0   2   0     0    0    0   1.912     63  0.00
+  256  256     0   1   0   1   4   0   0   0   0  21   5  11   0   1   0   3   1   8   8  38     0    0    0   1.858     62  0.00
+  257  257     1   5   4  16   0   0   0  20  10   1   2  16   0   1   5   6   0  13   0   0     0    0    0   2.236     74  0.00
+  258  258     1  16   0   0  13   0   0   0   7   8  27   5   2   1   6  14   2   1   0   0     0    0    0   2.124     70  0.00
+  259  259     2  59   1  23  15   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.087     36  0.00
+  260  260     0   1   0  13   0   0   0   0   0  50   0   7   0  28   1   0   0   0   2   0     0    0    0   1.310     43  0.00
+  261  261     0   0   0   0   0   0   0   0   1  81   0   1   0   1   1   2   0  11   1   1     0    0    0   0.733     24  0.00
+  262  262     1  77   2  13   7   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.794     26  0.00
+  263  263     6  47  20   6  18   0   3   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.448     48  0.00
+  264  264     2  17   0   0   0   0   0   1   4   3   4   0   1   0   8   3  39  18   0   1     0    0    0   1.835     61  0.00
+  265  265     0   0   0   0   0   0   0   0   1   2   0   0   0   0   0   0   2  94   0   0     0    0    0   0.297      9  0.00
+  266  266    20  14  41  24   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.309     43  0.00
+  267  267     0  23   0   2  33  14  28   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.430     47  0.00
+  268  268     1   0   0   1   0   0   0   1   0   1   1   0   0   0  10  32   0  55   0   0     0    0    0   1.098     36  0.00
+  269  269     0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   8  33  59     0    0    0   0.903     30  0.00
+  270  270     0  63   0  37   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.657     21  0.00
+//

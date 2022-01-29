@@ -1,0 +1,346 @@
+ID Pseudo hssp file.
+SEQ 
+SEQ gi|7428977|pir||S71788 P/CAF protein - human                          229  1e-59
+SEQ gi|12729052|ref|XP_010914.1| p300/CBP-associated factor [Homo sa...   225  2e-58
+SEQ gi|6382076|ref|NP_003875.2| p300/CBP-associated factor; CREBBP-a...   224  4e-58
+SEQ gi|7245751|pdb|1B91|A Chain A, Nmr Structure Of A Histone Acetyl...   219  9e-57
+SEQ gi|14317910|dbj|BAB59138.1| (AB052159) PCAF [Gallus gallus]           218  2e-56
+SEQ gi|9910480|ref|NP_064389.1| p300/CBP-associated factor [Mus musc...   215  2e-55
+SEQ gi|14317908|dbj|BAB59137.1| (AB052158) GCN5 [Gallus gallus]           181  2e-45
+SEQ gi|7428978|pir||S71789 GCN5 protein - human >gi|1491935|gb|AAC50...   176  8e-44
+SEQ gi|1911495|gb|AAB50690.1| hGCN5=transcriptional adaptor [human, ...   176  8e-44
+SEQ gi|10835101|ref|NP_066564.1| GCN5 (general control of amino-acid...   176  8e-44
+SEQ gi|11426183|ref|XP_008402.1| GCN5 (general control of amino-acid...   176  8e-44
+SEQ gi|9910238|ref|NP_064388.1| general control of amino acid synthe...   174  4e-43
+SEQ gi|13278322|gb|AAH03983.1|AAH03983 (BC003983) Unknown (protein f...   166  1e-40
+SEQ gi|12084461|pdb|1F68|A Chain A, Nmr Solution Structure Of The Br...   149  1e-35
+SEQ gi|3211728|gb|AAC39102.1| (AF029776) GCN5; HAT [Drosophila melan...   138  2e-32
+SEQ gi|7294564|gb|AAF49904.1| (AE003541) Pcaf gene product [Drosophi...   138  2e-32
+SEQ gi|6683492|dbj|BAA89208.1| (AB032251) bromodomain PHD finger tra...   108  3e-23
+SEQ gi|7493486|pir||T37933 transcription activator GCN5 homolog - fi...   104  4e-22
+SEQ gi|11357330|pir||T47620 histon acetyltransferase HAT1 - Arabidop...   101  3e-21
+SEQ gi|13591696|gb|AAK31318.1|AF338768_1 (AF338768) histone acetyltr...   101  3e-21
+SEQ gi|1502355|emb|CAA67614.1| (X99228) GCN5 [Saccharomyces cerevisiae]    96  1e-19
+SEQ gi|6321691|ref|NP_011768.1| histone acetyltransferase; Gcn5p [Sa...    96  2e-19
+SEQ gi|11513447|pdb|1E6I|A Chain A, Bromodomain From Gcn5 Complexed ...    92  2e-18
+SEQ gi|5031520|gb|AAD38202.1|AF155929_1 (AF155929) histone acetyltra...    92  2e-18
+SEQ gi|6856566|gb|AAF29981.1|AF197953_1 (AF197953) histone acetyltra...    92  2e-18
+SEQ gi|2707336|gb|AAB92257.1| (AF037442) histone acetyltransferase [...    90  7e-18
+SEQ gi|1245146|gb|AAB01099.1| (U47321) HAT A1 [Tetrahymena thermophila]    90  1e-17
+SEQ gi|13899209|ref|NP_113601.1| cat eye syndrome chromosome region,...    90  1e-17
+SEQ gi|12698025|dbj|BAB21831.1| (AB051527) KIAA1740 protein [Homo sa...    89  1e-17
+SEQ gi|7331970|gb|AAF60658.1| (AC024791) contains similarity to Pfam...    85  3e-16
+SEQ gi|3184498|gb|AAC27978.1| (AC004798) R31546_1 [Homo sapiens]           82  3e-15
+SEQ gi|7657218|ref|NP_055114.1| bromodomain-containing protein 4; si...    81  3e-15
+SEQ gi|2224569|dbj|BAA20773.1| (AB002312) KIAA0314 [Homo sapiens]          81  5e-15
+SEQ gi|7304921|ref|NP_038477.1| bromodomain adjacent to zinc finger ...    81  5e-15
+SEQ gi|14286328|gb|AAH08965.1|AAH08965 (BC008965) Similar to bromodo...    81  5e-15
+SEQ gi|120558|sp|P13709|FSH_DROME FEMALE STERILE HOMEOTIC PROTEIN (F...    81  5e-15
+SEQ gi|10728524|gb|AAF46312.2| (AE003442) fs(1)h gene product [Droso...    81  5e-15
+SEQ gi|10048444|ref|NP_065254.1| bromodomain-containing 4; bromodoma...    80  8e-15
+SEQ gi|157455|gb|AAA28541.1| (M23222) 5.9 kb fsh membrane protein [D...    79  1e-14
+SEQ gi|13592447|gb|AAF39888.2| (AC006661) contains similarity to Pfa...    79  1e-14
+SEQ gi|12963647|ref|NP_075825.1| bromodomain-containing FSH-like pro...    78  6e-14
+SEQ gi|11067749|ref|NP_031397.1| bromodomain-containing protein 3; R...    77  7e-14
+SEQ gi|12802525|gb|AAK07919.1|AF318183_1 (AF318183) ring 3 [Mus musc...    76  2e-13
+SEQ gi|5059246|gb|AAD38952.1|AF148962_1 (AF148962) ATP-dependent chr...    76  2e-13
+SEQ gi|7302099|gb|AAF57200.1| (AE003779) Acf1 gene product [Drosophi...    76  2e-13
+SEQ gi|7635502|emb|CAB88669.1| (AJ238397) chromatin accessibility co...    76  2e-13
+SEQ gi|2780775|dbj|BAA24377.1| (AB010246) Ring3 [Mus musculus]             76  2e-13
+SEQ gi|6753910|ref|NP_034368.1| female sterile homeotic-related gene...    75  3e-13
+SEQ gi|2995270|emb|CAA15819.1| (AL009226) MMRING3.1.2 [Mus musculus]...    75  3e-13
+SEQ gi|2780777|dbj|BAA24378.1| (AB010247) Ring3 [Mus musculus] >gi|2...    75  4e-13
+SEQ gi|4826806|ref|NP_005095.1| bromodomain-containing protein 2; fe...    74  5e-13
+SEQ gi|11417904|ref|XP_004219.1| bromodomain-containing protein 2 [H...    74  5e-13
+SEQ gi|2995269|emb|CAA15818.1| (AL009226) MMRING3.1.1 [Mus musculus]       74  5e-13
+SEQ gi|1082363|pir||A56619 female sterile homeotic (fsh) homolog RIN...    74  6e-13
+SEQ gi|1370115|emb|CAA65450.1| (X96670) kinase [Homo sapiens] >gi|21...    74  7e-13
+SEQ gi|1588281|prf||2208296A RING3 protein [Homo sapiens]                  74  7e-13
+SEQ gi|1370092|emb|CAA65449.1| (X96669) kinase [Gallus gallus]             74  8e-13
+SEQ gi|7504519|pir||T22845 hypothetical protein F57C7.1a - Caenorhab...    74  8e-13
+SEQ gi|7512236|pir||T28145 RING3 kinase - chicken >gi|3129967|emb|CA...    73  1e-12
+SEQ gi|4502453|ref|NP_001717.1| testis-specific bromodomain protein ...    73  1e-12
+SEQ gi|7443545|pir||T12495 hypothetical protein DKFZp434H071.1 - hum...    73  2e-12
+SEQ gi|7304923|ref|NP_038478.1| bromodomain adjacent to zinc finger ...    73  2e-12
+SEQ gi|7959213|dbj|BAA96000.1| (AB040909) KIAA1476 protein [Homo sap...    73  2e-12
+SEQ gi|11526817|gb|AAG36791.1|AF224275_1 (AF224275) extracellular ma...    72  3e-12
+SEQ gi|12642598|gb|AAK00302.1|AF314193_1 (AF314193) Toutatis [Drosop...    72  3e-12
+SEQ gi|10441758|gb|AAG17179.1|AF191032_1 (AF191032) RING3 [Myxine gl...    71  4e-12
+SEQ gi|13957951|gb|AAK50736.1| (AF358660) bromodomain-containing fem...    69  2e-11
+SEQ gi|476949|pir||A47371 transcription initiation factor IID 230K c...    68  3e-11
+SEQ gi|1705691|sp|P51123|T2D1_DROME TRANSCRIPTION INITIATION FACTOR ...    68  3e-11
+SEQ gi|4389445|gb|AAD19815.1| (AE001572) transcription factor [Droso...    68  3e-11
+SEQ gi|7295327|gb|AAF50647.1| (AE003561) CG10115 gene product [Droso...    68  3e-11
+SEQ gi|478993|pir||S32373 DNA-binding protein TAF-II 250K - fruit fl...    68  6e-11
+SEQ gi|7302505|gb|AAF57589.1| (AE003796) CG7229 gene product [Drosop...    66  2e-10
+SEQ gi|4759206|ref|NP_004597.1| TATA box binding protein (TBP)-assoc...    66  2e-10
+SEQ gi|2136308|pir||A40262 transcription initiation factor IID 250K ...    66  2e-10
+SEQ gi|8569258|pdb|1EQF|A Chain A, Crystal Structure Of The Double B...    65  4e-10
+SEQ gi|6683496|dbj|BAA89210.1| (AB032253) bromodomain adjacent to zi...    64  8e-10
+SEQ gi|2137085|pir||I48155 transcription initiation factor IID 250K ...    64  9e-10
+SEQ gi|4165087|gb|AAD08675.1| (AF084479) Williams-Beuren syndrome de...    64  9e-10
+SEQ gi|13640893|ref|XP_016461.1| bromodomain adjacent to zinc finger...    64  9e-10
+SEQ gi|998813|gb|AAB34289.1| (S78219) TIF1 [mice, Peptide, 1017 aa] ...    63  1e-09
+SEQ gi|6175058|sp|Q64127|TF1A_MOUSE TRANSCRIPTION INTERMEDIARY FACTO...    63  1e-09
+SEQ gi|7504520|pir||T22847 hypothetical protein F57C7.1b - Caenorhab...    63  1e-09
+SEQ gi|10177441|dbj|BAB10737.1| (AB023035) contains similarity to ki...    63  2e-09
+SEQ gi|7706234|ref|NP_056989.1| transcriptional intermediary factor ...    63  2e-09
+SEQ gi|12746552|sp|O15164|TF1A_HUMAN TRANSCRIPTION INTERMEDIARY FACT...    63  2e-09
+SEQ gi|7485801|pir||T00472 hypothetical protein F19I3.13 - Arabidops...    62  2e-09
+SEQ gi|6755993|ref|NP_035844.1| bromodomain adjacent to zinc finger ...    62  2e-09
+SEQ gi|7304919|ref|NP_038476.1| bromodomain adjacent to zinc finger ...    62  3e-09
+SEQ gi|7511307|pir||T34516 hypothetical protein ZK783.4 - Caenorhabd...    62  3e-09
+SEQ gi|13775517|gb|AAK39326.1| (AC006712) Hypothetical protein Y119C...    62  3e-09
+SEQ gi|7512872|pir||T08738 hypothetical protein DKFZp586E0518.1 - hu...    62  3e-09
+SEQ gi|6942227|gb|AAF32366.1|AF221130_1 (AF221130) chromatin remodel...    62  3e-09
+SEQ gi|11433515|ref|XP_007240.1| bromodomain adjacent to zinc finger...    61  4e-09
+SEQ gi|7920301|gb|AAF70601.1|AF213467_1 (AF213467) ATP-dependent chr...    61  4e-09
+SEQ gi|12711668|ref|NP_075381.1| bromodomain adjacent to zinc finger...    61  6e-09
+SEQ gi|6016737|gb|AAF01563.1|AC009325_33 (AC009325) hypothetical pro...    61  6e-09
+SEQ gi|7491537|pir||T40006 hypothetical protein SPBC25H2.11c - fissi...    61  8e-09
+SEQ gi|4507505|ref|NP_003843.1| transcriptional intermediary factor ...    60  8e-09
+SEQ gi|11359006|pir||T42517 bromodomain protein - fission yeast (Sch...    60  9e-09
+SEQ gi|7301208|gb|AAF56339.1| (AE003749) CG11375 gene product [Droso...    60  1e-08
+SEQ gi|9955810|emb|CAC05484.1| (AL391713) protein with 2 bromodomain...    59  2e-08
+SEQ gi|11358472|pir||T48600 kinase-like protein - Arabidopsis thalia...    59  2e-08
+SEQ gi|11321642|ref|NP_055392.1| bromodomain-containing protein 1; B...    58  4e-08
+SEQ gi|7512525|pir||T12534 hypothetical protein DKFZp434B094.1 - hum...    58  4e-08
+SEQ gi|7499971|pir||T21430 hypothetical protein F26H11.3b - Caenorha...    58  5e-08
+SEQ gi|7499970|pir||T21433 hypothetical protein F26H11.3a - Caenorha...    58  6e-08
+SEQ gi|6319555|ref|NP_009637.1| transcription factor, member of the ...    58  6e-08
+SEQ gi|12229723|sp|Q9ULD4|BRF3_HUMAN BROMODOMAIN AND PHD FINGER-CONT...    58  7e-08
+SEQ gi|29733|emb|CAA30073.1| (X07024) CCG1 protein (AA 1 - 1554) [Ho...    57  7e-08
+SEQ gi|7499972|pir||T21435 hypothetical protein F26H11.3c - Caenorha...    57  7e-08
+SEQ gi|7321102|emb|CAB54234.2| (Z81515) contains similarity to Pfam ...    57  7e-08
+SEQ gi|2134381|pir||S60678 polybromo 1 protein - chicken >gi|2134382...    57  8e-08
+SEQ gi|6554481|gb|AAF16663.1|AC012394_12 (AC012394) hypothetical pro...    57  8e-08
+SEQ gi|9294219|dbj|BAB02121.1| (AP000381) gb|AAF01563.1~gene_id:K17E...    57  1e-07
+SEQ gi|12083875|gb|AAG48933.1|AF177387_1 (AF177387) polybromo-1 [Hom...    56  1e-07
+SEQ gi|12083892|gb|AAG48939.1|AF225870_1 (AF225870) polybromo-1 [Hom...    56  1e-07
+SEQ gi|12083896|gb|AAG48941.1|AF225872_1 (AF225872) polybromo-1 [Hom...    56  1e-07
+SEQ gi|6966969|emb|CAB72445.1| (AJ271881) bromodomain containing pro...    56  1e-07
+SEQ gi|11385354|gb|AAG34760.1|AF197569_1 (AF197569) BAF180 [Homo sap...    56  1e-07
+SEQ gi|6755234|ref|NP_036177.1| bromodomain-containing 7; bromodomai...    56  1e-07
+SEQ gi|7019345|ref|NP_037395.1| bromodomain-containing 7; bromodomai...    56  1e-07
+SEQ gi|11358238|pir||T46098 hypothetical protein T25B15.50 - Arabido...    56  2e-07
+SEQ gi|12083894|gb|AAG48940.1|AF225871_1 (AF225871) polybromo-1 [Hom...    56  2e-07
+SEQ gi|7304241|gb|AAF59276.1| (AE003841) CG1845 gene product [Drosop...    56  2e-07
+SEQ gi|13642317|ref|XP_011836.2| bromodomain-containing protein 3 [H...    55  3e-07
+SEQ gi|4757866|ref|NP_004625.1| bromodomain-containing protein; pere...    55  3e-07
+SEQ gi|543063|pir||JC2069 zinc-finger protein, BR140 - human               55  3e-07
+SEQ gi|12729855|ref|XP_002912.2| bromodomain-containing protein [Hom...    55  3e-07
+SEQ gi|13542909|gb|AAH05647.1|AAH05647 (BC005647) Unknown (protein f...    55  3e-07
+SEQ gi|7301065|gb|AAF56200.1| (AE003745) CG13597 gene product [Droso...    55  3e-07
+SEQ gi|12053157|emb|CAB66757.1| (AL136823) hypothetical protein [Hom...    55  4e-07
+SEQ gi|7496538|pir||T19481 hypothetical protein C26C6.1 - Caenorhabd...    54  5e-07
+SEQ gi|8886949|gb|AAF80635.1|AC069251_28 (AC069251) F2D10.15 [Arabid...    54  5e-07
+SEQ gi|12407443|gb|AAG53510.1|AF220137_1 (AF220137) tripartite motif...    54  8e-07
+SEQ gi|6320132|ref|NP_010213.1| Bromodomain protein, homolog of Bdf1...    53  1e-06
+SEQ gi|13509324|emb|CAC35389.1| (AJ400879) KIAA0298 protein [Homo sa...    53  1e-06
+SEQ gi|13992535|emb|CAC38114.1| (AJ307670) KIAA0298 protein [Mus mus...    53  1e-06
+SEQ gi|12965191|ref|NP_076413.1| hypothetical protein FLJ13441 [Homo...    53  1e-06
+SEQ gi|8885596|dbj|BAA97526.1| (AB028605) contains similarity to kin...    53  2e-06
+SEQ gi|4566433|gb|AAD23350.1| (AF081117) TAFII250 [Mus musculus]           52  2e-06
+SEQ gi|6063557|dbj|BAA85417.1| (AP000615) similar to dJ522J7.2 (Z988...    52  2e-06
+SEQ gi|12229701|sp|Q09948|BRD1_SCHPO BROMODOMAIN PROTEIN BRD1 >gi|10...    52  2e-06
+SEQ gi|12844465|dbj|BAB26374.1| (AK009582) putative [Mus musculus]         52  2e-06
+SEQ gi|10435455|dbj|BAB14591.1| (AK023503) unnamed protein product [...    51  4e-06
+SEQ gi|5903104|gb|AAD55662.1|AC008017_35 (AC008017) Highly similar t...    51  5e-06
+SEQ gi|6322860|ref|NP_012933.1| Member of RSC complex.; Rsc4p [Sacch...    51  5e-06
+SEQ gi|7493489|pir||T40984 transcription factor bdf1 homolog - fissi...    51  5e-06
+SEQ gi|4153860|gb|AAD04720.1| (AC005074) similar to U47321 (PID:g124...    51  6e-06
+SEQ gi|2135974|pir||S68142 probable transcription factor SMAP - huma...    51  6e-06
+SEQ gi|5730053|ref|NP_006687.1| thyroid hormone receptor coactivatin...    51  6e-06
+SEQ gi|14165484|gb|AAH08039.1|AAH08039 (BC008039) thyroid hormone re...    51  6e-06
+SEQ gi|10177379|dbj|BAB10578.1| (AB017059) dbj|BAA85417.1~gene_id:K1...    51  7e-06
+SEQ gi|6323431|ref|NP_013503.1| Bdf1p contains two bromodomains, loc...    51  8e-06
+SEQ gi|9665057|gb|AAF97259.1|AC034106_2 (AC034106) Contains similari...    51  8e-06
+SEQ gi|608567|gb|AAA89115.1| (U18116) Bdf1p [Saccharomyces cerevisiae]     50  8e-06
+SEQ gi|172684|gb|AAA35087.1| (M87651) SPT7 [Saccharomyces cerevisiae]      50  9e-06
+SEQ gi|7493493|pir||T11682 transcription factor SMAP homolog - fissi...    50  1e-05
+SEQ gi|7301146|gb|AAF56279.1| (AE003747) CG18670 gene product [Droso...    49  1e-05
+SEQ gi|7490162|pir||T40475 bromeodomain protein - fission yeast (Sch...    49  2e-05
+SEQ gi|311664|emb|CAA79377.1| (Z18944) BDF1 [Saccharomyces cerevisiae]     49  2e-05
+SEQ gi|9280321|dbj|BAB01700.1| (AP000735) gb|AAF25977.1~gene_id:K13E...    49  3e-05
+SEQ gi|13699186|dbj|BAB41205.1| (AB060276) kinase-like protein [Oryz...    48  3e-05
+SEQ gi|6321493|ref|NP_011570.1| Member of RSC complex; Rsc1p [Saccha...    48  4e-05
+SEQ gi|4507069|ref|NP_003061.1| SWI/SNF related, matrix associated, ...    48  5e-05
+SEQ gi|996020|emb|CAA62832.1| (X91638) BRM protein [Gallus gallus]         48  5e-05
+SEQ gi|7495163|pir||T18845 hypothetical protein C01H6.7 - Caenorhabd...    48  5e-05
+SEQ gi|8978291|dbj|BAA98182.1| (AB026639) contains similarity to RIN...    47  6e-05
+SEQ gi|481644|pir||S39059 protein BRG1 - human                             47  7e-05
+SEQ gi|2143481|pir||I53078 homeotic gene regulator - mouse (fragment...    47  7e-05
+SEQ gi|738309|prf||1924378A nucler protein GRB1 [Homo sapiens]             47  7e-05
+SEQ gi|996018|emb|CAA62831.1| (X91637) BRG1 protein [Gallus gallus]        47  8e-05
+SEQ gi|9367149|emb|CAB04907.2| (Z82069) similar to transcription ini...    47  8e-05
+SEQ gi|10946129|gb|AAG24790.1|AF254822_2 (AF254822) SMARCA4 isoform ...    47  8e-05
+SEQ gi|4507073|ref|NP_003063.1| SWI/SNF related, matrix associated, ...    47  9e-05
+SEQ gi|4107440|emb|CAB06488.1| (Z84485) dJ524E15.1 (PEREGRIN (BR140 ...    47  9e-05
+SEQ gi|13631238|ref|XP_009081.2| SWI/SNF related, matrix associated,...    47  9e-05
+SEQ gi|1711406|sp|P51531|SN22_HUMAN POSSIBLE GLOBAL TRANSCRIPTION AC...    47  1e-04
+SEQ gi|1256804|gb|AAB18943.1| (U51449) RING3 protein [Xenopus laevis]      47  1e-04
+SEQ gi|5689563|dbj|BAA83065.1| (AB029036) KIAA1113 protein [Homo sap...    47  1e-04
+SEQ gi|5834582|emb|CAB55313.1| (AJ132948) rfg7 protein [Homo sapiens]      47  1e-04
+SEQ gi|12643365|sp|Q9UPN9|TF1G_HUMAN TRANSCRIPTION INTERMEDIARY FACT...    47  1e-04
+SEQ gi|13626289|ref|XP_001314.2| transcriptional intermediary factor...    47  1e-04
+SEQ gi|7706236|ref|NP_056990.1| transcriptional intermediary factor ...    46  1e-04
+SEQ gi|12643819|sp|Q9NSI6|WDR9_HUMAN WD-REPEAT PROTEIN 9 >gi|7717364...    46  1e-04
+SEQ gi|7291557|gb|AAF46981.1| (AE003460) CG17692 gene product [Droso...    46  2e-04
+SEQ gi|4557557|ref|NP_001420.1| E1A binding protein p300; p300; E1A-...    46  2e-04
+SEQ gi|13655162|ref|XP_010013.2| E1A binding protein p300 [Homo sapi...    46  2e-04
+SEQ gi|6226901|sp|P54816|TBP7_CAEEL TAT-BINDING HOMOLOG 7 >gi|749886...    46  2e-04
+SEQ gi|1345703|sp|P45481|CBP_MOUSE CREB-BINDING PROTEIN >gi|481698|p...    46  2e-04
+SEQ gi|737920|prf||1923401A protein CBP [Mus musculus]                     46  2e-04
+SEQ gi|2133462|pir||S60123 hypothetical protein R10E11.1 - Caenorhab...    46  2e-04
+SEQ gi|6226564|sp|P34545|CBP1_CAEEL CBP-1 PROTEIN                          46  2e-04
+SEQ gi|14530537|emb|CAA82353.2| (Z29095) contains charged regions an...    46  2e-04
+SEQ gi|13677198|emb|CAC19780.1| (AL031666) dJ569M23.1.3 (protein kin...    46  2e-04
+SEQ gi|13677199|emb|CAC19781.1| (AL031666) dJ569M23.1.1 (protein kin...    46  2e-04
+SEQ gi|13677201|emb|CAC19782.1| (AL031666) dJ569M23.1.2 (protein kin...    46  2e-04
+SEQ gi|115132|sp|P25439|BRM_DROME HOMEOTIC GENE REGULATOR (BRAHMA PR...    45  3e-04
+SEQ gi|7294205|gb|AAF49557.1| (AE003529) brm gene product [alt 1] [D...    45  3e-04
+SEQ gi|10727911|gb|AAF49558.2| (AE003529) brm gene product [alt 2] [...    45  3e-04
+SEQ gi|7297294|gb|AAF52557.1| (AE003618) CG7154 gene product [Drosop...    45  3e-04
+SEQ gi|12007334|gb|AAG45145.1| (AF310250) IRS-1 PH domain binding pr...    45  4e-04
+SEQ gi|6323389|ref|NP_013461.1| Member of RSC complex.; Rsc2p [Sacch...    45  4e-04
+SEQ gi|13186132|emb|CAC33448.1| (AJ249592) PSTVd RNA-biding protein,...    45  4e-04
+SEQ gi|6329749|dbj|BAA86439.1| (AB032951) KIAA1125 protein [Homo sap...    44  5e-04
+SEQ gi|7511830|pir||T13828 CREB-binding protein homolog - fruit fly ...    44  5e-04
+SEQ gi|631119|pir||S39162 transcription coactivator CREB-binding pro...    44  5e-04
+SEQ gi|4758056|ref|NP_004371.1| CREB binding protein [Homo sapiens] ...    44  5e-04
+SEQ gi|4321116|gb|AAC51331.2| (U85962) CREB-binding protein [Homo sa...    44  5e-04
+SEQ gi|14286226|gb|AAH08909.1|AAH08909 (BC008909) pleckstrin homolog...    44  5e-04
+SEQ gi|12407445|gb|AAG53511.1|AF220138_1 (AF220138) tripartite motif...    44  5e-04
+SEQ gi|12007336|gb|AAG45146.1| (AF310251) IRS-1 PH domain binding pr...    44  5e-04
+SEQ gi|7523514|dbj|BAA94242.1| (AP001633) Similar to Arabidopsis tha...    44  5e-04
+SEQ gi|8844128|gb|AAF80220.1|AC025290_9 (AC025290) Contains similari...    44  5e-04
+SEQ gi|7291080|gb|AAF46516.1| (AE003448) nej gene product [Drosophil...    44  5e-04
+SEQ gi|14164429|dbj|BAB55682.1| (AP003053) hypothetical protein [Ory...    44  6e-04
+SEQ gi|7493066|pir||T37561 probable transcription regulator - fissio...    44  7e-04
+SEQ gi|7503230|pir||T29307 hypothetical protein F42A9.2 - Caenorhabd...    44  7e-04
+SEQ gi|6714281|gb|AAF25977.1|AC017118_14 (AC017118) F6N18.13 [Arabid...    44  7e-04
+SEQ gi|8923634|ref|NP_060404.1| pleckstrin homology domain interacti...    44  7e-04
+SEQ gi|12848365|dbj|BAB27925.1| (AK011935) putative [Mus musculus]         44  8e-04
+SEQ gi|6572297|emb|CAB62921.1| (AL096765) bA422A16.1 (E1A binding pr...    44  0.001
+SEQ 
+## SEQUENCE PROFILE AND ENTROPY
+ SeqNo PDBNo   V   L   I   M   F   W   Y   G   A   P   S   T   C   H   R   K   Q   E   N   D  NOCC NDEL NINS ENTROPY RELENT WEIGHT
+    1    1     0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+    2    2     3   0   0   0   0   0   0   0   3   0  57   0   0   0   0  32   0   0   0   5     0    0    0   1.040     34  0.00
+    3    3     0   0   0   0   0   0  13   0   0   2   0   0   0  15   0   4   0  26  39   0     0    0    0   1.489     49  0.00
+    4    4    13   2   2  17   0   0   0   2   0  34   0   0   0   0   6  23   0   0   0   2     0    0    0   1.734     57  0.00
+    5    5     0   0   0   0   0   0   0  11   2   0  26  13   0   0   3  33   0   3   8   0     0    0    0   1.728     57  0.00
+    6    6     0   0   0   0   0   0   0   0   3   8   3   0   0   0   0  75   5   4   0   1     0    0    0   0.965     32  0.00
+    7    7     0   0   0   8   0   0   0   1   1  35   1   0   3   0   1   5   1  32   1   9     0    0    0   1.754     58  0.00
+    8    8     1  13   0   0   0   0   0  23   3  19   3   4   0   0   1  14  12   6   0   1     0    0    0   2.101     70  0.00
+    9    9     5   1   1   0   5   0   0   0   4   0   2   4   0   0  49  20   8   0   1   0     0    0    0   1.645     54  0.00
+   10   10    14   3   0   0   0   0   1   2   0   1  11   1   0   3   0   9   4   7  19  24     0    0    0   2.157     72  0.00
+   11   11     0   9   0   3   0   0   0   0   0  44   0  28   0   0   0  10   4   0   0   4     0    0    0   1.502     50  0.00
+   12   12     1   1   0   0   0   0   0   1   0   9   4   3   0   1   0   6   3  23  31  18     0    0    0   1.899     63  0.00
+   13   13     0   0   0   0   1   0   1   1   1   4   2   0   1   0   1  14  47  17   5   4     0    0    0   1.714     57  0.00
+   14   14     5  76   2   3   2   0   1   0   3   0   1   0   1   0   0   1   1   0   0   4     0    0    0   1.063     35  0.00
+   15   15     0   6   2   4   5   0  28   0   2   0  11   6   0   4   6   3  19   1   2   2     0    0    0   2.284     76  0.00
+   16   16     0   0   0   1   2   1  17   0  10   0  17  10   1   0   1  17   5   9   5   6     0    0    0   2.260     75  0.00
+   17   17     3  20  10   2   4   0   1   1  22   1   4  19   0   3   1   5   5   1   1   0     0    0    0   2.232     74  0.00
+   18   18     9  46   9  11   4   0   0   0   1   0   0   0   9   6   0   0   3   0   0   0     0    0    0   1.761     58  0.00
+   19   19     0   5   0   4   3   0   2   1   2   0   5   1   0   1  14  36   4  16   6   1     0    0    0   2.090     69  0.00
+   20   20    10   0   2   2   2   0   0   0   9   7  16   7   0   1   1   8   5  14  10   5     0    0    0   2.508     83  0.00
+   21   21    23  29  27   2   1   0   5   0   2   0   0   7   2   0   0   0   0   0   0   0     0    0    0   1.724     57  0.00
+   22   22    10  59   9   9   1   2   0   0   0   0   0   5   0   2   0   2   0   0   0   0     0    0    0   1.491     49  0.00
+   23   23     3   4   0   2   0   0   0   0   4   0   6   4   0   3   9  20   8  12   9  16     0    0    0   2.384     79  0.00
+   24   24     2   4   0   1   0   0   3   0  13   0   2   5   0   1   4  21  16  19   3   4     0    0    0   2.278     76  0.00
+   25   25    12  49  14  13   0   0   0   0   2   0   0   0   0   0   3   1   0   0   4   0     0    0    0   1.597     53  0.00
+   26   26     5   4   1  10   3  11   3   4   2   0   3   1   0   0  11  21  16   4   0   2     0    0    0   2.420     80  0.00
+   27   27     1   1   0   0   0   0   0   7   5   0  13   4   3   5   9  22  11   5   7   5     0    0    0   2.423     80  0.00
+   28   28     2   5   1   2   0   0   5   2   5   2   2   0   2  44   9  11   4   1   1   3     0    0    0   2.112     70  0.00
+   29   29     0   7   0   0   0   0   0   2   9  16   2   1   0   1   9  12  15  12   0  12     0    0    0   2.273     75  0.00
+   30   30     0   9   5   4  13   1   7   2   6   4  11   6   1   7   0   0   0   5   5  14     0    0    0   2.618     87  0.00
+   31   31     2   0   0   0   0   0   2   5  46   0  36   2   3   1   0   0   0   0   0   2     0    0    0   1.375     45  0.00
+   32   32     1   6   5   0   1  50   5   2   3   0   3   2   0   1   2   0   1  12   3   1     0    0    0   1.880     62  0.00
+   33   33    10   4   5   0   2   0   0   0   6  68   0   0   0   0   0   0   0   3   1   0     0    0    0   1.228     40  0.00
+   34   34     0   0   0   0  99   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.081      2  0.00
+   35   35     2  21   6  10   1   0  13   0   4   0   4   0   0   5  17   2  12   0   3   0     0    0    0   2.300     76  0.00
+   36   36     4   2   0   0   3   0   1   0   3   0   1   5   0   5   7  18  21  22   3   3     0    0    0   2.221     74  0.00
+   37   37     0  15   0   0   0   0   0   0   2  78   0   0   0   0   0   3   0   0   0   0     0    0    0   0.704     23  0.00
+   38   38    81   0   0   0   0   0   0   0   0  18   0   0   0   0   0   0   0   0   0   0     0    0    0   0.534     17  0.00
+   39   39     0   1   0   0   0   0   0   0   0   7  23   7   0   0   0  10   4   2  12  33     0    0    0   1.835     61  0.00
+   40   40     2  17   0   0   0   0   0   1  20   6   3   2   0   0  15  28   0   1   0   4     0    0    0   1.953     65  0.00
+   41   41    11  16   2   1   1   0   0   0   3   0  17   5   0   0   6  21   3   5   2   5     0    0    0   2.286     76  0.00
+   42   42     2   3   4   1   2   0   1   5   8   0   1   0   0   0   1  10   8  35  11   7     0    0    0   2.203     73  0.00
+   43   43    21  27  11   1   2   0  12   0  19   0   0   0   1   1   0   0   2   0   0   0     0    0    0   1.868     62  0.00
+   44   44     1   4   0   0   0   0   0   6   0  79   1   0   0   2   1   3   0   2   0   0     0    0    0   0.897     29  0.00
+   45   45     0   0   0   1   0   0   0  13   1   0   0   2   0   1   0   0   0   6   4  71     0    0    0   1.059     35  0.00
+   46   46     0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   47   47     0   4   0   0   9   0  52   0   1   1   2   1   2  21   3   2   0   1   0   0     0    0    0   1.585     52  0.00
+   48   48     0   2   1   2   0   0   0   0   3   0   2   6   0   0   2  21   8  21   3  27     0    0    0   1.999     66  0.00
+   49   49    24   4  56   0   3   0   3   0   0   0   0   2   0   3   1   0   2   0   0   0     0    0    0   1.407     46  0.00
+   50   50    18   0  82   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.464     15  0.00
+   51   51     2   2   0   0   1   0   0   0   2   0   4   6   0   1  11  62   3   4   1   2     0    0    0   1.518     50  0.00
+   52   52     0   0   0   2   4   0   2   0   1   0   3   7   0  16  11  22   8   9  12   2     0    0    0   2.287     76  0.00
+   53   53     0   0   0   0   0   0   0   0   0  99   1   0   0   0   0   0   0   0   0   0     0    0    0   0.041      1  0.00
+   54   54     6   0  16  76   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0     0    0    0   0.771     25  0.00
+   55   55     0   0   0   0   0   0   0   0   3   0   4   0   1   0   0   0   0   0   0  92     0    0    0   0.371     12  0.00
+   56   56     0  66   4  13  17   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.959     32  0.00
+   57   57     0   1   0   2   2   0   0  20   3   0  30   1   1   0   2  18   9   7   4   1     0    0    0   2.032     67  0.00
+   58   58     1   0   5   1   0   0   0   0   1   0   1  76   0   0   1  10   2   1   0   1     0    0    0   1.001     33  0.00
+   59   59    18   6  57  19   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.117     37  0.00
+   60   60     0   2   0   1   0   0   0   2   4   0   3   4   0   1  24  42   6   9   0   0     0    0    0   1.755     58  0.00
+   61   61     0   0   1   0   0   0   0   0   1   0   7   4   0   3  16  28  10  23   5   2     0    0    0   2.017     67  0.00
+   62   62     0   0   0   0   0   0   1   0   0   0   0   2   0   2  34  45   0   0  15   0     0    0    0   1.307     43  0.00
+   63   63     8  56  20  10   1   0   0   0   2   0   0   0   2   0   0   0   0   0   1   0     0    0    0   1.334     44  0.00
+   64   64     1   2   0   3   0   0   1   0   2   1   7   1   0   0  15  14   9  30   7   8     0    0    0   2.175     72  0.00
+   65   65     0   0   0   3   0   0   0   3  10   0  13   3   2   1   4  15   2   3  37   3     0    0    0   2.027     67  0.00
+   66   66     0   2   0   0   1   1   2  25   0   0   1   2   3   9  19   6   5   2  16   4     0    0    0   2.236     74  0.00
+   67   67     1   6   1   1   2   0  19   2   2   0   5   1   0   4   5  14   9  17   3   7     0    0    0   2.463     82  0.00
+   68   68     0   0   2   0   0   0  98   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.123      4  0.00
+   69   69     8   3   0   0   0   9   0   1   5   5   6   8   1   3  16  10  15   5   1   4     0    0    0   2.539     84  0.00
+   70   70     0   3   2   0   0   0   1   3   4   0  34  16   3   1   1   5   1   3   7  15     0    0    0   2.134     71  0.00
+   71   71     9  17   7   3   2   0   0   0  23  16   1   3   0   0  11   6   0   2   1   0     0    0    0   2.226     74  0.00
+   72   72     0   2   1   1   0   4   1   2   4   1  12   1   0   4   2   8  12  25   6  12     0    0    0   2.407     80  0.00
+   73   73     0   8   0   2   0   0   0   3   7   0   6   1   0   3   0   0  10  43   0  16     0    0    0   1.827     60  0.00
+   74   74     2  16   0   7  59   0   5   0   1   0   0   1   8   0   0   0   0   0   0   0     0    0    0   1.354     45  0.00
+   75   75    20  10  12  11   0   0   1   1  17   0   1   3   3   0   3   2   2  14   0   0     0    0    0   2.241     74  0.00
+   76   76     0   1   0   0   0   1   1   0  33   0   4   2   2   1   4  11   8  13   4  13     0    0    0   2.164     72  0.00
+   77   77     0   0   0   0   0   0   0   0   0   0   0   0   0   2   0   0   0   2   1  95     0    0    0   0.289      9  0.00
+   78   78    34  15  13   9  24   0   0   0   5   0   0   0   1   0   0   0   0   0   0   0     0    0    0   1.672     55  0.00
+   79   79     3   3   0   9   1   4   0   0   1   0   0   0   0   0  29  12   9   7  18   3     0    0    0   2.137     71  0.00
+   80   80     0  66   0   2   0   1   2   0   0   0   0  11   0   0   8   1   9   0   0   0     0    0    0   1.209     40  0.00
+   81   81    15  10  27  43   0   0   0   0   0   0   0   4   0   0   0   0   0   0   0   0     0    0    0   1.367     45  0.00
+   82   82     7   5   4   0  68   1   1   0   3   1   0   0   8   0   0   1   0   1   0   0     0    0    0   1.289     43  0.00
+   83   83     0   0   1   1   0   1   1   0   5   0  18  17   0   4   4   9   9   5  12  11     0    0    0   2.317     77  0.00
+   84   84     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100   0     0    0    0   0.000      0  0.00
+   85   85     0   0   0   0   0   0   0   0  39   0   8   2  52   0   0   0   0   0   0   0     0    0    0   0.978     32  0.00
+   86   86     4   5   2   9   4   4  20   0   5   0   0   0   3   1  13  14   6   8   0   1     0    0    0   2.430     81  0.00
+   87   87     4  11  12   4   1   0   0   0   3   0   3  24   0   2   5  16   3  10   1   1     0    0    0   2.311     77  0.00
+   88   88     0   0   0   0  19   0  81   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.489     16  0.00
+   89   89     0   0   0   0   0   0   2   0   0   0   0   2   0   0   0   0   0   0  96   0     0    0    0   0.200      6  0.00
+   90   90     4   5   0   0   0   0   1  13   5  23   9   1   2   0   6  12   1  17   1   2     0    0    0   2.281     76  0.00
+   91   91     1   0   0   0   0   0   0   2   3  50   6   1   0   0   5  12   0  13   0   5     0    0    0   1.701     56  0.00
+   92   92     0   0   0   0   0   0   0  24   1   0   2  10   0   0   3   3   1  10  10  34     0    0    0   1.858     62  0.00
+   93   93     0   0   0   0   0   0   0   0   1   0  48  17   0  16   0   0   1   1   5   9     0    0    0   1.509     50  0.00
+   94   94     6   7   7   0   1   0   0   1   5   7   5   0   0   3   7   3   8  17   1  23     0    0    0   2.398     80  0.00
+   95   95    39   3  28   0   5   0  20   0   0   0   0   0   0   0   0   0   0   4   0   0     0    0    0   1.454     48  0.00
+   96   96    20   2   1   0   4   0  47   4   5   0   0   7   3   5   0   0   0   0   1   0     0    0    0   1.725     57  0.00
+   97   97     3  10   1   2   1   0   0   0   9   0   5   1   0   3  12  36   4   7   4   1     0    0    0   2.145     71  0.00
+   98   98     0   1   4  32   1   0   6   0  18   0   2   2  14   0   3   0   1   0   0  15     0    0    0   1.993     66  0.00
+   99   99     3   0   0   0   0   0   0  17  64   0  12   1   2   0   0   0   0   0   0   0     0    0    0   1.123     37  0.00
+  100  100     3  10  10   0   0   0   0   0   0   0   5   5   1   7  13  14  14   5  10   4     0    0    0   2.429     81  0.00
+  101  101    10   4   8   1   2   0   0   1   9   0   6  12   1   0  10  23   3   6   3   0     0    0    0   2.401     80  0.00
+  102  102     4  76   6  10   0   0   0   0   2   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.897     29  0.00
+  103  103     2   4   2   0   0   0   0   0   0   0   8   2   0   4   5   5  30  37   1   0     0    0    0   1.794     59  0.00
+  104  104     3   0   0   0   0   0   0   0   7   0   7   1   0   0   6  38   4   9   6  16     0    0    0   1.984     66  0.00
+  105  105    30  11  14   3  24   0   8   0   3   0   0   1   1   1   0   0   0   0   0   2     0    0    0   1.920     64  0.00
+  106  106     4   7   2   4  76   0   0   0   0   0   0   0   6   0   0   0   0   0   0   0     0    0    0   0.991     33  0.00
+  107  107     2  21   3   1   6   1  11   0   1   0   0   4   0   5   0   7   6  22   5   5     0    0    0   2.344     78  0.00
+  108  108     0   0   3   5   5   0   0   2   8   1  21   3   0   5   1   7  19  15   2   4     0    0    0   2.323     77  0.00
+  109  109     1   4   0   1   2   1   0   0   1   1   0   4   0   1   7  63   7   7   0   0     0    0    0   1.433     47  0.00
+  110  110    16  28  21   7   0   5   1   0   3   0   1   1   3   0   5   9   0   0   0   0     0    0    0   1.996     66  0.00
+  111  111     0   0   0   0   0   0   0   1  10   2   2   6   0   0   8  49   8   8   6   1     0    0    0   1.751     58  0.00
+  112  112     0   0   0   0   0   0   0   0   2   0   1   0   0   0   0   7  18  64   0   9     0    0    0   1.109     37  0.00
+  113  113     0  41   3   8   0   0   0  19  30   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.343     44  0.00
+  114  114     0   0   0   0   0   0   0  86   3   0   0   0   0   0   0   0   8   0   0   3     0    0    0   0.524     17  0.00
+  115  115     0  97   0   0   0   0   0   0   0   0   0   0   0   0   0   3   0   0   0   0     0    0    0   0.146      4  0.00
+  116  116     0  11  74   0   0  11   0   0   0   0   0   5   0   0   0   0   0   0   0   0     0    0    0   0.854     28  0.00
+  117  117     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100     0    0    0   0.000      0  0.00
+  118  118     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0     0    0    0   0.000      0  0.00
+//

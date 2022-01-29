@@ -1,0 +1,1062 @@
+ID Pseudo hssp file.
+SEQ 
+SEQ gi|12230338|sp|O93868|MTDH_AGABI NADP-DEPENDENT MANNITOL DEHYDRO...   434  e-121
+SEQ gi|6093715|sp|O00058|MTDH_UROFA PROBABLE NADP-DEPENDENT MANNITOL...   260  1e-68
+SEQ gi|7431045|pir||D72377 oxidoreductase, short chain dehydrogenase...   126  4e-28
+SEQ gi|2492754|sp|P87219|SOU1_CANAL SORBITOL UTILIZATION PROTEIN SOU...   121  7e-27
+SEQ gi|7480341|pir||T36779 probable 3-oxacyl-(acyl-carrier-protein) ...   118  7e-26
+SEQ gi|13476106|ref|NP_107676.1| unknown protein [Mesorhizobium loti...   115  5e-25
+SEQ gi|14550183|gb|AAK67169.1|AF387300_1 (AF387300) NADP-dependent m...   115  6e-25
+SEQ gi|4886772|gb|AAD32035.1|AF093787_3 (AF093787) CylG [Streptococc...   111  8e-24
+SEQ gi|10175111|dbj|BAB06210.1| (AP001515) 3-oxoacyl-(acyl-carrier p...   109  4e-23
+SEQ gi|7427651|pir||A64590 probable 3-oxoacyl-[acyl-carrier-protein]...   109  5e-23
+SEQ gi|1502421|gb|AAC44307.1| (U59433) 3-ketoacyl-acyl carrier prote...   108  6e-23
+SEQ gi|3915689|sp|P51831|FABG_BACSU 3-OXOACYL-[ACYL-CARRIER PROTEIN]...   108  6e-23
+SEQ gi|2492755|sp|P87218|SOU2_CANAL SORBITOL UTILIZATION PROTEIN SOU...   108  8e-23
+SEQ gi|11321504|gb|AAG34189.1|AF321122_8 (AF321122) Sim-nJ2 [Strepto...   107  1e-22
+SEQ gi|7430987|pir||B71923 3-oxoacyl-[acyl-carrier-protein] reductas...   107  2e-22
+SEQ gi|11250851|pir||A81388 3-oxoacyl-[acyl-carrier protein] reducta...   107  2e-22
+SEQ gi|13878481|sp|Q9PKF7|FABG_CHLMU 3-OXOACYL-[ACYL-CARRIER PROTEIN...   106  3e-22
+SEQ gi|2492746|sp|P71534|FABG_MYCSM 3-OXOACYL-[ACYL-CARRIER PROTEIN]...   106  3e-22
+SEQ gi|13093518|emb|CAC30760.1| (AL583923) 3-oxoacyl-[ACP] reductase...   106  4e-22
+SEQ gi|6840806|sp|P38004|FABG_CHLTR 3-OXOACYL-[ACYL-CARRIER PROTEIN]...   106  4e-22
+SEQ gi|7431069|pir||D70635 hypothetical protein Rv1928c - Mycobacter...   106  5e-22
+SEQ gi|2492747|sp|Q48930|FABG_MYCTU 3-OXOACYL-[ACYL-CARRIER PROTEIN]...   106  5e-22
+SEQ gi|11498806|ref|NP_070035.1| 2-deoxy-D-gluconate 3-dehydrogenase...   105  7e-22
+SEQ gi|11360538|pir||JC7338 carbonyl reductase (NADPH) (EC 1.1.1.184...   104  1e-21
+SEQ gi|3913631|sp|O07399|FABG_MYCAV 3-OXOACYL-[ACYL-CARRIER PROTEIN]...   103  2e-21
+SEQ gi|7493420|pir||T39164 sorbitol utilization protein sou1 - fissi...   103  2e-21
+SEQ gi|4160474|gb|AAD05259.1| (AF109909) 3-ketoacyl-CoA reductase Ph...   102  4e-21
+SEQ gi|7473261|pir||H75616 oxidoreductase, short-chain dehydrogenase...   101  9e-21
+SEQ gi|13473452|ref|NP_105019.1| 2-deoxy-D-gluconate 3-dehydrogenase...   101  1e-20
+SEQ gi|12723693|gb|AAK04872.1|AE006311_3 (AE006311) 3-oxoacyl-acyl c...   101  1e-20
+SEQ gi|1708001|sp|P50199|GNO_GLUOX GLUCONATE 5-DEHYDROGENASE (5-KETO...   101  1e-20
+SEQ gi|13473297|ref|NP_104864.1| beta-ketothiolase, acetoacetyl-CoA ...   101  1e-20
+SEQ gi|11595622|emb|CAC18242.1| (AL451018) related to SORBITOL UTILI...   100  2e-20
+SEQ gi|13423251|gb|AAK23791.1| (AE005856) oxidoreductase, short-chai...   100  2e-20
+SEQ gi|7471010|pir||G75333 3-oxoacyl-acyl carrier protein reductase ...   100  3e-20
+SEQ gi|6014960|sp|P80869|DHG2_BACSU GLUCOSE 1-DEHYDROGENASE II (GLCD...   100  3e-20
+SEQ gi|7522435|pir||T38157 oxidoreducatase, possible sorbitol utiliz...   100  3e-20
+SEQ gi|12382035|dbj|BAB20935.2| (D85817) ORF [Staphylococcus aureus]...   100  3e-20
+SEQ gi|13471572|ref|NP_103138.1| probable dehydrogenase/reductase [M...    99  4e-20
+SEQ gi|9789233|gb|AAF98275.1|AF197933_5 (AF197933) beta-ketoacyl-ACP...    98  9e-20
+SEQ gi|6919838|sp|Q9X248|FABG_THEMA 3-OXOACYL-[ACYL-CARRIER PROTEIN]...    98  1e-19
+SEQ gi|7431086|pir||B70817 probable oxidoreductase / gluconate 3-deh...    98  1e-19
+SEQ gi|14318640|gb|AAH09118.1|AAH09118 (BC009118) Unknown (protein f...    98  1e-19
+SEQ gi|5052204|gb|AAD38447.1|AF099742_1 (AF099742) putative short-ch...    97  2e-19
+SEQ gi|3913642|sp|O67610|FABG_AQUAE 3-OXOACYL-[ACYL-CARRIER PROTEIN]...    97  2e-19
+SEQ gi|13425088|gb|AAK25342.1| (AE005999) 2-deoxy-D-gluconate 3-dehy...    96  3e-19
+SEQ gi|1723056|sp|Q11020|YD50_MYCTU PUTATIVE OXIDOREDUCTASE RV1350 >...    96  4e-19
+SEQ gi|14518347|ref|NP_116830.1| MS142, putative gluconate dehydroge...    96  5e-19
+SEQ gi|1730536|sp|P50204|PHAB_PARDE ACETOACETYL-COA REDUCTASE >gi|67...    96  5e-19
+SEQ gi|2506154|sp|P52037|YGFF_ECOLI HYPOTHETICAL OXIDOREDUCTASE IN B...    96  6e-19
+SEQ gi|1730542|sp|P50205|PHBB_RHIME ACETOACETYL-COA REDUCTASE >gi|79...    95  8e-19
+SEQ gi|3915503|sp|O34717|YKUF_BACSU HYPOTHETICAL OXIDOREDUCTASE IN C...    95  8e-19
+SEQ gi|729325|sp|P39483|DHG2_BACME GLUCOSE 1-DEHYDROGENASE II (GLCDH...    95  9e-19
+SEQ gi|13422621|gb|AAK23267.1| (AE005803) gluconate 5-dehydrogenase ...    94  1e-18
+SEQ gi|130017|sp|P23238|PHBB_ZOORA ACETOACETYL-COA REDUCTASE >gi|950...    94  1e-18
+SEQ gi|729326|sp|P39484|DHG3_BACME GLUCOSE 1-DEHYDROGENASE III (GLCD...    94  2e-18
+SEQ gi|118559|sp|P10528|DHGA_BACME GLUCOSE 1-DEHYDROGENASE A >gi|801...    94  2e-18
+SEQ gi|3913643|sp|P73574|FAG1_SYNY3 3-OXOACYL-[ACYL-CARRIER PROTEIN]...    94  2e-18
+SEQ gi|11250822|pir||T44361 acetoacetyl-CoA reductase (EC 1.1.1.36) ...    94  2e-18
+SEQ gi|1703369|sp|P50166|ARDH_CANTR D-ARABINITOL 2-DEHYDROGENASE [RI...    94  2e-18
+SEQ gi|11250824|pir||T44434 3-oxoacyl-[acyl-carrier-protein] reducta...    93  3e-18
+SEQ gi|10174763|dbj|BAB05863.1| (AP001514) 2,4-dienoyl-CoA reductase...    93  3e-18
+SEQ gi|2492748|sp|P73826|FAG2_SYNY3 3-OXOACYL-[ACYL-CARRIER PROTEIN]...    93  3e-18
+SEQ gi|13622804|gb|AAK34493.1| (AE006603) putative beta-ketoacyl-ACP...    93  3e-18
+SEQ gi|9965579|gb|AAG10092.1|U79570_1 (U79570) glucose dehydrogenase...    93  3e-18
+SEQ gi|729327|sp|P39485|DHG4_BACME GLUCOSE 1-DEHYDROGENASE IV (GLCDH...    93  5e-18
+SEQ gi|1168488|sp|P43066|ARDH_CANAL D-ARABINITOL 2-DEHYDROGENASE [RI...    92  6e-18
+SEQ gi|14349112|emb|CAC41336.1| (AJ311166) acetoacetyl-CoA reductase...    92  8e-18
+SEQ gi|13815591|gb|AAK42451.1| (AE006832) 3-oxoacyl-(acyl carrier pr...    92  8e-18
+SEQ gi|12514413|gb|AAG55660.1|AE005304_5 (AE005304) putative fatty a...    92  1e-17
+SEQ gi|3980398|gb|AAC95201.1| (AC004561) putative tropinone reductas...    91  2e-17
+SEQ gi|3980400|gb|AAC95203.1| (AC004561) putative tropinone reductas...    91  2e-17
+SEQ gi|3980416|gb|AAC95219.1| (AC004561) putative tropinone reductas...    91  2e-17
+SEQ gi|6831539|sp|Q9Z8P2|FABG_CHLPN 3-OXOACYL-[ACYL-CARRIER PROTEIN]...    91  2e-17
+SEQ gi|732053|sp|P39345|IDNO_ECOLI GLUCONATE 5-DEHYDROGENASE (5-KETO...    90  3e-17
+SEQ gi|1703370|sp|P50167|ARDH_PICST D-ARABINITOL 2-DEHYDROGENASE [RI...    90  3e-17
+SEQ gi|14422251|emb|CAC41364.1| (AJ243085) 3-oxyacyl-[acyl carrier p...    90  3e-17
+SEQ gi|14422263|emb|CAC41370.1| (AJ243091) beta-oxyacyl-[acyl-carrie...    90  3e-17
+SEQ gi|14422253|emb|CAC41365.1| (AJ243086) 3-oxyacyl-[acyl carrier p...    90  4e-17
+SEQ gi|8388718|emb|CAB94073.1| (AL358692) putative oxidoreductase [S...    89  4e-17
+SEQ gi|12516801|gb|AAG57544.1|AE005472_11 (AE005472) putative oxidor...    89  5e-17
+SEQ gi|6900950|emb|CAB71826.1| (AL138662) putative dehydrogenase/red...    89  5e-17
+SEQ gi|7798698|gb|AAF69798.1|AF232009_1 (AF232009) peroxisomal trans...    89  6e-17
+SEQ gi|12728826|ref|XP_002640.2| peroxisomal trans 2-enoyl CoA reduc...    89  6e-17
+SEQ gi|7430982|pir||C71711 acetoacetyl-COA reductase (phbB) RP035 - ...    89  7e-17
+SEQ gi|2506149|sp|P37440|UCPA_ECOLI OXIDOREDUCTASE UCPA >gi|7427657|...    89  8e-17
+SEQ gi|14422249|emb|CAC41363.1| (AJ243084) 3-oxyacyl-[acyl carrier p...    89  8e-17
+SEQ gi|11355758|pir||E82477 oxidoreductase, short-chain dehydrogenas...    89  8e-17
+SEQ gi|1729758|emb|CAA68181.1| (X99908) belongs to alcohol dehydroge...    88  1e-16
+SEQ gi|13473248|ref|NP_104815.1| gluconate dehydrogenase [Mesorhizob...    88  1e-16
+SEQ gi|7431044|pir||A72395 oxidoreductase, short chain dehydrogenase...    88  1e-16
+SEQ gi|11558260|emb|CAC17805.1| (AJ292535) SDR-like enzyme [Rhodococ...    88  2e-16
+SEQ gi|1717755|sp|P50165|TRNH_DATST TROPINONE REDUCTASE HOMOLOG (P29...    88  2e-16
+SEQ gi|13542175|ref|NP_111863.1| 3-oxoacyl-[acyl-carrier-protein] re...    88  2e-16
+SEQ gi|119791|sp|P28643|FABG_CUPLA 3-OXOACYL-[ACYL-CARRIER PROTEIN] ...    88  2e-16
+SEQ gi|13096234|pdb|1EDO|A Chain A, The X-Ray Structure Of Beta-Keto...    88  2e-16
+SEQ gi|7431033|pir||JC5856 polyketide synthase (EC 2.-.-.-) chain 7 ...    88  2e-16
+SEQ gi|13422867|gb|AAK23471.1| (AE005824) 2-deoxy-D-gluconate 3-dehy...    88  2e-16
+SEQ gi|729328|sp|P40288|DHG_BACME GLUCOSE 1-DEHYDROGENASE >gi|98132|...    88  2e-16
+SEQ gi|11321502|gb|AAG34187.1|AF321122_6 (AF321122) Sim-nJ1 [Strepto...    87  2e-16
+SEQ gi|80115|pir||S01227 glucose 1-dehydrogenase (EC 1.1.1.47) B - B...    87  2e-16
+SEQ gi|14422247|emb|CAC41362.1| (AJ243083) 3-oxyacyl-[acyl-carrier p...    87  2e-16
+SEQ gi|7676152|sp|P12310|DHG_BACSU GLUCOSE 1-DEHYDROGENASE >gi|74309...    86  3e-16
+SEQ gi|13475920|ref|NP_107490.1| probable dehydrogenase [Mesorhizobi...    86  3e-16
+SEQ gi|7431060|pir||H69885 3-oxoacyl- acyl-carrier protein reductase...    86  3e-16
+SEQ gi|486821|pir||S36090 glucose 1-dehydrogenase (EC 1.1.1.47) - Ba...    86  3e-16
+SEQ gi|1706756|sp|P55336|FABG_VIBHA 3-OXOACYL-[ACYL-CARRIER PROTEIN]...    86  3e-16
+SEQ gi|729324|sp|P39482|DHG1_BACME GLUCOSE 1-DEHYDROGENASE I (GLCDH-...    86  4e-16
+SEQ gi|400599|sp|P17611|NODG_AZOBR NODULATION PROTEIN G >gi|1070431|...    86  4e-16
+SEQ gi|6759571|emb|CAB69764.1| (AL137187) putative dehydrogenase/red...    86  4e-16
+SEQ gi|8978342|dbj|BAA98195.1| (AP002030) short chain alcohol dehydr...    86  5e-16
+SEQ gi|8923752|ref|NP_060911.1| peroxisomal trans 2-enoyl CoA reduct...    86  6e-16
+SEQ gi|11354347|pir||F82128 3-oxoacyl-(acyl-carrier-protein) reducta...    86  7e-16
+SEQ gi|14548046|sp|Q9KQH7|FABG_VIBCH 3-OXOACYL-[ACYL-CARRIER PROTEIN...    86  7e-16
+SEQ gi|11120614|gb|AAG30942.1| (AF314502) glucose dehydrogenase [Bac...    86  7e-16
+SEQ gi|1708835|sp|P50197|LINC_PSEPA 2,5-DICHLORO-2,5-CYCLOHEXADIENE-...    85  7e-16
+SEQ gi|114801|sp|P19337|BA72_EUBSP 7-ALPHA-HYDROXYSTEROID DEHYDROGEN...    85  8e-16
+SEQ gi|3913638|sp|O54438|FABG_PSEAE 3-OXOACYL-[ACYL-CARRIER PROTEIN]...    85  8e-16
+SEQ gi|12519258|gb|AAG59448.1|AE005657_8 (AE005657) putative oxidore...    85  8e-16
+SEQ gi|1172473|sp|P45375|PHBB_CHRVI ACETOACETYL-COA REDUCTASE >gi|42...    85  9e-16
+SEQ gi|13021732|gb|AAK11537.1|AF287907_4 (AF287907) acetoacetyl-CoA ...    85  1e-15
+SEQ gi|11250500|pir||E82748 tropinone reductase XF0913 [imported] - ...    85  1e-15
+SEQ gi|8778545|gb|AAF79553.1|AC022464_11 (AC022464) F22G5.20 [Arabid...    85  1e-15
+SEQ gi|13605591|gb|AAK32789.1|AF361621_1 (AF361621) At1g07440/F22G5_...    85  1e-15
+SEQ gi|11762118|gb|AAG40337.1|AF324985_1 (AF324985) At1g24360 [Arabi...    84  1e-15
+SEQ gi|13621828|gb|AAK33602.1| (AE006518) putative 5-keto-D-gluconat...    84  1e-15
+SEQ gi|13398625|gb|AAK21956.1|AF342934_3 (AF342934) acetoacetyl CoA ...    84  1e-15
+SEQ gi|7431065|pir||F69868 glucose 1-dehydrogenase homolog ykvO - Ba...    84  1e-15
+SEQ gi|14523350|gb|AAK64928.1| (AE007220) IdnO1 gluconate 5-dehydrog...    84  2e-15
+SEQ gi|10639394|emb|CAC11396.1| (AL445063) 3-ketoacyl-acyl carrier p...    84  2e-15
+SEQ gi|118561|sp|P07999|DHGB_BACME GLUCOSE 1-DEHYDROGENASE B               84  2e-15
+SEQ gi|3980415|gb|AAC95218.1| (AC004561) putative tropinone reductas...    84  2e-15
+SEQ gi|80113|pir||S02299 glucose 1-dehydrogenase (EC 1.1.1.47) - Bac...    84  2e-15
+SEQ gi|11351870|pir||F83098 probable short-chain dehydrogenase PA438...    84  2e-15
+SEQ gi|2226002|emb|CAA74371.1| (Y14043) glucose-1-dehydrogenase [Sta...    84  2e-15
+SEQ gi|9931358|gb|AAG02168.1|AF212041_24 (AF212041) 3-oxoacyl-(acylc...    84  2e-15
+SEQ gi|1361070|pir||S56475 hypothetical protein f261a - Escherichia ...    84  2e-15
+SEQ gi|2851592|sp|P39333|YJGI_ECOLI HYPOTHETICAL OXIDOREDUCTASE IN P...    84  2e-15
+SEQ gi|12722349|gb|AAK04000.1| (AE006228) FabG [Pasteurella multocida]     84  3e-15
+SEQ gi|114800|sp|P07914|BA71_EUBSP 7-ALPHA-HYDROXYSTEROID DEHYDROGEN...    83  3e-15
+SEQ gi|3980399|gb|AAC95202.1| (AC004561) putative tropinone reductas...    83  3e-15
+SEQ gi|7493402|pir||T41116 short chain dehydrogenase - fission yeast...    83  3e-15
+SEQ gi|11250848|pir||F81971 probable 3-oxoacyl-[acyl-carrier protein...    83  3e-15
+SEQ gi|462049|sp|P33207|FABG_ARATH 3-OXOACYL-[ACYL-CARRIER PROTEIN] ...    83  3e-15
+SEQ gi|145881|gb|AAA23739.1| (M84991) 3-ketoacyl-acyl carrier protei...    83  4e-15
+SEQ gi|2506148|sp|P25716|FABG_ECOLI 3-OXOACYL-[ACYL-CARRIER PROTEIN]...    83  4e-15
+SEQ gi|13472648|ref|NP_104215.1| reductase (short chain dehydrogenas...    83  5e-15
+SEQ gi|6685440|sp|O85141|FABG_SALTY 3-OXOACYL-[ACYL-CARRIER PROTEIN]...    82  7e-15
+SEQ gi|732372|sp|P39640|YWFD_BACSU HYPOTHETICAL OXIDOREDUCTASE IN PT...    82  8e-15
+SEQ gi|14523623|gb|AAK65178.1| (AE007243) probable [Sinorhizobium me...    82  8e-15
+SEQ gi|10955079|ref|NP_059735.1| yhg [Agrobacterium tumefaciens] >gi...    82  9e-15
+SEQ gi|12514637|gb|AAG55839.1|AE005319_8 (AE005319) 3-oxoacyl-[acyl-...    82  9e-15
+SEQ gi|3980401|gb|AAC95204.1| (AC004561) putative tropinone reductas...    81  1e-14
+SEQ gi|11132300|sp|P57432|FABG_BUCAI 3-OXOACYL-[ACYL-CARRIER PROTEIN...    81  1e-14
+SEQ gi|13700042|dbj|BAB41341.1| (AP003129) acetoinreductase [Staphyl...    81  1e-14
+SEQ gi|13474112|ref|NP_105680.1| sorbitol dehydrogenase (also simila...    81  1e-14
+SEQ gi|1651197|dbj|BAA13547.1| (D88156) tropinone reductase-I [Hyosc...    81  1e-14
+SEQ gi|13702422|dbj|BAB43563.1| (AP003137) ORFID:SA2260~hypothetical...    81  1e-14
+SEQ gi|128466|sp|P06234|NODG_RHIME NODULATION PROTEIN G (HOST-SPECIF...    81  2e-14
+SEQ gi|13360745|dbj|BAB34708.1| (AP002554) putative 3-oxoacyl-(acyl ...    81  2e-14
+SEQ gi|7293522|gb|AAF48896.1| (AE003510) CG7322 gene product [Drosop...    81  2e-14
+SEQ gi|6226610|sp|P50941|FABG_RICPR 3-OXOACYL-[ACYL-CARRIER PROTEIN]...    81  2e-14
+SEQ gi|1486446|emb|CAA92424.1| (Z68203) FabG homologue [Rhizobium sp.]     81  2e-14
+SEQ gi|2492768|sp|Q53217|Y4VI_RHISN PUTATIVE SHORT-CHAIN TYPE DEHYDR...    81  2e-14
+SEQ gi|7480705|pir||T36782 probable gluconate dehydrogenase - Strept...    80  2e-14
+SEQ gi|11250859|pir||E81026 3-oxoacyl-(acyl-carrier-protein) reducta...    80  2e-14
+SEQ gi|3907616|gb|AAC78679.1| (AF098800) acetoin reductase [Klebsiel...    80  3e-14
+SEQ gi|6653745|gb|AAF22845.1|AF210152_2 (AF210152) 3a-hydroxysteroid...    80  3e-14
+SEQ gi|1790870|gb|AAC44807.1| (U32622) toluenesulfonate zinc-indepen...    80  4e-14
+SEQ gi|7619804|emb|CAB88214.1| (AJ400815) putative tropinone reducta...    80  4e-14
+SEQ gi|7649806|dbj|BAA94092.1| (AB040809) short chain alcohol dehydr...    80  4e-14
+SEQ gi|13476756|ref|NP_108325.1| putative dehydrogenase [Mesorhizobi...    79  4e-14
+SEQ gi|13474896|ref|NP_106466.1| hypothetical protein [Mesorhizobium...    79  5e-14
+SEQ gi|10639349|emb|CAC11351.1| (AL445063) 2, 4-dienoyl-CoA reductas...    79  5e-14
+SEQ gi|11595574|emb|CAC18176.1| (AL451014) probable NADPH-dependent ...    79  5e-14
+SEQ gi|6683781|gb|AAF23366.1| (AF153086) PhaB [Burkholderia sp. DSMZ...    79  5e-14
+SEQ gi|12832971|dbj|BAB22333.1| (AK002756) putative [Mus musculus]         79  5e-14
+SEQ gi|13385680|ref|NP_080448.1| RIKEN cDNA 1200012F07 gene [Mus mus...    79  5e-14
+SEQ gi|11250502|pir||G82819 acetoacetyl-CoA reductase XF0319 [import...    79  6e-14
+SEQ gi|532243|gb|AAA65204.1| (L35560) daunorubicin-doxorubicin polyk...    79  6e-14
+SEQ gi|3980406|gb|AAC95209.1| (AC004561) putative tropinone reductas...    79  6e-14
+SEQ gi|3913195|sp|Q48436|BUDC_KLEPN ACETOIN(DIACETYL) REDUCTASE (ACE...    79  7e-14
+SEQ gi|6273654|emb|CAB60168.1| (AL132824) putative dehydrogenase/red...    79  7e-14
+SEQ gi|10580854|gb|AAG19676.1| (AE005055) 3-oxoacyl-[acyl-carrier-pr...    79  7e-14
+SEQ gi|5706546|emb|CAB52307.1| (AJ245634) tropinone reductase II [So...    79  8e-14
+SEQ gi|6093520|sp|P72332|NODG_RHIS3 NODULATION PROTEIN G >gi|1531618...    79  8e-14
+SEQ gi|632085|pir||S47055 hypothetical protein 5 - Xanthobacter sp >...    79  8e-14
+SEQ gi|1169591|sp|P43713|FABG_HAEIN 3-OXOACYL-[ACYL-CARRIER PROTEIN]...    78  9e-14
+SEQ gi|3123307|sp|P40397|YHXC_BACSU HYPOTHETICAL OXIDOREDUCTASE IN A...    78  1e-13
+SEQ gi|2492745|sp|P70720|FABG_ACTAC 3-OXOACYL-[ACYL-CARRIER PROTEIN]...    78  1e-13
+SEQ gi|13476514|ref|NP_108084.1| nodulation protein nodG, 3-oxoacyl-...    78  1e-13
+SEQ gi|80615|pir||A28212 27K bile acid 7-dehydroxylation protein - E...    78  1e-13
+SEQ gi|10640029|emb|CAC11881.1| (AL445065) glucose 1-dehydrogenase r...    78  1e-13
+SEQ gi|12698385|gb|AAK01499.1| (AF241171) 2-deoxy-D-gluconate 3-dehy...    78  1e-13
+SEQ gi|12057012|emb|CAC19810.1| (AJ292343) tropinone reductase II [S...    78  1e-13
+SEQ gi|14523253|gb|AAK64840.1| (AE007211) putative [Sinorhizobium me...    78  1e-13
+SEQ gi|2492744|sp|Q59787|DHSO_RHOSH SORBITOL DEHYDROGENASE (L-IDITOL...    78  1e-13
+SEQ gi|13424236|gb|AAK24622.1| (AE005933) oxidoreductase, short-chai...    78  1e-13
+SEQ gi|13473632|ref|NP_105200.1| oxidoreductase [Mesorhizobium loti]...    78  2e-13
+SEQ gi|11250531|pir||T50271 probable oxidoreductase, short chain deh...    78  2e-13
+SEQ gi|3980418|gb|AAC95221.1| (AC004561) putative tropinone reductas...    78  2e-13
+SEQ gi|999595|pdb|1HDC|A Chain A, 3-Alpha, 20-Beta-Hydroxysteroid De...    78  2e-13
+SEQ gi|1717752|sp|P50162|TRN1_DATST TROPINONE REDUCTASE-I (TR-I) (TR...    78  2e-13
+SEQ gi|10639335|emb|CAC11337.1| (AL445063) probable glucose 1-dehydr...    77  2e-13
+SEQ gi|4062842|dbj|BAA36159.1| (AB009078) L-2.3-butanediol dehydroge...    77  2e-13
+SEQ gi|7481403|pir||T36085 probable short chain dehydrogenase - Stre...    77  2e-13
+SEQ gi|10176521|dbj|BAB07615.1| (AP001520) 3-oxoacyl-(acyl-carrier p...    77  2e-13
+SEQ gi|1076089|pir||S54815 urdamycin polyketide ketoreductase (EC 1....    77  2e-13
+SEQ gi|11360420|pir||F82776 3-oxoacyl-[ACP] reductase XF0671 [import...    77  2e-13
+SEQ gi|12744823|gb|AAK06787.1|AF324838_6 (AF324838) putative ketored...    77  3e-13
+SEQ gi|3980405|gb|AAC95208.1| (AC004561) putative tropinone reductas...    77  3e-13
+SEQ gi|6671688|ref|NP_031647.1| carbonyl reductase 2 [Mus musculus] ...    77  3e-13
+SEQ gi|7431048|pir||F64646 7-alpha-hydroxysteroid dehydrogenase - He...    77  3e-13
+SEQ gi|13506791|gb|AAK28336.1|AF242204_1 (AF242204) putative peroxis...    77  3e-13
+SEQ gi|2147958|pir||S69225 nogalamycin polyketide ketoreductase (EC ...    76  3e-13
+SEQ gi|3915582|sp|Q23116|YWC4_CAEEL HYPOTHETICAL OXIDOREDUCTASE W01C...    76  4e-13
+SEQ gi|6165403|emb|CAB59826.1| (AJ012388) diacetyl(acetoin) reductas...    76  4e-13
+SEQ gi|13472712|ref|NP_104279.1| short chain dehydrogenase/reductase...    76  4e-13
+SEQ gi|13311189|emb|CAC34420.1| (AJ307584) tropinone reductase I [So...    76  4e-13
+SEQ gi|8358156|gb|AAF74785.1|AF270650_1 (AF159243) 3-oxoacyl-(acyl c...    76  4e-13
+SEQ gi|13474404|ref|NP_105972.1| glucose dehydrogenase [Mesorhizobiu...    76  5e-13
+SEQ gi|13474531|ref|NP_106100.1| similar to granaticin polyketide ke...    76  5e-13
+SEQ gi|12845570|dbj|BAB26803.1| (AK010260) putative [Mus musculus]         76  5e-13
+SEQ gi|13421694|gb|AAK22498.1| (AE005724) acetoacetyl-CoA reductase ...    76  5e-13
+SEQ gi|120209|sp|P05406|FIXR_BRAJA FIXR PROTEIN >gi|77956|pir||S0106...    76  5e-13
+SEQ gi|11250491|pir||E82429 acetoacetyl-CoA reductase VCA0691 [impor...    76  5e-13
+SEQ gi|7431068|pir||D70707 hypothetical protein Rv0769 - Mycobacteri...    76  5e-13
+SEQ gi|1730031|sp|P50842|KDUD_BACSU 2-DEOXY-D-GLUCONATE 3-DEHYDROGEN...    76  6e-13
+SEQ gi|11351853|pir||B83284 probable short-chain dehydrogenase PA288...    76  7e-13
+SEQ gi|1708159|sp|P50200|HDHA_CLOSO 7-ALPHA-HYDROXYSTEROID DEHYDROGE...    76  7e-13
+SEQ gi|7595926|gb|AAF64503.1|AF247810_1 (AF247810) cholesterol oxida...    75  7e-13
+SEQ gi|13475878|ref|NP_107448.1| putative oxidoreductase [Mesorhizob...    75  8e-13
+SEQ gi|12517239|gb|AAG57883.1|AE005505_1 (AE005505) putative oxidore...    75  8e-13
+SEQ gi|2506156|sp|P33368|YOHF_ECOLI HYPOTHETICAL OXIDOREDUCTASE IN P...    75  8e-13
+SEQ gi|14523281|gb|AAK64865.1| (AE007214) putative [Sinorhizobium me...    75  9e-13
+SEQ gi|585356|sp|Q05528|KDUD_ERWCH 2-DEOXY-D-GLUCONATE 3-DEHYDROGENA...    75  9e-13
+SEQ gi|3980403|gb|AAC95206.1| (AC004561) putative tropinone reductas...    75  9e-13
+SEQ gi|7431063|pir||B69802 glucose 1-dehydrogenase homolog yfhR - Ba...    75  1e-12
+SEQ gi|130015|sp|P14697|PHBB_ALCEU ACETOACETYL-COA REDUCTASE >gi|659...    75  1e-12
+SEQ gi|11127895|gb|AAG31126.1|AF299336_3 (AF299336) MxcC [Stigmatell...    75  1e-12
+SEQ gi|8977925|emb|CAB95792.1| (AL359949) putative oxidoreductase [S...    75  1e-12
+SEQ gi|12963715|ref|NP_076012.1| peroxisomal trans 2-enoyl CoA reduc...    75  1e-12
+SEQ gi|1717754|sp|P50164|TRN2_HYONI TROPINONE REDUCTASE-II (TR-II) >...    75  1e-12
+SEQ gi|13362493|dbj|BAB36447.1| (AP002560) putative oxidoreductase [...    74  1e-12
+SEQ gi|7509667|pir||T26723 hypothetical protein Y39A1A.11 - Caenorha...    74  1e-12
+SEQ gi|11250856|pir||G81352 probable oxidoreductase Cj0807 [imported...    74  1e-12
+SEQ gi|14280346|gb|AAK57528.1| (AY034378) polyketide ketoreductase P...    74  1e-12
+SEQ gi|112733|sp|P19992|2BHD_STREX 20-BETA-HYDROXYSTEROID DEHYDROGEN...    74  1e-12
+SEQ gi|3811386|gb|AAC69902.1| (AF100956) KE6a [Mus musculus]               74  1e-12
+SEQ gi|111287|pir||S11021 2,4-dienoyl-CoA reductase (NADPH) (EC 1.3....    74  1e-12
+SEQ gi|12516445|gb|AAG57269.1|AE005445_6 (AE005445) putative oxidore...    74  2e-12
+SEQ gi|13475876|ref|NP_107446.1| probable dehydrogenase [Mesorhizobi...    74  2e-12
+SEQ gi|13363171|dbj|BAB37122.1| (AP002563) 2-deoxy-D-gluconate 3-deh...    74  2e-12
+SEQ gi|7473256|pir||F75557 oxidoreductase, short-chain dehydrogenase...    74  2e-12
+SEQ gi|12517334|gb|AAG57954.1|AE005513_2 (AE005513) 2-deoxy-D-glucon...    74  2e-12
+SEQ gi|13474403|ref|NP_105971.1| glucose dehydrogenase [Mesorhizobiu...    74  2e-12
+SEQ gi|1730032|sp|P37769|KDUD_ECOLI 2-DEOXY-D-GLUCONATE 3-DEHYDROGEN...    74  2e-12
+SEQ gi|13474619|ref|NP_106188.1| putative dehydrogenase [Mesorhizobi...    74  2e-12
+SEQ gi|3980404|gb|AAC95207.1| (AC004561) putative tropinone reductas...    74  2e-12
+SEQ gi|9743327|gb|AAF97951.1|AC000103_1 (AC000103) F21J9.2 [Arabidop...    74  2e-12
+SEQ gi|7427658|pir||B65059 probable dehydrogenase (EC 1.1.1.-) b2774...    74  2e-12
+SEQ gi|2492762|sp|P76633|YGCW_ECOLI HYPOTHETICAL OXIDOREDUCTASE IN C...    74  2e-12
+SEQ gi|7431050|pir||B71935 probable short chain dehydrogenase - Heli...    74  2e-12
+SEQ gi|10174786|dbj|BAB05886.1| (AP001514) 2-deoxy-D-gluconate 3-deh...    74  2e-12
+SEQ gi|1717753|sp|P50163|TRN2_DATST TROPINONE REDUCTASE-II (TR-II) >...    74  2e-12
+SEQ gi|7862150|gb|AAF70499.1|AF255341_1 (AF255341) 3-dehydroecdysone...    74  3e-12
+SEQ gi|14486276|gb|AAK61717.1| (AY033994) ketoreductase-like protein...    74  3e-12
+SEQ gi|12723829|gb|AAK04996.1|AE006323_11 (AE006323) acetoin reducta...    74  3e-12
+SEQ gi|12518153|gb|AAG58600.1|AE005571_17 (AE005571) putative beta-k...    73  3e-12
+SEQ gi|516107|gb|AAA87616.1| (L34880) polyketide reductase [Streptom...    73  3e-12
+SEQ gi|7800663|gb|AAF70104.1|AF257324_5 (AF257324) AknA [Streptomyce...    73  3e-12
+SEQ gi|3123232|sp|P80873|GS39_BACSU GENERAL STRESS PROTEIN 39 (GSP39...    73  3e-12
+SEQ gi|3913440|sp|Q64591|DECR_RAT 2,4-DIENOYL-COA REDUCTASE, MITOCHO...    73  4e-12
+SEQ gi|3913211|sp|Q21929|CBR2_CAEEL PROBABLE CARBONYL REDUCTASE [NAD...    73  4e-12
+SEQ gi|11355756|pir||B82181 oxidoreductase, short-chain dehydrogenas...    73  5e-12
+SEQ gi|3123131|sp|O07575|YHDF_BACSU HYPOTHETICAL OXIDOREDUCTASE IN C...    73  5e-12
+SEQ gi|7431076|pir||C70885 probable dehydrogenase - Mycobacterium tu...    73  6e-12
+SEQ gi|1730037|sp|P50171|DHB8_MOUSE ESTRADIOL 17 BETA-DEHYDROGENASE ...    73  6e-12
+SEQ gi|6469463|emb|CAB61800.1| (AL133236) putative dehydrogenase [St...    73  6e-12
+SEQ gi|9587285|gb|AAF89246.1|AF284419_2 (AF284419) 3-oxoacyl-(acyl c...    72  7e-12
+SEQ gi|11351849|pir||D83416 probable short-chain dehydrogenase PA182...    72  7e-12
+SEQ gi|4097188|gb|AAD10276.1| (U47026) acetoacetyl-CoA reductase, NA...    72  8e-12
+SEQ gi|10190802|emb|CAB65876.1| (AL109630) /match=(desc:''3-OXOACYL-...    72  8e-12
+SEQ gi|1778513|gb|AAB40796.1| (U82598) 2,3-dihydro-2,3-dihydroxybenz...    72  9e-12
+SEQ gi|3182941|sp|Q29529|CBR2_PIG LUNG CARBONYL REDUCTASE [NADPH] (N...    72  9e-12
+SEQ gi|10173553|dbj|BAB04657.1| (AP001510) glucose 1-dehydrogenase [...    72  9e-12
+SEQ gi|7481404|pir||T36396 probable short chain oxidoreductase - Str...    72  1e-11
+SEQ gi|7481128|pir||T37011 probable oxidoreductase - Streptomyces co...    71  1e-11
+SEQ gi|13814774|gb|AAK41762.1| (AE006768) 3-oxoacyl-(acyl carrier pr...    71  1e-11
+SEQ gi|14346021|gb|AAK60002.1| (AY033654) ketoreductase-like protein...    71  1e-11
+SEQ gi|729331|sp|P41177|DHKR_STRCM MONENSIN POLYKETIDE SYNTHASE PUTA...    71  1e-11
+SEQ gi|119371|sp|P15047|ENTA_ECOLI 2,3-DIHYDRO-2,3-DIHYDROXYBENZOATE...    71  1e-11
+SEQ gi|6580779|gb|AAF18285.1| (AF088897) hypothetical protein; orf3 ...    71  1e-11
+SEQ gi|1072866|pir||A55208 short-chain alcohol dehydrogenase homolog...    71  1e-11
+SEQ gi|479699|pir||S35196 hypothetical protein 3 - Saccharopolyspora...    71  2e-11
+SEQ gi|11351851|pir||G83378 probable short-chain dehydrogenase PA214...    71  2e-11
+SEQ gi|10190704|ref|NP_065715.1| peroxisomal 2,4-dienoyl-CoA reducta...    71  2e-11
+SEQ gi|12007636|gb|AAG42544.1| (AY013584) putative oxidoreductase [S...    71  2e-11
+SEQ gi|5231107|gb|AAD41073.1| (AF137536) KE6 protein [Danio rerio]         71  2e-11
+SEQ gi|7473254|pir||D75472 oxidoreductase, short-chain dehydrogenase...    71  2e-11
+SEQ gi|3915276|sp|Q56632|VIBA_VIBCH VIBRIOBACTIN-SPECIFIC 2,3-DIHYDR...    71  2e-11
+SEQ gi|7431082|pir||E70881 probable fabG5 protein - Mycobacterium tu...    70  2e-11
+SEQ gi|14524339|gb|AAK65834.1| (AE007303) probable short chain [Sino...    70  2e-11
+SEQ gi|1103844|gb|AAC53573.1| (U34072) steroid dehydrogenase [Mus mu...    70  3e-11
+SEQ gi|7431070|pir||A70637 hypothetical protein Rv1941 - Mycobacteri...    70  3e-11
+SEQ gi|7481114|pir||T36060 probable oxidoreductase - Streptomyces co...    70  3e-11
+SEQ gi|11095216|gb|AAG29782.1|AF235050_5 (AF235050) CumE [Streptomyc...    70  3e-11
+SEQ gi|13473134|ref|NP_104701.1| D-beta-hydroxybutyrate dehydrogenas...    70  3e-11
+SEQ gi|12513489|gb|AAG54931.1|AE005239_6 (AE005239) 2,3-dihydro-2,3-...    70  3e-11
+SEQ gi|11250496|pir||G82644 2,5-dichloro-2,5-cyclohexadiene-1,4-diol...    70  3e-11
+SEQ gi|14523251|gb|AAK64838.1| (AE007211) putative [Sinorhizobium me...    70  4e-11
+SEQ gi|6457349|gb|AAF09487.1|AF192276_1 (AF192276) short chain alcoh...    70  4e-11
+SEQ gi|13472472|ref|NP_104039.1| 3-ketoacyl-CoA reductase PhaB [Meso...    70  4e-11
+SEQ gi|11351857|pir||G83253 probable short-chain dehydrogenase PA312...    70  4e-11
+SEQ gi|7305125|ref|NP_038571.1| H2-K region expressed gene 6 [Mus mu...    69  4e-11
+SEQ gi|632081|pir||S47054 probable dehydrogenase (EC 1.1.1.-) - Xant...    69  5e-11
+SEQ gi|6137291|sp|Q10855|YK02_MYCTU PUTATIVE OXIDOREDUCTASE RV2002 >...    69  5e-11
+SEQ gi|13470745|ref|NP_102314.1| probable short-chain dehydrogenase ...    69  6e-11
+SEQ gi|10640099|emb|CAC11951.1| (AL445065) 3-oxoacyl-[acyl-carrier-p...    69  6e-11
+SEQ gi|13471131|ref|NP_102700.1| 3-oxoacyl-acyl carrier protein redu...    69  6e-11
+SEQ gi|450261|gb|AAA53572.1| (L27825) verA [Emericella nidulans]           69  6e-11
+SEQ gi|11250512|pir||T51773 acetoacetyl-CoA reductase (EC 1.1.1.36) ...    69  6e-11
+SEQ gi|2492757|sp|Q00791|STCU_EMENI VERSICOLORIN REDUCTASE >gi|12356...    69  7e-11
+SEQ gi|8896111|gb|AAF81239.1| (AF263012) putative beta-ketoacyl redu...    69  7e-11
+SEQ gi|13881725|gb|AAK46335.1| (AE007057) oxidoreductase, short-chai...    69  7e-11
+SEQ gi|747686|dbj|BAA03128.1| (D14040) ketoacyl reductase [Streptomy...    69  7e-11
+SEQ gi|14521852|ref|NP_127328.1| 3-OXOACYL-[ACYL-CARRIER-PROTEIN] RE...    69  8e-11
+SEQ gi|13475600|ref|NP_107167.1| oxidoreductase, short chain dehydro...    69  8e-11
+SEQ gi|7431054|pir||T03549 probable n-acylmannosamine 1-dehydrogenas...    69  8e-11
+SEQ gi|3387794|gb|AAC38801.1| (AF030176) putative short-chain dehydr...    68  1e-10
+SEQ gi|7473257|pir||G75591 oxidoreductase, short-chain dehydrogenase...    68  1e-10
+SEQ gi|8977936|emb|CAB95803.1| (AL359949) putative short chain oxido...    68  1e-10
+SEQ gi|2880044|gb|AAC02738.1| (AC002340) putative tropinone reductas...    68  1e-10
+SEQ gi|7480593|pir||T36846 probable dehydrogenase - Streptomyces coe...    68  1e-10
+SEQ gi|7431023|pir||T15987 hypothetical protein F09E10.3 - Caenorhab...    68  1e-10
+SEQ gi|11250857|pir||H81052 3-oxoacyl-(acyl-carrier-protein) reducta...    68  1e-10
+SEQ gi|11991869|gb|AAG42369.1|AF294440_1 (AF294440) ketoacyl reducta...    68  1e-10
+SEQ gi|13816534|gb|AAK43217.1| (AE006901) 3-oxoacyl-(acyl carrier pr...    68  2e-10
+SEQ gi|510725|gb|AAB36565.1| (AF126429) ketoreductase [Streptomyces ...    68  2e-10
+SEQ gi|7431073|pir||E70604 hypothetical protein Rv3559c - Mycobacter...    68  2e-10
+SEQ gi|11559416|dbj|BAB18777.1| (AB045133) NADPH-dependent retinol d...    68  2e-10
+SEQ gi|7705925|ref|NP_057370.1| carbonyl reductase [Homo sapiens] >g...    68  2e-10
+SEQ gi|12804319|gb|AAH03018.1|AAH03018 (BC003018) Unknown (protein f...    68  2e-10
+SEQ gi|13474370|ref|NP_105938.1| 3-oxoacyl-(acyl carrier protein) re...    67  2e-10
+SEQ gi|14041699|emb|CAC38443.1| (AL031228) dJ1033B10.9.2 (FabG (beta...    67  2e-10
+SEQ gi|10173682|dbj|BAB04786.1| (AP001510) D-mannonate oxidoreductas...    67  3e-10
+SEQ gi|3915581|sp|Q22230|YVX3_CAEEL HYPOTHETICAL OXIDOREDUCTASE T05C...    67  3e-10
+SEQ gi|13475326|ref|NP_106890.1| PROBABLE SHORT-CHAIN TYPE DEHYDROGE...    67  3e-10
+SEQ gi|2506150|sp|P50161|VER1_ASPPA VERSICOLORIN REDUCTASE (VER-1) >...    67  3e-10
+SEQ gi|2492766|sp|P55541|Y4LA_RHISN PUTATIVE SHORT-CHAIN TYPE DEHYDR...    67  3e-10
+SEQ gi|416729|sp|Q04520|BUDC_KLETE ACETOIN(DIACETYL) REDUCTASE (ACET...    67  3e-10
+SEQ gi|13475603|ref|NP_107170.1| 3-ketoacyl-CoA reductase [Mesorhizo...    67  3e-10
+SEQ gi|12643402|sp|Q92506|DHB8_HUMAN ESTRADIOL 17 BETA-DEHYDROGENASE...    67  3e-10
+SEQ gi|13424728|gb|AAK25038.1| (AE005971) oxidoreductase, short-chai...    66  4e-10
+SEQ gi|98747|pir||A42468 7alpha-hydroxysteroid dehydrogenase (EC 1.1...    66  4e-10
+SEQ gi|7431028|pir||G72482 probable 3-oxoacyl-[acyl-carrier protein]...    66  4e-10
+SEQ gi|7431072|pir||F70677 hypothetical protein Rv3549c - Mycobacter...    66  4e-10
+SEQ gi|7296705|gb|AAF51984.1| (AE003602) CG12171 gene product [Droso...    66  5e-10
+SEQ gi|13541279|ref|NP_110967.1| Predicted dehydrogenase (short-chai...    66  5e-10
+SEQ gi|2708725|emb|CAA74346.1| (Y14023) oxidoreductase [Staphylococc...    66  5e-10
+SEQ gi|6683479|dbj|BAA89230.1| (AB018559) wts2L [Citrullus lanatus]        66  5e-10
+SEQ gi|7431089|pir||T02176 hypothetical protein F14M4.5 - Arabidopsi...    66  5e-10
+SEQ gi|11351866|pir||F83134 probable short-chain dehydrogenase PA408...    66  5e-10
+SEQ gi|1799845|dbj|BAA16300.1| (D90871) similar to [SwissProt Access...    66  6e-10
+SEQ gi|13474006|ref|NP_105574.1| oxidoreductase [Mesorhizobium loti]...    66  6e-10
+SEQ gi|6066641|emb|CAB58301.1| (AL121854) putative oxidoreductase [S...    66  6e-10
+SEQ gi|6324126|ref|NP_014197.1| peroxisomal 2,4-dienoyl-CoA reductas...    66  7e-10
+SEQ gi|3980402|gb|AAC95205.1| (AC004561) putative tropinone reductas...    66  7e-10
+SEQ gi|11351874|pir||C83001 probable short-chain dehydrogenase PA515...    66  7e-10
+SEQ gi|2306819|gb|AAB65780.1| (AF002014) acetoacetyl-CoA reductase [...    66  7e-10
+SEQ gi|13472822|ref|NP_104389.1| short-chain dehydrogenase [Mesorhiz...    66  7e-10
+SEQ gi|13541542|ref|NP_111230.1| 3-oxoacyl-[acyl-carrier-protein] re...    65  8e-10
+SEQ gi|1175075|sp|P44481|Y048_HAEIN PUTATIVE OXIDOREDUCTASE HI0048 >...    65  8e-10
+SEQ gi|5932382|gb|AAD56935.1|AF180145_27 (AF180145) 3-oxoacyl-(acyl ...    65  8e-10
+SEQ gi|9944998|gb|AAG03071.1|AF293355_7 (AF293355) putative reductas...    65  8e-10
+SEQ gi|5508836|gb|AAD44003.1| (U59485) AtsC [Agrobacterium tumefaciens]    65  8e-10
+SEQ gi|113252|sp|P16544|ACT3_STRCO PUTATIVE KETOACYL REDUCTASE >gi|8...    65  1e-09
+SEQ gi|13473534|ref|NP_105102.1| short-chain dehydrogenase [Mesorhiz...    65  1e-09
+SEQ gi|8977935|emb|CAB95802.1| (AL359949) putative short chain oxido...    65  1e-09
+SEQ gi|13474798|ref|NP_106368.1| SHORT-CHAIN TYPE DEHYDROGENASE/REDU...    65  1e-09
+SEQ gi|14523471|gb|AAK65040.1| (AE007229) putative [Sinorhizobium me...    65  1e-09
+SEQ gi|462053|sp||FABG_BRANA_4 [Segment 4 of 4] 3-OXOACYL-[ACYL-CARR...    64  1e-09
+SEQ gi|7678738|dbj|BAA95121.1| (AB042262) levodione reductase [Leifs...    64  1e-09
+SEQ gi|4503301|ref|NP_001350.1| 2,4-dienoyl CoA reductase 1 precurso...    64  1e-09
+SEQ gi|10337605|ref|NP_066284.1| peroxisomal short-chain alcohol deh...    64  2e-09
+SEQ gi|11559412|dbj|BAB18775.1| (AB045131) NADPH-dependent retinol d...    64  2e-09
+SEQ gi|12804321|gb|AAH03019.1|AAH03019 (BC003019) peroxisomal short-...    64  2e-09
+SEQ gi|6522855|emb|CAB61936.1| (AL133278) putative dehydrogenase/red...    64  2e-09
+SEQ gi|13475446|ref|NP_107010.1| toluenesulfonate zinc-independent a...    64  2e-09
+SEQ gi|7295487|gb|AAF50801.1| (AE003567) CG10672 gene product [Droso...    64  2e-09
+SEQ gi|13470596|ref|NP_102165.1| probable oxidoreductase [Mesorhizob...    64  2e-09
+SEQ gi|7431088|pir||T02175 hypothetical protein F14M4.4 - Arabidopsi...    64  3e-09
+SEQ gi|6831715|sp|Q9WYG0|Y325_THEMA HYPOTHETICAL OXIDOREDUCTASE TM03...    64  3e-09
+SEQ gi|13477064|ref|NP_108635.1| 3-ketoacyl-acyl carrier protein red...    64  3e-09
+SEQ gi|12841287|dbj|BAB25146.1| (AK007627) putative [Mus musculus]         63  3e-09
+SEQ gi|7658344|gb|AAF66134.1| (AC068073) unknown protein; 15741-1397...    63  3e-09
+SEQ gi|7431043|pir||D72285 3-oxoacyl-(acyl carrier protein) reductas...    63  3e-09
+SEQ gi|4105269|gb|AAD02333.1| (AF044574) putative peroxisomal 2,4-di...    63  3e-09
+SEQ gi|11351838|pir||C83622 probable short-chain dehydrogenase PA018...    63  3e-09
+SEQ gi|7688716|gb|AAF67503.1|AF170880_10 (AF170880) NovJ [Streptomyc...    63  3e-09
+SEQ gi|1708836|sp|P50198|LINX_PSEPA 2,5-DICHLORO-2,5-CYCLOHEXADIENE-...    63  4e-09
+SEQ gi|7023407|dbj|BAA91953.1| (AK001870) unnamed protein product [H...    63  5e-09
+SEQ gi|9622534|gb|AAF89839.1|AF173961_5 (AF173961) BbsD [Thauera aro...    63  5e-09
+SEQ gi|1723284|sp|Q10216|YAY8_SCHPO HYPOTHETICAL OXIDOREDUCTASE C4H3...    63  5e-09
+SEQ gi|14334840|gb|AAK59598.1| (AY035093) putative tropinone reducta...    63  5e-09
+SEQ gi|12724810|gb|AAK05884.1|AE006408_8 (AE006408) 3-oxoacyl-acyl c...    63  5e-09
+SEQ gi|10174127|dbj|BAB05229.1| (AP001512) oxidoreductase (short cha...    63  5e-09
+SEQ gi|13423085|gb|AAK23653.1| (AE005842) 3-oxoacyl-(acyl-carrier-pr...    63  5e-09
+SEQ gi|13386260|ref|NP_082066.1| RIKEN cDNA 5430405K24 gene [Mus mus...    63  6e-09
+SEQ gi|10640036|emb|CAC11888.1| (AL445065) glucose 1-dehydrogenase r...    63  6e-09
+SEQ gi|6753622|ref|NP_036063.1| 2-4-dienoyl-Coenzyme A reductase 2, ...    63  6e-09
+SEQ gi|2492767|sp|P55575|Y4MP_RHISN PUTATIVE SHORT-CHAIN TYPE DEHYDR...    63  6e-09
+SEQ gi|11124565|emb|CAC14939.1| (AL449216) putative oxidoreductase [...    63  6e-09
+SEQ gi|7296706|gb|AAF51985.1| (AE003602) CG11005 gene product [Droso...    63  6e-09
+SEQ gi|3598861|gb|AAC35342.1| (AF072449) short-chain alcohol dehydro...    62  7e-09
+SEQ gi|11096248|gb|AAG30255.1|AF307334_1 (AF307334) NADPH-dependent ...    62  7e-09
+SEQ gi|13752458|gb|AAK38665.1| (AF352735) stem secoisolariciresinol ...    62  7e-09
+SEQ gi|4139123|gb|AAD03695.1| (AF090422) surface sperm protein P26h ...    62  7e-09
+SEQ gi|13475720|ref|NP_107287.1| probable short-chain dehydrogenase ...    62  8e-09
+SEQ gi|11250510|pir||T51764 probable 2-hydroxycyclohexanecarboxyl-Co...    62  8e-09
+SEQ gi|1730535|sp|P50203|PHAB_ACISP ACETOACETYL-COA REDUCTASE >gi|57...    62  8e-09
+SEQ gi|7798700|gb|AAF69799.1|AF232010_1 (AF232010) peroxisomal trans...    62  8e-09
+SEQ gi|2058476|gb|AAC48769.1| (U71200) acetoin reductase [Bos taurus]      62  8e-09
+SEQ gi|10173547|dbj|BAB04651.1| (AP001510) 3-oxoacyl-(acyl-carrier p...    62  8e-09
+SEQ gi|13472702|ref|NP_104269.1| hypothetical protein, contains simi...    62  9e-09
+SEQ gi|1169301|sp|P39071|DHBA_BACSU 2,3-DIHYDRO-2,3-DIHYDROXYBENZOAT...    62  9e-09
+SEQ gi|13364479|dbj|BAB38426.1| (AP002567) putative sorbitol-6-phosp...    62  9e-09
+SEQ gi|13421197|gb|AAK22081.1| (AE005684) 2,5-dichloro-2,5-cyclohexa...    62  9e-09
+SEQ gi|13385924|ref|NP_080704.1| RIKEN cDNA 1810027P18 gene [Mus mus...    62  9e-09
+SEQ gi|14523162|gb|AAK64756.1| (AE007204) putative oxidoreductase [S...    62  1e-08
+SEQ gi|12723714|gb|AAK04892.1|AE006312_12 (AE006312) oxidoreductase ...    62  1e-08
+SEQ gi|11351869|pir||G83126 probable short-chain dehydrogenase PA416...    61  1e-08
+SEQ gi|4115722|dbj|BAA36503.1| (AB015743) 1,3,8-trihydroxynaphthalen...    61  1e-08
+SEQ gi|5881925|emb|CAB55718.1| (AL117387) probable oxidoreductase [S...    61  1e-08
+SEQ gi|10174128|dbj|BAB05230.1| (AP001512) oxidoreductase (short cha...    61  1e-08
+SEQ gi|7480597|pir||T35342 probable dehydrogenase/reductase - Strept...    61  1e-08
+SEQ gi|13475716|ref|NP_107283.1| oxidoreductase, short-chain dehydro...    61  1e-08
+SEQ gi|2228232|gb|AAB62297.1| (U24215) p-cumic alcohol dehydrogenase...    61  1e-08
+SEQ gi|122804|sp|P25529|HDHA_ECOLI 7-ALPHA-HYDROXYSTEROID DEHYDROGEN...    61  1e-08
+SEQ gi|13472489|ref|NP_104056.1| 3-hydroxyacyl-CoA dehydrogenase typ...    61  1e-08
+SEQ gi|13475902|ref|NP_107472.1| probable oxidoreductase [Mesorhizob...    61  1e-08
+SEQ gi|10180203|gb|AAG13989.1|AF006680_1 (AF006680) isoepoxydon dehy...    61  1e-08
+SEQ gi|1076100|pir||D55587 griseusin polyketide ketoreductase (EC 1....    61  1e-08
+SEQ gi|13425092|gb|AAK25346.1| (AE005999) D-beta-hydroxybutyrate deh...    61  1e-08
+SEQ gi|13472188|ref|NP_103755.1| beta-hydroxybutyrate dehydrogenase ...    61  2e-08
+SEQ gi|1575000|gb|AAB09423.1| (U49352) 2,4-dienoyl-CoA reductase [Ho...    61  2e-08
+SEQ gi|10956961|ref|NP_049181.1| dihydroxy cyclohexadiene carboxylat...    61  2e-08
+SEQ gi|3598857|gb|AAC35340.1| (AF072447) short-chain alcohol dehydro...    61  2e-08
+SEQ gi|2506155|sp|P25887|YGHA_ECOLI HYPOTHETICAL OXIDOREDUCTASE IN H...    61  2e-08
+SEQ gi|11250854|pir||H81393 probable oxidoreductase Cj0485 [imported...    61  2e-08
+SEQ gi|9965291|gb|AAG10026.1|AF282240_10 (AF282240) cyclohexanol deh...    61  2e-08
+SEQ gi|3598859|gb|AAC35341.1| (AF072448) short-chain alcohol dehydro...    61  2e-08
+SEQ gi|3598863|gb|AAC35343.1| (AF072450) short-chain alcohol dehydro...    61  2e-08
+SEQ gi|10173321|dbj|BAB04426.1| (AP001509) D-mannonate oxidoreductas...    61  2e-08
+SEQ gi|2760604|dbj|BAA24225.1| (AB001564) Brn1 [Cochliobolus heteros...    61  2e-08
+SEQ gi|553143|gb|AAA62403.1| (M90351) SPX19 [Saccharomyces cerevisiae]     60  3e-08
+SEQ gi|13476455|ref|NP_108025.1| probable oxidoreductase [Mesorhizob...    60  3e-08
+SEQ gi|14249446|ref|NP_116172.1| hypothetical protein FLJ14431 [Homo...    60  3e-08
+SEQ gi|7431022|pir||T06212 glucose and ribitol dehydrogenase homolog...    60  4e-08
+SEQ gi|13473975|ref|NP_105543.1| short chain dehydrogenase/reductase...    60  4e-08
+SEQ gi|12514398|gb|AAG55648.1|AE005303_4 (AE005303) putative oxidore...    60  4e-08
+SEQ gi|14548232|sp|Q9RPT1|RHLG_PSEAE RHAMNOLIPIDS BIOSYNTHESIS 3-OXO...    60  4e-08
+SEQ gi|38683|emb|CAA37101.1| (X52913) nodG protein (AA 1-254) [Azosp...    60  4e-08
+SEQ gi|10175011|dbj|BAB06110.1| (AP001515) 3-oxoacyl-[acyl carrier p...    59  4e-08
+SEQ gi|8100068|dbj|BAA96298.1| (AB035548) Orf4 [Streptomyces virginiae]    59  4e-08
+SEQ gi|11351847|pir||F83440 probable short-chain dehydrogenase PA164...    59  4e-08
+SEQ gi|7431057|pir||S75500 short-chain alcohol dehydrogenase-related...    59  5e-08
+SEQ gi|12518960|gb|AAG59219.1|AE005634_9 (AE005634) D-glucitol-6-pho...    59  5e-08
+SEQ gi|3425973|dbj|BAA32370.1| (AB011651) Brn1 [Bipolaris papendorfii]     59  5e-08
+SEQ gi|9967599|emb|CAC05675.1| (Y19177) putative keto reductase [Str...    59  5e-08
+SEQ gi|6685134|gb|AAF23805.1|AF213822_20 (AF213822) oxidoreductase [...    59  5e-08
+SEQ gi|13648154|ref|XP_007944.2| peroxisomal 2,4-dienoyl-CoA reducta...    59  5e-08
+SEQ gi|11250849|pir||T47354 alcohol dehydrogenase (ATA1) - Arabidops...    59  5e-08
+SEQ gi|487893|gb|AAA19620.1| (L26338) ORF5 [Streptomyces roseofulvus...    59  6e-08
+SEQ gi|13474375|ref|NP_105943.1| beta-hydroxybutyrate dehydrogenase ...    59  6e-08
+SEQ gi|13124274|sp|O18404|HCD2_DROME 3-HYDROXYACYL-COA DEHYDROGENASE...    59  6e-08
+SEQ gi|7480590|pir||T36264 probable dehydrogenase - Streptomyces coe...    59  7e-08
+SEQ gi|3831418|sp|Q93761|YXEK_CAEEL HYPOTHETICAL OXIDOREDUCTASE F53C...    59  7e-08
+SEQ gi|3334821|emb|CAA07756.1| (AJ007932) ketoreductase [Streptomyce...    59  8e-08
+SEQ gi|11493842|gb|AAG35667.1|AF205928_1 (AF205928) putative dihydro...    59  8e-08
+SEQ gi|10173414|dbj|BAB04519.1| (AP001509) dehydrogenase/reductase f...    59  8e-08
+SEQ gi|1731675|gb|AAC44655.1| (U72144) 1-cyclohexenylcarbonyl CoA re...    59  8e-08
+SEQ gi|4210942|gb|AAD12052.1| (AF069518) 17beta-hydroxysteroid dehyd...    59  8e-08
+SEQ gi|9989042|gb|AAG10805.1|AC022284_10 (AC022284) L3377.10 [Leishm...    59  9e-08
+SEQ gi|11351863|pir||E83207 probable short-chain dehydrogenase PA351...    59  9e-08
+SEQ gi|11559414|dbj|BAB18776.1| (AB045132) NADPH-dependent retinol d...    59  9e-08
+SEQ gi|13097510|gb|AAH03484.1|AAH03484 (BC003484) Similar to peroxis...    58  1e-07
+SEQ gi|13476378|ref|NP_107948.1| 3-oxoacyl-(acyl carrier protein) re...    58  1e-07
+SEQ gi|13472727|ref|NP_104294.1| dehydrogenase, (2,5-dichloro-2,5-cy...    58  1e-07
+SEQ gi|13549123|gb|AAK29646.1|AF349916_1 (AF349916) putative short-c...    58  1e-07
+SEQ gi|3425989|dbj|BAA32378.1| (AB011659) Brn1 [Curvularia intermedia]     58  2e-07
+SEQ gi|10178029|dbj|BAB11512.1| (AB005245) gene_id:MUG13.25~pir||T07...    58  2e-07
+SEQ gi|141397|sp|P14802|YOXD_BACSU HYPOTHETICAL OXIDOREDUCTASE IN RT...    58  2e-07
+SEQ gi|14289341|gb|AAK58906.1|AF279141_4 (AF279141) cis-diol dehydro...    58  2e-07
+SEQ gi|12745775|gb|AAK07185.1|AF317668_1 (AF317668) reductase [Ophio...    58  2e-07
+SEQ gi|3425953|dbj|BAA32360.1| (AB011641) Brn1 [Bipolaris coicis]          58  2e-07
+SEQ gi|8052376|emb|CAB92206.1| (AL356592) putative oxidoreductase. [...    58  2e-07
+SEQ gi|10174460|dbj|BAB05561.1| (AP001513) 3-oxoacyl-(acyl-carrier p...    58  2e-07
+SEQ gi|14520480|ref|NP_125955.1| PUTATIVE SHORT-CHAIN DEHYDROGENASE/...    58  2e-07
+SEQ gi|3425961|dbj|BAA32364.1| (AB011645) Brn1 [Bipolaris heveae]          58  2e-07
+SEQ gi|13471869|ref|NP_103436.1| probable short chain dehydrogenase ...    58  2e-07
+SEQ gi|6690419|gb|AAF24130.1|AF129168_3 (AF129168) D-sorbitol-6-phos...    58  2e-07
+SEQ gi|13940319|emb|CAC37883.1| (AL591083) putative oxidoreductase [...    57  2e-07
+SEQ gi|3425947|dbj|BAA32357.1| (AB011638) Brn1 [Cochliobolus austral...    57  2e-07
+SEQ gi|13540906|ref|NP_110594.1| Predicted dehydrogenase (short-chai...    57  2e-07
+SEQ gi|7431010|pir||T02257 probable short chain alcohol dehydrogenas...    57  2e-07
+SEQ gi|1616920|dbj|BAA11529.1| (D82061) a member of the short-chain ...    57  2e-07
+SEQ gi|7290108|gb|AAF45573.1| (AE003419) EG:BACR7A4.14 gene product ...    57  3e-07
+SEQ gi|10639958|emb|CAC11810.1| (AL445065) polyketide synthase chain...    57  3e-07
+SEQ gi|3025238|sp|Q49117|YMEC_METEX HYPOTHETICAL OXIDOREDUCTASE IN M...    57  3e-07
+SEQ gi|6759585|emb|CAB69778.1| (AL137187) putative dehydrogenase [St...    57  3e-07
+SEQ gi|1176980|sp|P46331|YXBG_BACSU HYPOTHETICAL OXIDOREDUCTASE IN H...    57  3e-07
+SEQ gi|3425981|dbj|BAA32374.1| (AB011655) Brn1 [Bipolaris spicifera]       57  3e-07
+SEQ gi|3123308|sp|P40398|YHXD_BACSU HYPOTHETICAL OXIDOREDUCTASE IN C...    57  3e-07
+SEQ gi|1293690|gb|AAB42054.1| (U53828) STA1-12 [Silene latifolia sub...    57  3e-07
+SEQ gi|3425971|dbj|BAA32369.1| (AB011650) Brn1 [Bipolaris panici-mil...    57  3e-07
+SEQ gi|7431078|pir||G70583 probable dehydrogenase - Mycobacterium tu...    57  3e-07
+SEQ gi|3425959|dbj|BAA32363.1| (AB011644) Brn1 [Cochliobolus hawaiie...    57  4e-07
+SEQ gi|3425979|dbj|BAA32373.1| (AB011654) Brn1 [Bipolaris stenospila]      56  4e-07
+SEQ gi|14333986|gb|AAK60499.1| (AF285781) hydroxynaphthalene reducta...    56  4e-07
+SEQ gi|7839576|gb|AAF70332.1|AF260581_3 (AF260581) 2,5 dichloro-2,5 ...    56  4e-07
+SEQ gi|3183024|sp|O02691|HCD2_BOVIN 3-HYDROXYACYL-COA DEHYDROGENASE ...    56  4e-07
+SEQ gi|3425951|dbj|BAA32359.1| (AB011640) Brn1 [Bipolaris chloridis]       56  4e-07
+SEQ gi|13424475|gb|AAK24825.1| (AE005951) oxidoreductase, short-chai...    56  4e-07
+SEQ gi|629670|pir||S39508 alcohol dehydrogenase homolog, ripening-re...    56  4e-07
+SEQ gi|14523084|gb|AAK64685.1| (AE007197) putative [Sinorhizobium me...    56  4e-07
+SEQ gi|13472033|ref|NP_103600.1| probable short chain oxidoreductase...    56  5e-07
+SEQ gi|11250528|pir||T50942 DitB protein [imported] - Pseudomonas ab...    56  5e-07
+SEQ gi|6633844|gb|AAF19703.1|AC008047_10 (AC008047) F2K11.24 [Arabid...    56  5e-07
+SEQ gi|7431005|pir||C71204 probable dehydrogenase - Pyrococcus horik...    56  5e-07
+SEQ gi|8926189|gb|AAF81727.1| (AF254925) putative ketoreductase EncD...    56  5e-07
+SEQ gi|13816394|gb|AAK43107.1| (AE006891) 3-oxoacyl-(acyl carrier pr...    56  6e-07
+SEQ gi|7431004|pir||C70814 hypothetical protein Rv0851c - Mycobacter...    56  6e-07
+SEQ gi|13880423|gb|AAK45115.1| (AE006975) oxidoreductase, short-chai...    56  6e-07
+SEQ gi|3425949|dbj|BAA32358.1| (AB011639) Brn1 [Bipolaris bicolor] >...    56  6e-07
+SEQ gi|1073041|pir||E55217 cis-1,2-dihydro-1,2-dihydroxynaphthalene ...    56  6e-07
+SEQ gi|4902875|emb|CAB43598.1| (AJ242575) dehydrogenase enzyme putat...    56  6e-07
+SEQ gi|14523918|gb|AAK65450.1| (AE007266) Probable [Sinorhizobium me...    56  6e-07
+SEQ gi|7770119|gb|AAF69595.1|AF119917_3 (AF119841) PRO1004 [Homo sap...    56  7e-07
+SEQ gi|14210648|gb|AAK55494.1| (AY033621) putative short-chain dehyd...    56  7e-07
+SEQ gi|3425955|dbj|BAA32361.1| (AB011642) Brn1 [Bipolaris cookei]          56  7e-07
+SEQ gi|11351868|pir||F83127 probable short-chain dehydrogenase PA414...    56  7e-07
+SEQ gi|14574141|gb|AAK68350.1|U49829_6 (U49829) Hypothetical protein...    56  7e-07
+SEQ gi|13423242|gb|AAK23784.1| (AE005855) oxidoreductase, short-chai...    56  7e-07
+SEQ gi|7481861|pir||T30224 3-oxoacyl-(acyl carrier protein) reductas...    56  8e-07
+SEQ gi|3425977|dbj|BAA32372.1| (AB011653) Brn1 [Bipolaris sorokinian...    56  8e-07
+SEQ gi|14210658|gb|AAK55499.1| (AY033626) putative short-chain dehyd...    56  8e-07
+SEQ gi|7504219|pir||T22676 hypothetical protein F54F3.4 - Caenorhabd...    56  8e-07
+SEQ gi|3425997|dbj|BAA32382.1| (AB011663) Brn1 [Bipolaris sp. 4]           55  8e-07
+SEQ gi|14523888|gb|AAK65423.1| (AE007263) Putative [Sinorhizobium me...    55  8e-07
+SEQ gi|9279666|dbj|BAB01223.1| (AB016889) alcohol dehydrogenase-like...    55  9e-07
+SEQ gi|13421377|gb|AAK22233.1| (AE005698) 2,5-dichloro-2,5-cyclohexa...    55  9e-07
+SEQ gi|1731078|sp|P54554|YQJQ_BACSU HYPOTHETICAL OXIDOREDUCTASE IN A...    55  1e-06
+SEQ gi|3425969|dbj|BAA32368.1| (AB011649) Brn1 [Bipolaris leersiae]        55  1e-06
+SEQ gi|11351862|pir||A83207 probable short-chain dehydrogenase PA350...    55  1e-06
+SEQ gi|548951|sp|P37079|SORD_KLEPN SORBITOL-6-PHOSPHATE 2-DEHYDROGEN...    55  1e-06
+SEQ gi|13122145|emb|CAC32323.1| (AL583944) putative oxidoreductase [...    55  1e-06
+SEQ gi|609548|gb|AAC15079.1| (L37087) oxidoreductase [Nostoc sp.]          55  1e-06
+SEQ gi|5454203|gb|AAD43618.1|AC005698_17 (AC005698) T3P18.17 [Arabid...    55  1e-06
+SEQ gi|7301303|gb|AAF56432.1| (AE003751) CG10425 gene product [Droso...    54  1e-06
+SEQ gi|12620596|gb|AAG60872.1|AF322012_177 (AF322013) ID403 [Bradyrh...    54  2e-06
+SEQ gi|11351860|pir||B83231 probable short-chain dehydrogenase PA332...    54  2e-06
+SEQ gi|1177019|sp|P42317|YXJF_BACSU HYPOTHETICAL OXIDOREDUCTASE IN P...    54  2e-06
+SEQ gi|477384|pir||A48950 aflatoxin biosynthesis protein Ver-1 - Asp...    54  2e-06
+SEQ gi|3425957|dbj|BAA32362.1| (AB011643) Brn1 [Cochliobolus cynodon...    54  2e-06
+SEQ gi|13474166|ref|NP_105734.1| oxidoreductase, short chain dehydro...    54  2e-06
+SEQ gi|12323116|gb|AAG51536.1|AC037424_1 (AC037424) short chain alco...    54  2e-06
+SEQ gi|421256|pir||S34724 probable oxidoreductase (EC 1.1.1.-) - Ser...    54  2e-06
+SEQ gi|7321271|emb|CAB82049.1| (AL161803) putative short chain dehyd...    54  2e-06
+SEQ gi|5359484|gb|AAD42688.1|AF037323_1 (AF037323) D-beta-hydroxybut...    54  2e-06
+SEQ gi|11351875|pir||H82956 probable short-chain dehydrogenase PA552...    54  3e-06
+SEQ gi|114918|sp|P07772|BEND_ACICA CIS-1,2-DIHYDROXYCYCLOHEXA-3,5-DI...    54  3e-06
+SEQ gi|9293918|dbj|BAB01821.1| (AB026657) alcohol dehydrogenase-like...    53  3e-06
+SEQ gi|11250877|pir||H81284 probable enoyl-[acyl-carrier-protein] re...    53  3e-06
+SEQ gi|6066626|emb|CAB58271.1| (AL121849) putative dehydrogenase [St...    53  3e-06
+SEQ gi|11347254|pir||JC7291 3alpha-hydroxysteroid dehydrogenase (B-s...    53  3e-06
+SEQ gi|540977|pir||JN0829 3alpha-hydroxysteroid dehydrogenase (B-spe...    53  3e-06
+SEQ gi|7387557|sp|O86034|BDHA_RHIME D-BETA-HYDROXYBUTYRATE DEHYDROGE...    53  3e-06
+SEQ gi|7511337|pir||T28018 hypothetical protein ZK829.1 - Caenorhabd...    53  3e-06
+SEQ gi|3425967|dbj|BAA32367.1| (AB011648) Brn1 [Bipolaris nodulosa]        53  3e-06
+SEQ gi|3425963|dbj|BAA32365.1| (AB011646) Brn1 [Bipolaris kusanoi]         53  4e-06
+SEQ gi|7295621|gb|AAF50929.1| (AE003573) CG13356 gene product [Droso...    53  4e-06
+SEQ gi|9931352|gb|AAG02162.1|AF212041_18 (AF212041) ribitol dehydrog...    53  4e-06
+SEQ gi|9857515|gb|AAG00870.1|AC064840_1 (AC064840) Highly similar to...    53  4e-06
+SEQ gi|2337820|emb|CAA74250.1| (Y13937) putative FabG protein [Bacil...    53  4e-06
+SEQ gi|11347283|pir||E83396 3-hydroxybutyrate dehydrogenase PA2003 [...    53  4e-06
+SEQ gi|9622153|gb|AAF89645.1|AF169018_1 (AF169018) seed maturation p...    53  4e-06
+SEQ gi|2501781|gb|AAC49835.1| (U76501) alcohol dehydrogenase [Arabid...    53  4e-06
+SEQ gi|7500689|pir||T32002 hypothetical protein F36H9.3 - Caenorhabd...    53  5e-06
+SEQ gi|5912509|emb|CAB56135.1| (AL117669) putative short chain oxido...    53  5e-06
+SEQ gi|1902911|dbj|BAA18962.1| (D83988) reductase [Colletotrichum la...    53  5e-06
+SEQ gi|11994422|dbj|BAB02424.1| (AB024033) oxidoreductase, short-cha...    53  5e-06
+SEQ gi|4056667|gb|AAC98135.1| (AF098273) D-mannonate oxidoreductase ...    53  5e-06
+SEQ gi|5830487|emb|CAB54559.1| (AJ006869) carveol dehydrogenase [Rho...    53  5e-06
+SEQ gi|4240408|gb|AAD13539.1| (AF080235) reductase homolog [Streptom...    52  5e-06
+SEQ gi|11351865|pir||E83152 probable short-chain dehydrogenase PA395...    52  5e-06
+SEQ gi|7431059|pir||D69848 3-oxoacyl- acyl-carrier protein reductase...    52  6e-06
+SEQ gi|281449|pir||A41768 orf 5' to uraA - Myxococcus xanthus              52  6e-06
+SEQ gi|4758504|ref|NP_004484.1| hydroxyacyl-Coenzyme A dehydrogenase...    52  7e-06
+SEQ gi|11250534|pir||T49258 dehydrogenase-like protein - Arabidopsis...    52  7e-06
+SEQ gi|13814213|gb|AAK41293.1| (AE006722) 3-oxoacyl-(acyl carrier pr...    52  7e-06
+SEQ gi|12667039|emb|CAC28154.1| (AJ278289) putative alcohol dehydrog...    52  7e-06
+SEQ gi|12322163|gb|AAG51119.1|AC069144_16 (AC069144) dormancy relate...    52  7e-06
+SEQ gi|13183738|gb|AAK15329.1|AF332547_6 (AF332547) unknown [Pseudom...    52  7e-06
+SEQ gi|7110141|gb|AAF36807.1| (AF155139) unknown protein [Paenibacil...    52  7e-06
+SEQ gi|5732060|gb|AAD48959.1|AF147263_1 (AF147263) contains similari...    52  8e-06
+SEQ gi|585252|sp|P37694|HETN_ANASP KETOACYL REDUCTASE HETN >gi|10756...    52  8e-06
+SEQ gi|13815576|gb|AAK42438.1| (AE006831) 3-oxoacyl-(acyl carrier pr...    52  8e-06
+SEQ gi|14523094|gb|AAK64694.1| (AE007198) putative [Sinorhizobium me...    52  9e-06
+SEQ gi|7427653|pir||H70046 probable 3-oxoacyl-[acyl-carrier-protein]...    52  9e-06
+SEQ gi|6759572|emb|CAB69765.1| (AL137187) putative dehydrogenase/red...    52  9e-06
+SEQ gi|11351852|pir||H83326 probable short-chain dehydrogenase PA255...    52  1e-05
+SEQ gi|9757356|emb|CAC02923.1| (AL390114) probable toluenesulfonate ...    52  1e-05
+SEQ gi|5932369|gb|AAD56922.1|AF180145_14 (AF180145) beta-hydroxyster...    52  1e-05
+SEQ gi|6729036|gb|AAF27032.1|AC009177_22 (AC009177) putative glucose...    52  1e-05
+SEQ gi|7431038|pir||T11638 3-oxoacyl-[acyl-carrier-protein] reductas...    52  1e-05
+SEQ gi|13701080|dbj|BAB42375.1| (AP003133) ORFID:SA1123~hypothetical...    52  1e-05
+SEQ gi|12382753|gb|AAG53392.1|AF320638_1 (AF320638) cys-dihydrodiol ...    52  1e-05
+SEQ gi|80302|pir||S01270 hypothetical protein 1 - Bacillus subtilis ...    52  1e-05
+SEQ gi|7498452|pir||T20484 hypothetical protein F01G4.2 - Caenorhabd...    52  1e-05
+SEQ gi|7430994|pir||T07698 short-chain alcohol dehydrogenase homolog...    52  1e-05
+SEQ gi|548439|sp|Q03326|OXIR_STRAT PROBABLE OXIDOREDUCTASE >gi|42163...    52  1e-05
+SEQ gi|2582659|emb|CAA05517.1| (AJ002527) glucitol-6-phosphate dehyd...    52  1e-05
+SEQ gi|4104755|gb|AAD02138.1| (AF039533) cis-dihydrodiol naphthalene...    52  1e-05
+SEQ gi|13423576|gb|AAK24064.1| (AE005882) 3-oxoacyl-(acyl-carrier-pr...    51  1e-05
+SEQ gi|12724538|gb|AAK05636.1|AE006384_11 (AE006384) oxidoreductase ...    51  1e-05
+SEQ gi|7431058|pir||H69852 2-deoxy-D-gluconate 3-dehydrogenase homol...    51  1e-05
+SEQ gi|11359257|pir||T50280 probable oxidoreductase [imported] - fis...    51  1e-05
+SEQ gi|13472685|ref|NP_104252.1| 3-oxoacyl-(acyl-carrier protein) re...    51  1e-05
+SEQ gi|8453202|gb|AAF75282.1|AF271714_1 (AF271714) beta-hydroxybutyr...    51  1e-05
+SEQ gi|11351867|pir||C83133 probable short-chain dehydrogenase PA409...    51  1e-05
+SEQ gi|13182962|gb|AAK15008.1|AF233685_1 (AF233685) short chain L-3-...    51  1e-05
+SEQ gi|2342569|emb|CAA74944.1| (Y14603) sorbitol-6-phosphate dehydro...    51  1e-05
+SEQ gi|5070351|gb|AAD39137.1|AF125184_1 (AF125184) cis-1,2-dihydro-1...    51  1e-05
+SEQ gi|13702428|dbj|BAB43569.1| (AP003137) ORFID:SA2266~hypothetical...    51  1e-05
+SEQ gi|12850643|dbj|BAB28800.1| (AK013340) putative [Mus musculus]         51  1e-05
+SEQ gi|11250523|pir||T47670 beta-ketoacyl-ACP reductase-like protein...    51  1e-05
+SEQ gi|882668|gb|AAA69285.1| (U29579) ORF_f141 [Escherichia coli]          51  2e-05
+SEQ gi|4499846|emb|CAB39316.1| (AJ011966) oxidoreductase [Claviceps ...    51  2e-05
+SEQ gi|12832859|dbj|BAB22286.1| (AK002691) putative [Mus musculus]         51  2e-05
+SEQ gi|7488887|pir||T11579 probable short chain alcohol dehydrogenas...    51  2e-05
+SEQ gi|11250504|pir||B82839 3-oxoacyl-[ACP] reductase XF0173 [import...    51  2e-05
+SEQ gi|13422960|gb|AAK23550.1| (AE005831) gluconate 5-dehydrogenase ...    51  2e-05
+SEQ gi|3220185|gb|AAC23562.1| (AF049903) pteridine reductase [Trypan...    51  2e-05
+SEQ gi|14524023|gb|AAK65546.1| (AE007275) putative [Sinorhizobium me...    51  2e-05
+SEQ gi|10582011|gb|AAG20666.1| (AE005135) oxidoreductase; YusZ2 [Hal...    51  2e-05
+SEQ gi|13702128|dbj|BAB43420.1| (AP003136) ORFID:SA2119~hypothetical...    51  2e-05
+SEQ gi|128467|sp|P06235|NOG4_RHIME NODULATION PROTEIN G (HOST-SPECIF...    51  2e-05
+SEQ gi|7387724|sp|O70351|HCD2_RAT 3-HYDROXYACYL-COA DEHYDROGENASE TY...    51  2e-05
+SEQ gi|5689604|emb|CAB51900.1| (Y19033) 1,3,6,8-tetrahydroxynaphthal...    51  2e-05
+SEQ gi|13994225|ref|NP_113870.1| hydroxyacyl-Coenzyme A dehydrogenas...    51  2e-05
+SEQ gi|14488724|pdb|1E6W|A Chain A, Rat Brain 3-Hydroxyacyl-Coa Dehy...    51  2e-05
+SEQ gi|118571|sp|P16542|DHK1_STRVN GRANATICIN POLYKETIDE SYNTHASE PU...    51  2e-05
+SEQ gi|5881934|emb|CAB55727.1| (AL117387) probable  oxidoreductase [...    51  2e-05
+SEQ gi|11250516|pir||T47668 oxidoreductase-like protein - Arabidopsi...    51  2e-05
+SEQ gi|7431077|pir||E70879 probable dehydrogenase - Mycobacterium tu...    51  2e-05
+SEQ gi|8896110|gb|AAF81238.1| (AF263012) putative beta-ketoacyl redu...    51  2e-05
+SEQ gi|13471793|ref|NP_103360.1| probable dehydrogenase [Mesorhizobi...    51  2e-05
+SEQ gi|2425123|gb|AAB70845.1| (AF019986) PksB [Dictyostelium discoid...    51  2e-05
+SEQ gi|9944997|gb|AAG03070.1|AF293355_6 (AF293355) putative bifuncti...    51  2e-05
+SEQ gi|14524261|gb|AAK65763.1| (AE007296) Putative oxidoreductase [S...    51  2e-05
+SEQ gi|10174123|dbj|BAB05225.1| (AP001512) oxidoreductase [Bacillus ...    51  2e-05
+SEQ gi|3873405|gb|AAC77481.1| (U17129) unknown [Rhodococcus erythrop...    51  3e-05
+SEQ gi|7206791|gb|AAF39950.1| (AC006677) Hypothetical protein R05D8....    50  3e-05
+SEQ gi|7431087|pir||T02174 hypothetical protein F14M4.3 - Arabidopsi...    50  3e-05
+SEQ gi|13878113|gb|AAK44134.1|AF370319_1 (AF370319) putative alcohol...    50  3e-05
+SEQ gi|3288810|gb|AAC25556.1| (AF013169) short chain alcohol dehydro...    50  3e-05
+SEQ gi|141482|sp|P25970|YURA_MYXXA HYPOTHETICAL OXIDOREDUCTASE IN UR...    50  3e-05
+SEQ gi|3287916|sp|Q12634|T4HR_MAGGR TETRAHYDROXYNAPHTHALENE REDUCTAS...    50  3e-05
+SEQ gi|13620522|emb|CAC36559.1| (AL590463) putative short-chain oxid...    50  3e-05
+SEQ gi|7481119|pir||T36426 probable oxidoreductase - Streptomyces co...    50  3e-05
+SEQ gi|1711355|sp|Q08632|SDR1_PICAB SHORT-CHAIN TYPE DEHYDROGENASE/R...    50  3e-05
+SEQ gi|11351844|pir||G83473 probable short-chain dehydrogenase PA137...    50  3e-05
+SEQ gi|1399845|gb|AAB82041.1| (U59236) unknown [Synechococcus sp. PC...    50  3e-05
+SEQ gi|7292690|gb|AAF48087.1| (AE003487) CG9360 gene product [Drosop...    50  3e-05
+SEQ gi|13471581|ref|NP_103147.1| oxidoreductase of short-chain [Meso...    50  3e-05
+SEQ gi|12841247|dbj|BAB25130.1| (AK007603) putative [Mus musculus]         50  3e-05
+SEQ gi|7431071|pir||C70675 hypothetical protein Rv3530c - Mycobacter...    50  4e-05
+SEQ gi|548440|sp|P35320|OXIR_STRLI PROBABLE OXIDOREDUCTASE >gi|32229...    50  4e-05
+SEQ gi|6322067|ref|NP_012142.1| 1-Acyl dihydroxyacetone phosphate re...    50  4e-05
+SEQ gi|13027223|dbj|BAB32698.1| (AB055799) naphthalenetriol reductas...    50  4e-05
+SEQ gi|10579982|gb|AAG18928.1| (AE004994) oxidoreductase; YusZ3 [Hal...    50  4e-05
+SEQ gi|5921155|dbj|BAA84591.1| (AB032523) reductase [Streptomyces av...    50  4e-05
+SEQ gi|7206784|gb|AAF39943.1| (AC006677) contains similarity to Pfam...    50  4e-05
+SEQ gi|6715317|gb|AAF26372.1|AF204735_4 (AF204735) putative NADP-dep...    49  4e-05
+SEQ gi|1169331|sp|P22441|DHMA_FLAS1 N-ACYLMANNOSAMINE 1-DEHYDROGENAS...    49  4e-05
+SEQ gi|80830|pir||S19842 hypothetical protein 4 - Streptomyces livid...    49  5e-05
+SEQ gi|6322227|ref|NP_012302.1| Yir036cp [Saccharomyces cerevisiae] ...    49  5e-05
+SEQ gi|10175805|dbj|BAB06901.1| (AP001518) 3-oxoacyl-[acyl-carrier p...    49  5e-05
+SEQ gi|7474858|pir||E70082 glucose 1-dehydrogenase homolog yxnA - Ba...    49  5e-05
+SEQ gi|6117874|emb|CAB59447.1| (AL132644) putative oxidoreductase [S...    49  5e-05
+SEQ gi|6015104|sp|Q10402|EPHD_MYCTU PROBABLE OXIDOREDUCTASE EPHD >gi...    49  5e-05
+SEQ gi|13475991|ref|NP_107561.1| putative oxidoreductase [Mesorhizob...    49  5e-05
+SEQ gi|4262142|gb|AAD14442.1| (AC005275) putative alcohol dehydrogen...    49  5e-05
+SEQ gi|11250826|pir||T44578 C-5 ketoreductase [imported] - Streptomy...    49  6e-05
+SEQ gi|13622711|gb|AAK34408.1| (AE006595) putative oxidoreductase [S...    49  6e-05
+SEQ gi|13476497|ref|NP_108067.1| probable oxidoreductase [Mesorhizob...    49  6e-05
+SEQ gi|3150204|emb|CAA06877.1| (AJ006127) isopropylbenzene dihydrodi...    49  6e-05
+SEQ gi|7431067|pir||B70640 hypothetical protein Rv0687 - Mycobacteri...    49  6e-05
+SEQ gi|13474897|ref|NP_106467.1| hypothetical protein [Mesorhizobium...    49  6e-05
+SEQ gi|13310127|gb|AAK18170.1|AF290950_2 (AF290950) FadB2x [Pseudomo...    49  7e-05
+SEQ gi|8388717|emb|CAB94072.1| (AL358692) putative oxidoreductase [S...    49  7e-05
+SEQ gi|2120603|pir||S62182 beta-hydroxysteroid dehydrogenase - Comam...    49  7e-05
+SEQ gi|11250526|pir||T50932 short-chain dehydrogenase/reductase DitI...    49  8e-05
+SEQ gi|10581576|gb|AAG20295.1| (AE005104) putative oxidoreductase; O...    49  8e-05
+SEQ gi|629116|pir||S43610 hypothetical protein x - Bacillus subtilis...    49  8e-05
+SEQ gi|115089|sp|P08088|BNZE_PSEPU CIS-1,2-DIHYDROBENZENE-1,2-DIOL D...    49  8e-05
+SEQ gi|14488714|pdb|1E3W|A Chain A, Rat Brain 3-Hydroxyacyl-Coa Dehy...    49  8e-05
+SEQ gi|3334833|emb|CAA07768.1| (AJ007932) ketoreductase [Streptomyce...    49  9e-05
+SEQ gi|732375|sp|P39644|YWFH_BACSU HYPOTHETICAL OXIDOREDUCTASE IN PT...    49  9e-05
+SEQ gi|10956972|ref|NP_049192.1| dihydrodiol dehydrogenase [Sphingom...    49  1e-04
+SEQ gi|7297069|gb|AAF52338.1| (AE003612) CG9150 gene product [Drosop...    49  1e-04
+SEQ gi|7387560|sp|Q9X6U2|BDHA_ALCEU D-BETA-HYDROXYBUTYRATE DEHYDROGE...    49  1e-04
+SEQ gi|13431424|sp|Q51977|CMTB_PSEPU 2,3-DIHYDROXY-2,3-DIHYDRO-P-CUM...    48  1e-04
+SEQ gi|541410|pir||PN0683 EntE protein - Bacillus subtilis (fragment...    48  1e-04
+SEQ gi|1084023|pir||S48129 3(or 17)beta-hydroxysteroid dehydrogenase...    48  1e-04
+SEQ gi|2145509|pir||S62216 3 (or 17) beta-hydroxysteroid dehydrogena...    48  1e-04
+SEQ gi|2624733|pdb|1YBV|A Chain A, Structure Of Trihydroxynaphthalen...    48  1e-04
+SEQ gi|14488430|pdb|1DOH|A Chain A, Structure Of Trihydroxynaphthale...    48  1e-04
+SEQ gi|7481133|pir||T37144 probable oxidoreductase - Streptomyces co...    48  1e-04
+SEQ gi|6018300|gb|AAF01806.1|AF187532_2 (AF187532) C-7 ketoreductase...    48  1e-04
+SEQ gi|13471918|ref|NP_103485.1| probable short chain oxidoreductase...    48  1e-04
+SEQ gi|6223643|gb|AAF05857.1|AC011698_8 (AC011698) putative short-ch...    48  1e-04
+SEQ gi|2127363|pir||I40869 hypothetical protein 4 nanH-region [impor...    48  1e-04
+SEQ gi|13474637|ref|NP_106206.1| enoyl-[acyl-carrier-protein] reduct...    48  1e-04
+SEQ gi|13472508|ref|NP_104075.1| putative oxidoreductase [Mesorhizob...    48  1e-04
+SEQ gi|5688848|dbj|BAA82699.1| (AB017438) Orf2 [Streptomyces coelico...    48  1e-04
+SEQ gi|11356647|pir||T44891 oxidoreductase homolog [imported] - Myco...    48  1e-04
+SEQ gi|11890400|gb|AAG41118.1|AF080431_1 (AF080431) putative blue fl...    48  1e-04
+SEQ gi|14524113|gb|AAK65628.1| (AE007283) Putative Short Chain [Sino...    48  2e-04
+SEQ gi|13621671|gb|AAK33459.1| (AE006504) putative dehydrogenease / ...    47  2e-04
+SEQ gi|7292613|gb|AAF48012.1| (AE003485) antdh gene product [Drosoph...    47  2e-04
+SEQ gi|12513057|gb|AAG54602.1|AE005204_12 (AE005204) putative oxidor...    47  2e-04
+SEQ gi|13702529|dbj|BAB43670.1| (AP003137) ORFID:SA2365~hypothetical...    47  2e-04
+SEQ gi|9716981|emb|CAC01650.1| (AL391072) putative oxidoreductase [S...    47  2e-04
+SEQ gi|1708156|sp|P22414|FOX2_CANTR PEROXISOMAL HYDRATASE-DEHYDROGEN...    47  2e-04
+SEQ gi|695398|gb|AAA62847.1| (M22765) hydratase-dehydrogenase-epimer...    47  2e-04
+SEQ gi|8248803|emb|CAB93064.1| (AL357432) putative oxidoreductase [S...    47  2e-04
+SEQ gi|5360702|dbj|BAA82118.1| (AB022919) PsbB [Rhodopseudomonas pal...    47  2e-04
+SEQ gi|5912510|emb|CAB56136.1| (AL117669) putative short chain oxido...    47  2e-04
+SEQ gi|13570027|gb|AAG29497.2|AF290182_1 (AF290182) tetrahydroxynaph...    47  2e-04
+SEQ gi|7949047|ref|NP_058043.1| hydroxyacyl-Coenzyme A dehydrogenase...    47  2e-04
+SEQ gi|3183025|sp|O08756|HCD2_MOUSE 3-HYDROXYACYL-COA DEHYDROGENASE ...    47  2e-04
+SEQ gi|6580780|gb|AAF18286.1| (AF088897) oxidoreductase; orf4 [Zymom...    47  2e-04
+SEQ gi|11250493|pir||A82604 oxidoreductase XF2082 [imported] - Xylel...    47  2e-04
+SEQ gi|2970667|gb|AAC62538.1| (AF052586) beta-ketoacyl reductase [Ps...    47  2e-04
+SEQ gi|13472715|ref|NP_104282.1| oxidoreductase, short chain dehydro...    47  2e-04
+SEQ gi|13472269|ref|NP_103836.1| probable short-chain dehydrogenase ...    47  2e-04
+SEQ gi|7431075|pir||A70554 probable dehydrogenase - Mycobacterium tu...    47  2e-04
+SEQ gi|5578708|gb|AAD45414.1| (U65001) putative 1,2-dihydrodiol-1,2-...    47  2e-04
+SEQ gi|5031737|ref|NP_005785.1| short-chain alcohol dehydrogenase fa...    47  3e-04
+SEQ gi|3915733|sp|Q13268|HE27_HUMAN HEP27 PROTEIN (PROTEIN D) >gi|13...    47  3e-04
+SEQ gi|7300731|gb|AAF55877.1| (AE003734) CG3301 gene product [Drosop...    47  3e-04
+SEQ gi|7298353|gb|AAF53581.1| (AE003652) CG6012 gene product [Drosop...    47  3e-04
+SEQ gi|3599392|gb|AAC62698.1| (AF083071) glucose-1-dehydrogenase [Ce...    47  3e-04
+SEQ gi|405868|gb|AAA60500.1| (U00007) yohF [Escherichia coli] >gi|74...    47  3e-04
+SEQ gi|7473537|pir||F75374 probable ketoacyl reductase - Deinococcus...    47  3e-04
+SEQ gi|14423345|gb|AAK62355.1|AF380367_5 (AF380367) DbtB [Burkholder...    47  3e-04
+SEQ gi|7431020|pir||B70569 hypothetical protein Rv3485c - Mycobacter...    47  3e-04
+SEQ gi|13883443|gb|AAK47948.1| (AE007162) oxidoreductase, short-chai...    47  3e-04
+SEQ gi|10174167|dbj|BAB05269.1| (AP001512) BH1550~unknown conserved ...    47  3e-04
+SEQ gi|13643516|ref|XP_003611.2| oxidoreductase UCPA [Homo sapiens]        47  3e-04
+SEQ gi|14523249|gb|AAK64836.1| (AE007211) putative [Sinorhizobium me...    47  4e-04
+SEQ gi|510290|dbj|BAA06873.1| (D32142) 2,3-dihydroxy-1-phenylcyclohe...    46  4e-04
+SEQ gi|13488194|ref|NP_085617.1| 2,5-DICHLORO-2,5-CYCLOHEXADIENE-1,4...    46  4e-04
+SEQ gi|11351835|pir||F83629 probable short chain dehydrogenase PA011...    46  4e-04
+SEQ gi|7295622|gb|AAF50930.1| (AE003573) CG12466 gene product [Droso...    46  4e-04
+SEQ gi|11359360|pir||T51084 3-oxoacyl-[acyl-carrier-protein]-reducta...    46  5e-04
+SEQ gi|7431006|pir||S76124 hypothetical protein - Synechocystis sp. ...    46  5e-04
+SEQ gi|4240421|gb|AAD13552.1| (AF080235) reductase homolog [Streptom...    46  5e-04
+SEQ gi|13424847|gb|AAK25137.1| (AE005981) short chain dehydrogenase ...    46  5e-04
+SEQ gi|13539583|emb|CAC35773.1| (AJ310211) beta-D-hydroxybutyrate de...    46  5e-04
+SEQ gi|7506885|pir||T32196 hypothetical protein T01G6.1 - Caenorhabd...    46  5e-04
+SEQ gi|6017123|gb|AAF01606.1|AC009895_27 (AC009895) unknown protein ...    46  5e-04
+SEQ gi|7705905|ref|NP_057329.1| retinal short-chain dehydrogenase/re...    46  5e-04
+SEQ gi|13815979|gb|AAK42782.1| (AE006861) 3-oxoacyl-(acyl carrier pr...    46  5e-04
+SEQ gi|1374793|gb|AAB02396.1| (U37723) ORF1 [Fusobacterium nucleatum]      46  6e-04
+SEQ gi|13542237|ref|NP_111925.1| 3-oxoacyl-[acyl-carrier-protein] re...    46  6e-04
+SEQ gi|4530425|gb|AAD22026.1| (AF116553) antennal-specific short-cha...    46  6e-04
+SEQ gi|11351876|pir||F82954 probable short-chain dehydrogenase PA552...    46  6e-04
+SEQ gi|12722406|gb|AAK04052.1| (AE006233) unknown [Pasteurella multo...    46  7e-04
+SEQ gi|3869192|dbj|BAA34391.1| (AB007803) similar to Aspergillus par...    46  7e-04
+SEQ gi|3869198|dbj|BAA34394.1| (AB007806) similar to Aspergillus par...    46  7e-04
+SEQ gi|629135|pir||S43612 hypothetical protein Y - Bacillus subtilis...    46  7e-04
+SEQ gi|6013129|gb|AAF01252.1|AF096596_1 (AF096596) dormancy protein ...    46  7e-04
+SEQ gi|3869196|dbj|BAA34393.1| (AB007805) similar to Aspergillus par...    46  8e-04
+SEQ gi|7271874|gb|AAF44666.1|AF238859_1 (AF238859) short-chain dehyd...    46  8e-04
+SEQ gi|7476939|pir||A70667 hypothetical protein Rv1865c - Mycobacter...    46  8e-04
+SEQ gi|13471147|ref|NP_102716.1| probable short chain dehydrogenase ...    45  9e-04
+SEQ gi|7473250|pir||A75482 oxidoreductase, short-chain dehydrogenase...    45  9e-04
+SEQ gi|3869194|dbj|BAA34392.1| (AB007804) similar to Aspergillus par...    45  0.001
+SEQ gi|1220178|emb|CAA93825.1| (Z69995) dormancy related protein [Tr...    45  0.001
+SEQ gi|7529640|emb|CAB86467.1| (AL163481) putative short chain dehyd...    45  0.001
+SEQ gi|13752456|gb|AAK38664.1| (AF352734) rhizome secoisolariciresin...    45  0.001
+SEQ gi|96617|pir||S07135 ribitol 2-dehydrogenase (EC 1.1.1.56) - Kle...    45  0.001
+SEQ gi|132568|sp|P00335|RIDH_KLEAE RIBITOL 2-DEHYDROGENASE (RDH)           45  0.001
+SEQ 
+## SEQUENCE PROFILE AND ENTROPY
+ SeqNo PDBNo   V   L   I   M   F   W   Y   G   A   P   S   T   C   H   R   K   Q   E   N   D  NOCC NDEL NINS ENTROPY RELENT WEIGHT
+    1    1     0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+    2    2     0   0   0   0   0   0   0  60   0   0  13   0   0   0   0   0  13   0  13   0     0    0    0   1.112     37  0.00
+    3    3    10   0   5   0  45   0  20   0   0   0   0   0   0   0   0   0   0  20   0   0     0    0    0   1.383     46  0.00
+    4    4     7   2   5   0   0   0   0   0   7   0  12  48   0   2  10   0   7   0   0   0     0    0    0   1.719     57  0.00
+    5    5    10  23  11  34   4   3   2   1   5   0   0   1   0   0   1   0   3   0   0   1     0    0    0   1.952     65  0.00
+    6    6     0   0   0   0   0   0   0   2   8   2  54   1   0   0   4   1   2   1   8  14     0    0    0   1.595     53  0.00
+    7    7     3  50   2   1  38   1   2   0   0   0   0   0   0   0   0   1   0   0   0   0     0    0    0   1.168     38  0.00
+    8    8     7   3   1  13   0   0   0   1  17   1  10  12   0   1   0  13   9  10   1   2     0    0    0   2.353     78  0.00
+    9    9     0   0   0   0   0   0   0  45   0   0   8   2   0   2   1   1   1   1  17  20     0    0    0   1.571     52  0.00
+   10   10     0   1   0   2   0   0   0   0   0   0   1   1   0   0  21  69   4   1   0   0     0    0    0   1.053     35  0.00
+   11   11    51   3   8   0   0   0   0   0   2   0   3  22   0   1   4   2   0   0   3   0     0    0    0   1.607     53  0.00
+   12   12    24   1   7   1   1   0   0   0  63   0   1   1   1   0   0   0   0   0   0   0     0    0    0   1.128     37  0.00
+   13   13    23  47  20   1   5   1   0   0   2   0   1   0   0   0   0   0   0   0   0   0     0    0    0   1.384     46  0.00
+   14   14    65   2  32   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.770     25  0.00
+   15   15     0   1   1   1   1   0   0   0   0   0   2  95   0   0   0   0   0   0   0   0     0    0    0   0.304     10  0.00
+   16   16     0   0   0   0   0   0   0  96   4   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.171      5  0.00
+   17   17     1   0   1   0   0   0   0  44  40   0  14   0   1   0   0   0   0   0   0   0     0    0    0   1.105     36  0.00
+   18   18     0   1   0   1   0   0   0  22  21   0  35  12   1   0   0   0   0   0   3   4     0    0    0   1.696     56  0.00
+   19   19     0   0   0   0   0   0   0   8   2   0  34   8   0   0  31   8   5   0   1   2     0    0    0   1.758     58  0.00
+   20   20     1   0   0   0   0   0   0  96   1   0   0   1   0   0   0   0   0   0   0   0     0    0    0   0.224      7  0.00
+   21   21     1  16  78   2   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.731     24  0.00
+   22   22     0   0   0   0   0   0   0  97   1   0   0   0   1   0   0   0   0   0   0   0     0    0    0   0.160      5  0.00
+   23   23     0  19   1   0   6   1   4   1  17   0   1   2   0   2  23  16   3   5   0   0     0    0    0   2.136     71  0.00
+   24   24     2   0   0   0   0   0   0   9  67   0   7   2   1   0   1   1   1   8   0   1     0    0    0   1.299     43  0.00
+   25   25    12   7  40  10   4   0   1   0   5   0   1  16   2   1   0   0   0   0   0   0     0    0    0   1.871     62  0.00
+   26   26    17   1   0   0   0   0   0   2  66   0   5   5   4   0   0   0   0   0   0   0     0    0    0   1.139     38  0.00
+   27   27     4  11   6   1   1   0   1   0   3   0   1   2   0   2  28  14   6  17   0   2     0    0    0   2.213     73  0.00
+   28   28     3  13   2   1   2   0   1   4  20   0   3   5   1   2  20   4   4  14   0   2     0    0    0   2.352     78  0.00
+   29   29     1  57   2   2  22   0   3   4   5   0   0   0   1   0   1   0   1   0   0   0     0    0    0   1.460     48  0.00
+   30   30     9  10   1   1   2   0   1   7  52   0   4   2   1   2   1   3   1   1   0   0     0    0    0   1.829     61  0.00
+   31   31     1   3   1   1   0   0   0   7  21   0   7   2   0   2  11  14   9  15   2   5     0    0    0   2.344     78  0.00
+   32   32     3  11   0   1   3   0   1   3  20   0   2   1   0   4   8   4   8  20   3   8     0    0    0   2.413     80  0.00
+   33   33     2   2   0   0   0   0   0  78   6   0   0   0   0   1   1   2   1   2   2   1     0    0    0   1.033     34  0.00
+   34   34     3   2   2   2   4   1   5   7  55   0   2   1   7   4   1   1   0   1   1   2     0    0    0   1.861     62  0.00
+   35   35     4   2   2   0   1   0   1   2   9   0   6   8   1   6  14  20   3   2   9   8     0    0    0   2.524     84  0.00
+   36   36    67   5   8   0   0   0   0   3   6   0   0   1   2   0   1   2   1   0   1   2     0    0    0   1.388     46  0.00
+   37   37    32   7  14   1   3   1   3   4  23   0   2   3   1   2   1   1   1   0   0   1     0    0    0   2.093     69  0.00
+   38   38    26  15  24   1   4   0   0   6   9   1   1   4   2   1   2   1   0   0   1   2     0    0    0   2.160     72  0.00
+   39   39    14  11  11   1   1   1   1   4  12   0   5  11   8   3   0   0   1   1  15   1     0    0    0   2.437     81  0.00
+   40   40     5   2   1   0   2   1  24  11  15   1  11   2   2   3   0   0   0   2   1  17     0    0    0   2.278     76  0.00
+   41   41     4   9   5   0   1   1   2   5   8   0   2   4   0   1  44   4   2   1   4   3     0    0    0   2.131     71  0.00
+   42   42     2   2   2   0   0   0   0   6   6   3  21   7   1   3   9   5   2   2  17  12     0    0    0   2.457     82  0.00
+   43   43     4   3   2   1   2   0   0   6  21   3   9   2   0   2   3   4   6  17   7   8     0    0    0   2.527     84  0.00
+   44   44     3   2   1   0   1   0   1   6  23   4   9   2   0   1   5   9   6  17   3   8     0    0    0   2.419     80  0.00
+   45   45     3   2   0   0   0   0   0   8   7   1   3   4   0   1   8   6   2  20  10  24     0    0    0   2.295     76  0.00
+   46   46     9  17   3   0   1   0   0   9  33   2   3   3   1   0   3   3   1   6   2   2     0    0    0   2.254     75  0.00
+   47   47    15  12   4   1   0   0   0   2  20   1   2   4   0   1   4   7   7   9   5   7     0    0    0   2.463     82  0.00
+   48   48     0   2   0   0   0   0   0   1  14   2   5   2   0   0   6   7   8  39   2  11     0    0    0   2.052     68  0.00
+   49   49    16  13   7   1   1   0   0   5  22   1   3   9   2   0   3   5   3   7   1   2     0    0    0   2.436     81  0.00
+   50   50    18  11   4   1   1   1   0   3  27   1   4  12   1   0   3   5   3   2   1   2     0    0    0   2.322     77  0.00
+   51   51     7   4   1   0   0   1   0   2  15   0   5   2   0   1   5  10   7  29   3   8     0    0    0   2.295     76  0.00
+   52   52     1   3   1   1   1   1   2   1  13   2   8   4   0   1   8  16  11  23   2   5     0    0    0   2.389     79  0.00
+   53   53     9  29  21   1   1   1   1   2  10   2   1   3   2   1   1   1   3  10   0   1     0    0    0   2.236     74  0.00
+   54   54    10   7  11   1   1   2   0  17  17   4   5   3   2   0   3   4   4   5   3   1     0    0    0   2.556     85  0.00
+   55   55     2   3   1   0   1   0   0   5  14   2   6   3   0   1  12  24   7  11   4   4     0    0    0   2.407     80  0.00
+   56   56     1   2   1   0   0   0   1   5  19   1   6   2   0   1   2  10   6  30   4   8     0    0    0   2.241     74  0.00
+   57   57     3  19   7   1   9   1   7   8   9   1   5   5   1   5   2   4   2   4   5   3     0    0    0   2.698     90  0.00
+   58   58     1   1   0   0   0   0   1  75   6   2   3   1   0   1   1   2   1   1   2   2     0    0    0   1.170     39  0.00
+   59   59    16   8   7   0   5   0   1  17  10   2   6   4   0   1   6   1   1   4   2   5     0    0    0   2.558     85  0.00
+   60   60     2   1   1   0   0   0   0   2   5   2   5   3   0   2  16  18   9  14   6  12     0    0    0   2.390     79  0.00
+   61   61    24   4   3   0   3   0   1   4  38   3   3   5   6   2   0   0   1   1   0   0     0    0    0   2.002     66  0.00
+   62   62     8  11  12   2   3   1   1   1  10   0   6   6   0   9   5   7   2   8   1   5     0    0    0   2.667     89  0.00
+   63   63     7   3   4   0   9   1   4  15  37   5   4   5   2   1   1   1   1   0   0   0     0    0    0   2.174     72  0.00
+   64   64    24  13  15   2  14   1   9   0   5   0   5   3   1   2   3   0   1   1   0   1     0    0    0   2.327     77  0.00
+   65   65    12   1   1   1   1   0   1   4   8   9   5   3   0   5   8  15  17   7   1   0     0    0    0   2.510     83  0.00
+   66   66     9  13   1   2   2   1   0  12  29   1   1   4  24   1   0   0   0   0   0   0     0    0    0   2.006     66  0.00
+   67   67     1   0   0   0   0   0   0   0   0   0   1   0   0   2   0   0   0   0  13  81     0    0    0   0.691     23  0.00
+   68   68    66  17  10   1   1   0   0   0   3   0   1   0   0   0   0   0   0   0   0   0     0    0    0   1.150     38  0.00
+   69   69     1   2   0   1   0   0   0  13  13   0  29  24   0   0  13   2   0   1   1   1     0    0    0   1.876     62  0.00
+   70   70     4   1   1   0   0   0   0   1   2   0  14   1   1   1   3  13   4   5  13  36     0    0    0   2.061     68  0.00
+   71   71     7   5   2   1   2   2   2   3  11  15   3   4   0   1  12   2   2  22   1   4     0    0    0   2.508     83  0.00
+   72   72     1   1   0   0   0   0   0   2  18   4   8   3   0   1   1   4   4  28   2  23     0    0    0   2.049     68  0.00
+   73   73     1   1   1   2   1   0   0   5  19   0  14   3   0   1   1   1  12  15   2  22     0    0    0   2.201     73  0.00
+   74   74    45   5  14   2   1   1   1   1   8   1   4   4   6   1   5   0   1   0   2   0     0    0    0   2.004     66  0.00
+   75   75     5   1   3   1   2   0   1   2  10   1   4   5   0   1   9  10   9  22   4  10     0    0    0   2.515     83  0.00
+   76   76     1   1   0   0   0   0   0   2  26   1   5   4   0   2  14  15   5   9   9   5     0    0    0   2.265     75  0.00
+   77   77     9  34   4   9   5   1   0   3  25   0   2   6   1   0   1   0   1   0   0   0     0    0    0   1.987     66  0.00
+   78   78    38  11  15  10  12   0   2   1   6   0   1   2   1   0   1   0   0   0   0   0     0    0    0   1.925     64  0.00
+   79   79     1   1   0   0   0   0   0   3  18   0   3   3   0   1   4  13  12  20   3  18     0    0    0   2.154     71  0.00
+   80   80     1   3   0   1   3   1   1   2  15   0   4  13   0   1   8  10  12  18   2   6     0    0    0   2.433     81  0.00
+   81   81    24   6  16   1   1   0   0   1  32   0   2  13   2   0   0   0   0   0   0   0     0    0    0   1.831     61  0.00
+   82   82    22  11  10   2   1   1   1   1   8   1   4   3   0   1   5   7   3  13   1   4     0    0    0   2.509     83  0.00
+   83   83     1   1   1   0   0   0   0   3  21   0  10   2   0   1   6  14   6  20   3  11     0    0    0   2.216     73  0.00
+   84   84     2   3   2   1   1   1   0   1   9   0   3   7   1   9  16  12   5  17   2   6     0    0    0   2.505     83  0.00
+   85   85     4  17   3   1  45   3   8   1   3   0   1   2   1   6   1   1   1   2   1   1     0    0    0   1.997     66  0.00
+   86   86     0   0   0   0   0   0   0  89   1   1   2   0   0   0   1   1   0   2   1   1     0    0    0   0.583     19  0.00
+   87   87     2   0   0   0   0   0   1  14   4  13   5   8   0   4  23  19   1   2   0   2     0    0    0   2.212     73  0.00
+   88   88    19  40  32   0   2   0   0   0   2   3   0   0   1   0   0   0   0   0   0   0     0    0    0   1.428     47  0.00
+   89   89     0   0   0   0   0   0   1   1   1   0   4   1   0   3   0   0   1   2   7  78     0    0    0   1.019     34  0.00
+   90   90    35   4  42   0   3   0   1   6   4   0   1   1   1   1   0   0   0   0   0   1     0    0    0   1.575     52  0.00
+   91   91    16  65   3   5   3   0   0   0   4   0   0   0   3   0   0   0   0   0   0   0     0    0    0   1.236     41  0.00
+   92   92    67   2  17   0   7   0   1   0   1   0   1   0   4   1   0   0   0   0   0   0     0    0    0   1.145     38  0.00
+   93   93     2   1   1   0   0   0   1   1   8   0  10   1   2   2   0   0   0   0  70   0     0    0    0   1.175     39  0.00
+   94   94     2   0   0   0   0   0   0   1   2   0   2   1   6   0   0   0   0   0  85   0     0    0    0   0.716     23  0.00
+   95   95     4   0   0   0   0   0   0   1  87   0   5   0   0   0   0   0   0   0   0   0     0    0    0   0.605     20  0.00
+   96   96     0   0   0   0   0   0   0  86  11   0   1   0   0   0   0   0   0   0   0   0     0    0    0   0.513     17  0.00
+   97   97    21   5  41   3   2   1   2   7   5   0   1   5   0   1   4   1   1   2   1   1     0    0    0   2.031     67  0.00
+   98   98     8   6   3   4   2   1   1  10  11   2  10  16   2   1   1   1   7   5   9   1     0    0    0   2.628     87  0.00
+   99   99     9   5   8   2   7   2   2   7   4   6   8   3   0   5  17   5   4   2   4   2     0    0    0   2.772     92  0.00
+  100  100     8  10   4   3  11   1   3   6   6  10   5   4   0   1   4   2   1   2   2  15     0    0    0   2.715     90  0.00
+  101  101     4   0   1   2   1   0   0  26  11   1   8   6   2   1   4  15   5   5   5   2     0    0    0   2.405     80  0.00
+  102  102     3  10   1   2   3   0   1   4   5  35   8   5   0   5   3   4   2   4   2   4     0    0    0   2.360     78  0.00
+  103  103     7  20  12   2  19   1   1   2  11   3   6  10   1   0   0   1   0   1   2   1     0    0    0   2.340     78  0.00
+  104  104     6  17   5   6   2   1   1   3   9   1   4   8   0   4   2   7   2  16   0   4     0    0    0   2.611     87  0.00
+  105  105     1   1   1   1   0   0   0   2   4   0   3   5   0   2  10   8   3  29   3  28     0    0    0   2.094     69  0.00
+  106  106    13  19  11  20   7   0   6   2   3   0   1   8   1   3   0   0   2   1   1   1     0    0    0   2.338     78  0.00
+  107  107     1   1   1   0   0   0   0   3   4   9  26  31   0   0   1   6   1   3   3   9     0    0    0   2.046     68  0.00
+  108  108     5  13   2   1   2   0   2   0   8  14   3   3   0   2   3   5   2  18   2  14     0    0    0   2.514     83  0.00
+  109  109     0   0   0   0   0   0   1   1  10   1   6   2   0   1   1   5   4  47   4  16     0    0    0   1.811     60  0.00
+  110  110     4   5   1   0   1   0   0   5   7   0   3   3   0   2   3   2   9  21   2  32     0    0    0   2.199     73  0.00
+  111  111     3   6   4   2  31  44   5   0   2   0   0   1   0   0   1   0   0   0   0   1     0    0    0   1.612     53  0.00
+  112  112     1   2   1   1   1   0   0   1   4   0   5   2   0   4   9   6   9  12   6  36     0    0    0   2.200     73  0.00
+  113  113     0   3   1   1   4   1   1   1   8   1   4   6   0   2  27  16   5   8   3   9     0    0    0   2.406     80  0.00
+  114  114    49   7  16   5   0   0   0   0   3   0   2  10   1   2   0   0   2   1   0   0     0    0    0   1.744     58  0.00
+  115  115     9  18  30  12  23   1   4   0   0   0   0   1   0   1   0   0   1   0   0   0     0    0    0   1.820     60  0.00
+  116  116     0   0   0   0   0   0   0   3  13   0   9   4   0   1   6   5   5   9  14  30     0    0    0   2.130     71  0.00
+  117  117    36  10  20   1   0   0   0   0   1   0   1  29   0   0   1   0   0   0   1   0     0    0    0   1.548     51  0.00
+  118  118     2   1   0   1   0   0   0   0   0   0   1   1   0   2   0   0   0   0  89   3     0    0    0   0.588     19  0.00
+  119  119    24  52   6   1   4   0   1   1   2   0   1   7   0   0   0   0   1   0   0   0     0    0    0   1.492     49  0.00
+  120  120     3   7   3   3   8   1   2   2   1   0   4  20   0   1  15  14   1   4   8   4     0    0    0   2.496     83  0.00
+  121  121     0   0   0   0   0   0   0  60  13   2  22   1   0   0   0   0   0   0   0   0     0    0    0   1.132     37  0.00
+  122  122    29   5   3   4   2   0   4   0  19   6   4  17   0   2   0   0   6   0   1   0     0    0    0   2.148     71  0.00
+  123  123     5   8   6   3  59   4  11   0   3   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.495     49  0.00
+  124  124     1  22   3   1  13   3   7   1   4   0   2   2   1  10  12   1   2   2  14   1     0    0    0   2.417     80  0.00
+  125  125    24  18   2  10   2   0   0  11   6   1   2  11  12   0   0   0   0   0   0   0     0    0    0   2.128     71  0.00
+  126  126     4   5  10   4   1   0   0   1  16   0  19  27  12   0   0   0   1   0   1   0     0    0    0   2.046     68  0.00
+  127  127     1   1   1   1   0   0   1   0   2   0   3   2   0   3  30  26  27   1   1   0     0    0    0   1.803     60  0.00
+  128  128     3   7   1   1   1   0   3   2  41   2   3   1   1   6   3   3   5  15   1   0     0    0    0   2.154     71  0.00
+  129  129    31  10   5   1   7   0   1   1  36   0   1   1   1   0   0   0   1   2   0   0     0    0    0   1.785     59  0.00
+  130  130     9  21   7   2   2   1   6   6  32   2   3   5   1   3   0   1   1   0   0   0     0    0    0   2.206     73  0.00
+  131  131     1   4   1   1   0   0   1   2   4  24   2   2   0   3  19  20   4   6   3   1     0    0    0   2.267     75  0.00
+  132  132     5  18   5   2   1   0   3   5  13  11   4   3   0   7   6   3   4   5   1   2     0    0    0   2.648     88  0.00
+  133  133     1  14   2  34  10   5   5   8   4   1   2   1   1   4   1   0   5   2   0   0     0    0    0   2.246     74  0.00
+  134  134     9  24  15  30   2   0   1   3   2   1   1   1   0   0   6   3   0   2   0   0     0    0    0   2.045     68  0.00
+  135  135     3   3   3   6   0   0   0   1  10   2   3   2   0   3  19  18   8  15   0   4     0    0    0   2.396     79  0.00
+  136  136     1   3   1   6   0   0   1   2  15   3   4   2   0   4  18  22   5   6   6   3     0    0    0   2.409     80  0.00
+  137  137     1   2   1   3   0   0   0  16   9   1   7   1   0   2  13  12  14  10   5   3     0    0    0   2.436     81  0.00
+  138  138     2   1   4   3   1   1   1  20   3   2   5   5   0   4  14  12  10   6   5   3     0    0    0   2.585     86  0.00
+  139  139     0   0   1   0   4   3   2  33   3   4   9   1   0   2  12  14   3   2   3   3     0    0    0   2.269     75  0.00
+  140  140     1   0   0   0   0   0   0  84   4   1   2   1   0   1   5   1   0   0   0   0     0    0    0   0.772     25  0.00
+  141  141     6   1   7   1   0   0   0   7  11   0  28   2   1   4  21   4   0   0   5   1     0    0    0   2.205     73  0.00
+  142  142    19   3  64   1   1   0   0   0   4   0   3   1   0   0   3   0   0   0   0   0     0    0    0   1.259     42  0.00
+  143  143    38   4  46   1   1   0   0   1   1   0   0   1   0   0   0   0   0   0   5   0     0    0    0   1.330     44  0.00
+  144  144    13  13  16   2   8   0   1   2   1   0   3   3   3   0   0   0   1   0  33   0     0    0    0   2.054     68  0.00
+  145  145    14   3  19  11   1   0   0   1   3   0   9  25   0   0   0   0   0   0  13   0     0    0    0   2.050     68  0.00
+  146  146     5   2   9   2   1   0   0  13  16   0  39   7   3   0   0   1   0   0   2   0     0    0    0   1.927     64  0.00
+  147  147     4   1   2   1   0   0   1   7   6   0  70   6   0   0   1   0   0   0   1   0     0    0    0   1.251     41  0.00
+  148  148    22   5  19   5   1   1   0   3   7   1  17   7   0   0   1   1   3   1   5   1     0    0    0   2.320     77  0.00
+  149  149    10   5   6   1   2   1   1  10  24   0  14  13   1   4   2   1   1   1   3   1     0    0    0   2.379     79  0.00
+  150  150     5   3   4   0   1   0   1  39  21   0   9   2   0   2   1   1   2   3   5   1     0    0    0   2.042     68  0.00
+  151  151     9  10   4   3   5   1   3   7   8   1   5   4   1   5   4   4   6   3  15   1     0    0    0   2.783     92  0.00
+  152  152    15   6  17   3   2   1   4   8   9   2   5   4   0   2   6   4   3   4   4   1     0    0    0   2.683     89  0.00
+  153  153     4   3   4   2   2   0   1  22  18   9  14   6   1   1   3   6   2   0   2   0     0    0    0   2.419     80  0.00
+  154  154     5   4   4   2   4   2   1  17   8   8  27   2   0   1   1   1   2   1   6   1     0    0    0   2.427     81  0.00
+  155  155    18   5   7   1   1   1   1   8   8  19   8   5   0   0   3   1   3   3   3   3     0    0    0   2.562     85  0.00
+  156  156     7   5   3   2   5   1   2  20  13  16   5   3   1   2   1   2   1   2   6   2     0    0    0   2.555     85  0.00
+  157  157     4   9   5   2   5   1   3  31   9   3  10   3   1   1   2   1   3   2   3   2     0    0    0   2.474     82  0.00
+  158  158     5  11   3   3   5   1   2  14  11   7  12   3   0   3   3   5   5   5   1   2     0    0    0   2.703     90  0.00
+  159  159     9   3   6   3   2   0   3   8  18   9   8   5   1   3   4   4   5   4   2   2     0    0    0   2.750     91  0.00
+  160  160     2   1   1   1   2   0   2  43  19  10   4   2   0   4   3   1   1   2   0   3     0    0    0   1.965     65  0.00
+  161  161     8   3   2   1   3   1   2  15   8   5  11   2   1   2   0   1  14   1  18   2     0    0    0   2.492     83  0.00
+  162  162    19  16  18   6  12   2   1   1  11   4   1   3   0   0   2   1   2   1   0   0     0    0    0   2.277     76  0.00
+  163  163     1   3   1   1   1   1   2  30   7   1   9  15   0   1   2  11   2   1   9   2     0    0    0   2.299     76  0.00
+  164  164     2   3   0   4   0   0   2   5   7   0   5   3   0  12   7   3  41   4   2   0     0    0    0   2.139     71  0.00
+  165  165    15   6   6   1   0   0   0   1  35   3  10  17   2   1   0   0   0   0   1   1     0    0    0   1.986     66  0.00
+  166  166    15   8   5   2   3   1   2   2  19   6   2   2   1   8   0   0   0   0  21   2     0    0    0   2.364     78  0.00
+  167  167     1   0   0   0   0   0  95   0   1   0   2   1   0   1   0   0   0   0   0   0     0    0    0   0.272      9  0.00
+  168  168     5   0   1   0   0   0   0  12  25   1  31   8   7   0   0   0   0   0   8   0     0    0    0   1.888     63  0.00
+  169  169     5   2   1   2   0   0   0   8  61   1  11   7   1   0   0   0   1   0   0   0     0    0    0   1.448     48  0.00
+  170  170     1   0   0   1   0   0   0   1  26   0  52  19   1   0   0   0   0   0   0   0     0    0    0   1.186     39  0.00
+  171  171     0   0   0   0   0   0   0   0   0   0   0   0   0   0   2  96   0   0   0   0     0    0    0   0.202      6  0.00
+  172  172     1   0   0   0   4   1   1  28  40   0   6   3   1  12   0   0   0   1   1   0     0    0    0   1.716     57  0.00
+  173  173     0   0   0   0   0   0   0  41  56   0   1   1   0   0   0   0   0   0   0   0     0    0    0   0.859     28  0.00
+  174  174    40  27  20   7   0   0   0   0   2   0   0   1   1   0   0   0   1   0   0   1     0    0    0   1.511     50  0.00
+  175  175    15  10  20   1   0   0   2   1   5   0   3   4   0   4   4   3   2  10   8   8     0    0    0   2.476     82  0.00
+  176  176     0   3   1   6   0   0   0  43  14   0   7   9   0   4   0   0   7   0   7   0     0    0    0   1.901     63  0.00
+  177  177     2  44   3  16  30   1   2   0   1   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.448     48  0.00
+  178  178     7   1   2   3   0   0   0   1  11   0  13  61   1   0   0   0   0   0   1   0     0    0    0   1.339     44  0.00
+  179  179     2   4   0   2   0   0   0   0   1   0   0   1   0   2  35  40   5   6   1   1     0    0    0   1.646     54  0.00
+  180  180     4   2   2   1   0   1   1   8  21   2  25  14   8   1   1   0   2   1   6   0     0    0    0   2.254     75  0.00
+  181  181     5  56   5  13   3   3   1   0  11   0   1   2   0   0   0   0   0   0   0   0     0    0    0   1.551     51  0.00
+  182  182     0   0   0   0   0   0   0   5  79   0   6   1   2   0   4   0   0   0   0   0     0    0    0   0.914     30  0.00
+  183  183    11  18   8   3   2   1   1   2  10   0   2   2   5   2  15   9   6   1   4   1     0    0    0   2.545     84  0.00
+  184  184     0   0   0   0   0   0   0   1   2   0   2   1   0   1   2   0   3  72   1  16     0    0    0   1.072     35  0.00
+  185  185     9  42   2   3   7  14   8   4   4   0   1   2   2   1   0   0   0   1   1   0     0    0    0   1.988     66  0.00
+  186  186     3   1   2   0   1   0   0  28  53   0   4   0   1   0   4   2   1   0   0   1     0    0    0   1.432     47  0.00
+  187  187     1   1   0   0   0   0   0   7   7  23  12   4   1   1  10  14   5   9   1   5     0    0    0   2.328     77  0.00
+  188  188     1   3   1   1   5   1  11   0   3   1   6   6   0  11  16  18   4   3   1   9     0    0    0   2.485     82  0.00
+  189  189     0   0   0   0   0   0   0  62   1   0   1   0   0   0   3   9   1   0  19   2     0    0    0   1.274     42  0.00
+  190  190    22   2  74   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.755     25  0.00
+  191  191     0   2   0   0   0   0   0   1   1   0   1  25   0   1  60   3   2   0   4   0     0    0    0   1.256     41  0.00
+  192  192    78   1   6   0   2   0   0   0   6   0   1   2   5   0   0   0   0   0   0   0     0    0    0   0.919     30  0.00
+  193  193     4   0   1   1   0   0   0   0   1   0   2   4   0   1   0   0   0   0  86   0     0    0    0   0.690     23  0.00
+  194  194    10   1   2   1   0   0   0   9  38   0  14   8  14   0   0   0   0   1   2   0     0    0    0   1.883     62  0.00
+  195  195    57   9  32   0   0   0   1   0   1   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.044     34  0.00
+  196  196     1   4   0   1   0   0   1   3  47   0  15   2  14   2   1   0   2   1   5   1     0    0    0   1.808     60  0.00
+  197  197     0   0   0   0   0   0   0   1   0  98   0   0   0   0   0   0   0   0   0   0     0    0    0   0.156      5  0.00
+  198  198     0   0   0   1   1   2   2  86   3   0   1   2   1   1   0   0   0   0   1   1     0    0    0   0.709     23  0.00
+  199  199    10   9   6   2  16   4  16   8  10  10   3   4   0   0   1   0   0   1   1   0     0    0    0   2.439     81  0.00
+  200  200    27   1  51   2   6   0   1   0   1   0   0  10   0   0   0   0   0   0   0   0     0    0    0   1.347     44  0.00
+  201  201     3   6   0   1   0   3   2   2  15   3   3   2   0   1   7  13   2  14   6  17     0    0    0   2.489     83  0.00
+  202  202     0   1   0   0   0   0   0   1   1   0  10  84   0   0   0   0   0   0   0   0     0    0    0   0.658     21  0.00
+  203  203     0   1   0   0   0   0   0   3   5  27   4   2   0   1   2   4   1  15   4  32     0    0    0   1.924     64  0.00
+  204  204     1  13   7  39   3   0   0   3   7   2   2   1   0   1   6   3   7   3   3   1     0    0    0   2.187     73  0.00
+  205  205     9   9   4   3   1   2   5   3  10   2   6  29   0   1   2   2   3   2   7   1     0    0    0   2.462     82  0.00
+  206  206     3   5   2   2   1   0   1   9  23   5   7   4   0   4   8   6   6   8   2   6     0    0    0   2.607     87  0.00
+  207  207     3   2   1   1   5   2   2   8  16   3   7   4   0   6   7   7   5  12   5   5     0    0    0   2.729     91  0.00
+  208  208    14  28   8  10   6   2   1   3   7   2   4   4   0   0   2   1   2   2   2   1     0    0    0   2.418     80  0.00
+  209  209     2   2   3   1   1   1   1   7   5  13   7   4   0   1   3   2   2  11   7  28     0    0    0   2.443     81  0.00
+  210  210     1   0   1   0   1   0   0   3   8  12   3   1   0   1   7  13   9  27   2  13     0    0    0   2.240     74  0.00
+  211  211     2   1   1   1   0   0   0   5  10   3   4   3   0   1   7  16  10  24   2  10     0    0    0   2.373     79  0.00
+  212  212    23  13  13   5   8   1   3   2   6   1   2   4   0   1   3   4   6   3   1   2     0    0    0   2.510     83  0.00
+  213  213     5  12   3   1   2   0   1   3   8   2   4   2   0   1  20  14   4  10   2   6     0    0    0   2.549     85  0.00
+  214  214     0   1   1   1   0   0   0   2  12   3   2   3   0   0   2  13   5  28   6  20     0    0    0   2.125     70  0.00
+  215  215     3   3   1   3   5   1   7   7   9   2   4   4   1   6   7  12   6  10   2   7     0    0    0   2.791     93  0.00
+  216  216     8  11  13   8   8   3   4   2  12   0   3   4   0   1   3   3   7   5   1   2     0    0    0   2.681     89  0.00
+  217  217     7  15   6   2   2   0   1   7  23   1   3   5   3   1   3   7   3   8   1   0     0    0    0   2.519     84  0.00
+  218  218     1   3   0   0   0   1   0   7  18   4  20   7   0   0   5   9   5   9   4   6     0    0    0   2.443     81  0.00
+  219  219     2   4   1   6   2   3   1   7   7   1   6   8   0   4  14  10  10   4   8   4     0    0    0   2.709     90  0.00
+  220  220    17   3  39   2   1   0   1   1   3   0   7  16   1   3   0   1   2   0   1   1     0    0    0   2.005     66  0.00
+  221  221     1   2   0   0   0   0   0   0   7  82   1   1   0   0   1   1   1   0   0   0     0    0    0   0.866     28  0.00
+  222  222     4  46   7  18   4   0   0   0  10   1   1   3   1   3   0   1   2   0   0   0     0    0    0   1.867     62  0.00
+  223  223     0   1   0   0   0   0   0  49   3   3   3   0   0   1  10  16   4   1   7   1     0    0    0   1.718     57  0.00
+  224  224     1   0   1   1   1   0   3   0   2   0   0   1   0   1  82   5   1   1   0   1     0    0    0   0.927     30  0.00
+  225  225    14  26   9   8  12   5   7   2   8   3   1   1   0   1   1   0   0   1   1   0     0    0    0   2.332     77  0.00
+  226  226     3   3   1   1   0   0   0  70  13   1   4   1   1   0   0   1   1   0   0   0     0    0    0   1.201     40  0.00
+  227  227     3   5   0   0   0   0   0   1   2   0   4  16   0   1   9  12  16  22   1   8     0    0    0   2.242     74  0.00
+  228  228     7   1   1   1   0   0   0   1  11  67   2   5   0   0   0   1   0   1   0   1     0    0    0   1.298     43  0.00
+  229  229     4   1   4   0   0   0   0   1   7   1   5   2   0   1   4   3   5  46   3  12     0    0    0   2.028     67  0.00
+  230  230     0   0   0   0   0   0   0   0   1   0   0   0   0   2   1   0   2  59   0  34     0    0    0   0.996     33  0.00
+  231  231    41  12  36   3   1   0   1   1   1   0   0   0   2   1   0   0   0   0   0   1     0    0    0   1.466     48  0.00
+  232  232     7   1   1   1   0   0   0   6  74   0   5   3   0   0   0   1   0   0   0   0     0    0    0   1.104     36  0.00
+  233  233     0   0   0   1   0   1   1  22  18   3  12   1   0   2   8   2   2   7  11   8     0    0    0   2.269     75  0.00
+  234  234    19  20   3   4   1   0   0   1  32   3   5   7   1   0   0   1   1   1   1   0     0    0    0   2.032     67  0.00
+  235  235    49   2  11   1   0   0   7   0  24   0   1   2   2   0   0   0   0   0   0   0     0    0    0   1.495     49  0.00
+  236  236    19  22   4   1   2   0   1   3  28   0   6   2   5   0   3   0   0   1   0   0     0    0    0   2.079     69  0.00
+  237  237     1   6   0   0  63   7  19   0   1   0   1   0   0   0   0   0   0   0   0   0     0    0    0   1.171     39  0.00
+  238  238     1  90   1   1   4   0   1   0   2   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.492     16  0.00
+  239  239     6  15   2   1   1   0   0   1  59   0   3   1  12   0   0   0   0   0   0   0     0    0    0   1.361     45  0.00
+  240  240     0   2   0   0   2   0   0   6   3   0  76   2   1   1   1   0   0   1   0   2     0    0    0   1.106     36  0.00
+  241  241     0   0   0   0   0   0   0   2   2  17   7   0   0   0   2   3   4  14   4  44     0    0    0   1.759     58  0.00
+  242  242     0   6   0   0   0   0   2   4  23   1   3   3   0   2   5   4   5  19   2  20     0    0    0   2.266     75  0.00
+  243  243     0   1   0   1   0   0   0   9  55   0  31   0   0   0   0   0   0   0   1   0     0    0    0   1.144     38  0.00
+  244  244     0   1   0   0   0   0   0  11  12   1  47   3   0   0   6   4   1   4   2   7     0    0    0   1.844     61  0.00
+  245  245     1   0   0   2  20  10  54   2   1   0   4   0   0   2   0   0   1   0   1   0     0    0    0   1.499     50  0.00
+  246  246    36   4  41   7   0   0   1   1   1   0   1   6   1   0   0   0   0   0   0   0     0    0    0   1.495     49  0.00
+  247  247     2   0   0   0   0   0   0   0   1   0   9  70   0   1   1   0   0   0  14   0     0    0    0   1.050     35  0.00
+  248  248     0   1   0   0   0   0   0  92   4   0   2   1   0   0   0   0   0   0   0   0     0    0    0   0.425     14  0.00
+  249  249     4   2   3   0   0   0   1   2  16   0   8  10   0   5   0   2  34   9   2   1     0    0    0   2.142     71  0.00
+  250  250    18   2  11   2   1   0   0   1   8   0   5  28   2   1   1   0   2   6   8   5     0    0    0   2.280     76  0.00
+  251  251     9  42  32   2   6   1   5   0   0   0   0   1   0   2   0   0   0   0   1   0     0    0    0   1.522     50  0.00
+  252  252    14   4   5   1   5   1   4   3   7   9   6   6   4   9   3   2   1   3   9   4     0    0    0   2.780     92  0.00
+  253  253    62   3  20   1   1   0   0   0   8   2   1   0   0   0   0   0   0   1   0   0     0    0    0   1.213     40  0.00
+  254  254     0   0   0   0   0   0   0   2   3   0   4   2   3   0   0   0   0   1  15  70     0    0    0   1.110     37  0.00
+  255  255     0   0   0   0   0   0   0  95   2   0   1   0   0   0   0   0   0   0   1   0     0    0    0   0.271      9  0.00
+  256  256     0   0   0   0   0   0   0  99   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.066      2  0.00
+  257  257     3   6   2  12   5   6   9   0   5   0   5   4   0   1  15   3  16   5   1   1     0    0    0   2.599     86  0.00
+  258  258    13  39  10   5   3   0   1   0   3   1   6  13   2   0   0   0   1   4   1   0     0    0    0   1.974     65  0.00
+  259  259    30  26  26  10   0   0   0   0   2   0   2   0   3   0   1   0   0   0   0   0     0    0    0   1.603     53  0.00
+  260  260     0   0   0   0  23  31  46   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.059     35  0.00
+//

@@ -1,0 +1,1388 @@
+ID Pseudo hssp file.
+SEQ 
+SEQ gi|123644|sp|P19120|HS7C_BOVIN HEAT SHOCK COGNATE 71 KDA PROTEIN...   706  0.0
+SEQ gi|5729877|ref|NP_006588.1| heat shock 70kD protein 8; heat shoc...   706  0.0
+SEQ gi|13242237|ref|NP_077327.1| heat shock cognate protein 70 [Ratt...   706  0.0
+SEQ gi|13624307|ref|NP_112442.1| heat shock protein cognate 70 [Mus ...   706  0.0
+SEQ gi|1065227|pdb|3HSC|    Heat-Shock Cognate 7okd Protein (44kd At...   706  0.0
+SEQ gi|11526573|dbj|BAB18615.1| (AB034951) heat shock cognate protei...   706  0.0
+SEQ gi|640325|pdb|1NGB|    Heat-Shock Cognate 70kd Protein (44kd Atp...   705  0.0
+SEQ gi|6729733|pdb|1BUP|A Chain A, T13s Mutant Of Bovine 70 Kilodalt...   705  0.0
+SEQ gi|640327|pdb|1NGD|    Heat-Shock Cognate 70kd Protein (44kd Atp...   705  0.0
+SEQ gi|640330|pdb|1NGF|    Heat-Shock Cognate 70kd Protein (44kd Atp...   705  0.0
+SEQ gi|640332|pdb|1NGH|    Heat-Shock Cognate 70kd Protein (44kd Atp...   705  0.0
+SEQ gi|442639|pdb|1ATR|    Heat-Shock Cognate 70 Kd Protein (44 Kd A...   705  0.0
+SEQ gi|640324|pdb|1NGA|    Heat-Shock Cognate 70kd Protein (44kd Atp...   704  0.0
+SEQ gi|442640|pdb|1ATS|    Heat-Shock Cognate 70 Kd Protein (44 Kd A...   704  0.0
+SEQ gi|640326|pdb|1NGC|    Heat-Shock Cognate 70kd Protein (44kd Atp...   704  0.0
+SEQ gi|640329|pdb|1NGE|    Heat-Shock Cognate 70kd Protein (44kd Atp...   704  0.0
+SEQ gi|640331|pdb|1NGG|    Heat-Shock Cognate 70kd Protein (44kd Atp...   704  0.0
+SEQ gi|3402101|pdb|1BA0|    Heat-Shock Cognate 70kd Protein 44kd Atp...   704  0.0
+SEQ gi|3402102|pdb|1BA1|    Heat-Shock Cognate 70kd Protein 44kd Atp...   702  0.0
+SEQ gi|347019|pir||S31716 dnaK-type molecular chaperone hsp72-ps1 - ...   700  0.0
+SEQ gi|123647|sp|P19378|HS7C_CRIGR HEAT SHOCK COGNATE 71 KDA PROTEIN...   700  0.0
+SEQ gi|13399491|pdb|1HX1|A Chain A, Crystal Structure Of A Bag Domai...   699  0.0
+SEQ gi|1943517|pdb|1KAZ|    70kd Heat Shock Cognate Protein Atpase D...   699  0.0
+SEQ gi|1943516|pdb|1KAY|    70kd Heat Shock Cognate Protein Atpase D...   698  0.0
+SEQ gi|1943515|pdb|1KAX|    70kd Heat Shock Cognate Protein Atpase D...   698  0.0
+SEQ gi|6729825|pdb|2BUP|A Chain A, T13g Mutant Of The Atpase Fragmen...   698  0.0
+SEQ gi|2996407|emb|CAA06233.1| (AJ004940) heat shock cognate 70 [Gal...   695  0.0
+SEQ gi|6137549|pdb|1QQO|A Chain A, E175s Mutant Of Bovine 70 Kilodal...   693  0.0
+SEQ gi|6137547|pdb|1QQM|A Chain A, D199s Mutant Of Bovine 70 Kilodal...   685  0.0
+SEQ gi|232285|sp|P08108|HS70_ONCMY HEAT SHOCK COGNATE 70 KD PROTEIN ...   681  0.0
+SEQ gi|1322309|gb|AAB00199.1| (U55176) heat shock cognate 70.II [Xen...   681  0.0
+SEQ gi|6137548|pdb|1QQN|A Chain A, D206s Mutant Of Bovine 70 Kilodal...   680  0.0
+SEQ gi|3513540|gb|AAC33859.1| (AF053059) heat shock protein 70 [Para...   679  0.0
+SEQ gi|4589737|dbj|BAA76887.1| (D13669) heat shock protein 70 cognat...   678  0.0
+SEQ gi|2495341|sp|Q90473|HS7C_BRARE HEAT SHOCK COGNATE 71 KD PROTEIN...   671  0.0
+SEQ gi|7960186|gb|AAF71255.1| (AF227986) HSC71 [Rivulus marmoratus]       665  0.0
+SEQ gi|1346318|sp|P47773|HS7C_ICTPU HEAT SHOCK COGNATE 71 KD PROTEIN...   659  0.0
+SEQ gi|1865782|emb|CAA72216.1| (Y11413) HSC70 protein [Danio rerio]       658  0.0
+SEQ gi|942594|gb|AAA74394.1| (U30456) heat shock cognate protein [Ur...   649  0.0
+SEQ gi|12585261|sp|Q9U639|HS7D_MANSE HEAT SHOCK 70 KDA PROTEIN COGNA...   647  0.0
+SEQ gi|4838561|gb|AAD31042.1|AF144646_1 (AF144646) heat shock protei...   646  0.0
+SEQ gi|13650446|ref|XP_012385.2| heat shock 70kD protein 2 [Homo sap...   646  0.0
+SEQ gi|11177910|ref|NP_068635.1| testis-specific heat shock protein-...   644  0.0
+SEQ gi|13435696|gb|AAH04714.1|AAH04714 (BC004714) heat shock protein...   644  0.0
+SEQ gi|4204880|gb|AAD11466.1| (U56725) heat shock protein [Homo sapi...   643  0.0
+SEQ gi|2495346|sp|Q91233|HS70_ONCTS HEAT SHOCK 70 KD PROTEIN (HSP70)...   643  0.0
+SEQ gi|1495233|gb|AAB06239.1| (U23504) HSC70 [Trichoplusia ni]            643  0.0
+SEQ gi|92355|pir||S08211 dnaK-type molecular chaperone hst70 - rat        643  0.0
+SEQ gi|109946|pir||S10859 dnaK-type molecular chaperone HSP70.2 - mouse   642  0.0
+SEQ gi|6063529|dbj|BAA85389.1| (AB033604) 70 kDa heat shock protein ...   641  0.0
+SEQ gi|6680303|ref|NP_032327.1| heat shock protein, 70 kDa 2 [Mus mu...   641  0.0
+SEQ gi|7861932|gb|AAF70445.1| (AF210640) Hsp70 [Danio rerio]              639  0.0
+SEQ gi|3004463|emb|CAA04673.1| (AJ001312) heat shock protein 70 [Ore...   639  0.0
+SEQ gi|266311|sp|P11147|HS7D_DROME HEAT SHOCK 70 KDA PROTEIN COGNATE...   639  0.0
+SEQ gi|2119712|pir||A29160 dnaK-type molecular chaperone HSPA1L - hu...   639  0.0
+SEQ gi|123586|sp|P08106|HS70_CHICK HEAT SHOCK 70 KD PROTEIN (HSP70) ...   639  0.0
+SEQ gi|462325|sp|P08107|HS71_HUMAN HEAT SHOCK 70 KDA PROTEIN 1 (HSP7...   638  0.0
+SEQ gi|4885431|ref|NP_005337.1| heat shock 70kD protein 1B [Homo sap...   638  0.0
+SEQ gi|2495339|sp|Q27965|HS72_BOVIN HEAT SHOCK 70 KDA PROTEIN 2 (HSP...   638  0.0
+SEQ gi|90605|pir||JH0095 dnaK-type molecular chaperone hsp70 - mouse...   638  0.0
+SEQ gi|3986773|gb|AAC84169.1| (AF109906) HSP70 [Mus musculus]             638  0.0
+SEQ gi|2119721|pir||I54542 dnaK-type molecular chaperone - rat >gi|4...   637  0.0
+SEQ gi|5123454|ref|NP_005336.2| heat shock 70kD protein 1A [Homo sap...   637  0.0
+SEQ gi|2104672|emb|CAA73574.1| (Y13114) heat shock protein 70 [Trich...   637  0.0
+SEQ gi|266308|sp|P29843|HS7A_DROME HEAT SHOCK 70 KDA PROTEIN COGNATE...   636  0.0
+SEQ gi|11277120|pir||T43724 dnaK-type molecular chaperone [imported]...   636  0.0
+SEQ gi|662802|gb|AAC23392.1| (U20256) heat shock-like protein, simil...   636  0.0
+SEQ gi|9652348|gb|AAF91485.1| (AF286875) HSP70-1 protein [Oryzias la...   636  0.0
+SEQ gi|1255995|gb|AAB97092.1| (U30885) heat shock cognate 70.I [Xeno...   635  0.0
+SEQ gi|2506541|sp|P17879|HS71_MOUSE HEAT SHOCK 70 KDA PROTEIN 1 (HSP...   635  0.0
+SEQ gi|123604|sp|P02827|HS70_XENLA HEAT SHOCK 70 KD PROTEIN (HSP70) ...   635  0.0
+SEQ gi|2495338|sp|Q27975|HS71_BOVIN HEAT SHOCK 70 KD PROTEIN 1 (HSP7...   635  0.0
+SEQ gi|6729803|pdb|1HJO|A Chain A, Heat-Shock 70kd Protein 42kd Atpa...   634  0.0
+SEQ gi|14010867|ref|NP_114177.1| heat shock protein 70-1 [Rattus nor...   634  0.0
+SEQ gi|103190|pir||A36333 dnaK-type molecular chaperone Hsc70-4 - fr...   634  0.0
+SEQ gi|396270|emb|CAA52328.1| (X74271) heat shock protein 70 [Rattus...   632  e-180
+SEQ gi|2119722|pir||I49761 dnaK-type molecular chaperone Hsc70t - mo...   631  e-180
+SEQ gi|1346319|sp|P16627|HS7T_MOUSE HEAT SHOCK-RELATED 70 KD PROTEIN...   631  e-180
+SEQ gi|7305163|ref|NP_038586.1| heat shock protein cognate 70, testi...   631  e-180
+SEQ gi|9438176|gb|AAF87583.1|AF278536_1 (AF278536) heat shock 70 pro...   629  e-179
+SEQ gi|1708309|sp|P55063|HS73_RAT HEAT SHOCK 70 KD PROTEIN 3 (HSP70....   628  e-179
+SEQ gi|1620388|emb|CAA69894.1| (Y08581) 70kD heat shock protein [Tak...   628  e-179
+SEQ gi|462326|sp|P34930|HS71_PIG HEAT SHOCK 70 KD PROTEIN 1 (HSP70.1...   627  e-179
+SEQ gi|12044387|gb|AAG47839.1|AF318605_1 (AF318605) heat shock prote...   627  e-179
+SEQ gi|5031769|ref|NP_005518.1| heat shock 70kD protein-like 1; Heat...   626  e-178
+SEQ gi|3461866|dbj|BAA32521.1| (D85730) Heat shock protein 70 testis...   626  e-178
+SEQ gi|13645492|ref|XP_004187.3| heat shock 70kD protein-like 1 [Hom...   626  e-178
+SEQ gi|4235279|gb|AAD13154.1| (AF079360) heat shock protein 70 [Seta...   621  e-177
+SEQ gi|1305453|gb|AAA99139.1| (U26448) heat shock 70 kDa protein [Ec...   620  e-176
+SEQ gi|6941872|gb|AAF32254.1| (AF167352) heat shock protein 70 [Wuch...   620  e-176
+SEQ gi|399939|sp|P08418|HS70_SCHMA HEAT SHOCK 70 KD HOMOLOG PROTEIN ...   619  e-176
+SEQ gi|462327|sp|P34933|HS73_BOVIN HEAT SHOCK 70 KD PROTEIN 3 >gi|16...   619  e-176
+SEQ gi|7499893|pir||T21394 hypothetical protein F26D10.3 - Caenorhab...   619  e-176
+SEQ gi|7673686|gb|AAF66987.1| (AF250996) heat shock protein 70 [Wuch...   618  e-176
+SEQ gi|3114993|emb|CAA75383.1| (Y15109) heat shock protein 70 [Sycon...   617  e-175
+SEQ gi|631840|pir||S43388 dnaK-type molecular chaperone HSP70ib - ra...   616  e-175
+SEQ gi|1469234|emb|CAA64441.1| (X94985) heat shock protein 70 [Geodi...   615  e-175
+SEQ gi|1620381|emb|CAA69891.1| (Y08577) 70 kD heat shock protein [Ta...   613  e-174
+SEQ gi|462324|sp|Q05944|HS70_HYDMA HEAT SHOCK 70 KD PROTEIN >gi|2835...   611  e-174
+SEQ gi|123585|sp|P27541|HS70_BRUMA HEAT SHOCK 70 KD PROTEIN >gi|3453...   611  e-174
+SEQ gi|462328|sp|Q04967|HS76_PIG HEAT SHOCK 70 KDA PROTEIN 6 (HEAT S...   610  e-174
+SEQ gi|123637|sp|P09446|HS7A_CAEEL HEAT SHOCK 70 KD PROTEIN A >gi|72...   607  e-173
+SEQ gi|6016261|sp|Q28222|HS71_CERAE HEAT SHOCK 70 KD PROTEIN 1 >gi|4...   607  e-173
+SEQ gi|1661112|gb|AAB18390.1| (U70213) heat shock 70kDa protein [Mes...   606  e-172
+SEQ gi|7441849|pir||JC5642 dnaK-type molecular chaperone hsc70 - Ibe...   605  e-172
+SEQ gi|2495347|sp|Q91291|HS70_PLEWA HEAT SHOCK 70 KD PROTEIN (HSP70)...   604  e-172
+SEQ gi|7672737|gb|AAF66617.1|AF142572_1 (AF142572) hsp-70-related in...   603  e-171
+SEQ gi|4504515|ref|NP_002146.1| heat shock 70kD protein 6 (HSP70B');...   602  e-171
+SEQ gi|159592|gb|AAC41542.1| (M96661) heat shock protein 70, hsp70A2...   601  e-171
+SEQ gi|1170377|sp|P41827|HS74_ANOAL HEAT SHOCK PROTEIN 70 B2 >gi|112...   601  e-171
+SEQ gi|1518940|gb|AAB18178.1| (U51902) heat shock protein 70 [Botryl...   601  e-171
+SEQ gi|4098874|gb|AAD00455.1| (U80967) heat shock protein 70 [Pneumo...   598  e-170
+SEQ gi|4097891|gb|AAD09565.1| (U71151) heat shock protein 70 [Pneumo...   597  e-170
+SEQ gi|3114907|emb|CAA74243.1| (Y13926) heat shock protein 70 [Rhabd...   597  e-169
+SEQ gi|1170372|sp|P41825|HS71_ANOAL HEAT SHOCK PROTEIN 70 A1 >gi|159...   596  e-169
+SEQ gi|1170376|sp|P41826|HS72_ANOAL HEAT SHOCK PROTEIN 70 A2 >gi|159...   596  e-169
+SEQ gi|14538021|gb|AAK66771.1|AF386787_1 (AF386787) heat shock prote...   596  e-169
+SEQ gi|13938297|gb|AAH07276.1|AAH07276 (BC007276) Similar to heat sh...   594  e-169
+SEQ gi|7688162|emb|CAB89802.1| (AJ271444) heat shock protein 70 [Cra...   594  e-169
+SEQ gi|10168|emb|CAA28976.1| (X05384) 70,000 mol wt antigen/hsp70 ho...   593  e-168
+SEQ gi|7363334|gb|AAF61296.1| (AF182194) heat shock protein 70 [Clat...   592  e-168
+SEQ gi|11277117|pir||T45522 heat shock protein HSC70-1, cytosolic [i...   591  e-168
+SEQ gi|547682|sp|P36415|HS7C_DICDI HEAT SHOCK COGNATE PROTEIN (AGINA...   591  e-168
+SEQ gi|1518938|gb|AAB18177.1| (U51901) heat shock protein 70 [Botryl...   591  e-168
+SEQ gi|7521943|pir||JC7132 heat shock protein 70 - Rhizopus nigrican...   591  e-168
+SEQ gi|7363336|gb|AAF61297.1| (AF182195) heat shock protein 70 [Guan...   590  e-167
+SEQ gi|2119719|pir||JC4786 dnaK-type molecular chaperone hsc70-3 - t...   589  e-167
+SEQ gi|13124306|sp|O97125|HS68_DROME HEAT SHOCK PROTEIN 68 >gi|43229...   589  e-167
+SEQ gi|84412|pir||JQ0314 major surface antigen - fluke (Schistosoma ...   589  e-167
+SEQ gi|14423729|sp|O93866|HS70_TRIRU HEAT SHOCK 70 KDA PROTEIN >gi|4...   588  e-167
+SEQ gi|2827002|gb|AAB99745.1| (AF005993) HSP70 [Triticum aestivum]        588  e-167
+SEQ gi|3929355|sp|Q01233|HS70_NEUCR HEAT SHOCK 70 KD PROTEIN (HSP70)...   587  e-166
+SEQ gi|11277116|pir||T45517 heat shock protein 70, cytosolic [import...   586  e-166
+SEQ gi|6969976|gb|AAF34134.1| (AF161180) high molecular weight heat ...   586  e-166
+SEQ gi|1346315|sp|P48720|HS70_BLAEM HEAT SHOCK 70 KD PROTEIN >gi|773...   585  e-166
+SEQ gi|123650|sp|P09189|HS7C_PETHY HEAT SHOCK COGNATE 70 KD PROTEIN ...   585  e-166
+SEQ gi|20559|emb|CAA31663.1| (X13301) hsp70 (AA 6 - 651) [Petunia x ...   585  e-166
+SEQ gi|2495359|sp|Q01877|HS71_PUCGR HEAT SHOCK PROTEIN HSS1 >gi|8819...   585  e-166
+SEQ gi|11277114|pir||T45471 dnaK-type molecular chaperone hsc70 [imp...   584  e-166
+SEQ gi|11024346|gb|AAG26887.1|AF295933_1 (AF295933) heat shock prote...   583  e-165
+SEQ gi|11024348|gb|AAG26888.1|AF295934_1 (AF295934) heat shock prote...   583  e-165
+SEQ gi|11024350|gb|AAG26889.1|AF295935_1 (AF295935) heat shock prote...   583  e-165
+SEQ gi|11024356|gb|AAG26892.1|AF295938_1 (AF295938) heat shock prote...   583  e-165
+SEQ gi|11024358|gb|AAG26893.1|AF295939_1 (AF295939) heat shock prote...   583  e-165
+SEQ gi|11024360|gb|AAG26894.1|AF295940_1 (AF295940) heat shock prote...   583  e-165
+SEQ gi|11024374|gb|AAG26901.1|AF295947_1 (AF295947) heat shock prote...   583  e-165
+SEQ gi|13560880|gb|AAK30248.1|AF350491_1 (AF350491) heat shock prote...   582  e-165
+SEQ gi|11024390|gb|AAG26909.1|AF295955_1 (AF295955) heat shock prote...   582  e-165
+SEQ gi|12643273|sp|P22953|HS71_ARATH HEAT SHOCK COGNATE 70 KDA PROTE...   582  e-165
+SEQ gi|123622|sp|P22623|HS72_PARLI HEAT SHOCK 70 KD PROTEIN II (HSP7...   582  e-165
+SEQ gi|11024372|gb|AAG26900.1|AF295946_1 (AF295946) heat shock prote...   582  e-165
+SEQ gi|13124734|sp|P02824|HS72_DROME MAJOR HEAT SHOCK 70 KDA PROTEIN...   582  e-165
+SEQ gi|11024378|gb|AAG26903.1|AF295949_1 (AF295949) heat shock prote...   582  e-165
+SEQ gi|11024386|gb|AAG26907.1|AF295953_1 (AF295953) heat shock prote...   582  e-165
+SEQ gi|11024398|gb|AAG26913.1|AF295959_1 (AF295959) heat shock prote...   582  e-165
+SEQ gi|13124307|sp|P82910|HS70_DROME MAJOR HEAT SHOCK 70 KDA PROTEIN...   582  e-165
+SEQ gi|13560852|gb|AAK30234.1|AF350477_1 (AF350477) heat shock prote...   582  e-165
+SEQ gi|13560868|gb|AAK30242.1|AF350485_1 (AF350485) heat shock prote...   582  e-165
+SEQ gi|1072473|pir||S46302 dnaK-type molecular chaperone hsc70.1 - A...   582  e-165
+SEQ gi|547681|sp|Q06248|HS74_PARLI HEAT SHOCK 70 KD PROTEIN IV (HSP7...   581  e-165
+SEQ gi|1170371|sp|P41797|HS71_CANAL HEAT SHOCK PROTEIN SSA1 >gi|1076...   581  e-165
+SEQ gi|1076746|pir||S53126 dnaK-type molecular chaperone hsp70 - ric...   580  e-165
+SEQ gi|11024396|gb|AAG26912.1|AF295958_1 (AF295958) heat shock prote...   580  e-165
+SEQ gi|11024364|gb|AAG26896.1|AF295942_1 (AF295942) heat shock prote...   580  e-165
+SEQ gi|11024362|gb|AAG26895.1|AF295941_1 (AF295941) heat shock prote...   580  e-165
+SEQ gi|11024404|gb|AAG26916.1|AF295962_1 (AF295962) heat shock prote...   580  e-165
+SEQ gi|13560858|gb|AAK30237.1|AF350480_1 (AF350480) heat shock prote...   580  e-165
+SEQ gi|11024370|gb|AAG26899.1|AF295945_1 (AF295945) heat shock prote...   580  e-165
+SEQ gi|13560816|gb|AAK30216.1|AF350459_1 (AF350459) heat shock prote...   580  e-165
+SEQ gi|14423732|sp|Q00043|HS70_AJECA HEAT SHOCK 70 KDA PROTEIN >gi|1...   580  e-164
+SEQ gi|13560836|gb|AAK30226.1|AF350469_1 (AF350469) heat shock prote...   580  e-164
+SEQ gi|10998548|gb|AAG25969.1|AF302421_1 (AF302421) heat shock prote...   580  e-164
+SEQ gi|11024380|gb|AAG26904.1|AF295950_1 (AF295950) heat shock prote...   580  e-164
+SEQ gi|11024394|gb|AAG26911.1|AF295957_1 (AF295957) heat shock prote...   580  e-164
+SEQ gi|10946359|gb|AAG24874.1|AF302410_1 (AF302410) heat shock prote...   580  e-164
+SEQ gi|10946302|gb|AAG24846.1|AF295975_1 (AF295975) heat shock prote...   580  e-164
+SEQ gi|10946308|gb|AAG24849.1|AF295978_1 (AF295978) heat shock prote...   580  e-164
+SEQ gi|11277103|pir||T45477 heat-shock protein 70 [imported] - Chond...   580  e-164
+SEQ gi|7490623|pir||T41121 heat shock protein 70 - fission yeast (Sc...   579  e-164
+SEQ gi|6911551|emb|CAB72129.1| (AJ249330) heat shock protein 70 [Cuc...   579  e-164
+SEQ gi|14550130|gb|AAK67155.1|AF385406_1 (AF385406) heat shock prote...   579  e-164
+SEQ gi|10946365|gb|AAG24877.1|AF302413_1 (AF302413) heat shock prote...   579  e-164
+SEQ gi|123620|sp|P27322|HS72_LYCES HEAT SHOCK COGNATE 70 KD PROTEIN ...   579  e-164
+SEQ gi|1620385|emb|CAA69892.1| (Y08578) 70kD heat shock protein [Tak...   579  e-164
+SEQ gi|6478524|gb|AAF13878.1|AF188289_1 (AF188289) Hsp70 protein 2 [...   579  e-164
+SEQ gi|11024392|gb|AAG26910.1|AF295956_1 (AF295956) heat shock prote...   579  e-164
+SEQ gi|415898|emb|CAA81642.1| (Z27118) heat shock rotein 70 [Rattus ...   579  e-164
+SEQ gi|1883003|emb|CAA62443.1| (X90948) HSP70 [Ascophyllum nodosum]       579  e-164
+SEQ gi|10946290|gb|AAG24840.1|AF295969_1 (AF295969) heat shock prote...   579  e-164
+SEQ gi|7521944|pir||PC7036 heat shock protein 70 - Rhizopus nigrican...   579  e-164
+SEQ gi|9294373|dbj|BAB02269.1| (AP002055) 70 kDa heat shock protein ...   578  e-164
+SEQ gi|13560842|gb|AAK30229.1|AF350472_1 (AF350472) heat shock prote...   578  e-164
+SEQ gi|10946298|gb|AAG24844.1|AF295973_1 (AF295973) heat shock prote...   578  e-164
+SEQ gi|10998546|gb|AAG25968.1|AF302420_1 (AF302420) heat shock prote...   578  e-164
+SEQ gi|10946292|gb|AAG24841.1|AF295970_1 (AF295970) heat shock prote...   578  e-164
+SEQ gi|10946296|gb|AAG24843.1|AF295972_1 (AF295972) heat shock prote...   578  e-164
+SEQ gi|10946363|gb|AAG24876.1|AF302412_1 (AF302412) heat shock prote...   578  e-164
+SEQ gi|417149|sp|P10591|HS71_YEAST HEAT SHOCK PROTEIN SSA1 (HEAT SHO...   577  e-164
+SEQ gi|2529289|gb|AAB95297.1| (L44127) heat shock protein 70 [Biomph...   577  e-164
+SEQ gi|11277113|pir||T45468 dnaK-type molecular chaperone Hsp70 [imp...   577  e-164
+SEQ gi|10946286|gb|AAG24838.1|AF295967_1 (AF295967) heat shock prote...   577  e-164
+SEQ gi|1708308|sp|P53623|HS72_PICAN HEAT SHOCK PROTEIN 70 2 >gi|1256...   577  e-164
+SEQ gi|13560876|gb|AAK30246.1|AF350489_1 (AF350489) heat shock prote...   577  e-164
+SEQ gi|267586|sp|P02825|HS71_DROME MAJOR HEAT SHOCK 70 KDA PROTEIN A...   577  e-164
+SEQ gi|1708306|sp|Q10265|HS71_SCHPO PROBABLE HEAT SHOCK PROTEIN C13G...   577  e-164
+SEQ gi|11277107|pir||T45474 heat-shock protein 70 [imported] - Petro...   577  e-163
+SEQ gi|10946278|gb|AAG24834.1|AF295963_1 (AF295963) heat shock prote...   577  e-163
+SEQ gi|6911553|emb|CAB72130.1| (AJ249331) heat shock protein 70 [Cuc...   577  e-163
+SEQ gi|10946284|gb|AAG24837.1|AF295966_1 (AF295966) heat shock prote...   576  e-163
+SEQ gi|14550128|gb|AAK67154.1|AF385405_1 (AF385405) heat shock prote...   576  e-163
+SEQ gi|10946280|gb|AAG24835.1|AF295964_1 (AF295964) heat shock prote...   576  e-163
+SEQ gi|6319314|ref|NP_009396.1| Heat shock protein of HSP70 family, ...   576  e-163
+SEQ gi|13560878|gb|AAK30247.1|AF350490_1 (AF350490) heat shock prote...   576  e-163
+SEQ gi|7650476|gb|AAF66059.1|AF247555_1 (AF247555) heat shock protei...   576  e-163
+SEQ gi|10946294|gb|AAG24842.1|AF295971_1 (AF295971) heat shock prote...   576  e-163
+SEQ gi|729764|sp|P40918|HS70_CLAHE HEAT SHOCK 70 KD PROTEIN (ALLERGE...   575  e-163
+SEQ gi|7650472|gb|AAF66057.1|AF247553_1 (AF247553) heat shock protei...   575  e-163
+SEQ gi|431144|dbj|BAA04848.1| (D21824) HSP70 [Lilium longiflorum]         575  e-163
+SEQ gi|629875|pir||JC2215 dnaK-type molecular chaperone LIM18 - trum...   575  e-163
+SEQ gi|6323004|ref|NP_013076.1| member of 70 kDa heat shock protein ...   575  e-163
+SEQ gi|10946282|gb|AAG24836.1|AF295965_1 (AF295965) heat shock prote...   575  e-163
+SEQ gi|9502252|gb|AAF88056.1|AF277569_1 (AF277569) heat shock protei...   575  e-163
+SEQ gi|123613|sp|P24629|HS71_LYCES HEAT SHOCK COGNATE 70 KD PROTEIN ...   574  e-163
+SEQ gi|1708305|sp|P53421|HS71_PICAN HEAT-SHOCK PROTEIN 70 1 (HSP72) ...   574  e-162
+SEQ gi|1165012|emb|CAA55168.1| (X78403) heat shock protein hsp70 [Dr...   572  e-162
+SEQ gi|2655420|gb|AAB88009.1| (AF035414) heat shock cognate protein ...   572  e-162
+SEQ gi|227735|prf||1710152A heat shock protein 70 [Bombyx mori]           572  e-162
+SEQ gi|10946306|gb|AAG24848.1|AF295977_1 (AF295977) heat shock prote...   572  e-162
+SEQ gi|9502254|gb|AAF88057.1|AF277570_1 (AF277570) heat shock protei...   572  e-162
+SEQ gi|123656|sp|P29357|HS7E_SPIOL CHLOROPLAST ENVELOPE MEMBRANE 70 ...   572  e-162
+SEQ gi|12644165|sp|P22954|HS72_ARATH HEAT SHOCK COGNATE 70 KDA PROTE...   572  e-162
+SEQ gi|10946304|gb|AAG24847.1|AF295976_1 (AF295976) heat shock prote...   572  e-162
+SEQ gi|12323026|gb|AAG51503.1|AC058785_6 (AC058785) heat shock prote...   572  e-162
+SEQ gi|10998541|gb|AAG25967.1|AF302416_1 (AF302416) heat shock prote...   572  e-162
+SEQ gi|11277105|pir||T45479 heat-shock protein 70 [imported] - Eunic...   572  e-162
+SEQ gi|3962377|emb|CAA05547.1| (AJ002551) heat shock protein 70 [Ara...   571  e-162
+SEQ gi|1076529|pir||S53498 dnaK-type molecular chaperone HSP71.2 - g...   571  e-162
+SEQ gi|72212|pir||HHFF72 dnaK-type molecular chaperone Hsp70Bc - fru...   570  e-161
+SEQ gi|6587810|gb|AAF18501.1|AC010924_14 (AC010924) Identical to gb|...   570  e-161
+SEQ gi|13124735|sp|P11146|HS7B_DROME HEAT SHOCK 70 KDA PROTEIN COGNA...   570  e-161
+SEQ gi|1170370|sp|P41753|HS70_ACHKL HEAT SHOCK 70 KD PROTEIN >gi|107...   569  e-161
+SEQ gi|477238|pir||A48439 dnaK-type molecular chaperone Hsp70 - Enta...   569  e-161
+SEQ gi|14423731|sp|P87047|HS70_PARBR HEAT SHOCK 70 KDA PROTEIN >gi|2...   569  e-161
+SEQ gi|6319396|ref|NP_009478.1| heat-inducible cytosolic member of t...   569  e-161
+SEQ gi|407521|emb|CAA81523.1| (Z26879) chaperone [Saccharomyces cere...   569  e-161
+SEQ gi|629641|pir||S44168 dnaK-type molecular chaperone HSC71.0 - ga...   569  e-161
+SEQ gi|8918240|dbj|BAA97566.1| (AB023580) hsp70 [Blastocystis hominis]    569  e-161
+SEQ gi|3043415|emb|CAA76606.1| (Y17053) At-hsc70-3 [Arabidopsis thal...   568  e-161
+SEQ gi|123601|sp|P26413|HS70_SOYBN HEAT SHOCK 70 KD PROTEIN >gi|9991...   568  e-161
+SEQ gi|10946361|gb|AAG24875.1|AF302411_1 (AF302411) heat shock prote...   568  e-161
+SEQ gi|3005909|emb|CAA04699.1| (AJ001365) hsp70 [Drosophila auraria]      568  e-161
+SEQ gi|7650474|gb|AAF66058.1|AF247554_1 (AF247554) heat shock protei...   564  e-159
+SEQ gi|9502250|gb|AAF88055.1|AF277568_1 (AF277568) heat shock protei...   563  e-159
+SEQ gi|6320950|ref|NP_011029.1| member of 70 kDa heat shock protein ...   563  e-159
+SEQ gi|13812189|ref|NP_113319.1| heat shock protein 70KD [Guillardia...   563  e-159
+SEQ gi|450880|emb|CAA54419.1| (X77199) heat shock cognate 70-1 [Arab...   561  e-159
+SEQ gi|3287859|sp|P91902|HS70_CERCA HEAT SHOCK PROTEIN 70 (HSP70) >g...   561  e-159
+SEQ gi|123593|sp|P11143|HS70_MAIZE HEAT SHOCK 70 KD PROTEIN >gi|8269...   559  e-158
+SEQ gi|1890394|emb|CAA72283.1| (Y11513) heat shock protein 70 [Ciona...   559  e-158
+SEQ gi|224970|prf||1205208A heat shock protein hsp70 [Zea mays]           558  e-158
+SEQ gi|1711306|emb|CAA70893.1| (Y09746) heat shock protein 70 [Hydra...   557  e-158
+SEQ gi|123633|sp|P11145|HS74_TRYBB HEAT SHOCK 70 KD PROTEIN 4 (HSP70...   557  e-158
+SEQ gi|7441884|pir||JC7088 heat shock protein 70 - Stylophora pistil...   557  e-158
+SEQ gi|72215|pir||HHUM7B dnaK-type molecular chaperone - lettuce dow...   557  e-157
+SEQ gi|123584|sp|P16394|HS70_BRELC HEAT SHOCK 70 KD PROTEIN >gi|1671...   557  e-157
+SEQ gi|1945628|emb|CAA72797.1| (Y12079) heat shock protein 70 [Crypt...   556  e-157
+SEQ gi|585270|sp|P37899|HS70_PYRSA HEAT SHOCK 70 KD PROTEIN >gi|5415...   556  e-157
+SEQ gi|320918|pir||A44979 heat shock protein 70 - Trypanosoma cruzi ...   555  e-157
+SEQ gi|84007|pir||A25398 dnaK-type molecular chaperone - Trypanosoma...   554  e-157
+SEQ gi|11277101|pir||T45473 heat-shock protein 70 [imported] - Asbes...   554  e-157
+SEQ gi|7838277|emb|CAB91646.1| (AJ238887) putative heat shock protei...   554  e-157
+SEQ gi|11277108|pir||T45475 heat-shock protein 70 [imported] - Rhabd...   554  e-157
+SEQ gi|10726476|gb|AAG22148.1| (AE003693) CG18743 gene product [Dros...   553  e-156
+SEQ gi|1885336|emb|CAA62478.1| (X90991) Heat shock 70 protein [Guill...   552  e-156
+SEQ gi|11277104|pir||T45478 heat-shock protein 70 [imported] - Eunic...   552  e-156
+SEQ gi|7503381|pir||T22169 hypothetical protein F44E5.4 - Caenorhabd...   550  e-155
+SEQ gi|102144|pir||S25649 heat shock protein 70 - Trypanosoma cruzi ...   550  e-155
+SEQ gi|12007351|gb|AAG45150.1|AF316323_1 (AF316323) heat shock prote...   549  e-155
+SEQ gi|123603|sp|P05456|HS70_TRYCR HEAT SHOCK 70 KD PROTEIN >gi|1021...   547  e-155
+SEQ gi|6492134|gb|AAF14194.1|AF107118_1 (AF107118) heat shock protei...   544  e-154
+SEQ gi|1076828|pir||A48872 dnaK-type molecular chaperone hspB - slim...   544  e-153
+SEQ gi|8515220|gb|AAF75877.1|AF221541_1 (AF221541) heat shock protei...   543  e-153
+SEQ gi|11277106|pir||T45476 heat-shock protein 70 [imported] - Funic...   542  e-153
+SEQ gi|7495875|pir||T19211 hypothetical protein C12C8.1 - Caenorhabd...   542  e-153
+SEQ gi|123592|sp|P14834|HS70_LEIMA HEAT SHOCK 70 KD PROTEIN >gi|8396...   540  e-153
+SEQ gi|1100900|gb|AAB53893.1| (U40190) 70 kDa heat shock protein [Th...   539  e-152
+SEQ gi|480678|pir||S37165 dnaK-type molecular chaperone - Eimeria ac...   539  e-152
+SEQ gi|3323502|gb|AAC26629.1| (AF045559) heat shock protein 70 [Toxo...   539  e-152
+SEQ gi|3850197|gb|AAC72001.1| (U85648) heat shock protein 70 [Toxopl...   539  e-152
+SEQ gi|3850199|gb|AAC72002.1| (U85649) heat shock protein 70 [Toxopl...   539  e-152
+SEQ gi|1842232|gb|AAC47456.1| (U53448) heat shock protein 70 [Babesi...   539  e-152
+SEQ gi|123602|sp|P16019|HS70_THEAN HEAT SHOCK 70 KD PROTEIN (HSP 70....   538  e-152
+SEQ gi|320971|pir||A44985 dnaK-type molecular chaperone 70.1 - Theil...   538  e-152
+SEQ gi|547680|sp|Q05746|HS70_PLACB HEAT SHOCK 70 KD PROTEIN (HSP70) ...   538  e-152
+SEQ gi|1616783|gb|AAB16853.1| (U71181) heat shock protein [Cryptospo...   538  e-152
+SEQ gi|123598|sp|P11144|HS70_PLAFA HEAT SHOCK 70 KD PROTEIN (HSP70) ...   538  e-152
+SEQ gi|226045|prf||1408240A heat shock protein [Plasmodium falciparum]    538  e-152
+SEQ gi|9864199|gb|AAG01344.1|AF291716_1 (AF291716) heat shock protei...   537  e-152
+SEQ gi|293059|gb|AAD15233.1| (L14605) heat shock protein 70 [Leishma...   537  e-152
+SEQ gi|3298525|gb|AAC25925.1| (U11761) heat shock 70 kDa protein [Cr...   537  e-151
+SEQ gi|729766|sp|Q07437|HS70_LEIAM HEAT SHOCK 70 KD PROTEIN >gi|2930...   536  e-151
+SEQ gi|123587|sp|P25840|HS70_CHLRE HEAT SHOCK 70 KD PROTEIN >gi|8123...   535  e-151
+SEQ gi|12835894|dbj|BAB23406.1| (AK004608) putative [Mus musculus]        534  e-151
+SEQ gi|1078698|pir||S52727 dnaK-type molecular chaperone hsp70 - Lei...   533  e-150
+SEQ gi|12248795|dbj|BAB20284.1| (AB019539) hsp70 [Toxoplasma gondii]      533  e-150
+SEQ gi|123591|sp|P17804|HS70_LEIDO HEAT SHOCK 70 KD PROTEIN >gi|9496...   532  e-150
+SEQ gi|102046|pir||S11448 dnaK-type molecular chaperone hsc70 - Leis...   531  e-150
+SEQ gi|8515194|gb|AAF75864.1|AF221528_1 (AF221528) heat shock protei...   530  e-149
+SEQ gi|1552344|emb|CAA69282.1| (Y08020) heat shock protein 70 [Leish...   526  e-148
+SEQ gi|123588|sp|P26791|HS70_DAUCA HEAT SHOCK 70 KD PROTEIN >gi|8204...   525  e-148
+SEQ gi|11426145|ref|XP_001952.1| heat shock 70kD protein 6 (HSP70B')...   523  e-147
+SEQ gi|11277102|pir||T45472 heat-shock protein 70 [imported] - Beroe...   522  e-147
+SEQ gi|1209312|gb|AAA99875.1| (L15292) heat shock protein [Euplotes ...   522  e-147
+SEQ gi|90606|pir||A34041 dnaK-type molecular chaperone - mouse            522  e-147
+SEQ gi|2119717|pir||JC4610 dnaK-type molecular chaperone hsp70 - Oxy...   521  e-147
+SEQ gi|6694688|gb|AAF25355.1| (AF207843) heat-shock protein Hsp70 [O...   520  e-146
+SEQ gi|1209310|gb|AAA99874.1| (L15291) heat shock protein [Euplotes ...   519  e-146
+SEQ gi|8515218|gb|AAF75876.1|AF221540_1 (AF221540) heat shock protei...   518  e-146
+SEQ gi|7141314|gb|AAF37286.1|AF227962_1 (AF227962) heat shock protei...   517  e-146
+SEQ gi|546045|gb|AAB30291.1| hsp70=heat shock protein [Theileria ser...   512  e-144
+SEQ gi|172713|gb|AAA35095.1| (M17583) 70kDal heat shock protein [Sac...   512  e-144
+SEQ gi|8515214|gb|AAF75874.1|AF221538_1 (AF221538) heat shock protei...   510  e-144
+SEQ gi|10834634|gb|AAG23747.1| (AF247536) HSP70 [Cryptosporidium sp.]     510  e-143
+SEQ gi|8515196|gb|AAF75865.1|AF221529_1 (AF221529) heat shock protei...   508  e-143
+SEQ gi|8515198|gb|AAF75866.1|AF221530_1 (AF221530) heat shock protei...   508  e-143
+SEQ gi|468014|gb|AAA19122.1| (U04874) cytoplasmic 70 kDa heat shock ...   508  e-143
+SEQ gi|8515216|gb|AAF75875.1|AF221539_1 (AF221539) heat shock protei...   507  e-143
+SEQ gi|11277112|pir||T43239 dnaK-type molecular chaperone sks2 - fis...   507  e-142
+SEQ gi|12643632|sp|O74730|HS76_SCHPO HEAT SHOCK PROTEIN SKS2 >gi|749...   507  e-142
+SEQ gi|8515224|gb|AAF75879.1|AF221543_1 (AF221543) heat shock protei...   506  e-142
+SEQ gi|8515208|gb|AAF75871.1|AF221535_1 (AF221535) heat shock protei...   505  e-142
+SEQ gi|8515204|gb|AAF75869.1|AF221533_1 (AF221533) heat shock protei...   504  e-142
+SEQ gi|8515200|gb|AAF75867.1|AF221531_1 (AF221531) heat shock protei...   504  e-142
+SEQ gi|8515202|gb|AAF75868.1|AF221532_1 (AF221532) heat shock protei...   504  e-142
+SEQ gi|8515222|gb|AAF75878.1|AF221542_1 (AF221542) heat shock protei...   504  e-142
+SEQ gi|8515212|gb|AAF75873.1|AF221537_1 (AF221537) heat shock protei...   504  e-141
+SEQ gi|2495360|sp|Q10284|HS75_SCHPO HEAT SHOCK COGNATE PROTEIN HSC1 ...   503  e-141
+SEQ gi|8515210|gb|AAF75872.1|AF221536_1 (AF221536) heat shock protei...   502  e-141
+SEQ gi|8515206|gb|AAF75870.1|AF221534_1 (AF221534) heat shock protei...   502  e-141
+SEQ gi|1943757|gb|AAB52423.1| (U93873) cytoplasmic heat shock protei...   500  e-140
+SEQ gi|9502169|gb|AAF88019.1| (AF262043) Hypothetical protein T26D3....   498  e-140
+SEQ gi|2764949|emb|CAA67431.1| (X98931) heat shock protein 70 [Emeri...   497  e-140
+SEQ gi|2129639|pir||S71171 dnaK-type molecular chaperone BiP - Arabi...   497  e-139
+SEQ gi|12643245|sp|Q39043|BIP2_ARATH LUMINAL BINDING PROTEIN 2 PRECU...   497  e-139
+SEQ gi|2495358|sp|P87222|HS75_CANAL HEAT SHOCK PROTEIN SSB1 >gi|2213...   496  e-139
+SEQ gi|729620|sp|Q03684|BIP4_TOBAC LUMINAL BINDING PROTEIN 4 PRECURS...   496  e-139
+SEQ gi|13398537|gb|AAK21920.1|AF338252_1 (AF338252) BiP-isoform D [G...   495  e-139
+SEQ gi|1695719|dbj|BAA13948.1| (D89342) luminal binding protein [Ara...   495  e-139
+SEQ gi|729623|sp|Q03685|BIP5_TOBAC LUMINAL BINDING PROTEIN 5 PRECURS...   495  e-139
+SEQ gi|82175|pir||JQ1361 luminal binding protein BLP-5 - common tobacco   495  e-139
+SEQ gi|6324120|ref|NP_014190.1| Heat shock protein of HSP70 family, ...   495  e-139
+SEQ gi|6319972|ref|NP_010052.1| cytoplasmic member of the HSP70 fami...   495  e-139
+SEQ gi|1170378|sp|P41770|HS75_KLUMA HEAT SHOCK PROTEIN SSB >gi|32290...   494  e-139
+SEQ gi|7635897|emb|CAA89834.2| (Z49764) luminal binding protein [Pse...   494  e-138
+SEQ gi|7441877|pir||T05741 dnaK-type molecular chaperone HSP70 - bar...   493  e-138
+SEQ gi|6911549|emb|CAB72128.1| (AJ249329) heat shock protein 70 [Cuc...   493  e-138
+SEQ gi|6016151|sp|O24581|BIP3_MAIZE LUMINAL BINDING PROTEIN 3 PRECUR...   493  e-138
+SEQ gi|3913786|sp|Q42434|BIP_SPIOL LUMINAL BINDING PROTEIN PRECURSOR...   492  e-138
+SEQ gi|1695717|dbj|BAA13947.1| (D89341) luminal binding protein [Ara...   492  e-138
+SEQ gi|3114952|emb|CAA70695.1| (Y09500) heat shock protein 70 [Suber...   491  e-138
+SEQ gi|4033392|sp|Q90593|GR78_CHICK 78 KD GLUCOSE-REGULATED PROTEIN ...   491  e-138
+SEQ gi|6016150|sp|P24067|BIP2_MAIZE LUMINAL BINDING PROTEIN 2 PRECUR...   490  e-137
+SEQ gi|3510736|gb|AAC33584.1| (AF053326) cytosolic heat shock protei...   490  e-137
+SEQ gi|7441857|pir||T15513 heat shock 70K protein C precursor HSP70C...   490  e-137
+SEQ gi|6470150|gb|AAF13605.1|AF188611_1 (AF188611) BiP protein [Homo...   490  e-137
+SEQ gi|6900104|emb|CAB71335.1| (AJ271729) glucose-regulated protein ...   490  e-137
+SEQ gi|11277127|pir||T46574 dnaK-type molecular chaperone BiP precur...   489  e-137
+SEQ gi|123646|sp|P27420|HS7C_CAEEL HEAT SHOCK 70 KD PROTEIN C PRECUR...   489  e-137
+SEQ gi|2342678|gb|AAB70400.1| (AC000106) Similar to Arabidopsis lumi...   489  e-137
+SEQ gi|121570|sp|P07823|GR78_MESAU 78 KD GLUCOSE-REGULATED PROTEIN P...   488  e-137
+SEQ gi|109893|pir||A37048 dnaK-type molecular chaperone grp78 precur...   488  e-137
+SEQ gi|121574|sp|P06761|GR78_RAT 78 KD GLUCOSE-REGULATED PROTEIN PRE...   488  e-137
+SEQ gi|2506545|sp|P20029|GR78_MOUSE 78 KDA GLUCOSE-REGULATED PROTEIN...   488  e-137
+SEQ gi|2598562|emb|CAA05361.1| (AJ002387) BiP [Mus musculus]              488  e-137
+SEQ gi|7441868|pir||T03581 dnaK-type molecular chaperone BiP - rice ...   488  e-137
+SEQ gi|12835845|dbj|BAB23387.1| (AK004578) putative [Mus musculus]        487  e-136
+SEQ gi|5738968|dbj|BAA83426.1| (AB031071) heat shock protein 70 [Tox...   487  e-136
+SEQ gi|1346172|sp|P49118|BIP_LYCES LUMINAL BINDING PROTEIN PRECURSOR...   487  e-136
+SEQ gi|7494626|pir||T34037 heat shock 70K protein D - Caenorhabditis...   487  e-136
+SEQ gi|4033393|sp|P78695|GR78_NEUCR 78 KDA GLUCOSE-REGULATED PROTEIN...   486  e-136
+SEQ gi|121567|sp|P11021|GR78_HUMAN 78 KD GLUCOSE-REGULATED PROTEIN P...   483  e-135
+SEQ gi|4033394|sp|Q91883|GR78_XENLA 78 KD GLUCOSE-REGULATED PROTEIN ...   482  e-135
+SEQ gi|7441842|pir||S71508 dnaK-type molecular chaperone hsp70.4 - L...   482  e-135
+SEQ gi|1929868|gb|AAB58248.1| (L46790) endoplasmic reticulum HSP70 h...   482  e-135
+SEQ gi|11612489|ref|NP_071705.1| glucose regulated protein, 78 kDa [...   480  e-134
+SEQ gi|13702828|gb|AAK38504.1|AC087181_20 (AC087181) putative lumina...   480  e-134
+SEQ gi|1326169|gb|AAB41582.1| (U55069) immunoglobulin binding protei...   479  e-134
+SEQ gi|158852|gb|AAC37258.1| (M63604) glucose regulated protein [Ech...   479  e-134
+SEQ gi|11277111|pir||T45298 dnaK-type molecular chaperone [imported]...   478  e-134
+SEQ gi|6682359|gb|AAF23321.1|AF110397_1 (AF110397) heat shock protei...   478  e-134
+SEQ gi|13507533|gb|AAK28629.1|AF353616_1 (AF353616) Cro r II [Cronar...   478  e-134
+SEQ gi|3986752|gb|AAC84149.1| (AF109905) Hsc70t [Mus musculus]            478  e-134
+SEQ gi|9963944|gb|AAG09776.1|AF245405_1 (AF245405) binding protein [...   478  e-134
+SEQ gi|11277119|pir||T43723 dnaK-type molecular chaperone bipA [impo...   478  e-134
+SEQ gi|4324942|gb|AAD17197.1| (AF111868) heat shock 70 protein [Ento...   477  e-133
+SEQ gi|3169837|gb|AAC33419.1| (AF031354) heat shock protein 70 [Eupl...   477  e-133
+SEQ gi|158854|gb|AAC37259.1| (M63605) glucose regulated protein [Ech...   476  e-133
+SEQ gi|123645|sp|P19208|HS7C_CAEBR HEAT SHOCK 70 KD PROTEIN C PRECUR...   476  e-133
+SEQ gi|3426021|dbj|BAA32395.1| (AB016836) heat shock 70 kD protein c...   476  e-133
+SEQ gi|5597020|dbj|BAA82597.1| (AB030231) ER chaperone BiP [Aspergil...   476  e-133
+SEQ gi|10944737|emb|CAC14168.1| (AJ295617) putative luminal binding ...   475  e-133
+SEQ gi|121568|sp|P22010|GR78_KLULA 78 KD GLUCOSE-REGULATED PROTEIN H...   475  e-133
+SEQ gi|11277118|pir||T43716 dnaK-type molecular chaperone BiP [impor...   475  e-133
+SEQ gi|6322426|ref|NP_012500.1| Homologue of mammalian BiP (GPR78) p...   474  e-132
+SEQ gi|7441870|pir||T06358 dnaK-type molecular chapreone BiP-B - soy...   473  e-132
+SEQ gi|295361|gb|AAC37174.1| (L14477) BiP/GRP78 [Trypanosoma brucei]      473  e-132
+SEQ gi|266310|sp|P29844|HS7C_DROME HEAT SHOCK 70 KD PROTEIN COGNATE ...   473  e-132
+SEQ gi|484423|pir||JN0666 dnaK-type molecular chaperone hsc3 precurs...   473  e-132
+SEQ gi|7292698|gb|AAF48095.1| (AE003487) Hsc70-3 gene product [Droso...   473  e-132
+SEQ gi|1708633|gb|AAB38076.1| (U40994) PrBiP precursor [Pneumocystis...   472  e-132
+SEQ gi|1037176|emb|CAA91253.1| (Z66492) immunoglobulin heavy chain b...   472  e-132
+SEQ gi|3023914|sp|Q16956|GR78_APLCA 78 KD GLUCOSE-REGULATED PROTEIN ...   471  e-132
+SEQ gi|345399|pir||D44261 dnaK-type molecular chaperone BiP precurso...   471  e-132
+SEQ gi|481576|pir||S38890 dnaK-type molecular chaperone GRP78/BiP - ...   470  e-131
+SEQ gi|2495357|sp|Q99170|GR78_YARLI 78 KD GLUCOSE-REGULATED PROTEIN ...   469  e-131
+SEQ gi|7441873|pir||T06598 dnaK-type molecular chaperone BiP-A - soy...   466  e-130
+SEQ gi|2829289|gb|AAC00519.1| (AF044412) HSP70 [Schistosoma japonicum]    466  e-130
+SEQ gi|7441869|pir||T06357 dnaK-type molecular chaperone BiP-C - soy...   465  e-130
+SEQ gi|13897312|emb|CAC37635.1| (AJ312020) luminal binding protein, ...   465  e-130
+SEQ gi|13359317|dbj|BAB33384.1| (AB048351) ER-type hsp70 [Paramecium...   464  e-130
+SEQ gi|7838275|emb|CAB91645.1| (AJ238886) putative heat shock protei...   464  e-129
+SEQ gi|349838|gb|AAA30201.1| (L23420) heat shock protein [Trypanosom...   461  e-129
+SEQ gi|6166184|sp|P36604|GR78_SCHPO 78 KD GLUCOSE-REGULATED PROTEIN ...   460  e-128
+SEQ gi|422275|pir||S33210 dnaK-type molecular chaperone - Trypanosom...   458  e-128
+SEQ gi|100335|pir||S18181 dnaK-type molecular chaperone Nthsp70 - co...   456  e-127
+SEQ gi|311895|emb|CAA48873.1| (X69121) heat shock protein [Plasmodiu...   449  e-125
+SEQ gi|170386|gb|AAA99920.1| (L08829) glucose-regulated protein 78 [...   449  e-125
+SEQ gi|912576|gb|AAA80655.1| (U29675) BiP [Phaeodactylum tricornutum]     448  e-125
+SEQ gi|3746803|gb|AAC64065.1| (AF082519) 70 kDa heat shock protein H...   445  e-124
+SEQ gi|82806|pir||S20877 dnaK-type molecular chaperone bip precursor...   441  e-123
+SEQ gi|3169857|gb|AAC33429.1| (AF031364) heat shock protein 70 [Para...   440  e-122
+SEQ gi|861170|emb|CAA27330.1| (X03697) heat shock protein 70 [Zea mays]   439  e-122
+SEQ gi|1170013|sp|Q05866|GR78_PLAFO 78 KD GLUCOSE-REGULATED PROTEIN ...   436  e-121
+SEQ gi|9998942|gb|AAG01177.2|AF288978_1 (AF288978) inducible heat sh...   427  e-118
+SEQ gi|468016|gb|AAA19123.1| (U04875) immunoglobulin heavy chain bin...   426  e-118
+SEQ gi|6014657|gb|AAF01442.1|AF187726_1 (AF187726) heat shock protei...   426  e-118
+SEQ gi|3169833|gb|AAC33417.1| (AF031352) heat shock protein 70 [Eupl...   419  e-116
+SEQ gi|1620379|emb|CAA69890.1| (Y08576) 70 kD heat-shock protein [Ta...   419  e-116
+SEQ gi|11993663|gb|AAG42838.1|AF322911_1 (AF322911) inducible heat s...   418  e-116
+SEQ gi|1620390|emb|CAA69895.1| (Y08582) 70kD heat shock protein [Tak...   416  e-115
+SEQ gi|2133957|pir||I51344 dnaK-type molecular chaperone (clone pTHS...   415  e-115
+SEQ gi|3510734|gb|AAC33583.1| (AF053325) endoplasmic reticulum heat ...   414  e-114
+SEQ gi|4164594|gb|AAD05564.1| (AF111194) heat shock protein 70 [Para...   411  e-114
+SEQ gi|3169841|gb|AAC33421.1| (AF031356) heat shock protein 70 [Eupl...   409  e-113
+SEQ gi|436763|dbj|BAA02189.1| (D12692) heat shock protein [Theileria...   407  e-112
+SEQ gi|2706558|emb|CAA78757.1| (Z15039) heat shock protein 70 [Aplys...   400  e-110
+SEQ gi|123652|sp|P20030|HS7C_TRYBB HEAT SHOCK COGNATE HSP70 PROTEIN ...   395  e-109
+SEQ gi|14423733|sp|Q92260|HS70_PENCI HEAT SHOCK 70 KDA PROTEIN (ALLE...   391  e-107
+SEQ gi|555500|gb|AAA49563.1| (K02550) 70-kilodalton heat shock prote...   382  e-105
+SEQ gi|1346317|sp|P48741|HS77_HUMAN HEAT SHOCK 70 KD PROTEIN 7 (HEAT...   381  e-105
+SEQ gi|2245606|gb|AAC17460.1| (AF006006) heat shock cognate 70 kDa p...   380  e-104
+SEQ gi|998974|gb|AAB34280.1| (S78163) 70 kda heat shock protein [Can...   378  e-104
+SEQ gi|345401|pir||B44261 dnaK-type molecular chaperone HSC70 - Cali...   377  e-103
+SEQ gi|2245608|gb|AAC17598.1| (AF006007) heat shock cognate 70 kDa p...   371  e-101
+SEQ gi|3122035|sp|Q52701|DNAK_RHOCA CHAPERONE PROTEIN DNAK (HEAT SHO...   360  2e-98
+SEQ gi|2851603|sp|P11141|HS7F_CAEEL HEAT SHOCK 70 KD PROTEIN F, MITO...   358  6e-98
+SEQ gi|12653415|gb|AAH00478.1|AAH00478 (BC000478) heat shock 70kD pr...   356  2e-97
+SEQ gi|4758570|ref|NP_004125.1| heat shock 70kD protein 9B (mortalin...   355  6e-97
+SEQ gi|477763|pir||B48127 dnaK-type molecular chaperone precursor, m...   355  6e-97
+SEQ gi|13642908|ref|XP_003687.3| heat shock 70kD protein 9B (mortali...   355  6e-97
+SEQ gi|6754256|ref|NP_034611.1| heat shock protein, 74 kDa, A; heat ...   353  2e-96
+SEQ gi|1072476|pir||A48127 dnaK-type molecular chaperone precursor, ...   353  2e-96
+SEQ gi|2119726|pir||I56581 dnaK-type molecular chaperone grp75 precu...   353  2e-96
+SEQ gi|3122170|sp|O35501|GR75_CRIGR MITOCHONDRIAL STRESS-70 PROTEIN ...   353  2e-96
+SEQ gi|102482|pir||B32475 dnaK-type molecular chaperone hsp70F precu...   353  2e-96
+SEQ gi|729622|sp|P38647|GR75_MOUSE MITOCHONDRIAL STRESS-70 PROTEIN P...   352  3e-96
+SEQ gi|13473986|ref|NP_105554.1| heat shock protein dnaK (70) [Mesor...   352  4e-96
+SEQ gi|1346171|sp|P48721|GR75_RAT MITOCHONDRIAL STRESS-70 PROTEIN PR...   352  5e-96
+SEQ gi|435838|gb|AAB28640.1| mortalin mot-1=hsp70 homolog cytosolic ...   350  1e-95
+SEQ gi|435839|gb|AAB28641.1| mortalin mot-2=hsp70 homolog perinuclea...   350  1e-95
+SEQ gi|1078781|pir||S51682 dnaK-type molecular chaperone hsp70 - Eim...   347  2e-94
+SEQ gi|118722|sp|P28608|DNAK_BORBU CHAPERONE PROTEIN DNAK (HEAT SHOC...   347  2e-94
+SEQ gi|4928210|gb|AAD33465.1|AF130447_1 (AF130447) DnaK protein [Chl...   344  9e-94
+SEQ gi|173408|gb|AAA35314.1| (M60208) mitochondrial heat shock prote...   344  9e-94
+SEQ gi|729769|sp|P22774|HS7M_SCHPO MITOCHONDRIAL HEAT SHOCK 70 KDA P...   344  9e-94
+SEQ gi|1706467|sp|P50019|DNAK_AGRTU CHAPERONE PROTEIN DNAK (HEAT SHO...   344  1e-93
+SEQ gi|13421096|gb|AAK21998.1| (AE005675) dnaK protein [Caulobacter ...   344  1e-93
+SEQ gi|13637785|sp|P20442|DNAK_CAUCR CHAPERONE PROTEIN DNAK (HEAT SH...   344  1e-93
+SEQ gi|5714753|gb|AAD48065.1|AF172607_1 (AF172607) heat shock protei...   344  2e-93
+SEQ gi|7715507|gb|AAF68069.1|AF252687_1 (AF252687) heat shock cognat...   344  2e-93
+SEQ gi|13431444|sp|O05700|DNAK_RHOSP CHAPERONE PROTEIN DNAK (HEAT SH...   342  3e-93
+SEQ gi|1169380|sp|P42374|DNAK_RHIME CHAPERONE PROTEIN DNAK (HEAT SHO...   342  4e-93
+SEQ gi|7715519|gb|AAF68075.1|AF252693_1 (AF252693) heat shock cognat...   342  6e-93
+SEQ gi|7303207|gb|AAF58270.1| (AE003815) Hsc70-5 gene product [Droso...   342  6e-93
+SEQ gi|3386646|gb|AAC28558.1| (M87878) heat shock protein 70 [Leishm...   341  7e-93
+SEQ gi|1706478|sp|P50021|DNK2_SYNP7 CHAPERONE PROTEIN DNAK2 (HEAT SH...   341  9e-93
+SEQ gi|7715517|gb|AAF68074.1|AF252692_1 (AF252692) heat shock cognat...   341  1e-92
+SEQ gi|266312|sp|P29845|HS7E_DROME HEAT SHOCK 70 KD PROTEIN COGNATE ...   340  2e-92
+SEQ gi|6322505|ref|NP_012579.1| Mitochondrial matrix protein involve...   340  2e-92
+SEQ gi|171463|gb|AAA34590.1| (M55275) endonuclease SceI 75 kDa subun...   340  2e-92
+SEQ gi|118730|sp|P22358|DNK2_SYNY3 CHAPERONE PROTEIN DNAK2 (HEAT SHO...   339  5e-92
+SEQ gi|461945|sp|Q05981|DNAK_BRUOV CHAPERONE PROTEIN DNAK (HEAT SHOC...   338  9e-92
+SEQ gi|7441862|pir||T08151 dnaK-type molecular chaperone hsp70b prec...   338  9e-92
+SEQ gi|3122010|sp|P94317|DNAK_BRAJA CHAPERONE PROTEIN DNAK (HEAT SHO...   337  1e-91
+SEQ gi|12642164|gb|AAK00145.1|AF222752_1 (AF222752) heat shock prote...   337  1e-91
+SEQ gi|94572|pir||A35388 dnaK-type molecular chaperone dnaK - Caulob...   337  2e-91
+SEQ gi|7441844|pir||S19140 dnaK-type molecular chaperone PHSP1 precu...   337  2e-91
+SEQ gi|13431500|sp|Q9XCB1|DNAK_RHOMR CHAPERONE PROTEIN DNAK (HEAT SH...   336  3e-91
+SEQ gi|11467283|ref|NP_043140.1| DnaK [Cyanophora paradoxa] >gi|1146...   335  5e-91
+SEQ gi|11465421|ref|NP_045188.1| unknown; Hsp70-type chaperone [Cyan...   335  5e-91
+SEQ gi|585272|sp|P37900|HS7M_PEA HEAT SHOCK 70 KD PROTEIN, MITOCHOND...   335  6e-91
+SEQ gi|13431493|sp|Q9RY23|DNAK_DEIRA CHAPERONE PROTEIN DNAK (HEAT SH...   335  7e-91
+SEQ gi|2623065|gb|AAB86383.1| (AF019558) DnaK protein [Vibrio cholerae]   334  1e-90
+SEQ gi|12644060|sp|O34241|DNAK_VIBCH CHAPERONE PROTEIN DNAK (HEAT SH...   334  2e-90
+SEQ gi|13431457|sp|O87712|DNAK_COXBU CHAPERONE PROTEIN DNAK (HEAT SH...   334  2e-90
+SEQ gi|12484031|gb|AAG53936.1|AF302775_3 (AF302775) DnaK [Xanthomona...   333  2e-90
+SEQ gi|399940|sp|Q01899|HS7M_PHAVU HEAT SHOCK 70 KD PROTEIN, MITOCHO...   332  5e-90
+SEQ gi|2706556|emb|CAA78755.1| (Z15037) heat shock protein 70 [Aplys...   332  5e-90
+SEQ gi|6320805|ref|NP_010884.1| similar to Hsp70, involved in cell w...   332  5e-90
+SEQ gi|11127605|dbj|BAB17688.1| (AB050740) heat shock protein hsp70 ...   332  6e-90
+SEQ gi|11277110|pir||T49939 heat shock protein 70 (Hsc70-5) - Arabid...   331  1e-89
+SEQ gi|7441874|pir||T05618 dnaK-type molecular chaperone F20D10.30 -...   330  2e-89
+SEQ gi|13431478|sp|Q9HV43|DNAK_PSEAE CHAPERONE PROTEIN DNAK (HEAT SH...   330  2e-89
+SEQ gi|7387629|sp|O52960|DNAK_APHHA CHAPERONE PROTEIN DNAK (HEAT SHO...   329  3e-89
+SEQ gi|99343|pir||A41609 dnaK-type molecular chaperone - Cryptomonas...   329  4e-89
+SEQ gi|11467716|ref|NP_050768.1| Hsp70-type chaperone [Guillardia th...   329  4e-89
+SEQ gi|7441881|pir||T08900 dnaK-type molecular chaperone HSC70-10, m...   329  4e-89
+SEQ gi|7441879|pir||T08901 dnaK-type molecular chaperone HSC70-11, m...   329  4e-89
+SEQ gi|13431491|sp|Q9PB05|DNAK_XYLFA CHAPERONE PROTEIN DNAK (HEAT SH...   329  4e-89
+SEQ gi|13431453|sp|O68191|DNAK_BURPS CHAPERONE PROTEIN DNAK (HEAT SH...   329  5e-89
+SEQ gi|11277128|pir||H81676 dnaK protein TC0675 [imported] - Chlamyd...   328  8e-89
+SEQ gi|7387640|sp|P56836|DNAK_CHLMU CHAPERONE PROTEIN DNAK (HEAT SHO...   328  8e-89
+SEQ gi|13431498|sp|Q9WWG9|DNAK_PSESG CHAPERONE PROTEIN DNAK (HEAT SH...   328  8e-89
+SEQ gi|13431488|sp|Q9L7Z1|DNAK_VIBPR CHAPERONE PROTEIN DNAK (HEAT SH...   328  1e-88
+SEQ gi|7441883|pir||T09891 dnaK-type molecular chaperone T22A6.110 -...   327  2e-88
+SEQ gi|3122006|sp|P71331|DNAK_ACTAC CHAPERONE PROTEIN DNAK (HEAT SHO...   327  2e-88
+SEQ gi|3041676|sp|Q56235|DNAK_THETH CHAPERONE PROTEIN DNAK (HEAT SHO...   327  2e-88
+SEQ gi|13431482|sp|Q9K0N4|DNAK_NEIMB CHAPERONE PROTEIN DNAK (HEAT SH...   326  2e-88
+SEQ gi|1078780|pir||S51683 dnaK-type molecular chaperone hsp70, orga...   326  3e-88
+SEQ gi|3169835|gb|AAC33418.1| (AF031353) heat shock protein 70 [Eupl...   326  3e-88
+SEQ gi|2495350|sp|Q56073|DNAK_SALTY CHAPERONE PROTEIN DNAK (HEAT SHO...   326  3e-88
+SEQ gi|585273|sp|Q08276|HS7M_SOLTU HEAT SHOCK 70 KDA PROTEIN, MITOCH...   326  4e-88
+SEQ gi|3122870|sp|P95334|DNAK_MYXXA CHAPERONE PROTEIN DNAK (HEAT SHO...   325  4e-88
+SEQ gi|97261|pir||A40158 dnaK-type molecular chaperone - Chlamydia t...   325  5e-88
+SEQ gi|436483|gb|AAC36839.1| (L22180) ORF, 82 kDa protein [Chlamydia...   325  5e-88
+SEQ gi|6840805|sp|P17821|DNAK_CHLTR CHAPERONE PROTEIN DNAK (HEAT SHO...   325  5e-88
+SEQ gi|13431481|sp|Q9JVQ9|DNAK_NEIMA CHAPERONE PROTEIN DNAK (HEAT SH...   325  6e-88
+SEQ gi|118728|sp|P04475|DNAK_ECOLI CHAPERONE PROTEIN DNAK (HEAT SHOC...   325  6e-88
+SEQ gi|2266828|emb|CAA74627.1| (Y14237) heat shock protein [Vibrio c...   325  6e-88
+SEQ gi|1352285|sp|P48209|DNAK_HAEDU CHAPERONE PROTEIN DNAK (HEAT SHO...   324  9e-88
+SEQ gi|1236795|gb|AAA93010.1| (U25190) PBGRP [Plasmodium berghei]         324  1e-87
+SEQ gi|2706557|emb|CAA78756.1| (Z15038) heat shock protien 70 [Aplys...   324  1e-87
+SEQ gi|13431460|sp|P57870|DNAK_PASMU CHAPERONE PROTEIN DNAK (HEAT SH...   324  1e-87
+SEQ gi|3122020|sp|O33528|DNAK_RHILE CHAPERONE PROTEIN DNAK (HEAT SHO...   324  1e-87
+SEQ gi|7839585|gb|AAF70337.1|AF260706_2 (AF260706) DnaK [Psychrobact...   324  1e-87
+SEQ gi|1928991|gb|AAC03416.1| (U92815) heat shock protein 70 precurs...   324  2e-87
+SEQ gi|3882429|gb|AAC77522.1| (AF013111) 70 kDa heat shock protein; ...   324  2e-87
+SEQ gi|9789751|sp|Q9ZMW4|DNAK_HELPJ CHAPERONE PROTEIN DNAK (HEAT SHO...   324  2e-87
+SEQ gi|2495354|sp|Q55154|DNK1_SYNY3 CHAPERONE PROTEIN DNAK1 (HEAT SH...   323  2e-87
+SEQ gi|1169373|sp|P42373|DNAK_BURCE CHAPERONE PROTEIN DNAK (HEAT SHO...   323  2e-87
+SEQ gi|7441856|pir||T10248 heat shock protein, 70K, chloroplast - cu...   323  2e-87
+SEQ gi|6225278|sp|Q9ZDX9|DNAK_RICPR CHAPERONE PROTEIN DNAK (HEAT SHO...   323  2e-87
+SEQ gi|6226855|sp|P71442|DNAK_LEPIN CHAPERONE PROTEIN DNAK (HEAT SHO...   323  3e-87
+SEQ gi|1352284|sp|P48205|DNAK_FRATU CHAPERONE PROTEIN DNAK (HEAT SHO...   323  3e-87
+SEQ gi|1854621|gb|AAB48231.1| (U49143) 70-kDa heat shock protein [un...   322  3e-87
+SEQ gi|7993920|sp|O32464|DNAK_BUCAI CHAPERONE PROTEIN DNAK (HEAT SHO...   322  4e-87
+SEQ gi|2495351|sp|P55994|DNAK_HELPY CHAPERONE PROTEIN DNAK (HEAT SHO...   322  4e-87
+SEQ gi|3122011|sp|P94695|DNAK_DEIPR CHAPERONE PROTEIN DNAK (HEAT SHO...   322  4e-87
+SEQ gi|3169849|gb|AAC33425.1| (AF031360) heat shock protein 70 [Para...   322  4e-87
+SEQ gi|3121998|sp|O06430|DNAK_NITEU CHAPERONE PROTEIN DNAK (HEAT SHO...   322  5e-87
+SEQ gi|11277115|pir||T45482 heat shock protein 70 [imported] - Ehrli...   321  1e-86
+SEQ gi|1169374|sp|Q05647|DNAK_ERYRH CHAPERONE PROTEIN DNAK (HEAT SHO...   320  1e-86
+SEQ gi|6647487|sp|O83246|DNAK_TREPA CHAPERONE PROTEIN DNAK (HEAT SHO...   320  1e-86
+SEQ gi|3510724|gb|AAC33578.1| (AF053320) cytosolic heat shock protei...   320  2e-86
+SEQ gi|7441880|pir||T08899 dnaK-type molecular chaperone HSC70-9, ch...   320  2e-86
+SEQ gi|8777422|dbj|BAA97012.1| (AB024032) heat shock protein 70 [Ara...   319  3e-86
+SEQ gi|1449140|gb|AAB04676.1| (L57504) dnaK gene product [Thermus th...   319  4e-86
+SEQ gi|13431483|sp|Q9KD72|DNAK_BACHD CHAPERONE PROTEIN DNAK (HEAT SH...   319  5e-86
+SEQ gi|118703|sp|P17820|DNAK_BACSU CHAPERONE PROTEIN DNAK (HEAT SHOC...   319  5e-86
+SEQ gi|580888|emb|CAA35842.1| (X51477) partial dnaK gene (AA 572) [B...   319  5e-86
+SEQ gi|399942|sp|Q02028|HS7S_PEA CHLOROPLAST STROMA 70 KD HEAT SHOCK...   318  7e-86
+SEQ gi|6746592|gb|AAF27639.1|AF217459_1 (AF217459) heat shock protei...   318  7e-86
+SEQ gi|1621537|gb|AAB17252.1| (U27232) HSP70 [Trichomonas vaginalis]      318  8e-86
+SEQ gi|2392283|pdb|1DKG|D Chain D, Crystal Structure Of The Nucleoti...   317  1e-85
+SEQ gi|6855461|dbj|BAA90473.1| (AB009842) DnaK [Brevibacillus choshi...   317  1e-85
+SEQ gi|4928208|gb|AAD33464.1|AF130446_1 (AF130446) DnaK protein [Chl...   317  1e-85
+SEQ gi|2495349|sp|Q45551|DNAK_BACST CHAPERONE PROTEIN DNAK (HEAT SHO...   317  2e-85
+SEQ gi|13431504|sp|Q9ZFC6|DNAK_METSS CHAPERONE PROTEIN DNAK (HEAT SH...   316  2e-85
+SEQ gi|3169853|gb|AAC33427.1| (AF031362) heat shock protein 70 [Para...   316  3e-85
+SEQ gi|123615|sp|P20583|HS71_TRYCR HEAT SHOCK 70 KD PROTEIN, MITOCHO...   315  5e-85
+SEQ gi|3122002|sp|O32482|DNAK_LEGPN CHAPERONE PROTEIN DNAK (HEAT SHO...   315  5e-85
+SEQ gi|11465781|ref|NP_053925.1| Hsp70-type chaperone [Porphyra purp...   315  6e-85
+SEQ gi|445605|prf||1909352A heat shock protein hsp70 [Pisum sativum]      315  6e-85
+SEQ gi|13431450|sp|O52064|DNAK_PASHA CHAPERONE PROTEIN DNAK (HEAT SH...   315  7e-85
+SEQ gi|118724|sp|P27542|DNAK_CHLPN CHAPERONE PROTEIN DNAK (HEAT SHOC...   315  7e-85
+SEQ gi|7498921|pir||T20795 hypothetical protein F11F1.1a - Caenorhab...   315  9e-85
+SEQ gi|7498922|pir||T20796 hypothetical protein F11F1.1b - Caenorhab...   315  9e-85
+SEQ gi|13431501|sp|Q9ZAD3|DNAK_PORGI CHAPERONE PROTEIN DNAK (HEAT SH...   314  1e-84
+SEQ gi|13431454|sp|O85282|DNAK_EHRSE CHAPERONE PROTEIN DNAK (HEAT SH...   314  1e-84
+SEQ gi|3122003|sp|O33522|DNAK_ALCEU CHAPERONE PROTEIN DNAK (HEAT SHO...   313  3e-84
+SEQ gi|14530955|gb|AAK63090.1| (AY035309) heat shock protein HSP70 [...   312  4e-84
+SEQ gi|1169375|sp|P43736|DNAK_HAEIN CHAPERONE PROTEIN DNAK (HEAT SHO...   312  5e-84
+SEQ gi|2072520|gb|AAB53800.1| (U96271) heat shock protein 70 [Helico...   311  9e-84
+SEQ gi|3121997|sp|O05714|DNAK_ANASQ CHAPERONE PROTEIN DNAK (HEAT SHO...   310  1e-83
+SEQ gi|11467472|ref|NP_043618.1| Hsp70-type chaperone [Odontella sin...   310  2e-83
+SEQ gi|232001|sp|P30721|DNAK_CLOAB CHAPERONE PROTEIN DNAK (HEAT SHOC...   310  2e-83
+SEQ gi|345402|pir||A44261 dnaK-type molecular chaperone HSP70a - Cal...   310  3e-83
+SEQ gi|1854605|gb|AAB48223.1| (U49135) 70-kDa heat shock protein [un...   309  4e-83
+SEQ gi|2253225|gb|AAB62884.1| (AF004553) 70 kDa heat shock protein [...   309  5e-83
+SEQ gi|1169381|sp|P45554|DNAK_STAAU CHAPERONE PROTEIN DNAK (HEAT SHO...   308  8e-83
+SEQ gi|13701378|dbj|BAB42672.1| (AP003134) DnaK protein [Staphylococ...   308  8e-83
+SEQ gi|1706479|sp|P50022|DNK3_SYNP7 CHAPERONE PROTEIN DNAK3 (HEAT SH...   308  9e-83
+SEQ gi|1075597|pir||JC2458 dnaK-type molecular chaperone dnaK3 - Syn...   308  9e-83
+SEQ gi|13431484|sp|Q9KWS7|DNAK_BACTR CHAPERONE PROTEIN DNAK (HEAT SH...   307  1e-82
+SEQ gi|1597734|gb|AAB09772.1| (U70308) mitochondrial-type HSP70 [Tri...   307  1e-82
+SEQ gi|232002|sp|P30722|DNAK_PAVLU CHAPERONE PROTEIN DNAK (HEAT SHOC...   307  1e-82
+SEQ gi|1170375|sp|P12076|HS71_LEIMA HEAT SHOCK 70-RELATED PROTEIN 1,...   307  2e-82
+SEQ gi|7441850|pir||S33575 dnaK-type molecular chaperone precursor, ...   307  2e-82
+SEQ gi|118721|sp|P05646|DNAK_BACME CHAPERONE PROTEIN DNAK (HEAT SHOC...   307  2e-82
+SEQ gi|1621535|gb|AAB17251.1| (U27231) HSP70 [Trichomonas vaginalis]      305  4e-82
+SEQ gi|13431456|sp|O87384|DNAK_VIBHA CHAPERONE PROTEIN DNAK (HEAT SH...   305  4e-82
+SEQ gi|13431494|sp|Q9UXR0|DNAK_METTE CHAPERONE PROTEIN DNAK (HEAT SH...   305  5e-82
+SEQ gi|11277123|pir||T43807 heat shock protein hsp70 [imported] - En...   305  6e-82
+SEQ gi|1169378|sp|P27094|DNAK_METMA CHAPERONE PROTEIN DNAK (HEAT SHO...   305  7e-82
+SEQ gi|80992|pir||JS0656 dnaK-type molecular chaperone dnaK - Methan...   305  7e-82
+SEQ gi|7469307|pir||S75209 dnaK protein - Synechocystis sp. (strain ...   305  7e-82
+SEQ gi|3122023|sp|P73098|DNK3_SYNY3 CHAPERONE PROTEIN DNAK3 (HEAT SH...   305  7e-82
+SEQ gi|3882433|gb|AAC77524.1| (AF013113) 70 kDa heat shock protein; ...   305  7e-82
+SEQ gi|481575|pir||S38889 heat shock protein BiP homolog - Phytophth...   305  8e-82
+SEQ gi|10719982|sp|O69268|DNAK_BACSH CHAPERONE PROTEIN DNAK (HEAT SH...   304  1e-81
+SEQ gi|10719987|sp|Q9S5A4|DNAK_LISMO CHAPERONE PROTEIN DNAK (HEAT SH...   304  2e-81
+SEQ gi|6225277|sp|O69298|DNAK_CAMJE CHAPERONE PROTEIN DNAK (HEAT SHO...   303  3e-81
+SEQ gi|3116427|gb|AAC15892.1| (U84387) heat shock protein 70 [Strept...   303  3e-81
+SEQ gi|345403|pir||C44261 dnaK-type molecular chaperone HSP70b - Cal...   302  6e-81
+SEQ gi|3122026|sp|P95829|DNAK_STRPN CHAPERONE PROTEIN DNAK (HEAT SHO...   302  6e-81
+SEQ gi|6850951|emb|CAB71138.1| (AJ271605) heat shock protein [Dunali...   301  1e-80
+SEQ gi|4098880|gb|AAD00458.1| (U80970) heat shock protein 70B/SSB1 [...   300  1e-80
+SEQ gi|9621762|gb|AAF89529.1|AF160726_3 (AF160726) heat shock protei...   300  2e-80
+SEQ gi|1181673|gb|AAA86903.1| (U41652) heat shock protein cognate 70...   300  2e-80
+SEQ gi|13431499|sp|Q9WYK6|DNAK_THEMA CHAPERONE PROTEIN DNAK (HEAT SH...   300  3e-80
+SEQ gi|13431455|sp|O86103|DNAK_AQUPY CHAPERONE PROTEIN DNAK (HEAT SH...   299  3e-80
+SEQ gi|6225276|sp|O67118|DNAK_AQUAE CHAPERONE PROTEIN DNAK (HEAT SHO...   299  6e-80
+SEQ gi|12723891|gb|AAK05052.1|AE006329_11 (AE006329) DnaK protein [L...   299  6e-80
+SEQ gi|6323401|ref|NP_013473.1| mitochondrial hsp70-type molecular c...   299  6e-80
+SEQ gi|13431503|sp|Q9ZEJ6|DNAK_ANASP CHAPERONE PROTEIN DNAK (HEAT SH...   299  6e-80
+SEQ gi|3122028|sp|P96133|DNAK_THERO CHAPERONE PROTEIN DNAK (HEAT SHO...   298  7e-80
+SEQ gi|13508173|ref|NP_110122.1| Molecular chaperone [Mycoplasma pne...   298  7e-80
+SEQ gi|3023655|sp|Q54215|DNAK_STRGR CHAPERONE PROTEIN DNAK (HEAT SHO...   298  8e-80
+SEQ gi|3882427|gb|AAC77521.1| (AF013110) 70 kDa heat shock protein; ...   298  9e-80
+SEQ gi|3122027|sp|P95831|DNAK_STRPY CHAPERONE PROTEIN DNAK (HEAT SHO...   298  9e-80
+SEQ gi|1169377|sp|P42368|DNAK_LACLA CHAPERONE PROTEIN DNAK (HEAT SHO...   297  2e-79
+SEQ gi|3122025|sp|P95693|DNAK_STRAG CHAPERONE PROTEIN DNAK (HEAT SHO...   297  2e-79
+SEQ gi|1706477|sp|P50020|DNK1_SYNP7 CHAPERONE PROTEIN DNAK1 (HEAT SH...   296  4e-79
+SEQ gi|1854623|gb|AAB48232.1| (U49144) 70-kDa heat shock protein [un...   295  5e-79
+SEQ gi|4098876|gb|AAD00456.1| (U80968) heat shock protein 70B/SSB1 [...   295  7e-79
+SEQ gi|461946|sp|Q05558|DNAK_STRCO CHAPERONE PROTEIN DNAK (HEAT SHOC...   295  7e-79
+SEQ gi|12045161|ref|NP_072972.1| heat shock protein 70 (dnaK) [Mycop...   294  1e-78
+SEQ gi|3319784|emb|CAA06391.1| (AJ005129) dnaK [Thermotoga maritima]      293  2e-78
+SEQ gi|2495353|sp|O06942|DNAK_STRMU CHAPERONE PROTEIN DNAK (HEAT SHO...   293  3e-78
+SEQ gi|10312090|gb|AAG16651.1|AF214550_1 (AF214550) mitochondrial-ty...   293  3e-78
+SEQ gi|7441860|pir||T07620 dnaK-type molecular chaperone hsp70 - Cya...   293  3e-78
+SEQ gi|300265|gb|AAB26551.1| HSP68=68 kda heat-stress DnaK homolog [...   293  3e-78
+SEQ gi|232284|sp|Q01100|DNAK_HALMA CHAPERONE PROTEIN DNAK (HEAT SHOC...   292  8e-78
+SEQ gi|13431487|sp|Q9L7P1|DNAK_PROAC CHAPERONE PROTEIN DNAK (HEAT SH...   291  1e-77
+SEQ gi|13431458|sp|O87777|DNAK_LACSK CHAPERONE PROTEIN DNAK (HEAT SH...   291  1e-77
+SEQ gi|7579069|gb|AAF64243.1|AF252299_1 (AF252299) hsp70 BiP [Entamo...   291  1e-77
+SEQ gi|2555077|gb|AAB81494.1| (AF008215) mitochondrial Hsp70 homolog...   290  2e-77
+SEQ gi|9756589|emb|CAC02217.1| (AL390114) probable heat shock protei...   290  2e-77
+SEQ gi|149966|gb|AAA25362.1| (M95576) heat shock protein 70, hsp70A2...   290  2e-77
+SEQ gi|13432138|sp|P19993|DNAK_MYCLE CHAPERONE PROTEIN DNAK (HEAT SH...   290  2e-77
+SEQ gi|4928206|gb|AAD33463.1| (AF130445) DnaK protein [Heliobacteriu...   289  3e-77
+SEQ gi|118726|sp|P26823|DNAK_CLOPE CHAPERONE PROTEIN DNAK (HEAT SHOC...   288  8e-77
+SEQ gi|4098878|gb|AAD00457.1| (U80969) heat shock protein 70B/SSB1 [...   288  9e-77
+SEQ gi|13432158|sp|Q00488|DNAK_MYCPA CHAPERONE PROTEIN DNAK (HEAT SH...   288  9e-77
+SEQ gi|3123210|sp|P32723|DNAK_MYCTU CHAPERONE PROTEIN DNAK (HEAT SHO...   287  2e-76
+SEQ gi|3169851|gb|AAC33426.1| (AF031361) heat shock protein 70 [Para...   286  3e-76
+SEQ gi|13879862|gb|AAK44587.1| (AE006942) dnaK protein [Mycobacteriu...   285  7e-76
+SEQ gi|10798843|gb|AAG23115.1|AF069527_2 (AF069527) heat-shock prote...   284  1e-75
+SEQ gi|6466108|gb|AAF12788.1|AF191829_1 (AF191829) heat-shock protei...   284  2e-75
+SEQ gi|322245|pir||S29698 dnaK protein - Mycobacterium tuberculosis ...   284  2e-75
+SEQ gi|421601|pir||S34440 dnaK-type molecular chaperone - Mycobacter...   283  2e-75
+SEQ gi|414973|gb|AAA03450.1| (U02891) 70 kda heat shock protein-1 [B...   283  3e-75
+SEQ gi|13431477|sp|Q9HRY2|DNAK_HALN1 CHAPERONE PROTEIN DNAK (HEAT SH...   283  3e-75
+SEQ gi|293061|gb|AAA53691.1| (L14601) heat shock protein 70 [Leishma...   282  4e-75
+SEQ gi|6466110|gb|AAF12789.1|AF191830_1 (AF191830) heat-shock protei...   282  7e-75
+SEQ gi|6466098|gb|AAF12783.1|AF191824_1 (AF191824) heat-shock protei...   281  9e-75
+SEQ gi|7441861|pir||T09243 dnaK-type molecular chaperone EMB21 - whi...   281  9e-75
+SEQ gi|3882431|gb|AAC77523.1| (AF013112) 70 kDa heat shock protein; ...   281  1e-74
+SEQ gi|6466104|gb|AAF12786.1|AF191827_1 (AF191827) heat-shock protei...   280  3e-74
+SEQ gi|1169376|sp|P42372|DNAK_HALCU CHAPERONE PROTEIN DNAK (HEAT SHO...   279  4e-74
+SEQ gi|11277126|pir||T46657 heat shock protein hsp70 [validated] - T...   278  6e-74
+SEQ gi|6466102|gb|AAF12785.1|AF191826_1 (AF191826) heat-shock protei...   278  1e-73
+SEQ gi|13357899|ref|NP_078173.1| heat shock protein 70 (hsp70) [Urea...   276  3e-73
+SEQ gi|14089636|emb|CAC13396.1| (AL445563) HEAT SHOCK PROTEIN DNAK [...   274  2e-72
+SEQ gi|2506542|sp|P45958|DNAK_MYCCA CHAPERONE PROTEIN DNAK (HEAT SHO...   273  3e-72
+SEQ gi|1854635|gb|AAB48238.1| (U49150) 70-kDa heat shock protein [un...   273  3e-72
+SEQ gi|295365|gb|AAA30206.1| (L14478) heat shock protein 70 [Trypano...   272  4e-72
+SEQ gi|13431502|sp|Q9ZEJ0|DNAK_MYCHO CHAPERONE PROTEIN DNAK (HEAT SH...   271  1e-71
+SEQ gi|79344|pir||A41498 75K membrane protein - Chlamydia trachomati...   271  1e-71
+SEQ gi|168424|gb|AAA92743.1| (M59449) polypeptide chain-binding prot...   270  2e-71
+SEQ gi|484510|pir||JQ0966 dnaK-type molecular chaperone - maize (fra...   270  2e-71
+SEQ gi|1708311|sp|Q08080|HS7S_SPIOL CHLOROPLAST STROMA 70 KD HEAT SH...   270  2e-71
+SEQ gi|7494627|pir||T16591 heat shock protein 70 homolog - Caenorhab...   269  5e-71
+SEQ gi|6466100|gb|AAF12784.1|AF191825_1 (AF191825) heat-shock protei...   268  9e-71
+SEQ gi|123632|sp|P12077|HS74_LEIMA HEAT SHOCK 70-RELATED PROTEIN 4 >...   268  1e-70
+SEQ gi|3122015|sp|Q49539|DNAK_MYCHY CHAPERONE PROTEIN DNAK (HEAT SHO...   265  6e-70
+SEQ gi|10129782|emb|CAC08199.1| (AJ249368) putative Hsp70 protein [K...   262  5e-69
+SEQ gi|2197028|gb|AAC47660.1| (U97520) mitochondrial-type HSP70 [Nos...   260  2e-68
+SEQ gi|7522204|pir||T37466 heat shock protein 70 - Thermoplasma acid...   260  3e-68
+SEQ gi|1037174|emb|CAA91252.1| (Z66491) immunoglobulin heavy chain b...   260  3e-68
+SEQ gi|3122000|sp|O27351|DNAK_METTH CHAPERONE PROTEIN DNAK (HEAT SHO...   259  4e-68
+SEQ gi|4691418|dbj|BAA77235.1| (AB018045) heat shock protein 72 [Hom...   259  5e-68
+SEQ gi|11182418|sp|P50023|DNAK_THEAC CHAPERONE PROTEIN DNAK (HEAT SH...   258  7e-68
+SEQ gi|5441506|emb|CAB46748.1| (AJ243536) dnaK protein [Prevotella a...   258  1e-67
+SEQ gi|6466106|gb|AAF12787.1|AF191828_1 (AF191828) heat-shock protei...   258  1e-67
+SEQ gi|3510732|gb|AAC33582.1| (AF053324) endoplasmic reticulum heat ...   257  3e-67
+SEQ gi|10047094|ref|NP_057383.1| heat shock protein hsp70-related pr...   255  8e-67
+SEQ gi|7672784|gb|AAF66640.1|AF143723_1 (AF143723) heat shock protei...   253  2e-66
+SEQ gi|7450157|pir||S74252 heat shock protein 91 - Arabidopsis thali...   252  5e-66
+SEQ gi|5902126|ref|NP_008879.1| stress 70 protein chaperone, microso...   251  9e-66
+SEQ gi|2829291|gb|AAC00520.1| (AF044413) HSP70 [Schistosoma japonicum]    250  2e-65
+SEQ gi|5902359|gb|AAD55461.1|AC009322_1 (AC009322) Heat-shock protei...   250  2e-65
+SEQ gi|12324583|gb|AAG52244.1|AC011717_12 (AC011717) putative heat-s...   248  7e-65
+SEQ gi|97268|pir||B37840 dnaK protein homolog - Chlamydia trachomati...   247  1e-64
+SEQ gi|3510730|gb|AAC33581.1| (AF053323) endoplasmic reticulum heat ...   245  6e-64
+SEQ gi|7504151|pir||T22629 hypothetical protein F54C9.2 - Caenorhabd...   245  7e-64
+SEQ gi|9507149|ref|NP_062144.1| stress 70 protein chaperone, microso...   245  8e-64
+SEQ gi|1170385|sp|P44669|HSCA_HAEIN CHAPERONE PROTEIN HSCA HOMOLOG >...   245  1e-63
+SEQ gi|13541319|ref|NP_111007.1| Molecular chaperone [Thermoplasma v...   245  1e-63
+SEQ gi|14324702|dbj|BAB59629.1| (AP000992) heat shock protein [DnaK]...   245  1e-63
+SEQ gi|12805195|gb|AAH02056.1|AAH02056 (BC002056) heat shock protein...   243  3e-63
+SEQ gi|13122421|dbj|BAB32902.1| (AP003047) putative heat-shock prote...   243  4e-63
+SEQ gi|12641729|emb|CAC27522.1| (AJ306233) heat shock protein 70 [Pl...   242  5e-63
+SEQ gi|102056|pir||S05438 heat shock protein 70-related protein prec...   242  6e-63
+SEQ gi|6680301|ref|NP_032326.1| heat shock protein, 110 kDa [Mus mus...   242  7e-63
+SEQ gi|13277753|gb|AAH03770.1|AAH03770 (BC003770) heat shock protein...   242  7e-63
+SEQ gi|13278232|gb|AAH03950.1|AAH03950 (BC003950) heat shock protein...   242  7e-63
+SEQ gi|4835791|gb|AAD30257.1|AC007296_18 (AC007296) Strong similarit...   242  8e-63
+SEQ gi|3360521|gb|AAC27937.1| (AF077354) ischemia responsive 94 kDa ...   240  2e-62
+SEQ gi|2135328|pir||I56208 heat shock protein 70 - human >gi|292160|...   240  4e-62
+SEQ gi|2244652|emb|CAA47886.1| (X67643) HS24/P52 [Homo sapiens]           240  4e-62
+SEQ gi|6226869|sp|P34932|HS74_HUMAN HEAT SHOCK 70 KDA PROTEIN 4 (HEA...   240  4e-62
+SEQ gi|12744806|gb|AAK06776.1| (AF323568) heat shock protein 70 [Cry...   239  4e-62
+SEQ gi|7801290|emb|CAB91162.1| (AL355919) heat shock protein 70 (fra...   238  1e-61
+SEQ gi|6226870|sp|Q06068|HS97_STRPU 97 KDA HEAT SHOCK PROTEIN (EGG S...   237  2e-61
+SEQ gi|1649012|gb|AAB17669.1| (U72874) egg receptor for sperm [Stron...   237  2e-61
+SEQ gi|7657200|ref|NP_056580.1| heat shock protein, 70 kDa 4 [Mus mu...   237  2e-61
+SEQ gi|11277130|pir||A81903 probable chaperone protein NMA1340 [impo...   237  3e-61
+SEQ gi|11277134|pir||B81118 chaperone protein HscA NMB1131, NMB1169 ...   237  3e-61
+SEQ gi|1732026|gb|AAB46349.1| (AC000101) unknown [Myxococcus xanthus]     235  1e-60
+SEQ gi|2495362|sp|Q94738|HS97_STRFN 97 KDA HEAT SHOCK PROTEIN (HEAT ...   234  1e-60
+SEQ gi|3510726|gb|AAC33579.1| (AF053321) endoplasmic reticulum heat ...   233  2e-60
+SEQ gi|2495340|sp|Q61696|HS73_MOUSE HEAT SHOCK 70 KD PROTEIN 3 (HSP7...   233  2e-60
+SEQ gi|7656894|ref|NP_055093.1| heat shock protein (hsp110 family) [...   231  1e-59
+SEQ gi|1084481|pir||S48023 dnaK-type molecular chaperone hsp70.1 - m...   231  1e-59
+SEQ gi|1352648|sp|P48722|OS94_MOUSE OSMOTIC STRESS PROTEIN 94 (HEAT ...   230  2e-59
+SEQ gi|13626911|ref|XP_003625.3| heat shock protein (hsp110 family) ...   228  7e-59
+SEQ gi|14285475|sp|O74225|HS88_NEUCR HEAT SHOCK PROTEIN HSP88 >gi|32...   228  1e-58
+SEQ gi|12720559|gb|AAK02406.1| (AE006068) HscA [Pasteurella multocida]    228  1e-58
+SEQ gi|6997237|ref|NP_035150.1| osmotic stress protein 94 kDa [Mus m...   228  1e-58
+SEQ gi|3986691|gb|AAC84134.1| (AF101421) heat shock protein [Cichori...   227  2e-58
+SEQ gi|580853|emb|CAA34429.1| (X16393) DnaK polypeptide [Bacillus su...   226  3e-58
+SEQ gi|7441858|pir||JC6562 heat shock protein 70 - fission yeast (Sc...   226  3e-58
+SEQ gi|12230134|sp|O59838|HS78_SCHPO HEAT SHOCK PROTEIN HOMOLOG PSS1      226  3e-58
+SEQ gi|1001009|dbj|BAA11035.1| (D67016) heat shock protein 105 kDa a...   226  4e-58
+SEQ gi|1084480|pir||S48025 dnaK-type molecular chaperone hsp70.3 - m...   226  4e-58
+SEQ gi|2495344|sp|Q92598|H105_HUMAN HEAT-SHOCK PROTEIN 105 KDA (HEAT...   226  5e-58
+SEQ gi|3170190|gb|AAC18044.1| (AF039695) antigen NY-CO-25 [Homo sapi...   226  5e-58
+SEQ gi|5729879|ref|NP_006635.1| heat shock 105kD; heat shock 105kD b...   226  5e-58
+SEQ gi|13628731|ref|XP_007144.2| heat shock 105kD [Homo sapiens]          226  5e-58
+SEQ gi|1084482|pir||S48024 dnaK-type molecular chaperone hsp70.2 - m...   225  5e-58
+SEQ gi|11277095|pir||C82286 chaperone protein HscA VC0752 [imported]...   225  6e-58
+SEQ gi|2495345|sp|Q61699|H105_MOUSE HEAT-SHOCK PROTEIN 105 KDA (HEAT...   224  2e-57
+SEQ gi|7305169|ref|NP_038587.1| heat shock protein, 105 kDa; HSP105 ...   223  2e-57
+SEQ gi|3023068|gb|AAC12638.1| (AF053701) heat shock 70kD protein [Me...   222  5e-57
+SEQ gi|2137373|pir||S66666 heat shock protein (clone E7I) - mouse         222  5e-57
+SEQ gi|5053131|gb|AAC79497.2| (AF096864) heat shock protein 66-KDa [...   221  1e-56
+SEQ gi|4753683|emb|CAB38172.2| (AJ132829) heatshock protein cognate ...   220  2e-56
+SEQ gi|1001011|dbj|BAA11036.1| (D67017) heat shock protein 105 kDa b...   220  3e-56
+SEQ gi|12516927|gb|AAG57640.1|AE005482_7 (AE005482) heat shock prote...   220  3e-56
+SEQ gi|7441839|pir||I37564 dnaK-type molecular chaperone HSPA-2 - hu...   220  3e-56
+SEQ gi|7294421|gb|AAF49766.1| (AE003536) Hsc70Cb gene product [alt 2...   220  3e-56
+SEQ gi|1073308|pir||B36958 66K hsp70 homolog HscA - Escherichia coli...   219  4e-56
+SEQ gi|538757|pir||A53488 heat shock cognate protein 66 - Escherichi...   219  4e-56
+SEQ gi|2506543|sp|P36541|HSCA_ECOLI CHAPERONE PROTEIN HSCA (HSC66) >...   219  4e-56
+SEQ gi|3986110|dbj|BAA34919.1| (AB012716) heat shock protein 70 cogn...   219  4e-56
+SEQ gi|12230919|sp|Q51382|HSCA_PSEAE CHAPERONE PROTEIN HSCA HOMOLOG ...   218  8e-56
+SEQ gi|1091688|prf||2021354A heat shock protein [Homo sapiens]            218  1e-55
+SEQ gi|12580859|emb|CAC27138.1| (AJ132533) glucose regulated protein...   218  1e-55
+SEQ gi|3169861|gb|AAC33431.1| (AF031366) heat shock protein 70 [Para...   217  2e-55
+SEQ gi|454437|gb|AAA34692.1| (M17586) 70kDal heat shock protein [Sac...   216  5e-55
+SEQ gi|3169859|gb|AAC33430.1| (AF031365) heat shock protein 70 [Para...   216  5e-55
+SEQ gi|2495343|sp|Q60446|H105_CRIGR HEAT-SHOCK PROTEIN 105 KDA (HEAT...   215  8e-55
+SEQ gi|6325151|ref|NP_015219.1| HSP70 family member, highly homologo...   215  1e-54
+SEQ gi|1808585|emb|CAA67132.1| (X98508) heat shock protein 70 [Agari...   215  1e-54
+SEQ gi|84061|pir||A28531 heat shock protein 70 - Trypanosoma cruzi (...   215  1e-54
+SEQ gi|9663449|emb|CAC00801.1| (AL390935) probable heat shock cognat...   214  1e-54
+SEQ gi|9663430|emb|CAC00782.1| (AL390935) probable bip/grp78 precurs...   214  2e-54
+SEQ gi|1346316|sp|P11503|HS70_ONCVO HEAT SHOCK 70 KD PROTEIN (HSP70)...   212  7e-54
+SEQ gi|533365|dbj|BAA02576.1| (D13319) SSE1 protein [Saccharomyces c...   211  9e-54
+SEQ gi|3169843|gb|AAC33422.1| (AF031357) heat shock protein 70 [Eupl...   209  5e-53
+SEQ gi|11277124|pir||T44285 heat-shock-cognate protein hscA [importe...   207  2e-52
+SEQ gi|1854625|gb|AAB48233.1| (U49145) 70-kDa heat shock protein [un...   206  5e-52
+SEQ gi|13644722|ref|XP_017946.1| heat shock protein hsp70-related pr...   205  1e-51
+SEQ gi|3510728|gb|AAC33580.1| (AF053322) endoplasmic reticulum heat ...   205  1e-51
+SEQ gi|1902905|dbj|BAA19468.1| (AB001926) APG-1B [Mus musculus]           203  3e-51
+SEQ gi|1854597|gb|AAB48219.1| (U49131) 70-kDa heat shock protein [un...   202  5e-51
+SEQ gi|465809|sp|Q05036|YLA4_CAEEL HYPOTHETICAL 86.9 KD PROTEIN C30C...   202  7e-51
+SEQ gi|6319646|ref|NP_009728.1| HSP70 family member, highly homologo...   201  2e-50
+SEQ gi|2645004|emb|CAA75091.1| (Y14796) heat shock protein 70 [Planc...   200  2e-50
+SEQ gi|3169845|gb|AAC33423.1| (AF031358) heat shock protein DnaK [Po...   200  4e-50
+SEQ gi|1617556|gb|AAB16916.1| (U70309) mitochondrial-type HSP70 [Tri...   199  5e-50
+SEQ gi|1854603|gb|AAB48222.1| (U49134) 70-kDa heat shock protein [un...   198  1e-49
+SEQ gi|12831229|ref|NP_067370.1| calcium binding protein, 140 kDa; 1...   196  4e-49
+SEQ gi|13569206|gb|AAK30953.1|AF274582_1 (AF274582) heat shock prote...   196  5e-49
+SEQ gi|7441864|pir||S77870 dnaK-type molecular chaperone dnaK - Myco...   196  6e-49
+SEQ gi|462331|sp|P34934|HS7X_PIG HEAT SHOCK 70 KD PROTEIN >gi|213651...   196  6e-49
+SEQ gi|10720174|sp|Q63617|OXRP_RAT 150 KDA OXYGEN-REGULATED PROTEIN ...   195  1e-48
+SEQ gi|1854631|gb|AAB48236.1| (U49148) 70-kDa heat shock protein [un...   193  3e-48
+SEQ gi|1854617|gb|AAB48229.1| (U49141) 70-kDa heat shock protein [un...   193  3e-48
+SEQ gi|10720182|sp|Q60432|OXRP_CRIGR 150 KDA OXYGEN-REGULATED PROTEI...   193  3e-48
+SEQ gi|11132955|sp|P57660|HSCA_BUCAI CHAPERONE PROTEIN HSCA HOMOLOG ...   192  6e-48
+SEQ gi|1854613|gb|AAB48227.1| (U49139) 70-kDa heat shock protein [un...   191  1e-47
+SEQ gi|3461872|dbj|BAA32524.1| (D85733) spermatid-specific heat shoc...   190  3e-47
+SEQ gi|1854609|gb|AAB48225.1| (U49137) 70-kDa heat shock protein [un...   190  3e-47
+SEQ gi|5453832|ref|NP_006380.1| oxygen regulated protein precursor [...   189  6e-47
+SEQ gi|159266|gb|AAA29212.1| (M84018) heat shock protein 70.1 [Hydra...   188  8e-47
+SEQ gi|729765|sp|Q05945|HS70_HYDOL HEAT SHOCK 70 KD PROTEIN >gi|2853...   188  8e-47
+SEQ gi|1854619|gb|AAB48230.1| (U49142) 70-kDa heat shock protein [un...   188  1e-46
+SEQ gi|7490624|pir||T38942 heat shock protein 70 homolog - fission y...   188  1e-46
+SEQ gi|558826|gb|AAA63924.1| (U13889) heat shock cognate 70 [Mustela...   186  5e-46
+SEQ gi|85216|pir||A03309 dnaK-type molecular chaperone Dsim/Hsc70-1 ...   186  6e-46
+SEQ gi|123642|sp||HS7A_DROSI_2 [Segment 2 of 2] HEAT SHOCK 70 KD PRO...   186  6e-46
+SEQ gi|11277099|pir||T43188 heat shock protein 70 homolog - fission ...   185  7e-46
+SEQ gi|6321855|ref|NP_011931.1| Hsp70 Protein; Pdr13p [Saccharomyces...   184  1e-45
+SEQ gi|312611|emb|CAA51027.1| (X72224) HSP [Saccharomyces cerevisiae]     184  2e-45
+SEQ gi|1854601|gb|AAB48221.1| (U49133) 70-kDa heat shock protein [un...   183  2e-45
+SEQ gi|7463196|pir||H70132 heat shock protein 70 (dnaK-1) homolog - ...   183  2e-45
+SEQ gi|7488118|pir||F71433 probable growth regulator - Arabidopsis t...   183  4e-45
+SEQ gi|1854615|gb|AAB48228.1| (U49140) 70-kDa heat shock protein [un...   181  1e-44
+SEQ gi|1628635|gb|AAB17395.1| (U72647) heat shock protein DnaK [Lept...   181  1e-44
+SEQ gi|2645002|emb|CAA75090.1| (Y14795) heat shock protein 70 [Pirel...   180  2e-44
+SEQ gi|13360147|dbj|BAB34112.1| (AP002552) putative dnaK protein [Es...   179  4e-44
+SEQ gi|1854633|gb|AAB48237.1| (U49149) 70-kDa heat shock protein [un...   179  7e-44
+SEQ gi|295370|gb|AAC37173.1| (L14479) heat shock protein 70 [Trypano...   178  8e-44
+SEQ gi|3025012|sp|P77319|HSCC_ECOLI CHAPERONE PROTEIN HSCC (HSC62) >...   178  9e-44
+SEQ gi|123641|sp||HS7A_DROSI_1 [Segment 1 of 2] HEAT SHOCK 70 KD PRO...   178  1e-43
+SEQ gi|8920287|emb|CAB96373.1| (AJ251841) heat shock protein [Mycopl...   177  2e-43
+SEQ gi|166765|gb|AAA32819.1| (M23106) heat shock protein HSP70-1 [Ar...   177  2e-43
+SEQ gi|12513557|gb|AAG54984.1|AE005244_2 (AE005244) putative dnaK pr...   177  2e-43
+SEQ gi|2645000|emb|CAA75089.1| (Y14794) heat shock protein 70 [Pirel...   176  4e-43
+SEQ gi|2644998|emb|CAA75088.1| (Y14793) heat shock protein 70 [planc...   176  4e-43
+SEQ gi|10185127|emb|CAC08562.1| (AL441624) heat shock protein 70-lik...   175  7e-43
+SEQ gi|4033405|sp|O51883|HSCA_BUCAP CHAPERONE PROTEIN HSCA HOMOLOG >...   175  1e-42
+SEQ gi|13365606|dbj|BAB39153.1| (AB048692) cytosol-type hsp70 [Param...   174  1e-42
+SEQ gi|1854611|gb|AAB48226.1| (U49138) 70-kDa heat shock protein [un...   174  1e-42
+SEQ gi|1854599|gb|AAB48220.1| (U49132) 70-kDa heat shock protein [un...   173  4e-42
+SEQ gi|1854629|gb|AAB48235.1| (U49147) 70-kDa heat shock protein [un...   169  4e-41
+SEQ gi|546001|gb|AAB30260.1| (S70027) hsp70 [Onchocerca volvulus, Pe...   169  6e-41
+SEQ gi|2244654|emb|CAA47885.1| (X67640) HS24/P52 [Homo sapiens]           167  2e-40
+SEQ gi|8920307|emb|CAB96377.1| (AJ276681) heat shock protein [Mycopl...   166  4e-40
+SEQ gi|1854607|gb|AAB48224.1| (U49136) 70-kDa heat shock protein [un...   163  3e-39
+SEQ gi|1854627|gb|AAB48234.1| (U49146) 70-kDa heat shock protein [un...   163  5e-39
+SEQ gi|541868|pir||S41403 heat shock cognate 70-2 - Arabidopsis thal...   163  5e-39
+SEQ gi|99707|pir||JA0170 dnaK-type molecular chaperone hsc70-2 - Ara...   162  8e-39
+SEQ gi|861322|gb|AAA68352.1| (U28940) Contains similarity to Pfam do...   161  1e-38
+SEQ gi|4263707|gb|AAD15393.1| (AC006223) 70kD heat shock protein [Ar...   161  2e-38
+SEQ gi|2661598|emb|CAA15711.1| (AL009196) /prediction=(method:''gene...   161  2e-38
+SEQ gi|9858196|gb|AAG01040.1|AF293980_1 (AF293980) 70-kDa heat shock...   159  4e-38
+SEQ gi|123623|sp|P18694|HS72_USTMA HEAT SHOCK 70 KD PROTEIN 2 >gi|83...   157  3e-37
+SEQ gi|7507848|pir||T24923 hypothetical protein T14G8.3 - Caenorhabd...   155  8e-37
+SEQ gi|2642496|gb|AAC47838.1| (AF030694) CG4 [Plasmodium falciparum]      153  4e-36
+SEQ gi|551301|dbj|BAA07451.1| (D38370) Sse1 protein [Saccharomyces c...   152  7e-36
+SEQ gi|8920291|emb|CAB96375.1| (AJ251861) heat shock protein [Mycopl...   152  9e-36
+SEQ gi|4731938|gb|AAD28557.1| (AF117252) heat shock protein 70 [Bomb...   152  1e-35
+SEQ gi|1351681|sp|Q10061|YAM6_SCHPO HEAT SHOCK PROTEIN 70 HOMOLOG PR...   151  1e-35
+SEQ gi|102142|pir||S25648 dnaK-type molecular chaperone grp78 - Tryp...   151  2e-35
+SEQ gi|1097750|prf||2114356A 75-77kD antigen [Trypanosoma cruzi]          151  2e-35
+SEQ gi|3169855|gb|AAC33428.1| (AF031363) heat shock protein 70 [Para...   150  4e-35
+SEQ gi|14547085|emb|CAC42483.1| (AJ302314) heat shock protein 70 [Bu...   146  6e-34
+SEQ gi|8920289|emb|CAB96379.1| (AJ251842) heat shock protein 70 [Myc...   145  8e-34
+SEQ gi|3169839|gb|AAC33420.1| (AF031355) heat shock protein 70 [Eupl...   145  1e-33
+SEQ gi|6225513|sp|Q9ZDW5|HSCA_RICPR CHAPERONE PROTEIN HSCA HOMOLOG >...   145  1e-33
+SEQ gi|10728052|gb|AAF50438.2| (AE003555) CG7182 gene product [Droso...   144  3e-33
+SEQ gi|8105|emb|CAA23495.1| (V00213) reading frame ? [Drosophila mel...   142  8e-33
+SEQ gi|85050|pir||A03308 dnaK-type molecular chaperone Hsp70Ab - fru...   142  8e-33
+SEQ gi|3169847|gb|AAC33424.1| (AF031359) heat shock protein Hsc66 [P...   139  5e-32
+SEQ gi|2644993|emb|CAA75086.1| (Y14790) heat shock protein 70 [Planc...   138  1e-31
+SEQ gi|487068|pir||S37741 dnaK-type molecular chaperone, 71K - malar...   137  3e-31
+SEQ gi|100439|pir||S21365 dnaK-type molecular chaperone hsp70 (clone...   136  4e-31
+SEQ gi|2644995|emb|CAA75087.1| (Y14791) heat shock protein 70 [Verru...   136  4e-31
+SEQ gi|2644991|emb|CAA75085.1| (Y14789) heat shock protein 70 [Planc...   135  1e-30
+SEQ gi|7211060|emb|CAB77002.1| (AL159180) heat shock protein 70-like...   133  3e-30
+SEQ gi|157678|gb|AAA28631.1| (J02569) heat shock cognate 70 protein ...   133  4e-30
+SEQ gi|156706|gb|AAA28298.1| (M95648) heat shock protein 70 [Dirofil...   126  7e-28
+SEQ gi|13274414|gb|AAK17932.1| (AF316634) heat shock protein 70 [Cry...   126  7e-28
+SEQ gi|6473175|dbj|BAA87104.1| (AB027800) Stress seventy family HSP7...   125  1e-27
+SEQ gi|13274410|gb|AAK17930.1| (AF316632) heat shock protein 70 [Cry...   124  1e-27
+SEQ gi|84996|pir||B03309 dnaK-type molecular chaperone Hsc70-1 - fru...   124  3e-27
+SEQ gi|22341|emb|CAA27293.1| (X03658) put. heat shock protein hsp70 ...   122  7e-27
+SEQ gi|7576496|gb|AAF63863.1|AF134222_1 (AF134222) 78 kDa glucose-re...   121  2e-26
+SEQ gi|10764196|gb|AAG22599.1| (AF247706) BiP protein [Oryctolagus c...   121  2e-26
+SEQ gi|7109293|gb|AAF36720.1| (AF227519) heat shock protein 70 [Cypr...   121  2e-26
+SEQ gi|100440|pir||S21364 dnaK-type molecular chaperone hsp70 (clone...   120  3e-26
+SEQ gi|21479|emb|CAA78037.1| (Z11985) 70-Kd heat shock  protein [Sol...   120  3e-26
+SEQ gi|9757087|emb|CAC02674.1| (AL390114) probable heat shock protei...   119  6e-26
+SEQ gi|14161633|gb|AAK54833.1|AF377341_1 (AF377341) heat shock prote...   119  6e-26
+SEQ gi|283043|pir||PC1156 dnaK-type molecular chaperone (clone pMON9...   117  2e-25
+SEQ gi|4586578|dbj|BAA76421.1| (AB024993) dnaK-type molecular chaper...   116  4e-25
+SEQ gi|4895069|gb|AAD32710.1|AF148070_1 (AF148070) heat shock protei...   116  4e-25
+SEQ gi|12861763|dbj|BAB32274.1| (AK021006) putative [Mus musculus]        116  4e-25
+SEQ gi|90607|pir||S03443 dnaK-type molecular chaperone hsc73 - mouse...   116  5e-25
+SEQ gi|6015586|emb|CAB57815.1| (X05837) heat shock cognate hsc73 [Mu...   116  5e-25
+SEQ gi|21417|emb|CAA78035.1| (Z11983) BiP [Solanum tuberosum]             113  5e-24
+SEQ gi|552096|gb|AAA28630.1| (K01297) heat shock cognate 70 protein ...   111  2e-23
+SEQ gi|7479263|pir||T36606 heat shock protein 70 - Streptomyces coel...   110  4e-23
+SEQ gi|6322777|ref|NP_012850.1| novel member of the Hsp70 family of ...   109  4e-23
+SEQ gi|454436|gb|AAA34691.1| (M17586) 70kDal heat shock protein [Sac...   107  2e-22
+SEQ gi|419947|pir||A45805 dnaK-type molecular chaperone - nematode (...   107  2e-22
+SEQ gi|2290780|gb|AAB65162.1| (AF002667) heat shock cognate protein ...   106  4e-22
+SEQ gi|1799929|dbj|BAA16416.1| (D90882) heat shock cognate protein 6...   106  4e-22
+SEQ gi|9827976|emb|CAB98065.1| (AL160493) probable heat shock protei...   101  2e-20
+SEQ gi|7484592|pir||T09500 dnaK-type molecular chaperone - Douglas f...   100  4e-20
+SEQ gi|551302|dbj|BAA07452.1| (D38371) Sse2 protein [Saccharomyces c...   100  4e-20
+SEQ gi|627823|pir||A61383 dnaK-type molecular chaperone - Chinese ha...    97  5e-19
+SEQ gi|9663680|emb|CAC01032.1| (AL390935) probable heat shock protei...    96  7e-19
+SEQ gi|12584624|emb|CAC27397.1| (AJ305218) 78 kD glucose regulated p...    96  8e-19
+SEQ gi|3642689|gb|AAC36531.1| (U89425) immunoglobulin heavy chain-bi...    95  2e-18
+SEQ gi|4100435|gb|AAD09292.1| (AF000379) heat shock protein 70-relat...    94  3e-18
+SEQ gi|9827979|emb|CAB98068.1| (AL160493) probable heat shock cognat...    91  2e-17
+SEQ gi|7670752|gb|AAF66235.1| (AF228039) heat shock protein 70 [Cara...    90  4e-17
+SEQ gi|4239719|emb|CAA77165.1| (Y18420) p65 protein [Citrus tristeza...    90  5e-17
+SEQ gi|7670754|gb|AAF66236.1| (AF228040) heat shock protein 70 [Acip...    89  7e-17
+SEQ gi|7670756|gb|AAF66237.1| (AF228041) heat shock protein 70 [Ruti...    89  8e-17
+SEQ gi|5410236|gb|AAD42995.1| (AF074451) putative DnaK [Sinorhizobiu...    89  1e-16
+SEQ gi|11414868|dbj|BAB18526.1| (AB046398) 65-kDa heat shock protein...    89  1e-16
+SEQ gi|7839611|gb|AAF70352.1|AF260651_5 (AF260651) HSP70-like protei...    88  2e-16
+SEQ gi|2098830|gb|AAB57706.1| (AF001623) 65-kDa protein [Citrus tris...    88  3e-16
+SEQ gi|631951|pir||A49804 cellular Hsp70 homolog p65 - citrus triste...    87  3e-16
+SEQ gi|9628270|ref|NP_042864.1| 65-kDa protein [Citrus tristeza viru...    87  3e-16
+SEQ gi|13924448|gb|AAK49015.1|AF047009_1 (AF047009) catecholamine bi...    85  2e-15
+SEQ gi|2500609|sp|P77941|RPOB_RICTY DNA-DIRECTED RNA POLYMERASE BETA...    83  6e-15
+SEQ gi|1732498|gb|AAB38759.1| (U56902) p65 [Citrus tristeza virus]         83  7e-15
+SEQ gi|3123913|gb|AAC40858.1| (AF039204) 65 kDa chaperone protein [g...    82  1e-14
+SEQ gi|7770394|gb|AAF69758.1|AC018749_10 (AC018749) Oxygen-regulated...    82  2e-14
+SEQ gi|2369867|emb|CAA74563.1| (Y14131) heat shock protein 70-like [...    82  2e-14
+SEQ gi|1353741|gb|AAB01776.1| (U43121) heat-shock protein SSE1 homol...    82  2e-14
+SEQ gi|1388133|gb|AAC55662.1| (U51931) p66 [Beet yellow stunt virus]       81  3e-14
+SEQ gi|13509394|emb|CAC35386.1| (AJ309021) heat shock protein 70.2 [...    81  3e-14
+SEQ gi|479498|pir||S34203 heat shock protein 70-related protein - su...    81  3e-14
+SEQ gi|3283079|gb|AAC25117.1| (AF056575) 65-kDa protein [Beet yellow...    80  5e-14
+SEQ gi|6492370|gb|AAF14302.1|AF190581_3 (AF190581) HSP70h [Beet yell...    80  5e-14
+SEQ gi|9627406|ref|NP_041872.1| heat shock 70-related protein [Beet ...    80  6e-14
+SEQ gi|479909|pir||S35606 heat shock cognate protein hsc70 - rat (fr...    79  8e-14
+SEQ gi|6670931|gb|AAF23074.1|AF074969_1 (AF074969) heat shock protei...    78  2e-13
+SEQ gi|3461871|dbj|BAA32523.1| (D85733) Heat shock protein 70 [Mus m...    76  5e-13
+SEQ gi|55072|emb|CAA38267.1| (X54401) heat shock  protein 70 cognate...    76  7e-13
+SEQ gi|420209|pir||S12830 heat shock protein 70 - mouse (fragments)        76  7e-13
+SEQ gi|4104248|gb|AAD01985.1| (AF034096) glucose regulated protein [...    76  7e-13
+SEQ gi|5932026|gb|AAD56773.1|AF150984_1 (AF150984) heat-shock protei...    76  1e-12
+SEQ gi|9629712|ref|NP_045004.1| HSP70 homologue [Little cherry clost...    74  2e-12
+SEQ gi|3005922|emb|CAA11494.1| (AJ223619) putative heat shock protei...    74  4e-12
+SEQ gi|552058|gb|AAA27875.1| (M85011) heat shock protein 70A [Bursap...    73  8e-12
+SEQ gi|9663682|emb|CAC01034.1| (AL390935) probable heat shock 70 Kd ...    73  8e-12
+SEQ gi|156105|gb|AAA27868.1| (M85000) heat shock protein 70A [Bursap...    72  1e-11
+SEQ gi|552055|gb|AAA73191.1| (M85001) [Bursaphelenchus xylophilus ge...    72  1e-11
+SEQ gi|552057|gb|AAA73193.1| (M85009) [Bursaphelenchus mucronatus ge...    72  1e-11
+SEQ gi|13661143|dbj|BAB41122.1| (AB050060) heat shock protein 70A [B...    71  2e-11
+SEQ gi|4103543|gb|AAD01790.1| (AF024630) heat shock protein 70 [toma...    70  6e-11
+SEQ gi|108303|pir||S03361 dnaK-type molecular chaperone - pig (fragm...    68  2e-10
+SEQ gi|1008596|gb|AAB34599.1| circadian oscillator regulator=26 kda ...    68  2e-10
+SEQ gi|214272|gb|AAA49759.1| (K02307) heat shock protein hsp70 [Xeno...    68  3e-10
+SEQ gi|9756965|emb|CAC02571.1| (AL390114) probable heat shock 70-rel...    67  4e-10
+SEQ gi|6653493|gb|AAF22740.1|AF195822_4 (AF195822) HSP70-like protei...    66  6e-10
+SEQ gi|13752261|gb|AAK38608.1|AF233934_1 (AF233934) HSP70 [grapevine...    66  8e-10
+SEQ gi|1778164|gb|AAB40656.1| (U67448) HSP 70 homolog [Cucurbit yell...    66  9e-10
+SEQ gi|2119729|pir||I59139 dnaK-type molecular chaperone HSP70-1 - h...    66  1e-09
+SEQ gi|641985|gb|AAA61800.1| (U15441) heat-shock protein [Lettuce in...    65  2e-09
+SEQ gi|6164967|gb|AAF04602.1| (AF195501) heat shock 70 protein [plum...    64  3e-09
+SEQ gi|12803407|gb|AAH02526.1|AAH02526 (BC002526) Similar to heat sh...    64  4e-09
+SEQ gi|13752266|gb|AAK38612.1|AF233935_1 (AF233935) HSP70 [grapevine...    64  4e-09
+SEQ gi|9827977|emb|CAB98066.1| (AL160493) probable heat shock cognat...    64  4e-09
+SEQ gi|9663681|emb|CAC01033.1| (AL390935) probable heat shock 70 Kd ...    64  5e-09
+SEQ gi|1083243|pir||PC4014 calcium binding 140k protein - mouse (fra...    63  6e-09
+SEQ gi|10834734|gb|AAG23797.1| (AF260731) heat shock protein 70 [Cuc...    63  7e-09
+SEQ gi|1778162|gb|AAB40655.1| (U67447) HSP 70 homolog [beet pseudoye...    62  1e-08
+SEQ gi|13474677|ref|NP_106246.1| dnaK-type molecular chaperone dnaK ...    62  1e-08
+SEQ gi|462198|sp|P34935|GR78_PIG 78 KD GLUCOSE-REGULATED PROTEIN (GR...    62  1e-08
+SEQ gi|7645971|gb|AAA31006.2| (J03214) BiP [Sus scrofa]                    62  1e-08
+SEQ gi|80646|pir||A30544 dnaK-type molecular chaperone - Mycobacteri...    61  2e-08
+SEQ gi|11466153|ref|NP_047086.1| ORP150RP; L3169.5 [Leishmania major...    60  5e-08
+SEQ gi|156098|gb|AAA73190.1| (M84996) unknown [Bursaphelenchus xylop...    59  7e-08
+SEQ gi|156103|gb|AAA27867.1| (M84999) heat shock protein 70A [Bursap...    59  1e-07
+SEQ gi|3090876|gb|AAC40708.1| (AF037268) 59 kDa protein [grapevine l...    58  2e-07
+SEQ gi|10179922|gb|AAG13941.1|AF283103_4 (AF283103) heat shock prote...    58  2e-07
+SEQ gi|9757088|emb|CAC02675.1| (AL390114) probable heat shock protei...    58  3e-07
+SEQ gi|11037783|gb|AAG27736.1|AF314647_1 (AF314647) CG4 [Plasmodium ...    57  3e-07
+SEQ gi|11278155|pir||F82696 rod shape-determining protein XF1309 [im...    57  4e-07
+SEQ gi|156100|gb|AAA27866.1| (M84997) heat shock protein 70A [Bursap...    57  4e-07
+SEQ gi|156109|gb|AAA27869.1| (M85002) heat shock protein 70A [Bursap...    57  4e-07
+SEQ gi|13235451|emb|CAC33624.1| (AJ293321) HscA protein [Rickettsia ...    57  5e-07
+SEQ gi|13235431|emb|CAC33745.1| (AJ293319) HscA protein [Rickettsia ...    57  5e-07
+SEQ gi|552056|gb|AAA73192.1| (M85005) [Bursaphelenchus mucronatus ge...    56  6e-07
+SEQ gi|9757089|emb|CAC02676.1| (AL390114) probable bip/grp78 precurs...    56  1e-06
+SEQ gi|156113|gb|AAA27871.1| (M85160) heat shock protein 70A [Bursap...    54  3e-06
+SEQ gi|111934|pir||A35771 dnaK-type molecular chaperone P72 - rat (f...    54  3e-06
+SEQ gi|13235442|emb|CAC33691.1| (AJ293320) HscA protein [Rickettsia ...    54  4e-06
+SEQ gi|172716|gb|AAA35097.1| (M36115) heat shock protein gene (SSA3)...    53  5e-06
+SEQ gi|2707949|emb|CAA75919.1| (Y15987) hsp-70 [grapevine leafroll-a...    53  6e-06
+SEQ gi|156111|gb|AAA27870.1| (M85003) heat shock protein 70A [Bursap...    52  9e-06
+SEQ 
+## SEQUENCE PROFILE AND ENTROPY
+ SeqNo PDBNo   V   L   I   M   F   W   Y   G   A   P   S   T   C   H   R   K   Q   E   N   D  NOCC NDEL NINS ENTROPY RELENT WEIGHT
+    1    1     0   0   0   0   0   0   0   0   0   0   0   0   0   0   8  65   4  22   0   0     0    0    0   0.950     31  0.00
+    2    2     0   1   1   0   0   0   0  83   8   0   2   0   0   1   0   1   0   1   2   1     0    0    0   0.761     25  0.00
+    3    3     2   1   1   2   0   0   0   0   6  51   2  17   0   0   1  14   0   0   1   1     0    0    0   1.636     54  0.00
+    4    4    22   0   8   0   0   0   0   0  66   0   3   0   1   0   0   0   0   0   0   0     0    0    0   0.980     32  0.00
+    5    5    30   4  64   1   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.891     29  0.00
+    6    6     0   0   0   0   0   0   0  99   0   0   1   0   0   0   0   0   0   0   0   0     0    0    0   0.089      2  0.00
+    7    7     3   5  91   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.420     14  0.00
+    8    8     0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   1   0  98     0    0    0   0.152      5  0.00
+    9    9     2  92   1   0   6   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.361     12  0.00
+   10   10     0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.010      0  0.00
+   11   11     0   0   0   0   2   0   0   0   0   0   2  91   1   0   0   0   0   0   4   0     0    0    0   0.418     13  0.00
+   12   12     0   1   0   0   0   0   0   0   0   0   1  92   0   0   0   0   3   2   1   0     0    0    0   0.420     14  0.00
+   13   13     0   0   0   0   5   0  58   0   0   0   4   0   0   0   0   0   0   0  31   0     0    0    0   1.034     34  0.00
+   14   14     0   0   0   1   0   0   0   0   1   0  93   1   4   0   0   0   0   0   0   0     0    0    0   0.365     12  0.00
+   15   15     8   3   0   0   0   0   4   0   5   0   2   3  74   0   0   1   0   0   0   0     0    0    0   1.070     35  0.00
+   16   16    88   2   7   1   1   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.537     17  0.00
+   17   17     0   0   0   0   0   0   0  55  35   0   8   0   1   0   0   0   0   0   0   0     0    0    0   0.982     32  0.00
+   18   18    79   1   8   1   0   1   1   0   3   0   1   3   0   2   0   0   0   0   0   0     0    0    0   0.920     30  0.00
+   19   19     4   6   2  19  27  15  18   0   6   0   1   0   0   0   0   0   0   0   0   0     0    0    0   1.919     64  0.00
+   20   20     2   0   1   2   0   0   0   1   1   0   1   1   0   0  12  13  38  22   1   5     0    0    0   1.826     60  0.00
+   21   21     0   0   0   0   0   0   0  23   3   1   4   1   0  32   1   1   2   1  25   5     0    0    0   1.765     58  0.00
+   22   22     0   0   0   0   0   0   0  63   1   0   3   2   0   0   2   6   1   3   3  16     0    0    0   1.301     43  0.00
+   23   23     1   0   0   0   0   0   0   5   2   1   2   4   0   3  21  38   6   8   4   3     0    0    0   2.002     66  0.00
+   24   24    61   2   6   2   0   0   0   0   8  18   1   1   0   0   0   0   0   1   0   0     0    0    0   1.303     43  0.00
+   25   25     5   1   1   0   0   0   0   0   1   0   1   4   0   1   3  14   0  59   1   9     0    0    0   1.497     49  0.00
+   26   26    26   1  67   0   0   0   1   0   0   0   0   4   0   0   0   0   0   0   0   0     0    0    0   0.908     30  0.00
+   27   27     7  13  78   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.754     25  0.00
+   28   28     3   2   0   0   0   0   0   0  61  12   0   4   0   0   1   1   2  12   0   0     0    0    0   1.401     46  0.00
+   29   29     0   1   0   0   0   0   0   0   0   0   2   1   0   0   0   1   1   0  92   2     0    0    0   0.456     15  0.00
+   30   30     0   0   0   0   0   0   0   0  14   4   7   1   0   0   0   2   1  10   1  57     0    0    0   1.482     49  0.00
+   31   31     2   1   0   1   2   0   2   0   1   0   0   0   0   0   1   0  57  29   2   1     0    0    0   1.293     43  0.00
+   32   32     0   0   0   0   0   0   0  90   0   0   8   0   0   0   0   0   0   0   0   1     0    0    0   0.423     14  0.00
+   33   33     1   0   0   1   1   0   0   2   7   0   6   2   0   1   3   3   2   2  62   6     0    0    0   1.587     52  0.00
+   34   34     0   0   0   0   0   0   2   0   1   0   0   0   0   1  91   1   0   1   1   0     0    0    0   0.522     17  0.00
+   35   35     2   3  13   0   0   0   1   0   1   0   2  72   3   0   0   1   0   1   0   0     0    0    0   1.127     37  0.00
+   36   36     1   2   3   0   1   0   0   0   0   1   0  92   0   0   0   0   0   0   0   0     0    0    0   0.442     14  0.00
+   37   37     0   0   0   0   0   0   0   0   1  97   0   1   0   0   0   0   0   0   0   0     0    0    0   0.178      5  0.00
+   38   38     1   0   0   0   0   0   0   0   3   0  92   2   1   0   0   0   0   0   0   0     0    0    0   0.391     13  0.00
+   39   39    22   2   9   1   4   4  52   0   1   0   0   1   3   0   0   0   0   0   0   0     0    0    0   1.516     50  0.00
+   40   40    90   2   7   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.444     14  0.00
+   41   41     0   1   0   0   1   0   0   6  79   0   9   1   0   1   1   0   0   0   0   0     0    0    0   0.874     29  0.00
+   42   42     1   2   2   0  83   1   9   0   0   0   0   0   0   1   0   0   0   0   0   0     0    0    0   0.692     23  0.00
+   43   43     1   2   0   0   0   0   0   6   3   0   5  68   0   1   1   7   1   1   3   1     0    0    0   1.377     45  0.00
+   44   44     0   0   0   0   0   0   0   3   0   4   2   0   0   0   0   4   2  12   9  63     0    0    0   1.350     45  0.00
+   45   45     0   0   0   0   0   0   0  21   0   1  22  32   0   0   2   7   1   3   5   5     0    0    0   1.857     61  0.00
+   46   46     0   0   0   0   0   0   0   2   0   0   1   1   0   0   0   1   3  80   4   6     0    0    0   0.884     29  0.00
+   47   47     4   3   5   1   0   0   0   1   1   0   1   4   0   1  76   2   0   1   0   0     0    0    0   1.089     36  0.00
+   48   48     3  81   4   0   2   0   2   0   1   0   2   2   0   0   0   1   1   0   0   0     0    0    0   0.928     30  0.00
+   49   49    36   2  59   0   1   0   0   0   1   0   1   0   0   0   0   0   0   0   0   0     0    0    0   0.961     32  0.00
+   50   50     0   0   0   0   0   0   1  98   1   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.159      5  0.00
+   51   51     2   1   1   2   0   0   1   1   4   0   1   2   0   1   1   1  10  13   1  56     0    0    0   1.673     55  0.00
+   52   52     3   1   3   1   0   0   0   1  58  21   5   1   0   0   0   0   1   2   0   1     0    0    0   1.452     48  0.00
+   53   53     1   0   0   0   0   0   0   2  95   0   0   0   0   0   0   0   0   1   0   0     0    0    0   0.330     11  0.00
+   54   54     1   1   0   0   0   0   1   0   2   0   0   0   0   0   4  88   0   1   1   0     0    0    0   0.660     22  0.00
+   55   55     0   1   0   0   0   0   0   1   2   0   4   1   0   0  24   0   1   2  62   1     0    0    0   1.215     40  0.00
+   56   56     1   2   0   1   0   0   0   0   2   0   2   0   0   0   1   1  87   1   1   0     0    0    0   0.700     23  0.00
+   57   57    44   6   2   2   0   0   0   0  36   0   2   1   0   0   1   0   3   1   0   0     0    0    0   1.471     49  0.00
+   58   58    20   1  10   0   0   0   0   1  55   2   2   7   0   0   0   0   0   1   0   1     0    0    0   1.452     48  0.00
+   59   59     5  10   4  37   0   0   0   1   1   0   8  22   0   0   7   1   1   0   1   0     0    0    0   1.898     63  0.00
+   60   60     0   0   0   0   0   0   0   1   0   0   0   0   0   3   0   0   0   1  91   3     0    0    0   0.482     16  0.00
+   61   61     3   0   1   0   0   0   1   0   4  87   2   1   0   0   0   0   0   0   0   0     0    0    0   0.648     21  0.00
+   62   62     2   1   2   0   0   0   0   1   2   0   5  18   0   6  11  10   9  21   6   4     0    0    0   2.357     78  0.00
+   63   63     0   0   0   0   0   0   0   2   1   0   3   0   1   0   7   3   1   1  80   1     0    0    0   0.911     30  0.00
+   64   64     1   0   0   0   1   0   0   0   1   0   3  92   0   0   0   0   0   0   0   0     0    0    0   0.395     13  0.00
+   65   65    56   9  23   0   8   0   2   0   1   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.257     41  0.00
+   66   66     1   1   2   1  68   0  11   1   3   0   4   1   0   1   3   1   2   0   0   0     0    0    0   1.330     44  0.00
+   67   67     0   0   0   0   0   0   1   4  12   0  15   0   0   0   0   1   1   1   3  61     0    0    0   1.323     44  0.00
+   68   68    16   4  14   0   5   0   0   0  52   0   1   6   0   0   0   0   0   0   0   0     0    0    0   1.480     49  0.00
+   69   69     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  97   1   0   1   0     0    0    0   0.226      7  0.00
+   70   70     0   0   0   0   0   0   0   0   0   0   1   0   0   1  94   1   1   0   0   1     0    0    0   0.356     11  0.00
+   71   71     0  76   3   2  10   2   0   0   0   0   0   0   0   4   0   2   0   0   0   0     0    0    0   1.009     33  0.00
+   72   72     3   3  80  11   0   0   0   0   1   0   0   0   0   3   0   0   0   0   0   0     0    0    0   0.775     25  0.00
+   73   73     0   0   0   0   0   0   0  98   1   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.105      3  0.00
+   74   74     0   2   0   0   0   0   0   0   0   0   2   4   1   1  86   2   0   1   0   0     0    0    0   0.722     24  0.00
+   75   75     0   0   0   0   0   0   0   1   3   0   4   5   0   0  30  44   1   1   3   4     0    0    0   1.648     55  0.00
+   76   76     0   3   1   1  63   4  21   0   2   0   2   0   0   0   0   0   0   0   0   0     0    0    0   1.276     42  0.00
+   77   77     0   0   0   0   0   0   0   3   3   0  14   4   0   1   0   3   2  13  14  42     0    0    0   1.805     60  0.00
+   78   78     1   0   0   0   0   0   1   0   0   0   2   0   0   1   0   0   0  14   2  79     0    0    0   0.783     26  0.00
+   79   79     2   1   0   0   0   0   1   2  14  46   8   4   0   0   1  10   4   4   1   2     0    0    0   1.913     63  0.00
+   80   80    18   1   3   1   3   0   1   0   7   0  13  12   0   1   0  11   3  20   1   3     0    0    0   2.292     76  0.00
+   81   81    70   4  16   0   2   0   0   0   2   1   0   4   0   0   0   0   0   0   0   0     0    0    0   1.094     36  0.00
+   82   82     1   1   1   0   0   0   1   1   9   0   1   2   0   1   1   5  68   7   1   2     0    0    0   1.317     43  0.00
+   83   83     0   2   1   0   0   0   1   2  11   0  31   2   0   1   8  18   5  15   3   2     0    0    0   2.083     69  0.00
+   84   84     0   1   1   0   0   0   2   0   1   0   1   0   1   1   1   1   0  12   1  77     0    0    0   0.979     32  0.00
+   85   85     2   4  22  47   0   0   1   0   3   0   2   2   0   0   5   9   1   1   1   0     0    0    0   1.765     58  0.00
+   86   86     1   1   1   0   0   0   0   2   1   2   4   3   0   1   1  75   1   4   1   1     0    0    0   1.158     38  0.00
+   87   87     1  14   2   3   4   0   2   0   0   1   3   2   0  50   6   1   3   1   6   0     0    0    0   1.875     62  0.00
+   88   88    17  13   1   3   7  51   3   0   0   1   1   0   0   0   0   0   0   1   0   0     0    0    0   1.591     53  0.00
+   89   89     0   0   0   0   0   0   1   0   2  86   8   1   0   0   0   1   0   0   0   0     0    0    0   0.642     21  0.00
+   90   90     0   0   0   0  64   0  29   0   1   0   2   1   1   0   0   0   0   0   0   0     0    0    0   0.976     32  0.00
+   91   91     2   3   1   5   0   0   1   0   1   0   2   6   0   1   6  54   7   8   3   2     0    0    0   1.790     59  0.00
+   92   92    67   4  22   0   1   0   0   0   1   0   0   1   0   0   0   1   0   1   0   0     0    0    0   1.075     35  0.00
+   93   93    54   3  24   1   1   0   0   1   4   1   0   6   0   0   1   2   1   2   0   0     0    0    0   1.529     51  0.00
+   94   94     1   1   0   1   0   0   0   4   3   2  20   3   0   1   9  11   4   9  22   8     0    0    0   2.300     76  0.00
+   95   95     3   1   1   0   0   0   0  12   2   4   2   0   0   2   2  21   1  11   2  35     0    0    0   2.003     66  0.00
+   96   96     2   0   1   0   1   0   0  25  18   6   6   2   2   0   1   7   1   4  13  11     0    0    0   2.249     75  0.00
+   97   97     0   0   0   0   0   0   0  60   0   3   6   3   0   0   1   1   2   1   7  16     0    0    0   1.437     47  0.00
+   98   98     0   2   1   1   1   0   1   3   1   0   3   1   0   0  13  55   1   1  13   3     0    0    0   1.650     55  0.00
+   99   99     4   2   1   0   0   0   0  12   4  67   2   2   1   0   0   1   1   0   1   1     0    0    0   1.346     44  0.00
+  100  100     5   3   3   7   2   2   9   5   2   0   2   2   0   2   2  35   3   1   5   9     0    0    0   2.375     79  0.00
+  101  101    29   2  48   2   1   1   2   2  10   0   1   1   0   0   0   0   0   1   0   0     0    0    0   1.479     49  0.00
+  102  102     5   1   1   1   0   8   1   9   1   1   8   2   1   1   6  11  25  14   1   3     0    0    0   2.392     79  0.00
+  103  103    76   3   9   0   1   0   0   1   4   0   1   3   1   0   0   0   0   1   0   0     0    0    0   1.002     33  0.00
+  104  104     2   0   1   2   1   1   1   0   1   2   7   6   0   1   2   7   7  42   9   8     0    0    0   2.101     70  0.00
+  105  105    10   2   9   0  13   1  48   1   6   0   1   3   3   1   0   1   1   0   0   1     0    0    0   1.824     60  0.00
+  106  106     0   8   0   3   0   0   0   7   1   3   4   1   0   2   6  51   4   1   4   4     0    0    0   1.876     62  0.00
+  107  107     2   1   0   0   0   0   0  75   5   1   3   1   0   0   0   0   1   4   4   3     0    0    0   1.160     38  0.00
+  108  108     0   2   2   0   1   0   0   2   2   1   2   2   0   1   1   4   8  65   2   4     0    0    0   1.503     50  0.00
+  109  109     2   3   2   1   0   0   0   8   2   1  13  25   0   0   1  13   2  13   7   6     0    0    0   2.305     76  0.00
+  110  110     0   1   1   2   0   0   2   1   0   0   0   2   0   2   6  77   2   1   2   1     0    0    0   1.073     35  0.00
+  111  111     7   7   2   1   1   0   0   1   6   1  15  18   0   1   9   6   8   9   4   4     0    0    0   2.504     83  0.00
+  112  112     2   5   0   1  72   0  17   0   0   0   0   1   0   0   0   0   0   0   0   1     0    0    0   0.980     32  0.00
+  113  113     0   2   0   0   6   0  12   0  24   0  22  22   0   5   1   1   1   0   3   0     0    0    0   1.959     65  0.00
+  114  114     3   0   1   0   0   0   0   1  15  78   0   1   0   0   0   0   0   0   0   0     0    0    0   0.809     27  0.00
+  115  115     2   1   1   0   0   0   0   1   1   5   6   2   0   0   0   0  10  70   0   0     0    0    0   1.202     40  0.00
+  116  116     0   1   0   0   0   0   0   0   0   0   0   1   0   0   1   0  20  74   0   1     0    0    0   0.848     28  0.00
+  117  117    22   4  73   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.748     24  0.00
+  118  118     0   1   2   0   0   0   0   8   3   0  80   4   0   0   0   0   0   0   0   0     0    0    0   0.876     29  0.00
+  119  119     0   1   0   0   0   0   0   3  50   0  44   0   0   0   1   0   0   0   0   0     0    0    0   0.978     32  0.00
+  120  120     0   4   2  70   9   0   0   0   1   0   0   0   0   1   2   1   4   5   0   1     0    0    0   1.263     42  0.00
+  121  121    67   4  24   0   2   0   1   0   1   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.960     32  0.00
+  122  122     0  93   2   0   2   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.376     12  0.00
+  123  123     6   5   6   6   0   0   0   5   4   0   7  34   0   0   7   5  13   2   1   1     0    0    0   2.249     75  0.00
+  124  124     0   1   0   0   0   0   5   0   1   0   1   1   0   1   1  87   0   0   2   0     0    0    0   0.680     22  0.00
+  125  125     2  21   4  71   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.888     29  0.00
+  126  126     3   0   1   0   0   0   0   0   2   0   1   1   0   0   7  85   0   0   0   0     0    0    0   0.659     22  0.00
+  127  127     0   0   0   0   0   0   0   2   3   0   4   1   0   1   3   6   3  70   2   4     0    0    0   1.281     42  0.00
+  128  128     3   2  29   1   0   0   3   0   2   0   1  46   1   0   1   0   0   1   1   8     0    0    0   1.603     53  0.00
+  129  129     2   0   0   0   0   0   0   0  91   0   6   1   0   0   0   0   0   0   0   0     0    0    0   0.418     13  0.00
+  130  130     1   0   0   0   0   0   0   0   1   0   4   1   0   1   0   0   2  89   0   1     0    0    0   0.585     19  0.00
+  131  131     1   1   0   0   0   0   0   2  57   0  11   3   0   0   2   5   1   4   5   8     0    0    0   1.602     53  0.00
+  132  132     3   0   0   0  16   0  67   0   2   0   1   1   0   1   1   3   0   1   2   1     0    0    0   1.257     41  0.00
+  133  133     1  90   3   0   2   0   0   0   1   0   0   1   0   0   0   0   0   0   0   0     0    0    0   0.548     18  0.00
+  134  134     0   0   1   0   0   0   0  84   1   0   2   0   1   0   0   5   1   1   4   0     0    0    0   0.745     24  0.00
+  135  135     2   1   0   0   0   0   1   6   2   0   4   6   0   6   6  30   8  24   1   2     0    0    0   2.148     71  0.00
+  136  136     0   0   0   0   0   0   0   0   3  16  15  25   0   0   1  23   4   9   1   3     0    0    0   1.961     65  0.00
+  137  137    68   2  25   0   0   0   0   0   2   0   0   0   2   0   0   0   0   0   0   0     0    0    0   0.908     30  0.00
+  138  138     3   0   0   0   0   0   0   0   2   0   7  42   0   0   1  27   2   4   8   2     0    0    0   1.711     57  0.00
+  139  139     0   0   0   0   0   0   0   5   1   0   3   0   0   6   1  13   3   8  29  31     0    0    0   1.837     61  0.00
+  140  140     7   1   0   0   0   0   0   0  85   0   1   0   4   0   0   0   0   0   0   0     0    0    0   0.654     21  0.00
+  141  141    95   0   3   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   1   0     0    0    0   0.263      8  0.00
+  142  142    37   2  59   0   0   0   0   0   0   0   0   0   2   0   0   0   0   0   0   0     0    0    0   0.854     28  0.00
+  143  143     0   0   0   0   0   0   0   1   1   0   9  89   0   0   0   0   0   0   0   0     0    0    0   0.415     13  0.00
+  144  144    95   0   2   0   0   0   0   0   0   0   0   1   2   0   0   0   0   0   0   0     0    0    0   0.253      8  0.00
+  145  145     0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0     0    0    0   0.028      0  0.00
+  146  146     2   0   0   0   1   0   0   0  92   1   3   0   0   0   0   0   0   0   0   0     0    0    0   0.428     14  0.00
+  147  147     0   0   0   0   4   1  89   1   0   0   0   0   0   1   0   0   0   1   1   2     0    0    0   0.564     18  0.00
+  148  148     0   0   0   0  93   0   6   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.300     10  0.00
+  149  149     0   0   0   0   0   0   0   1   0   0   3   6   0   0   0   1   0   0  85   4     0    0    0   0.661     22  0.00
+  150  150     0   0   0   0   0   0   0   0   0   0   1   1   1   0   0   0   1   2   3  89     0    0    0   0.583     19  0.00
+  151  151     0   3   1   0   1   0   0   1  31   0  57   0   0   0   1   2   0   1   1   0     0    0    0   1.220     40  0.00
+  152  152     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1  92   6   0   0     0    0    0   0.342     11  0.00
+  153  153     0   0   0   0   0   0   0   0   0   0   0   0   0   0  98   1   0   0   0   0     0    0    0   0.142      4  0.00
+  154  154     0   1   0   0   0   0   1   0   2   0   1   1   0   0   6   3  80   1   2   0     0    0    0   0.964     32  0.00
+  155  155     0   0   0   0   3   0   0   1  88   0   5   0   0   0   0   0   0   0   1   0     0    0    0   0.586     19  0.00
+  156  156     5   3   2   1   0   0   0   0   0   0   0  89   0   0   0   0   0   0   0   0     0    0    0   0.513     17  0.00
+  157  157     0   4   1   2   0   0   0   1   2   0   0   0   0   0   2  85   1   1   0   0     0    0    0   0.738     24  0.00
+  158  158     0   1   0   0   0   0   0   0   1   0   2   0   0   0   0   0   2   5   1  86     0    0    0   0.712     23  0.00
+  159  159     1   0   0   0   0   0   0   0  95   0   2   0   1   0   0   0   0   0   0   0     0    0    0   0.277      9  0.00
+  160  160     1   1   1   0   0   0   0  85  10   0   0   1   1   0   0   0   0   0   0   0     0    0    0   0.628     20  0.00
+  161  161    14   2   2   0   0   0   0   0  12   0   2  24   0   7  12  11   8   4   2   0     0    0    0   2.250     75  0.00
+  162  162     1   5  89   1   0   0   0   0   1   0   1   0   0   0   0   0   0   0   0   0     0    0    0   0.546     18  0.00
+  163  163     2   2   1   0   0   0   0   0  84   0  10   2   0   0   0   0   0   0   0   0     0    0    0   0.648     21  0.00
+  164  164     0   0   0   0   0   0   0  98   0   0   0   0   0   0   0   1   0   0   1   0     0    0    0   0.133      4  0.00
+  165  165     0  91   2   1   3   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.450     15  0.00
+  166  166     0   0   0   0   0   0   0   0   0   1   2   1   0   1   0   3   1  16  65   8     0    0    0   1.238     41  0.00
+  167  167    89   1   2   0   0   0   0   0   1   2   0   0   5   0   0   0   0   0   0   0     0    0    0   0.532     17  0.00
+  168  168     6  60   2  11   0   0   0   0   3   0   0   0   0   0   2   7   2   4   0   0     0    0    0   1.481     49  0.00
+  169  169     0   0   0   0   0   0   2   0   1   0   0   0   0   0  94   0   1   0   0   0     0    0    0   0.327     10  0.00
+  170  170     6   9  83   1   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0     0    0    0   0.635     21  0.00
+  171  171    10   5  81   4   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.689     23  0.00
+  172  172     0   0   0   0   0   0   0   0   0   1   1   0   0   2   0   0   0   0  95   0     0    0    0   0.259      8  0.00
+  173  173     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  95   0   4     0    0    0   0.250      8  0.00
+  174  174     1   0   0   1   0   0   0   0   0  93   0   3   0   0   0   0   0   0   1   0     0    0    0   0.368     12  0.00
+  175  175     0   0   0   0   0   0   0   0   1   0   3  94   0   0   0   0   0   0   0   0     0    0    0   0.303     10  0.00
+  176  176     0   0   0   0   0   0   0   0  97   0   1   0   0   0   0   0   0   0   0   0     0    0    0   0.158      5  0.00
+  177  177     4   0   0   0   0   0   0   0  94   0   0   1   0   0   1   0   0   0   0   0     0    0    0   0.309     10  0.00
+  178  178     0   1   0   0   0   0   0   1  92   0   5   0   0   0   0   0   0   0   0   0     0    0    0   0.367     12  0.00
+  179  179     2  46  49   2   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.949     31  0.00
+  180  180     0   0   0   0   0   0   0   1  90   0   5   1   0   0   1   0   0   0   1   0     0    0    0   0.528     17  0.00
+  181  181     0   0   0   0   4   0  94   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.305     10  0.00
+  182  182     0   0   0   0   0   0   0  95   1   0   1   1   0   0   0   0   0   0   0   0     0    0    0   0.296      9  0.00
+  183  183     2  80   8   4   3   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.854     28  0.00
+  184  184     0   0   0   0   1   0   4   1   0   1   1   1   0   1   0   0   0   4   3  80     0    0    0   0.952     31  0.00
+  185  185     0   1   0   0   0   0   0   0   1   0   3   1   0   1   8  81   1   1   2   0     0    0    0   0.856     28  0.00
+  186  186     0   1   0   0   0   0   0   6   1   2   5   5   0   0   4  51   6   3  11   3     0    0    0   1.814     60  0.00
+  187  187    12  13   2   1   0   0   1  14  10   2   7   8   0   0   1   6   3  10   1   9     0    0    0   2.503     83  0.00
+  188  188     2   2   0   0   0   0   0  37   3   1   8   7   1   2   1  16   3   9   3   6     0    0    0   2.118     70  0.00
+  189  189     2   2   1   0   0   0   0  40  11   2   7   3   0   0   2  16   2   6   2   5     0    0    0   2.042     68  0.00
+  190  190     0   0   1   0   0   0   0   1   1   3   2   1   0   1   2   1   1  68   6  12     0    0    0   1.283     42  0.00
+  191  191     0   1   0   2   0   0   0   2   0   0   4   1   0   2  42  28   8   8   1   0     0    0    0   1.669     55  0.00
+  192  192     4   2   3   0   0   0   2   0   0   0   1  13   0   4   2   9   1   0  59   0     0    0    0   1.529     51  0.00
+  193  193    58   2  37   0   1   0   1   0   1   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.918     30  0.00
+  194  194     6  71   2   1   0   0   0   0  19   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.923     30  0.00
+  195  195    45   0  48   1   5   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.950     31  0.00
+  196  196     4   1   2   0  68   0  24   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.890     29  0.00
+  197  197     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   1  98     0    0    0   0.156      5  0.00
+  198  198     0  87   1   5   6   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0     0    0    0   0.570     19  0.00
+  199  199     0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.035      1  0.00
+  200  200     0   0   0   0   0   0   0  93   1   0   1   0   0   5   0   0   0   0   0   0     0    0    0   0.341     11  0.00
+  201  201     0   0   0   0   0   0   0  93   1   0   5   1   0   0   0   0   0   0   0   0     0    0    0   0.358     11  0.00
+  202  202     0   0   0   0   0   0   0   0   2   0   3  92   0   0   0   0   0   0   1   0     0    0    0   0.425     14  0.00
+  203  203     0   3   0   0  91   0   3   0   0   0   1   2   0   0   0   0   0   0   0   0     0    0    0   0.463     15  0.00
+  204  204     0   0   0   0   0   0   0   0   0   0   2   1   0   0   0   0   4   1   0  92     0    0    0   0.421     14  0.00
+  205  205    83   1  13   0   0   0   0   0   1   0   0   0   1   0   0   0   0   0   0   0     0    0    0   0.621     20  0.00
+  206  206     0   0   0   0   0   0   0   0   1   0  92   5   1   0   0   0   0   0   0   0     0    0    0   0.349     11  0.00
+  207  207    16  27  54   1   1   0   0   0   2   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.160     38  0.00
+  208  208     4  83   7   2   0   0   0   0   1   0   0   0   3   0   0   0   0   0   0   0     0    0    0   0.702     23  0.00
+  209  209     1   0   0   0   0   0   0   1   7   0   8  48   0   1   2   1   1  26   2   3     0    0    0   1.561     52  0.00
+  210  210     8   9  72   1   6   0   1   0   1   0   0   1   0   0   1   1   0   0   0   0     0    0    0   1.093     36  0.00
+  211  211     0   1   0   0   1   0   0  14   6   0   4   1   0   0   1   2   4  29   5  31     0    0    0   1.865     62  0.00
+  212  212     0   1   0   0   0   0   0   8   2   0   2   0   0   0   2   7   0  23  12  40     0    0    0   1.728     57  0.00
+  213  213     0   0   0   0   0   0   0  90   0   2   1   0   0   0   0   2   0   0   2   1     0    0    0   0.553     18  0.00
+  214  214    37  10  35   2   1   0   1   0   0   0   0   5   0   0   0   4   4   0   0   0     0    0    0   1.644     54  0.00
+  215  215     4   5   2   1  85   0   2   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.659     22  0.00
+  216  216     1   0   0   0   0   0   0   0   1   0   1   2   0   1   1   4   3  83   0   1     0    0    0   0.820     27  0.00
+  217  217    95   0   3   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0     0    0    0   0.251      8  0.00
+  218  218     5  26   3   0   0   0   0   0   1   0   0   0   0   1  14  50   1   1   0   0     0    0    0   1.389     46  0.00
+  219  219     0   0   0   0   0   0   0   3  53   0  42   0   0   0   0   0   0   0   0   1     0    0    0   0.948     31  0.00
+  220  220     1   0   0   0   0   0   0   0   0   0   3  93   0   1   0   0   0   0   0   0     0    0    0   0.408     13  0.00
+  221  221     1   0   0   0   0   0   0   5  53   0  11   1   0   0   1   1   0   1  26   0     0    0    0   1.332     44  0.00
+  222  222     0   0   0   0   4   0   1  92   0   0   1   1   1   0   0   0   0   0   0   0     0    0    0   0.429     14  0.00
+  223  223     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   5  93     0    0    0   0.316     10  0.00
+  224  224     0   1   0   1   0   0   0   0   1   2   2  80   0   0   2   1   0   0   8   1     0    0    0   0.912     30  0.00
+  225  225     0   0   0   1  11   0   1   0   2   0   1   2   0  71   2   2   2   0   4   1     0    0    0   1.215     40  0.00
+  226  226     0  97   1   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.150      5  0.00
+  227  227     0   0   0   0   0   0   0  99   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.053      1  0.00
+  228  228     0   0   0   0   0   0   0  99   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.078      2  0.00
+  229  229     0   1   0   0   0   0   0   1   1   0   1   1   0   0   7   1   1  69   1  16     0    0    0   1.106     36  0.00
+  230  230     0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   1   0   1   4  92     0    0    0   0.417     13  0.00
+  231  231     1   1   5   2  89   3   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.522     17  0.00
+  232  232     0   0   0   0   0   0   0   0   0   0   0   2   0   0   0   0   0   1   1  96     0    0    0   0.201      6  0.00
+  233  233     1   3   1   1   0   0   1   0   1   0   2   1   0   4   2   5  16   7  53   2     0    0    0   1.734     57  0.00
+  234  234     6   2   1   0   0   0   0   0  11   0   0   1   1   0  68   6   0   2   1   0     0    0    0   1.252     41  0.00
+  235  235    11  48  20  19   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.330     44  0.00
+  236  236    61   6  14  11   1   0   0   0   2   0   1   1   0   0   1   0   0   1   0   0     0    0    0   1.360     45  0.00
+  237  237     0   0   0   0   0   0   0   1   1   0   5  10   0   1   3   3   3  18  32  23     0    0    0   1.886     62  0.00
+  238  238     0   0   0   0  10  10  22   0   0   0   0   0   0  54   1   1   0   1   0   0     0    0    0   1.330     44  0.00
+  239  239     2  31   8   3  49   0   0   0   0   0   0   0   5   0   0   0   0   0   0   0     0    0    0   1.323     44  0.00
+  240  240    34   6  22   2   0   0   1   0  23   0   1   3   4   0   0   1   0   0   0   0     0    0    0   1.809     60  0.00
+  241  241     0   0   0   0   0   0   0   3  17   0   5   2   0   0   1  15  15  24   3  13     0    0    0   2.071     69  0.00
+  242  242     1   9   1   1   0   0   0   0   0   0   1   1   0   0   1   4   4  67   1   9     0    0    0   1.328     44  0.00
+  243  243     1   1   6   0  84   1   5   0   1   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.723     24  0.00
+  244  244     0   2   1   1   0   0   1   2   1   1   0   0   0   0   3  77   6   2   2   0     0    0    0   1.059     35  0.00
+  245  245     0   1   0   1   0   0   0   1   2   1   1   4   0   0  51  30   2   3   2   1     0    0    0   1.528     50  0.00
+  246  246     0   1   0   0   0   0   0   0   2   0   2   3   0   0   2  63   4  15   3   5     0    0    0   1.373     45  0.00
+  247  247     0   0   0   0   3   0  20   0   1   0   4   8   0  26   1   3   7   8  17   2     0    0    0   2.095     69  0.00
+  248  248     0   0   0   0   0   0   0  33   2   0   2   0   0   0   5  46   2   1   6   2     0    0    0   1.474     49  0.00
+  249  249     8   5  25   3   1   0   0   1   1   1   0   0   0   1   1  50   0   1   0   0     0    0    0   1.571     52  0.00
+  250  250     0   0   0   0   0   0   0   1   0   0   0   0   0   0   1   0   0   1   6  89     0    0    0   0.507     16  0.00
+  251  251     8  48  34   2   0   0   0   0   2   2   0   1   0   0   1   0   0   0   0   0     0    0    0   1.335     44  0.00
+  252  252     0   2   0   1   0   0   0   2   5   1  40  14   0   1  24   7   0   1   1   0     0    0    0   1.786     59  0.00
+  253  253     0   1   0   0   1   0   0  10   2   2  19  10   0   0   1  25   9   9   6   5     0    0    0   2.178     72  0.00
+  254  254     0   2   0   0   0   0   0   0   0   0   4   1   0   0   0   2   1   1  51  37     0    0    0   1.192     39  0.00
+  255  255     2   2   2   0   0   0   0   0  10  23   3   1   0   1   7  34   4   1   8   0     0    0    0   2.012     67  0.00
+  256  256     0   7   1  12   0   0   0   0   1   0   1   0   0   0  62   6   5   2   0   0     0    0    0   1.400     46  0.00
+  257  257     1   1   0   0   0   0   0   1  89   1   4   1   0   0   0   0   1   1   0   0     0    0    0   0.560     18  0.00
+  258  258    18  62   4   8   0   0   1   0   0   0   1   1   0   0   1   1   1   0   0   0     0    0    0   1.292     43  0.00
+  259  259     0   4   1   1   1   0   0   5   4   0   2   1   0   0  49   1  32   0   1   0     0    0    0   1.454     48  0.00
+  260  260     0   1   0   0   0   0   0   1   0   0   0   0   0   0  83  13   0   1   0   0     0    0    0   0.625     20  0.00
+  261  261     3  92   4   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.401     13  0.00
+  262  262     0   2   1   1   0   0   1   0   1   0   2   4   0   1  66  18   1   0   0   0     0    0    0   1.251     41  0.00
+  263  263     0   1   1   0   0   0   0   0   2   0   1  48   0   0  11   2   3  22   1   6     0    0    0   1.618     54  0.00
+  264  264     0   1   0   0   0   0   0   1  71   0   2   1   0   1   0   0   5  17   0   0     0    0    0   1.058     35  0.00
+  265  265     8   0   1   0   0   0   0   0  42   0   2   1  45   0   0   0   0   0   0   0     0    0    0   1.160     38  0.00
+  266  266     0   0   1   0   0   0   0   0   1   0   0   0   0   0   1   1   1  92   1   1     0    0    0   0.442     14  0.00
+  267  267     1   0   1   0   0   0   0   0   3   1   0   1   0   0  54  36   1   1   1   0     0    0    0   1.147     38  0.00
+  268  268     2   5   1   0   0   0   0   0  87   0   1   2   0   0   0   0   0   0   0   0     0    0    0   0.624     20  0.00
+  269  269     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  98   0   0   0   0     0    0    0   0.161      5  0.00
+  270  270     1   1  19   1   0   0   1   0   0   0   0   1   4   1  58  11   0   2   0   0     0    0    0   1.380     46  0.00
+  271  271     4   3   2   0   0   0   0   0   9   0   2  49   0   0   1   0   2  24   2   3     0    0    0   1.624     54  0.00
+  272  272     1  94   1   3   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.318     10  0.00
+  273  273     0   0   0   0   0   0   0   0   0   1  95   2   0   0   0   0   0   0   0   0     0    0    0   0.274      9  0.00
+  274  274     2   0   0   0   1   0   0   5   8   0  71   6   0   1   0   0   0   1   3   1     0    0    0   1.209     40  0.00
+  275  275     8   3   1   1   0   0   0   1  12   0  47  10   0   1   1   2  10   1   4   0     0    0    0   1.824     60  0.00
+  276  276     2   2   0   4   0   0   0   1  14   3  12  42   0   8   0   1   7   1   1   1     0    0    0   1.980     66  0.00
+  277  277     1   1   0   1   0   0   0   0   0   0   8   3   0   0   0   2  58  20   2   4     0    0    0   1.403     46  0.00
+  278  278     7   3   1   0   0   0   0   0  48   0   2  36   0   1   0   0   1   0   0   1     0    0    0   1.336     44  0.00
+  279  279     1   0   1   1   0   0   1   0   0   6  26  25   0   0  10   2   4   9   7   7     0    0    0   2.093     69  0.00
+  280  280    16  11  66   1   1   0   0   0   1   0   0   2   0   0   0   0   0   0   0   0     0    0    0   1.118     37  0.00
+  281  281     0   1   0   0   0   0   0   0   1   0   8   1   0   1   1   1   1  61  22   2     0    0    0   1.263     42  0.00
+  282  282     9  26  63   0   1   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0     0    0    0   1.007     33  0.00
+  283  283     0   0   0   0   0   0   0   0   1  22   0   2   0   0   0   0   0  18   3  52     0    0    0   1.310     43  0.00
+  284  284     1   2   0   1  15   0   7   2  15   0  47   1   4   0   0   0   1   0   2   1     0    0    0   1.752     58  0.00
+  285  285     2  64  18   0   8   0   0   0   1   3   1   1   0   0   0   0   0   0   0   2     0    0    0   1.235     41  0.00
+  286  286     2   1   1   7  36   1  22   1   4   0   3  17   1   2   0   1   1   0   0   0     0    0    0   1.924     64  0.00
+  287  287     1   0   3   3   0   0   0   1  14   0   1   1   0   0   0   1   3  50   6  14     0    0    0   1.718     57  0.00
+  288  288     0   0   0   0   0   0   0  68   1   3   1   7   0   0   0   0   0   1   4  16     0    0    0   1.126     37  0.00
+  289  289    13   7  35   3   1   0   0   0  11   2   1   3   0   2   1   5   8   7   0   1     0    0    0   2.165     72  0.00
+  290  290     0   0   0   0   1   0   0   0   0   0   8   4   0   8   0   2   0   1   2  74     0    0    0   1.045     34  0.00
+  291  291     6  21   4   2  55   1   7   0   1   0   0   0   0   1   0   0   0   1   0   0     0    0    0   1.467     48  0.00
+  292  292     2   1   0   0   1   0  38   0   2   0  20   2   0   1   2   2   5   9  11   4     0    0    0   1.994     66  0.00
+  293  293     7   5   6   7   0   0   0   4   4   0   9  39   1   0   1   3   1  13   0   0     0    0    0   2.081     69  0.00
+  294  294     1   0   0   0   1   0   0   0   3   5  28  23   0   0   3  26   2   4   3   1     0    0    0   1.902     63  0.00
+  295  295    14  34  47   3   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.212     40  0.00
+  296  296     0   0   0   0   0   0   0   0   0   0  24  66   0   0   0   2   0   0   5   1     0    0    0   1.013     33  0.00
+  297  297     0   0   0   0   0   0   0   0   0   0   0   0   0   0  97   1   1   1   0   0     0    0    0   0.198      6  0.00
+  298  298     1   0   0   0   0   0   0   1  80   0   8   2   0   0   0   0   1   4   1   1     0    0    0   0.886     29  0.00
+  299  299     0   1   0   0   0   0   0   0   0   0   0   2   0   0  51  28   8   8   0   1     0    0    0   1.401     46  0.00
+  300  300     0  11   0   0  87   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.461     15  0.00
+  301  301     0   1   0   0   0   0   0   0   1   0   0   0   0   0   1   0   2  90   2   3     0    0    0   0.518     17  0.00
+  302  302     0   1   0   0   0   0   0   2   4   0   7   1   0   1   2   3   3  70   1   3     0    0    0   1.276     42  0.00
+  303  303     1  84   7   6   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.647     21  0.00
+  304  304    11   0   5   0   0   0   0   0   4   0   2  10  37   0   0   0   0   0  30   0     0    0    0   1.666     55  0.00
+  305  305     0   2   3  12   0   0   0   6  32   0  14   2   0   1   2   3   5   8   6   6     0    0    0   2.238     74  0.00
+  306  306     1   0   0   0   0   0   0   1   1   8   3   0   0   3   1   1   0   5   2  74     0    0    0   1.144     38  0.00
+  307  307     1  88   2   1   2   0   4   0   0   0   0   1   0   0   0   1   0   0   0   0     0    0    0   0.615     20  0.00
+  308  308    14  12  12   0  61   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.159     38  0.00
+  309  309     0   0   0   1   0   0   0   0   4   0   1   1   0   0  53  11   7  13   3   6     0    0    0   1.617     53  0.00
+  310  310     0   0   0   0   0   0   0  17   5   0  14   0   0   0  31  19   1   1  10   1     0    0    0   1.823     60  0.00
+  311  311     6   3   2   0   0   0   0   0   1   0   5  71  11   0   0   0   0   0   0   0     0    0    0   1.102     36  0.00
+  312  312     3  45  15  18   0   0   0   0   1   1   0   2   0   0   7   5   0   4   0   0     0    0    0   1.731     57  0.00
+  313  313     5   2   3   0   0   0   0   9   7   3   1   2   0   0   1   9  13  28   2  14     0    0    0   2.235     74  0.00
+  314  314     0   1   3   0   0   0   0   0   2  91   1   1   0   0   0   1   0   0   0   0     0    0    0   0.467     15  0.00
+  315  315    68   7   5   1   2   0   0   0   0   0   1   2  13   0   0   0   0   0   0   0     0    0    0   1.164     38  0.00
+  316  316     0   1   0   1   0   0   0   0   3   0   1   2   0   1   9  14   9  55   1   2     0    0    0   1.596     53  0.00
+  317  317     1   0   1   0   0   0   0   0   1   0   5   3   0   0   9  56  14   2   5   2     0    0    0   1.588     53  0.00
+  318  318    27   2   0   0   0   0   0   0  57   0   5   0   8   0   0   0   0   0   0   0     0    0    0   1.191     39  0.00
+  319  319     2  82   5   9   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0     0    0    0   0.706     23  0.00
+  320  320     1   0   0   0   0   0   0   1   6   0   4   3   0   0  31  25   5  12   8   4     0    0    0   1.946     64  0.00
+  321  321     0   0   0   0   0   0   0   1   0   0   2   0   0   0   0   1   5   2   0  87     0    0    0   0.652     21  0.00
+  322  322     0   0   0   1   0   0   0   1  81   0  13   3   0   0   0   0   0   0   0   0     0    0    0   0.727     24  0.00
+  323  323     0   0   0   0   0   0   0  27   1   0   1   0   0   1   2  53   1   3   5   5     0    0    0   1.417     47  0.00
+  324  324     9  48  10  29   2   0   1   0   0   0   0   0   0   0   0   1   0   0   0   0     0    0    0   1.375     45  0.00
+  325  325     0   0   0   0   0   0   0   2   1   1  18   6   0   0   1  15   4   5   1  44     0    0    0   1.715     57  0.00
+  326  326     6   4   3   0   1   0   0   0   7   8   1   2   0   0   1  65   0   1   1   0     0    0    0   1.432     47  0.00
+  327  327     0   0   0   0   0   0   0  14   9   1  41   3   0   0   6   5   2   8   5   5     0    0    0   1.969     65  0.00
+  328  328     2   0   0   0   0   0   0   0   3   0  10   2   0   0   0   5  33  14   1  30     0    0    0   1.733     57  0.00
+  329  329    25   2  71   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0     0    0    0   0.782     26  0.00
+  330  330     0   2   0   0   0   0   1   2   1   0   5   2   0  43   0   1   3   1   8  31     0    0    0   1.608     53  0.00
+  331  331     0   0   0   0   1   0   0   1   3   0   3   0   0   2   0   4   1  43   0  41     0    0    0   1.374     45  0.00
+  332  332    49   6  44   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.940     31  0.00
+  333  333    70   6  17   0   0   0   0   0   0   0   0   0   0   0   0   0   0   5   0   0     0    0    0   0.923     30  0.00
+  334  334     2  90   4   3   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.451     15  0.00
+  335  335    95   0   2   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.286      9  0.00
+  336  336     0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.009      0  0.00
+  337  337     0   0   0   0   0   0   0  99   0   0   1   0   0   0   0   0   0   0   0   0     0    0    0   0.079      2  0.00
+  338  338     0   0   0   9   0   0   0   2   5   1  77   1   0   0   0   0   4   0   0   0     0    0    0   0.905     30  0.00
+  339  339     0   0   0   0   0   0   0   0   0   0   9  90   0   0   0   0   0   0   0   0     0    0    0   0.359     12  0.00
+  340  340     0   0   0   0   0   0   2   0   0   0   0   0   0   0  96   0   1   0   0   0     0    0    0   0.229      7  0.00
+  341  341     6   2  74  17   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0     0    0    0   0.834     27  0.00
+  342  342     0   0   0   0   0   0   0   0   0  99   0   0   0   0   0   0   0   0   0   0     0    0    0   0.065      2  0.00
+  343  343     0   4   1   2   0   0   1   1  15   0   1   0   0   0   5  67   0   0   0   0     0    0    0   1.246     41  0.00
+  344  344    71   3  25   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.736     24  0.00
+  345  345     2   0   2   1   0   0   0   0   1   0   0   1   0   0   4   6  80   0   0   0     0    0    0   0.922     30  0.00
+  346  346     0   0   0   0   0   0   0   0   5   0  12   2   0   0   4  28  26  18   2   4     0    0    0   1.832     61  0.00
+  347  347     5  65   5   2   1   0   0   0   5   0   1   5   0   0   3   4   2   1   0   0     0    0    0   1.462     48  0.00
+  348  348    37  46  16   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.092     36  0.00
+  349  349     0   1   0   0   0   0   1   2   4   0  12   4   0   0   5  26  39   6   0   0     0    0    0   1.749     58  0.00
+  350  350     0   0   0   0   0   0   0   1   2   0   4   1   0   1   2   9   3  27   5  47     0    0    0   1.552     51  0.00
+  351  351     2  11   6   1  68   0   8   0   1   0   0   1   0   0   0   0   0   1   0   0     0    0    0   1.206     40  0.00
+  352  352     2   5   3   1  86   0   0   0   0   0   0   2   0   0   0   0   0   1   0   0     0    0    0   0.693     23  0.00
+  353  353     0   1   0   0   0   0   0  10   1   2   3   5   0  10   1   4   1   2  55   6     0    0    0   1.671     55  0.00
+  354  354     0   0   1   0   0   0   0  93   1   0   1   0   0   0   1   1   0   0   1   0     0    0    0   0.399     13  0.00
+  355  355     1   0   1   0   0   0   0   0   0   0   0   0   0   0  11  82   2   1   0   1     0    0    0   0.726     24  0.00
+  356  356     1   1   0   0   0   0   0   1   3   3   3   2   0   0   0   5   2  63   7  10     0    0    0   1.445     48  0.00
+  357  357     2  46   3   0   0   0   0   0   4  44   0   0   0   0   0   0   0   0   0   0     0    0    0   1.095     36  0.00
+  358  358     0   2   0   0   1   0   1   1   0   0  17   1  11   5   5   1   0   1  53   1     0    0    0   1.605     53  0.00
+  359  359     2  10   0   0   0   0   0   0   0   0   0   6   0   0  14  62   2   1   1   0     0    0    0   1.384     46  0.00
+  360  360     0   0   0   0   0   0   0  22   5   0  56   8   0   0   0   0   0   0   4   5     0    0    0   1.346     44  0.00
+  361  361    30   6  61   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.950     31  0.00
+  362  362     0   0   0   0   0   0   0   0   0   1   0   0   0   1   0   0   0   0  94   4     0    0    0   0.292      9  0.00
+  363  363     0   0   0   0   0   0   0   0   5  92   0   0   0   0   0   0   2   0   0   0     0    0    0   0.360     12  0.00
+  364  364     0   0   0   1   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0  98     0    0    0   0.145      4  0.00
+  365  365     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   1  98   0   0     0    0    0   0.117      3  0.00
+  366  366    17   0   0   0   0   0   0   0  82   0   0   0   1   0   0   0   0   0   0   0     0    0    0   0.557     18  0.00
+  367  367    99   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.083      2  0.00
+  368  368     0   0   0   0   0   0   0   0  96   1   1   1   0   0   0   0   0   0   0   0     0    0    0   0.249      8  0.00
+  369  369     5   6  12   5   2   0  63   0   0   0   0   0   0   0   5   0   0   0   0   0     0    0    0   1.329     44  0.00
+  370  370     0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+  371  371     0   0   0   0   0   0   0   0  95   0   0   0   5   0   0   0   0   0   0   0     0    0    0   0.198      6  0.00
+  372  372     0   0   0   0   0   0   0   0  98   0   1   1   0   0   0   0   0   0   0   0     0    0    0   0.133      4  0.00
+  373  373    69   8  22   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.824     27  0.00
+  374  374     0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0  98   1   0   0     0    0    0   0.131      4  0.00
+  375  375     0   0   0   0   0   0   0  25  70   0   0   0   5   0   0   0   0   0   0   0     0    0    0   0.765     25  0.00
+  376  376     0   0   0   0   2   0   0  34  58   0   3   0   0   0   0   0   0   0   0   2     0    0    0   1.016     33  0.00
+  377  377    33   0  67   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.678     22  0.00
+  378  378     0  94   5   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.256      8  0.00
+  379  379     2   1   2   5   0   0   0   2  11   0  51  12   0   1   2   5   2   0   3   0     0    0    0   1.777     59  0.00
+  380  380     0   0   0   0   0   0   0  99   0   0   0   0   0   0   0   0   0   0   1   0     0    0    0   0.087      2  0.00
+  381  381     0   0   0   0   0   0   0   3   0   0   0   0   0   0   0   0   0  34   4  58     0    0    0   0.990     33  0.00
+  382  382     0   0   0   0   0   0   0   0   0   0   0   0   0   0   3  51  37   8   0   0     0    0    0   1.028     34  0.00
+//

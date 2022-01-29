@@ -1,0 +1,1120 @@
+ID Pseudo hssp file.
+SEQ 
+SEQ gi|222607|dbj|BAA00862.1| (D01065) gag polyprotein [Simian immun...   222  1e-57
+SEQ gi|334587|gb|AAA99259.1| (M74935) p55 [Simian immunodeficiency v...   222  1e-57
+SEQ gi|334589|gb|AAA99260.1| (M74925) p55 [Simian immunodeficiency v...   222  1e-57
+SEQ gi|334591|gb|AAA99261.1| (M74926) p55 [Simian immunodeficiency v...   222  1e-57
+SEQ gi|334660|gb|AAB59905.1| (M19499) gag polyprotein [Simian immuno...   222  1e-57
+SEQ gi|334696|gb|AAA91930.1| (M32741) gag polyprotein [Simian immuno...   222  1e-57
+SEQ gi|334593|gb|AAA99262.1| (M74927) p55 [Simian immunodeficiency v...   221  2e-57
+SEQ gi|120888|sp|P05893|GAG_SIVMK GAG POLYPROTEIN [CONTAINS: CORE PR...   221  2e-57
+SEQ gi|225677|prf||1310329A gene gag [Simian immunodeficiency virus]      221  2e-57
+SEQ gi|120887|sp|P05894|GAG_SIVM1 GAG POLYPROTEIN [CONTAINS: CORE PR...   221  2e-57
+SEQ gi|7245766|pdb|1ED1|A Chain A, Crystal Structure Of Simian Immun...   221  3e-57
+SEQ gi|334598|gb|AAA99263.1| (M74931) p55 [Simian immunodeficiency v...   220  7e-57
+SEQ gi|2737928|gb|AAB97129.1| (U79412) gag polyprotein [Simian immun...   219  7e-57
+SEQ gi|2439992|gb|AAC58444.1| (U95965) Gag polyprotein [Simian immun...   219  9e-57
+SEQ gi|334600|gb|AAA99264.1| (M74932) p55 [Simian immunodeficiency v...   218  1e-56
+SEQ gi|9629915|ref|NP_046122.1| gag [Simian-Human immunodeficiency v...   218  1e-56
+SEQ gi|334173|gb|AAB54042.1| (M76764) gag polyprotein [Simian immuno...   218  2e-56
+SEQ gi|94300|pir||S03070 gag protein - human T-cell lymphotropic vir...   216  5e-56
+SEQ gi|120890|sp|P19504|GAG_SIVSP GAG POLYPROTEIN [CONTAINS: CORE PR...   214  2e-55
+SEQ gi|310398|gb|AAA74697.1| (L09211) gag protein [Simian immunodefi...   214  3e-55
+SEQ gi|334765|gb|AAB59769.1| (L03295) gag protein [Simian immunodefi...   214  3e-55
+SEQ gi|7444413|pir||T11559 gag protein - simian immunodeficiency vir...   213  5e-55
+SEQ gi|120889|sp|P12496|GAG_SIVS4 GAG POLYPROTEIN [CONTAINS: CORE PR...   213  6e-55
+SEQ gi|334510|gb|AAA99249.1| (M80193) gag protein [Simian immunodefi...   213  7e-55
+SEQ gi|334520|gb|AAA47605.1| (M80194) gag protein [Simian immunodefi...   213  7e-55
+SEQ gi|3342162|gb|AAC68655.1| (AF077017) Gag [Simian immunodeficienc...   212  1e-54
+SEQ gi|8927258|gb|AAF82028.1|AF208027_1 (AF208027) gag protein [Huma...   211  2e-54
+SEQ gi|399525|sp|P31634|GAG_SIVMS GAG POLYPROTEIN [CONTAINS: CORE PR...   210  5e-54
+SEQ gi|334801|gb|AAA91939.1| (M83293) gag protein [Simian immunodefi...   208  1e-53
+SEQ gi|120852|sp|P05891|GAG_HV2NZ GAG POLYPROTEIN [CONTAINS: CORE PR...   201  2e-51
+SEQ gi|120853|sp|P04590|GAG_HV2RO GAG POLYPROTEIN [CONTAINS: CORE PR...   196  6e-50
+SEQ gi|9628881|ref|NP_056837.1| gag polyprotein [Human immunodeficie...   196  6e-50
+SEQ gi|1845205|gb|AAB47780.1| (U38293) gag polyprotein [Human immuno...   196  7e-50
+SEQ gi|120854|sp|P20874|GAG_HV2ST GAG POLYPROTEIN [CONTAINS: CORE PR...   196  1e-49
+SEQ gi|120846|sp|P17756|GAG_HV2D1 GAG POLYPROTEIN [CONTAINS: CORE PR...   195  1e-49
+SEQ gi|120851|sp|P12450|GAG_HV2SB GAG POLYPROTEIN [CONTAINS: CORE PR...   195  2e-49
+SEQ gi|120850|sp|P18041|GAG_HV2G1 GAG POLYPROTEIN [CONTAINS: CORE PR...   194  3e-49
+SEQ gi|120848|sp|P24106|GAG_HV2CA GAG POLYPROTEIN [CONTAINS: CORE PR...   194  3e-49
+SEQ gi|1072792|pir||S53091 gag polyprotein - human immunodeficiency ...   193  5e-49
+SEQ gi|2495241|sp|Q74119|GAG_HV2KR GAG POLYPROTEIN [CONTAINS: CORE P...   193  9e-49
+SEQ gi|4007992|gb|AAC95340.1| (AF082339) gag protein [Human immunode...   190  4e-48
+SEQ gi|14164887|gb|AAK55274.1|AF334679_1 (AF334679) gag protein [Sim...   189  1e-47
+SEQ gi|120849|sp|P15832|GAG_HV2D2 GAG POLYPROTEIN [CONTAINS: CORE PR...   183  5e-46
+SEQ gi|325765|gb|AAA43941.1| (L07625) gag protein [Human immunodefic...   180  5e-45
+SEQ gi|995585|gb|AAC54466.1| (U27200) core protein [Human immunodefi...   173  5e-43
+SEQ gi|3089399|gb|AAC14913.1| (AF041982) p17 matrix protein and p26 ...   173  8e-43
+SEQ gi|3089397|gb|AAC14912.1| (AF041981) p17 matrix protein and p26 ...   171  2e-42
+SEQ gi|3089403|gb|AAC14915.1| (AF041984) p17 matrix protein and p26 ...   171  3e-42
+SEQ gi|3089401|gb|AAC14914.1| (AF041983) p17 matrix protein and p26 ...   168  2e-41
+SEQ gi|3089395|gb|AAC14911.1| (AF041980) p17 matrix protein and p26 ...   168  2e-41
+SEQ gi|1326127|gb|AAC54841.1| (U48816) gag protein [Simian immunodef...   156  6e-38
+SEQ gi|1326129|gb|AAC54842.1| (U48817) gag protein [Simian immunodef...   155  2e-37
+SEQ gi|532154|gb|AAA56940.1| (L33083) gag protein [Human immunodefic...   151  3e-36
+SEQ gi|1326123|gb|AAC54839.1| (U48814) gag protein [Simian immunodef...   149  1e-35
+SEQ gi|2655139|gb|AAB87879.1| (AF025347) gag protein [Human immunode...   146  6e-35
+SEQ gi|532146|gb|AAA56936.1| (L33081) gag protein [Human immunodefic...   145  2e-34
+SEQ gi|2828098|gb|AAB99993.1| (AF039504) gag protein [Human immunode...   145  2e-34
+SEQ gi|2828102|gb|AAB99995.1| (AF039506) gag protein [Human immunode...   143  6e-34
+SEQ gi|1890638|gb|AAC57051.1| (U58991) Gag [Simian immunodeficiency ...   143  1e-33
+SEQ gi|633705|gb|AAA61487.1| (L33076) gag protein [Human immunodefic...   142  1e-33
+SEQ gi|2828090|gb|AAB99989.1| (AF039500) gag protein [Human immunode...   142  2e-33
+SEQ gi|2828104|gb|AAB99996.1| (AF039507) gag protein [Human immunode...   142  2e-33
+SEQ gi|532150|gb|AAA56938.1| (L33082) gag protein [Human immunodefic...   141  2e-33
+SEQ gi|2655135|gb|AAB87877.1| (AF025345) gag protein [Human immunode...   141  2e-33
+SEQ gi|2828100|gb|AAB99994.1| (AF039505) gag protein [Human immunode...   141  2e-33
+SEQ gi|1943922|gb|AAC57060.1| (U75441) core protein [Human immunodef...   141  2e-33
+SEQ gi|2828092|gb|AAB99990.1| (AF039501) gag protein [Human immunode...   141  2e-33
+SEQ gi|9627205|ref|NP_054369.1| gag protein [Simian immunodeficiency...   141  3e-33
+SEQ gi|2655131|gb|AAB87875.1| (AF025343) gag protein [Human immunode...   140  5e-33
+SEQ gi|2828096|gb|AAB99992.1| (AF039503) gag protein [Human immunode...   140  6e-33
+SEQ gi|2655137|gb|AAB87878.1| (AF025346) gag protein [Human immunode...   139  8e-33
+SEQ gi|1326115|gb|AAC54835.1| (U48810) gag protein [Simian immunodef...   139  1e-32
+SEQ gi|2655133|gb|AAB87876.1| (AF025344) gag protein [Human immunode...   139  1e-32
+SEQ gi|2828106|gb|AAB99997.1| (AF039508) gag protein [Human immunode...   138  2e-32
+SEQ gi|2828108|gb|AAB99998.1| (AF039509) gag protein [Human immunode...   138  2e-32
+SEQ gi|1326121|gb|AAC54838.1| (U48813) gag protein [Simian immunodef...   135  1e-31
+SEQ gi|1326125|gb|AAC54840.1| (U48815) gag protein [Simian immunodef...   135  2e-31
+SEQ gi|120882|sp|P27972|GAG_SIVA1 GAG POLYPROTEIN [CONTAINS: CORE PR...   134  3e-31
+SEQ gi|2828094|gb|AAB99991.1| (AF039502) gag protein [Human immunode...   134  5e-31
+SEQ gi|1326065|gb|AAC54834.1| (U17646) gag protein [Simian immunodef...   133  6e-31
+SEQ gi|1943924|gb|AAC57061.1| (U75442) core protein [Human immunodef...   133  1e-30
+SEQ gi|532130|gb|AAA56929.1| (L33077) gag protein [Human immunodefic...   132  1e-30
+SEQ gi|1326119|gb|AAC54837.1| (U48812) gag protein [Simian immunodef...   132  1e-30
+SEQ gi|1085802|pir||S46346 gag polyprotein - simian immunodeficiency...   132  1e-30
+SEQ gi|120884|sp|P05892|GAG_SIVAT GAG POLYPROTEIN [CONTAINS: CORE PR...   130  6e-30
+SEQ gi|334431|gb|AAA51642.1| (M29974) gag polyprotein [Simian immuno...   129  8e-30
+SEQ gi|727180|gb|AAA64257.1| (L40990) gag [Simian immunodeficiency v...   129  9e-30
+SEQ gi|1890941|gb|AAB49802.1| (U90882) gag protein [Human immunodefi...   128  2e-29
+SEQ gi|120883|sp|P27978|GAG_SIVAG GAG POLYPROTEIN [CONTAINS: CORE PR...   126  8e-29
+SEQ gi|1326117|gb|AAC54836.1| (U48811) gag protein [Simian immunodef...   126  1e-28
+SEQ gi|532138|gb|AAA56932.1| (L33079) gag protein [Human immunodefic...   126  1e-28
+SEQ gi|294961|gb|AAA74706.1| (L06042) gag protein [Simian immunodefi...   125  2e-28
+SEQ gi|532160|gb|AAA56943.1| (L33085) gag protein [Human immunodefic...   122  1e-27
+SEQ gi|532156|gb|AAA56941.1| (L33084) gag protein [Human immunodefic...   122  2e-27
+SEQ gi|554975|gb|AAA44774.1| (L11778) gag protein [Human immunodefic...   121  3e-27
+SEQ gi|5305478|gb|AAD41666.1|AF075702_1 (AF075702) gag protein [Huma...   121  3e-27
+SEQ gi|532166|gb|AAA56946.1| (L33086) gag protein [Human immunodefic...   121  4e-27
+SEQ gi|1150852|gb|AAB47723.1| (U42720) Gag protein [Simian immunodef...   120  5e-27
+SEQ gi|3002877|gb|AAD03232.1| (AF042105) gag protein [Human immunode...   120  5e-27
+SEQ gi|3002878|gb|AAD03233.1| (AF042105) gag-pol fusion polyprotein ...   120  5e-27
+SEQ gi|3808241|gb|AAC69279.1| (AF069669) gag protein [Human immunode...   120  7e-27
+SEQ gi|8571867|gb|AAF76904.1|AF116052_1 (AF116052) gag protein [Huma...   119  1e-26
+SEQ gi|8571877|gb|AAF76909.1|AF116057_1 (AF116057) gag protein [Huma...   119  1e-26
+SEQ gi|8571879|gb|AAF76910.1|AF116058_1 (AF116058) gag protein [Huma...   119  1e-26
+SEQ gi|4539044|emb|CAB39736.1| (AJ237566) gag polyprotein precursor ...   119  1e-26
+SEQ gi|8571871|gb|AAF76906.1|AF116054_1 (AF116054) gag protein [Huma...   119  1e-26
+SEQ gi|554970|gb|AAA44694.1| (L11774) gag protein [Human immunodefic...   119  1e-26
+SEQ gi|8571881|gb|AAF76911.1|AF116059_1 (AF116059) gag protein [Huma...   119  1e-26
+SEQ gi|8571883|gb|AAF76912.1|AF116060_1 (AF116060) gag protein [Huma...   119  1e-26
+SEQ gi|8571875|gb|AAF76908.1|AF116056_1 (AF116056) gag protein [Huma...   119  1e-26
+SEQ gi|9971509|dbj|BAB12561.1| (AB034900) gag polyprotein [Human imm...   119  1e-26
+SEQ gi|120885|sp|P17282|GAG_SIVCZ GAG POLYPROTEIN [CONTAINS: CORE PR...   119  1e-26
+SEQ gi|4539034|emb|CAB39916.1| (AJ237565) Gag-Pol fusion polyprotein...   119  2e-26
+SEQ gi|4539035|emb|CAB39917.1| (AJ237565) gag polyprotein precursor ...   119  2e-26
+SEQ gi|5758294|gb|AAD50772.1| (AF159878) gag polyprotein [Human immu...   118  2e-26
+SEQ gi|532144|gb|AAA56935.1| (L33080) gag protein [Human immunodefic...   118  2e-26
+SEQ gi|12697714|dbj|BAB21666.1| (AB044046) gag polyprotein [Human im...   118  2e-26
+SEQ gi|10800846|emb|CAC12990.1| (AJ294940) p17 [Human immunodeficien...   118  2e-26
+SEQ gi|13540172|gb|AAK29339.1| (AF289549) gag protein [Human immunod...   118  3e-26
+SEQ gi|5305354|gb|AAD41606.1|AF071474_1 (AF071474) gag protein [Huma...   117  3e-26
+SEQ gi|555043|gb|AAA45296.1| (L11794) gag protein [Human immunodefic...   117  4e-26
+SEQ gi|6651480|gb|AAF22328.1|AF193277_1 (AF193277) gag polyprotein [...   117  4e-26
+SEQ gi|5816612|dbj|BAA83641.1| (AB025069) gag polyprotein p17 region...   117  4e-26
+SEQ gi|6651455|gb|AAF22307.1|AF193253_1 (AF193253) gag protein [Huma...   117  4e-26
+SEQ gi|8571869|gb|AAF76905.1|AF116053_1 (AF116053) gag protein [Huma...   117  4e-26
+SEQ gi|8571873|gb|AAF76907.1|AF116055_1 (AF116055) gag protein [Huma...   117  4e-26
+SEQ gi|306130|gb|AAA45290.1| (L11788) gag protein [Human immunodefic...   117  4e-26
+SEQ gi|9971475|dbj|BAB12544.1| (AB034883) gag polyprotein [Human imm...   117  4e-26
+SEQ gi|1515267|emb|CAB01826.1| (Z79573) matrix protein P17 [Human im...   117  4e-26
+SEQ gi|6651471|gb|AAF22319.1|AF193276_1 (AF193276) gag polyprotein [...   117  4e-26
+SEQ gi|9368379|emb|CAB98168.1| (AJ288982) GAG protein [Human immunod...   117  5e-26
+SEQ gi|532134|gb|AAA56930.1| (L33078) gag protein [Human immunodefic...   117  5e-26
+SEQ gi|9971507|dbj|BAB12560.1| (AB034899) gag polyprotein [Human imm...   117  5e-26
+SEQ gi|1515265|emb|CAB01827.1| (Z79574) matrix protein P17 [Human im...   117  6e-26
+SEQ gi|912558|gb|AAB38055.1| (U29257) gag polyprotein [Human immunod...   117  6e-26
+SEQ gi|912570|gb|AAB38061.1| (U29263) gag polyprotein [Human immunod...   117  6e-26
+SEQ gi|5763674|emb|CAB53237.1| (AJ239083) GAG protein [Human immunod...   117  6e-26
+SEQ gi|13540182|gb|AAK29348.1| (AF289550) gag protein [Human immunod...   117  6e-26
+SEQ gi|1515285|emb|CAB01782.1| (Z79529) matrix protein P17 [Human im...   117  6e-26
+SEQ gi|4262337|gb|AAD14573.1| (AF084936) gag protein [Human immunode...   117  6e-26
+SEQ gi|5668881|gb|AAD46043.1|AF075701_1 (AF075701) gag protein [Huma...   117  6e-26
+SEQ gi|13540162|gb|AAK29330.1| (AF289548) gag protein [Human immunod...   116  7e-26
+SEQ gi|5758290|gb|AAD50768.1| (AF159874) gag polyprotein [Human immu...   116  7e-26
+SEQ gi|912554|gb|AAB38053.1| (U29255) gag polyprotein [Human immunod...   116  7e-26
+SEQ gi|912562|gb|AAB38057.1| (U29259) gag polyprotein [Human immunod...   116  7e-26
+SEQ gi|554914|gb|AAA99885.1| (L11766) gag protein [Human immunodefic...   116  7e-26
+SEQ gi|5668955|gb|AAD46099.1|AF076998_1 (AF076998) gag protein [Huma...   116  7e-26
+SEQ gi|12697766|dbj|BAB21692.1| (AB044072) gag polyprotein [Human im...   116  7e-26
+SEQ gi|11761246|dbj|BAB19182.1| (AB042488) gag polyprotein [Human im...   116  8e-26
+SEQ gi|9971433|dbj|BAB12523.1| (AB034862) gag polyprotein [Human imm...   116  8e-26
+SEQ gi|14531069|gb|AAK66051.1| (AF281688) gag polyprotein [Human imm...   116  8e-26
+SEQ gi|1515261|emb|CAB01788.1| (Z79535) matrix protein P17 [Human im...   116  8e-26
+SEQ gi|13445593|gb|AAK26303.1| (AF326155) gag protein [Human immunod...   116  8e-26
+SEQ gi|2570308|gb|AAC97569.1| (U88824) gag polyprotein [Human immuno...   116  8e-26
+SEQ gi|2570314|gb|AAC97575.1| (U88824) gag-Pol fusion [Human immunod...   116  8e-26
+SEQ gi|5305342|gb|AAD41596.1|AF071473_1 (AF071473) gag protein [Huma...   116  8e-26
+SEQ gi|5816618|dbj|BAA83644.1| (AB025072) gag polyprotein p17 region...   116  8e-26
+SEQ gi|11761218|dbj|BAB19168.1| (AB042474) gag polyprotein [Human im...   116  8e-26
+SEQ gi|5805263|gb|AAD51912.1| (AF133821) gag protein [Human immunode...   116  8e-26
+SEQ gi|5805268|gb|AAD51917.1| (AF133821) truncated gag-pol protein [...   116  8e-26
+SEQ gi|9971461|dbj|BAB12537.1| (AB034876) gag polyprotein [Human imm...   116  8e-26
+SEQ gi|13569248|gb|AAK30990.1|AF286227_1 (AF286227) gag protein [Hum...   116  9e-26
+SEQ gi|7444412|pir||T09436 gag polyprotein - human immunodeficiency ...   116  9e-26
+SEQ gi|4754195|gb|AAD28850.1| (AF121478) gag protein [Human immunode...   116  9e-26
+SEQ gi|4754199|gb|AAD28852.1| (AF121480) gag protein [Human immunode...   116  9e-26
+SEQ gi|4754205|gb|AAD28855.1| (AF121483) gag protein [Human immunode...   116  9e-26
+SEQ gi|4754245|gb|AAD28875.1| (AF121503) gag protein [Human immunode...   116  9e-26
+SEQ gi|4754251|gb|AAD28878.1| (AF121506) gag protein [Human immunode...   116  9e-26
+SEQ gi|2342806|gb|AAB67664.1| (U56360) p17 [Human immunodeficiency v...   116  9e-26
+SEQ gi|14531051|gb|AAK66042.1| (AF281679) gag polyprotein [Human imm...   116  1e-25
+SEQ gi|14531059|gb|AAK66046.1| (AF281683) gag polyprotein [Human imm...   116  1e-25
+SEQ gi|4115651|dbj|BAA36478.1| (AB015940) gag protein [Human immunod...   116  1e-25
+SEQ gi|903635|gb|AAB38031.1| (U29410) gag polyprotein [Human immunod...   116  1e-25
+SEQ gi|9971495|dbj|BAB12554.1| (AB034893) gag polyprotein [Human imm...   116  1e-25
+SEQ gi|4115653|dbj|BAA36479.1| (AB015941) gag protein [Human immunod...   116  1e-25
+SEQ gi|555037|gb|AAA45288.1| (L11786) gag protein [Human immunodefic...   116  1e-25
+SEQ gi|912568|gb|AAB38060.1| (U29262) gag polyprotein [Human immunod...   116  1e-25
+SEQ gi|9368369|emb|CAB98186.1| (AJ288981) GAG protein [Human immunod...   116  1e-25
+SEQ gi|14531073|gb|AAK66053.1| (AF281690) gag polyprotein [Human imm...   116  1e-25
+SEQ gi|14531075|gb|AAK66054.1| (AF281691) gag polyprotein [Human imm...   116  1e-25
+SEQ gi|9971473|dbj|BAB12543.1| (AB034882) gag polyprotein [Human imm...   116  1e-25
+SEQ gi|9971447|dbj|BAB12530.1| (AB034869) gag polyprotein [Human imm...   116  1e-25
+SEQ gi|5758292|gb|AAD50770.1| (AF159876) gag polyprotein [Human immu...   116  1e-25
+SEQ gi|12697706|dbj|BAB21662.1| (AB044042) gag polyprotein [Human im...   116  1e-25
+SEQ gi|120843|sp|P24736|GAG_HV1U4 GAG POLYPROTEIN [CONTAINS: CORE PR...   116  1e-25
+SEQ gi|11761602|gb|AAG38930.1| (AY008718) gag protein [Human immunod...   116  1e-25
+SEQ gi|10800848|emb|CAC12991.1| (AJ294941) p17 [Human immunodeficien...   116  1e-25
+SEQ gi|1515245|emb|CAB01780.1| (Z79527) matrix protein P17 [Human im...   116  1e-25
+SEQ gi|3885826|gb|AAC78071.1| (AF084811) p17 matrix [Human immunodef...   116  1e-25
+SEQ gi|7320850|emb|CAB81949.1| (AJ276698) gag polyprotein [Human imm...   116  1e-25
+SEQ gi|3098583|gb|AAC68850.1| (AF049495) gag polyprotein [Human immu...   116  1e-25
+SEQ gi|555040|gb|AAA45293.1| (L11791) gag protein [Human immunodefic...   116  1e-25
+SEQ gi|912574|gb|AAB38063.1| (U29265) gag polyprotein [Human immunod...   116  1e-25
+SEQ gi|5816614|dbj|BAA83642.1| (AB025070) gag polyprotein p17 region...   116  1e-25
+SEQ gi|9971449|dbj|BAB12531.1| (AB034870) gag polyprotein [Human imm...   116  1e-25
+SEQ gi|9971463|dbj|BAB12538.1| (AB034877) gag polyprotein [Human imm...   116  1e-25
+SEQ gi|9971469|dbj|BAB12541.1| (AB034880) gag polyprotein [Human imm...   116  1e-25
+SEQ gi|12697724|dbj|BAB21671.1| (AB044051) gag polyprotein [Human im...   116  1e-25
+SEQ gi|13445589|gb|AAK26301.1| (AF326153) gag protein [Human immunod...   116  1e-25
+SEQ gi|13445601|gb|AAK26307.1| (AF326159) gag protein [Human immunod...   116  1e-25
+SEQ gi|13445607|gb|AAK26310.1| (AF326162) gag protein [Human immunod...   116  1e-25
+SEQ gi|14289993|gb|AAK59180.1| (AF377955) gag protein [Human immunod...   116  1e-25
+SEQ gi|11761232|dbj|BAB19175.1| (AB042481) gag polyprotein [Human im...   116  1e-25
+SEQ gi|9971511|dbj|BAB12562.1| (AB034901) gag polyprotein [Human imm...   116  1e-25
+SEQ gi|11761254|dbj|BAB19186.1| (AB042492) gag polyprotein [Human im...   116  1e-25
+SEQ gi|9971441|dbj|BAB12527.1| (AB034866) gag polyprotein [Human imm...   116  1e-25
+SEQ gi|9971467|dbj|BAB12540.1| (AB034879) gag polyprotein [Human imm...   115  1e-25
+SEQ gi|11761562|gb|AAG38894.1| (AY008714) gag protein [Human immunod...   115  1e-25
+SEQ gi|9971439|dbj|BAB12526.1| (AB034865) gag polyprotein [Human imm...   115  2e-25
+SEQ gi|555025|gb|AAA45083.1| (L11761) gag protein [Human immunodefic...   115  2e-25
+SEQ gi|912560|gb|AAB38056.1| (U29258) gag polyprotein [Human immunod...   115  2e-25
+SEQ gi|14290029|gb|AAK59212.1| (AF377959) gag protein [Human immunod...   115  2e-25
+SEQ gi|9971485|dbj|BAB12549.1| (AB034888) gag polyprotein [Human imm...   115  2e-25
+SEQ gi|1732485|gb|AAB38832.1| (U51189) Gag polyprotein [Human immuno...   115  2e-25
+SEQ gi|1732486|gb|AAB38833.1| (U51189) Gag-Pol fusion polyprotein [H...   115  2e-25
+SEQ gi|1532244|gb|AAC58549.1| (U68509) p17 matrix protein [Human imm...   115  2e-25
+SEQ gi|5816634|dbj|BAA83652.1| (AB025080) gag polyprotein p17 region...   115  2e-25
+SEQ gi|5816630|dbj|BAA83650.1| (AB025078) gag polyprotein p17 region...   115  2e-25
+SEQ gi|12697770|dbj|BAB21694.1| (AB044074) gag polyprotein [Human im...   115  2e-25
+SEQ gi|9971455|dbj|BAB12534.1| (AB034873) gag polyprotein [Human imm...   115  2e-25
+SEQ gi|1515287|emb|CAA68208.1| (X99948) matrix protein P17 [Human im...   115  2e-25
+SEQ gi|14531139|gb|AAK66086.1| (AF281723) gag polyprotein [Human imm...   115  2e-25
+SEQ gi|14531141|gb|AAK66087.1| (AF281724) gag polyprotein [Human imm...   115  2e-25
+SEQ gi|14531143|gb|AAK66088.1| (AF281725) gag polyprotein [Human imm...   115  2e-25
+SEQ gi|14531145|gb|AAK66089.1| (AF281726) gag polyprotein [Human imm...   115  2e-25
+SEQ gi|14531149|gb|AAK66091.1| (AF281728) gag polyprotein [Human imm...   115  2e-25
+SEQ gi|14531151|gb|AAK66092.1| (AF281729) gag polyprotein [Human imm...   115  2e-25
+SEQ gi|9971457|dbj|BAB12535.1| (AB034874) gag polyprotein [Human imm...   115  2e-25
+SEQ gi|13569308|gb|AAK31044.1|AF286233_1 (AF286233) gag protein [Hum...   115  2e-25
+SEQ gi|5816626|dbj|BAA83648.1| (AB025076) gag polyprotein p17 region...   115  2e-25
+SEQ gi|120835|sp|P12494|GAG_HV1J3 GAG POLYPROTEIN [CONTAINS: CORE PR...   115  2e-25
+SEQ gi|12697754|dbj|BAB21686.1| (AB044066) gag polyprotein [Human im...   115  2e-25
+SEQ gi|7594608|emb|CAB53042.2| (AJ245481) GAG protein [Human immunod...   115  2e-25
+SEQ gi|1532254|gb|AAC58554.1| (U68514) p17 matrix protein [Human imm...   115  2e-25
+SEQ gi|3193273|gb|AAD03326.1| (AF069140) gag-pol fusion polyprotein ...   115  2e-25
+SEQ gi|3193281|gb|AAD03334.1| (AF069140) gag protein [Human immunode...   115  2e-25
+SEQ gi|4115649|dbj|BAA36477.1| (AB015939) gag protein [Human immunod...   115  2e-25
+SEQ gi|12697762|dbj|BAB21690.1| (AB044070) gag polyprotein [Human im...   115  2e-25
+SEQ gi|3132801|gb|AAC29068.1| (AF063223) gag protein [Human immunode...   115  2e-25
+SEQ gi|5816640|dbj|BAA83655.1| (AB025083) gag polyprotein p17 region...   115  2e-25
+SEQ gi|9971435|dbj|BAB12524.1| (AB034863) gag polyprotein [Human imm...   115  2e-25
+SEQ gi|9971503|dbj|BAB12558.1| (AB034897) gag polyprotein [Human imm...   115  2e-25
+SEQ gi|14531228|gb|AAK66128.1| (AF281770) gag polyprotein [Human imm...   115  2e-25
+SEQ gi|5256931|gb|AAD41201.1|AF073422_1 (AF073422) gag protein [Huma...   115  2e-25
+SEQ gi|8571907|gb|AAF76924.1|AF116072_1 (AF116072) gag protein [Huma...   115  2e-25
+SEQ gi|903637|gb|AAB38032.1| (U29411) gag polyprotein [Human immunod...   115  2e-25
+SEQ gi|555018|gb|AAA45074.1| (L11797) gag protein [Human immunodefic...   115  2e-25
+SEQ gi|5816624|dbj|BAA83647.1| (AB025075) gag polyprotein p17 region...   115  2e-25
+SEQ gi|1532264|gb|AAC58559.1| (U68519) p17 matrix protein [Human imm...   115  2e-25
+SEQ gi|3885640|gb|AAC77988.1| (AF084708) p17 matrix [Human immunodef...   115  2e-25
+SEQ gi|9971451|dbj|BAB12532.1| (AB034871) gag polyprotein [Human imm...   115  2e-25
+SEQ gi|14290011|gb|AAK59196.1| (AF377957) gag protein [Human immunod...   115  2e-25
+SEQ gi|3885822|gb|AAC78069.1| (AF084809) p17 matrix [Human immunodef...   115  2e-25
+SEQ gi|9971497|dbj|BAB12555.1| (AB034894) gag polyprotein [Human imm...   115  2e-25
+SEQ gi|13569298|gb|AAK31035.1|AF286232_1 (AF286232) gag protein [Hum...   115  2e-25
+SEQ gi|12697700|dbj|BAB21659.1| (AB044039) gag polyprotein [Human im...   115  2e-25
+SEQ gi|3885813|gb|AAC78065.1| (AF084804) p17 matrix [Human immunodef...   115  2e-25
+SEQ gi|3885817|gb|AAC78067.1| (AF084806) p17 matrix [Human immunodef...   115  2e-25
+SEQ gi|12697716|dbj|BAB21667.1| (AB044047) gag polyprotein [Human im...   115  2e-25
+SEQ gi|554992|gb|AAA45003.1| (L11781) gag protein [Human immunodefic...   115  2e-25
+SEQ gi|12697738|dbj|BAB21678.1| (AB044058) gag polyprotein [Human im...   115  2e-25
+SEQ gi|9971477|dbj|BAB12545.1| (AB034884) gag polyprotein [Human imm...   115  2e-25
+SEQ gi|818215|gb|AAB47927.1| (U23487) gag polyprotein [Human immunod...   115  2e-25
+SEQ gi|1515203|emb|CAB01808.1| (Z79555) matrix protein P17 [Human im...   115  2e-25
+SEQ gi|1515205|emb|CAB01807.1| (Z79554) matrix protein P17 [Human im...   115  2e-25
+SEQ gi|12697750|dbj|BAB21684.1| (AB044064) gag polyprotein [Human im...   115  2e-25
+SEQ gi|3885638|gb|AAC77987.1| (AF084707) p17 matrix [Human immunodef...   114  2e-25
+SEQ gi|5816622|dbj|BAA83646.1| (AB025074) gag polyprotein p17 region...   114  2e-25
+SEQ gi|9971443|dbj|BAB12528.1| (AB034867) gag polyprotein [Human imm...   114  2e-25
+SEQ gi|12697710|dbj|BAB21664.1| (AB044044) gag polyprotein [Human im...   114  2e-25
+SEQ gi|12697758|dbj|BAB21688.1| (AB044068) gag polyprotein [Human im...   114  2e-25
+SEQ gi|3885805|gb|AAC78061.1| (AF084800) p17 matrix [Human immunodef...   114  3e-25
+SEQ gi|4324879|gb|AAD17143.1| (AF110976) gag polyprotein [Human immu...   114  3e-25
+SEQ gi|4324880|gb|AAD17144.1| (AF110976) gag-pol polyprotein [Human ...   114  3e-25
+SEQ gi|5816616|dbj|BAA83643.1| (AB025071) gag polyprotein p17 region...   114  3e-25
+SEQ gi|9971437|dbj|BAB12525.1| (AB034864) gag polyprotein [Human imm...   114  3e-25
+SEQ gi|14209298|dbj|BAB55907.1| (AB052995) Gag-Pol fusion polyprotei...   114  3e-25
+SEQ gi|14209299|dbj|BAB55908.1| (AB052995) Gag polyprotein [Human im...   114  3e-25
+SEQ gi|279917|pir||A38068 gag polyprotein - human immunodeficiency v...   114  3e-25
+SEQ gi|462153|sp|P05888|GAG_HV1MN GAG POLYPROTEIN [CONTAINS: CORE PR...   114  3e-25
+SEQ gi|6580984|gb|AAF18393.1|AF190127_1 (AF190127) Gag polyprotein [...   114  3e-25
+SEQ gi|13445599|gb|AAK26306.1| (AF326158) gag protein [Human immunod...   114  3e-25
+SEQ gi|3808271|gb|AAD13358.1| (AF069672) gag protein [Human immunode...   114  3e-25
+SEQ gi|11066488|gb|AAG28604.1|AF259954_1 (AF259954) gag protein [Hum...   114  3e-25
+SEQ gi|11066489|gb|AAG28605.1|AF259954_2 (AF259954) gag-pol fusion p...   114  3e-25
+SEQ gi|14531065|gb|AAK66049.1| (AF281686) gag polyprotein [Human imm...   114  3e-25
+SEQ gi|9971493|dbj|BAB12553.1| (AB034892) gag polyprotein [Human imm...   114  3e-25
+SEQ gi|554809|gb|AAA44225.1| (L11753) gag protein [Human immunodefic...   114  3e-25
+SEQ gi|554968|gb|AAA44691.1| (L11771) gag protein [Human immunodefic...   114  3e-25
+SEQ gi|13445583|gb|AAK26298.1| (AF326150) gag protein [Human immunod...   114  3e-25
+SEQ gi|4322932|gb|AAD16135.1| (AF095832) gag protein [Human immunode...   114  3e-25
+SEQ gi|12697752|dbj|BAB21685.1| (AB044065) gag polyprotein [Human im...   114  3e-25
+SEQ gi|13445595|gb|AAK26304.1| (AF326156) gag protein [Human immunod...   114  3e-25
+SEQ gi|13445597|gb|AAK26305.1| (AF326157) gag protein [Human immunod...   114  3e-25
+SEQ gi|4754185|gb|AAD28845.1| (AF121473) gag protein [Human immunode...   114  3e-25
+SEQ gi|1354214|gb|AAB54111.1| (U76035) gag protein [Human immunodefi...   114  3e-25
+SEQ gi|4754243|gb|AAD28874.1| (AF121502) gag protein [Human immunode...   114  3e-25
+SEQ gi|12697732|dbj|BAB21675.1| (AB044055) gag polyprotein [Human im...   114  3e-25
+SEQ gi|3885632|gb|AAC77984.1| (AF084704) p17 matrix [Human immunodef...   114  3e-25
+SEQ gi|3885783|gb|AAC78050.1| (AF084789) p17 matrix [Human immunodef...   114  3e-25
+SEQ gi|7321144|emb|CAB82226.1| (AJ276596) gag polyprotein [Human imm...   114  3e-25
+SEQ gi|555026|gb|AAA80330.1| (L03703) core protein [Human immunodefi...   114  3e-25
+SEQ gi|12697760|dbj|BAB21689.1| (AB044069) gag polyprotein [Human im...   114  3e-25
+SEQ gi|13445579|gb|AAK26296.1| (AF326148) gag protein [Human immunod...   114  3e-25
+SEQ gi|11761244|dbj|BAB19181.1| (AB042487) gag polyprotein [Human im...   114  3e-25
+SEQ gi|14531213|gb|AAK66121.1| (AF281762) gag polyprotein [Human imm...   114  3e-25
+SEQ gi|14531223|gb|AAK66126.1| (AF281767) gag polyprotein [Human imm...   114  3e-25
+SEQ gi|14531232|gb|AAK66130.1| (AF281772) gag polyprotein [Human imm...   114  3e-25
+SEQ gi|14531240|gb|AAK66134.1| (AF281776) gag polyprotein [Human imm...   114  3e-25
+SEQ gi|14531242|gb|AAK66135.1| (AF281777) gag polyprotein [Human imm...   114  3e-25
+SEQ gi|14531244|gb|AAK66136.1| (AF281778) gag polyprotein [Human imm...   114  3e-25
+SEQ gi|14531246|gb|AAK66137.1| (AF281779) gag polyprotein [Human imm...   114  3e-25
+SEQ gi|14531248|gb|AAK66138.1| (AF281780) gag polyprotein [Human imm...   114  3e-25
+SEQ gi|14531258|gb|AAK66142.1| (AF281786) gag polyprotein [Human imm...   114  3e-25
+SEQ gi|14531260|gb|AAK66143.1| (AF281787) gag polyprotein [Human imm...   114  3e-25
+SEQ gi|8571899|gb|AAF76920.1|AF116068_1 (AF116068) gag protein [Huma...   114  3e-25
+SEQ gi|4754225|gb|AAD28865.1| (AF121493) gag protein [Human immunode...   114  3e-25
+SEQ gi|6653669|gb|AAF22839.1|AF209990_1 (AF209990) gag protein [Huma...   114  3e-25
+SEQ gi|1532248|gb|AAC58551.1| (U68511) p17 matrix protein [Human imm...   114  3e-25
+SEQ gi|2570320|gb|AAC97580.1| (U88825) gag polyprotein [Human immuno...   114  3e-25
+SEQ gi|2570321|gb|AAC97581.1| (U88825) Gag-Pol fusion polyprotein [H...   114  3e-25
+SEQ gi|3885687|gb|AAC78010.1| (AF084733) p17 matrix [Human immunodef...   114  3e-25
+SEQ gi|3252957|gb|AAD12105.1| (AF067158) gag protein [Human immunode...   114  3e-25
+SEQ gi|3885614|gb|AAC77975.1| (AF084695) p17 matrix [Human immunodef...   114  4e-25
+SEQ gi|8571901|gb|AAF76921.1|AF116069_1 (AF116069) gag protein [Huma...   114  4e-25
+SEQ gi|11761250|dbj|BAB19184.1| (AB042490) gag polyprotein [Human im...   114  4e-25
+SEQ gi|7715885|gb|AAF68179.1| (AF170545) gag protein [Human immunode...   114  4e-25
+SEQ gi|7715890|gb|AAF68183.1| (AF170546) gag protein [Human immunode...   114  4e-25
+SEQ gi|7715902|gb|AAF68192.1| (AF170549) gag protein [Human immunode...   114  4e-25
+SEQ gi|912556|gb|AAB38054.1| (U29256) gag polyprotein [Human immunod...   114  4e-25
+SEQ gi|11761240|dbj|BAB19179.1| (AB042485) gag polyprotein [Human im...   114  4e-25
+SEQ gi|9971431|dbj|BAB12522.1| (AB034861) gag polyprotein [Human imm...   114  4e-25
+SEQ gi|12697712|dbj|BAB21665.1| (AB044045) gag polyprotein [Human im...   114  4e-25
+SEQ gi|4115655|dbj|BAA36480.1| (AB015942) gag protein [Human immunod...   114  4e-25
+SEQ gi|5059051|gb|AAD38890.1|AF119820_1 (AF119820) gag polyprotein [...   114  4e-25
+SEQ gi|2655236|gb|AAB87952.1| (AF030948) gag protein [Human immunode...   114  4e-25
+SEQ gi|1518008|gb|AAC59308.1| (U56898) gag polyprotein [Human immuno...   114  4e-25
+SEQ gi|13445609|gb|AAK26311.1| (AF326163) gag protein [Human immunod...   114  4e-25
+SEQ gi|14531219|gb|AAK66124.1| (AF281765) gag polyprotein [Human imm...   114  4e-25
+SEQ gi|120840|sp|P20889|GAG_HV1OY GAG POLYPROTEIN [CONTAINS: CORE PR...   114  4e-25
+SEQ gi|2286125|gb|AAB64272.1| (AF003887) gag polyprotein [Human immu...   114  4e-25
+SEQ gi|4205045|gb|AAD10919.1| (U69590) gag polyprotein [Human immuno...   114  4e-25
+SEQ gi|4205063|gb|AAD10935.1| (U69592) gag polyprotein [Human immuno...   114  4e-25
+SEQ gi|4324897|gb|AAD17161.1| (AF110978) gag polyprotein [Human immu...   114  4e-25
+SEQ gi|4324898|gb|AAD17162.1| (AF110978) gag-pol polyprotein [Human ...   114  4e-25
+SEQ gi|221477|dbj|BAA00992.1| (D10112) gag polyprotein [Human immuno...   114  4e-25
+SEQ gi|555034|gb|AAA45285.1| (L11783) gag protein [Human immunodefic...   114  4e-25
+SEQ gi|3403209|gb|AAC29044.1| (AF061640) gag protein [Human immunode...   114  4e-25
+SEQ gi|3885616|gb|AAC77976.1| (AF084696) p17 matrix [Human immunodef...   114  4e-25
+SEQ gi|3885620|gb|AAC77978.1| (AF084698) p17 matrix [Human immunodef...   114  4e-25
+SEQ gi|1515247|emb|CAB01814.1| (Z79561) matrix protein P17 [Human im...   114  4e-25
+SEQ gi|12697744|dbj|BAB21681.1| (AB044061) gag polyprotein [Human im...   114  4e-25
+SEQ gi|468135|gb|AAB01035.1| (U07016) gag gene product [Human immuno...   114  4e-25
+SEQ gi|12697726|dbj|BAB21672.1| (AB044052) gag polyprotein [Human im...   114  4e-25
+SEQ gi|12697722|dbj|BAB21670.1| (AB044050) gag polyprotein [Human im...   114  4e-25
+SEQ gi|5816620|dbj|BAA83645.1| (AB025073) gag polyprotein p17 region...   114  4e-25
+SEQ gi|2745744|gb|AAC97528.1| (AF004885) Gag protein [Human immunode...   114  4e-25
+SEQ gi|2745748|gb|AAC97532.1| (AF004885) gag-pol polyprotein [Human ...   114  4e-25
+SEQ gi|1518002|gb|AAC59305.1| (U56895) gag polyprotein [Human immuno...   114  4e-25
+SEQ gi|1151160|gb|AAA85230.1| (U43141) gag [Human immunodeficiency v...   114  4e-25
+SEQ gi|4754167|gb|AAD28836.1| (AF121464) gag protein [Human immunode...   114  4e-25
+SEQ gi|4754179|gb|AAD28842.1| (AF121470) gag protein [Human immunode...   114  4e-25
+SEQ gi|4754189|gb|AAD28847.1| (AF121475) gag protein [Human immunode...   114  4e-25
+SEQ gi|4754203|gb|AAD28854.1| (AF121482) gag protein [Human immunode...   114  4e-25
+SEQ gi|4754217|gb|AAD28861.1| (AF121489) gag protein [Human immunode...   114  4e-25
+SEQ gi|1532256|gb|AAC58555.1| (U68515) p17 matrix protein [Human imm...   114  4e-25
+SEQ gi|4115647|dbj|BAA36476.1| (AB015938) gag protein [Human immunod...   114  4e-25
+SEQ gi|3885643|gb|AAC77989.1| (AF084710) p17 matrix [Human immunodef...   114  4e-25
+SEQ gi|4204991|gb|AAD10871.1| (U69584) gag polyprotein [Human immuno...   114  4e-25
+SEQ gi|4205018|gb|AAD10895.1| (U69587) gag polyprotein [Human immuno...   114  4e-25
+SEQ gi|4205027|gb|AAD10903.1| (U69588) gag polyprotein [Human immuno...   114  4e-25
+SEQ gi|4205036|gb|AAD10911.1| (U69589) gag polyprotein [Human immuno...   114  4e-25
+SEQ gi|12697768|dbj|BAB21693.1| (AB044073) gag polyprotein [Human im...   114  4e-25
+SEQ gi|555023|gb|AAA81526.1| (L03697) core protein [Human immunodefi...   114  4e-25
+SEQ gi|3885634|gb|AAC77985.1| (AF084705) p17 matrix [Human immunodef...   114  4e-25
+SEQ gi|554977|gb|AAA44776.1| (L11779) gag protein [Human immunodefic...   114  4e-25
+SEQ gi|3511260|gb|AAC33782.1| (AF075719) gag protein [Human immunode...   114  4e-25
+SEQ gi|3885645|gb|AAC77990.1| (AF084711) p17 matrix [Human immunodef...   114  4e-25
+SEQ gi|14531217|gb|AAK66123.1| (AF281764) gag polyprotein [Human imm...   114  4e-25
+SEQ gi|3885824|gb|AAC78070.1| (AF084810) p17 matrix [Human immunodef...   114  5e-25
+SEQ gi|1515263|emb|CAB01787.1| (Z79534) matrix protein P17 [Human im...   114  5e-25
+SEQ gi|12697740|dbj|BAB21679.1| (AB044059) gag polyprotein [Human im...   114  5e-25
+SEQ gi|3002868|gb|AAD03224.1| (AF042104) gag protein [Human immunode...   114  5e-25
+SEQ gi|3002869|gb|AAD03225.1| (AF042104) gag-pol fusion polyprotein ...   114  5e-25
+SEQ gi|14290002|gb|AAK59188.1| (AF377956) gag protein [Human immunod...   114  5e-25
+SEQ gi|120830|sp|P03349|GAG_HV1A2 GAG POLYPROTEIN [CONTAINS: CORE PR...   114  5e-25
+SEQ gi|903623|gb|AAB38025.1| (U29404) gag polyprotein [Human immunod...   114  5e-25
+SEQ gi|903625|gb|AAB38026.1| (U29405) gag polyprotein [Human immunod...   114  5e-25
+SEQ gi|903627|gb|AAB38027.1| (U29406) gag polyprotein [Human immunod...   114  5e-25
+SEQ gi|903633|gb|AAB38030.1| (U29409) gag polyprotein [Human immunod...   114  5e-25
+SEQ gi|7229425|gb|AAF42819.1| (AF202464) gag-protease fusion protein...   114  5e-25
+SEQ gi|9971453|dbj|BAB12533.1| (AB034872) gag polyprotein [Human imm...   114  5e-25
+SEQ gi|3002859|gb|AAD03216.1| (AF042103) gag protein [Human immunode...   114  5e-25
+SEQ gi|3002860|gb|AAD03217.1| (AF042103) gag-pol fusion polyprotein ...   114  5e-25
+SEQ gi|8571885|gb|AAF76913.1|AF116061_1 (AF116061) gag protein [Huma...   114  5e-25
+SEQ gi|555035|gb|AAA45286.1| (L11784) gag protein [Human immunodefic...   114  5e-25
+SEQ gi|4336339|gb|AAD17765.1| (AF082395) gag protein [Human immunode...   114  5e-25
+SEQ gi|3885630|gb|AAC77983.1| (AF084703) p17 matrix [Human immunodef...   114  5e-25
+SEQ gi|903629|gb|AAB38028.1| (U29407) gag polyprotein [Human immunod...   114  5e-25
+SEQ gi|903631|gb|AAB38029.1| (U29408) gag polyprotein [Human immunod...   114  5e-25
+SEQ gi|3885612|gb|AAC77974.1| (AF084694) p17 matrix [Human immunodef...   114  5e-25
+SEQ gi|12697734|dbj|BAB21676.1| (AB044056) gag polyprotein [Human im...   114  5e-25
+SEQ gi|11761258|dbj|BAB19188.1| (AB042494) gag polyprotein [Human im...   113  6e-25
+SEQ gi|1772625|gb|AAC32293.1| (U21135) gag polyprotein [Human immuno...   113  6e-25
+SEQ gi|13517083|dbj|BAB40421.1| (AB049811) Gag-Pol fusion polyprotei...   113  6e-25
+SEQ gi|13517084|dbj|BAB40422.1| (AB049811) Gag polyprotein [Human im...   113  6e-25
+SEQ gi|1890684|gb|AAC97550.1| (U51190) Gag polyprotein [Human immuno...   113  6e-25
+SEQ gi|2576247|gb|AAC97542.1| (U51190) gag-pol polyprotein [Human im...   113  6e-25
+SEQ gi|7452909|emb|CAB86374.1| (AJ251057) GAG protein [Human immunod...   113  6e-25
+SEQ gi|3885815|gb|AAC78066.1| (AF084805) p17 matrix [Human immunodef...   113  6e-25
+SEQ gi|13445615|gb|AAK26314.1| (AF326166) gag protein [Human immunod...   113  6e-25
+SEQ gi|554721|gb|AAA43911.1| (L03705) core protein [Human immunodefi...   113  6e-25
+SEQ gi|1532250|gb|AAC58552.1| (U68512) p17 matrix protein [Human imm...   113  6e-25
+SEQ gi|11761248|dbj|BAB19183.1| (AB042489) gag polyprotein [Human im...   113  6e-25
+SEQ gi|12697746|dbj|BAB21682.1| (AB044062) gag polyprotein [Human im...   113  6e-25
+SEQ gi|912566|gb|AAB38059.1| (U29261) gag polyprotein [Human immunod...   113  6e-25
+SEQ gi|3808261|gb|AAC69297.1| (AF069671) gag protein [Human immunode...   113  6e-25
+SEQ gi|3252947|gb|AAD12096.1| (AF067157) gag protein [Human immunode...   113  6e-25
+SEQ gi|328033|gb|AAA44853.1| (M17449) gag polyprotein [Human immunod...   113  6e-25
+SEQ gi|554837|gb|AAA44313.1| (L11756) gag protein [Human immunodefic...   113  6e-25
+SEQ gi|306112|gb|AAA45089.1| (L11800) gag protein [Human immunodefic...   113  6e-25
+SEQ gi|3885636|gb|AAC77986.1| (AF084706) p17 matrix [Human immunodef...   113  6e-25
+SEQ gi|3885785|gb|AAC78051.1| (AF084790) p17 matrix [Human immunodef...   113  6e-25
+SEQ gi|5758293|gb|AAD50771.1| (AF159877) gag polyprotein [Human immu...   113  6e-25
+SEQ gi|13445591|gb|AAK26302.1| (AF326154) gag protein [Human immunod...   113  6e-25
+SEQ gi|1515223|emb|CAB01828.1| (Z79575) matrix protein P17 [Human im...   113  6e-25
+SEQ gi|555031|gb|AAA45090.1| (L11801) gag protein [Human immunodefic...   113  7e-25
+SEQ gi|3885689|gb|AAC78011.1| (AF084734) p17 matrix [Human immunodef...   113  7e-25
+SEQ gi|1515185|emb|CAB01825.1| (Z79572) matrix protein P17 [Human im...   113  7e-25
+SEQ gi|120834|sp|P04592|GAG_HV1EL GAG POLYPROTEIN [CONTAINS: CORE PR...   113  7e-25
+SEQ gi|5733941|gb|AAD49779.1|AF107770_1 (AF107770) Gag polyprotein [...   113  7e-25
+SEQ gi|554974|gb|AAA44773.1| (L11776) gag protein [Human immunodefic...   113  7e-25
+SEQ gi|5816632|dbj|BAA83651.1| (AB025079) gag polyprotein p17 region...   113  7e-25
+SEQ gi|6910968|gb|AAF31319.1|AF146728_1 (AF146728) gag protein [Huma...   113  7e-25
+SEQ gi|14531159|gb|AAK66096.1| (AF281733) gag polyprotein [Human imm...   113  7e-25
+SEQ gi|8571889|gb|AAF76915.1|AF116063_1 (AF116063) gag protein [Huma...   113  7e-25
+SEQ gi|1123013|gb|AAC54642.1| (U34604) gag gene product [Human immun...   113  7e-25
+SEQ gi|1517988|gb|AAC59298.1| (U56888) gag polyprotein [Human immuno...   113  7e-25
+SEQ gi|3002830|gb|AAD03190.1| (AF042100) gag protein [Human immunode...   113  7e-25
+SEQ gi|3002831|gb|AAD03191.1| (AF042100) gag-pol fusion polyprotein ...   113  7e-25
+SEQ gi|4512061|gb|AAD21595.1| (AF115450) gag protein [Human immunode...   113  7e-25
+SEQ gi|14269047|gb|AAK58004.1|AF362994_1 (AF362994) gag protein [Hum...   113  7e-25
+SEQ gi|13569228|gb|AAK30972.1|AF286225_1 (AF286225) truncated gag pr...   113  7e-25
+SEQ gi|3885647|gb|AAC77991.1| (AF084712) p17 matrix [Human immunodef...   113  7e-25
+SEQ gi|3252967|gb|AAD12114.1| (AF067159) gag protein [Human immunode...   113  8e-25
+SEQ gi|6594658|gb|AAF18574.1| (AF115393) Gag polyprotein [Simian imm...   113  8e-25
+SEQ gi|1478057|gb|AAB51136.1| (L39106) gag polyprotein [Human immuno...   113  8e-25
+SEQ gi|5931492|dbj|BAA84669.1| (AB032741) gag-pol fusion polyprotein...   113  8e-25
+SEQ gi|5931493|dbj|BAA84670.1| (AB032741) Gag polyprotein precursor ...   113  8e-25
+SEQ gi|11761228|dbj|BAB19173.1| (AB042479) gag polyprotein [Human im...   113  8e-25
+SEQ gi|554839|gb|AAA44315.1| (L11758) gag protein [Human immunodefic...   113  8e-25
+SEQ gi|120839|sp|P12493|GAG_HV1N5 GAG POLYPROTEIN [CONTAINS: CORE PR...   113  8e-25
+SEQ gi|902799|gb|AAB60571.1| (U26942) Gag polyprotein precursor [Hum...   113  8e-25
+SEQ gi|1310736|pdb|2HMX|    Human Immunodeficiency Virus Type 1 Matr...   113  8e-25
+SEQ gi|4336330|gb|AAD17756.1| (AF082394) gag protein [Human immunode...   113  8e-25
+SEQ gi|11761256|dbj|BAB19187.1| (AB042493) gag polyprotein [Human im...   113  8e-25
+SEQ gi|554967|gb|AAA44690.1| (L11770) gag protein [Human immunodefic...   113  8e-25
+SEQ gi|14531057|gb|AAK66045.1| (AF281682) gag polyprotein [Human imm...   113  8e-25
+SEQ gi|120827|sp|P03347|GAG_HV1B1 GAG POLYPROTEIN [CONTAINS: CORE PR...   113  8e-25
+SEQ gi|74571|pir||FOVWLV gag polyprotein - human immunodeficiency vi...   113  8e-25
+SEQ gi|74575|pir||FOVWVL gag polyprotein - human immunodeficiency vi...   113  8e-25
+SEQ gi|120828|sp|P04593|GAG_HV1B5 GAG POLYPROTEIN [CONTAINS: CORE PR...   113  8e-25
+SEQ gi|120831|sp|P03348|GAG_HV1BR GAG POLYPROTEIN [CONTAINS: CORE PR...   113  8e-25
+SEQ gi|120841|sp|P03350|GAG_HV1PV GAG POLYPROTEIN [CONTAINS: CORE PR...   113  8e-25
+SEQ gi|9629360|ref|NP_057850.1| Gag [Human immunodeficiency virus ty...   113  8e-25
+SEQ gi|602081|emb|CAA25902.1| (X01762) gag precursor polypeptide [Hu...   113  8e-25
+SEQ gi|1515219|emb|CAB01784.1| (Z79531) matrix protein P17 [Human im...   113  8e-25
+SEQ gi|6690775|gb|AAF24334.1|AF197341_1 (AF197341) gag protein [Huma...   113  8e-25
+SEQ gi|11761212|dbj|BAB19165.1| (AB042471) gag polyprotein [Human im...   113  8e-25
+SEQ gi|13445621|gb|AAK26317.1| (AF326169) gag protein [Human immunod...   113  8e-25
+SEQ gi|14531137|gb|AAK66085.1| (AF281722) gag polyprotein [Human imm...   113  8e-25
+SEQ gi|1532268|gb|AAC58561.1| (U68521) p17 matrix protein [Human imm...   113  8e-25
+SEQ gi|12697704|dbj|BAB21661.1| (AB044041) gag polyprotein [Human im...   113  8e-25
+SEQ gi|13560260|dbj|BAB40911.1| (AB052867) Gag polyprotein [Human im...   113  8e-25
+SEQ gi|1072087|gb|AAC54543.1| (U37270) Gag polyprotein [Human immuno...   113  8e-25
+SEQ gi|3002850|gb|AAD03208.1| (AF042102) gag protein [Human immunode...   113  8e-25
+SEQ gi|3002851|gb|AAD03209.1| (AF042102) gag-pol fusion polyprotein ...   113  8e-25
+SEQ gi|3002886|gb|AAD03240.1| (AF042106) gag protein [Human immunode...   113  8e-25
+SEQ gi|3002887|gb|AAD03241.1| (AF042106) gag-pol fusion polyprotein ...   113  8e-25
+SEQ gi|8571863|gb|AAF76902.1|AF116050_1 (AF116050) gag protein [Huma...   113  8e-25
+SEQ gi|2281653|gb|AAB64163.1| (AF004394) gag polyprotein [Human immu...   113  9e-25
+SEQ gi|12697696|dbj|BAB21657.1| (AB044037) gag polyprotein [Human im...   113  9e-25
+SEQ gi|14531262|gb|AAK66144.1| (AF281788) gag polyprotein [Human imm...   113  9e-25
+SEQ gi|14531266|gb|AAK66146.1| (AF281790) gag polyprotein [Human imm...   113  9e-25
+SEQ gi|14531268|gb|AAK66147.1| (AF281791) gag polyprotein [Human imm...   113  9e-25
+SEQ gi|14531272|gb|AAK66149.1| (AF281793) gag polyprotein [Human imm...   113  9e-25
+SEQ gi|14531274|gb|AAK66150.1| (AF281794) gag polyprotein [Human imm...   113  9e-25
+SEQ gi|14531276|gb|AAK66151.1| (AF281795) gag polyprotein [Human imm...   113  9e-25
+SEQ gi|14531280|gb|AAK66153.1| (AF281797) gag polyprotein [Human imm...   113  9e-25
+SEQ gi|14531286|gb|AAK66156.1| (AF281800) gag polyprotein [Human imm...   113  9e-25
+SEQ gi|1515289|emb|CAA68209.1| (X99949) matrix protein P17 [Human im...   113  9e-25
+SEQ gi|2342798|gb|AAB67660.1| (U56356) p17 [Human immunodeficiency v...   113  9e-25
+SEQ gi|11761226|dbj|BAB19172.1| (AB042478) gag polyprotein [Human im...   113  9e-25
+SEQ gi|1055030|gb|AAA81036.1| (U39362) GAG polyprotein precursor [Hu...   113  9e-25
+SEQ gi|1515241|emb|CAB01791.1| (Z79538) matrix protein P17 [Human im...   113  9e-25
+SEQ gi|4324870|gb|AAD17134.1| (AF110975) gag polyprotein [Human immu...   113  9e-25
+SEQ gi|4324871|gb|AAD17135.1| (AF110975) gag-pol polyprotein [Human ...   113  9e-25
+SEQ gi|554969|gb|AAA44693.1| (L11773) gag protein [Human immunodefic...   113  9e-25
+SEQ gi|3252928|gb|AAD12079.1| (AF067155) gag protein [Human immunode...   113  9e-25
+SEQ gi|3885787|gb|AAC78052.1| (AF084791) p17 matrix [Human immunodef...   113  9e-25
+SEQ gi|1537051|gb|AAC55459.1| (U54771) gag [Human immunodeficiency v...   113  9e-25
+SEQ gi|3808251|gb|AAC69288.1| (AF069670) gag protein [Human immunode...   113  9e-25
+SEQ gi|4754161|gb|AAD28833.1| (AF121461) gag protein [Human immunode...   113  9e-25
+SEQ gi|4754209|gb|AAD28857.1| (AF121485) gag protein [Human immunode...   113  9e-25
+SEQ gi|4754211|gb|AAD28858.1| (AF121486) gag protein [Human immunode...   113  9e-25
+SEQ gi|4754213|gb|AAD28859.1| (AF121487) gag protein [Human immunode...   113  9e-25
+SEQ gi|4754223|gb|AAD28864.1| (AF121492) gag protein [Human immunode...   113  9e-25
+SEQ gi|4754265|gb|AAD28885.1| (AF121513) gag protein [Human immunode...   113  9e-25
+SEQ gi|3779262|gb|AAD03310.1| (AF064699) gag protein [Human immunode...   113  9e-25
+SEQ gi|3779268|gb|AAD03316.1| (AF064699) gag-pol fusion polyprotein ...   113  9e-25
+SEQ gi|1515191|emb|CAB01823.1| (Z79570) matrix protein P17 [Human im...   112  9e-25
+SEQ gi|1515235|emb|CAB01781.1| (Z79528) matrix protein P17 [Human im...   112  9e-25
+SEQ gi|1532266|gb|AAC58560.1| (U68520) p17 matrix protein [Human imm...   112  9e-25
+SEQ gi|12697698|dbj|BAB21658.1| (AB044038) gag polyprotein [Human im...   112  1e-24
+SEQ gi|14531153|gb|AAK66093.1| (AF281730) gag polyprotein [Human imm...   112  1e-24
+SEQ gi|120833|sp|P20873|GAG_HV1JR GAG POLYPROTEIN [CONTAINS: CORE PR...   112  1e-24
+SEQ gi|5758291|gb|AAD50769.1| (AF159875) gag polyprotein [Human immu...   112  1e-24
+SEQ gi|12697736|dbj|BAB21677.1| (AB044057) gag polyprotein [Human im...   112  1e-24
+SEQ gi|14531049|gb|AAK66041.1| (AF281678) gag polyprotein [Human imm...   112  1e-24
+SEQ gi|14531113|gb|AAK66073.1| (AF281710) gag polyprotein [Human imm...   112  1e-24
+SEQ gi|9971481|dbj|BAB12547.1| (AB034886) gag polyprotein [Human imm...   112  1e-24
+SEQ gi|14531161|gb|AAK66097.1| (AF281734) gag polyprotein [Human imm...   112  1e-24
+SEQ gi|14531163|gb|AAK66098.1| (AF281735) gag polyprotein [Human imm...   112  1e-24
+SEQ gi|14531168|gb|AAK66100.1| (AF281738) gag polyprotein [Human imm...   112  1e-24
+SEQ gi|14531172|gb|AAK66102.1| (AF281740) gag polyprotein [Human imm...   112  1e-24
+SEQ gi|14531180|gb|AAK66106.1| (AF281744) gag polyprotein [Human imm...   112  1e-24
+SEQ gi|14531182|gb|AAK66107.1| (AF281745) gag polyprotein [Human imm...   112  1e-24
+SEQ gi|1763521|gb|AAB50133.1| (U76185) gag protein [Human immunodefi...   112  1e-24
+SEQ gi|12697748|dbj|BAB21683.1| (AB044063) gag polyprotein [Human im...   112  1e-24
+SEQ gi|12697764|dbj|BAB21691.1| (AB044071) gag polyprotein [Human im...   112  1e-24
+SEQ gi|3132811|gb|AAC29077.1| (AF063224) gag protein [Human immunode...   112  1e-24
+SEQ gi|11761230|dbj|BAB19174.1| (AB042480) gag polyprotein [Human im...   112  1e-24
+SEQ gi|4754261|gb|AAD28883.1| (AF121511) gag protein [Human immunode...   112  1e-24
+SEQ gi|4324888|gb|AAD17152.1| (AF110977) gag polyprotein [Human immu...   112  1e-24
+SEQ gi|4324889|gb|AAD17153.1| (AF110977) gag-pol polyprotein [Human ...   112  1e-24
+SEQ gi|555024|gb|AAB00118.1| (L11760) gag protein [Human immunodefic...   112  1e-24
+SEQ gi|14531166|gb|AAK66099.1| (AF281737) gag polyprotein [Human imm...   112  1e-24
+SEQ gi|1515189|emb|CAB01824.1| (Z79571) matrix protein P17 [Human im...   112  1e-24
+SEQ gi|1515195|emb|CAB01803.1| (Z79550) matrix protein P17 [Human im...   112  1e-24
+SEQ gi|13445605|gb|AAK26309.1| (AF326161) gag protein [Human immunod...   112  1e-24
+SEQ gi|120838|sp|P04594|GAG_HV1MA GAG POLYPROTEIN [CONTAINS: CORE PR...   112  1e-24
+SEQ gi|13569318|gb|AAK31053.1|AF286234_1 (AF286234) gag protein [Hum...   112  1e-24
+SEQ gi|14531256|gb|AAK66141.1| (AF281785) gag polyprotein [Human imm...   112  1e-24
+SEQ gi|8571897|gb|AAF76919.1|AF116067_1 (AF116067) gag protein [Huma...   112  1e-24
+SEQ gi|13445626|gb|AAK26319.1| (AF326171) gag protein [Human immunod...   112  1e-24
+SEQ gi|3023824|sp|Q70622|GAG_HV1LW GAG POLYPROTEIN [CONTAINS: CORE P...   112  1e-24
+SEQ gi|9971499|dbj|BAB12556.1| (AB034895) gag polyprotein [Human imm...   112  1e-24
+SEQ gi|9971489|dbj|BAB12551.1| (AB034890) gag polyprotein [Human imm...   112  1e-24
+SEQ gi|14531170|gb|AAK66101.1| (AF281739) gag polyprotein [Human imm...   112  1e-24
+SEQ gi|554913|gb|AAA44612.1| (L11765) gag protein [Human immunodefic...   112  1e-24
+SEQ gi|11761236|dbj|BAB19177.1| (AB042483) gag polyprotein [Human im...   112  1e-24
+SEQ gi|3885764|gb|AAC78042.1| (AF084778) p17 matrix [Human immunodef...   112  1e-24
+SEQ gi|4324747|gb|AAD17011.1| (AF110960) gag polyprotein [Human immu...   112  1e-24
+SEQ gi|4324748|gb|AAD17012.1| (AF110960) gag-pol polyprotein [Human ...   112  1e-24
+SEQ gi|8571893|gb|AAF76917.1|AF116065_1 (AF116065) gag protein [Huma...   112  1e-24
+SEQ gi|3403217|gb|AAC29051.1| (AF061641) truncated gag protein [Huma...   112  1e-24
+SEQ gi|3947968|gb|AAC82655.1| (AF069944) gag protein [Human immunode...   112  1e-24
+SEQ gi|4324756|gb|AAD17020.1| (AF110961) gag polyprotein [Human immu...   112  1e-24
+SEQ gi|4324757|gb|AAD17021.1| (AF110961) gag-pol polyprotein [Human ...   112  1e-24
+SEQ gi|1532258|gb|AAC58556.1| (U68516) p17 matrix protein [Human imm...   112  1e-24
+SEQ gi|3885561|gb|AAC77950.1| (AF084667) p17 matrix [Human immunodef...   112  1e-24
+SEQ gi|11761252|dbj|BAB19185.1| (AB042491) gag polyprotein [Human im...   112  1e-24
+SEQ gi|3885536|gb|AAC77938.1| (AF084654) p17 matrix [Human immunodef...   112  1e-24
+SEQ gi|3885557|gb|AAC77948.1| (AF084665) p17 matrix [Human immunodef...   112  1e-24
+SEQ gi|8571891|gb|AAF76916.1|AF116064_1 (AF116064) gag protein [Huma...   112  1e-24
+SEQ gi|11761572|gb|AAG38903.1| (AY008715) gag protein [Human immunod...   112  1e-24
+SEQ gi|11761582|gb|AAG38912.1| (AY008716) gag protein [Human immunod...   112  1e-24
+SEQ gi|11761592|gb|AAG38921.1| (AY008717) gag protein [Human immunod...   112  1e-24
+SEQ gi|120829|sp|P12495|GAG_HV1Z2 GAG POLYPROTEIN [CONTAINS: CORE PR...   112  1e-24
+SEQ gi|328450|gb|AAA44995.1| (L04602) gag protein [Human immunodefic...   112  1e-24
+SEQ gi|1532262|gb|AAC58558.1| (U68518) p17 matrix protein [Human imm...   112  1e-24
+SEQ gi|1633117|pdb|1TAM|    Human Immunodeficiency Virus, Nmr, Minim...   112  1e-24
+SEQ gi|554838|gb|AAA44314.1| (L11757) gag protein [Human immunodefic...   112  1e-24
+SEQ gi|13569238|gb|AAK30981.1|AF286226_1 (AF286226) gag protein [Hum...   112  1e-24
+SEQ gi|4205054|gb|AAD10927.1| (U69591) gag polyprotein [Human immuno...   112  1e-24
+SEQ gi|5816608|dbj|BAA83639.1| (AB025067) gag polyprotein p17 region...   112  1e-24
+SEQ gi|7021455|gb|AAF35354.1| (AF224507) gag protein [Human immunode...   112  1e-24
+SEQ gi|12697702|dbj|BAB21660.1| (AB044040) gag polyprotein [Human im...   112  1e-24
+SEQ gi|3885547|gb|AAC77943.1| (AF084660) p17 matrix [Human immunodef...   112  1e-24
+SEQ gi|3947926|gb|AAC82616.1| (AF049337) gag protein [Human immunode...   112  1e-24
+SEQ gi|5668911|gb|AAD46065.1|AF076474_1 (AF076474) gag protein [Huma...   112  1e-24
+SEQ gi|14531215|gb|AAK66122.1| (AF281763) gag polyprotein [Human imm...   112  1e-24
+SEQ gi|120836|sp|P18800|GAG_HV1ND GAG POLYPROTEIN [CONTAINS: CORE PR...   112  1e-24
+SEQ gi|1515209|emb|CAB01810.1| (Z79557) matrix protein P17 [Human im...   112  1e-24
+SEQ gi|3885771|gb|AAC78045.1| (AF084782) p17 matrix [Human immunodef...   112  1e-24
+SEQ gi|14531207|gb|AAK66118.1| (AF281759) gag polyprotein [Human imm...   112  1e-24
+SEQ gi|14531211|gb|AAK66120.1| (AF281761) gag polyprotein [Human imm...   112  1e-24
+SEQ gi|4754247|gb|AAD28876.1| (AF121504) gag protein [Human immunode...   112  1e-24
+SEQ gi|4754255|gb|AAD28880.1| (AF121508) gag protein [Human immunode...   112  1e-24
+SEQ gi|13569278|gb|AAK31017.1|AF286230_1 (AF286230) gag protein [Hum...   112  1e-24
+SEQ gi|1732475|gb|AAB38823.1| (U51188) Gag polyprotein [Human immuno...   112  1e-24
+SEQ gi|1732476|gb|AAB38824.1| (U51188) Gag-Pol fusion polyprotein [H...   112  1e-24
+SEQ gi|420712|pir||S33979 gag polyprotein - human immunodeficiency v...   112  1e-24
+SEQ gi|1398965|dbj|BAA12996.1| (D86069) Gag [Human immunodeficiency ...   112  1e-24
+SEQ gi|5816610|dbj|BAA83640.1| (AB025068) gag polyprotein p17 region...   112  1e-24
+SEQ gi|554843|gb|AAA44318.1| (L11764) gag protein [Human immunodefic...   112  2e-24
+SEQ gi|1532260|gb|AAC58557.1| (U68517) p17 matrix protein [Human imm...   112  2e-24
+SEQ gi|1899137|gb|AAC57017.1| (U86780) gag protein [Human immunodefi...   112  2e-24
+SEQ gi|4754235|gb|AAD28870.1| (AF121498) gag protein [Human immunode...   112  2e-24
+SEQ gi|1171165|gb|AAA86246.1| (U43096) gag polyprotein [Human immuno...   112  2e-24
+SEQ gi|1515183|emb|CAB01802.1| (Z79549) matrix protein P17 [Human im...   112  2e-24
+SEQ gi|4324846|gb|AAD17110.1| (AF110972) gag polyprotein [Human immu...   112  2e-24
+SEQ gi|4324847|gb|AAD17111.1| (AF110972) gag-pol polyprotein [Human ...   112  2e-24
+SEQ gi|1515281|emb|CAB01797.1| (Z79544) matrix protein P17 [Human im...   112  2e-24
+SEQ gi|10436159|gb|AAG16835.1| (AF256210) gag protein [Human immunod...   112  2e-24
+SEQ gi|532170|gb|AAA56948.1| (L33087) gag protein [Human immunodefic...   112  2e-24
+SEQ gi|10436121|gb|AAG16801.1| (AF256206) gag protein [Human immunod...   112  2e-24
+SEQ gi|14289983|gb|AAK59171.1| (AF377954) gag protein [Human immunod...   112  2e-24
+SEQ gi|6822139|emb|CAB70965.1| (AJ252871) P17-gag [Human immunodefic...   112  2e-24
+SEQ gi|14531288|gb|AAK66157.1| (AF281801) gag polyprotein [Human imm...   112  2e-24
+SEQ gi|305847|gb|AAA44226.1| (L11754) gag protein [Human immunodefic...   112  2e-24
+SEQ gi|14531107|gb|AAK66070.1| (AF281707) gag polyprotein [Human imm...   112  2e-24
+SEQ gi|3947972|gb|AAC82657.1| (AF069946) gag protein [Human immunode...   112  2e-24
+SEQ gi|4512051|gb|AAD21590.1| (AF115445) gag protein [Human immunode...   112  2e-24
+SEQ gi|555032|gb|AAA45091.1| (L11802) gag protein [Human immunodefic...   112  2e-24
+SEQ gi|1515257|emb|CAB01785.1| (Z79532) matrix protein P17 [Human im...   112  2e-24
+SEQ gi|3885521|gb|AAC77931.1| (AF084646) p17 matrix [Human immunodef...   112  2e-24
+SEQ gi|3885532|gb|AAC77936.1| (AF084652) p17 matrix [Human immunodef...   112  2e-24
+SEQ gi|11761242|dbj|BAB19180.1| (AB042486) gag polyprotein [Human im...   112  2e-24
+SEQ gi|13445613|gb|AAK26313.1| (AF326165) gag protein [Human immunod...   112  2e-24
+SEQ gi|1532252|gb|AAC58553.1| (U68513) p17 matrix protein [Human imm...   112  2e-24
+SEQ gi|3885768|gb|AAC78044.1| (AF084780) p17 matrix [Human immunodef...   112  2e-24
+SEQ gi|12697742|dbj|BAB21680.1| (AB044060) gag polyprotein [Human im...   112  2e-24
+SEQ gi|12697728|dbj|BAB21673.1| (AB044053) gag polyprotein [Human im...   112  2e-24
+SEQ gi|14531077|gb|AAK66055.1| (AF281692) gag polyprotein [Human imm...   112  2e-24
+SEQ gi|3885820|gb|AAC78068.1| (AF084808) p17 matrix [Human immunodef...   112  2e-24
+SEQ gi|11761224|dbj|BAB19171.1| (AB042477) gag polyprotein [Human im...   112  2e-24
+SEQ gi|14531264|gb|AAK66145.1| (AF281789) gag polyprotein [Human imm...   112  2e-24
+SEQ gi|7452899|emb|CAB86365.1| (AJ251056) GAG protein [Human immunod...   112  2e-24
+SEQ gi|14531079|gb|AAK66056.1| (AF281693) gag polyprotein [Human imm...   112  2e-24
+SEQ gi|14531087|gb|AAK66060.1| (AF281697) gag polyprotein [Human imm...   112  2e-24
+SEQ gi|14531091|gb|AAK66062.1| (AF281699) gag polyprotein [Human imm...   112  2e-24
+SEQ gi|14531174|gb|AAK66103.1| (AF281741) gag polyprotein [Human imm...   112  2e-24
+SEQ gi|912542|gb|AAB38047.1| (U29249) gag polyprotein [Human immunod...   112  2e-24
+SEQ gi|912544|gb|AAB38048.1| (U29250) gag polyprotein [Human immunod...   112  2e-24
+SEQ gi|912546|gb|AAB38049.1| (U29251) gag polyprotein [Human immunod...   112  2e-24
+SEQ gi|912550|gb|AAB38051.1| (U29253) gag polyprotein [Human immunod...   112  2e-24
+SEQ gi|912552|gb|AAB38052.1| (U29254) gag polyprotein [Human immunod...   112  2e-24
+SEQ gi|1515283|emb|CAB01794.1| (Z79541) matrix protein P17 [Human im...   112  2e-24
+SEQ gi|13569218|gb|AAK30963.1|AF286224_1 (AF286224) gag protein [Hum...   112  2e-24
+SEQ gi|1518000|gb|AAC59304.1| (U56894) gag polyprotein [Human immuno...   112  2e-24
+SEQ gi|2944127|gb|AAC05234.1| (U71182) gag protein [Human immunodefi...   112  2e-24
+SEQ gi|10436150|gb|AAG16827.1| (AF256209) gag protein [Human immunod...   112  2e-24
+SEQ gi|554842|gb|AAA44317.1| (L11763) gag protein [Human immunodefic...   112  2e-24
+SEQ gi|3947953|gb|AAC82648.1| (AF069936) gag protein [Human immunode...   112  2e-24
+SEQ gi|4512049|gb|AAD21589.1| (AF115444) gag protein [Human immunode...   112  2e-24
+SEQ gi|14531282|gb|AAK66154.1| (AF281798) gag polyprotein [Human imm...   112  2e-24
+SEQ gi|6093157|emb|CAB58988.1| (AJ249239) GAG protein [Human immunod...   112  2e-24
+SEQ gi|11761216|dbj|BAB19167.1| (AB042473) gag polyprotein [Human im...   112  2e-24
+SEQ gi|1515187|emb|CAB01804.1| (Z79551) matrix protein P17 [Human im...   112  2e-24
+SEQ gi|555039|gb|AAA45291.1| (L11789) gag protein [Human immunodefic...   112  2e-24
+SEQ gi|3885740|gb|AAC78030.1| (AF084766) p17 matrix [Human immunodef...   112  2e-24
+SEQ gi|3885742|gb|AAC78031.1| (AF084767) p17 matrix [Human immunodef...   112  2e-24
+SEQ gi|3885758|gb|AAC78039.1| (AF084775) p17 matrix [Human immunodef...   112  2e-24
+SEQ gi|3885746|gb|AAC78033.1| (AF084769) p17 matrix [Human immunodef...   111  2e-24
+SEQ gi|4324861|gb|AAD17125.1| (AF110974) gag polyprotein [Human immu...   111  2e-24
+SEQ gi|4324862|gb|AAD17126.1| (AF110974) gag-pol polyprotein [Human ...   111  2e-24
+SEQ gi|11761210|dbj|BAB19164.1| (AB042470) gag polyprotein [Human im...   111  2e-24
+SEQ gi|3163930|emb|CAA06946.1| (AJ006287) gag polyprotein precursor ...   111  2e-24
+SEQ gi|10436112|gb|AAG16793.1| (AF256205) gag protein [Human immunod...   111  2e-24
+SEQ gi|10436140|gb|AAG16818.1| (AF256208) gag protein [Human immunod...   111  2e-24
+SEQ gi|10436169|gb|AAG16843.1| (AF256211) gag protein [Human immunod...   111  2e-24
+SEQ gi|3885553|gb|AAC77946.1| (AF084663) p17 matrix [Human immunodef...   111  2e-24
+SEQ gi|120844|sp|P05889|GAG_HV1W2 GAG POLYPROTEIN [CONTAINS: CORE PR...   111  2e-24
+SEQ gi|305903|gb|AAA44316.1| (L11759) gag protein [Human immunodefic...   111  2e-24
+SEQ gi|6090966|gb|AAF03413.1|AF075703_1 (AF075703) gag protein [Huma...   111  2e-24
+SEQ gi|5816638|dbj|BAA83654.1| (AB025082) gag polyprotein p17 region...   111  2e-24
+SEQ gi|6690768|gb|AAF24327.1|AF197340_1 (AF197340) gag protein [Huma...   111  2e-24
+SEQ gi|554836|gb|AAA44312.1| (L11755) gag protein [Human immunodefic...   111  2e-24
+SEQ gi|1515217|emb|CAB01795.1| (Z79542) matrix protein P17 [Human im...   111  2e-24
+SEQ gi|13445587|gb|AAK26300.1| (AF326152) gag protein [Human immunod...   111  2e-24
+SEQ gi|1515211|emb|CAB01809.1| (Z79556) matrix protein P17 [Human im...   111  2e-24
+SEQ gi|8571903|gb|AAF76922.1|AF116070_1 (AF116070) gag protein [Huma...   111  3e-24
+SEQ gi|14531111|gb|AAK66072.1| (AF281709) gag polyprotein [Human imm...   111  3e-24
+SEQ gi|3885540|gb|AAC77940.1| (AF084656) p17 matrix [Human immunodef...   111  3e-24
+SEQ gi|3885555|gb|AAC77947.1| (AF084664) p17 matrix [Human immunodef...   111  3e-24
+SEQ gi|6643026|gb|AAF20387.1| (AF192135) gag protein [Human immunode...   111  3e-24
+SEQ gi|554808|gb|AAA44224.1| (L11752) gag protein [Human immunodefic...   111  3e-24
+SEQ gi|120842|sp|P05890|GAG_HV1RH GAG POLYPROTEIN [CONTAINS: CORE PR...   111  3e-24
+SEQ gi|14531093|gb|AAK66063.1| (AF281700) gag polyprotein [Human imm...   111  3e-24
+SEQ gi|14531095|gb|AAK66064.1| (AF281701) gag polyprotein [Human imm...   111  3e-24
+SEQ gi|14531097|gb|AAK66065.1| (AF281702) gag polyprotein [Human imm...   111  3e-24
+SEQ gi|14531101|gb|AAK66067.1| (AF281704) gag polyprotein [Human imm...   111  3e-24
+SEQ gi|14531103|gb|AAK66068.1| (AF281705) gag polyprotein [Human imm...   111  3e-24
+SEQ gi|14531105|gb|AAK66069.1| (AF281706) gag polyprotein [Human imm...   111  3e-24
+SEQ gi|14531109|gb|AAK66071.1| (AF281708) gag polyprotein [Human imm...   111  3e-24
+SEQ gi|1515197|emb|CAB01806.1| (Z79553) matrix protein P17 [Human im...   111  3e-24
+SEQ gi|14531115|gb|AAK66074.1| (AF281711) gag polyprotein [Human imm...   111  3e-24
+SEQ gi|14531121|gb|AAK66077.1| (AF281714) gag polyprotein [Human imm...   111  3e-24
+SEQ gi|14531123|gb|AAK66078.1| (AF281715) gag polyprotein [Human imm...   111  3e-24
+SEQ gi|14531127|gb|AAK66080.1| (AF281717) gag polyprotein [Human imm...   111  3e-24
+SEQ gi|14531129|gb|AAK66081.1| (AF281718) gag polyprotein [Human imm...   111  3e-24
+SEQ gi|14531131|gb|AAK66082.1| (AF281719) gag polyprotein [Human imm...   111  3e-24
+SEQ gi|14531133|gb|AAK66083.1| (AF281720) gag polyprotein [Human imm...   111  3e-24
+SEQ gi|1899120|gb|AAC57001.1| (U86776) gag protein [Human immunodefi...   111  3e-24
+SEQ gi|10436102|gb|AAG16784.1| (AF256204) gag protein [Human immunod...   111  3e-24
+SEQ gi|3885608|gb|AAC77972.1| (AF084692) p17 matrix [Human immunodef...   111  3e-24
+SEQ gi|544364|sp|P35962|GAG_HV1Y2 GAG POLYPROTEIN [CONTAINS: CORE PR...   111  3e-24
+SEQ gi|11066865|gb|AAG28737.1|AF287353_1 (AF287353) gag-pol fusion p...   111  3e-24
+SEQ gi|14531089|gb|AAK66061.1| (AF281698) gag polyprotein [Human imm...   111  3e-24
+SEQ gi|2655252|gb|AAB87960.1| (AF030956) gag protein [Human immunode...   111  3e-24
+SEQ gi|14531284|gb|AAK66155.1| (AF281799) gag polyprotein [Human imm...   111  3e-24
+SEQ gi|915388|gb|AAC55981.1| (U29242) gag polyprotein [Human immunod...   111  3e-24
+SEQ gi|1515225|emb|CAB01812.1| (Z79559) matrix protein P17 [Human im...   111  3e-24
+SEQ gi|13569288|gb|AAK31026.1|AF286231_1 (AF286231) gag protein [Hum...   111  3e-24
+SEQ gi|3169562|gb|AAC17873.1| (AF057284) p17 [Human immunodeficiency...   111  3e-24
+SEQ gi|13445619|gb|AAK26316.1| (AF326168) gag protein [Human immunod...   111  3e-24
+SEQ gi|3885720|gb|AAC78021.1| (AF084755) p17 matrix [Human immunodef...   111  3e-24
+SEQ gi|3885685|gb|AAC78009.1| (AF084732) p17 matrix [Human immunodef...   111  3e-24
+SEQ gi|9971491|dbj|BAB12552.1| (AB034891) gag polyprotein [Human imm...   111  3e-24
+SEQ gi|6093147|emb|CAB58980.1| (AJ249237) GAG protein [Human immunod...   111  3e-24
+SEQ gi|2632138|emb|CAA73647.1| (Y13196) gag protein [Human immunodef...   111  3e-24
+SEQ gi|5931483|dbj|BAA84661.1| (AB032740) gag-pol fusion polyprotein...   111  3e-24
+SEQ gi|5931484|dbj|BAA84662.1| (AB032740) gag polyprotein precursor ...   111  3e-24
+SEQ gi|9971487|dbj|BAB12550.1| (AB034889) gag polyprotein [Human imm...   111  3e-24
+SEQ gi|8571865|gb|AAF76903.1|AF116051_1 (AF116051) gag protein [Huma...   111  3e-24
+SEQ gi|554966|gb|AAA44689.1| (L11769) gag protein [Human immunodefic...   111  3e-24
+SEQ gi|9971483|dbj|BAB12548.1| (AB034887) gag polyprotein [Human imm...   111  3e-24
+SEQ gi|3947961|gb|AAC82652.1| (AF069940) gag protein [Human immunode...   111  3e-24
+SEQ gi|11761214|dbj|BAB19166.1| (AB042472) gag polyprotein [Human im...   111  3e-24
+SEQ gi|3885718|gb|AAC78020.1| (AF084754) p17 matrix [Human immunodef...   111  3e-24
+SEQ gi|3885724|gb|AAC78023.1| (AF084757) p17 matrix [Human immunodef...   111  3e-24
+SEQ gi|12697720|dbj|BAB21669.1| (AB044049) gag polyprotein [Human im...   111  3e-24
+SEQ gi|3885524|gb|AAC77932.1| (AF084648) p17 matrix [Human immunodef...   111  3e-24
+SEQ gi|14531278|gb|AAK66152.1| (AF281796) gag polyprotein [Human imm...   111  4e-24
+SEQ gi|3885698|gb|AAC78013.1| (AF084741) p17 matrix [Human immunodef...   111  4e-24
+SEQ gi|3885704|gb|AAC78015.1| (AF084745) p17 matrix [Human immunodef...   111  4e-24
+SEQ gi|6016888|dbj|BAA85225.1| (AB023804) Gag [Human immunodeficienc...   111  4e-24
+SEQ gi|14530227|gb|AAK65961.1|AF286236_1 (AF286236) gag protein [Hum...   111  4e-24
+SEQ gi|3885650|gb|AAC77992.1| (AF084714) p17 matrix [Human immunodef...   111  4e-24
+SEQ gi|3885652|gb|AAC77993.1| (AF084715) p17 matrix [Human immunodef...   111  4e-24
+SEQ gi|3885656|gb|AAC77995.1| (AF084717) p17 matrix [Human immunodef...   111  4e-24
+SEQ gi|3885733|gb|AAC78027.1| (AF084762) p17 matrix [Human immunodef...   111  4e-24
+SEQ gi|4324807|gb|AAD17071.1| (AF110967) gag polyprotein [Human immu...   111  4e-24
+SEQ gi|4324808|gb|AAD17072.1| (AF110967) gag-pol polyprotein [Human ...   111  4e-24
+SEQ gi|14531185|gb|AAK66108.1| (AF281747) gag polyprotein [Human imm...   111  4e-24
+SEQ gi|14531190|gb|AAK66110.1| (AF281750) gag polyprotein [Human imm...   111  4e-24
+SEQ gi|14531194|gb|AAK66112.1| (AF281752) gag polyprotein [Human imm...   111  4e-24
+SEQ gi|14531203|gb|AAK66116.1| (AF281757) gag polyprotein [Human imm...   111  4e-24
+SEQ gi|14531205|gb|AAK66117.1| (AF281758) gag polyprotein [Human imm...   111  4e-24
+SEQ gi|8571887|gb|AAF76914.1|AF116062_1 (AF116062) gag protein [Huma...   111  4e-24
+SEQ gi|13569268|gb|AAK31008.1|AF286229_1 (AF286229) gag protein [Hum...   111  4e-24
+SEQ gi|1515275|emb|CAB01793.1| (Z79540) matrix protein P17 [Human im...   111  4e-24
+SEQ gi|4754233|gb|AAD28869.1| (AF121497) gag protein [Human immunode...   111  4e-24
+SEQ gi|14531198|gb|AAK66114.1| (AF281754) gag polyprotein [Human imm...   111  4e-24
+SEQ gi|1515229|emb|CAB01789.1| (Z79536) matrix protein P17 [Human im...   111  4e-24
+SEQ gi|9971505|dbj|BAB12559.1| (AB034898) gag polyprotein [Human imm...   111  4e-24
+SEQ gi|1515193|emb|CAB01801.1| (Z79548) matrix protein P17 [Human im...   111  4e-24
+SEQ gi|12697756|dbj|BAB21687.1| (AB044067) gag polyprotein [Human im...   111  4e-24
+SEQ gi|11761264|dbj|BAB19191.1| (AB042497) gag polyprotein [Human im...   111  4e-24
+SEQ gi|5256944|gb|AAD41214.1|AF073435_1 (AF073435) gag protein [Huma...   111  4e-24
+SEQ gi|12831780|gb|AAD41211.2|AF073432_1 (AF073432) gag protein [Hum...   111  4e-24
+SEQ gi|12831782|gb|AAD41213.2|AF073434_1 (AF073434) gag protein [Hum...   111  4e-24
+SEQ gi|12831783|gb|AAD41215.2|AF073436_1 (AF073436) gag protein [Hum...   111  4e-24
+SEQ gi|903649|gb|AAB38038.1| (U29417) gag polyprotein [Human immunod...   111  4e-24
+SEQ gi|2655240|gb|AAB87954.1| (AF030950) gag protein [Human immunode...   111  4e-24
+SEQ gi|3098573|gb|AAC68841.1| (AF049494) gag polyprotein [Human immu...   111  4e-24
+SEQ gi|11761260|dbj|BAB19189.1| (AB042495) gag polyprotein [Human im...   111  4e-24
+SEQ gi|3885544|gb|AAC77942.1| (AF084658) p17 matrix [Human immunodef...   111  4e-24
+SEQ gi|912548|gb|AAB38050.1| (U29252) gag polyprotein [Human immunod...   111  4e-24
+SEQ gi|4512063|gb|AAD21596.1| (AF115451) gag protein [Human immunode...   111  4e-24
+SEQ gi|12697718|dbj|BAB21668.1| (AB044048) gag polyprotein [Human im...   111  4e-24
+SEQ gi|1515239|emb|CAB01790.1| (Z79537) matrix protein P17 [Human im...   111  5e-24
+SEQ gi|13445585|gb|AAK26299.1| (AF326151) gag protein [Human immunod...   110  5e-24
+SEQ gi|3114570|gb|AAD03188.1| (AF005496) Gag [Human immunodeficiency...   110  5e-24
+SEQ gi|4107489|gb|AAD03184.1| (AF005496) gag-pol fusion polyprotein ...   110  5e-24
+SEQ gi|2342776|gb|AAB67649.1| (U56345) p17 [Human immunodeficiency v...   110  5e-24
+SEQ gi|3885716|gb|AAC78019.1| (AF084753) p17 matrix [Human immunodef...   110  5e-24
+SEQ gi|3885726|gb|AAC78024.1| (AF084758) p17 matrix [Human immunodef...   110  5e-24
+SEQ gi|3885675|gb|AAC78004.1| (AF084727) p17 matrix [Human immunodef...   110  5e-24
+SEQ gi|3947957|gb|AAC82650.1| (AF069938) gag protein [Human immunode...   110  5e-24
+SEQ gi|554976|gb|AAA44775.1| (L11777) gag protein [Human immunodefic...   110  5e-24
+SEQ gi|11761238|dbj|BAB19178.1| (AB042484) gag polyprotein [Human im...   110  5e-24
+SEQ gi|5816636|dbj|BAA83653.1| (AB025081) gag polyprotein p17 region...   110  5e-24
+SEQ gi|3885681|gb|AAC78007.1| (AF084730) p17 matrix [Human immunodef...   110  5e-24
+SEQ gi|899491|gb|AAA83438.1| (U11549) p17 protein [Human immunodefic...   110  5e-24
+SEQ gi|3885542|gb|AAC77941.1| (AF084657) p17 matrix [Human immunodef...   110  5e-24
+SEQ gi|9971459|dbj|BAB12536.1| (AB034875) gag polyprotein [Human imm...   110  5e-24
+SEQ gi|4324831|gb|AAD17095.1| (AF110970) gag polyprotein [Human immu...   110  5e-24
+SEQ gi|4324832|gb|AAD17096.1| (AF110970) gag-pol polyprotein [Human ...   110  5e-24
+SEQ gi|3947976|gb|AAC82659.1| (AF069948) gag protein [Human immunode...   110  6e-24
+SEQ gi|468149|gb|AAB01039.1| (U07238) gag gene product [Human immuno...   110  6e-24
+SEQ gi|6690762|gb|AAF24321.1|AF197338_9 (AF197338) gag protein [Huma...   110  6e-24
+SEQ gi|14531099|gb|AAK66066.1| (AF281703) gag polyprotein [Human imm...   110  6e-24
+SEQ gi|3885528|gb|AAC77934.1| (AF084650) p17 matrix [Human immunodef...   110  6e-24
+SEQ gi|3885610|gb|AAC77973.1| (AF084693) p17 matrix [Human immunodef...   110  6e-24
+SEQ gi|1515231|emb|CAB01820.1| (Z79567) matrix protein P17 [Human im...   110  6e-24
+SEQ gi|2655234|gb|AAB87951.1| (AF030947) gag protein [Human immunode...   110  6e-24
+SEQ gi|3885750|gb|AAC78035.1| (AF084771) p17 matrix [Human immunodef...   110  6e-24
+SEQ gi|14531192|gb|AAK66111.1| (AF281751) gag polyprotein [Human imm...   110  6e-24
+SEQ gi|1515207|emb|CAB01800.1| (Z79547) matrix protein P17 [Human im...   110  6e-24
+SEQ gi|13445617|gb|AAK26315.1| (AF326167) gag protein [Human immunod...   110  6e-24
+SEQ gi|12697730|dbj|BAB21674.1| (AB044054) gag polyprotein [Human im...   110  6e-24
+SEQ gi|3114545|gb|AAD03165.1| (AF005494) Gag [Human immunodeficiency...   110  6e-24
+SEQ gi|3114549|gb|AAD03169.1| (AF005494) Gag-Pol fusion polyprotein ...   110  6e-24
+SEQ gi|1899123|gb|AAC57003.1| (U86777) gag protein [Human immunodefi...   110  6e-24
+SEQ gi|3252919|gb|AAD12071.1| (AF067154) gag protein [Human immunode...   110  6e-24
+SEQ gi|325641|gb|AAA43913.1| (L03707) core protein [Human immunodefi...   110  6e-24
+SEQ gi|3002840|gb|AAD03199.1| (AF042101) gag protein [Human immunode...   110  6e-24
+SEQ gi|3002841|gb|AAD03200.1| (AF042101) gag-pol fusion polyprotein ...   110  6e-24
+SEQ gi|11761220|dbj|BAB19169.1| (AB042475) gag polyprotein [Human im...   110  7e-24
+SEQ gi|3403226|gb|AAC29059.1| (AF061642) gag protein [Human immunode...   110  7e-24
+SEQ gi|3885696|gb|AAC78012.1| (AF084740) p17 matrix [Human immunodef...   110  7e-24
+SEQ gi|1515201|emb|CAB01822.1| (Z79569) matrix protein P17 [Human im...   110  7e-24
+SEQ gi|14531201|gb|AAK66115.1| (AF281756) gag polyprotein [Human imm...   110  7e-24
+SEQ gi|3885564|gb|AAC77951.1| (AF084669) p17 matrix [Human immunodef...   110  7e-24
+SEQ gi|3885578|gb|AAC77958.1| (AF084676) p17 matrix [Human immunodef...   110  7e-24
+SEQ gi|3885580|gb|AAC77959.1| (AF084677) p17 matrix [Human immunodef...   110  7e-24
+SEQ gi|3885774|gb|AAC78046.1| (AF084784) p17 matrix [Human immunodef...   110  7e-24
+SEQ gi|554965|gb|AAA44688.1| (L11768) gag protein [Human immunodefic...   110  8e-24
+SEQ gi|3885534|gb|AAC77937.1| (AF084653) p17 matrix [Human immunodef...   110  8e-24
+SEQ gi|3885677|gb|AAC78005.1| (AF084728) p17 matrix [Human immunodef...   110  8e-24
+SEQ gi|1532246|gb|AAC58550.1| (U68510) p17 matrix protein [Human imm...   110  8e-24
+SEQ gi|8218026|emb|CAB92786.1| (AJ271445) GAG precursor [Human immun...   110  8e-24
+SEQ gi|1176375|gb|AAA86730.1| (U26546) Gag [Human immunodeficiency v...   110  8e-24
+SEQ gi|3885662|gb|AAC77998.1| (AF084720) p17 matrix [Human immunodef...   110  8e-24
+SEQ gi|3885671|gb|AAC78002.1| (AF084725) p17 matrix [Human immunodef...   109  8e-24
+SEQ gi|14290020|gb|AAK59204.1| (AF377958) gag protein [Human immunod...   109  8e-24
+SEQ gi|14531081|gb|AAK66057.1| (AF281694) gag polyprotein [Human imm...   109  8e-24
+SEQ gi|3252937|gb|AAD12087.1| (AF067156) gag protein [Human immunode...   109  8e-24
+SEQ gi|328432|gb|AAB04036.1| (M38431) gag gene product [Human immuno...   109  8e-24
+SEQ gi|3378122|gb|AAC28445.1| (AF070521) gag protein [Human immunode...   109  8e-24
+SEQ gi|554971|gb|AAA44695.1| (L11775) gag protein [Human immunodefic...   109  9e-24
+SEQ gi|9971445|dbj|BAB12529.1| (AB034868) gag polyprotein [Human imm...   109  9e-24
+SEQ gi|3885590|gb|AAC77964.1| (AF084682) p17 matrix [Human immunodef...   109  9e-24
+SEQ gi|5668939|gb|AAD46087.1|AF077336_1 (AF077336) gag protein [Huma...   109  9e-24
+SEQ gi|554991|gb|AAA45002.1| (L11780) gag protein [Human immunodefic...   109  9e-24
+SEQ gi|1515213|emb|CAB01831.1| (Z79578) matrix protein P17 [Human im...   109  9e-24
+SEQ gi|903641|gb|AAB38034.1| (U29413) gag polyprotein [Human immunod...   109  9e-24
+SEQ gi|903645|gb|AAB38036.1| (U29415) gag polyprotein [Human immunod...   109  9e-24
+SEQ gi|903657|gb|AAB38042.1| (U29421) gag polyprotein [Human immunod...   109  9e-24
+SEQ gi|11761234|dbj|BAB19176.1| (AB042482) gag polyprotein [Human im...   109  9e-24
+SEQ gi|14530263|gb|AAK65993.1|AF316544_1 (AF316544) gag protein [Hum...   109  9e-24
+SEQ gi|4754157|gb|AAD28831.1| (AF121459) gag protein [Human immunode...   109  1e-23
+SEQ gi|4754169|gb|AAD28837.1| (AF121465) gag protein [Human immunode...   109  1e-23
+SEQ gi|4754259|gb|AAD28882.1| (AF121510) gag protein [Human immunode...   109  1e-23
+SEQ gi|6822137|emb|CAB70964.1| (AJ252870) P17-gag [Human immunodefic...   109  1e-23
+SEQ gi|8571895|gb|AAF76918.1|AF116066_1 (AF116066) gag protein [Huma...   109  1e-23
+SEQ gi|5059041|gb|AAD38881.1|AF119819_1 (AF119819) gag polyprotein [...   109  1e-23
+SEQ gi|555027|gb|AAA45084.1| (L11762) gag protein [Human immunodefic...   109  1e-23
+SEQ gi|4754165|gb|AAD28835.1| (AF121463) gag protein [Human immunode...   109  1e-23
+SEQ gi|4754175|gb|AAD28840.1| (AF121468) gag protein [Human immunode...   109  1e-23
+SEQ gi|4754239|gb|AAD28872.1| (AF121500) gag protein [Human immunode...   109  1e-23
+SEQ gi|1517996|gb|AAC59302.1| (U56892) gag polyprotein [Human immuno...   109  1e-23
+SEQ gi|3885654|gb|AAC77994.1| (AF084716) p17 matrix [Human immunodef...   109  1e-23
+SEQ gi|912536|gb|AAB38044.1| (U29246) gag polyprotein [Human immunod...   109  1e-23
+SEQ gi|4512053|gb|AAD21591.1| (AF115446) gag protein [Human immunode...   109  1e-23
+SEQ gi|1515279|emb|CAB01817.1| (Z79564) matrix protein P17 [Human im...   109  1e-23
+SEQ gi|3885679|gb|AAC78006.1| (AF084729) p17 matrix [Human immunodef...   109  1e-23
+SEQ gi|6822141|emb|CAB70966.1| (AJ252872) P17-gag [Human immunodefic...   109  1e-23
+SEQ gi|3204165|emb|CAA07202.1| (AJ006728) matrix protein P17 [Human ...   109  1e-23
+SEQ gi|1899096|gb|AAC56982.1| (U86771) gag protein [Human immunodefi...   109  1e-23
+SEQ gi|1515249|emb|CAB01813.1| (Z79560) matrix protein P17 [Human im...   109  1e-23
+SEQ gi|3885568|gb|AAC77953.1| (AF084671) p17 matrix [Human immunodef...   109  1e-23
+SEQ gi|11761262|dbj|BAB19190.1| (AB042496) gag polyprotein [Human im...   109  1e-23
+SEQ gi|13445603|gb|AAK26308.1| (AF326160) gag protein [Human immunod...   109  1e-23
+SEQ gi|13445611|gb|AAK26312.1| (AF326164) gag protein [Human immunod...   109  1e-23
+SEQ gi|3885594|gb|AAC77966.1| (AF084684) p17 matrix [Human immunodef...   109  1e-23
+SEQ gi|3885596|gb|AAC77967.1| (AF084685) p17 matrix [Human immunodef...   109  1e-23
+SEQ gi|3885588|gb|AAC77963.1| (AF084681) p17 matrix [Human immunodef...   109  1e-23
+SEQ gi|3885714|gb|AAC78018.1| (AF084752) p17 matrix [Human immunodef...   109  1e-23
+SEQ gi|903651|gb|AAB38039.1| (U29418) gag polyprotein [Human immunod...   109  1e-23
+SEQ gi|13559964|gb|AAA43912.3| (L03706) gag protein [Human immunodef...   109  1e-23
+SEQ gi|9971501|dbj|BAB12557.1| (AB034896) gag polyprotein [Human imm...   109  1e-23
+SEQ gi|3885701|gb|AAC78014.1| (AF084743) p17 matrix [Human immunodef...   109  1e-23
+SEQ gi|4754257|gb|AAD28881.1| (AF121509) gag protein [Human immunode...   109  1e-23
+SEQ gi|14531125|gb|AAK66079.1| (AF281716) gag polyprotein [Human imm...   109  1e-23
+SEQ gi|8920374|emb|CAB96407.1| (AJ271369) Gag-Pol fusion polyprotein...   109  1e-23
+SEQ gi|8920375|emb|CAB96408.1| (AJ271369) gag polyprotein [Simian im...   109  1e-23
+SEQ gi|5758289|gb|AAD50767.1| (AF159873) gag polyprotein [Human immu...   109  2e-23
+SEQ gi|14531209|gb|AAK66119.1| (AF281760) gag polyprotein [Human imm...   109  2e-23
+SEQ gi|912540|gb|AAB38046.1| (U29248) gag polyprotein [Human immunod...   109  2e-23
+SEQ gi|13569208|gb|AAK30954.1|AF286223_1 (AF286223) gag protein [Hum...   109  2e-23
+SEQ gi|2655232|gb|AAB87950.1| (AF030946) gag protein [Human immunode...   109  2e-23
+SEQ gi|11095911|gb|AAG30115.1|AF286365_1 (AF286365) gag protein [Hum...   109  2e-23
+SEQ gi|11095912|gb|AAG30116.1|AF286365_2 (AF286365) gag-pol fusion p...   109  2e-23
+SEQ gi|9971479|dbj|BAB12546.1| (AB034885) gag polyprotein [Human imm...   109  2e-23
+SEQ gi|1515255|emb|CAB01786.1| (Z79533) matrix protein P17 [Human im...   109  2e-23
+SEQ gi|11320996|gb|AAG33990.1| (AF290027) gag protein [Human immunod...   109  2e-23
+SEQ gi|11321006|gb|AAG33999.1| (AF290028) gag protein [Human immunod...   109  2e-23
+SEQ gi|11321026|gb|AAG34017.1| (AF290030) gag protein [Human immunod...   109  2e-23
+SEQ gi|903621|gb|AAB38024.1| (U29403) gag polyprotein [Human immunod...   109  2e-23
+SEQ gi|3885574|gb|AAC77956.1| (AF084674) p17 matrix [Human immunodef...   109  2e-23
+SEQ gi|2655242|gb|AAB87955.1| (AF030951) gag protein [Human immunode...   109  2e-23
+SEQ gi|3808280|gb|AAC69306.1| (AF069673) gag protein [Human immunode...   109  2e-23
+SEQ gi|1515253|emb|CAB01792.1| (Z79539) matrix protein P17 [Human im...   108  2e-23
+SEQ gi|4324854|gb|AAD17118.1| (AF110973) gag polyprotein [Human immu...   108  2e-23
+SEQ gi|4324855|gb|AAD17119.1| (AF110973) gag-pol polyprotein [Human ...   108  2e-23
+SEQ gi|555019|gb|AAA45076.1| (L11803) gag protein [Human immunodefic...   108  2e-23
+SEQ gi|2655250|gb|AAB87959.1| (AF030955) gag protein [Human immunode...   108  2e-23
+SEQ gi|4322934|gb|AAD16136.1| (AF095833) gag protein [Human immunode...   108  2e-23
+SEQ gi|3885549|gb|AAC77944.1| (AF084661) p17 matrix [Human immunodef...   108  2e-23
+SEQ gi|4754201|gb|AAD28853.1| (AF121481) gag protein [Human immunode...   108  2e-23
+SEQ gi|1518004|gb|AAC59306.1| (U56896) gag polyprotein [Human immuno...   108  2e-23
+SEQ gi|4754253|gb|AAD28879.1| (AF121507) gag protein [Human immunode...   108  2e-23
+SEQ gi|14530237|gb|AAK65970.1|AF286237_1 (AF286237) gag protein [Hum...   108  2e-23
+SEQ gi|2342804|gb|AAB67663.1| (U56359) p17 [Human immunodeficiency v...   108  2e-23
+SEQ gi|4512055|gb|AAD21592.1| (AF115447) gag protein [Human immunode...   108  2e-23
+SEQ gi|3885570|gb|AAC77954.1| (AF084672) p17 matrix [Human immunodef...   108  2e-23
+SEQ gi|4205000|gb|AAD10879.1| (U69585) gag polyprotein [Human immuno...   108  2e-23
+SEQ gi|4205009|gb|AAD10887.1| (U69586) gag polyprotein [Human immuno...   108  2e-23
+SEQ gi|11761222|dbj|BAB19170.1| (AB042476) gag polyprotein [Human im...   108  2e-23
+SEQ gi|2342774|gb|AAB67648.1| (U56344) p17 [Human immunodeficiency v...   108  2e-23
+SEQ gi|120832|sp|P05887|GAG_HV1C4 GAG POLYPROTEIN [CONTAINS: CORE PR...   108  2e-23
+SEQ gi|4324782|gb|AAD17046.1| (AF110964) gag polyprotein [Human immu...   108  2e-23
+SEQ gi|4324783|gb|AAD17047.1| (AF110964) gag-pol polyprotein [Human ...   108  2e-23
+SEQ gi|6580994|gb|AAF18402.1|AF190128_1 (AF190128) Gag polyprotein [...   108  2e-23
+SEQ gi|7657889|emb|CAB89143.1| (AJ286133) gag polyprotein [Human imm...   108  2e-23
+SEQ gi|1515259|emb|CAB01798.1| (Z79545) matrix protein P17 [Human im...   108  2e-23
+SEQ gi|1899126|gb|AAC57007.1| (U86779) gag protein [Human immunodefi...   108  2e-23
+SEQ gi|6822133|emb|CAB70962.1| (AJ252868) P17-gag [Human immunodefic...   108  2e-23
+SEQ gi|1123003|gb|AAC54633.1| (U34603) gag gene product [Human immun...   108  3e-23
+SEQ gi|3885673|gb|AAC78003.1| (AF084726) p17 matrix [Human immunodef...   108  3e-23
+SEQ gi|8571905|gb|AAF76923.1|AF116071_1 (AF116071) gag protein [Huma...   108  3e-23
+SEQ gi|1515215|emb|CAB01796.1| (Z79543) matrix protein P17 [Human im...   108  3e-23
+SEQ gi|3885712|gb|AAC78017.1| (AF084751) p17 matrix [Human immunodef...   108  3e-23
+SEQ gi|13569328|gb|AAK31062.1|AF286235_1 (AF286235) gag protein [Hum...   108  3e-23
+SEQ gi|903643|gb|AAB38035.1| (U29414) gag polyprotein [Human immunod...   108  3e-23
+SEQ gi|903659|gb|AAB38043.1| (U29422) gag polyprotein [Human immunod...   108  3e-23
+SEQ gi|3885729|gb|AAC78025.1| (AF084760) p17 matrix [Human immunodef...   108  3e-23
+SEQ gi|4754181|gb|AAD28843.1| (AF121471) gag protein [Human immunode...   108  3e-23
+SEQ gi|1515251|emb|CAB01821.1| (Z79568) matrix protein P17 [Human im...   107  3e-23
+SEQ gi|4324773|gb|AAD17037.1| (AF110963) gag polyprotein [Human immu...   107  3e-23
+SEQ gi|4324774|gb|AAD17038.1| (AF110963) gag-pol polyprotein [Human ...   107  3e-23
+SEQ gi|4324791|gb|AAD17055.1| (AF110965) gag polyprotein [Human immu...   107  3e-23
+SEQ gi|4324792|gb|AAD17056.1| (AF110965) gag-pol polyprotein [Human ...   107  3e-23
+SEQ gi|1515277|emb|CAB01818.1| (Z79565) matrix protein P17 [Human im...   107  3e-23
+SEQ gi|903655|gb|AAB38041.1| (U29420) gag polyprotein [Human immunod...   107  3e-23
+SEQ gi|2655244|gb|AAB87956.1| (AF030952) gag protein [Human immunode...   107  3e-23
+SEQ gi|3885660|gb|AAC77997.1| (AF084719) p17 matrix [Human immunodef...   107  3e-23
+SEQ gi|2655248|gb|AAB87958.1| (AF030954) gag protein [Human immunode...   107  4e-23
+SEQ gi|3885582|gb|AAC77960.1| (AF084678) p17 matrix [Human immunodef...   107  4e-23
+SEQ gi|3885584|gb|AAC77961.1| (AF084679) p17 matrix [Human immunodef...   107  4e-23
+SEQ gi|305961|gb|AAA44681.1| (L11767) gag protein [Human immunodefic...   107  4e-23
+SEQ gi|6822135|emb|CAB70963.1| (AJ252869) P17-gag [Human immunodefic...   107  4e-23
+SEQ gi|1515271|emb|CAB01816.1| (Z79563) matrix protein P17 [Human im...   107  4e-23
+SEQ gi|1515273|emb|CAB01815.1| (Z79562) matrix protein P17 [Human im...   107  4e-23
+SEQ gi|5081475|gb|AAD39400.1|AF128998_1 (AF128998) gag [Human immuno...   107  4e-23
+SEQ gi|3885566|gb|AAC77952.1| (AF084670) p17 matrix [Human immunodef...   107  4e-23
+SEQ gi|4324765|gb|AAD17029.1| (AF110962) gag polyprotein [Human immu...   107  4e-23
+SEQ gi|4324766|gb|AAD17030.1| (AF110962) gag-pol polyprotein [Human ...   107  4e-23
+SEQ gi|555044|gb|AAA45298.1| (L11796) gag protein [Human immunodefic...   107  4e-23
+SEQ gi|3885731|gb|AAC78026.1| (AF084761) p17 matrix [Human immunodef...   107  4e-23
+SEQ gi|3885572|gb|AAC77955.1| (AF084673) p17 matrix [Human immunodef...   107  4e-23
+SEQ gi|4512059|gb|AAD21594.1| (AF115449) gag protein [Human immunode...   107  4e-23
+SEQ gi|2342760|gb|AAB67641.1| (U56337) p17 [Human immunodeficiency v...   107  4e-23
+SEQ gi|4754159|gb|AAD28832.1| (AF121460) gag protein [Human immunode...   107  4e-23
+SEQ gi|4754163|gb|AAD28834.1| (AF121462) gag protein [Human immunode...   107  4e-23
+SEQ gi|4754191|gb|AAD28848.1| (AF121476) gag protein [Human immunode...   107  4e-23
+SEQ gi|4754219|gb|AAD28862.1| (AF121490) gag protein [Human immunode...   107  4e-23
+SEQ gi|4754229|gb|AAD28867.1| (AF121495) gag protein [Human immunode...   107  4e-23
+SEQ gi|4754237|gb|AAD28871.1| (AF121499) gag protein [Human immunode...   107  4e-23
+SEQ gi|4754267|gb|AAD28886.1| (AF121514) gag protein [Human immunode...   107  4e-23
+SEQ gi|5733951|gb|AAD49788.1|AF107771_1 (AF107771) Gag polyprotein [...   107  4e-23
+SEQ gi|4512057|gb|AAD21593.1| (AF115448) gag protein [Human immunode...   107  4e-23
+SEQ gi|6093152|emb|CAB58984.1| (AJ249238) GAG protein [Human immunod...   107  4e-23
+SEQ gi|7715897|gb|AAF68188.1| (AF170548) gag protein [Human immunode...   107  5e-23
+SEQ gi|903653|gb|AAB38040.1| (U29419) gag polyprotein [Human immunod...   107  5e-23
+SEQ gi|2342764|gb|AAB67643.1| (U56339) p17 [Human immunodeficiency v...   107  5e-23
+SEQ gi|12697708|dbj|BAB21663.1| (AB044043) gag polyprotein [Human im...   107  5e-23
+SEQ gi|3885780|gb|AAC78049.1| (AF084787) p17 matrix [Human immunodef...   107  5e-23
+SEQ gi|12407061|emb|CAC24828.1| (AJ404321) core protein [Human immun...   107  5e-23
+SEQ gi|3885683|gb|AAC78008.1| (AF084731) p17 matrix [Human immunodef...   107  6e-23
+SEQ gi|4324822|gb|AAD17086.1| (AF110969) gag polyprotein [Human immu...   107  6e-23
+SEQ gi|4324823|gb|AAD17087.1| (AF110969) gag-pol polyprotein [Human ...   107  6e-23
+SEQ gi|2655254|gb|AAB87961.1| (AF030957) gag protein [Human immunode...   107  6e-23
+SEQ gi|13569258|gb|AAK30999.1|AF286228_1 (AF286228) gag protein [Hum...   107  6e-23
+SEQ gi|2655238|gb|AAB87953.1| (AF030949) gag protein [Human immunode...   107  6e-23
+SEQ gi|2655256|gb|AAB87962.1| (AF030958) gag protein [Human immunode...   107  6e-23
+SEQ gi|6093142|emb|CAB58976.1| (AJ249236) GAG protein [Human immunod...   107  6e-23
+SEQ gi|1515269|emb|CAB01830.1| (Z79577) matrix protein P17 [Human im...   106  7e-23
+SEQ gi|7158712|gb|AAF37548.1|AF191482_1 (AF191482) gag protein [Huma...   106  7e-23
+SEQ gi|14530246|gb|AAK65978.1|AF286238_1 (AF286238) gag protein [Hum...   106  7e-23
+SEQ gi|4754173|gb|AAD28839.1| (AF121467) gag protein [Human immunode...   106  8e-23
+SEQ gi|2342808|gb|AAB67665.1| (U56361) p17 [Human immunodeficiency v...   106  8e-23
+SEQ gi|2944149|gb|AAC40563.1| (U92049) core protein [Human immunodef...   106  8e-23
+SEQ gi|6466841|gb|AAF13056.1| (AF184155) Gag [Human immunodeficiency...   106  8e-23
+SEQ gi|6466846|gb|AAF13061.1| (AF184155) Gag-Pol [Human immunodefici...   106  8e-23
+SEQ gi|2342758|gb|AAB67640.1| (U56336) p17 [Human immunodeficiency v...   106  8e-23
+SEQ gi|903647|gb|AAB38037.1| (U29416) gag polyprotein [Human immunod...   106  9e-23
+SEQ gi|555030|gb|AAA45088.1| (L11799) gag protein [Human immunodefic...   106  9e-23
+SEQ gi|6093137|emb|CAB59007.1| (AJ249235) GAG protein [Human immunod...   106  9e-23
+SEQ gi|2342768|gb|AAB67645.1| (U56341) p17 [Human immunodeficiency v...   106  1e-22
+SEQ gi|14041636|emb|CAC38420.1| (AJ302647) GAG protein [Human immuno...   106  1e-22
+SEQ gi|12862945|gb|AAC29258.2| (AF017926) Gag [Human immunodeficienc...   106  1e-22
+SEQ gi|120886|sp|P22381|GAG_SIVGB GAG POLYPROTEIN [CONTAINS: CORE PR...   106  1e-22
+SEQ gi|5256932|gb|AAD41202.1|AF073423_1 (AF073423) gag protein [Huma...   106  1e-22
+SEQ gi|12862946|gb|AAC29260.2| (AF017928) Gag [Human immunodeficienc...   106  1e-22
+SEQ gi|555041|gb|AAA45294.1| (L11792) gag protein [Human immunodefic...   106  1e-22
+SEQ gi|11527098|gb|AAG36881.1|AF255926_1 (AF255926) gag protein [Hum...   106  1e-22
+SEQ gi|3885599|gb|AAC77968.1| (AF084687) p17 matrix [Human immunodef...   106  1e-22
+SEQ gi|1515243|emb|CAB01829.1| (Z79576) matrix protein P17 [Human im...   106  1e-22
+SEQ gi|12862944|gb|AAC29256.2| (AF017924) Gag [Human immunodeficienc...   106  1e-22
+SEQ gi|14041622|emb|CAC38388.1| (AJ300450) gag [Human immunodeficien...   106  1e-22
+SEQ gi|7321134|emb|CAB82217.1| (AJ276595) gag polyprotein [Human imm...   106  1e-22
+SEQ gi|3885669|gb|AAC78001.1| (AF084724) p17 matrix [Human immunodef...   106  1e-22
+SEQ gi|3694862|gb|AAC62476.1| (AF086817) gag protein [Human immunode...   106  1e-22
+SEQ gi|7158708|gb|AAF37546.1|AF191480_1 (AF191480) gag protein [Huma...   106  1e-22
+SEQ gi|306134|gb|AAA45292.1| (L11790) gag protein [Human immunodefic...   105  2e-22
+SEQ gi|3406319|gb|AAC29259.1| (AF017927) Gag [Human immunodeficiency...   105  2e-22
+SEQ 
+## SEQUENCE PROFILE AND ENTROPY
+ SeqNo PDBNo   V   L   I   M   F   W   Y   G   A   P   S   T   C   H   R   K   Q   E   N   D  NOCC NDEL NINS ENTROPY RELENT WEIGHT
+    1    1     0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0     0    0    0   0.021      0  0.00
+    2    2    80   0  18   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.581     19  0.00
+    3    3     0  99   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.063      2  0.00
+    4    4     0   0   0   0   0   0   0   0   0   0  86   2   0   0  11   1   0   0   0   0     0    0    0   0.520     17  0.00
+    5    5     0   0   0   0   0   0   0  99   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.064      2  0.00
+    6    6     0   0   0   0   0   0   0  90   0   0   0   0   0   0   1   5   0   3   0   0     0    0    0   0.425     14  0.00
+    7    7     0   0   0   0   0   0   0   1   0   0   0   0   0   0   1  54   6  36   1   1     0    0    0   1.043     34  0.00
+    8    8     0  94   0   0   1   0   0   0   4   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.260      8  0.00
+    9    9     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  99     0    0    0   0.049      1  0.00
+   10   10     0   0   0   0   0   0   0   0  33   0   1   4   0   0  37  15   1   7   0   1     0    0    0   1.506     50  0.00
+   11   11     0   5   0   0   1  93   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.282      9  0.00
+   12   12     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100   0   0     0    0    0   0.031      1  0.00
+   13   13     0   0   0   0   0   0   0   0   0   0   0   0   0   0   6  93   0   0   0   0     0    0    0   0.292      9  0.00
+   14   14     2   0  97   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.146      4  0.00
+   15   15     0   0   0   0   0   0   0   0   0   0   0   0   0   0  99   1   1   0   0   0     0    0    0   0.086      2  0.00
+   16   16     0 100   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.015      0  0.00
+   17   17     0   0   0   0   0   0   0   0   0   0   0   0   0   0  99   0   0   0   0   0     0    0    0   0.043      1  0.00
+   18   18     0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0     0    0    0   0.016      0  0.00
+   19   19     0   0   0   0   0   0   0  97   0   0   0   0   0   0   0   0   0   1   1   0     0    0    0   0.196      6  0.00
+   20   20     0   0   0   0   0   0   0  99   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.038      1  0.00
+   21   21     0   0   0   0   0   0   0   0   0   0   1   0   0   0  10  87   0   0   1   0     0    0    0   0.484     16  0.00
+   22   22     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  99   0   0   0   0     0    0    0   0.046      1  0.00
+   23   23     0   0   0   2   0   0   0   0   0   0   0   1   2   5  10  71   9   0   0   0     0    0    0   1.069     35  0.00
+   24   24     0   0   0   0   0   0  99   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.041      1  0.00
+   25   25     0   0   0  14   0   0   0   0   0   0   0   0   0   0  44  31  10   0   0   0     0    0    0   1.300     43  0.00
+   26   26     0  75   5  20   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.698     23  0.00
+   27   27     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  99   0   0   0   0     0    0    0   0.050      1  0.00
+   28   28     0   0   0   0   0   0   0   0   0   0   0   0   0  99   0   0   0   0   0   0     0    0    0   0.037      1  0.00
+   29   29     5  46  49   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.856     28  0.00
+   30   30    97   0   3   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.156      5  0.00
+   31   31     0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.023      0  0.00
+   32   32     0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.025      0  0.00
+   33   33     0   0   0   0   0   0   0   1   7   0  91   0   0   0   0   0   0   0   0   0     0    0    0   0.388     12  0.00
+   34   34     0   0   0   0   0   0   0   0   0   0   0   0   0   0  90   1   0   0   8   0     0    0    0   0.368     12  0.00
+   35   35     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0  99   0   0     0    0    0   0.040      1  0.00
+   36   36     0  99   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.064      2  0.00
+   37   37     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  87   0  12     0    0    0   0.428     14  0.00
+   38   38     0   0   0   0   0   0   0   0   0   0   0   0   0   0  97   3   0   0   0   0     0    0    0   0.173      5  0.00
+   39   39     0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.022      0  0.00
+   40   40     0   0   0   0   0   0   0  10  89   0   1   0   0   0   0   0   0   0   0   0     0    0    0   0.412     13  0.00
+   41   41    45  49   5   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0     0    0    0   0.918     30  0.00
+   42   42     0   0   0   0   0   0   0   0   9   0   0   0   0   1   0   0   0   0  88   2     0    0    0   0.477     15  0.00
+   43   43     0   0   0   0   0   0   0   0   0  89   1   0   0   0   0   0   0   9   0   1     0    0    0   0.431     14  0.00
+   44   44     0   0   0   0   0   0   0  80   0   0  17   0   0   0   0   1   0   0   1   1     0    0    0   0.670     22  0.00
+   45   45     0 100   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.036      1  0.00
+   46   46     0  98   1   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.109      3  0.00
+   47   47     0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0  99   0   0     0    0    0   0.094      3  0.00
+   48   48     0   0   0   0   0   0   0   0   0   0   8  88   0   0   0   0   0   0   3   0     0    0    0   0.457     15  0.00
+   49   49     0   0   0   0   0   0   0   1  30   1  53   4   0   0   0  10   0   1   0   0     0    0    0   1.210     40  0.00
+   50   50     0   0   0   0   0   0   0   4   2   0   0   0   0   0   0   1   0  87   1   5     0    0    0   0.593     19  0.00
+   51   51     0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.014      0  0.00
+   52   52     0   0   0   0   0   0   0   0   0   0   0   0  99   0   0   0   0   0   0   0     0    0    0   0.053      1  0.00
+   53   53     0   1   0   0   0   0   0   0   0   0   0   0   0   1  47  15  35   1   0   0     0    0    0   1.157     38  0.00
+   54   54     0   0   0   0   0   0   0   0   0   0   0   0   0   0   2  10  87   0   0   0     0    0    0   0.471     15  0.00
+   55   55     1   6  93   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.284      9  0.00
+   56   56     0  61  25  13   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.953     31  0.00
+   57   57     1   0   1   0   0   0   0  40   1   0   5   4   0   0   4   8   2  33   1   1     0    0    0   1.636     54  0.00
+   58   58     9   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0  89   0   0   0     0    0    0   0.408     13  0.00
+   59   59     0  97   3   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.171      5  0.00
+   60   60     0   1   0   0   0   0   0   0   5   0   0   0   0   3   0   0  86   2   0   2     0    0    0   0.688     22  0.00
+   61   61     0   0   0   0   0   0   0   0   0  79  21   0   0   0   0   0   0   0   0   0     0    0    0   0.534     17  0.00
+   62   62     0  10   0   0   0   0   0   0  37   0  34  18   0   0   0   0   0   0   1   0     0    0    0   1.353     45  0.00
+   63   63     9  85   4   1   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0     0    0    0   0.597     19  0.00
+   64   64     0   0   0   0   0   0   0   1   0  11   0   0   0   0   3  26  58   0   0   0     0    0    0   1.094     36  0.00
+   65   65     0   0   0   0   0   0   0   0   0   0   0  99   0   0   0   0   0   0   0   0     0    0    0   0.079      2  0.00
+   66   66     0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.016      0  0.00
+   67   67     0   0   0   0   0   0   0   0   0   0  83  17   0   0   0   0   0   0   0   0     0    0    0   0.460     15  0.00
+   68   68     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  99   0   0     0    0    0   0.066      2  0.00
+   69   69     0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0  87   9   2     0    0    0   0.495     16  0.00
+   70   70     1  90   7   0   2   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0     0    0    0   0.448     14  0.00
+   71   71     0   0   1   0   0   0   0   0   0   0   0   0   0   0  39  59   1   0   0   0     0    0    0   0.792     26  0.00
+   72   72     0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0     0    0    0   0.028      0  0.00
+   73   73     1  99   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.076      2  0.00
+   74   74     0   0   0   0  47   0  50   0   0   0   0   0   0   3   0   0   0   0   0   0     0    0    0   0.840     28  0.00
+   75   75     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100   0     0    0    0   0.038      1  0.00
+   76   76     0   2   0   0   0   0   0   0   3   0   0  94   0   0   0   0   0   0   0   0     0    0    0   0.275      9  0.00
+   77   77    78   2  19   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0     0    0    0   0.639     21  0.00
+   78   78     7   0   0   0   0   0   0   0  82   0   0   1  10   0   0   0   0   0   0   0     0    0    0   0.652     21  0.00
+   79   79    33   0   0   0   0   0   0   0   0   0   0  67   0   0   0   0   0   0   0   0     0    0    0   0.671     22  0.00
+   80   80     1  91   8   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.366     12  0.00
+   81   81     0   0   0   0   1  27  70   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.715     23  0.00
+   82   82     0   0   0   0   1   0   1   0   0   0   0   0  98   0   0   0   0   0   0   0     0    0    0   0.141      4  0.00
+   83   83    90   4   6   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.426     14  0.00
+   84   84     0   0   0   0   0   0   0   0   0   0   0   0   0  99   0   0   0   0   0   0     0    0    0   0.057      1  0.00
+   85   85     0   0   0   0   0   0   0   0  13   0   0   0   0   0   1   3  75   6   1   0     0    0    0   0.929     31  0.00
+   86   86     0   0   0   0   0   0   0   4   0   0   0   0   0   0  61  18   1  11   4   0     0    0    0   1.202     40  0.00
+   87   87     2   1  88   1   0   0   0   0   0   0   0   0   0   0   0   1   1   7   0   0     0    0    0   0.551     18  0.00
+   88   88     0   0   0   0   0   0   0   1   0   0   0   0   0   0   0  14   1  54   1  29     0    0    0   1.141     38  0.00
+   89   89    83   0  17   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.485     16  0.00
+   90   90     0   0   0   0   0   0   0   0   0   0   0   2   0   0  15  80   2   1   0   0     0    0    0   0.685     22  0.00
+   91   91     0   0   0   0   0   0   0   0   0   0   0   0   0   4   0   0   0   0   1  95     0    0    0   0.244      8  0.00
+   92   92     0   0   0   0   0   0   0   0   0   0   0  99   0   0   0   0   0   0   0   0     0    0    0   0.051      1  0.00
+   93   93     0   0   0   0   0   0   0   0   0   0   0   0   0   0   1  88   1  10   0   0     0    0    0   0.463     15  0.00
+   94   94     0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   1  97   0   0     0    0    0   0.172      5  0.00
+   95   95     0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.016      0  0.00
+   96   96     3  73   1   0   0   0   0   0   0   0   0   0   0   0   0  23   0   0   0   0     0    0    0   0.751     25  0.00
+   97   97     1   0   0   0   0   0   0   0   2   0   0   0   0   0   1   6  16  59   0  16     0    0    0   1.242     41  0.00
+   98   98     2   2  16   0   0   0   0   0   2   0   0   2   0   0   3  69   0   4   0   0     0    0    0   1.143     38  0.00
+   99   99    39   2  54   0   0   0   0   0   5   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.917     30  0.00
+  100  100     0   0   0   0   0   0   0   0   0   0   0   0   0   0   2   3  21  73   0   0     0    0    0   0.774     25  0.00
+  101  101     0   0   0   1   0   0   0   0   0   0   7   0   0   0  66  15   7   4   0   0     0    0    0   1.114     37  0.00
+  102  102     0   0   0   0   0   0   0   0   1   0   0   0   0  92   0   2   0   5   1   0     0    0    0   0.388     12  0.00
+  103  103     2  90   0   0   0   0   0   0   2   0   1   0   0   1   0   0   4   0   0   0     0    0    0   0.461     15  0.00
+  104  104    65   1   0   2   0   0   0   1  19   1   0   1   0   0   0   0   1   5   4   0     0    0    0   1.173     39  0.00
+  105  105    46   0   0   2   0   0   0   0  40   0   0   0   0   0   0   4   1   7   0   1     0    0    0   1.207     40  0.00
+  106  106     0   0   0   0   0   0   0   1   1   0   4   0   0   0   0   3   0  79   3   9     0    0    0   0.828     27  0.00
+  107  107     0   0   1   1   0   0   0   1   5   0   4  77   0   0   0   5   0   3   3   0     0    0    0   0.985     32  0.00
+  108  108     0   0   0   0   0   0   0  75   0   0   0   1   0   0   1  13   1   9   0   0     0    0    0   0.846     28  0.00
+  109  109     0   0   0   0   0   0   0   0   0   0   2  88   0   0   0   2   1   1   5   0     0    0    0   0.522     17  0.00
+  110  110     0   0   0   0   0   0   0   0  88   0   4   8   0   0   0   0   0   0   0   0     0    0    0   0.456     15  0.00
+  111  111     1   0   0   0   0   0   0   0   3   1   1   0   0   0   0   0   5  66   1  21     0    0    0   1.048     34  0.00
+  112  112     0   0   1   0   0   0   0   0   1   0   1  26   0   0   1  66   3   0   0   0     0    0    0   0.937     31  0.00
+  113  113     2   7   0  89   0   0   0   1   0   1   0   0   0   0   0   0   0   0   0   0     0    0    0   0.482     16  0.00
+  114  114     0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+//

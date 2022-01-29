@@ -1,0 +1,480 @@
+ID Pseudo hssp file.
+SEQ 
+SEQ gi|4507793|ref|NP_003339.1| ubiquitin-conjugating enzyme E2N (ho...   287  6e-77
+SEQ gi|12249089|dbj|BAB20414.1| (AB032739) bendless protein [Rattus ...   286  1e-76
+SEQ gi|12838544|dbj|BAB24239.1| (AK005788) putative [Mus musculus]        285  2e-76
+SEQ gi|14574408|gb|AAF59575.2| (AC024817) Hypothetical protein Y54G2...   263  1e-69
+SEQ gi|6941766|emb|CAB72341.1| (AL109622) dJ526F5.1 (novel protein s...   257  7e-68
+SEQ gi|464982|sp|P35128|UBC3_DROME UBIQUITIN-CONJUGATING ENZYME E2-1...   246  1e-64
+SEQ gi|9802775|gb|AAF99844.1|AC051629_11 (AC051629) Putative ubiquit...   239  1e-62
+SEQ gi|7298165|gb|AAF53401.1| (AE003644) BG:DS01486.1 gene product [...   233  1e-60
+SEQ gi|5381319|gb|AAD42941.1|AF091621_1 (AF091621) ubiquitin-conjuga...   231  4e-60
+SEQ gi|7287841|gb|AAF44879.1|AE003406_84 (AE003416) hypothetical pro...   222  2e-57
+SEQ gi|3834310|gb|AAC83026.1| (AC005679) Similar to Ubiquitin-conjug...   221  3e-57
+SEQ gi|6320297|ref|NP_010377.1| ubiquitin-conjugating enzyme; Ubc13p...   209  1e-53
+SEQ gi|6996506|emb|CAB75567.1| (AL139794) ubiquitin-conjugating enzy...   199  2e-50
+SEQ gi|7493571|pir||T37532 ubiquitin-conjugating enzyme - fission ye...   197  7e-50
+SEQ gi|13651069|ref|XP_015857.1| similar to ubiquitin-conjugating en...   171  5e-42
+SEQ gi|6651339|gb|AAF22280.1|AF165420_1 (AF165420) ubiquitin-conjuga...   148  3e-35
+SEQ gi|11762186|gb|AAG40371.1|AF325019_1 (AF325019) AT4g27960 [Arabi...   141  7e-33
+SEQ gi|14326529|gb|AAK60309.1|AF385718_1 (AF385718) At1g64230/F22C12...   140  8e-33
+SEQ gi|4100646|gb|AAD00911.1| (AF001948) putative ubiquitin conjugat...   140  9e-33
+SEQ gi|9989034|gb|AAG10797.1|AC022284_2 (AC022284) Ubiquitin-conjuga...   140  1e-32
+SEQ gi|13811942|ref|NP_113070.1| ubiquitin conjugating enzyme [Guill...   140  1e-32
+SEQ gi|464981|sp|P35135|UBC4_LYCES UBIQUITIN-CONJUGATING ENZYME E2-1...   139  2e-32
+SEQ gi|5762457|gb|AAD51109.1|AF176040_1 (AF176040) ubiquitin-conjuga...   138  3e-32
+SEQ gi|464986|sp|P35132|UBC9_ARATH UBIQUITIN-CONJUGATING ENZYME E2-1...   138  4e-32
+SEQ gi|12643427|sp|P35134|UBCB_ARATH UBIQUITIN-CONJUGATING ENZYME E2...   138  5e-32
+SEQ gi|456568|gb|AAA64427.1| (L29077) ubiquitin conjugating enzyme [...   138  5e-32
+SEQ gi|13386314|ref|NP_082778.1| RIKEN cDNA 1700013N18 gene [Mus mus...   138  6e-32
+SEQ gi|6320264|ref|NP_010344.1| ubiquitin-conjugating enzyme; Ubc5p ...   137  7e-32
+SEQ gi|3323498|gb|AAC39499.1| (AF030296) ubiquitin conjugating enzym...   137  7e-32
+SEQ gi|441457|emb|CAA51821.1| (X73419) ubiquitin conjugating enzyme ...   137  8e-32
+SEQ gi|136643|sp|P25867|UBC1_DROME UBIQUITIN-CONJUGATING ENZYME E2-1...   136  1e-31
+SEQ gi|2668744|gb|AAB88617.1| (AF034946) ubiquitin conjugating enzym...   136  1e-31
+SEQ gi|4581117|gb|AAD24607.1|AC005825_14 (AC005825) putative ubiquit...   136  1e-31
+SEQ gi|464985|sp|P35131|UBC8_ARATH UBIQUITIN-CONJUGATING ENZYME E2-1...   136  1e-31
+SEQ gi|464987|sp|P35133|UBCA_ARATH UBIQUITIN-CONJUGATING ENZYME E2-1...   136  1e-31
+SEQ gi|1174849|sp|P46595|UBC4_SCHPO UBIQUITIN-CONJUGATING ENZYME E2-...   136  2e-31
+SEQ gi|6692118|gb|AAF24583.1|AC007764_25 (AC007764) F22C12.2 [Arabid...   135  3e-31
+SEQ gi|9758635|dbj|BAB09297.1| (AB011476) ubiquitin-conjugating enzy...   134  6e-31
+SEQ gi|5917672|gb|AAD55983.1|AF161722_1 (AF161722) ubiquitin-conjuga...   134  6e-31
+SEQ gi|4507775|ref|NP_003330.1| ubiquitin-conjugating enzyme E2D 2 (...   134  7e-31
+SEQ gi|477134|pir||A48145 ubiquitin-conjugating enzyme ubc-2 - Caeno...   133  1e-30
+SEQ gi|6319556|ref|NP_009638.1| ubiquitin-conjugating enzyme; Ubc4p ...   133  1e-30
+SEQ gi|2136339|pir||I59365 ubiquitin conjugating enzyme - human >gi|...   133  2e-30
+SEQ gi|12833659|dbj|BAB22614.1| (AK003163) putative [Mus musculus]        133  2e-30
+SEQ gi|4507777|ref|NP_003331.1| ubiquitin-conjugating enzyme E2D 3 (...   132  2e-30
+SEQ gi|8393719|ref|NP_057067.1| ubiquitin-conjugating enzyme HBUCE1 ...   132  2e-30
+SEQ gi|464979|sp|P35129|UBC2_CAEEL UBIQUITIN-CONJUGATING ENZYME E2-1...   132  3e-30
+SEQ gi|2130087|pir||S61417 ubiquitin--protein ligase (EC 6.3.2.19) -...   131  6e-30
+SEQ gi|4507773|ref|NP_003329.1| ubiquitin-conjugating enzyme E2D 1 (...   130  7e-30
+SEQ gi|7661808|ref|NP_054895.1| HSPC150 protein similar to ubiquitin...   130  1e-29
+SEQ gi|1174848|sp|P43102|UBC4_CANAL UBIQUITIN-CONJUGATING ENZYME E2-...   129  2e-29
+SEQ gi|2130088|pir||S72311 ubiquitin conjugating enzyme - rice >gi|1...   128  4e-29
+SEQ gi|12843975|dbj|BAB26188.1| (AK009276) putative [Mus musculus]        127  5e-29
+SEQ gi|421856|pir||S32673 ubiquitin--protein ligase (EC 6.3.2.19) UB...   127  6e-29
+SEQ gi|7292764|gb|AAF48159.1| (AE003489) CG2574 gene product [Drosop...   127  6e-29
+SEQ gi|9758234|dbj|BAB08733.1| (AB017063) ubiquitin-conjugating enzy...   126  1e-28
+SEQ gi|4507779|ref|NP_003332.1| ubiquitin-conjugating enzyme E2E 1 (...   126  2e-28
+SEQ gi|6678479|ref|NP_033481.1| ubiquitin-conjugating enzyme 5 [Mus ...   126  2e-28
+SEQ gi|12845039|dbj|BAB26595.1| (AK009936) putative [Mus musculus]        126  2e-28
+SEQ gi|13385530|ref|NP_080300.1| RIKEN cDNA 2700084L22 gene [Mus mus...   126  2e-28
+SEQ gi|5454146|ref|NP_006348.1| ubiquitin-conjugating enzyme E2E 3 (...   125  3e-28
+SEQ gi|12322741|gb|AAG51365.1|AC012562_26 (AC012562) putative ubiqui...   125  3e-28
+SEQ gi|1717850|sp|P52483|UB6B_MOUSE UBIQUITIN-CONJUGATING ENZYME E2-...   124  6e-28
+SEQ gi|7296089|gb|AAF51384.1| (AE003586) CG5440 gene product [Drosop...   124  7e-28
+SEQ gi|14286180|sp|P25153|UBC6_DROME UBIQUITIN-CONJUGATING ENZYME E2...   123  1e-27
+SEQ gi|103350|pir||A39392 RAD6 DNA-repair homolog Dhr6 - fruit fly (...   122  2e-27
+SEQ gi|1362103|pir||S57619 ubiquitin conjugating enzyme - tomato >gi...   121  4e-27
+SEQ gi|9790041|ref|NP_062642.1| ubiquitin-conjugating enzyme E2A (RA...   120  1e-26
+SEQ gi|1717854|sp|P52485|UBC2_DROME UBIQUITIN-CONJUGATING ENZYME E2-...   120  1e-26
+SEQ gi|6320382|ref|NP_010462.1| ubiquitin-conjugating enzyme; Ubc1p ...   120  1e-26
+SEQ gi|13653883|ref|XP_016235.1| similar to ubiquitin-conjugating en...   120  1e-26
+SEQ gi|4507771|ref|NP_003328.1| ubiquitin-conjugating enzyme E2B (RA...   119  2e-26
+SEQ gi|4868141|gb|AAD31181.1|AF125045_1 (AF125045) ubiquitin-conjuga...   119  2e-26
+SEQ gi|10727275|gb|AAF47786.2| (AE003478) CG10862 gene product [Dros...   118  3e-26
+SEQ gi|4507769|ref|NP_003327.1| ubiquitin-conjugating enzyme E2A (RA...   118  5e-26
+SEQ gi|1717853|sp|P52478|UBC1_CAEEL UBIQUITIN-CONJUGATING ENZYME E2-...   117  6e-26
+SEQ gi|12847438|dbj|BAB27570.1| (AK011363) putative [Mus musculus]        117  9e-26
+SEQ gi|7108761|gb|AAF36528.1|AF132073_1 (AF132073) RAD6 homolog [Sus...   116  2e-25
+SEQ gi|8118527|gb|AAF73016.1|AF262934_1 (AF262934) ubiquitin conjuga...   116  2e-25
+SEQ gi|136640|sp|P25866|UBC2_WHEAT UBIQUITIN-CONJUGATING ENZYME E2-1...   116  2e-25
+SEQ gi|464980|sp|P35130|UBC2_MEDSA UBIQUITIN-CONJUGATING ENZYME E2-1...   116  2e-25
+SEQ gi|4097684|gb|AAD00154.1| (U66493) ubiquitin conjugating enzyme ...   116  2e-25
+SEQ gi|106346|pir||S17516 hypothetical protein - human                    116  2e-25
+SEQ gi|9293960|dbj|BAB01863.1| (AP000383) ubiquitin conjugating prot...   115  3e-25
+SEQ gi|1174846|sp|P42746|UBC3_ARATH UBIQUITIN-CONJUGATING ENZYME E2-...   115  3e-25
+SEQ gi|7488595|pir||T14451 ubiquitin conjugating enzyme, E2 - wild c...   115  3e-25
+SEQ gi|13516453|dbj|BAB40311.1| (AB026056) ubiquitin-conjugating enz...   115  3e-25
+SEQ gi|7108763|gb|AAF36529.1|AF132074_1 (AF132074) RAD6 homolog [Equ...   115  3e-25
+SEQ gi|3915190|sp|P56617|UBCC_ARATH UBIQUITIN-CONJUGATING ENZYME E2-...   115  4e-25
+SEQ gi|13516451|dbj|BAB40310.1| (AB026055) ubiquitin-conjugating enz...   114  4e-25
+SEQ gi|7108765|gb|AAF36530.1|AF132075_1 (AF132075) RAD6 homolog [Bos...   114  5e-25
+SEQ gi|136636|sp|P25865|UBC1_ARATH UBIQUITIN-CONJUGATING ENZYME E2-1...   114  6e-25
+SEQ gi|6723905|emb|CAA21178.2| (AL031788) ubiquitin-conjugating enzy...   114  7e-25
+SEQ gi|1174844|sp|P42745|UBC2_ARATH UBIQUITIN-CONJUGATING ENZYME E2-...   114  8e-25
+SEQ gi|7497060|pir||T32959 hypothetical protein C35B1.1 - Caenorhabd...   113  1e-24
+SEQ gi|6815106|dbj|BAA90392.1| (AP001081) EST AU029921(E50230) corre...   113  1e-24
+SEQ gi|7294569|gb|AAF49909.1| (AE003541) CG10682 gene product [Droso...   112  2e-24
+SEQ gi|13650865|ref|XP_017700.1| 12829 [Homo sapiens]                     112  3e-24
+SEQ gi|89812|pir||A40797 ubiquitin-conjugating enzyme - bovine >gi|2...   111  4e-24
+SEQ gi|4885417|ref|NP_005330.1| huntingtin interacting protein 2; ub...   111  4e-24
+SEQ gi|7503107|pir||T33629 hypothetical protein F40G9.3 - Caenorhabd...   111  6e-24
+SEQ gi|1816660|gb|AAB47850.1| (U86521) NhRAD6 [Nectria haematococca]      111  6e-24
+SEQ gi|7949049|ref|NP_058066.1| huntingtin interacting protein 2 [Mu...   111  7e-24
+SEQ gi|1717855|sp|P52493|UBC2_NEUCR UBIQUITIN-CONJUGATING ENZYME E2-...   111  7e-24
+SEQ gi|1174845|sp|P23566|UBC2_SCHPO UBIQUITIN-CONJUGATING ENZYME E2-...   111  8e-24
+SEQ gi|6136093|sp|O74201|UBC2_CANAL UBIQUITIN-CONJUGATING ENZYME E2-...   110  9e-24
+SEQ gi|11272418|pir||T45220 ubiquitin--protein ligase (EC 6.3.2.19) ...   109  1e-23
+SEQ gi|6321380|ref|NP_011457.1| Ubiquitin conjugating (E2) enzyme. T...   109  2e-23
+SEQ gi|3659954|pdb|1AYZ|A Chain A, Crystal Structure Of The Saccharo...   109  2e-23
+SEQ gi|6097072|dbj|BAA85660.1| (AB022024) cyclin-selective ubiquitin...   109  2e-23
+SEQ gi|11359599|pir||T48741 probable ubiquitin--protein ligase [impo...   109  3e-23
+SEQ gi|7493573|pir||T40123 ubiquitin-conjugating enzyme - fission ye...   108  3e-23
+SEQ gi|2501435|sp|O00103|UBCD_SCHPO UBIQUITIN-CONJUGATING ENZYME E2-...   108  3e-23
+SEQ gi|1717861|sp|P52484|UBC8_CAEEL PROBABLE UBIQUITIN-CONJUGATING E...   108  4e-23
+SEQ gi|6324915|ref|NP_014984.1| homolog of ubiquitin carrier protein...   108  4e-23
+SEQ gi|1553009|gb|AAB08700.1| (U67838) UbcB [Dictyostelium discoideum]    108  5e-23
+SEQ gi|7494269|pir||T18512 hypothetical protein C0855w - malaria par...   108  5e-23
+SEQ gi|7768300|emb|CAB11153.2| (Z98551) putative ubiquitin-conjugati...   108  5e-23
+SEQ gi|7493574|pir||T37559 ubiquitin-conjugating enzyme e2-16 kd - f...   107  6e-23
+SEQ gi|9454557|gb|AAF87880.1|AC012561_13 (AC012561) Putative ubiquit...   107  7e-23
+SEQ gi|12322332|gb|AAG51188.1|AC079279_9 (AC079279) cyclin-specific ...   107  7e-23
+SEQ gi|12834563|dbj|BAB22959.1| (AK003722) putative [Mus musculus]        107  1e-22
+SEQ gi|13651830|ref|XP_017825.1| similar to ubiquitin carrier protei...   106  1e-22
+SEQ gi|4388942|pdb|2E2C|    E2-C, An Ubiquitin Conjugating Enzyme Re...   106  1e-22
+SEQ gi|3915196|sp|Q95044|UBCB_SPISO UBIQUITIN-CONJUGATING ENZYME E2-...   106  2e-22
+SEQ gi|7657046|ref|NP_055316.1| ubiquitin carrier protein; ubiquitin...   106  2e-22
+SEQ gi|345829|pir||B42856 ubiquitin carrier protein E2 - human            106  2e-22
+SEQ gi|13278978|gb|AAH04236.1|AAH04236 (BC004236) ubiquitin carrier ...   106  2e-22
+SEQ gi|12324481|gb|AAG52201.1|AC021199_7 (AC021199) putative ubiquit...   106  2e-22
+SEQ gi|9294044|dbj|BAB02001.1| (AB020746) contains similarity to ubi...   106  2e-22
+SEQ gi|5902146|ref|NP_008950.1| ubiquitin carrier protein E2-C [Homo...   105  3e-22
+SEQ gi|1850816|emb|CAA72184.1| (Y11349) ubiquitin conjugating enzyme...   105  4e-22
+SEQ gi|9280307|dbj|BAB01762.1| (AP000603) gene_id:MRP15.21~ref|NP_00...   104  6e-22
+SEQ gi|7437982|pir||T08465 ubiquitin--protein ligase (EC 6.3.2.19) -...   103  1e-21
+SEQ gi|12837843|dbj|BAB23970.1| (AK005355) putative [Mus musculus]        102  2e-21
+SEQ gi|1717856|sp|P52486|UBC4_DROME UBIQUITIN-CONJUGATING ENZYME E2-...   102  2e-21
+SEQ gi|13559987|emb|CAC36108.1| (AL050348) dJ447F3.2.4 (ubiquitin-co...   102  2e-21
+SEQ gi|13786748|pdb|1I7K|A Chain A, Crystal Structure Of Human Mitot...   102  3e-21
+SEQ gi|3915189|sp|P56616|UBCB_XENLA UBIQUITIN-CONJUGATING ENZYME X (...   100  1e-20
+SEQ gi|5052496|gb|AAD38578.1|AF145603_1 (AF145603) BcDNA.GH02435 [Dr...    98  8e-20
+SEQ gi|9628248|ref|NP_042834.1| ubiquitin-conjugating enzyme [Africa...    97  1e-19
+SEQ gi|7293378|gb|AAF48756.1| (AE003506) CG8188 gene product [Drosop...    97  2e-19
+SEQ gi|6010087|emb|CAB57250.1| (AJ270223) putative ubiquitin carrier...    96  3e-19
+SEQ gi|13489085|ref|NP_003333.1| ubiquitin-conjugating enzyme E2G 1 ...    94  8e-19
+SEQ gi|12311787|emb|CAC24487.1| (AJ298327) putative ubiquitin-conjug...    94  1e-18
+SEQ gi|6425521|emb|CAB60431.1| (AL110500) contains similarity to Pfa...    94  1e-18
+SEQ gi|7299803|gb|AAF54982.1| (AE003701) CG9602 gene product [Drosop...    94  1e-18
+SEQ gi|136651|sp|P25869|UBC_ASFM2 UBIQUITIN-CONJUGATING ENZYME E2-21...    93  3e-18
+SEQ gi|6651017|gb|AAF22130.1|AF126815_1 (AF126815) ubiquitin conjuga...    92  4e-18
+SEQ gi|7799043|emb|CAB90824.1| (AJ277746) ubiquitin conjugating enzy...    92  4e-18
+SEQ gi|2612962|gb|AAB84397.1| (AF026506) ubiquitin-conjugating enzym...    91  6e-18
+SEQ gi|4507789|ref|NP_003338.1| ubiquitin-conjugating enzyme E2L 3 [...    91  7e-18
+SEQ gi|8778382|gb|AAF79390.1|AC007887_49 (AC007887) F15O4.3 [Arabido...    91  9e-18
+SEQ gi|7293244|gb|AAF48626.1| (AE003502) Ubc7 gene product [Drosophi...    91  1e-17
+SEQ gi|12718396|emb|CAC28704.1| (AL513444) probable ubiquitin-conjug...    91  1e-17
+SEQ gi|1510110|dbj|BAA09092.1| (D50499) ubiquitin-conjugating enzyme...    91  1e-17
+SEQ gi|10444495|gb|AAG17922.1|AF300336_1 (AF300336) ubiquitin-conjug...    90  2e-17
+SEQ gi|10178047|dbj|BAB11530.1| (AB005245) contains similarity to ub...    90  2e-17
+SEQ gi|7506161|pir||T16646 hypothetical protein R01H2.6 - Caenorhabd...    88  4e-17
+SEQ gi|11024468|emb|CAB91184.2| (AL355921) putative ubiquitin conjug...    88  6e-17
+SEQ gi|1174847|sp|P42748|UBC4_ARATH UBIQUITIN-CONJUGATING ENZYME E2-...    88  7e-17
+SEQ gi|1076427|pir||S43784 ubiquitin--protein ligase (EC 6.3.2.19) -...    88  7e-17
+SEQ gi|9758043|dbj|BAB08506.1| (AB006707) ubiquitin-conjugating enzy...    88  7e-17
+SEQ gi|12742652|ref|XP_009804.2| ubiquitin-conjugating enzyme E2G 2 ...    88  7e-17
+SEQ gi|1174850|sp|P42749|UBC5_ARATH UBIQUITIN-CONJUGATING ENZYME E2-...    88  8e-17
+SEQ gi|12325002|gb|AAG52444.1|AC010852_1 (AC010852) putative ubiquit...    88  8e-17
+SEQ gi|7437984|pir||T03778 probable ubiquitin-conjugating enzyme - r...    88  8e-17
+SEQ gi|629564|pir||S43786 ubiquitin--protein ligase (EC 6.3.2.19) - ...    88  9e-17
+SEQ gi|6323664|ref|NP_013735.1| ubiquitin conjugating enzyme; Qri8p ...    87  1e-16
+SEQ gi|1174852|sp|P42747|UBC7_ARATH UBIQUITIN-CONJUGATING ENZYME E2-...    87  1e-16
+SEQ gi|7298802|gb|AAF54011.1| (AE003671) Ubc84D gene product [Drosop...    86  2e-16
+SEQ gi|7290876|gb|AAF46318.1| (AE003442) CG2257 gene product [alt 1]...    86  2e-16
+SEQ gi|464984|sp|P34477|UBC7_CAEEL PROBABLE UBIQUITIN-CONJUGATING EN...    86  2e-16
+SEQ gi|6066285|gb|AAF03236.1|AF180143_1 (AF180143) ubiquitin carrier...    86  2e-16
+SEQ gi|7294260|gb|AAF49611.1| (AE003530) CG7656 gene product [Drosop...    86  2e-16
+SEQ gi|7437988|pir||T02943 ubiquitin-conjugating enzyme - maize >gi|...    85  4e-16
+SEQ gi|2501434|sp|O00102|UBC7_SCHPO UBIQUITIN-CONJUGATING ENZYME E2-...    85  5e-16
+SEQ gi|10185167|emb|CAC08543.1| (AL441603) ubiquitin-conjugating enz...    85  5e-16
+SEQ gi|6579192|ref|NP_010904.2| ubiquitin-conjugating enzyme; ubiqui...    84  6e-16
+SEQ gi|602379|gb|AAB64489.1| (U18530) Ubiquitin-conjugating enzyme [...    84  6e-16
+SEQ gi|2507505|sp|P49427|UBC3_HUMAN UBIQUITIN-CONJUGATING ENZYME E2-...    84  6e-16
+SEQ gi|4507781|ref|NP_003334.1| ubiquitin-conjugating enzyme E2G 2 (...    84  7e-16
+SEQ gi|11526508|ref|XP_005546.1| hypothetical protein FLJ20419 [Homo...    84  8e-16
+SEQ gi|11272414|pir||T45703 ubiquitin--protein ligase (EC 6.3.2.19) ...    84  8e-16
+SEQ gi|2129758|pir||S71209 ubiquitin--protein ligase (EC 6.3.2.19) U...    84  9e-16
+SEQ gi|7446211|pir||T13578 ubiquitin-conjugating enzyme (EC 6.3.2.-)...    84  1e-15
+SEQ gi|1381181|gb|AAB02656.1| (U58652) ubiquitin-conjugating enzyme ...    84  1e-15
+SEQ gi|1076429|pir||S52661 ubiquitin--protein ligase (EC 6.3.2.19) -...    84  1e-15
+SEQ gi|1076428|pir||S43785 ubiquitin--protein ligase (EC 6.3.2.19) -...    84  1e-15
+SEQ gi|1174851|sp|P42750|UBC6_ARATH UBIQUITIN-CONJUGATING ENZYME E2-...    84  1e-15
+SEQ gi|3347990|gb|AAC27763.1| (AF076597) ubiquitin-conjugating enzym...    84  1e-15
+SEQ gi|2136341|pir||A49630 ubiquitin conjugating enzyme - human (fra...    84  1e-15
+SEQ gi|1717859|sp|P52487|UBC7_DROME UBIQUITIN-CONJUGATING ENZYME E2-...    83  1e-15
+SEQ gi|7295143|gb|AAF50468.1| (AE003556) CG7375 gene product [Drosop...    83  1e-15
+SEQ gi|4507783|ref|NP_003335.1| ubiquitin-conjugating enzyme E2H (ho...    83  2e-15
+SEQ gi|8923388|ref|NP_060281.1| hypothetical protein FLJ20419 [Homo ...    83  2e-15
+SEQ gi|13812330|ref|NP_113448.1| ubiquitin-conjugating enzyme E2-21 ...    83  3e-15
+SEQ gi|7437989|pir||T01329 ubiquitin-conjugating enzyme E2 - maize >...    83  3e-15
+SEQ gi|7493562|pir||T11716 ubiquitin conjugating enzyme - fission ye...    82  3e-15
+SEQ gi|3915186|sp|O60015|UBCX_PICAN UBIQUITIN-CONJUGATING ENZYME E2-...    81  6e-15
+SEQ gi|9790275|ref|NP_062777.1| ubiquitin-conjugating enzyme E2G 2; ...    81  7e-15
+SEQ gi|6635457|gb|AAF19827.1|AF202771_1 (AF202771) RUB1 conjugating ...    81  8e-15
+SEQ gi|7299561|gb|AAF54747.1| (AE003694) CG14739 gene product [Droso...    81  1e-14
+SEQ gi|11272330|pir||T50342 ubiquitin conjugating enzyme [imported] ...    81  1e-14
+SEQ gi|10946511|gb|AAG23847.1| (AY004247) RUB1 conjugating enzyme [L...    81  1e-14
+SEQ gi|6323337|ref|NP_013409.1| Ubiquitin-conjugating enzyme; Ubc12p...    80  1e-14
+SEQ gi|7493141|pir||T39286 probable ubiquitin--protein ligase (EC 6....    80  1e-14
+SEQ gi|3212324|pdb|1A3S|    Human Ubc9                                     79  2e-14
+SEQ gi|2194010|pdb|1U9A|A Chain A, Human Ubiquitin-Conjugating Enzym...    79  2e-14
+SEQ gi|4507785|ref|NP_003336.1| ubiquitin-conjugating enzyme E2I (ho...    79  2e-14
+SEQ gi|136644|sp|P16577|UBC4_WHEAT UBIQUITIN-CONJUGATING ENZYME E2-2...    79  3e-14
+SEQ gi|731040|sp|P40984|UBC3_SCHPO UBIQUITIN-CONJUGATING ENZYME E2-1...    79  3e-14
+SEQ gi|4759282|ref|NP_004214.1| ubiquitin-conjugating enzyme E2L 6 [...    79  4e-14
+SEQ gi|8134778|sp|O14933|UBC8_HUMAN UBIQUITIN-CONJUGATING ENZYME E2-...    79  4e-14
+SEQ gi|4732095|gb|AAD28601.1|AF128240_1 (AF128240) ubiquitin-conjuga...    78  5e-14
+SEQ gi|12061049|gb|AAG48365.1|AF332623_1 (AF332623) ubiquitin-conjug...    78  5e-14
+SEQ gi|1785956|gb|AAB41136.1| (U38786) E2 ubiquitin-conjugating enzy...    78  6e-14
+SEQ gi|136647|sp|P25868|UBC7_WHEAT UBIQUITIN-CONJUGATING ENZYME E2-2...    78  7e-14
+SEQ gi|4507791|ref|NP_003960.1| ubiquitin-conjugating enzyme E2M (ho...    78  8e-14
+SEQ gi|2136344|pir||S71113 ubiquitin-conjugating enzyme 9 - human >g...    78  8e-14
+SEQ gi|7437986|pir||JC5970 nuclear ubiquitin-conjugating enzyme - fr...    77  1e-13
+SEQ gi|6320259|ref|NP_010339.1| ubiquitin-conjugating enzyme, E2; Cd...    77  1e-13
+SEQ gi|12653903|gb|AAH00744.1|AAH00744 (BC000744) Similar to ubiquit...    77  1e-13
+SEQ gi|11272416|pir||T46009 E2 ubiquitin-conjugating-like enzyme Ahu...    77  1e-13
+SEQ gi|431270|gb|AAA32902.1| (L19356) ubiquitin conjugating enzyme [...    76  2e-13
+SEQ gi|12324943|gb|AAG52422.1|AC011622_10 (AC011622) putative ubiqui...    76  3e-13
+SEQ gi|12751495|ref|NP_075567.1| hypothetical protein FLJ13855 [Homo...    76  3e-13
+SEQ gi|13385488|ref|NP_080261.1| RIKEN cDNA 2700059C12 gene [Mus mus...    76  3e-13
+SEQ gi|7488410|pir||T00789 ubiquitin--protein ligase homolog F24L7.7...    75  4e-13
+SEQ gi|4217999|gb|AAD12207.1| (AC006135) putative ubiquitin-conjugat...    75  5e-13
+SEQ gi|11272348|pir||T50603 ubiquitin-conjugating enzyme [imported] ...    75  5e-13
+SEQ gi|4996610|dbj|BAA78556.1| (AB022436) E2 ubiquitin-conjugating e...    75  5e-13
+SEQ gi|7621708|gb|AAF65153.1|AF246690_1 (AF246690) putative E2 enzym...    74  9e-13
+SEQ gi|2815252|emb|CAA50503.1| (X71381) ubiquitin carrier protein [A...    74  1e-12
+SEQ gi|4006890|emb|CAB16820.1| (Z99708) ubiquitin--protein ligase-li...    74  1e-12
+SEQ gi|431268|gb|AAA32901.1| (L19355) ubiquitin conjugating enzyme [...    73  3e-12
+SEQ gi|2501430|sp|O09181|UBCI_MESAU UBIQUITIN-LIKE PROTEIN SUMO-1 CO...    72  3e-12
+SEQ gi|7496650|pir||T15691 hypothetical protein C28G1.1 - Caenorhabd...    72  4e-12
+SEQ gi|6320139|ref|NP_010219.1| ubiquitin-conjugating enzyme; Ubc9p ...    72  5e-12
+SEQ gi|7303709|gb|AAF58759.1| (AE003828) CG7220 gene product [Drosop...    71  1e-11
+SEQ gi|13630264|ref|XP_012781.2| similar to ubiquitin carrier protei...    70  1e-11
+SEQ gi|14198349|gb|AAH08238.1|AAH08238 (BC008238) RIKEN cDNA 2810489...    70  1e-11
+SEQ gi|3043432|emb|CAA06493.1| (AJ005348) Ubiquitin conjugating enzy...    70  1e-11
+SEQ gi|7500139|pir||T29929 hypothetical protein F29B9.6 - Caenorhabd...    70  1e-11
+SEQ gi|12846730|dbj|BAB27282.1| (AK010942) putative [Mus musculus] >...    69  2e-11
+SEQ gi|10436002|dbj|BAB14724.1| (AK023917) unnamed protein product [...    69  3e-11
+SEQ gi|6320947|ref|NP_011026.1| ubiquitin-conjugating enzyme; Ubc6p ...    68  5e-11
+SEQ gi|9910602|ref|NP_064333.1| E2 ubiquitin conjugating enzyme [Mus...    68  6e-11
+SEQ gi|13653861|ref|XP_012615.3| ubiquitin carrier protein [Homo sap...    68  6e-11
+SEQ gi|12845644|dbj|BAB26835.1| (AK010302) putative [Mus musculus]         68  7e-11
+SEQ gi|6321572|ref|NP_011649.1| Member of ubiquitin-conjugating prot...    68  9e-11
+SEQ gi|12841813|dbj|BAB25362.1| (AK007937) putative [Mus musculus]         67  1e-10
+SEQ gi|12841846|dbj|BAB25372.1| (AK007960) putative [Mus musculus]         67  1e-10
+SEQ gi|13385948|ref|NP_080730.1| RIKEN cDNA 2510010F15 gene [Mus mus...    67  1e-10
+SEQ gi|7292552|gb|AAF47953.1| (AE003483) CG17030 gene product [Droso...    66  2e-10
+SEQ gi|12838139|dbj|BAB24097.1| (AK005524) putative [Mus musculus]         66  3e-10
+SEQ gi|7510556|pir||T27470 hypothetical protein Y87G2A.r - Caenorhab...    66  3e-10
+SEQ gi|10946752|ref|NP_067377.1| Ubc6p homolog [Mus musculus] >gi|66...    64  8e-10
+SEQ gi|12835927|dbj|BAB23421.1| (AK004626) putative [Mus musculus]         64  8e-10
+SEQ gi|14029263|gb|AAK52607.1|AF296656_1 (AF296656) ubiquitin conjug...    64  8e-10
+SEQ gi|14029267|gb|AAK52609.1|AF296658_1 (AF296658) ubiquitin conjug...    64  8e-10
+SEQ gi|2501436|sp|Q11076|YWV2_CAEEL HYPOTHETICAL 48.1 KDA PROTEIN B0...    64  8e-10
+SEQ gi|7493140|pir||T37499 probable ubiquitin--protein ligase (EC 6....    64  1e-09
+SEQ gi|12656804|gb|AAK00965.1|AC079736_5 (AC079736) putative ubiquit...    64  1e-09
+SEQ gi|6841528|gb|AAF29117.1|AF161502_1 (AF161502) HSPC153 [Homo sap...    63  2e-09
+SEQ gi|7362973|emb|CAB83212.1| (AJ245898) Non-Canonical UBiquitin Co...    63  2e-09
+SEQ gi|9453733|emb|CAB99360.1| (AL138717) bA11D8.1 (yeast ubiquitin ...    63  2e-09
+SEQ gi|12833464|dbj|BAB22532.1| (AK003050) putative [Mus musculus]         63  2e-09
+SEQ gi|9625021|ref|NP_062532.1| non-canonical ubiquitin conjugating ...    63  2e-09
+SEQ gi|12853653|dbj|BAB29807.1| (AK015348) putative [Mus musculus]         62  5e-09
+SEQ gi|11359328|pir||T43159 ubiquitin--protein ligase homolog - fiss...    62  5e-09
+SEQ gi|7362937|emb|CAB83196.1| (AJ245897) Non-Canonical UBiquitin Co...    62  5e-09
+SEQ gi|13812002|ref|NP_113132.1| ubiquitin-conjugating enzyme E2-17 ...    62  5e-09
+SEQ gi|10436321|dbj|BAB14800.1| (AK024050) unnamed protein product [...    61  6e-09
+SEQ gi|10726583|gb|AAF55427.2| (AE003718) CG5823 gene product [Droso...    61  6e-09
+SEQ gi|11907996|gb|AAG41428.1| (AF316536) ubiquitin-conjugating enzy...    61  6e-09
+SEQ gi|7331723|gb|AAF60411.1| (AC024748) contains similarity to Pfam...    61  8e-09
+SEQ gi|8922822|ref|NP_060769.1| hypothetical protein FLJ11011 [Homo ...    61  1e-08
+SEQ gi|2801444|gb|AAC39325.1| (AF028339) ubiquitin-conjugating enzym...    61  1e-08
+SEQ gi|10432979|dbj|BAB13883.1| (AK021735) unnamed protein product [...    60  1e-08
+SEQ gi|10120441|gb|AAG13066.1|AC023754_4 (AC023754) Putative ubiquit...    59  2e-08
+SEQ gi|13638424|ref|XP_018428.1| similar to ubiquitin-conjugating en...    59  3e-08
+SEQ gi|7706312|ref|NP_057105.1| CGI-76 protein [Homo sapiens] >gi|49...    59  4e-08
+SEQ gi|1174853|sp|P42743|UBCY_ARATH UBIQUITIN-CONJUGATING ENZYME E2-...    59  4e-08
+SEQ gi|2801442|gb|AAC39324.1| (AF028338) ubiquitin-conjugating enzym...    59  4e-08
+SEQ gi|12839353|dbj|BAB24523.1| (AK006316) putative [Mus musculus]         58  8e-08
+SEQ gi|1351347|sp|P49428|UBCX_PICPA UBIQUITIN-CONJUGATING ENZYME E2-...    58  9e-08
+SEQ gi|2982311|gb|AAC32141.1| (AF051240) probable ubiquitin-conjugat...    58  9e-08
+SEQ gi|2464941|emb|CAB16814.1| (Z99708) ubiquitin-conjugating enzyme...    57  1e-07
+SEQ gi|7506502|pir||T24069 hypothetical protein R09B3.4 - Caenorhabd...    57  2e-07
+SEQ gi|10048468|ref|NP_031592.1| baculovirus inhibitor of apoptosis ...    57  2e-07
+SEQ gi|6331420|dbj|BAA86603.1| (AB033115) KIAA1289 protein [Homo sap...    57  2e-07
+SEQ gi|10442822|ref|NP_057336.1| baculoviral IAP repeat-containing 6...    57  2e-07
+SEQ gi|10435909|dbj|BAB14700.1| (AK023848) unnamed protein product [...    57  2e-07
+SEQ gi|13637211|ref|XP_002468.3| baculoviral IAP repeat-containing 6...    57  2e-07
+SEQ gi|4090259|emb|CAA10494.1| (AJ131733) ubiquitin-conjugating enzy...    57  2e-07
+SEQ gi|9758588|dbj|BAB09201.1| (AB008264) ubiquitin-conjugating enzy...    56  2e-07
+SEQ gi|7670024|dbj|BAA94978.1| (AB026636) contains similarity to sim...    56  3e-07
+SEQ gi|7705543|ref|NP_057420.1| Ubc6p homolog [Homo sapiens] >gi|664...    56  4e-07
+SEQ gi|7510196|pir||T27167 hypothetical protein Y54E5B.4 - Caenorhab...    55  4e-07
+SEQ gi|7332204|gb|AAF60891.1| (AC024876) Hypothetical protein Y94H6A...    54  8e-07
+SEQ gi|13642455|ref|XP_017399.1| similar to non-canonical ubiquitin ...    54  1e-06
+SEQ gi|5734741|gb|AAD50006.1|AC007651_1 (AC007651) Similar to Ubiqui...    54  1e-06
+SEQ gi|11037690|gb|AAG27697.1|AF299059_1 (AF299059) ubiquitin-conjug...    54  1e-06
+SEQ gi|14484934|gb|AAK62819.1| (AF332958) ubiquitin conjugating enzy...    53  2e-06
+SEQ gi|7498090|pir||T34195 hypothetical protein D1022.1 - Caenorhabd...    53  2e-06
+SEQ gi|7504415|pir||T16479 hypothetical protein F56D2.4 - Caenorhabd...    53  2e-06
+SEQ gi|9758925|dbj|BAB09462.1| (AB012248) ubiquitin conjugating enzy...    52  5e-06
+SEQ gi|11545777|ref|NP_071349.1| hypothetical protein FLJ12878 [Homo...    51  8e-06
+SEQ gi|12698013|dbj|BAB21825.1| (AB051521) KIAA1734 protein [Homo sa...    51  8e-06
+SEQ gi|7021720|gb|AAF35401.1| (AC024081) putative ubiquitin-conjugat...    51  1e-05
+SEQ gi|13605651|gb|AAK32819.1|AF361806_1 (AF361806) AT3g15355/MJK13_...    51  1e-05
+SEQ gi|10726426|gb|AAF54520.2| (AE003686) CG6303 gene product [Droso...    50  2e-05
+SEQ gi|10434621|dbj|BAB14320.1| (AK022940) unnamed protein product [...    50  2e-05
+SEQ gi|2801448|gb|AAC39327.1| (AF028341) ubiquitin-conjugating enzym...    49  3e-05
+SEQ gi|4972766|gb|AAD34778.1| (AF132190) unknown [Drosophila melanog...    49  4e-05
+SEQ gi|13654767|ref|XP_012588.2| hypothetical protein FLJ12878 [Homo...    49  4e-05
+SEQ gi|8467993|dbj|BAA96594.1| (AP002481) ESTs AU082600(C11471),C260...    48  8e-05
+SEQ gi|7499981|pir||T21439 hypothetical protein F26H9.7 - Caenorhabd...    47  2e-04
+SEQ gi|13641950|ref|XP_002869.3| ubiquitin-conjugating enzyme E2E 1 ...    46  2e-04
+SEQ gi|10436987|dbj|BAB14948.1| (AK024657) unnamed protein product [...    46  3e-04
+SEQ gi|7437983|pir||T15431 hypothetical protein C06E2.7 - Caenorhabd...    45  5e-04
+SEQ gi|4493898|emb|CAB39007.1| (AL034558) predicted using hexExon; M...    45  5e-04
+SEQ gi|13649384|ref|XP_009365.4| ubiquitin-conjugating enzyme E2M (h...    45  7e-04
+SEQ gi|9454541|gb|AAF87864.1|AC022520_8 (AC022520) Similar  to ubiqu...    45  7e-04
+SEQ 
+## SEQUENCE PROFILE AND ENTROPY
+ SeqNo PDBNo   V   L   I   M   F   W   Y   G   A   P   S   T   C   H   R   K   Q   E   N   D  NOCC NDEL NINS ENTROPY RELENT WEIGHT
+    1    1     0   0   0   0   0   0   0   0  72   0  28   0   0   0   0   0   0   0   0   0     0    0    0   0.591     19  0.00
+    2    2     0   0   0   0   0   0   0  32  16   0  26   0   0   0   5   0   0   5  16   0     0    0    0   1.608     53  0.00
+    3    3     0  69  12  15   0   0   0   0   4   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.917     30  0.00
+    4    4     0   7   0   0   0   0   4   0   7  50   4  11   0   0   0   7  11   0   0   0     0    0    0   1.629     54  0.00
+    5    5     0   1   0   0   0   0   0   0   0   1   0   1   0   1  33  60   3   0   1   0     0    0    0   0.958     31  0.00
+    6    6     0   2   0   0   1   0   0   1   3   1   0   0   0   0  92   1   1   0   0   0     0    0    0   0.406     13  0.00
+    7    7     5  56  36   1   0   0   0   0   1   0   0   0   0   0   1   0   1   1   0   0     0    0    0   1.018     33  0.00
+    8    8     6  12  10  25   0   0   2   0   4   0   0   2   0   4   1   4  22   0   5   0     0    0    0   2.194     73  0.00
+    9    9     0   2   0   0   0   0   0   0   3   0   3   0   0   0  18  62   9   0   1   0     0    0    0   1.269     42  0.00
+   10   10     0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   2   2  76   0  18     0    0    0   0.777     25  0.00
+   11   11     5  49   3   0  14   0  13   0   5   0   1   7   0   0   0   0   0   4   0   0     0    0    0   1.668     55  0.00
+   12   12     1   6   0   9   0   1   0   0  12   0   8   4   0   1   6  30  12   5   4   0     0    0    0   2.222     74  0.00
+   13   13     0   1   0   1   0   0   0   2   8   0   5   5   0   1  23   5   3  17   1  26     0    0    0   2.071     69  0.00
+   14   14     1  72  13   6   1   4   0   0   0   0   1   0   0   0   0   0   0   0   0   0     0    0    0   1.042     34  0.00
+   15   15     2  19   3   6   0   1   0   4   5   0   2  10   3   0   2   5  32   3   2   0     0    0    0   2.218     74  0.00
+   16   16     2   7   1   6   0   0   0   1  11   0   4   4   0   0  13  26   6  15   3   0     0    0    0   2.234     74  0.00
+   17   17     0   0   0   0   0   0   0   2   1   0   5   3   1   3   0   4   1  14  13  50     0    0    0   1.701     56  0.00
+   18   18     0   3   0   0   0   0   0   7   2  76   3   0   0   0   0   3   1   1   1   2     0    0    0   1.099     36  0.00
+   19   19    16   5   2   2   0   0   0   1   2  55   1   7   0   0   0   0   1   1   1   4     0    0    0   1.626     54  0.00
+   20   20     2   0   1   0   0   0   0   0  17  30   8   9   2   0   1   5   1  11   0  11     0    0    0   2.095     69  0.00
+   21   21     0   1   0   0   0   0   6  54   0   0  13   2   0   6   0   0   6   1   8   2     0    0    0   1.648     55  0.00
+   22   22    14   6  37   1  14   0   5   0   0   0   0   0  24   0   0   0   0   0   0   0     0    0    0   1.646     54  0.00
+   23   23     5   2   1   3   1   0   0   0   0   0  44   5   2   5   7  18   1   1   3   2     0    0    0   1.939     64  0.00
+   24   24    17   3   4   1   1   0   0   9  55   0   0   1   2   3   0   0   1   2   1   0     0    0    0   1.577     52  0.00
+   25   25     2   2   2   0   8   1   1  27   9   0   8   4   0   2   5   7   4  12   2   5     0    0    0   2.452     81  0.00
+   26   26    10   5   2   2   0   0   0   0   2  65   4   5   0   0   0   0   1   2   1   0     0    0    0   1.415     47  0.00
+   27   27    21   9   4   0   2   0   2   1   1   0  10   6   0   1   0   5   2   6   6  22     0    0    0   2.359     78  0.00
+   28   28     0   0   0   0   0   0   0  15   6   8   6   2   0   0   0   2   1  35   6  17     0    0    0   1.957     65  0.00
+   29   29     1   0   1   0   0   0   0   2   3   0  11   2   1   0   0   2   0  17  16  44     0    0    0   1.717     57  0.00
+   30   30     0   2   0   0   0   0   0   4   0   0   2   1   0   0   5   2   2   1  53  28     0    0    0   1.346     44  0.00
+   31   31     7  37  24  18   5   0   0   0   4   0   1   0   0   0   0   0   2   0   1   1     0    0    0   1.706     56  0.00
+   32   32     0  12   1  14  31   0   6   0   1   0   3   8   0   2   7   1   7   0   1   6     0    0    0   2.157     72  0.00
+   33   33     5   7   4   2   0   2   7   0   0   0   0   4   2  19   1   8   3  23   7   3     0    0    0   2.403     80  0.00
+   34   34     0   8   4   3  17  66   0   0   0   0   0   1   1   0   0   0   0   0   0   0     0    0    0   1.108     36  0.00
+   35   35     4   0   3   0   2   1   3   0   1   0   4   3   1  18   6   9  20  11  10   2     0    0    0   2.404     80  0.00
+   36   36    24   3   4   1   4   0   5  10  38   0   3   1   7   0   0   0   0   1   0   0     0    0    0   1.843     61  0.00
+   37   37    17  13   5   4   1   0   1   2   6   0   2  36   1   1   0   2   1   5   0   2     0    0    0   2.094     69  0.00
+   38   38    12   7  71   2   8   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.971     32  0.00
+   39   39     3   8   9  15   9   0   1   1   6   6   4   9   1   4   9   4   2   6   2   2     0    0    0   2.682     89  0.00
+   40   40     1   0   0   0   0   0   0  97   1   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.176      5  0.00
+   41   41     1   0   0   0   0   0   0   1   6  83   3   0   0   0   0   5   0   0   0   0     0    0    0   0.739     24  0.00
+   42   42     3   1   0   0   1   0   0   1  11  23   6   6   0   1   1  10   4  15   5  12     0    0    0   2.306     76  0.00
+   43   43     0   0   0   2   0   0   0  28   1   0   0   0   0   0   2   2   4  10   4  48     0    0    0   1.477     49  0.00
+   44   44     0   1   0   0   0   0   0   5   1   2  34  57   0   0   0   0   0   0   0   0     0    0    0   1.037     34  0.00
+   45   45     9  12   4   0   1   0   4   0   1  61   0   0   2   0   0   0   0   0   1   4     0    0    0   1.439     48  0.00
+   46   46     0   0   0   0  19   9  72   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.770     25  0.00
+   47   47     0   0   0   0   0   0   1   1  17   0   5   0   0   3   1   1  10  50   2   7     0    0    0   1.628     54  0.00
+   48   48     0   2   0   0   1   0   0  69   1   0   2   0   1   0   0   4   0   0   8  12     0    0    0   1.148     38  0.00
+   49   49     0   3   0   0   0   0   0  87   1   0   0   1   0   0   0   2   0   4   0   1     0    0    0   0.640     21  0.00
+   50   50    33  12   5   1   5   0   6   0   4   0   1  15   2   0   4   7   2   1   1   0     0    0    0   2.182     72  0.00
+   51   51     0   0   0   0  70   8  21   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.818     27  0.00
+   52   52     4   9   0   0  13   0   1   0   0   4   1   2   0   8  10  30   7   5   4   0     0    0    0   2.240     74  0.00
+   53   53    13  46   9   3  11   0   0   8  10   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.650     55  0.00
+   54   54     4   3   4   0   0   0   0   0   1   0  13  17   0   3  14  10   4  12   2  13     0    0    0   2.342     78  0.00
+   55   55    16  26  43   8   5   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0     0    0    0   1.445     48  0.00
+   56   56     4   6   5   0   6   0   3   0   1   0   6   7   0  17   3  10   7  18   3   6     0    0    0   2.485     82  0.00
+   57   57     5  19   6   1  67   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0     0    0    0   1.029     34  0.00
+   58   58     0   0   0   0   0   0   0   4   0  73  10   6   0   0   0   4   0   1   1   2     0    0    0   1.067     35  0.00
+   59   59     1   2   2   0   0   0   0   0   3  17   8   9   0   1   4   4   6  25   4  13     0    0    0   2.278     76  0.00
+   60   60     1   0   2   0   0   0   0   4   6   0   2   3   0   3   3   2   3  22   7  43     0    0    0   1.854     61  0.00
+   61   61     0   0   0   0   5   1  94   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.268      8  0.00
+   62   62     0   0   0   0   0   0   0   0   0  98   0   0   0   0   0   0   0   0   1   0     0    0    0   0.110      3  0.00
+   63   63     1   7   2  14  36   1  12   0   3   0   7   1   0   3   0   0   1   0  12   0     0    0    0   2.008     67  0.00
+   64   64     3   0   0   2   0   0   0   1   5   0  17   3   0   1   2  49   1   7   5   3     0    0    0   1.810     60  0.00
+   65   65     0   0   0   0   0   0   0   0  11  77  10   1   0   0   1   0   0   0   0   0     0    0    0   0.799     26  0.00
+   66   66     0   0   0   0   0   0   0   0   0  99   0   0   0   0   0   0   0   0   0   0     0    0    0   0.063      2  0.00
+   67   67     2   2   2   1   0   0   1   0   2   0  13  14   0   2   3  48   6   1   2   0     0    0    0   1.796     59  0.00
+   68   68    58   5  17   6   4   0   0   3   1   0   0   0   5   0   0   0   0   0   0   0     0    0    0   1.387     46  0.00
+   69   69     2   1   6   2   0   0   5   7  11   0   4   6   2   2  25  22   2   1   5   0     0    0    0   2.298     76  0.00
+   70   70     0   7   1   3  81   0   3   0   0   0   0   0   4   0   0   0   0   0   0   0     0    0    0   0.779     25  0.00
+   71   71    11  22  14   5   0   0   0   0   1   1   1  19   0   2   7   7   1   8   0   1     0    0    0   2.241     74  0.00
+   72   72     1   0   0   0   0   0   0   2   0   5  17  65   3   1   0   1   1   0   5   0     0    0    0   1.235     41  0.00
+   73   73     0   0   0   1   0   0   0   3   3  14   1   4   1   0  15  43   3   8   1   2     0    0    0   1.862     62  0.00
+   74   74    12   4  45  16   2   0   0   2   3   2   1   0   6   0   3   0   0   0   4   0     0    0    0   1.818     60  0.00
+   75   75     2   5   2   0  33  13  36   6   0   1   1   0   0   0   0   0   0   0   0   0     0    0    0   1.640     54  0.00
+   76   76     0   0   0   0   0   0   0   0   0   0   0   1   0  90   4   0   0   0   4   0     0    0    0   0.434     14  0.00
+   77   77     0   0   0   0   4   0   0   0   0  91   1   0   3   0   0   0   0   0   0   0     0    0    0   0.439     14  0.00
+   78   78     0   0   0   0   0   0   0   0   0   0   0   0   0   5   0   0   1   3  90   0     0    0    0   0.470     15  0.00
+   79   79    43   6  46   0   4   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0     0    0    0   1.091     36  0.00
+   80   80     0   0   0   0   1   0  34   5   1   0   6   1   0   1   1   3   0   1  19  26     0    0    0   1.777     59  0.00
+   81   81     1   4   1   0   0   0   0   0  14   9  29   4   2   0   3  10   3  14   4   2     0    0    0   2.207     73  0.00
+   82   82     4   6   1   2   1   0   1   1   2   0  12   5   1   1   1   2   4   4  35  18     0    0    0   2.175     72  0.00
+   83   83     0   0   0   0   0   0   0  96   0   0   0   3   0   0   0   1   0   0   0   0     0    0    0   0.196      6  0.00
+   84   84     2   2   0   0   1   0   0   1   7   0  25   7   0   5  15  12   2   9  10   3     0    0    0   2.254     75  0.00
+   85   85    33   7  60   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.888     29  0.00
+   86   86     0   0   0   0   1   0   0   0   0   0   1   0  98   0   0   0   0   0   0   0     0    0    0   0.153      5  0.00
+   87   87     5  82  11   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.636     21  0.00
+   88   88     0   0   0   0   0   0   0   0   0   4  30   0   0   1   0   0   0   0   7  58     0    0    0   1.066     35  0.00
+   89   89    12   6  78   0   2   0   1   0   0   0   0   1   0   0   0   0   0   0   0   0     0    0    0   0.786     26  0.00
+   90   90     0  81  10   0   1   0   0   0   0   0   3   2   0   3   0   0   0   0   0   0     0    0    0   0.766     25  0.00
+   91   91     0   0   0   0   0   0   3   2   0   6   8   3   0   3  13  30  12   7  11   2     0    0    0   2.176     72  0.00
+   92   92     0   0   0   0   0   0   0   2   0   0   7   2   0   0   2   2   8  41  11  25     0    0    0   1.671     55  0.00
+   93   93     1   0   0   0   0   0   0   0   3   0   5  13   0   2  18  14  23   2   8  11     0    0    0   2.110     70  0.00
+   94   94     0   0   0   0   0  99   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.042      1  0.00
+   95   95     0   3   1   0   0   0   0   0   4   0  57  10   0   0   5   7   3   0  10   0     0    0    0   1.520     50  0.00
+   96   96     0   0   0   0   0   0   0   0  10  85   4   0   0   0   0   0   0   0   0   0     0    0    0   0.564     18  0.00
+   97   97    12   4   4   6   0   0   1   1  44   0   9  11   1   0   0   2   2   3   1   0     0    0    0   1.952     65  0.00
+   98   98     0  35   5   6   5   9  18   0   0   0   2   7   1   3   1   0   8   0   0   0     0    0    0   2.068     69  0.00
+   99   99     0   1   0   1   0   0   0   2   0   0  19  39   0   0   2   4   5   1   6  20     0    0    0   1.747     58  0.00
+  100  100    36  17  38   2   2   0   0   0   0   1   0   3   0   0   0   0   0   0   0   0     0    0    0   1.409     47  0.00
+  101  101     3   6   2   0   0   0   1   0   6   0  30   2   1   0  20   8   3   9   5   2     0    0    0   2.185     72  0.00
+  102  102     0   0   1   0   0   0   0   0   5   0  18  27   0   3   0  24  14   0   5   2     0    0    0   1.868     62  0.00
+  103  103    54   2  37   0   1   0   0   0   6   0   1   0   0   0   0   0   0   0   0   0     0    0    0   1.034     34  0.00
+  104  104     4  81   4   2   6   0   0   0   0   0   0   0   3   0   0   0   0   1   0   0     0    0    0   0.810     27  0.00
+  105  105     7  54   7   0   0   2   2   0   1   0   1  15   0   1   0   0   3   6   0   1     0    0    0   1.609     53  0.00
+  106  106     1   0   0   1   1   0   0  14   9   0  68   5   0   0   0   0   0   0   0   0     0    0    0   1.117     37  0.00
+  107  107    12  26  61   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.959     32  0.00
+  108  108     5   6  10   2   1   0   1   0   0   7   1   0  18   0   2   2  41   0   3   0     0    0    0   1.957     65  0.00
+  109  109     3   2   1   0   1   0   1   4  12   0  58   0   3   1   1   0   6   3   0   3     0    0    0   1.619     54  0.00
+  110  110     0  80   2  11   5   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.723     24  0.00
+  111  111     3  76   6   8   5   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.898     29  0.00
+  112  112     2  12   3   2   0   0   0   5   9   0  14  20   9   1   1   1   1   2  12   5     0    0    0   2.345     78  0.00
+  113  113     5   1   0   0   0   0   6   1   9   0   8   1   0   2   1   2   0  27   4  32     0    0    0   1.976     65  0.00
+  114  114     0   1   0   1   0   0   0   0   6  83   1   0   3   0   0   2   0   0   3   0     0    0    0   0.804     26  0.00
+  115  115     0   0   0   0   0   0   0   2   0   0   2   1   0   0   0   0   1  12  80   1     0    0    0   0.787     26  0.00
+  116  116     0   1   8   0   2   0   0   2   2  67   1   4   0   0   0   0   0   1   4   6     0    0    0   1.351     45  0.00
+  117  117     1   1   0   0   2   0   0   1   6   0  10   1   0   1   1   3   4  18  12  37     0    0    0   1.965     65  0.00
+  118  118     0   1   0   0   0   0   0   0   0   0  37   1   0   2   0   1   0   4   2  51     0    0    0   1.175     39  0.00
+  119  119     0   0   1   0   0   0   0   4   4  89   1   0   0   0   0   0   0   0   0   0     0    0    0   0.501     16  0.00
+  120  120     2  55   1   2   2   0   2   0  29   0   0   1   0   0   0   0   7   0   0   0     0    0    0   1.257     41  0.00
+  121  121    22   0   0   2   1   0   0   0   6   0   3   1   0   0   4   0   5   1  46   8     0    0    0   1.731     57  0.00
+  122  122    13   1   5   1   0   0   0   9  16  20   8   5   1   2   0   2   0   5   9   0     0    0    0   2.338     78  0.00
+  123  123     5   0   0   0   0   0   0   1   0   0   5   1   0   2   0   1   8  49   2  23     0    0    0   1.620     54  0.00
+  124  124    13   5  27   2   0   0   0   0  51   2   0   0   0   0   0   0   0   0   0   0     0    0    0   1.276     42  0.00
+  125  125     1   0   0   0   0   0   4   7  80   0   6   0   1   0   0   0   0   0   0   0     0    0    0   0.825     27  0.00
+  126  126     1   0   1   0   0   0   3   0   5   0   1   9   0  13  17  14  12  15   5   4     0    0    0   2.307     77  0.00
+  127  127     6  24  14  19   0   0   0   0   0   0   2   1   0   4   0   4  13  10   0   2     0    0    0   2.096     69  0.00
+  128  128     0  10   0   1  13  25  45   0   0   0   0   0   0   1   1   1   0   1   1   0     0    0    0   1.529     51  0.00
+  129  129     1   9   2   3   0   0   0   0   0   0   9   3   5   0  18  42   7   0   0   0     0    0    0   1.840     61  0.00
+  130  130     2   0   0   0   0   0   1   0   2   0   3  27   1   2   3   5  11  22   9  10     0    0    0   2.142     71  0.00
+  131  131     0   0   0   0   0   0   0   3   1   2   4   0   0   1   2   4   4   2  48  29     0    0    0   1.541     51  0.00
+  132  132     0   0   0   0   0   0   8   0   0   8   1   3   0   2  43  19   1  12   0   2     0    0    0   1.714     57  0.00
+  133  133     6   1   0   0   1   0   0   3  25   4   5   2   0   0   9   7   4  19   3   8     0    0    0   2.320     77  0.00
+  134  134     1   5   0   5   0   0   1   1   3   1   3   3   0   1   6  27  11  34   0   1     0    0    0   1.934     64  0.00
+  135  135     0   0   0   0  30   0  46   2  13   0   1   0   0   6   1   0   0   0   0   2     0    0    0   1.371     45  0.00
+  136  136     8   4   6   2   1   0   3   0   6   0   1   1   2   0   4   9   1  31  13   8     0    0    0   2.270     75  0.00
+  137  137     0   2   0   0   1   0   1   1  14   0  11   1   0   1  16  29  10  12   1   2     0    0    0   2.036     67  0.00
+  138  138     2   5  11   2   1   0   2   0   1   0   1  41   0   2  17   7   0   1   7   0     0    0    0   1.917     64  0.00
+  139  139    18   0   1   0   1   0   1   0  73   0   5   1   1   0   0   1   0   0   0   0     0    0    0   0.904     30  0.00
+  140  140     1   1   1   0   0   0   0   0   1   0   0   0   0   1  69  15   1   8   0   3     0    0    0   1.091     36  0.00
+  141  141     1  11   0   1   0   1   3   2  18   0  11   1   1   3   3   1   6  36   1   3     0    0    0   2.055     68  0.00
+  142  142     0   8   0   1   7  63   8   0   1   0   1   1   2   1   1   1   7   0   0   0     0    0    0   1.402     46  0.00
+  143  143     6   0   2   1   0   0   0   0  13   0   2  74   1   0   0   0   0   0   1   1     0    0    0   0.983     32  0.00
+  144  144     1   6   0   1   0   1   1   1   1   1   3   1   0   4  20  20  28  11   2   0     0    0    0   2.014     67  0.00
+  145  145     5  10   6   1   0   0   1   0   5   0   2   2   0   0  10  56   2   0   1   0     0    0    0   1.580     52  0.00
+  146  146     0   0   0   1  17   0  72   0   0   0   0   0   0  11   0   0   0   0   0   0     0    0    0   0.818     27  0.00
+  147  147     0   0   0   0   0   0   0   4  92   0   3   0   0   0   0   0   0   0   0   0     0    0    0   0.328     10  0.00
+  148  148    18   2   5  74   0   0   0   0   0   0   0   0   0   0   0   0   0   0   2   0     0    0    0   0.816     27  0.00
+  149  149     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  62  38     0    0    0   0.666     22  0.00
+//

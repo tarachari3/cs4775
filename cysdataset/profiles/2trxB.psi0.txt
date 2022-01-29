@@ -1,0 +1,549 @@
+ID Pseudo hssp file.
+SEQ 
+SEQ gi|147611|gb|AAA24534.1| (K02845) thioredoxin [Escherichia coli]...   213  5e-55
+SEQ gi|135771|sp|P00274|THIO_ECOLI THIOREDOXIN 1 (TRX1) (TRX) >gi|32...   212  1e-54
+SEQ gi|230777|pdb|2TRX|A Chain A, Thioredoxin >gi|230778|pdb|2TRX|B ...   211  2e-54
+SEQ gi|575449|gb|AAA67270.1| (U16857) Derived from E. coli thioredox...   210  4e-54
+SEQ gi|443439|pdb|2TIR|    Thioredoxin Mutant With Lys 36 Replaced B...   210  4e-54
+SEQ gi|1633495|pdb|1XOA|    Thioredoxin (Oxidized Disulfide Form), N...   210  6e-54
+SEQ gi|443281|pdb|1THO|    Thioredoxin Mutant With Arg Inserted Betw...   208  2e-53
+SEQ gi|10120659|pdb|1F6M|C Chain C, Crystal Structure Of A Complex B...   207  3e-53
+SEQ gi|148071|gb|AAA24696.1| (M54881) thioredoxin [Escherichia coli]      207  3e-53
+SEQ gi|6137567|pdb|1TXX|A Chain A, Active-Site Variant Of E.Coli Thi...   204  3e-52
+SEQ gi|230335|pdb|1SRX|    Thioredoxin (Oxidized Form)                    203  6e-52
+SEQ gi|11249959|pir||D82338 thioredoxin VC0306 [imported] - Vibrio c...   176  1e-43
+SEQ gi|13878813|sp|Q9X2T1|THIO_PSEAE THIOREDOXIN (TRX) >gi|11352633|...   161  2e-39
+SEQ gi|1729953|sp|P52233|THIO_THIFE THIOREDOXIN (TRX) >gi|664829|gb|...   157  4e-38
+SEQ gi|135769|sp|P09857|THIO_CHRVI THIOREDOXIN (TRX) >gi|79441|pir||...   149  1e-35
+SEQ gi|11250003|pir||C81090 thioredoxin NMB1366 [imported] - Neisser...   144  3e-34
+SEQ gi|11249999|pir||E81850 thioredoxin I NMA1578 [imported] - Neiss...   143  1e-33
+SEQ gi|11135236|sp|P57653|THIO_BUCAI THIOREDOXIN (TRX) >gi|10039248|...   136  6e-32
+SEQ gi|4033473|sp|O51890|THIO_BUCAP THIOREDOXIN (TRX) >gi|2827036|gb...   136  7e-32
+SEQ gi|79589|pir||A28215 thioredoxin - Rhodospirillum rubrum              131  4e-30
+SEQ gi|3122942|sp|P96132|THIO_THIRO THIOREDOXIN (TRX) >gi|1688093|gb...   129  1e-29
+SEQ gi|135777|sp|P10473|THIO_RHORU THIOREDOXIN (TRX)                      128  2e-29
+SEQ gi|12721321|gb|AAK03078.1| (AE006138) TrxM [Pasteurella multocida]    127  3e-29
+SEQ gi|741034|prf||2006292A thioredoxin [Streptomyces aureofaciens]       126  1e-28
+SEQ gi|1174685|sp|P43785|THIO_HAEIN THIOREDOXIN (TRX) >gi|1075347|pi...   124  4e-28
+SEQ gi|464884|sp|P33791|THIO_STRAU THIOREDOXIN (TRX) >gi|421638|pir|...   123  5e-28
+SEQ gi|13469690|dbj|BAB39860.1| (AB032759) thioredoxin [Actinobacill...   122  1e-27
+SEQ gi|135741|sp|P00275|THI1_CORNE THIOREDOXIN C-1 >gi|65808|pir||TX...   119  1e-26
+SEQ gi|7481798|pir||T42061 thioredoxin - Streptomyces coelicolor >gi...   119  1e-26
+SEQ gi|14195695|sp|P52230|THIO_STRCO THIOREDOXIN (TRX) >gi|7481797|p...   119  2e-26
+SEQ gi|6226226|sp|Q9ZEE0|THIO_RICPR THIOREDOXIN (TRX) >gi|7430824|pi...   118  2e-26
+SEQ gi|135761|sp|P06544|THI1_ANASO THIOREDOXIN 1 (TRX-1) (THIOREDOXI...   115  2e-25
+SEQ gi|11249962|pir||F82526 thioredoxin XF2698 [imported] - Xylella ...   115  2e-25
+SEQ gi|135778|sp|P08058|THIO_RHOSH THIOREDOXIN (TRX) >gi|97533|pir||...   114  4e-25
+SEQ gi|13425273|gb|AAK25501.1| (AE006012) thioredoxin [Caulobacter c...   114  4e-25
+SEQ gi|135745|sp|P07887|THI2_CORNE THIOREDOXIN C-2 >gi|80613|pir||S0...   114  4e-25
+SEQ gi|144989|gb|AAA23305.1| (J02801) thioredoxin C-2 [Corynebacteri...   114  4e-25
+SEQ gi|1729952|sp|P52231|THIO_SYNY3 THIOREDOXIN (TRX) >gi|628912|pir...   114  4e-25
+SEQ gi|1351239|sp|P48384|THIM_PEA THIOREDOXIN M-TYPE, CHLOROPLAST PR...   113  8e-25
+SEQ gi|1388088|gb|AAC49358.1| (U35831) thioredoxin m [Pisum sativum]      113  8e-25
+SEQ gi|13474238|ref|NP_105806.1| thioredoxin [Mesorhizobium loti] >g...   112  1e-24
+SEQ gi|135760|sp|P12243|THI1_SYNP7 THIOREDOXIN 1 (TRX-1) (THIOREDOXI...   111  3e-24
+SEQ gi|628897|pir||B55124 thioredoxin - Chlorobium limicola f.sp. th...   110  7e-24
+SEQ gi|549079|sp|Q05739|THIO_STRCL THIOREDOXIN (TRX) >gi|1076064|pir...   109  1e-23
+SEQ gi|11465691|ref|NP_053835.1| thioredoxin [Porphyra purpurea] >gi...   109  1e-23
+SEQ gi|1729949|sp|P50254|THIO_PORYE THIOREDOXIN >gi|1086260|pir||S46...   108  3e-23
+SEQ gi|2507458|sp|P07591|THIM_SPIOL THIOREDOXIN M-TYPE, CHLOROPLAST ...   108  3e-23
+SEQ gi|21354|emb|CAA35827.1| (X51463) thioredoxin M precursor (AA -6...   108  3e-23
+SEQ gi|11465476|ref|NP_045133.1| unknown; thioredoxin [Cyanidium cal...   108  3e-23
+SEQ gi|10835723|pdb|1FB0|A Chain A, Crystal Structure Of Thioredoxin...   107  4e-23
+SEQ gi|11498883|ref|NP_070112.1| thioredoxin (trx-3) [Archaeoglobus ...   107  5e-23
+SEQ gi|1729947|sp|P52229|THIO_MYCTU THIOREDOXIN (TRX) (MPT46) >gi|74...   106  1e-22
+SEQ gi|3776111|emb|CAA11404.1| (AJ223480) thioredoxin [Staphylococcu...   106  1e-22
+SEQ gi|629443|pir||S45488 thioredoxin - red alga (Cyanidium caldariu...   106  1e-22
+SEQ gi|11135105|sp|O48737|THM1_ARATH THIOREDOXIN M-TYPE 1, CHLOROPLA...   105  2e-22
+SEQ gi|11135471|sp|Q9ZP20|THIM_ORYSA THIOREDOXIN M-TYPE, CHLOROPLAST...   105  2e-22
+SEQ gi|18241|emb|CAA44209.1| (X62335) thioredoxin  Ch2 [Chlamydomona...   104  3e-22
+SEQ gi|840745|emb|CAA55398.1| (X78821) thioredoxin m [Chlamydomonas ...   104  3e-22
+SEQ gi|1729935|sp|P23400|THIM_CHLRE THIOREDOXIN M-TYPE, CHLOROPLAST ...   104  3e-22
+SEQ gi|6573652|pdb|1DBY|A Chain A, Nmr Structures Of Chloroplast Thi...   104  3e-22
+SEQ gi|3334376|sp|Q41864|THIM_MAIZE THIOREDOXIN M-TYPE, CHLOROPLAST ...   104  5e-22
+SEQ gi|11135407|sp|Q9XGS0|THIM_BRANA THIOREDOXIN M-TYPE, CHLOROPLAST...   103  8e-22
+SEQ gi|6226714|sp|P50338|THIO_GRIPA THIOREDOXIN >gi|7430828|pir||S46...   103  9e-22
+SEQ gi|12643846|sp|Q9SEU8|THM2_ARATH THIOREDOXIN M-TYPE 2, CHLOROPLA...   102  1e-21
+SEQ gi|1174807|sp|P46843|TRXB_MYCLE BIFUNCTIONAL THIOREDOXIN REDUCTA...   102  2e-21
+SEQ gi|7473966|pir||G75455 thioredoxin - Deinococcus radiodurans (st...   102  2e-21
+SEQ gi|135765|sp|P14949|THIO_BACSU THIOREDOXIN (TRX) >gi|98490|pir||...   102  2e-21
+SEQ gi|3024719|sp|P56430|THIO_HELPY THIOREDOXIN (TRX) >gi|7430827|pi...   101  2e-21
+SEQ gi|6539610|gb|AAF15949.1|AF095750_1 (AF095750) thioredoxin m2 [A...   101  3e-21
+SEQ gi|3122936|sp|O30974|THIO_MYCSM THIOREDOXIN (TRX) >gi|2511765|gb...   101  3e-21
+SEQ gi|3915119|sp|O22022|THIO_CYAME THIOREDOXIN >gi|2541882|dbj|BAA2...   101  4e-21
+SEQ gi|11135474|sp|Q9ZP21|THIM_WHEAT THIOREDOXIN M-TYPE, CHLOROPLAST...   101  4e-21
+SEQ gi|7021721|gb|AAF35402.1| (AC024081) thioredoxin m4 [Arabidopsis...   101  4e-21
+SEQ gi|13474806|ref|NP_106376.1| thioredoxin [Mesorhizobium loti] >g...   101  4e-21
+SEQ gi|99423|pir||S10743 thioredoxin - Chlamydomonas reinhardtii          100  6e-21
+SEQ gi|628902|pir||A55124 thioredoxin - Chloroflexus aurantiacus          100  7e-21
+SEQ gi|1093914|prf||2105155A thioredoxin [Chloroflexus aurantiacus]       100  8e-21
+SEQ gi|11135344|sp|Q9SEU6|THM4_ARATH THIOREDOXIN M-TYPE 4, CHLOROPLA...    99  2e-20
+SEQ gi|11250001|pir||C81432 thioredoxin Cj0147c [imported] - Campylo...    99  2e-20
+SEQ gi|1729942|sp|P80579|THIO_ALIAC THIOREDOXIN (TRX) >gi|6980431|pd...    99  2e-20
+SEQ gi|1174671|sp|P20857|THI2_ANASP THIOREDOXIN 2 (TRX-2) >gi|538533...    98  4e-20
+SEQ gi|1311234|pdb|1THX|    Thioredoxin-2                                  98  4e-20
+SEQ gi|1174684|sp|P10472|THIO_CHLLT THIOREDOXIN (TRX)                      98  5e-20
+SEQ gi|79594|pir||A27801 thioredoxin - Chlorobium sp                       96  2e-19
+SEQ gi|10175720|dbj|BAB06817.1| (AP001517) thioredoxin [Bacillus hal...    95  2e-19
+SEQ gi|7473967|pir||G75612 thioredoxin 1 - Deinococcus radiodurans (...    94  4e-19
+SEQ gi|7430823|pir||G70464 thioredoxin - Aquifex aeolicus >gi|298418...    94  5e-19
+SEQ gi|5640117|emb|CAB40815.2| (AJ133006) thioredoxin [Listeria mono...    93  2e-18
+SEQ gi|12724655|gb|AAK05742.1|AE006395_2 (AE006395) thioredoxin [Lac...    91  5e-18
+SEQ gi|9049357|dbj|BAA99391.1| (AB034941) thioredoxin [Staphylococcu...    89  1e-17
+SEQ gi|13622875|gb|AAK34557.1| (AE006610) putative thioredoxin [Stre...    86  1e-16
+SEQ gi|11499727|ref|NP_070969.1| thioredoxin (trx-4) [Archaeoglobus ...    86  2e-16
+SEQ gi|13813514|gb|AAK40698.1| (AE006670) Thioredoxin  (trxA-1) [Sul...    86  2e-16
+SEQ gi|2507459|sp|P33636|THI2_ECOLI THIOREDOXIN 2 (TRX2) >gi|7430826...    86  2e-16
+SEQ gi|11362709|pir||C82590 thioredoxin XF2174 [imported] - Xylella ...    83  1e-15
+SEQ gi|6143893|gb|AAF04439.1|AC010718_8 (AC010718) thioredoxin-like ...    83  1e-15
+SEQ gi|11351923|pir||E83138 probable thioredoxin PA4061 [imported] -...    82  2e-15
+SEQ gi|4335723|gb|AAD17401.1| (AC006248) putative thioredoxin M [Ara...    82  2e-15
+SEQ gi|3122938|sp|P73263|THI2_SYNY3 THIOREDOXIN-LIKE PROTEIN SLR1139...    82  3e-15
+SEQ gi|13475502|ref|NP_107066.1| thioredoxin [Mesorhizobium loti] >g...    82  3e-15
+SEQ gi|6539612|gb|AAF15950.1|AF095751_1 (AF095751) thioredoxin m3 [A...    81  3e-15
+SEQ gi|5734774|gb|AAD50039.1|AC007980_4 (AC007980) Similar to thiore...    81  4e-15
+SEQ gi|6539616|gb|AAF15952.1|AF095753_1 (AF095753) thioredoxin x [Ar...    81  4e-15
+SEQ gi|5080763|gb|AAD39273.1|AC007203_5 (AC007203) Hypothetical prot...    80  7e-15
+SEQ gi|6808412|emb|CAB70649.1| (AL137242) putative thioredoxin [Stre...    80  9e-15
+SEQ gi|6831696|sp|Q9Z7P5|THIO_CHLPN THIOREDOXIN (TRX) >gi|7430855|pi...    80  1e-14
+SEQ gi|13815534|gb|AAK42402.1| (AE006828) Thioredoxin (trxA-2) [Sulf...    79  1e-14
+SEQ gi|10803601|ref|NP_045999.1| trxA [Halobacterium sp. NRC-1] >gi|...    79  1e-14
+SEQ gi|13421215|gb|AAK22097.1| (AE005685) thioredoxin [Caulobacter c...    79  1e-14
+SEQ gi|6941980|emb|CAB72414.1| (AL138978) thioredoxin [Streptomyces ...    79  1e-14
+SEQ gi|7109697|gb|AAF36768.1| (L35043) thioredoxin [Mycoplasma galli...    79  1e-14
+SEQ gi|13473735|ref|NP_105303.1| thioredoxin [Mesorhizobium loti] >g...    79  2e-14
+SEQ gi|13633981|sp|Q9PJK3|THIO_CHLMU THIOREDOXIN (TRX) >gi|11249997|...    79  2e-14
+SEQ gi|1729943|sp|P52227|THIO_CHLPS THIOREDOXIN (TRX) >gi|666879|gb|...    78  3e-14
+SEQ gi|7494716|pir||T18644 hypothetical protein B0024.9 - Caenorhabd...    78  3e-14
+SEQ gi|6601583|gb|AAF19044.1| (L08896) thioredoxin [Mycoplasma galli...    78  5e-14
+SEQ gi|6831695|sp|O84544|THIO_CHLTR THIOREDOXIN (TRX) >gi|7430856|pi...    77  9e-14
+SEQ gi|7290567|gb|AAF46018.1| (AE003433) CG3315 gene product [Drosop...    76  2e-13
+SEQ gi|11356204|pir||B82423 thioredoxin 2 VCA0752 [imported] - Vibri...    76  2e-13
+SEQ gi|13358154|ref|NP_078428.1| thioredoxin [Ureaplasma urealyticum...    74  4e-13
+SEQ gi|3915134|sp|Q95108|THI2_BOVIN MITOCHONDRIAL THIOREDOXIN PRECUR...    74  4e-13
+SEQ gi|7332118|gb|AAF60805.1| (AC024827) contains similarity to Pfam...    74  4e-13
+SEQ gi|6912738|ref|NP_036605.1| thioredoxin, mitochondrial [Homo sap...    74  6e-13
+SEQ gi|11418046|ref|XP_009953.1| thioredoxin, mitochondrial [Homo sa...    74  6e-13
+SEQ gi|3915117|sp|P97615|THI2_RAT MITOCHONDRIAL THIOREDOXIN PRECURSO...    74  6e-13
+SEQ gi|9903609|ref|NP_064297.1| thioredoxin, mitochondrial; thioredo...    74  6e-13
+SEQ gi|6094479|sp|O83889|THIO_TREPA THIOREDOXIN (TRX) >gi|7430854|pi...    73  1e-12
+SEQ gi|1729938|sp|P52232|THI1_SYNY3 THIOREDOXIN-LIKE PROTEIN SLR0233...    72  2e-12
+SEQ gi|729443|sp|P38660|PDA6_MESAU PROTEIN DISULFIDE ISOMERASE A6 PR...    71  3e-12
+SEQ gi|7437395|pir||T01115 hypothetical protein T21L14.14 - Arabidop...    71  3e-12
+SEQ gi|6323072|ref|NP_013144.1| thioredoxin; Trx1p [Saccharomyces ce...    71  3e-12
+SEQ gi|5031973|ref|NP_005733.1| protein disulfide isomerase-related ...    71  4e-12
+SEQ gi|1710248|gb|AAB50217.1| (U79278) protein disulfide isomerase-r...    70  7e-12
+SEQ gi|629343|pir||S46921 thioredoxin homolog - Mycoplasma capricolu...    70  1e-11
+SEQ gi|7211992|gb|AAF40463.1|AC004809_21 (AC004809) Strong simialrit...    70  1e-11
+SEQ gi|3077818|gb|AAC14584.1| (AF034637) thioredoxin; EGTRX [Echinoc...    69  1e-11
+SEQ gi|12838858|dbj|BAB24354.1| (AK005989) putative [Mus musculus]         69  2e-11
+SEQ gi|7302432|gb|AAF57518.1| (AE003794) CG8517 gene product [Drosop...    69  2e-11
+SEQ gi|7287975|gb|AAF45013.1|AE003406_218 (AE003416) symbol=BG:DS092...    68  3e-11
+SEQ gi|2501206|sp|Q63081|PDA6_RAT PROTEIN DISULFIDE ISOMERASE A6 PRE...    68  3e-11
+SEQ gi|13905146|gb|AAH06865.1|AAH06865 (BC006865) Similar to protein...    68  3e-11
+SEQ gi|267125|sp|P29429|THIO_EMENI THIOREDOXIN >gi|478712|pir||S2705...    68  4e-11
+SEQ gi|729433|sp|P38657|PDA3_BOVIN PROTEIN DISULFIDE ISOMERASE A3 PR...    68  5e-11
+SEQ gi|1083063|pir||JC2385 protein disulfide-isomerase (EC 5.3.4.1) ...    68  5e-11
+SEQ gi|303618|dbj|BAA03759.1| (D16234) PLC alfa [Homo sapiens]             68  5e-11
+SEQ gi|1085373|pir||S55507 protein disulfide-isomerase (EC 5.3.4.1) ...    68  5e-11
+SEQ gi|2507461|sp|P30101|PDA3_HUMAN PROTEIN DISULFIDE ISOMERASE A3 P...    68  5e-11
+SEQ gi|7437388|pir||JC5704 protein disulfide-isomerase (EC 5.3.4.1) ...    68  5e-11
+SEQ gi|2135267|pir||S63994 protein disulfide-isomerase (EC 5.3.4.1) ...    68  5e-11
+SEQ gi|4885359|ref|NP_005304.1| glucose regulated protein, 58kD [Hom...    68  5e-11
+SEQ gi|13650752|ref|XP_016522.1| similar to PROTEIN DISULFIDE ISOMER...    68  5e-11
+SEQ gi|12658635|gb|AAG59993.1| (AY017305) Trx [Synechococcus sp. PCC...    67  8e-11
+SEQ gi|1729936|sp|P52228|THI3_CORNE THIOREDOXIN C-3 >gi|7430832|pir|...    67  1e-10
+SEQ gi|7294366|gb|AAF49714.1| (AE003533) CG13473 gene product [Droso...    66  1e-10
+SEQ gi|8393322|ref|NP_059015.1| ER-60 protease [Rattus norvegicus] >...    66  1e-10
+SEQ gi|1352384|sp|P11598|PDA3_RAT PROTEIN DISULFIDE ISOMERASE A3 PRE...    66  1e-10
+SEQ gi|1583929|prf||2121473A microsomal protease ER-60 [Oryctolagus ...    66  1e-10
+SEQ gi|13096984|gb|AAH03285.1|AAH03285 (BC003285) Similar to ER-60 p...    66  1e-10
+SEQ gi|13994168|ref|NP_113768.1| glucose regulated protein, 58 kDa [...    66  1e-10
+SEQ gi|1083311|pir||S41661 protein disulfide-isomerase (EC 5.3.4.1) ...    66  1e-10
+SEQ gi|6321648|ref|NP_011725.1| thioredoxin; Trx2p [Saccharomyces ce...    66  2e-10
+SEQ gi|7141237|gb|AAF37263.1|AF220362_1 (AF220362) thioredoxin [Dros...    66  2e-10
+SEQ gi|5817312|gb|AAD52699.1|AF091538_1 (AF091538) thioredoxin [Schi...    66  2e-10
+SEQ gi|12044976|ref|NP_072786.1| thioredoxin (trxA) [Mycoplasma geni...    66  2e-10
+SEQ gi|6562867|emb|CAB62676.1| (AL133422) thioredoxin. [Streptomyces...    65  2e-10
+SEQ gi|13508002|ref|NP_109951.1| thioredoxin [Mycoplasma pneumoniae]...    65  3e-10
+SEQ gi|3334390|sp|O14463|TRX2_SCHPO THIOREDOXIN II (TR-II) >gi|74934...    65  3e-10
+SEQ gi|3915131|sp|Q42443|THIH_ORYSA THIOREDOXIN H-TYPE (TRX-H) (PHLO...    65  3e-10
+SEQ gi|1729944|sp|P21609|THIO_CLOLI THIOREDOXIN (TRX) >gi|2127345|pi...    64  4e-10
+SEQ gi|12802362|gb|AAK07845.1|AF309689_7 (AF309689) putative thiored...    64  5e-10
+SEQ gi|6560635|gb|AAF16695.1|AF117573_1 (AF117573) thioredoxin-like ...    64  5e-10
+SEQ gi|7489183|pir||T03644 probable protein disulfide-isomerase (EC ...    64  7e-10
+SEQ gi|1174686|sp|P42115|THIO_NEUCR THIOREDOXIN >gi|665590|dbj|BAA08...    63  9e-10
+SEQ gi|1729945|sp|P21610|THIO_EUBAC THIOREDOXIN (TRX) >gi|629193|pir...    63  9e-10
+SEQ gi|7430830|pir||S74493 thioredoxin M-2 - Synechocystis sp. (stra...    63  1e-09
+SEQ gi|6180053|gb|AAF05765.1|AF192765_1 (AF192765) thioredoxin [Schi...    63  1e-09
+SEQ gi|12643754|sp|Q39239|THH4_ARATH THIOREDOXIN H-TYPE 4 (TRX-H-4) ...    63  1e-09
+SEQ gi|1388082|gb|AAC49355.1| (U35828) thioredoxin h [Arabidopsis th...    63  1e-09
+SEQ gi|7509947|pir||T26967 hypothetical protein Y47H9C.5 - Caenorhab...    63  1e-09
+SEQ gi|10086505|gb|AAG12565.1|AC007797_25 (AC007797) Unknown protein...    63  1e-09
+SEQ gi|11132051|sp|O22263|PDA6_ARATH PROBABLE PROTEIN DISULFIDE ISOM...    63  1e-09
+SEQ gi|11065686|emb|CAC14298.1| (AJ276209) thioredoxin [Clostridium ...    63  2e-09
+SEQ gi|10801530|gb|AAG23476.1| (AC084197) Hypothetical protein Y73B6...    62  2e-09
+SEQ gi|4581959|emb|CAB40200.1| (AJ005807) disulphide isomerase [Caen...    62  2e-09
+SEQ gi|7510048|pir||T27039 hypothetical protein Y49E10.4 - Caenorhab...    62  2e-09
+SEQ gi|10581982|gb|AAG20641.1| (AE005133) thioredoxin; TrxA2 [Haloba...    62  3e-09
+SEQ gi|11135265|sp|Q39362|THH2_BRANA THIOREDOXIN H-TYPE 2 (TRX-H-2) ...    62  3e-09
+SEQ gi|7493476|pir||T40552 thioredoxin-like protein - fission yeast ...    61  3e-09
+SEQ gi|13630433|ref|XP_007536.3| similar to PROTEIN DISULFIDE ISOMER...    61  4e-09
+SEQ gi|11135375|sp|Q9UW02|THIO_COPCM THIOREDOXIN (ALLERGEN COP C 2) ...    61  5e-09
+SEQ gi|7493473|pir||T39387 thioredoxin ii - fission yeast (Schizosac...    61  5e-09
+SEQ gi|729442|sp|P38661|ERP5_MEDSA PROBABLE PROTEIN DISULFIDE ISOMER...    61  6e-09
+SEQ gi|7799189|emb|CAB90828.1| (AJ277839) thioredoxin [Plasmodium fa...    61  6e-09
+SEQ gi|1729934|sp|P80028|THIH_CHLRE THIOREDOXIN H-TYPE (TRX-H) (THIO...    61  6e-09
+SEQ gi|1942873|pdb|1TOF|    Thioredoxin H (Oxidized Form), Nmr, 23 S...    61  6e-09
+SEQ gi|7509848|pir||T33843 hypothetical protein Y44E3A.3 - Caenorhab...    60  7e-09
+SEQ gi|6979566|gb|AAF34541.1|AF202664_1 (AF202664) thioredoxin 1 [Pl...    60  7e-09
+SEQ gi|6492215|gb|AAF14217.1|AF107490_1 (AF107490) thioredoxin [Fasc...    60  8e-09
+SEQ gi|6687568|emb|CAB65014.1| (AJ250097) thioredoxin (TRX) [Fasciol...    60  8e-09
+SEQ gi|456013|gb|AAC37215.1| (L28174) disulfide-like protein [Acanth...    60  9e-09
+SEQ gi|115141|sp|P12865|BS2_TRYBB BLOODSTREAM-SPECIFIC PROTEIN 2 PRE...    60  9e-09
+SEQ gi|7430840|pir||B70873 probable trxB protein - Mycobacterium tub...    60  1e-08
+SEQ gi|2501210|sp|Q00216|TIGA_ASPNG PUTATIVE DISULFIDE ISOMERASE TIG...    59  1e-08
+SEQ gi|267116|sp|P29447|THI3_DICDI THIOREDOXIN 3 >gi|626054|pir||C46...    59  1e-08
+SEQ gi|7504452|pir||T31557 hypothetical protein F56G4.5 - Caenorhabd...    59  1e-08
+SEQ gi|7504451|pir||T22786 hypothetical protein F56G4.5 - Caenorhabd...    59  1e-08
+SEQ gi|1353730|gb|AAB01771.1| (U42760) thioredoxin homolog [Naegleri...    59  1e-08
+SEQ gi|11135282|sp|Q43636|THIH_RICCO THIOREDOXIN H-TYPE (TRX-H) >gi|...    59  2e-08
+SEQ gi|129726|sp|P05307|PDI_BOVIN PROTEIN DISULFIDE ISOMERASE PRECUR...    59  2e-08
+SEQ gi|2627440|gb|AAB86685.1| (AF019112) protein disulfide isomerase...    59  2e-08
+SEQ gi|13540604|ref|NP_110437.1| hypothetical protein MGC3178 [Homo ...    59  2e-08
+SEQ gi|14485509|emb|CAC42084.1| (AJ319808) thioredoxin h [Pisum sati...    59  2e-08
+SEQ gi|2501209|sp|Q92249|ER38_NEUCR PUTATIVE DISULFIDE ISOMERASE ERP...    59  2e-08
+SEQ gi|12718269|emb|CAC28831.1| (AL513467) probable protein disulfid...    59  2e-08
+SEQ gi|7437390|pir||S71863 protein disulfide-isomerase (EC 5.3.4.1) ...    59  2e-08
+SEQ gi|11134225|sp|Q9XI01|PDI1_ARATH PROBABLE PROTEIN DISULFIDE ISOM...    59  2e-08
+SEQ gi|8575805|gb|AAF78087.1|AF274502_2 (AF274502) protein disulfide...    59  2e-08
+SEQ gi|6679687|ref|NP_031978.1| glucose regulated protein, 58 kDa; e...    58  3e-08
+SEQ gi|7430836|pir||C69772 thioredoxin homolog ydbP - Bacillus subti...    58  3e-08
+SEQ gi|1174683|sp|Q09433|THIO_CAEEL PROBABLE THIOREDOXIN >gi|7494772...    58  3e-08
+SEQ gi|2129752|pir||S58123 thioredoxin (clone GIF2) - Arabidopsis th...    58  3e-08
+SEQ gi|12643747|sp|Q38879|THH2_ARATH THIOREDOXIN H-TYPE 2 (TRX-H-2) ...    58  3e-08
+SEQ gi|3219561|emb|CAA19652.1| (AL023893) /prediction=(method:''gene...    58  4e-08
+SEQ gi|129729|sp|P09103|PDI_MOUSE PROTEIN DISULFIDE ISOMERASE PRECUR...    58  4e-08
+SEQ gi|7437396|pir||T06724 protein disulfide-isomerase homolog F28P1...    58  5e-08
+SEQ gi|11133818|sp|Q9XF61|PDI_DATGL PROTEIN DISULFIDE ISOMERASE PREC...    58  5e-08
+SEQ gi|2501207|sp|Q11067|PDA6_CAEEL PROBABLE PROTEIN DISULFIDE ISOME...    58  5e-08
+SEQ gi|14573872|gb|AAB63409.2| (U97402) Hypothetical protein C30H7.2...    58  5e-08
+SEQ gi|129730|sp|P21195|PDI_RABIT PROTEIN DISULFIDE ISOMERASE PRECUR...    58  6e-08
+SEQ gi|12082335|dbj|BAB20886.1| (AB053294) thioredoxin h [Oryza sativa]    58  6e-08
+SEQ gi|12805465|gb|AAH02207.1|AAH02207 (BC002207) Unknown (protein f...    58  6e-08
+SEQ gi|12835910|dbj|BAB23413.1| (AK004617) putative [Mus musculus]         58  6e-08
+SEQ gi|13624884|emb|CAC36986.1| (AJ310990) thioredoxin h [Pisum sati...    57  6e-08
+SEQ gi|6319925|ref|NP_010006.1| mitochondrial thioredoxin; Trx3p [Sa...    57  6e-08
+SEQ gi|464883|sp|P34723|THIO_PENCH THIOREDOXIN >gi|1078638|pir||A498...    57  7e-08
+SEQ gi|8980491|emb|CAB96931.1| (AJ404845) thioredoxin h [Triticum ae...    57  8e-08
+SEQ gi|3915124|sp|O51088|THIO_BORBU THIOREDOXIN (TRX) >gi|7430839|pi...    57  8e-08
+SEQ gi|266743|sp|P29828|PDI_MEDSA PROTEIN DISULFIDE ISOMERASE PRECUR...    57  9e-08
+SEQ gi|7332072|gb|AAF60759.1| (AC024810) Hypothetical protein Y54E10...    57  9e-08
+SEQ gi|2507460|sp|P07237|PDI_HUMAN PROTEIN DISULFIDE ISOMERASE PRECU...    57  9e-08
+SEQ gi|339647|gb|AAA61169.1| (J02783) thyroid hormone binding protei...    57  9e-08
+SEQ gi|2098329|pdb|1MEK|    Human Protein Disulfide Isomerase, Nmr, ...    57  9e-08
+SEQ gi|99992|pir||A41440 protein disulfide-isomerase (EC 5.3.4.1) pr...    57  1e-07
+SEQ gi|4150983|emb|CAA76654.1| (Y17147) thioredoxin [Geodia cydonium]      56  1e-07
+SEQ gi|7437386|pir||S71862 protein disulfide-isomerase (EC 5.3.4.1) ...    56  1e-07
+SEQ gi|7495584|pir||T34092 hypothetical protein C07A12.4 - Caenorhab...    56  1e-07
+SEQ gi|8778373|gb|AAF79381.1|AC007887_40 (AC007887) F15O4.20 [Arabid...    56  1e-07
+SEQ gi|14423498|gb|AAK62431.1|AF386986_1 (AF386986) Unknown protein ...    56  1e-07
+SEQ gi|11135126|sp|O64394|THIH_WHEAT THIOREDOXIN H-TYPE (TRX-H) (TRX...    56  1e-07
+SEQ gi|2995380|emb|CAA05081.1| (AJ001903) thioredoxin H [Triticum tu...    56  1e-07
+SEQ gi|2495542|sp|P77395|YBBN_ECOLI HYPOTHETICAL 33.1 KDA PROTEIN IN...    56  1e-07
+SEQ gi|12513382|gb|AAG54849.1|AE005230_9 (AE005230) putative thiored...    56  1e-07
+SEQ gi|7716428|gb|AAF68382.1|AF236124_1 (AF236124) thioredoxin 1 [An...    56  1e-07
+SEQ gi|12025459|gb|AAG45936.1|AF325211_1 (AF325211) protein disulfid...    56  2e-07
+SEQ gi|13489047|gb|AAK27796.1|AF295634_1 (AF295634) protein disulfid...    56  2e-07
+SEQ gi|4758304|ref|NP_004902.1| protein disulfide isomerase related ...    56  2e-07
+SEQ gi|13631066|ref|XP_011568.2| 11469 [Homo sapiens]                      56  2e-07
+SEQ gi|68462|pir||ISMSSS protein disulfide-isomerase (EC 5.3.4.1) pr...    56  2e-07
+SEQ gi|7292228|gb|AAF47638.1| (AE003474) CG8993 gene product [Drosop...    56  2e-07
+SEQ gi|7430834|pir||B64702 thioredoxin - Helicobacter pylori (strain...    56  2e-07
+SEQ gi|7430833|pir||A71817 probable thioredoxin - Helicobacter pylor...    56  2e-07
+SEQ gi|7298052|gb|AAF53293.1| (AE003639) CG9302 gene product [Drosop...    56  2e-07
+SEQ gi|129731|sp|P04785|PDI_RAT PROTEIN DISULFIDE ISOMERASE PRECURSO...    56  2e-07
+SEQ gi|1352731|sp|Q10057|PDI1_SCHPO PUTATIVE PROTEIN DISULFIDE ISOME...    55  3e-07
+SEQ gi|12324654|gb|AAG52290.1|AC019018_27 (AC019018) putative thiore...    55  3e-07
+SEQ gi|11134159|sp|Q9SRG3|PDI2_ARATH PROBABLE PROTEIN DISULFIDE ISOM...    55  3e-07
+SEQ gi|5326749|gb|AAD42032.1|AF075246_1 (AF075246) protein disulfide...    55  4e-07
+SEQ gi|6324862|ref|NP_014931.1| Disulfide isomerase related protein;...    55  4e-07
+SEQ gi|1351240|sp|P47938|THIO_DROME THIOREDOXIN (DEADHEAD PROTEIN) >...    55  4e-07
+SEQ gi|11135405|sp|Q9XFH9|THF2_ARATH THIOREDOXIN F-TYPE 2, CHLOROPLA...    55  4e-07
+SEQ gi|10728195|gb|AAF48082.2| (AE003487) CG1837 gene product [Droso...    55  4e-07
+SEQ gi|422337|pir||S34275 protein disulfide-isomerase homolog precur...    54  4e-07
+SEQ gi|7437393|pir||JC5378 protein disulfide-isomerase (EC 5.3.4.1) ...    54  5e-07
+SEQ gi|14017877|dbj|BAB47459.1| (AB058733) KIAA1830 protein [Homo sa...    54  5e-07
+SEQ gi|6753240|ref|NP_033917.1| calcium binding protein, intestinal;...    54  6e-07
+SEQ gi|119531|sp|P08003|PDA4_MOUSE PROTEIN DISULFIDE ISOMERASE A4 PR...    54  6e-07
+SEQ gi|202549|gb|AAA40620.1| (M21018) iodothyronine 5' monodeiodinas...    54  6e-07
+SEQ gi|13541608|ref|NP_111296.1| Thioredoxin [Thermoplasma volcanium...    54  6e-07
+SEQ gi|11133775|sp|Q43116|PDI_RICCO PROTEIN DISULFIDE ISOMERASE PREC...    54  6e-07
+SEQ gi|7496754|pir||T25574 hypothetical protein C30H7.2 - Caenorhabd...    54  6e-07
+SEQ gi|11358957|pir||T50865 thioredoxin-like protein [imported] - pe...    54  6e-07
+SEQ gi|630536|pir||S44756 probable protein disulfide-isomerase (EC 5...    54  7e-07
+SEQ gi|13124789|sp|P34329|PDA4_CAEEL PROBABLE PROTEIN DISULFIDE ISOM...    54  7e-07
+SEQ gi|729434|sp|P38658|ER60_SCHMA PROBABLE PROTEIN DISULFIDE ISOMER...    54  7e-07
+SEQ gi|2117424|pir||S58118 thioredoxin (clone GIF1) - Arabidopsis th...    54  7e-07
+SEQ gi|514348|gb|AAA72723.1| (M23880) [Chicken prolyl 4-hydroxylase ...    54  8e-07
+SEQ gi|5803121|ref|NP_006801.1| for protein disulfide isomerase-rela...    54  8e-07
+SEQ gi|13647167|ref|XP_002849.3| for protein disulfide isomerase-rel...    54  8e-07
+SEQ gi|729436|sp|P38659|PDA4_RAT PROTEIN DISULFIDE ISOMERASE A4 PREC...    54  8e-07
+SEQ gi|423647|pir||S32476 protein disulfide-isomerase (EC 5.3.4.1) E...    54  8e-07
+SEQ gi|267122|sp|P29448|THH1_ARATH THIOREDOXIN H-TYPE 1 (TRX-H-1) >g...    54  9e-07
+SEQ gi|7206854|gb|AAF40013.1| (AC006834) contains similarity to Pfam...    54  9e-07
+SEQ gi|7767672|gb|AAF69169.1|AC007915_21 (AC007915) F27F5.21 [Arabid...    53  9e-07
+SEQ gi|11360070|pir||T46333 hypothetical protein DKFZp434J1813.1 - h...    53  9e-07
+SEQ gi|14042135|dbj|BAB55121.1| (AK027450) unnamed protein product [...    53  9e-07
+SEQ gi|14042479|dbj|BAB55263.1| (AK027647) unnamed protein product [...    53  9e-07
+SEQ gi|14042569|dbj|BAB55304.1| (AK027696) unnamed protein product [...    53  9e-07
+SEQ gi|14042577|dbj|BAB55307.1| (AK027701) unnamed protein product [...    53  9e-07
+SEQ gi|9621792|gb|AAF89535.1|AF164624_1 (AF164624) protein disulfide...    53  9e-07
+SEQ gi|5650705|emb|CAB51612.1| (AJ243958) protein disulfide isomeras...    53  1e-06
+SEQ gi|640449|pdb|1TRS|    Thioredoxin Mutant With Cys 62 Replaced B...    53  1e-06
+SEQ gi|1827675|pdb|1ERV|    Human Thioredoxin Mutant With Cys 73 Rep...    53  1e-06
+SEQ gi|586099|sp|Q07090|THH2_TOBAC THIOREDOXIN H-TYPE 2 (TRX-H2) >gi...    53  1e-06
+SEQ gi|1709618|sp|P55059|PDI_HUMIN PROTEIN DISULFIDE ISOMERASE PRECU...    53  1e-06
+SEQ gi|63739|emb|CAA31502.1| (X13110) prolyl-4-hydroxylase (AA 5 - 4...    53  1e-06
+SEQ gi|129727|sp|P09102|PDI_CHICK PROTEIN DISULFIDE ISOMERASE (PDI) ...    53  1e-06
+SEQ gi|2144546|pir||ISCHSS protein disulfide-isomerase (EC 5.3.4.1) ...    53  1e-06
+SEQ gi|12056115|emb|CAC21228.1| (AJ277377) protein disulfide isomera...    53  1e-06
+SEQ gi|12056117|emb|CAC21229.1| (AJ277378) protein disulfide isomera...    53  1e-06
+SEQ gi|13925726|gb|AAK49424.1|AF262980_1 (AF262980) protein disulfid...    53  1e-06
+SEQ gi|13925728|gb|AAK49425.1|AF262981_1 (AF262981) protein disulfid...    53  1e-06
+SEQ gi|7295434|gb|AAF50750.1| (AE003565) Txl gene product [Drosophil...    53  1e-06
+SEQ gi|7672773|gb|AAF66635.1|AF143404_1 (AF143404) thioredoxin-like ...    53  1e-06
+SEQ gi|267120|sp|P29450|THIF_PEA THIOREDOXIN F-TYPE, CHLOROPLAST PRE...    52  2e-06
+SEQ gi|12643755|sp|Q39241|THH5_ARATH THIOREDOXIN H-TYPE 5 (TRX-H-5) ...    52  2e-06
+SEQ gi|1388084|gb|AAC49356.1| (U35829) thioredoxin h [Arabidopsis th...    52  2e-06
+SEQ gi|135767|sp|P08629|THIO_CHICK THIOREDOXIN >gi|86443|pir||A30006...    52  2e-06
+SEQ gi|267124|sp|P29449|THH1_TOBAC THIOREDOXIN H-TYPE 1 (TRX-H1) >gi...    52  2e-06
+SEQ gi|267126|sp|P29451|THIO_MACMU THIOREDOXIN >gi|86642|pir||JS0667...    52  2e-06
+SEQ gi|13560979|gb|AAK30295.1|AF353204_1 (AF353204) thioredoxin [Cal...    52  2e-06
+SEQ gi|14494995|emb|CAC28361.2| (AJ306291) putative protein disulfid...    52  2e-06
+SEQ gi|1709617|sp|P80284|PDI_HORVU PROTEIN DISULFIDE ISOMERASE PRECU...    52  2e-06
+SEQ gi|11362710|pir||T50864 thioredoxin-like protein [imported] - Ho...    52  2e-06
+SEQ gi|12322718|gb|AAG51342.1|AC012562_3 (AC012562) thioredoxin-like...    52  2e-06
+SEQ gi|135748|sp|P09856|THIF_SPIOL THIOREDOXIN F-TYPE, CHLOROPLAST P...    52  2e-06
+SEQ gi|6981324|ref|NP_037130.1| protein disulfide isomerase  (Prolyl...    52  2e-06
+SEQ gi|10835710|pdb|1F9M|A Chain A, Crystal Structure Of Thioredoxin...    52  2e-06
+SEQ gi|10835722|pdb|1FAA|A Chain A, Crystal Structure Of Thioredoxin...    52  2e-06
+SEQ gi|267115|sp|P29446|THI2_DICDI THIOREDOXIN 2 >gi|626053|pir||B46...    52  2e-06
+SEQ gi|1085952|pir||S49352 protein S1 - Phalaris coerulescens              52  2e-06
+SEQ gi|1085953|pir||S49350 hypothetical protein S2 - Phalaris coerul...    52  2e-06
+SEQ gi|1086147|pir||S49353 protein S2 - Phalaris coerulescens              52  2e-06
+SEQ gi|11362711|pir||T50862 thioredoxin-like protein [imported] - Ph...    52  2e-06
+SEQ gi|135773|sp|P10599|THIO_HUMAN THIOREDOXIN (ATL-DERIVED FACTOR) ...    52  2e-06
+SEQ gi|7504866|pir||T23055 hypothetical protein H06O01.1 - Caenorhab...    52  2e-06
+SEQ gi|7524018|gb|AAD09366.2| (U65017) protein disulfide isomerase-2...    52  2e-06
+SEQ gi|6755911|ref|NP_035790.1| thioredoxin [Mus musculus] >gi|54907...    52  2e-06
+SEQ gi|687235|gb|AAA85099.1| (U12440) protein disulfide isomerase [O...    52  2e-06
+SEQ gi|11135108|sp|O48897|THIF_BRANA THIOREDOXIN F-TYPE, CHLOROPLAST...    52  3e-06
+SEQ gi|9759328|dbj|BAB09837.1| (AB005246) protein disulphide isomera...    52  3e-06
+SEQ gi|14318713|gb|AAH09151.1|AAH09151 (BC009151) Similar to for pro...    52  3e-06
+SEQ gi|135776|sp|P11232|THIO_RAT THIOREDOXIN >gi|92873|pir||S04352 t...    52  3e-06
+SEQ gi|11358964|pir||T50867 thioredoxin-like protein [imported] - ry...    52  3e-06
+SEQ gi|3273482|gb|AAC24752.1| (AF008300) transglutaminase precursor ...    52  3e-06
+SEQ gi|10644552|gb|AAG21333.1|AF273730_1 (AF273730) hypothetical eso...    52  3e-06
+SEQ gi|230939|pdb|3TRX|    Thioredoxin (Reduced Form) >gi|231098|pdb...    52  3e-06
+SEQ gi|1709620|sp|P52589|PDI_WHEAT PROTEIN DISULFIDE ISOMERASE PRECU...    51  4e-06
+SEQ gi|13486676|dbj|BAB39913.1| (AP002912) thioredoxin-like protein ...    51  4e-06
+SEQ gi|13633977|sp|O97680|THIO_BOVIN THIOREDOXIN >gi|3978529|gb|AAC8...    51  4e-06
+SEQ gi|14326453|gb|AAK60272.1|AF382821_1 (AF382821) thioredoxin [Sus...    51  4e-06
+SEQ gi|11135312|sp|Q96419|THIH_FAGES THIOREDOXIN H-TYPE (TRX-H) >gi|...    51  4e-06
+SEQ gi|11135403|sp|Q9XFH8|THF1_ARATH THIOREDOXIN F-TYPE 1, CHLOROPLA...    51  4e-06
+SEQ gi|6728989|gb|AAF26987.1|AC018363_32 (AC018363) thioredoxin f1 [...    51  4e-06
+SEQ gi|4507745|ref|NP_003320.1| thioredoxin [Homo sapiens] >gi|33964...    51  4e-06
+SEQ gi|12841560|dbj|BAB25256.1| (AK007790) putative [Mus musculus]         51  4e-06
+SEQ gi|10640143|emb|CAC11995.1| (AL445065) thioredoxin related prote...    51  4e-06
+SEQ gi|267114|sp|P29445|THI1_DICDI THIOREDOXIN 1 >gi|626052|pir||A46...    51  4e-06
+SEQ gi|627195|pir||A54757 protein disulfide-isomerase (EC 5.3.4.1) /...    51  5e-06
+SEQ gi|7521469|pir||E72473 probable thioredoxin APE2430 - Aeropyrum ...    51  5e-06
+SEQ gi|135775|sp|P08628|THIO_RABIT THIOREDOXIN >gi|90149|pir||A28086...    51  5e-06
+SEQ gi|4505567|ref|NP_000909.1| procollagen-proline, 2-oxoglutarate ...    51  6e-06
+SEQ gi|1709616|sp|P54399|PDI_DROME PROTEIN DISULFIDE ISOMERASE PRECU...    51  6e-06
+SEQ gi|7521470|pir||H72481 probable thioredoxin APE2496 - Aeropyrum ...    51  6e-06
+SEQ gi|2392150|pdb|1AIU|    Human Thioredoxin (D60n Mutant, Reduced ...    51  7e-06
+SEQ gi|86248|pir||A30007 dolichyl-diphosphooligosaccharide--protein ...    51  7e-06
+SEQ gi|11135132|sp|O65049|THIH_PICMA THIOREDOXIN H-TYPE (TRX-H) >gi|...    51  7e-06
+SEQ gi|3392892|emb|CAA12644.1| (AJ225804) protein disulphide isomera...    51  7e-06
+SEQ gi|11135152|sp|O81332|THIF_MESCR THIOREDOXIN F-TYPE, CHLOROPLAST...    50  9e-06
+SEQ gi|493591|gb|AAA70346.1| (L33252) disulfide isomerase [Hordeum v...    50  1e-05
+SEQ gi|1827923|pdb|1CQG|A Chain A, High Resolution Solution Nmr Stru...    50  1e-05
+SEQ gi|7488371|pir||T00824 thioredoxin reductase homolog T32G6.20 - ...    50  1e-05
+SEQ gi|3892185|gb|AAC78302.1| (AF064591) protein disulfide isomerase...    50  1e-05
+SEQ gi|2501203|sp|Q00248|PDI_ASPOR PROTEIN DISULFIDE ISOMERASE PRECU...    49  1e-05
+SEQ gi|9188565|dbj|BAA99572.1| (AB036825) thioredoxin [Chlorella vul...    49  1e-05
+SEQ gi|5902592|gb|AAD55566.1|AF110784_1 (AF110784) protein disulfide...    49  1e-05
+SEQ gi|7303555|gb|AAF58609.1| (AE003824) CG8983 gene product [Drosop...    49  1e-05
+SEQ gi|12833747|dbj|BAB22648.1| (AK003217) putative [Mus musculus]         49  1e-05
+SEQ gi|1709619|sp|P52588|PDI_MAIZE PROTEIN DISULFIDE ISOMERASE PRECU...    49  2e-05
+SEQ gi|7485808|pir||T00482 hypothetical protein F19I3.24 - Arabidops...    49  2e-05
+SEQ gi|1729950|sp|P50413|THIO_SHEEP THIOREDOXIN >gi|397947|emb|CAA81...    49  2e-05
+SEQ gi|13385642|ref|NP_080408.1| RIKEN cDNA 4930429J24 gene [Mus mus...    49  2e-05
+SEQ gi|7549640|gb|AAF63825.1| (AC023912) thioredoxin, putative [Arab...    49  2e-05
+SEQ gi|7293196|gb|AAF48579.1| (AE003501) CG9911 gene product [alt 1]...    49  2e-05
+SEQ gi|3287888|sp|O13811|PDI2_SCHPO PUTATIVE PROTEIN DISULFIDE ISOME...    49  2e-05
+SEQ gi|4176392|dbj|BAA37154.1| (AB022431) thioredoxin [Equus caballus]     49  2e-05
+SEQ gi|6319806|ref|NP_009887.1| protein disulfide isomerase; Pdi1p [...    49  2e-05
+SEQ gi|2501202|sp|Q12730|PDI_ASPNG PROTEIN DISULFIDE ISOMERASE PRECU...    49  3e-05
+SEQ gi|99566|pir||S15137 thioredoxin h2 - spinach (fragments)              49  3e-05
+SEQ gi|14270163|gb|AAK50038.2| (AF363787) protein disulfide isomeras...    49  3e-05
+SEQ gi|11358963|pir||T50863 thioredoxin-like protein [imported] - ry...    49  3e-05
+SEQ gi|3949|emb|CAA36550.1| (X52313) precursor TRG1 protein [Sacchar...    48  3e-05
+SEQ gi|8489792|gb|AAF75752.1|AF261142_1 (AF261142) putative thioredo...    48  3e-05
+SEQ gi|12958636|gb|AAK09384.1|AF321769_1 (AF321769) thioredoxin prot...    48  3e-05
+SEQ gi|7437389|pir||S68280 protein disulfide-isomerase (EC 5.3.4.1) ...    48  3e-05
+SEQ gi|7209794|dbj|BAA92322.1| (AB039278) protein disulfide isomeras...    48  3e-05
+SEQ gi|3043670|dbj|BAA25499.1| (AB011145) KIAA0573 protein [Homo sap...    48  4e-05
+SEQ gi|13529224|gb|AAH05374.1|AAH05374 (BC005374) Similar to RIKEN c...    48  4e-05
+SEQ gi|9294492|dbj|BAB02711.1| (AB019230) thioredoxin-like protein [...    48  4e-05
+SEQ gi|13236192|gb|AAK16086.1|AF288082_4 (AF288082) YcaC [Photorhabd...    48  4e-05
+SEQ gi|4120|emb|CAA38402.1| (X54535) protein disulphide  isomerase [...    48  4e-05
+SEQ gi|10180029|gb|AAG13988.1|AF298829_1 (AF298829) putative protein...    48  4e-05
+SEQ gi|9837585|gb|AAG00612.1|AF293651_1 (AF293651) thioredoxin [Icta...    48  4e-05
+SEQ gi|9755396|gb|AAF98203.1|AC000107_26 (AC000107) F17F8.6 [Arabido...    47  5e-05
+SEQ gi|13235614|emb|CAC33587.1| (AJ302014) protein disulphide isomer...    47  7e-05
+SEQ gi|7517059|pir||E72453 hypothetical protein APE2273 - Aeropyrum ...    47  7e-05
+SEQ gi|3288650|emb|CAA10978.1| (AJ222773) protein disulphide isomera...    47  9e-05
+SEQ gi|5080807|gb|AAD39316.1|AC007258_5 (AC007258) Putative thioredo...    47  9e-05
+SEQ gi|5730104|ref|NP_006532.1| thioredoxin-like [Homo sapiens] >gi|...    47  1e-04
+SEQ gi|6840947|gb|AAF28841.1|AF118649_1 (AF118649) PKCq-interacting ...    47  1e-04
+SEQ gi|12735430|ref|XP_005765.2| 127 [Homo sapiens] >gi|6840953|gb|A...    47  1e-04
+SEQ gi|11135129|sp|O64432|THIH_BRARA THIOREDOXIN H-TYPE (TRX-H) >gi|...    47  1e-04
+SEQ gi|11354567|pir||G82256 conserved hypothetical protein VC0977 [i...    47  1e-04
+SEQ gi|11135277|sp|Q42388|THH1_BRANA THIOREDOXIN H-TYPE 1 (TRX-H-1) ...    46  1e-04
+SEQ gi|11494247|gb|AAG35777.1|AF273844_1 (AF273844) thioredoxin-h-li...    46  1e-04
+SEQ gi|7437394|pir||T07927 protein disulfide-isomerase (EC 5.3.4.1) ...    46  1e-04
+SEQ gi|422699|pir||A47300 cell adhesion protein retina cognin - chic...    46  2e-04
+SEQ gi|1346187|sp|P12244|GSBP_CHICK DOLICHYL-DIPHOSPHOOLIGOSACCHARID...    46  2e-04
+SEQ gi|7303341|gb|AAF58400.1| (AE003819) CG4670 gene product [Drosop...    46  2e-04
+SEQ gi|11125364|emb|CAC15387.1| (AJ250363) putative disulfide isomer...    46  2e-04
+SEQ gi|13093527|emb|CAC30771.1| (AL583923) thioredoxin [Mycobacteriu...    46  2e-04
+SEQ gi|2501215|sp|P73920|TXLA_SYNY3 THIOL:DISULFIDE INTERCHANGE PROT...    46  2e-04
+SEQ gi|7493193|pir||T37630 protein disulfide-isomerase (EC 5.3.4.1) ...    45  3e-04
+SEQ gi|12845734|dbj|BAB26874.1| (AK010354) putative [Mus musculus] >...    45  3e-04
+SEQ gi|1827674|pdb|1ERW|    Human Thioredoxin Double Mutant With Cys...    45  3e-04
+SEQ gi|12722115|gb|AAK03789.1| (AE006207) Trx [Pasteurella multocida]      45  4e-04
+SEQ gi|4587471|gb|AAD25738.1|AF100324_10 (AF100324) thioredoxin [Myc...    45  4e-04
+SEQ gi|13701539|dbj|BAB42833.1| (AP003134) ORFID:SA1565~thioredoxin ...    44  4e-04
+SEQ gi|1532175|gb|AAB07885.1| (U63815) similar to protein disulfide ...    44  4e-04
+SEQ gi|3153859|gb|AAC17430.1| (AF065241) thioredoxin delta 3 [Homo s...    44  7e-04
+SEQ gi|7291650|gb|AAF47072.1| (AE003462) CG5554 gene product [Drosop...    44  7e-04
+SEQ gi|514353|gb|AAA72728.1| (M23880) prolyl 4-hydroxylase beta-subu...    44  7e-04
+SEQ gi|3024724|sp|P81110|THIO_TISCR THIOREDOXIN (TRX)                      44  7e-04
+SEQ gi|7479047|pir||A70873 probable trxA protein - Mycobacterium tub...    44  8e-04
+SEQ gi|11466119|ref|NP_047052.1| TRXRP1; L2759.6 [Leishmania major] ...    44  9e-04
+SEQ gi|12804437|gb|AAH01625.1|AAH01625 (BC001625) Similar to for pro...    44  9e-04
+SEQ 
+## SEQUENCE PROFILE AND ENTROPY
+ SeqNo PDBNo   V   L   I   M   F   W   Y   G   A   P   S   T   C   H   R   K   Q   E   N   D  NOCC NDEL NINS ENTROPY RELENT WEIGHT
+    1    1     0   0   0   0   0   0   0   0   8   0  90   0   0   0   0   0   0   0   2   0     0    0    0   0.381     12  0.00
+    2    2     0   0   0   0   0   0   0   0   3   0   5   0   0   0   0   4   0  23   4  60     0    0    0   1.169     39  0.00
+    3    3     2   2   0   0   0   0   1   8   6   3   3   2   0   5   2  26   1  20   7  12     0    0    0   2.234     74  0.00
+    4    4    71   3  18   3   0   0   2   0   0   2   0   0   0   0   0   0   0   0   0   0     0    0    0   0.978     32  0.00
+    5    5    30  32  23   0   4   0   2   0   0   1   2   3   0   0   0   2   0   0   0   0     0    0    0   1.645     54  0.00
+    6    6    17   0   0   0   0   0   2   0   2   0   5   5   0  17   0   7   4  30   5   5     0    0    0   2.147     71  0.00
+    7    7    22  62   8   1   1   0   1   0   3   0   1   2   0   0   0   0   0   0   0   0     0    0    0   1.203     40  0.00
+    8    8     6   1   1   0   0   0   0   2   1   0   9  55   0   3   3   2   0   0  10   6     0    0    0   1.650     55  0.00
+    9    9     1   0   0   0   1   0   0   4   6   8   6   3   0   0   0  14   2   9   4  42     0    0    0   1.936     64  0.00
+   10   10     0   1   0   0   0   0   0   2  13   0  16   0   0   0   1   9   5  17   3  33     0    0    0   1.895     63  0.00
+   11   11     0   0   0   0   0   0   0   1   4   0  19  18   0   0   0   0   1   6  42   8     0    0    0   1.634     54  0.00
+   12   12     2   2   2   0  78   8   2   0   1   0   0   1   0   1   0   0   0   3   1   1     0    0    0   0.983     32  0.00
+   13   13     1   1   1   0   3   1   0   0   3   0   3   1   0   4   1   8   6  21   6  39     0    0    0   1.968     65  0.00
+   14   14     1   1   0   0   1   0   0   0   9   2  17  11   0   1   4   8   8  18   6  14     0    0    0   2.298     76  0.00
+   15   15     9   6   9   1   4   0   0   1   3   0   2   3   0   1   6   9   4  21   3  18     0    0    0   2.422     80  0.00
+   16   16    55   8  14   1   4   0   1   0   9   0   0   6   0   0   0   1   0   0   0   0     0    0    0   1.516     50  0.00
+   17   17     8  40  17   3   6   0   0   1   5   0   2   6   0   0   0   4   1   1   5   0     0    0    0   2.020     67  0.00
+   18   18     0   1   0   0   0   0   0   7   9   0   4   1   0   0   1  27  10  11  12  14     0    0    0   2.138     71  0.00
+   19   19     0   1   0   0   0   0   0   6  26   2  33   3   1   2   0   8   3   7   4   2     0    0    0   2.034     67  0.00
+   20   20     0   0   0   0   0   0   0   4   6   1   8   4   0  11   0   9   1  12  12  31     0    0    0   2.102     70  0.00
+   21   21     5   2   1   0   0   0   0  22   1   3   4   4   0   0   3  34   4   7   4   6     0    0    0   2.132     71  0.00
+   22   22     5  22   4   1   6   0   4   0   7  23   3   3   0   3   1   4   0   1   6   7     0    0    0   2.399     80  0.00
+   23   23    57   8  16   4   1   7   0   0   3   0   0   2   0   0   0   0   0   0   0   0     0    0    0   1.473     49  0.00
+   24   24    27  56   6   3   6   0   0   0   1   1   0   0   0   0   0   0   0   0   0   0     0    0    0   1.208     40  0.00
+   25   25    73   7  16   0   1   0   0   0   3   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.916     30  0.00
+   26   26     1   1   0   3   0   0   2   0   1   0   0   0   0   1   0   5   0  35   4  47     0    0    0   1.386     46  0.00
+   27   27     1   1   1   2  93   0   2   0   0   0   0   0   1   0   0   0   0   0   0   0     0    0    0   0.400     13  0.00
+   28   28     0   0   0   0  15  24  41   1   0   0   7   9   0   3   0   0   0   0   0   0     0    0    0   1.599     53  0.00
+   29   29     1   0   0   0   0   0   0   0  95   0   2   2   0   0   0   0   0   0   0   0     0    0    0   0.277      9  0.00
+   30   30     1   0   0   0   0   0   0   1   2  55   9  13   0   0   0   1   3   9   1   4     0    0    0   1.543     51  0.00
+   31   31     0   0   0   0   0  97   0   1   0   0   0   1   0   0   0   0   0   0   0   0     0    0    0   0.197      6  0.00
+   32   32     0   0   0   0   0   0   0   0   1   0   1   0  98   0   0   0   0   0   0   0     0    0    0   0.099      3  0.00
+   33   33     1   0   0   0   0   0   0  85   2   7   1   0   0   1   1   0   0   1   1   0     0    0    0   0.718     23  0.00
+   34   34     0   0   0   1   1   0   1   0   0  53   0   0   0  41   0   0   1   0   0   1     0    0    0   1.013     33  0.00
+   35   35     0   0   0   0   0   0   0   0   0   0   2   0  98   0   0   0   0   0   0   0     0    0    0   0.115      3  0.00
+   36   36     0   1   1   1   0   0   0   0   1   0   0   0   0   0  21  65   9   0   0   0     0    0    0   1.057     35  0.00
+   37   37     5   4   6  24   3   0   1   0  13   0   6   1   0   1   9  11   9   1   7   0     0    0    0   2.367     79  0.00
+   38   38     3  48  33   9   5   0   0   0   0   0   0   1   0   0   0   0   1   0   0   0     0    0    0   1.275     42  0.00
+   39   39     2   2   1   2   0   0   0   4  60   0   5   4   0   2   0   7   1   7   2   1     0    0    0   1.614     53  0.00
+   40   40     0   0   0   0   0   0   0   0   0  96   1   0   0   0   0   0   0   1   0   0     0    0    0   0.245      8  0.00
+   41   41    18   3  23   1   6   0   1   0   4   0   1   6   0   1   2   8   1  24   0   2     0    0    0   2.119     70  0.00
+   42   42     5  26   7   2  18   8  32   0   3   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.722     57  0.00
+   43   43     2   1   0   0   0   0   0   1  13   0   2   2   0   5   2   6   2  41   4  19     0    0    0   1.885     62  0.00
+   44   44     0   2   0   0   0   0   0   0  10   0   7   1   0   0   2  26   5  38   1   6     0    0    0   1.801     60  0.00
+   45   45     7  41  13   6   3   0   0   0  27   0   0   0   0   0   0   1   0   0   0   0     0    0    0   1.585     52  0.00
+   46   46     3   2   0   0   0   0   0   6  64   1  18   1   1   0   0   1   0   1   0   1     0    0    0   1.255     41  0.00
+   47   47     2   1   0   0   0   0   0   4   9   1   8  13   0   0   3  21   6  17   7   8     0    0    0   2.308     77  0.00
+   48   48     1   2   1   1   0   0   0   0   5   0   3  12   0   1   5  24   7  31   1   6     0    0    0   2.046     68  0.00
+   49   49     1  28   3   2  12   0  36   0   2   0   0   1   0   6   1   2   2   2   1   1     0    0    0   1.897     63  0.00
+   50   50     1   2   0   1   0   0   1   6   8   8  13   3   0   2   3  27   8   9   3   4     0    0    0   2.411     80  0.00
+   51   51     0   0   0   0   1   0   0  40   7   5  12   1   0   0   0   5   2   4   6  18     0    0    0   1.891     63  0.00
+   52   52     4   0   4   0   0   0   0   1   5   3   4   2   0   3   6  29  10  10  10   9     0    0    0   2.361     78  0.00
+   53   53    41  16  22   1   4   0   0   0   7   1   1   1   0   0   0   1   0   3   0   1     0    0    0   1.736     57  0.00
+   54   54    20   2   7   3   2   0   0   0   4   7   4  11   0   0   6  22   1   3   3   5     0    0    0   2.405     80  0.00
+   55   55    23  25  19   1  25   1   0   0   2   0   0   0   3   0   0   0   0   0   0   0     0    0    0   1.693     56  0.00
+   56   56    19  11   3   0   3   0   5  11  44   0   0   1   2   0   0   0   0   0   0   0     0    0    0   1.674     55  0.00
+   57   57     0   1   5   0   2   0   0   1   6   0   1   3   0   1   2  70   2   6   1   0     0    0    0   1.293     43  0.00
+   58   58    50  22  16   5   1   0   0   0   5   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.340     44  0.00
+   59   59     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   6   0   2  27  64     0    0    0   0.941     31  0.00
+   60   60    28   2  12   4   1   0   0   0  23   0   0  10  16   0   0   0   0   1   0   1     0    0    0   1.923     64  0.00
+   61   61     0   0   0   0   0   0   0   0   0   0   1  27   0   0   0   0   2   7   1  62     0    0    0   1.045     34  0.00
+   62   62     6   0   1   0   0   0   0   1  19   1   5   3   1   2   1   8   7  34   1  11     0    0    0   2.077     69  0.00
+   63   63     2   9   0   0   2   0   3   1   5   0   5   6   6   9   0   0   2  12  35   2     0    0    0   2.202     73  0.00
+   64   64     1   2   0   1   0   0   1   2   7  22   9   8   0   0   5  11  15   9   2   4     0    0    0   2.397     80  0.00
+   65   65     4   0   2   2   0   0   0   7   8   3   8   4   0   0   2   2   4  13  16  25     0    0    0   2.348     78  0.00
+   66   66    19  30  14   1   3   0   0   0   1   4   1  19   0   1   0   0   0   3   1   3     0    0    0   1.951     65  0.00
+   67   67     6   1   1   0   0   0   0   3  54   6   8   2  14   1   1   1   0   0   1   0     0    0    0   1.646     54  0.00
+   68   68     1   1   3   2   0   0   0   7  12   9  18   4   0   0   3   6  12  12   7   4     0    0    0   2.463     82  0.00
+   69   69     1   0   0   2   0   0   0   3   4   0   3   4   0   1  10  27  15  24   1   5     0    0    0   2.097     70  0.00
+   70   70     3   6   1   1  24   3  46   0   4   0   0   0   4   2   0   0   2   1   2   0     0    0    0   1.743     58  0.00
+   71   71     1   0   0   0   0   0   0  43   1   0   5   0   0   2   3   8   4  14   9  10     0    0    0   1.869     62  0.00
+   72   72    60   1  37   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.798     26  0.00
+   73   73     1   1   0   4   0   0   1   0   1   1  16   5   0   2  33  12  12   8   3   1     0    0    0   2.098     70  0.00
+   74   74     2   0   0   0   0   0   0  46  20   0  24   0   4   0   0   2   0   1   1   0     0    0    0   1.448     48  0.00
+   75   75     7   5  23  16  20   0  26   0   0   0   0   3   0   0   0   0   0   0   0   0     0    0    0   1.763     58  0.00
+   76   76     0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0     0    0    0   0.014      0  0.00
+   77   77     1   0   0   0   0   0   0   0   2   0   3  93   0   1   0   0   0   0   0   0     0    0    0   0.374     12  0.00
+   78   78     8  41  23   2  23   0   0   0   0   0   0   2   0   0   0   0   0   0   0   0     0    0    0   1.426     47  0.00
+   79   79    10  16  10   9   4   0   5   0   1   0   0   0   1   1   2  33   6   0   1   0     0    0    0   2.081     69  0.00
+   80   80     9  23  22   2  34   2   4   0   3   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.678     56  0.00
+   81   81     4   9   5   3  64   1  10   0   1   0   0   0   0   0   1   1   0   0   0   0     0    0    0   1.370     45  0.00
+   82   82     4   0   0   0   0   0   0   0   1   7   2   1   0   0  19  54   4   2   3   0     0    0    0   1.553     51  0.00
+   83   83     0   0   0   0   0   0   0  10   7   2   4   0   0   0   1  13   3   4  34  21     0    0    0   1.931     64  0.00
+   84   84     0   0   0   0   0   0   0  86   0   0   6   0   0   0   0   1   0   1   3   1     0    0    0   0.661     22  0.00
+   85   85     2   0   0   0   0   0   0   4   1   0   4   1   0   0   2  18  20  31   4  11     0    0    0   1.940     64  0.00
+   86   86    23   7   6   2   0   0   1   0   4   6   2   5   0   0   5  19   5  14   1   0     0    0    0   2.267     75  0.00
+   87   87    35   7   8   1   0   0   1   1  20   1   3   1   1   2   2  10   1   3   0   1     0    0    0   2.126     70  0.00
+   88   88     3   1   1   1   1   0   0  10  16   3   9   1   0   1   0   7   1  14   1  29     0    0    0   2.162     72  0.00
+   89   89     3   1   0   2   1   0   3   3   6   7   9  18   0   1  14  13   7   8   2   3     0    0    0   2.494     83  0.00
+   90   90    18   9  10   3   8   0  15   0   1   1   3   1   0   1   3  19   3   4   0   1     0    0    0   2.328     77  0.00
+   91   91    48   1  14   1   1   0   3   1   2   1   4   4   0   0   0   2   3   6   2   6     0    0    0   1.921     64  0.00
+   92   92     0   0   0   0   0   0   0  95   1   0   1   0   0   0   0   0   0   1   1   0     0    0    0   0.267      8  0.00
+   93   93     4   3   2   0   4   0   1   5  60   4   3   1   0   2   0   1   0   8   0   2     0    0    0   1.652     55  0.00
+   94   94    16  15   5   5   8   0   0   0   4   0   1   1   0   3  22   8   6   0   3   1     0    0    0   2.325     77  0.00
+   95   95     0   1   0   0   0   0   0   2   4  31  27  13   0   0   0   3   2   2   4  11     0    0    0   1.891     63  0.00
+   96   96     3   5   0   0   0   0   0   0  11   3   1   0   0   0   3  54   2  15   0   1     0    0    0   1.598     53  0.00
+   97   97     0   1   0   0   0   0   0  16  13   1  13   7   0   0   2   2   2  18   5  19     0    0    0   2.147     71  0.00
+   98   98     0   0   1   2   0   0   1   3  23   1   8  12   0   0   3   9  20   9   1   5     0    0    0   2.253     75  0.00
+   99   99     2  59  24   1   4   0   1   0   0   0   0   0   0   0   0   0   0   0   8   0     0    0    0   1.210     40  0.00
+  100  100     9   7   5   1   2   0   0   0  11   0   3   8   0   0   9  25   3  12   2   2     0    0    0   2.368     79  0.00
+  101  101     0   0   0   0   0   0   0   0  13   0   8   5   0   0   3   8   8  39   6  11     0    0    0   1.903     63  0.00
+  102  102     3  10   3   1  37   7   7   0   2   0   3   9   0   0   1  12   1   1   0   1     0    0    0   2.122     70  0.00
+  103  103    16  42  37   2   1   0   0   0   1   0   1   0   0   0   0   0   0   0   0   0     0    0    0   1.251     41  0.00
+  104  104     0   0   1   0   0   0   0   1   5   0   1   0   0   0   3   9   3  36  15  28     0    0    0   1.648     55  0.00
+  105  105     0   1   0   0   0   0   0   2  40   2   6   1   0   0   2  30   5   7   1   3     0    0    0   1.704     56  0.00
+  106  106     3   4   0   2   1   0   7   0   2   0  10  12   0  15   0   0   6   1  34   1     0    0    0   2.078     69  0.00
+  107  107     8  54  31   3   0   0   0   0   2   0   1   0   0   0   0   0   0   0   0   0     0    0    0   1.139     38  0.00
+  108  108     0   0   0   0   0   0   0   0  89   0  11   0   0   0   0   0   0   0   0   0     0    0    0   0.343     11  0.00
+//

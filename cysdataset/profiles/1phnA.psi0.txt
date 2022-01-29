@@ -1,0 +1,411 @@
+ID Pseudo hssp file.
+SEQ 
+SEQ gi|1346715|sp|P00306|PHCA_CYACA C-PHYCOCYANIN ALPHA CHAIN >gi|65...   277  5e-74
+SEQ gi|304586|gb|AAB01593.1| (L13467) cpcA [Cyanidium caldarium]          276  1e-73
+SEQ gi|3122619|sp|Q36699|PHCA_RHOVL C-PHYCOCYANIN ALPHA CHAIN >gi|14...   249  2e-65
+SEQ gi|11465844|ref|NP_053988.1| phycocyanin alpha chain [Porphyra p...   247  7e-65
+SEQ gi|585683|sp|P37207|PHCA_PORCR R-PHYCOCYANIN I ALPHA CHAIN >gi|6...   246  1e-64
+SEQ gi|130021|sp|P28557|PHCA_AGLNE C-PHYCOCYANIN ALPHA CHAIN >gi|478...   245  3e-64
+SEQ gi|11465527|ref|NP_045082.1| unknown; phycocyanin alpha chain [C...   242  3e-63
+SEQ gi|1730547|sp|P50032|PHCA_SYNEL C-PHYCOCYANIN ALPHA CHAIN >gi|21...   238  3e-62
+SEQ gi|13786867|pdb|1I7Y|A Chain A, Crystal Structure Of C-Phycocyan...   238  4e-62
+SEQ gi|130022|sp|P07121|PHCA_ANASP C-PHYCOCYANIN ALPHA CHAIN >gi|797...   236  1e-61
+SEQ gi|266767|sp|P00307|PHCA_MASLA C-PHYCOCYANIN ALPHA CHAIN >gi|149...   235  4e-61
+SEQ gi|65853|pir||CFMWA C-phycocyanin alpha chain - Fischerella sp        232  1e-60
+SEQ gi|400787|sp|P11394|PHRA_SYNPZ R-PHYCOCYANIN II ALPHA CHAIN >gi|...   230  7e-60
+SEQ gi|14488470|pdb|1GH0|A Chain A, Crystal Structure Of C-Phycocyan...   229  2e-59
+SEQ gi|14549167|sp|P72509|PHCA_SPIPL C-PHYCOCYANIN ALPHA CHAIN            229  2e-59
+SEQ gi|11467423|ref|NP_043280.1| alpha subunit of phycocyanin [Cyano...   229  2e-59
+SEQ gi|130030|sp|P20776|PHCA_SYNY1 C-PHYCOCYANIN ALPHA CHAIN >gi|976...   228  2e-59
+SEQ gi|1654094|emb|CAA70296.1| (Y09074) phycocyanin alpha subunit [S...   226  1e-58
+SEQ gi|130026|sp|P03943|PHCA_SYNP2 C-PHYCOCYANIN ALPHA CHAIN >gi|658...   226  1e-58
+SEQ gi|130029|sp|P27288|PHCA_SYNPW R-PHYCOCYANIN ALPHA CHAIN >gi|658...   225  2e-58
+SEQ gi|400786|sp|Q02182|PHRA_SYNPY R-PHYCOCYANIN II ALPHA CHAIN >gi|...   223  1e-57
+SEQ gi|2493297|sp|Q54715|PHCA_SYNY3 C-PHYCOCYANIN ALPHA CHAIN >gi|74...   222  2e-57
+SEQ gi|129984|sp|P07122|PHA1_FREDI C-PHYCOCYANIN-1 ALPHA CHAIN >gi|2...   221  5e-57
+SEQ gi|129985|sp|P08040|PHA2_FREDI C-PHYCOCYANIN-2 ALPHA CHAIN >gi|7...   215  2e-55
+SEQ gi|130028|sp|P13530|PHCA_SYNP7 C-PHYCOCYANIN ALPHA CHAIN >gi|214...   214  4e-55
+SEQ gi|43383|emb|CAA30062.1| (X07012) PC(alpha) (AA 1 - 162) [Fremye...   213  8e-55
+SEQ gi|2493295|sp|Q52447|PHA1_PSEA9 C-PHYCOCYANIN-1 ALPHA CHAIN >gi|...   211  3e-54
+SEQ gi|130027|sp|P00308|PHCA_SYNP6 C-PHYCOCYANIN ALPHA CHAIN              209  2e-53
+SEQ gi|79799|pir||S00714 phycocyanin 1 alpha chain - Calothrix sp >g...   206  1e-52
+SEQ gi|7770710|gb|AAC25587.3| (AF068771) alpha-phycocyanin [Synechoc...   200  1e-50
+SEQ gi|2493296|sp|Q52452|PHA2_PSEA9 C-PHYCOCYANIN-2 ALPHA CHAIN >gi|...   199  2e-50
+SEQ gi|129986|sp|P14876|PHA3_FREDI C-PHYCOCYANIN-3 ALPHA CHAIN >gi|7...   198  3e-50
+SEQ gi|226467|prf||1513434B light harvesting protein [Calothrix sp.]      196  1e-49
+SEQ gi|130052|sp|P00309|PHEA_MASLA PHYCOERYTHROCYANIN ALPHA CHAIN >g...   194  5e-49
+SEQ gi|548503|sp|P35796|PHEA_ANASP PHYCOERYTHROCYANIN ALPHA CHAIN >g...   191  4e-48
+SEQ gi|2673721|emb|CAA05952.1| (AJ003181) phycocyanin alpha subunit ...   128  5e-29
+SEQ gi|10303345|emb|CAC10065.1| (AJ401187) phycocyanin alpha subunit...   127  7e-29
+SEQ gi|10303342|emb|CAC10075.1| (AJ401186) phycocyanin alpha subunit...   127  1e-28
+SEQ gi|10303348|emb|CAC10077.1| (AJ401188) phycocyanin alpha subunit...   126  2e-28
+SEQ gi|2673679|emb|CAA05924.1| (AJ003167) phycocyanin alpha subunit ...   125  3e-28
+SEQ gi|10303000|emb|CAC10015.1| (AJ401167) phycocyanin alpha subunit...   125  3e-28
+SEQ gi|5730439|gb|AAD48560.1| (AF101444) c-phycocyanin alpha subunit...   125  4e-28
+SEQ gi|2673700|emb|CAA05938.1| (AJ003174) phycocyanin alpha subunit ...   125  4e-28
+SEQ gi|10303339|emb|CAC10073.1| (AJ401185) phycocyanin alpha subunit...   125  4e-28
+SEQ gi|2673694|emb|CAA05934.1| (AJ003172) phycocyanin alpha subunit ...   125  4e-28
+SEQ gi|2673718|emb|CAA05950.1| (AJ003180) phycocyanin alpha subunit ...   124  5e-28
+SEQ gi|10303063|emb|CAC10039.1| (AJ401179) phycocyanin alpha subunit...   124  5e-28
+SEQ gi|13810190|emb|CAC37389.1| (AJ310554) phycocyanin alpha subunit...   124  5e-28
+SEQ gi|10302997|emb|CAC10013.1| (AJ401166) phycocyanin alpha subunit...   124  6e-28
+SEQ gi|5730457|gb|AAD48578.1| (AF101453) c-phycocyanin alpha subunit...   124  7e-28
+SEQ gi|5730455|gb|AAD48576.1| (AF101452) c-phycocyanin alpha subunit...   124  8e-28
+SEQ gi|2673724|emb|CAA05954.1| (AJ003182) phycocyanin alpha subunit ...   124  1e-27
+SEQ gi|5730461|gb|AAD48582.1| (AF101455) c-phycocyanin alpha subunit...   123  1e-27
+SEQ gi|400760|sp|Q02179|PHA1_SYNPY C-PHYCOERYTHRIN CLASS I ALPHA CHA...   121  4e-27
+SEQ gi|2673682|emb|CAA05926.1| (AJ003168) phycocyanin alpha subunit ...   121  6e-27
+SEQ gi|5730459|gb|AAD48580.1| (AF101454) c-phycocyanin alpha subunit...   120  9e-27
+SEQ gi|2673688|emb|CAA05930.1| (AJ003170) phycocyanin alpha subunit ...   120  1e-26
+SEQ gi|5730453|gb|AAD48574.1| (AF101451) c-phycocyanin alpha subunit...   120  1e-26
+SEQ gi|11055218|gb|AAG28014.1|AF195177_2 (AF195177) phycocyanin alph...   119  2e-26
+SEQ gi|11055161|gb|AAG27976.1|AF195158_2 (AF195158) phycocyanin alph...   119  3e-26
+SEQ gi|6119573|emb|CAB59527.1| (AJ131820) C-phycocyanin, alpha subun...   118  3e-26
+SEQ gi|13810193|emb|CAC37391.1| (AJ310555) phycocyanin alpha subunit...   118  3e-26
+SEQ gi|6635806|gb|AAF19982.1|AF212923_2 (AF212923) CpcA [Planktothri...   118  4e-26
+SEQ gi|11055194|gb|AAG27998.1|AF195169_2 (AF195169) phycocyanin alph...   118  5e-26
+SEQ gi|585676|sp|Q08086|PHA1_SYNPW C-PHYCOERYTHRIN CLASS I ALPHA CHA...   118  5e-26
+SEQ gi|11055224|gb|AAG28018.1|AF195179_2 (AF195179) phycocyanin alph...   117  6e-26
+SEQ gi|13810187|emb|CAC37387.1| (AJ310553) phycocyanin alpha subunit...   117  6e-26
+SEQ gi|2673730|emb|CAA05958.1| (AJ003184) phycocyanin alpha subunit ...   117  1e-25
+SEQ gi|2673697|emb|CAA05936.1| (AJ003173) phycocyanin alpha subunit ...   117  1e-25
+SEQ gi|11055206|gb|AAG28006.1|AF195173_2 (AF195173) phycocyanin alph...   117  1e-25
+SEQ gi|11055221|gb|AAG28016.1|AF195178_2 (AF195178) phycocyanin alph...   116  1e-25
+SEQ gi|11055191|gb|AAG27996.1|AF195168_2 (AF195168) phycocyanin alph...   116  2e-25
+SEQ gi|2673709|emb|CAA05944.1| (AJ003177) phycocyanin alpha subunit ...   116  2e-25
+SEQ gi|11055200|gb|AAG28002.1|AF195171_2 (AF195171) phycocyanin alph...   115  4e-25
+SEQ gi|11055212|gb|AAG28010.1|AF195175_2 (AF195175) phycocyanin alph...   115  4e-25
+SEQ gi|11055197|gb|AAG28000.1|AF195170_2 (AF195170) phycocyanin alph...   114  5e-25
+SEQ gi|11055170|gb|AAG27982.1|AF195161_2 (AF195161) phycocyanin alph...   114  6e-25
+SEQ gi|11055164|gb|AAG27978.1|AF195159_2 (AF195159) phycocyanin alph...   114  7e-25
+SEQ gi|11055173|gb|AAG27984.1|AF195162_2 (AF195162) phycocyanin alph...   114  8e-25
+SEQ gi|2673712|emb|CAA05946.1| (AJ003178) phycocyanin alpha subunit ...   113  2e-24
+SEQ gi|130051|sp|P05098|PHEA_FREDI C-PHYCOERYTHRIN ALPHA CHAIN >gi|6...   112  3e-24
+SEQ gi|130054|sp|P29296|PHEA_PSEA9 C-PHYCOERYTHRIN ALPHA CHAIN >gi|7...   112  4e-24
+SEQ gi|11055176|gb|AAG27986.1|AF195163_2 (AF195163) phycocyanin alph...   111  4e-24
+SEQ gi|10303246|emb|CAC10054.1| (AJ401183) phycocyanin alpha subunit...   111  5e-24
+SEQ gi|11055185|gb|AAG27992.1|AF195166_2 (AF195166) phycocyanin alph...   110  1e-23
+SEQ gi|11055182|gb|AAG27990.1|AF195165_2 (AF195165) phycocyanin alph...   110  1e-23
+SEQ gi|266773|sp|P29947|PHEA_PORSO B-PHYCOERYTHRIN ALPHA CHAIN >gi|3...   107  1e-22
+SEQ gi|130053|sp|P11392|PHEA_PORCR B-PHYCOERYTHRIN ALPHA CHAIN >gi|8...   106  1e-22
+SEQ gi|3914333|sp|O49843|PHEA_PORTE R-PHYCOERYTHRIN ALPHA CHAIN >gi|...   106  2e-22
+SEQ gi|9622211|gb|AAF89674.1|AF169367_2 (AF169367) phycoerythrin alp...   106  2e-22
+SEQ gi|3914332|sp|O20206|PHEA_PORYE R-PHYCOERYTHRIN ALPHA CHAIN >gi|...   106  2e-22
+SEQ gi|2673703|emb|CAA05940.1| (AJ003175) phycocyanin alpha subunit ...   105  3e-22
+SEQ gi|11513480|pdb|1EYX|A Chain A, Crystal Structure Of R-Phycoeryt...   104  5e-22
+SEQ gi|266774|sp|Q02036|PHEA_RHOVL B-PHYCOERYTHRIN ALPHA CHAIN >gi|4...   104  1e-21
+SEQ gi|11465834|ref|NP_053978.1| phycoerythrin alpha chain [Porphyra...   103  1e-21
+SEQ gi|2392426|pdb|1LIA|A Chain A, Crystal Structure Of R-Phycoeryth...   102  3e-21
+SEQ gi|6119596|emb|CAB59541.1| (AJ132279) C-phycocyanin alpha subuni...   102  4e-21
+SEQ gi|266772|sp|Q01921|PHEA_POLBO R-PHYCOERYTHRIN ALPHA CHAIN >gi|4...   101  4e-21
+SEQ gi|130057|sp|P20778|PHEA_SYNY1 C-PHYCOERYTHRIN ALPHA CHAIN >gi|9...   101  5e-21
+SEQ gi|130056|sp|P27646|PHA2_SYNPY C-PHYCOERYTHRIN CLASS II ALPHA CH...    98  6e-20
+SEQ gi|6093709|sp|O36005|PHEA_GRIMO R-PHYCOERYTHRIN ALPHA CHAIN >gi|...    98  7e-20
+SEQ gi|585677|sp|P37720|PHA2_SYNPZ C-PHYCOERYTHRIN CLASS II ALPHA CH...    98  7e-20
+SEQ gi|6983789|emb|CAB75403.1| (AJ272030) phycoerythrin type III alp...    97  1e-19
+SEQ gi|1669717|emb|CAA93119.1| (Z68890) phycoerythrin class III alph...    96  3e-19
+SEQ gi|7007367|emb|CAB75590.1| (AJ272069) phycoerythrin class III al...    96  3e-19
+SEQ gi|5734500|emb|CAB52707.1| (AJ001230) phycoerythrin type III alp...    93  2e-18
+SEQ gi|130047|sp|P28559|PHEA_AGLNE R-PHYCOERYTHRIN ALPHA CHAIN >gi|4...    91  8e-18
+SEQ gi|9082273|gb|AAF82784.1|AF275685_2 (AF275685) phycoerythrin alp...    89  3e-17
+SEQ gi|7329751|emb|CAB82772.1| (AJ237612) phycoerythrin type III alp...    87  1e-16
+SEQ gi|14161943|gb|AAK54955.1| (AF367141) c-phycocyanin alpha subuni...    83  2e-15
+SEQ gi|2959426|emb|CAA12220.1| (AJ224915) phycocyanin, alpha subunit...    82  3e-15
+SEQ gi|14161961|gb|AAK54967.1| (AF367147) c-phycocyanin alpha subuni...    81  6e-15
+SEQ gi|7330184|gb|AAF60131.1| (AF223451) CpcA [Synechococcus sp. PS729]    80  2e-14
+SEQ gi|2959423|emb|CAA12218.1| (AJ224914) phycocyanin, alpha subunit...    79  3e-14
+SEQ gi|129991|sp|P16570|PHAA_FREDI ALLOPHYCOCYANIN ALPHA CHAIN 1 >gi...    78  6e-14
+SEQ gi|7330178|gb|AAF60127.1| (AF223449) CpcA [Synechococcus sp. PS716]    77  1e-13
+SEQ gi|7330136|gb|AAF60099.1| (AF223435) CpcA [Synechococcus sp. PS7...    75  5e-13
+SEQ gi|11055188|gb|AAG27994.1|AF195167_2 (AF195167) phycocyanin alph...    74  1e-12
+SEQ gi|7330154|gb|AAF60111.1| (AF223441) CpcA [Synechococcus sp. PS678]    74  1e-12
+SEQ gi|7330160|gb|AAF60115.1| (AF223443) CpcA [Synechococcus sp. PS681]    74  1e-12
+SEQ gi|7330148|gb|AAF60107.1| (AF223439) CpcA [Synechococcus sp. PS676]    74  1e-12
+SEQ gi|11465417|ref|NP_045192.1| unknown; Allophycocyanin alpha chai...    74  1e-12
+SEQ gi|11467302|ref|NP_043159.1| alpha subunit of allophycocyanin [C...    74  1e-12
+SEQ gi|3088588|gb|AAC14719.1| (AF059339) allophycocyanin alpha subun...    73  2e-12
+SEQ gi|7330142|gb|AAF60103.1| (AF223437) CpcA [Synechococcus sp. PS728]    73  3e-12
+SEQ gi|3914334|sp|P72504|PHAA_SPIPL ALLOPHYCOCYANIN ALPHA CHAIN >gi|...    73  3e-12
+SEQ gi|1633287|pdb|1ALL|A Chain A, Allophycocyanin                         73  3e-12
+SEQ gi|2851517|sp|P80555|PHAA_ANASP ALLOPHYCOCYANIN ALPHA CHAIN >gi|...    72  4e-12
+SEQ gi|585678|sp|P00314|PHAA_GALSU ALLOPHYCOCYANIN ALPHA CHAIN >gi|2...    72  5e-12
+SEQ gi|7330121|gb|AAF60089.1| (AF223430) CpcA [Synechococcus sp. PS717]    71  6e-12
+SEQ gi|7330169|gb|AAF60121.1| (AF223446) CpcA [Synechococcus sp. PS725]    71  7e-12
+SEQ gi|129994|sp|P06112|PHAA_SYNP6 ALLOPHYCOCYANIN ALPHA CHAIN >gi|7...    71  1e-11
+SEQ gi|11465728|ref|NP_053872.1| Allophycocyanin alpha chain [Porphy...    70  2e-11
+SEQ gi|129992|sp|P00315|PHAA_MASLA ALLOPHYCOCYANIN ALPHA CHAIN >gi|6...    70  2e-11
+SEQ gi|1730534|sp|P50030|PHAA_SYNEL ALLOPHYCOCYANIN ALPHA CHAIN >gi|...    69  3e-11
+SEQ gi|129988|sp|P07325|PHAA_ANACY ALLOPHYCOCYANIN ALPHA CHAIN >gi|6...    69  3e-11
+SEQ gi|7330211|gb|AAF60149.1| (AF223460) CpcA [Synechococcus sp. PCC...    69  4e-11
+SEQ gi|7330145|gb|AAF60105.1| (AF223438) CpcA [Synechococcus sp. PS674]    69  4e-11
+SEQ gi|7330172|gb|AAF60123.1| (AF223447) CpcA [Synechococcus sp. PS727]    69  4e-11
+SEQ gi|7330205|gb|AAF60145.1| (AF223458) CpcA [Synechococcus sp. PCC...    69  5e-11
+SEQ gi|129983|sp|P16572|PHA0_FREDI ALLOPHYCOCYANIN ALPHA CHAIN 2 >gi...    68  5e-11
+SEQ gi|7330190|gb|AAF60135.1| (AF223453) CpcA [Synechococcus sp. PS679]    68  6e-11
+SEQ gi|7330130|gb|AAF60095.1| (AF223433) CpcA [Synechococcus sp. PS672]    68  6e-11
+SEQ gi|438529|gb|AAA20110.1| (L25349) allophycocyanin alpha subunit ...    68  8e-11
+SEQ gi|130009|sp|P08801|PHAC_FREDI ALLOPHYCOCYANIN ALPHA-B CHAIN (AL...    66  3e-10
+SEQ gi|7330202|gb|AAF60143.1| (AF223457) CpcA [Synechococcus sp. PCC...    66  3e-10
+SEQ gi|129987|sp|P28555|PHAA_AGLNE ALLOPHYCOCYANIN ALPHA CHAIN >gi|4...    65  5e-10
+SEQ gi|400761|sp|Q02923|PHAA_SYNY4 ALLOPHYCOCYANIN ALPHA CHAIN >gi|2...    65  6e-10
+SEQ gi|7330139|gb|AAF60101.1| (AF223436) CpcA [Synechococcus sp. PS724]    64  1e-09
+SEQ gi|7330124|gb|AAF60091.1| (AF223431) CpcA [Synechococcus sp. PS721]    64  1e-09
+SEQ gi|266765|sp|Q01951|PHAA_SYNY3 ALLOPHYCOCYANIN ALPHA CHAIN >gi|3...    63  2e-09
+SEQ gi|7330133|gb|AAF60097.1| (AF223434) CpcA [Synechococcus sp. PS673]    62  5e-09
+SEQ gi|7430881|pir||S74735 allophycocyanin-B - Synechocystis sp. (st...    62  5e-09
+SEQ gi|7330220|gb|AAF60155.1| (AF223463) CpcA [Synechococcus sp. PCC...    62  5e-09
+SEQ gi|2554753|pdb|1PHN|B Chain B, Structure Of Phycocyanin From Cya...    60  2e-08
+SEQ gi|1346717|sp|P00311|PHCB_CYACA C-PHYCOCYANIN BETA CHAIN >gi|770...    60  2e-08
+SEQ gi|7427619|pir||CFKKB C-phycocyanin beta chain [validated] - red...    59  2e-08
+SEQ gi|304585|gb|AAB01592.1| (L13467) phycocyanin beta subunit [Cyan...    59  3e-08
+SEQ gi|7330151|gb|AAF60109.1| (AF223440) CpcA [Synechococcus sp. PS677]    59  3e-08
+SEQ gi|7330175|gb|AAF60125.1| (AF223448) CpcA [Synechococcus sp. PS714]    59  4e-08
+SEQ gi|585685|sp|P37208|PHCB_PORCR R-PHYCOCYANIN I BETA CHAIN >gi|62...    58  7e-08
+SEQ gi|130003|sp|P06113|PHAB_SYNP6 ALLOPHYCOCYANIN BETA CHAIN >gi|79...    58  8e-08
+SEQ gi|3914335|sp|P72505|PHAB_SPIPL ALLOPHYCOCYANIN BETA-SUBUNIT >gi...    57  2e-07
+SEQ gi|7330208|gb|AAF60147.1| (AF223459) CpcA [Synechococcus sp. PCC...    56  2e-07
+SEQ gi|7330166|gb|AAF60119.1| (AF223445) CpcA [Synechococcus sp. PS719]    56  2e-07
+SEQ gi|130000|sp|P16571|PHAB_FREDI ALLOPHYCOCYANIN BETA CHAIN >gi|79...    56  2e-07
+SEQ gi|130063|sp|P00313|PHEB_MASLA PHYCOERYTHROCYANIN BETA CHAIN >gi...    56  2e-07
+SEQ gi|11465843|ref|NP_053987.1| phycocyanin beta chain [Porphyra pu...    56  2e-07
+SEQ gi|266766|sp|Q01952|PHAB_SYNY3 ALLOPHYCOCYANIN BETA CHAIN >gi|32...    56  3e-07
+SEQ gi|400762|sp|Q02924|PHAB_SYNY4 ALLOPHYCOCYANIN BETA CHAIN >gi|21...    56  3e-07
+SEQ gi|2114199|dbj|BAA19986.1| (D86179) allophycocyanin beta subunit...    56  3e-07
+SEQ gi|1633288|pdb|1ALL|B Chain B, Allophycocyanin                         56  3e-07
+SEQ gi|11467327|ref|NP_043184.1| alpha-type subunit of allophycocyan...    56  4e-07
+SEQ gi|1730549|sp|P50033|PHCB_SYNEL C-PHYCOCYANIN BETA CHAIN >gi|137...    55  4e-07
+SEQ gi|3088589|gb|AAC14720.1| (AF059339) allophycocyanin beta subuni...    55  5e-07
+SEQ gi|7330118|gb|AAF60087.1| (AF223429) CpcA [Synechococcus sp. PS715]    55  5e-07
+SEQ gi|224696|prf||1111229B phycocyanin beta [Anabaena cylindrica]         55  5e-07
+SEQ gi|7330115|gb|AAF60085.1| (AF223428) CpcA [Synechococcus sp. PS680]    55  6e-07
+SEQ gi|11467419|ref|NP_043276.1| allophycocyanin beta-like subunit f...    55  7e-07
+SEQ gi|129996|sp|P07326|PHAB_ANACY ALLOPHYCOCYANIN BETA CHAIN >gi|21...    54  8e-07
+SEQ gi|130033|sp|P07120|PHCB_ANASP C-PHYCOCYANIN BETA CHAIN >gi|7976...    54  8e-07
+SEQ gi|9957318|gb|AAG09316.1| (AF178757) phycocyanin beta subunit ap...    54  8e-07
+SEQ gi|7330223|gb|AAF60157.1| (AF223464) CpcA [Synechococcus sp. PCC...    54  8e-07
+SEQ gi|65859|pir||CFMWB C-phycocyanin beta chain - Fischerella sp          54  1e-06
+SEQ gi|266769|sp|P00310|PHCB_MASLA C-PHYCOCYANIN BETA CHAIN >gi|1497...    54  1e-06
+SEQ gi|11467301|ref|NP_043158.1| beta subunit of allophycocyanin [Cy...    54  1e-06
+SEQ gi|1730538|sp|P50031|PHAB_SYNEL ALLOPHYCOCYANIN BETA-SUBUNIT >gi...    54  1e-06
+SEQ gi|129997|sp|P00317|PHAB_ANAVA ALLOPHYCOCYANIN BETA CHAIN >gi|65...    54  1e-06
+SEQ gi|2072517|gb|AAC97591.1| (U96137) allophycocyanin beta subunit ...    53  2e-06
+SEQ gi|7330163|gb|AAF60117.1| (AF223444) CpcA [Synechococcus sp. PS683]    53  2e-06
+SEQ gi|3122618|sp|Q36698|PHCB_RHOVL C-PHYCOCYANIN BETA CHAIN >gi|149...    52  4e-06
+SEQ gi|11465418|ref|NP_045191.1| unknown; Allophycocyanin beta chain...    52  4e-06
+SEQ gi|7330217|gb|AAF60153.1| (AF223462) CpcA [Synechococcus sp. PCC...    52  4e-06
+SEQ gi|7330187|gb|AAF60133.1| (AF223452) CpcA [Synechococcus sp. PS675]    52  5e-06
+SEQ gi|7330196|gb|AAF60139.1| (AF223455) CpcA [Synechococcus sp. PS685]    52  5e-06
+SEQ gi|130031|sp|P28558|PHCB_AGLNE C-PHYCOCYANIN BETA CHAIN >gi|4788...    51  7e-06
+SEQ gi|7330193|gb|AAF60137.1| (AF223454) CpcA [Synechococcus sp. PS684]    51  8e-06
+SEQ gi|3088583|gb|AAC14716.1| (AF059337) allophycocyanin B alpha sub...    51  9e-06
+SEQ gi|2493300|sp|Q54714|PHCB_SYNY3 C-PHYCOCYANIN BETA CHAIN >gi|743...    51  9e-06
+SEQ gi|548504|sp|P35797|PHEB_ANASP PHYCOERYTHROCYANIN BETA CHAIN >gi...    51  1e-05
+SEQ gi|130043|sp|P06539|PHCB_SYNP7 C-PHYCOCYANIN BETA CHAIN >gi|2144...    50  1e-05
+SEQ gi|7330226|gb|AAF60159.1| (AF223465) CpcA [Synechococcus sp. PCC...    50  2e-05
+SEQ gi|2144311|pir||AFKKB allophycocyanin beta chain - red alga (Cya...    50  2e-05
+SEQ gi|1008532|gb|AAA91032.1| (U34930) phycocyanin beta subunit [Syn...    50  2e-05
+SEQ gi|129995|sp|P28556|PHAB_AGLNE ALLOPHYCOCYANIN BETA CHAIN >gi|47...    50  2e-05
+SEQ gi|6654652|gb|AAC25586.2| (AF068771) beta-phycocyanin [Synechocy...    50  2e-05
+SEQ gi|6729861|pdb|1B33|B Chain B, Structure Of Light Harvesting Com...    49  3e-05
+SEQ gi|11465540|ref|NP_045068.1| unknown; allophycocyanin beta 18 ch...    49  3e-05
+SEQ gi|464370|sp|P34812|PHAF_AGLNE ALLOPHYCOCYANIN B18 SUBUNIT >gi|3...    49  3e-05
+SEQ gi|130001|sp|P00318|PHAB_MASLA ALLOPHYCOCYANIN BETA CHAIN >gi|65...    49  4e-05
+SEQ gi|585679|sp|P00319|PHAB_GALSU ALLOPHYCOCYANIN BETA CHAIN              49  4e-05
+SEQ gi|400789|sp|P11395|PHRB_SYNPZ R-PHYCOCYANIN II BETA CHAIN >gi|4...    49  4e-05
+SEQ gi|11465528|ref|NP_045081.1| unknown; phycocyanin beta chain [Cy...    49  5e-05
+SEQ gi|130006|sp|P11390|PHAC_SYNP6 ALLOPHYCOCYANIN ALPHA-B CHAIN >gi...    49  5e-05
+SEQ gi|7330181|gb|AAF60129.1| (AF223450) CpcA [Synechococcus sp. PS720]    48  6e-05
+SEQ gi|790612|gb|AAA65651.1| (U21853) phycobilisome core component [...    48  7e-05
+SEQ gi|14488471|pdb|1GH0|B Chain B, Crystal Structure Of C-Phycocyan...    48  7e-05
+SEQ gi|130014|sp|P14877|PHB3_FREDI C-PHYCOCYANIN-3 BETA CHAIN >gi|79...    48  7e-05
+SEQ gi|7330199|gb|AAF60141.1| (AF223456) CpcA [Synechococcus sp. PS718]    48  8e-05
+SEQ gi|130013|sp|P08039|PHB2_FREDI C-PHYCOCYANIN-2 BETA CHAIN >gi|79...    48  9e-05
+SEQ gi|2493299|sp|Q52451|PHB2_PSEA9 C-PHYCOCYANIN-2 BETA CHAIN >gi|1...    47  9e-05
+SEQ gi|290020|gb|AAB01577.1| (L12540) allophycocyanin beta subunit [...    47  9e-05
+SEQ gi|14549166|sp|P72508|PHCB_SPIPL C-PHYCOCYANIN BETA CHAIN              47  9e-05
+SEQ gi|3088585|gb|AAC14717.1| (AF059338) allophycocyanin beta-18 sub...    47  1e-04
+SEQ gi|130042|sp|P00312|PHCB_SYNP6 C-PHYCOCYANIN BETA CHAIN                47  1e-04
+SEQ gi|225638|prf||1308146A allophycocyanin B alpha [Synechococcus sp.]    47  1e-04
+SEQ gi|79800|pir||S00713 phycocyanin 1 beta chain - Calothrix sp >gi...    47  1e-04
+SEQ gi|400788|sp|Q02183|PHRB_SYNPY R-PHYCOCYANIN II BETA CHAIN >gi|4...    47  1e-04
+SEQ gi|2655259|gb|AAB87964.1| (AF031129) phycobilisome core componen...    47  2e-04
+SEQ gi|130044|sp|P27289|PHCB_SYNPW R-PHYCOCYANIN BETA CHAIN >gi|6586...    47  2e-04
+SEQ gi|11467422|ref|NP_043279.1| beta subunit of phycocyanin [Cyanop...    47  2e-04
+SEQ gi|11465727|ref|NP_053871.1| Allophycocyanin beta chain [Porphyr...    46  2e-04
+SEQ gi|130012|sp|P07119|PHB1_FREDI C-PHYCOCYANIN-1 BETA CHAIN >gi|22...    46  2e-04
+SEQ gi|229763|pdb|1CPC|L Chain L, C-Phycocyanin                            46  2e-04
+SEQ gi|1654093|emb|CAA70295.1| (Y09074) phycocyanin beta subunit [Sp...    46  2e-04
+SEQ gi|7330127|gb|AAF60093.1| (AF223432) CpcA [Synechococcus sp. PS723]    46  2e-04
+SEQ gi|130045|sp|P20777|PHCB_SYNY1 C-PHYCOCYANIN BETA CHAIN >gi|9766...    46  3e-04
+SEQ gi|282696|pir||S25306 allophycocyanin beta chain-like protein - ...    46  3e-04
+SEQ gi|7330214|gb|AAF60151.1| (AF223461) CpcA [Synechococcus sp. PCC...    46  3e-04
+SEQ gi|43382|emb|CAA30061.1| (X07012) PC(beta) (AA 1 - 172) [Fremyel...    46  3e-04
+SEQ gi|2493298|sp|Q52446|PHB1_PSEA9 C-PHYCOCYANIN-1 BETA CHAIN >gi|1...    46  4e-04
+SEQ gi|11465681|ref|NP_053825.1| allophycocyanin beta 18 chain [Porp...    46  4e-04
+SEQ gi|11465455|ref|NP_045154.1| unknown; Allophycocyanin gamma chai...    45  7e-04
+SEQ 
+## SEQUENCE PROFILE AND ENTROPY
+ SeqNo PDBNo   V   L   I   M   F   W   Y   G   A   P   S   T   C   H   R   K   Q   E   N   D  NOCC NDEL NINS ENTROPY RELENT WEIGHT
+    1    1     7   1   0  93   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.279      9  0.00
+    2    2     0  10   0   0   0   0   1   0   0   0   0   1   0   0   2  77  11   0   0   0     0    0    0   0.807     26  0.00
+    3    3     0   0   0   0   0   0   0   0   0   0  12  64   0   0   0   0   0   0   0  24     0    0    0   0.913     30  0.00
+    4    4    10   0   1   0   0   0   0   0  23  63   0   2   0   0   0   0   0   0   0   0     0    0    0   1.030     34  0.00
+    5    5    16  43  32   0   9   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.240     41  0.00
+    6    6     0   0   0   0   0   0   0   0   5   0   5  89   0   0   0   0   0   0   0   0     0    0    0   0.455     15  0.00
+    7    7     0   0   0   0   0   0   0   0   6   0   5  10   0   0   2  22   2  51   1   1     0    0    0   1.465     48  0.00
+    8    8    34   2   2   0   0   0   0   0  52   0   7   4   0   0   0   0   0   0   0   0     0    0    0   1.195     39  0.00
+    9    9    58   2  40   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.773     25  0.00
+   10   10     8   3   0   0   0   0   0   1  48   0  26   2   0   0   0   0   0   1  10   0     0    0    0   1.473     49  0.00
+   11   11     0   0   3   0   0   0   0   1  45   0  14   9   0   0   1   1  16   0   9   0     0    0    0   1.684     56  0.00
+   12   12     0   0   0   0   0   0   3   0  91   0   4   0   0   0   1   0   0   0   0   0     0    0    0   0.393     13  0.00
+   13   13     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  99     0    0    0   0.053      1  0.00
+   14   14    10   2   0   0   0   0   0   0  27   0  43  10   0   0   0   0   0   0   2   2     0    0    0   1.536     51  0.00
+   15   15     0   0   0   0   0   0   0   0  11   0   0   2   0   0  15   1  60  10   0   0     0    0    0   1.212     40  0.00
+   16   16     0   3   0   0   0   0   0  89   7   0   1   0   0   0   0   0   0   0   0   0     0    0    0   0.480     16  0.00
+   17   17     0   0   0   0   0   0   0   0   2   0   2   0   0   0  72  11   1  11   0   0     0    0    0   0.984     32  0.00
+   18   18     0   0   0   1  69   0  30   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.669     22  0.00
+   19   19     0  83   3   0   1   0   0   0   0  12   0   0   0   0   0   0   0   0   0   0     0    0    0   0.589     19  0.00
+   20   20     0   0   0   0   0   0   0   6   0   0  77   4   0   0   0   0   0   0   0  12     0    0    0   0.786     26  0.00
+   21   21     0   0   1   1   0   0   0   5   3   7  30   9   0   0   2   0   1   0  35   4     0    0    0   1.805     60  0.00
+   22   22     0   0   0   0   0   0   0  11  10   0  19  52   0   0   0   0   0   2   3   1     0    0    0   1.469     49  0.00
+   23   23     0   0   1   0   0   0   0   0  10   0   2   0   0   0   0   0  12  64   0  10     0    0    0   1.145     38  0.00
+   24   24     4  57  33   3   2   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.021     34  0.00
+   25   25     0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   2  40  16  15  25     0    0    0   1.479     49  0.00
+   26   26    16   0   2   0   0   0   0   2  37   0  17   7   0   0   7   9   1   0   1   0     0    0    0   1.824     60  0.00
+   27   27    18  27  12   0   0   0   0   0  41   0   1   0   0   0   0   0   0   0   0   0     0    0    0   1.372     45  0.00
+   28   28     0   0   0   0  39   0   0   0   3   0  10   1   0   0   2  20  10   1  10   2     0    0    0   1.826     60  0.00
+   29   29     0   0   1   0   0   0   0  66  11   0   9   1   0   0   1   4   2   0   4   2     0    0    0   1.271     42  0.00
+   30   30     2   5   1   7  10   0  12   0   0   0   5   1   0   0  52   0   0   0   6   0     0    0    0   1.613     53  0.00
+   31   31    21   5   9   0  53   0  11   0   1   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.334     44  0.00
+   32   32     5   2   0   0   0   0   0   0  15   0   8   3   0   0  24   8  16  10   5   4     0    0    0   2.197     73  0.00
+   33   33     0   0   0   0   0   0   0   3   1   0   8  13   0   0  36   0  24   9   0   5     0    0    0   1.722     57  0.00
+   34   34     0   0   0   0   0   0   0  33  61   0   5   0   0   0   1   0   0   0   0   0     0    0    0   0.868     28  0.00
+   35   35     3   1   4   0   0   0   0   1  19   0  16   3   0   0   1  16   4  13  18   1     0    0    0   2.120     70  0.00
+   36   36     0  10   0   0   0   0   0   0  46   0   7   0   0   0   5  17   3   0   9   3     0    0    0   1.694     56  0.00
+   37   37     0   0   0   0   0   0   0  15  12   0  23   0   0   0  49   0   0   0   0   0     0    0    0   1.231     41  0.00
+   38   38    11  73   6   9   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.888     29  0.00
+   39   39     0   0   0   0   0   0   0   1  10   0   5   7   0   0  18   1   3  36   1  18     0    0    0   1.789     59  0.00
+   40   40     9   0  12   0   0   0   0   0  76   0   1   2   0   0   0   0   0   0   0   0     0    0    0   0.823     27  0.00
+   41   41    17   0   1   0   0   0   0   0  81   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.546     18  0.00
+   42   42     0   0   0   0   0   0   0   0   5   0   3   4   0   0  13  38   8  15  15   0     0    0    0   1.765     58  0.00
+   43   43     9   0   5   0   0   0   0   7  36   0   4  12   0   0  13  12   0   0   1   0     0    0    0   1.928     64  0.00
+   44   44     0  70  28   1   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.713     23  0.00
+   45   45     0   0   0   0   0   0   0   2  15   0  14  63   0   0   0   0   0   0   5   0     0    0    0   1.131     37  0.00
+   46   46     0   0   1   0   0   0   0  10  30   0  25   2   0   0   0   1   2  16   7   7     0    0    0   1.815     60  0.00
+   47   47     0   0   0   0   0   0   0   1   1   0   4   0   1   1   1  27   2   0  60   0     0    0    0   1.147     38  0.00
+   48   48     0   3   2   0   0   0   1   1  70   0   8   0   0   5   8   0   0   3   0   0     0    0    0   1.179     39  0.00
+   49   49     0   0   0   0   0   0   0   0  11   0  26   1   0   0   0   4  13  13   5  27     0    0    0   1.806     60  0.00
+   50   50     0   1   0   0   0   0   1   3  18   0  34  10   0   0  13  11   0   5   4   0     0    0    0   1.924     64  0.00
+   51   51     8  51  38   0   2   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.060     35  0.00
+   52   52    53   0  36   0   0   0   0   0   7   0   0   3   0   0   0   0   0   0   0   0     0    0    0   1.035     34  0.00
+   53   53     0   0   0   0   0   0   0   0   6   0  23   9   0   0   2  26   3   3  16  12     0    0    0   1.926     64  0.00
+   54   54     0   1   0   0   0   0   0  50   3   0   4   0   0   0   0   0  11  12  14   2     0    0    0   1.591     53  0.00
+   55   55     0   0   0   0   0   0   0   1  96   0   1   1   0   0   0   0   0   0   0   0     0    0    0   0.209      6  0.00
+   56   56     5   1   0   0   0   0   3  16  63   0   4   5   0   0   0   0   1   0   1   0     0    0    0   1.319     44  0.00
+   57   57     0   0   0   0   0   0   0   0   2   0   3   0   0   0  18   2  42   9  10  14     0    0    0   1.690     56  0.00
+   58   58     0   1   0   0   0   0   1   0  74   1   7   0   0   1   1   2  10   1   0   0     0    0    0   1.022     34  0.00
+   59   59    59  31   0   0   0   0   0   0   1   0   0   0   7   0   0   0   0   0   0   0     0    0    0   1.005     33  0.00
+   60   60     1   0   1   0  34   2  53   0   9   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.110     37  0.00
+   61   61     0   0   0   0   0   0   0   2  15   0  13   2   0   0   0  12  23   6  25   0     0    0    0   1.879     62  0.00
+   62   62     0   0   1   0   0   0   0   0   1   0   8   1   0   0   2  61   4  17   1   2     0    0    0   1.313     43  0.00
+   63   63     3   9   1   0  33   0  22   1   0   0   0   0   0   2  10   0  17   1   0   0     0    0    0   1.817     60  0.00
+   64   64     0   9   0   0   0   0   0   1   1  81   5   1   0   0   0   0   0   0   1   0     0    0    0   0.766     25  0.00
+   65   65     0   0   0   0   0   0  66   0   1   0   1   0   0   0   0   0  15   5   1  10     0    0    0   1.150     38  0.00
+   66   66     6  30   4   0   1   0   1   1   0   0   9  45   0   0   0   0   0   0   0   0     0    0    0   1.448     48  0.00
+   67   67     9   2  20   0   1   0   0   0   1   0   2  52   0   0   1   7   0   0   2   0     0    0    0   1.537     51  0.00
+   68   68     0   1   0   0   0   0   0   0  14   0  13   7   0   0  14   0  44   0   9   0     0    0    0   1.591     53  0.00
+   69   69     0   0   0  36   0   0   0   1   1  49   1  11   0   0   0   0   1   1   0   0     0    0    0   1.166     38  0.00
+   70   70     0   0   0   0   1   0   0  47   1  16   4   1   0   0   1   0  27   2   2   0     0    0    0   1.405     46  0.00
+   71   71     0   0   0   0   0   0   0  95   2   0   2   0   0   0   0   0   1   0   0   0     0    0    0   0.234      7  0.00
+   72   72     0   0   1   0   0   0   0   5  14  23   2   1   0   0   0   1   0   0  53   1     0    0    0   1.324     44  0.00
+   73   73     0   0   0  11   0   0   0   0  33   0   1   1   2   0   1   0   9   9  33   0     0    0    0   1.613     53  0.00
+   74   74     0   0   0   0  21   0  69   0   9   0   0   0   0   0   0   1   1   0   0   0     0    0    0   0.856     28  0.00
+   75   75     0   0   0   0   0   0   0  19  43   1   2  32   1   1   0   0   0   0   2   0     0    0    0   1.304     43  0.00
+   76   76     0   0   0   0   0   0   0   0  29   0  26  16   0   1   0   0   4  11  11   4     0    0    0   1.754     58  0.00
+   77   77     0   0   0   0   0   0   0   0   0   0   8  14   0   0  35   0   0  10   4  28     0    0    0   1.595     53  0.00
+   78   78     0   1   1   9   0   0   0   0   7   5   6   1   0   0  31   1  35   3   1   2     0    0    0   1.797     59  0.00
+   79   79     4   1   3  16   1   0  14   0   3   0   0  15   0   0  31   1   1  12   0   1     0    0    0   1.941     64  0.00
+   80   80     0   0   0   0   3   0   1  73   2   0   0   0   0   0   1  12   3   0   7   0     0    0    0   0.997     33  0.00
+   81   81     5   0   7   0   0   0   2   0   0   1   0   0   0   0   3  80   3   0   0   0     0    0    0   0.828     27  0.00
+   82   82     0   0   0   0   0   0   0   0  56   0   7   0   0   0   1   0   1   7   7  22     0    0    0   1.291     43  0.00
+   83   83     0   1   0   0   0   0   0   1  33   0   0   9   0   0   0  54   1   0   0   0     0    0    0   1.101     36  0.00
+   84   84     0   0   0   0   0   0   0   0   0   0   0   0  99   0   0   0   0   0   0   0     0    0    0   0.062      2  0.00
+   85   85     6  33  13   0   0   0   7   0  34   0   4   0   0   0   0   1   0   0   0   0     0    0    0   1.621     54  0.00
+   86   86     0   0   0   0   0   0   0   0   0   0   0   0   0   0  99   0   0   0   0   0     0    0    0   0.062      2  0.00
+   87   87     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0  99     0    0    0   0.056      1  0.00
+   88   88     7  22  47  19   1   0   2   1   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.401     46  0.00
+   89   89     1   0   0   0   0   0   0  45   0   0   0   0   0   2   0   2   0  18   0  31     0    0    0   1.274     42  0.00
+   90   90     0   0  17   0   1   3  59   0   0   0   0   0   0  19   0   0   0   0   0   0     0    0    0   1.107     36  0.00
+   91   91     2   0  16   0   0   0  81   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.581     19  0.00
+   92   92     1  90   2   6   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.443     14  0.00
+   93   93     0   0   0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0     0    0    0   0.000      0  0.00
+   94   94     0  25  10  30   0   0  33   0   0   0   0   1   0   0   0   0   0   0   0   0     0    0    0   1.383     46  0.00
+   95   95    61   0  23   0   0   0   0   1  14   0   1   1   0   0   0   0   0   0   0   0     0    0    0   1.037     34  0.00
+   96   96     0   0   0   0   0   0   0   0   0   0   7  80   0   0   0   0   2   0  11   0     0    0    0   0.678     22  0.00
+   97   97     0   0   0   0   0   0  99   0   0   0   0   0   0   0   0   0   0   0   1   0     0    0    0   0.032      1  0.00
+   98   98     0   0   0   0   0   0   0  14  30   0  14   3  39   0   0   0   0   0   0   1     0    0    0   1.415     47  0.00
+   99   99    13  49  18  14   0   0   0   0   2   0   1   2   2   0   0   0   1   0   0   0     0    0    0   1.482     49  0.00
+  100  100    52  22  13   0  11   0   1   0   1   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.257     41  0.00
+  101  101    18   1   1   0   0   0   0   0  67   0   5   8   0   0   0   0   0   0   0   0     0    0    0   1.017     33  0.00
+  102  102     1   0   0   0   0   0   0  98   1   0   0   0   0   0   0   0   0   0   1   1     0    0    0   0.146      4  0.00
+  103  103     0   0   0   0   0   0   0  43   1   0   1   0   0   0   0   0   0   0   3  52     0    0    0   0.891     29  0.00
+  104  104     8   0   2   1   0   0   0   1  16  12   7  49   0   0   0   4   1   0   1   0     0    0    0   1.601     53  0.00
+  105  105     0   0   1   0   0   0   0  44   1   0  37   9   0   0   1   0   0   3   2   2     0    0    0   1.331     44  0.00
+  106  106    22   0  22   0   0   0   0   0   0  56   0   0   0   0   0   0   0   0   0   0     0    0    0   0.989     33  0.00
+  107  107     4  63  19  14   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.014     33  0.00
+  108  108     0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   1  24   1  73     0    0    0   0.694     23  0.00
+  109  109     0   0   0   0   0   0   0   0   0   0   2   1   0   0   1   1   1  62   0  32     0    0    0   0.917     30  0.00
+  110  110     0   1  16   0   0  15  24   0   0   0   0   1   0   0  44   0   0   0   0   0     0    0    0   1.367     45  0.00
+  111  111    21  22   0   0   0   0   0  31   2   0   0   0  24   0   0   0   0   0   0   0     0    0    0   1.443     48  0.00
+  112  112     9  56  35   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.910     30  0.00
+  113  113    10   2   4   0   0   0   0   4  32   0   3   0   0   0   0   0   2   0  40   3     0    0    0   1.583     52  0.00
+  114  114     0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+  115  115    15  61   6   3   0   0   0   1  10   0   1   0   0   0   0   0   3   0   0   0     0    0    0   1.280     42  0.00
+  116  116     0   0   0   0   0   0   0   0   6   0   2   0   0   0  50  27   0   6   1   8     0    0    0   1.365     45  0.00
+  117  117     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1  97   0   3     0    0    0   0.160      5  0.00
+  118  118    19   1  32  23   1   0   0   0   0   0   0  24   0   0   0   0   0   0   0   0     0    0    0   1.447     48  0.00
+  119  119     0   0   4   0   0   0  64   0   0   0   0   0   0   0   0   0   0   0  32   0     0    0    0   0.790     26  0.00
+  120  120     0   0   0   0   0   0   0   0   0   0   5   1   0   0  46  10   1   0  35   2     0    0    0   1.262     42  0.00
+  121  121     0   0   4   0   0   0   0   0  12   0  51  31   0   0   0   1   0   0   0   0     0    0    0   1.144     38  0.00
+  122  122     0  65   0   0  30   0   0   0   0   0   0   0   0   0   0   0   4   0   0   0     0    0    0   0.777     25  0.00
+  123  123     0   4   0   0   0   0   0  50   0   0   3   0   0   0   0   0   0  12  12  19     0    0    0   1.400     46  0.00
+  124  124    30  52   2   0   0   0   0   0   0   0   0  16   0   0   0   0   0   0   0   0     0    0    0   1.065     35  0.00
+  125  125     0   0   0   0   0   0   0   0   3  65  31   0   0   0   0   0   0   0   0   2     0    0    0   0.813     27  0.00
+  126  126    12   4  28   0   0   0   0   2   3  32   2  17   0   0   0   0   0   0   0   0     0    0    0   1.657     55  0.00
+  127  127     0   0   2   0   0   0   0  19  17   5  49   0   0   0   0   0   0   6   0   3     0    0    0   1.459     48  0.00
+  128  128     0   0   0   0   0  32   0  11  42   7   7   2   0   0   0   0   0   0   0   0     0    0    0   1.414     47  0.00
+  129  129    14   0   3   6   0   0  54   1   0   0   0  22   0   0   0   0   0   0   0   0     0    0    0   1.254     41  0.00
+  130  130    56   0  27   0   0   0   0   1  16   0   0   1   0   0   0   0   0   0   0   0     0    0    0   1.054     35  0.00
+  131  131     1   0   0   0   0   0   0   0  16   0   0   1   0   0   3   0  22  54   0   4     0    0    0   1.263     42  0.00
+  132  132     0   1   0   0   0   0   0  14  73   0  12   0   0   0   0   0   0   0   0   0     0    0    0   0.810     27  0.00
+  133  133    12  39  34   1  15   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.309     43  0.00
+  134  134     2   1   3   0   0   0   0   0   9   0   8   6   0   0  14  27  23   4   3   0     0    0    0   2.002     66  0.00
+  135  135     1   2   1   0  16   0  33   0  28   0   3   2   4   4   0   1   0   4   3   0     0    0    0   1.851     61  0.00
+  136  136     4  12  38  27   0   0   0   0   9   0   0   9   0   0   0   0   0   0   0   0     0    0    0   1.548     51  0.00
+  137  137     0   0   0   0   0   0   0   0   1   0   0   0   0   0  21  77   1   0   0   0     0    0    0   0.614     20  0.00
+  138  138    21   0   3   0   0   0   0   3  49   0   3   4   0   0   0   0   0   8   5   6     0    0    0   1.612     53  0.00
+  139  139     5   4   0   0   0   0   0   0   2  13  12  19   5   0   3   0   1   0  35   2     0    0    0   1.905     63  0.00
+  140  140     0   1   2   0   0   0   0   6  12   0  15   6   0  33  18   1   0   0   2   4     0    0    0   1.919     64  0.00
+  141  141     5  19   1   2   0   0   0  40   6   0   6   0   0   0   0   1   1   0   0  18     0    0    0   1.691     56  0.00
+  142  142     9  66   0  24   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0     0    0    0   0.874     29  0.00
+  143  143    10   1   0   0   0   0   0  12   3   0  66   5   0   0   0   2   0   0   1   1     0    0    0   1.195     39  0.00
+  144  144     0   0   0   0   0   0   0  55  25   4   9   1   0   0   0   0   5   1   0   0     0    0    0   1.254     41  0.00
+  145  145     0   1   0   0   0   0   0   1   4   0   0   0   0   0   0   2  35  16   0  42     0    0    0   1.307     43  0.00
+  146  146     3   0   1   0   0   0   0   0  64   5   4   0   0   0   0   1   0   1   1  21     0    0    0   1.163     38  0.00
+  147  147     0   7   1   0   0   0   0  33  46   0   6   0   0   0   3   0   1   3   0   0     0    0    0   1.370     45  0.00
+  148  148    20   1   0   0   0   0   0   3  16   0   4  17   0   0   4  15   2   2  13   4     0    0    0   2.121     70  0.00
+  149  149     2   0   2   0   0   0   0   0   2   0   0   0   0   0   0   0   0  94   0   1     0    0    0   0.323     10  0.00
+  150  150     4   0   0  20  11   0  11   0  52   0   0   2   0   0   0   0   0   0   0   0     0    0    0   1.342     44  0.00
+  151  151     0   0   1   0   0   0   0  33   8   0   8   2   2   1   0   6   0   1  38   0     0    0    0   1.598     53  0.00
+  152  152    10   3  10   0   5   0   0   6  15   6  28  12   0   0   0   1   1   0   3   0     0    0    0   2.134     71  0.00
+  153  153     0   9   0   0   0   0  82   0   6   1   0   0   0   0   0   0   0   0   3   0     0    0    0   0.686     22  0.00
+  154  154     0  35  26   0  39   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.127     37  0.00
+  155  155     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   4  95     0    0    0   0.209      6  0.00
+  156  156     0   0   0   0   7   0  93   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.264      8  0.00
+  157  157    21  15  29   1   0   0   0   0  30   0   0   5   0   0   0   0   0   0   0   0     0    0    0   1.516     50  0.00
+  158  158     4   3  71   0   0   0   0   0   1   0   6   1  14   0   0   0   0   0   0   0     0    0    0   1.001     33  0.00
+  159  159     0   0   1   0   0   0   0  15   1   0  20   1   0   0   0   0   6   0  56   0     0    0    0   1.241     41  0.00
+  160  160     1   0   1   0   1   0   0  22  58   0  13   1   0   0   0   1   0   0   2   0     0    0    0   1.210     40  0.00
+  161  161     0  82   0  18   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.468     15  0.00
+  162  162     0   0   0   0   0   0   0   0   8   0  91   1   0   0   0   0   0   0   0   0     0    0    0   0.345     11  0.00
+//

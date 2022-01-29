@@ -1,0 +1,905 @@
+ID Pseudo hssp file.
+SEQ 
+SEQ gi|6729770|pdb|1BZC|A Chain A, Human Ptp1b Catalytic Domain Comp...   596  e-169
+SEQ gi|6729926|pdb|1BZH|A Chain A, Cyclic Peptide Inhibitor Of Human...   596  e-169
+SEQ gi|7766805|pdb|1C83|A Chain A, Crystal Structure Of Protein Tyro...   594  e-169
+SEQ gi|4506289|ref|NP_002818.1| protein tyrosine phosphatase, non-re...   593  e-168
+SEQ gi|809210|pdb|2HNQ|    Protein-Tyrosine Phosphatase 1b (Human) (...   593  e-168
+SEQ gi|14488467|pdb|1G7F|A Chain A, Human Ptp1b Catalytic Domain Com...   593  e-168
+SEQ gi|6729771|pdb|1BZJ|A Chain A, Human Ptp1b Complexed With Tpicooh     591  e-168
+SEQ gi|1827881|pdb|1PTV|A Chain A, Crystal Structure Of Protein Tyro...   590  e-168
+SEQ gi|3318983|pdb|1A5Y|    Protein Tyrosine Phosphatase 1b Cysteiny...   590  e-168
+SEQ gi|13096596|pdb|1G1F|A Chain A, Crystal Structure Of Protein Tyr...   589  e-167
+SEQ gi|13096218|pdb|1EEN|A Chain A, Crystal Structure Of Protein Tyr...   589  e-167
+SEQ gi|2981942|pdb|1AAX|    Crystal Structure Of Protein Tyrosine Ph...   589  e-167
+SEQ gi|7766808|pdb|1C86|A Chain A, Crystal Structure Of Protein Tyro...   589  e-167
+SEQ gi|1827883|pdb|1PTU|A Chain A, Crystal Structure Of Protein Tyro...   588  e-167
+SEQ gi|9256882|pdb|1GFY|A Chain A, Residue 259 Is A Key Determinant ...   583  e-166
+SEQ gi|6981442|ref|NP_036769.1| protein-tyrosine phosphatase [Rattus...   582  e-165
+SEQ gi|6755238|ref|NP_035331.1| protein tyrosine phosphatase, non-re...   572  e-162
+SEQ gi|13653407|ref|XP_009511.2| protein tyrosine phosphatase, non-r...   571  e-162
+SEQ gi|91245|pir||JN0317 protein-tyrosine-phosphatase (EC 3.1.3.48),...   568  e-161
+SEQ gi|755043|gb|AAA64615.1| (L40595) protein tyrosine phosphatase [...   565  e-160
+SEQ gi|3914485|sp|O13016|PTN1_CHICK PROTEIN-TYROSINE PHOSPHATASE, NO...   554  e-157
+SEQ gi|9588103|emb|CAC00618.1| (AL133230) dJ530I15.1 (protein tyrosi...   553  e-157
+SEQ gi|7435157|pir||JW0049 protein-tyrosine-phosphatase (EC 3.1.3.48...   537  e-152
+SEQ gi|6691829|emb|CAB65732.1| (Y14427) PTP1B protein [Danio rerio]       498  e-140
+SEQ gi|13645209|ref|XP_008681.2| protein tyrosine phosphatase, non-r...   426  e-118
+SEQ gi|4506291|ref|NP_002819.1| protein tyrosine phosphatase, non-re...   426  e-118
+SEQ gi|14198363|gb|AAH08244.1|AAH08244 (BC008244) protein tyrosine p...   426  e-118
+SEQ gi|280853|pir||A60345 protein-tyrosine-phosphatase (EC 3.1.3.48)...   426  e-118
+SEQ gi|6679553|ref|NP_033003.1| protein tyrosine phosphatase, non-re...   424  e-118
+SEQ gi|14198420|gb|AAH08269.1|AAH08269 (BC008269) protein tyrosine p...   424  e-118
+SEQ gi|464492|sp|P35233|PTN2_RAT PROTEIN-TYROSINE PHOSPHATASE PTP-S ...   412  e-114
+SEQ gi|7684335|dbj|BAA95189.1| (AB033582) ryPTPN3 [Potamotrygon motoro]   305  4e-82
+SEQ gi|7292073|gb|AAF47486.1| (AE003471) Ptp61F gene product [alt 1]...   277  2e-73
+SEQ gi|7292074|gb|AAF47487.1| (AE003471) Ptp61F gene product [alt 2]...   277  2e-73
+SEQ gi|1079129|pir||B46101 protein-tyrosine-phosphatase (EC 3.1.3.48...   276  2e-73
+SEQ gi|1079130|pir||A46101 protein-tyrosine-phosphatase (EC 3.1.3.48...   276  2e-73
+SEQ gi|347081|gb|AAA28748.1| (L14849) tyrosine phosphatase [Drosophi...   276  2e-73
+SEQ gi|190279|gb|AAA60158.1| (M33684) non-receptor tyrosine phosphat...   266  3e-70
+SEQ gi|13543101|gb|AAH05729.1|AAH05729 (BC005729) Similar to protein...   263  2e-69
+SEQ gi|7684307|dbj|BAA95175.1| (AB033568) amPTPN3 [Branchiostoma bel...   249  4e-65
+SEQ gi|7684329|dbj|BAA95186.1| (AB033579) hgPTPN3 [Eptatretus burgeri]    231  6e-60
+SEQ gi|438152|emb|CAA80592.1| (Z23057) protein-tyrosine-phosphatase ...   211  7e-54
+SEQ gi|7291076|gb|AAF46513.1| (AE003447) CG3101 gene product [Drosop...   196  2e-49
+SEQ gi|4506305|ref|NP_002828.1| protein tyrosine phosphatase, recept...   188  6e-47
+SEQ gi|13650855|ref|XP_006789.3| protein tyrosine phosphatase, recep...   188  6e-47
+SEQ gi|110068|pir||S17671 protein-tyrosine-phosphatase (EC 3.1.3.48)...   188  1e-46
+SEQ gi|8886021|gb|AAF80346.1|AF157628_1 (AF157628) receptor-type pro...   187  1e-46
+SEQ gi|2118902|pir||I52599 protein-tyrosine phosphatase - human >gi|...   186  4e-46
+SEQ gi|4506315|ref|NP_002834.1| protein tyrosine phosphatase, recept...   186  4e-46
+SEQ gi|2144715|pir||I38670 protein-tyrosine-phosphatase (EC 3.1.3.48...   186  4e-46
+SEQ gi|627274|pir||A53978 protein-tyrosine-phosphatase (EC 3.1.3.48)...   185  7e-46
+SEQ gi|4741401|emb|CAB41885.1| (AJ238216) supporting-cell antigen [G...   184  1e-45
+SEQ gi|7290546|gb|AAF45998.1| (AE003432) Ptp4E gene product [Drosoph...   184  2e-45
+SEQ gi|627275|pir||B53978 protein-tyrosine-phosphatase (EC 3.1.3.48)...   183  2e-45
+SEQ gi|8394112|ref|NP_058965.1| protein tyrosine phosphatase, recept...   183  4e-45
+SEQ gi|433182|gb|AAA76834.1| (L20894) receptor protein tyrosine phos...   182  5e-45
+SEQ gi|1362625|pir||A49502 protein-tyrosine-phosphatase (EC 3.1.3.48...   182  5e-45
+SEQ gi|1362626|pir||B49502 protein-tyrosine-phosphatase (EC 3.1.3.48...   182  5e-45
+SEQ gi|682753|dbj|BAA08386.1| (D49393) protein tyrosine phosphatase ...   182  5e-45
+SEQ gi|2499752|sp|Q64455|PTPJ_MOUSE PROTEIN-TYROSINE PHOSPHATASE ETA...   182  5e-45
+SEQ gi|157296|gb|AAA28484.1| (M80465) protein-tyrosine phosphatase [...   182  6e-45
+SEQ gi|158645|gb|AAA28952.1| (M80538) receptor-linked protein tyrosi...   182  6e-45
+SEQ gi|7292674|gb|AAF48072.1| (AE003486) Ptp10D gene product [Drosop...   182  6e-45
+SEQ gi|548624|sp|P35992|PTP1_DROME PROTEIN-TYROSINE PHOSPHATASE 10D ...   181  7e-45
+SEQ gi|103342|pir||D41214 protein-tyrosine-phosphatase (EC 3.1.3.48)...   181  7e-45
+SEQ gi|9507011|ref|NP_062013.1| protein tyrosine phosphatase, recept...   179  4e-44
+SEQ gi|2118906|pir||I58148 protein-tyrosine-phosphatase (EC 3.1.3.48...   179  4e-44
+SEQ gi|310202|gb|AAA75407.1| (L19180) receptor-linked protein tyrosi...   179  4e-44
+SEQ gi|310204|gb|AAA50568.1| (L19181) receptor-linked protein tyrosi...   179  4e-44
+SEQ gi|440973|gb|AAB28877.1| receptor protein tyrosine phosphatase-s...   179  4e-44
+SEQ gi|1083771|pir||A48758 protein-tyrosine-phosphatase (EC 3.1.3.48...   179  4e-44
+SEQ gi|1083772|pir||B48758 protein-tyrosine-phosphatase (EC 3.1.3.48...   179  4e-44
+SEQ gi|1085568|pir||S46217 protein-tyrosine-phosphatase (EC 3.1.3.48...   179  4e-44
+SEQ gi|9910518|ref|NP_064317.1| protein tyrosine phosphatase, non-re...   177  1e-43
+SEQ gi|4098327|gb|AAD00262.1| (U77038) protein-tyrosine phosphatase ...   176  2e-43
+SEQ gi|1083485|pir||S50893 protein-tyrosine-phosphatase (EC 3.1.3.48...   176  3e-43
+SEQ gi|3702284|gb|AAC62834.1| (AC005788) PTPsigma [AA 524- 1926] [Ho...   176  3e-43
+SEQ gi|4506301|ref|NP_002824.1| protein tyrosine phosphatase, non-re...   176  4e-43
+SEQ gi|1407625|gb|AAC50567.1| (U40317) PTPsigma [Homo sapiens]            176  4e-43
+SEQ gi|4096822|gb|AAD09360.1| (U41725) PTPsigma-(brain) [Homo sapiens]    176  4e-43
+SEQ gi|11761808|gb|AAG40194.1|AF300943_1 (AF300943) tyrosine phospha...   174  1e-42
+SEQ gi|4506311|ref|NP_002831.1| protein tyrosine phosphatase, recept...   174  1e-42
+SEQ gi|227796|prf||1711408A protein Tyr phosphatase LAR [Homo sapiens]    174  1e-42
+SEQ gi|7766938|pdb|1LAR|A Chain A, Crystal Structure Of The Tandem P...   174  1e-42
+SEQ gi|7305133|ref|NP_038573.1| hemopoietic cell phosphatase [Mus mu...   174  1e-42
+SEQ gi|35794|emb|CAA38067.1| (X54132) protein-tyrosine phosphatase [...   174  2e-42
+SEQ gi|538545|pir||A44390 protein-tyrosine-phosphatase (EC 3.1.3.48)...   174  2e-42
+SEQ gi|462550|sp|P23470|PTPG_HUMAN PROTEIN-TYROSINE PHOSPHATASE GAMM...   174  2e-42
+SEQ gi|477137|pir||A48148 protein-tyrosine-phosphatase (EC 3.1.3.48)...   174  2e-42
+SEQ gi|11386169|ref|NP_002832.1| protein tyrosine phosphatase, recep...   174  2e-42
+SEQ gi|2289909|gb|AAC36008.1| (AC002397) PTPN6 [Mus musculus]             174  2e-42
+SEQ gi|4097668|gb|AAD00151.1| (U65955) SH2 phosphatase 1 [Mus musculus]   174  2e-42
+SEQ gi|4506327|ref|NP_002841.1| protein tyrosine phosphatase, recept...   173  2e-42
+SEQ gi|35782|emb|CAA43982.1| (X62055) protein-tyrosine  phosphatase ...   173  3e-42
+SEQ gi|131469|sp|P29350|PTN6_HUMAN PROTEIN-TYROSINE PHOSPHATASE, NON...   173  3e-42
+SEQ gi|4506297|ref|NP_002822.1| protein tyrosine phosphatase, non-re...   173  3e-42
+SEQ gi|557899|gb|AAA82879.1| (U15528) protein tyrosine phosphatase 1...   173  3e-42
+SEQ gi|557900|gb|AAA82880.1| (U15528) protein tyrosine phosphatase 1...   173  3e-42
+SEQ gi|1732418|gb|AAB51322.1| (U47924) protein tyrosine phosphatase ...   173  3e-42
+SEQ gi|5825608|gb|AAD53317.1| (AF178946) 70 kDa SHP-1L protein [Homo...   173  3e-42
+SEQ gi|205131|gb|AAA41510.1| (M60103) leukocyte common antigen relat...   173  3e-42
+SEQ gi|249840|gb|AAB22251.1| LAR, leukocyte common antigen-related p...   173  3e-42
+SEQ gi|693993|emb|CAA58537.1| (X83546) leucocyte common antigen-rela...   173  3e-42
+SEQ gi|2118903|pir||A56493 leucocyte common antigen-related protein ...   173  3e-42
+SEQ gi|157298|gb|AAA28485.1| (M80539) receptor-linked protein tyrosi...   173  4e-42
+SEQ gi|157300|gb|AAA28486.1| (M80464) protein-tyrosine phosphatase [...   173  4e-42
+SEQ gi|10726845|gb|AAF56891.2| (AE003769) Ptp99A gene product [Droso...   173  4e-42
+SEQ gi|6679559|ref|NP_033007.1| protein tyrosine phosphatase, recept...   172  4e-42
+SEQ gi|1363186|pir||A57068 protein-tyrosine-phosphatase (EC 3.1.3.48...   172  4e-42
+SEQ gi|548625|sp|P35832|PTP9_DROME PROTEIN-TYROSINE PHOSPHATASE 99A ...   172  5e-42
+SEQ gi|6434249|emb|CAA86842.2| (Z46811) contains similarity to Pfam ...   172  5e-42
+SEQ gi|7511581|pir||T19121 probable protein-tyrosine-phosphatase (EC...   172  5e-42
+SEQ gi|12698664|gb|AAK01632.1| (AF316539) PTP-3A [Caenorhabditis ele...   172  5e-42
+SEQ gi|12698666|gb|AAK01633.1| (AF316540) PTP-3B [Caenorhabditis ele...   172  5e-42
+SEQ gi|8394227|ref|NP_059032.1| receptor-type protein tyrosine phosp...   172  6e-42
+SEQ gi|1321658|dbj|BAA08252.1| (D45412) brain-enriched membrane-asso...   172  6e-42
+SEQ gi|4050026|gb|AAC97942.1| (AF097481) protein tyrosine phosphatas...   172  6e-42
+SEQ gi|4506295|ref|NP_002821.1| protein tyrosine phosphatase, non-re...   171  7e-42
+SEQ gi|9507013|ref|NP_062122.1| protein tyrosine phosphatase, recept...   171  8e-42
+SEQ gi|12735046|ref|XP_005386.2| protein tyrosine phosphatase, non-r...   171  8e-42
+SEQ gi|7248657|gb|AAF43605.1|AF197944_1 (AF197944) receptor protein ...   171  9e-42
+SEQ gi|4506293|ref|NP_002820.1| protein tyrosine phosphatase, non-re...   171  1e-41
+SEQ gi|2134391|pir||JC5167 protein-tyrosine-phosphatase (EC 3.1.3.48...   171  1e-41
+SEQ gi|2118907|pir||I50212 protein-tyrosine-phosphatase (EC 3.1.3.48...   171  1e-41
+SEQ gi|13195754|gb|AAB22439.2| (S39392) protein tyrosine phosphatase...   171  2e-41
+SEQ gi|464494|sp|Q06124|PTNB_HUMAN PROTEIN-TYROSINE PHOSPHATASE, NON...   170  2e-41
+SEQ gi|13430846|ref|NP_002825.1| protein tyrosine phosphatase, non-r...   170  2e-41
+SEQ gi|7248661|gb|AAF43607.1|AF198450_1 (AF198450) receptor protein ...   170  2e-41
+SEQ gi|6093855|sp|Q98936|PTPG_CHICK PROTEIN-TYROSINE PHOSPHATASE GAM...   170  2e-41
+SEQ gi|6981444|ref|NP_037220.1| SH-PTP2 protein tyrosine phosphatase...   169  3e-41
+SEQ gi|3123258|sp|P41499|PTNB_RAT PROTEIN-TYROSINE PHOSPHATASE, NON-...   169  3e-41
+SEQ gi|1079313|pir||A55651 protein-tyrosine-phosphatase (EC 3.1.3.48...   169  4e-41
+SEQ gi|4506323|ref|NP_002839.1| receptor-type protein tyrosine phosp...   169  4e-41
+SEQ gi|2136062|pir||S60613 protein-tyrosine-phosphatase (EC 3.1.3.48...   169  4e-41
+SEQ gi|13677218|ref|NP_109594.1| receptor-type protein tyrosine phos...   169  4e-41
+SEQ gi|13677216|ref|NP_109593.1| receptor-type protein tyrosine phos...   169  4e-41
+SEQ gi|13677214|ref|NP_109592.1| receptor-type protein tyrosine phos...   169  4e-41
+SEQ gi|4506319|ref|NP_002836.1| protein tyrosine phosphatase, recept...   169  5e-41
+SEQ gi|228097|prf||1717216B receptor-like Tyr phosphatase [Homo sapi...   169  5e-41
+SEQ gi|13646887|ref|XP_012741.2| protein tyrosine phosphatase, recep...   169  5e-41
+SEQ gi|627804|pir||A53661 protein-tyrosine-phosphatase (EC 3.1.3.48)...   169  6e-41
+SEQ gi|2137014|pir||S68250 protein-tyrosine-phosphatase (EC 3.1.3.48...   169  6e-41
+SEQ gi|464495|sp|P35235|PTNB_MOUSE PROTEIN-TYROSINE PHOSPHATASE, NON...   168  6e-41
+SEQ gi|6755228|ref|NP_035332.1| protein tyrosine phosphatase, non-re...   168  6e-41
+SEQ gi|6679563|ref|NP_033010.1| protein tyrosine phosphatase, recept...   168  7e-41
+SEQ gi|7503426|pir||T21913 hypothetical protein F44G4.8 - Caenorhabd...   168  8e-41
+SEQ gi|5822080|pdb|1GWZ|    Crystal Structure Of The Catalytic Domai...   168  8e-41
+SEQ gi|464191|dbj|BAA05886.1| (D28530) protein tyrosine phosphatase ...   168  1e-40
+SEQ gi|628027|pir||A53593 protein-tyrosine-phosphatase (EC 3.1.3.48)...   168  1e-40
+SEQ gi|9790181|ref|NP_062625.1| protein tyrosine phosphatase, non-re...   168  1e-40
+SEQ gi|7958608|gb|AAF70856.1|AF135166_1 (AF135166) glomerular epithe...   168  1e-40
+SEQ gi|3355583|emb|CAA19666.1| (AL024473) dJ707K17.1 (Protein tyrosi...   167  1e-40
+SEQ gi|6631110|ref|NP_008981.1| protein tyrosine phosphatase, recept...   167  1e-40
+SEQ gi|10946856|ref|NP_067439.1| protein tyrosine phosphatase, recep...   167  1e-40
+SEQ gi|13378306|gb|AAK18741.1| (AY026861) brain RPTPmam4 isoform I [...   167  1e-40
+SEQ gi|13378308|gb|AAK18742.1| (AY026862) brain RPTPmam4 isoform II ...   167  1e-40
+SEQ gi|13653674|ref|XP_012936.2| protein tyrosine phosphatase, recep...   167  1e-40
+SEQ gi|1321659|dbj|BAA08253.1| (D45413) brain-enriched membrane-asso...   167  1e-40
+SEQ gi|4558223|pdb|2SHP|A Chain A, Tyrosine Phosphatase Shp-2 >gi|45...   167  1e-40
+SEQ gi|1655907|gb|AAB17968.1| (U65891) protein tyrosine phosphatase ...   167  2e-40
+SEQ gi|9652147|gb|AAF91411.1| (AF275150) transmembrane-type protein ...   167  2e-40
+SEQ gi|6997247|ref|NP_035346.1| protein tyrosine phosphatase, recept...   167  2e-40
+SEQ gi|1063642|gb|AAC52312.1| (U37466) protein tyrosine phosphatase ...   167  2e-40
+SEQ gi|1063644|gb|AAC52313.1| (U37467) protein tyrosine phosphatase ...   167  2e-40
+SEQ gi|35790|emb|CAA38068.1| (X54133) protein-tyrosine phosphatase [...   167  2e-40
+SEQ gi|4506309|ref|NP_002830.1| protein tyrosine phosphatase, recept...   167  2e-40
+SEQ gi|13640360|ref|XP_016527.1| protein tyrosine phosphatase, recep...   167  2e-40
+SEQ gi|3114491|pdb|1RPM|A Chain A, Human Receptor Protein Tyrosine P...   166  3e-40
+SEQ gi|9049510|gb|AAF82400.1|AF162856_1 (AF162856) receptor-like pro...   166  4e-40
+SEQ gi|9049512|gb|AAF82401.1|AF162857_1 (AF162857) receptor-like pro...   166  4e-40
+SEQ gi|4506313|ref|NP_002833.1| protein tyrosine phosphatase, recept...   165  6e-40
+SEQ gi|7511704|pir||T30938 receptor tyrosine phosphatase - medicinal...   165  8e-40
+SEQ gi|13399465|pdb|1FPR|A Chain A, Crystal Structure Of The Complex...   164  1e-39
+SEQ gi|7684353|dbj|BAA95198.1| (AB033591) ryPTPN6b [Potamotrygon mot...   164  1e-39
+SEQ gi|4249550|dbj|BAA74951.1| (D83016) phosphotyrosyl protein phosp...   164  1e-39
+SEQ gi|10567793|gb|AAG18585.1|AF295638_1 (AF295638) protein tyrosine...   164  1e-39
+SEQ gi|7248659|gb|AAF43606.1|AF197945_1 (AF197945) receptor protein ...   164  1e-39
+SEQ gi|5738203|gb|AAD50295.1| (AF173857) receptor protein tyrosine p...   164  1e-39
+SEQ gi|7684355|dbj|BAA95199.1| (AB033592) ryPTPN6c [Potamotrygon mot...   163  3e-39
+SEQ gi|12643716|sp|Q12923|PTND_HUMAN PROTEIN TYROSINE PHOSPHATASE, N...   163  3e-39
+SEQ gi|5453992|ref|NP_006255.1| protein tyrosine phosphatase, non-re...   163  3e-39
+SEQ gi|7435160|pir||I67630 protein tyrosine phosphatase (PTP-BAS, ty...   163  3e-39
+SEQ gi|515031|emb|CAA56563.1| (X80289) protein-tyrosine-phosphatase ...   163  3e-39
+SEQ gi|557288|gb|AAB60339.1| (U12128) protein tyrosine phosphatase 1...   163  3e-39
+SEQ gi|1486367|emb|CAA56124.1| (X79676) tyrosine phosphatase [Homo s...   163  3e-39
+SEQ gi|6679551|ref|NP_033004.1| protein tyrosine phosphatase, non-re...   163  4e-39
+SEQ gi|32067|emb|CAA37447.1| (X53364) tyrosine phosphatase precursor...   162  5e-39
+SEQ gi|35786|emb|CAA38065.1| (X54130) protein-tyrosine phosphatase [...   162  5e-39
+SEQ gi|4506303|ref|NP_002827.1| protein tyrosine phosphatase, recept...   162  5e-39
+SEQ gi|126467|sp|P18433|PTPA_HUMAN PROTEIN-TYROSINE PHOSPHATASE ALPH...   162  5e-39
+SEQ gi|227294|prf||1701300A protein Tyr phosphatase [Homo sapiens]        162  5e-39
+SEQ gi|1083477|pir||D54689 protein-tyrosine-phosphatase (EC 3.1.3.48...   162  5e-39
+SEQ gi|1083478|pir||C54689 protein-tyrosine-phosphatase (EC 3.1.3.48...   162  5e-39
+SEQ gi|483922|gb|AAA17990.1| (U09135) protein tyrosine phosphatase a...   162  5e-39
+SEQ gi|2098414|pdb|1YFO|A Chain A, Receptor Protein Tyrosine Phospha...   161  7e-39
+SEQ gi|14193729|gb|AAK56109.1|AF332081_1 (AF332081) protein tyrosin ...   161  7e-39
+SEQ gi|7525122|gb|AAD34158.4|AF152556_1 (AF152556) receptor protein ...   161  8e-39
+SEQ gi|539627|pir||A46546 leukocyte common antigen long splice form ...   161  1e-38
+SEQ gi|6981446|ref|NP_036895.1| protein tyrosine phosphatase, recept...   161  1e-38
+SEQ gi|285113|pir||JC1285 protein-tyrosine-phosphatase (EC 3.1.3.48)...   161  1e-38
+SEQ gi|4506307|ref|NP_002829.1| protein tyrosine phosphatase, recept...   160  2e-38
+SEQ gi|627585|pir||A54971 protein-tyrosine-phosphatase (EC 3.1.3.48)...   160  2e-38
+SEQ gi|8885504|dbj|BAA97445.1| (AB045237) receptor-type protein tyro...   160  2e-38
+SEQ gi|34276|emb|CAA68269.1| (Y00062) precursor polypeptide (AA -23 ...   159  3e-38
+SEQ gi|10999057|gb|AAD15273.2| (M23492) T200 leukocyte common antige...   159  3e-38
+SEQ gi|2499753|sp|Q15262|PTPK_HUMAN PROTEIN-TYROSINE PHOSPHATASE KAP...   159  3e-38
+SEQ gi|4506317|ref|NP_002835.1| protein tyrosine phosphatase, recept...   159  3e-38
+SEQ gi|7684321|dbj|BAA95182.1| (AB033575) hgPTPR2Ac [Eptatretus burg...   159  4e-38
+SEQ gi|90254|pir||A28334 protein-tyrosine-phosphatase (EC 3.1.3.48) ...   159  4e-38
+SEQ gi|6755244|ref|NP_035340.1| protein tyrosine phosphatase, recept...   159  4e-38
+SEQ gi|198917|gb|AAA39459.1| (M92933) lymphocyte common antigen [Mus...   159  4e-38
+SEQ gi|8919950|emb|CAB96211.1| (AJ243429) CD45 [Takifugu rubripes]        159  5e-38
+SEQ gi|8919952|emb|CAB96212.1| (AJ243430) CD45 [Takifugu rubripes]        159  5e-38
+SEQ gi|32313|emb|CAA38662.1| (X54890) protein-tyrosine phosphatase [...   158  7e-38
+SEQ gi|915210|gb|AAA73516.1| (U20807) BA14 [Bos taurus]                   158  8e-38
+SEQ gi|11136912|emb|CAC15547.1| (Y15874) RPTP-alpha protein [Danio r...   158  8e-38
+SEQ gi|1085587|pir||S48748 protein-tyrosine-phosphatase (EC 3.1.3.48...   158  9e-38
+SEQ gi|7688663|gb|AAF67472.1|AF150732_1 (AF150732) protein tyrosine ...   158  1e-37
+SEQ gi|450583|gb|AAB04150.1| (L22437) protein tyrosine phosphatase [...   158  1e-37
+SEQ gi|464500|sp|P34138|PTP2_DICDI PROTEIN-TYROSINE PHOSPHATASE 2 (P...   158  1e-37
+SEQ gi|441123|gb|AAA49015.1| (L27625) phosphotyrosyl phosphatase [Ga...   157  1e-37
+SEQ gi|7511703|pir||T31093 probable protein-tyrosine-phosphatase (EC...   157  1e-37
+SEQ gi|116008|sp|P04157|CD45_RAT LEUKOCYTE COMMON ANTIGEN PRECURSOR ...   157  2e-37
+SEQ gi|56560|emb|CAA68273.1| (Y00065) L-CA variant 3 [Rattus norvegi...   157  2e-37
+SEQ gi|56561|emb|CAA68274.1| (Y00065) L-CA variant 2 [Rattus norvegi...   157  2e-37
+SEQ gi|56562|emb|CAA68275.1| (Y00065) L-CA variant 1 [Rattus norvegi...   157  2e-37
+SEQ gi|205143|gb|AAA41513.1| (K03039) leukocyte common antigen [Ratt...   157  2e-37
+SEQ gi|11382546|pir||TDRTLT leukocyte common antigen precursor, spli...   157  2e-37
+SEQ gi|9229928|dbj|BAB00633.1| (AB036856) tyrosine phosphatase [Cion...   157  2e-37
+SEQ gi|4506287|ref|NP_002826.1| protein tyrosine phosphatase, non-re...   157  2e-37
+SEQ gi|6679555|ref|NP_033005.1| protein tyrosine phosphatase, non-re...   156  3e-37
+SEQ gi|292409|gb|AAA36529.1| (M93425) protein tyrosine phosphatase [...   156  3e-37
+SEQ gi|11419318|ref|XP_004634.1| protein tyrosine phosphatase, non-r...   156  3e-37
+SEQ gi|13378310|gb|AAK18743.1| (AY026863) brain RPTPmam4 isoform III...   156  4e-37
+SEQ gi|125977|sp|P16621|LAR_DROME PROTEIN-TYROSINE PHOSPHATASE DLAR ...   156  4e-37
+SEQ gi|10728878|gb|AAF53837.2| (AE003663) Lar gene product [Drosophi...   156  4e-37
+SEQ gi|6679557|ref|NP_033006.1| protein tyrosine phosphatase, recept...   156  5e-37
+SEQ gi|11275231|pir||T43148 probable protein-tyrosine-phosphatase (E...   156  5e-37
+SEQ gi|6679561|ref|NP_033009.1| protein tyrosine phosphatase, recept...   155  6e-37
+SEQ gi|91246|pir||JH0609 protein-tyrosine-phosphatase (EC 3.1.3.48) ...   155  6e-37
+SEQ gi|6755230|ref|NP_035333.1| protein tyrosine phosphatase, non-re...   155  6e-37
+SEQ gi|5729993|ref|NP_006495.1| protein tyrosine phosphatase, recept...   155  7e-37
+SEQ gi|7706280|ref|NP_057051.1| protein tyrosine phosphatase homolog...   155  7e-37
+SEQ gi|2117999|pir||S55345 protein-tyrosine-phosphatase (EC 3.1.3.48...   155  8e-37
+SEQ gi|7106471|dbj|BAA92179.1| (AB031424) CD45 [Cyprinus carpio]          154  9e-37
+SEQ gi|7439347|pir||JC6312 protein-tyrosine-phosphatase (EC 3.1.3.48...   154  9e-37
+SEQ gi|4506329|ref|NP_002842.1| protein tyrosine phosphatase, recept...   154  1e-36
+SEQ gi|300182|gb|AAB26530.1| receptor-type protein tyrosine phosphat...   154  1e-36
+SEQ gi|930104|emb|CAA38070.1| (X54135) protein-tyrosine phosphatase ...   154  1e-36
+SEQ gi|6094682|gb|AAF03527.1|AC006020_2 (AC006020) receptor-type pro...   154  1e-36
+SEQ gi|7513285|pir||T08716 protein-tyrosine-phosphatase homolog DKFZ...   154  2e-36
+SEQ gi|13643704|ref|XP_011792.2| similar to protein tyrosine phospha...   154  2e-36
+SEQ gi|13653925|ref|XP_016255.1| protein tyrosine phosphatase, recep...   154  2e-36
+SEQ gi|1079024|pir||S53089 protein-tyrosine-phosphatase (EC 3.1.3.48...   154  2e-36
+SEQ gi|1050968|gb|AAC52281.1| (U35368) epsilon tyrosine phosphatase ...   154  2e-36
+SEQ gi|1127579|gb|AAC52331.1| (U36758) epsilon tyrosine phosphatase ...   154  2e-36
+SEQ gi|1199933|dbj|BAA11927.1| (D83484) protein tyrosine phosphatase...   154  2e-36
+SEQ gi|7439344|pir||JC6132 protein-tyrosine-phosphatase (EC 3.1.3.48...   154  2e-36
+SEQ gi|7110707|ref|NP_035342.1| protein tyrosine phosphatase, recept...   154  2e-36
+SEQ gi|2190301|dbj|BAA20333.1| (D78610) protein tyrosine phosphatase...   153  2e-36
+SEQ gi|517125|dbj|BAA05885.1| (D28529) protein tyrosine phosphatase ...   153  2e-36
+SEQ gi|6755232|ref|NP_035334.1| protein tyrosine phosphatase, non-re...   153  2e-36
+SEQ gi|13652321|ref|XP_006638.2| protein tyrosine phosphatase, non-r...   153  3e-36
+SEQ gi|7684349|dbj|BAA95196.1| (AB033589) ryPTPR4b [Potamotrygon mot...   153  3e-36
+SEQ gi|6679691|ref|NP_031981.1| embryonic stem cell phosphatase [Mus...   153  3e-36
+SEQ gi|11066925|gb|AAG28768.1|AF300701_1 (AF300701) osteotesticular ...   153  3e-36
+SEQ gi|7296136|gb|AAF51430.1| (AE003587) CG4355 gene product [alt 1]...   153  3e-36
+SEQ gi|7296137|gb|AAF51431.1| (AE003587) CG4355 gene product [alt 2]...   153  3e-36
+SEQ gi|627334|pir||A54080 protein-tyrosine-phosphatase (EC 3.1.3.48)...   153  3e-36
+SEQ gi|13639117|ref|XP_015707.1| protein tyrosine phosphatase, recep...   153  4e-36
+SEQ gi|7684254|dbj|BAA95170.1| (AB033563) amPTPR4b [Branchiostoma be...   153  4e-36
+SEQ gi|6226890|sp|P28191|PTP1_CAEEL PROTEIN-TYROSINE PHOSPHATASE 1 >...   152  4e-36
+SEQ gi|7497608|pir||T19630 hypothetical protein C48D5.2b - Caenorhab...   152  4e-36
+SEQ gi|7684315|dbj|BAA95179.1| (AB033572) hgPTPR4 [Eptatretus burgeri]    152  5e-36
+SEQ gi|1232104|dbj|BAA12158.1| (D83966) protein tyrosine phosphatase...   152  5e-36
+SEQ gi|7435158|pir||S71625 protein-tyrosine-phosphatase (EC 3.1.3.48...   152  5e-36
+SEQ gi|2493262|sp|Q62728|PTNL_RAT PROTEIN TYROSINE PHOSPHATASE, NON-...   152  6e-36
+SEQ gi|603229|gb|AAA62154.1| (U18293) protein tyrosine phosphatase 2...   152  6e-36
+SEQ gi|7684339|dbj|BAA95191.1| (AB033584) ryPTPR2Ab [Potamotrygon mo...   152  6e-36
+SEQ gi|13928818|ref|NP_113788.1| protein tyrosine phosphatase, recep...   152  6e-36
+SEQ gi|2499755|sp|Q60673|PTPN_MOUSE PROTEIN-TYROSINE PHOSPHATASE-LIK...   151  8e-36
+SEQ gi|14193733|gb|AAK56111.1|AF332083_1 (AF332083) protein tyrosine...   151  8e-36
+SEQ gi|4100632|gb|AAD00904.1| (AF001846) lymphoid phosphatase LyP1 [...   151  9e-36
+SEQ gi|6912614|ref|NP_036543.1| protein tyrosine phosphatase, non-re...   151  9e-36
+SEQ gi|2829685|sp|P80560|PTPX_MOUSE PROTEIN-TYROSINE PHOSPHATASE X P...   151  1e-35
+SEQ gi|1769594|gb|AAB39996.1| (U82439) IA-2beta PTP [Mus musculus]        151  1e-35
+SEQ gi|2499757|sp|Q64612|PTPO_RAT OSTEOTESTICULAR PROTEIN TYROSINE P...   151  1e-35
+SEQ gi|1083770|pir||A55148 protein-tyrosine-phosphatase (EC 3.1.3.48...   151  1e-35
+SEQ gi|1094005|prf||2105234A protein Tyr phosphatase [Mus musculus]       151  1e-35
+SEQ gi|12804643|gb|AAH01746.1|AAH01746 (BC001746) Similar to protein...   151  1e-35
+SEQ gi|7684333|dbj|BAA95188.1| (AB033581) ryPTPR2Aa [Potamotrygon mo...   151  1e-35
+SEQ gi|11386149|ref|NP_002838.1| protein tyrosine phosphatase, recep...   151  1e-35
+SEQ gi|7439339|pir||JC5263 transmembrane tyrosine phosphatase-like p...   151  1e-35
+SEQ gi|2811018|sp|O02695|PTPX_MACNE PROTEIN-TYROSINE PHOSPHATASE X P...   151  1e-35
+SEQ gi|2224715|dbj|BAA20841.1| (AB002385) KIAA0387 [Homo sapiens]         151  1e-35
+SEQ gi|2262075|gb|AAB63600.1| (AF007555) IAR/receptor-like protein-t...   151  1e-35
+SEQ gi|2281289|gb|AAC51643.1| (U65065) tyrosine phosphatase IA-2beta...   151  1e-35
+SEQ gi|2351576|gb|AAB68603.1| (U81561) protein tyrosine phosphatase ...   151  1e-35
+SEQ gi|13628311|ref|XP_011565.2| similar to protein tyrosine phospha...   151  1e-35
+SEQ gi|112238|pir||A40169 protein-tyrosine-phosphatase (EC 3.1.3.48)...   151  2e-35
+SEQ gi|6981448|ref|NP_037212.1| protein tyrosine phosphatase, recept...   151  2e-35
+SEQ gi|7657484|ref|NP_055184.1| protein tyrosine phosphatase, non-re...   150  2e-35
+SEQ gi|12621078|ref|NP_075214.1| protein tyrosine phosphatase, recep...   150  2e-35
+SEQ gi|6679565|ref|NP_033011.1| protein tyrosine phosphatase, recept...   150  2e-35
+SEQ gi|14193735|gb|AAK56112.1|AF332084_1 (AF332084) protein tyrosine...   150  2e-35
+SEQ gi|6755240|ref|NP_036007.1| protein tyrosine phosphatase, non-re...   150  2e-35
+SEQ gi|1945624|dbj|BAA19740.1| (D83072) PTP-RL10b [Mus musculus]          150  2e-35
+SEQ gi|7684343|dbj|BAA95193.1| (AB033586) ryPTPR2Ac [Potamotrygon mo...   150  2e-35
+SEQ gi|644894|dbj|BAA08254.1| (D45414) brain-enriched membrane-assoc...   150  2e-35
+SEQ gi|1363316|pir||S54342 protein-tyrosine-phosphatase (EC 3.1.3.48...   150  2e-35
+SEQ gi|3183542|sp|Q63259|PTPN_RAT PROTEIN-TYROSINE PHOSPHATASE-LIKE ...   150  2e-35
+SEQ gi|6225895|sp|P56722|PTPN_BOVIN PROTEIN-TYROSINE PHOSPHATASE-LIK...   150  2e-35
+SEQ gi|1054835|emb|CAA63313.1| (X92563) ICA105 [Rattus norvegicus]        150  3e-35
+SEQ gi|5902032|ref|NP_008970.1| protein tyrosine phosphatase, non-re...   150  3e-35
+SEQ gi|7684252|dbj|BAA95169.1| (AB033562) amPTPR4a [Branchiostoma be...   150  3e-35
+SEQ gi|4506321|ref|NP_002837.1| protein tyrosine phosphatase, recept...   149  3e-35
+SEQ gi|6469411|emb|CAA44688.2| (X62899) Islet Cell Antigen 512 [Homo...   149  3e-35
+SEQ gi|7684309|dbj|BAA95176.1| (AB033569) hgPTPR2Aa [Eptatretus burg...   149  3e-35
+SEQ gi|13182727|gb|AAK14909.1|AF126741_1 (AF126741) IA2 [Drosophila ...   149  4e-35
+SEQ gi|14250184|gb|AAH08512.1|AAH08512 (BC008512) Similar to protein...   149  5e-35
+SEQ gi|1669508|gb|AAC52896.1| (U69673) protein tyrosine phosphatase ...   149  5e-35
+SEQ gi|12738470|ref|XP_007391.2| protein tyrosine phosphatase, non-r...   149  5e-35
+SEQ gi|7684260|dbj|BAA95173.1| (AB033566) amPTPR2A [Branchiostoma be...   149  5e-35
+SEQ gi|1346898|sp|P35236|PTN7_HUMAN PROTEIN-TYROSINE PHOSPHATASE, NO...   149  6e-35
+SEQ gi|5572701|dbj|BAA82559.1| (AB019126) sPTPR2B [Ephydatia fluviat...   148  9e-35
+SEQ gi|4506299|ref|NP_002823.1| protein tyrosine phosphatase, non-re...   148  1e-34
+SEQ gi|11275229|pir||T46903 hypothetical protein DKFZp761A0712.1 - h...   148  1e-34
+SEQ gi|4885567|ref|NP_005392.1| protein tyrosine phosphatase, non-re...   147  1e-34
+SEQ gi|12722714|ref|XP_010689.1| protein tyrosine phosphatase, non-r...   147  1e-34
+SEQ gi|7504815|pir||T34317 probable protein tyrosine phosphatase - C...   147  2e-34
+SEQ gi|1293622|gb|AAB18623.1| (U49853) tyrosine phosphatase [Mus mus...   147  2e-34
+SEQ gi|6755236|ref|NP_035336.1| protein tyrosine phosphatase, non-re...   147  2e-34
+SEQ gi|392566|gb|AAC04306.1| (U00477) LAR receptor-linked tyrosine p...   146  3e-34
+SEQ gi|452199|dbj|BAA03003.1| (D13903) MPTPdelta [Mus musculus]           146  3e-34
+SEQ gi|1346899|sp|P49445|PTN7_RAT PROTEIN-TYROSINE PHOSPHATASE, NON-...   146  3e-34
+SEQ gi|7505278|pir||T23308 hypothetical protein K04D7.4 - Caenorhabd...   146  4e-34
+SEQ gi|7294551|gb|AAF49892.1| (AE003540) Ptp69D gene product [Drosop...   145  6e-34
+SEQ gi|1519396|gb|AAB42210.1| (U66566) receptor type protein tyrosin...   145  9e-34
+SEQ gi|4050030|gb|AAC97944.1| (AF097483) protein tyrosine phosphatas...   144  1e-33
+SEQ gi|6679549|ref|NP_033002.1| protein tyrosine phosphatase, non-re...   144  1e-33
+SEQ gi|6746398|gb|AAF27549.1|AF170903_1 (AF170903) PTP36-B isoform [...   144  1e-33
+SEQ gi|7291964|gb|AAF47380.1| (AE003468) Ptpmeg gene product [Drosop...   144  1e-33
+SEQ gi|118913|sp|P16620|PTP6_DROME PROTEIN-TYROSINE PHOSPHATASE DPTP...   144  2e-33
+SEQ gi|6755246|ref|NP_035344.1| protein tyrosine phosphatase, recept...   143  3e-33
+SEQ gi|2627027|dbj|BAA23475.1| (D88187) Ftp-1 [Mus musculus]              143  3e-33
+SEQ gi|7684313|dbj|BAA95178.1| (AB033571) hgPTPR2Ab [Eptatretus burg...   143  4e-33
+SEQ gi|10727513|gb|AAF58051.2| (AE003808) CG18243 gene product [Dros...   141  9e-33
+SEQ gi|1518672|gb|AAB07074.1| (U60289) receptor protein tyrosine pho...   140  3e-32
+SEQ gi|7439345|pir||JC5290 protein-tyrosine-phosphatase (EC 3.1.3.48...   140  3e-32
+SEQ gi|5578986|emb|CAB51346.1| (AL049570) dJ437I16.1.1 (Protein-tyro...   140  3e-32
+SEQ gi|5578987|emb|CAB51347.1| (AL049570) dJ437I16.1.2 (Protein-tyro...   140  3e-32
+SEQ gi|5578988|emb|CAB51348.1| (AL049570) dJ437I16.1.3 (Protein-tyro...   140  3e-32
+SEQ gi|1113923|gb|AAA83235.1| (U40652) tyrosine phosphatase-like pro...   139  5e-32
+SEQ gi|4050028|gb|AAC97943.1| (AF097482) protein tyrosine phosphatas...   138  1e-31
+SEQ gi|13276131|emb|CAC33882.1| (AJ276275) receptor protein tyrosine...   138  1e-31
+SEQ gi|3413425|emb|CAA06978.1| (AJ006309) protein tyrosine phosphata...   137  2e-31
+SEQ gi|11358730|pir||T51846 protein-tyrosine-phosphatase (EC 3.1.3.4...   137  2e-31
+SEQ gi|5032003|ref|NP_005695.1| protein tyrosine phosphatase, recept...   136  3e-31
+SEQ gi|1890660|gb|AAC51938.1| (U71075) protein tyrosine phosphatase ...   136  3e-31
+SEQ gi|11275230|pir||T42522 protein-tyrosine-phosphatase (EC 3.1.3.4...   136  3e-31
+SEQ gi|14574203|gb|AAA81098.2| (U39997) Hypothetical protein F56D1.4...   136  3e-31
+SEQ gi|1709903|sp|P54637|PTP3_DICDI PROTEIN-TYROSINE PHOSPHATASE 3 (...   136  3e-31
+SEQ gi|7684256|dbj|BAA95171.1| (AB033564) amPTPR4c [Branchiostoma be...   136  4e-31
+SEQ gi|283728|pir||A43254 protein-tyrosine-phosphatase (EC 3.1.3.48)...   136  5e-31
+SEQ gi|1375479|gb|AAB02543.1| (U19909) corkscrew protein Y1229 [Dros...   136  5e-31
+SEQ gi|1375480|gb|AAB02544.1| (U19909) corkscrew protein 4A [Drosoph...   136  5e-31
+SEQ gi|6706168|emb|CAB65871.1| (AL132797) the EST embl|AA697809|AA69...   136  5e-31
+SEQ gi|14286101|sp|P29349|CSW_DROME PROTEIN-TYROSINE PHOSPHATASE COR...   136  5e-31
+SEQ gi|7684337|dbj|BAA95190.1| (AB033583) ryPTPR4a [Potamotrygon mot...   135  6e-31
+SEQ gi|5572699|dbj|BAA82558.1| (AB019125) sPTPR4 [Ephydatia fluviati...   135  7e-31
+SEQ gi|1375482|gb|AAB02545.1| (U22356) corkscrew protein [Drosophila...   135  7e-31
+SEQ gi|1083475|pir||S53427 protein-tyrosine-phosphatase (EC 3.1.3.48...   135  9e-31
+SEQ gi|666074|emb|CAA82958.1| (Z30313) protein-tyrosine-phosphatase ...   135  9e-31
+SEQ gi|6755248|ref|NP_035347.1| protein tyrosine phosphatase, recept...   135  9e-31
+SEQ gi|4185712|gb|AAD09171.1| (AF041866) protein tyrosine phosphatas...   135  9e-31
+SEQ gi|7263020|gb|AAF44063.1|AF217285_1 (AF217285) protein tyrosine ...   134  1e-30
+SEQ gi|4506325|ref|NP_002840.1| protein tyrosine phosphatase, recept...   134  2e-30
+SEQ gi|1524069|emb|CAA57957.1| (X82635) protein-tyrosine-phosphatase...   134  2e-30
+SEQ gi|1524085|emb|CAB01957.1| (Z79693) protein-tyrosine phosphatase...   134  2e-30
+SEQ gi|2078323|gb|AAB54006.1| (U77916) Ch-1PTPase delta form [Homo s...   134  2e-30
+SEQ gi|2078325|gb|AAB54007.1| (U77917) Ch-1PTPase gamma minus form [...   134  2e-30
+SEQ gi|14250501|gb|AAH08692.1|AAH08692 (BC008692) protein tyrosine p...   133  3e-30
+SEQ gi|7439346|pir||S72441 protein-tyrosine-phosphatase (EC 3.1.3.48...   133  3e-30
+SEQ gi|557034|gb|AAA64485.1| (U14914) PC12-PTP1 [Rattus norvegicus]       133  4e-30
+SEQ gi|1215810|dbj|BAA07414.1| (D38292) protein tyrosine phosphatase...   132  5e-30
+SEQ gi|1944500|dbj|BAA19530.1| (D64050) tyrosine phosphatase CBPTP [...   132  5e-30
+SEQ gi|2144714|pir||JC4263 protein-tyrosine-phosphatase (EC 3.1.3.48...   132  5e-30
+SEQ gi|417568|sp|P32587|PYP3_SCHPO PROTEIN-TYROSINE PHOSPHATASE 3 (P...   131  1e-29
+SEQ gi|14573993|gb|AAK68274.1|AC006625_6 (AC006625) Hypothetical pro...   131  1e-29
+SEQ gi|464498|sp|P34137|PTP1_DICDI PROTEIN-TYROSINE PHOSPHATASE 1 (P...   129  6e-29
+SEQ gi|348540|pir||A44267 protein-tyrosine-phosphatase (EC 3.1.3.48)...   129  6e-29
+SEQ gi|387402|gb|AAA39418.1| (M23158) leukocyte common antigen [Mus ...   128  7e-29
+SEQ gi|7305425|ref|NP_038671.1| protein tyrosine phosphatase, non-re...   127  2e-28
+SEQ gi|957257|gb|AAB33981.1| Muller glia protein tyrosine phosphatas...   127  2e-28
+SEQ gi|3413473|emb|CAA06975.1| (AJ006308) tyrosine phosphatase 1 [Gl...   127  2e-28
+SEQ gi|7504409|pir||T30111 hypothetical protein F56D1.4 - Caenorhabd...   126  3e-28
+SEQ gi|7498856|pir||T20729 hypothetical protein F10G8.1 - Caenorhabd...   126  3e-28
+SEQ gi|7512735|pir||T14756 hypothetical protein DKFZp564F0923.1 - hu...   126  4e-28
+SEQ gi|11862816|dbj|BAB19280.1| (AB025194) protein tyrosine phosphat...   126  4e-28
+SEQ gi|13436125|gb|AAH04881.1|AAH04881 (BC004881) Similar to protein...   126  4e-28
+SEQ gi|9507009|ref|NP_062126.1| protein tyrosine phosphatase, non-re...   126  5e-28
+SEQ gi|7508204|pir||T25109 hypothetical protein T22C1.8 - Caenorhabd...   124  2e-27
+SEQ gi|7511170|pir||T32869 hypothetical protein ZK484.7 - Caenorhabd...   123  2e-27
+SEQ gi|1709900|sp|P54829|PTN5_HUMAN PROTEIN-TYROSINE PHOSPHATASE, NO...   123  2e-27
+SEQ gi|7684250|dbj|BAA95168.1| (AB033561) amPTP10 [Branchiostoma bel...   123  2e-27
+SEQ gi|2118900|pir||I37577 islet cell antigen 512 - human                 123  3e-27
+SEQ gi|304401|gb|AAA49018.1| (L20630) phosphoprotein phosphatase [Ga...   122  4e-27
+SEQ gi|7506013|pir||T32543 hypothetical protein M04G7.2 - Caenorhabd...   122  5e-27
+SEQ gi|13879230|gb|AAH06582.1|AAH06582 (BC006582) Unknown (protein f...   122  7e-27
+SEQ gi|7488838|pir||T06536 protein-tyrosine-phosphatase (EC 3.1.3.48...   122  8e-27
+SEQ gi|7684319|dbj|BAA95181.1| (AB033574) hgPTPR2B [Eptatretus burgeri]   121  9e-27
+SEQ gi|7504323|pir||T29589 hypothetical protein F55F8.7 - Caenorhabd...   121  1e-26
+SEQ gi|131684|sp|P27574|PYP1_SCHPO PROTEIN-TYROSINE PHOSPHATASE 1 (P...   119  3e-26
+SEQ gi|7514058|pir||T14355 protein-tyrosine-phosphatase (EC 3.1.3.48...   119  4e-26
+SEQ gi|7684331|dbj|BAA95187.1| (AB033580) ryPTPN6a [Potamotrygon mot...   119  6e-26
+SEQ gi|7684305|dbj|BAA95174.1| (AB033567) amPTPN6 [Branchiostoma bel...   119  6e-26
+SEQ gi|7499844|pir||T21365 hypothetical protein F25H5.7 - Caenorhabd...   119  6e-26
+SEQ gi|7332259|gb|AAF60945.1| (AC006833) Hypothetical protein ZK616....   118  8e-26
+SEQ gi|7684323|dbj|BAA95183.1| (AB033576) hgPTPN6a [Eptatretus burgeri]   116  3e-25
+SEQ gi|2118904|pir||I56540 protein-tyrosine-phosphatase (EC 3.1.3.48...   116  4e-25
+SEQ gi|7684327|dbj|BAA95185.1| (AB033578) hgPTPN6b [Eptatretus burgeri]   116  5e-25
+SEQ gi|7105608|gb|AAF36005.1| (AC024200) Hypothetical protein Y71F9A...   116  5e-25
+SEQ gi|7684317|dbj|BAA95180.1| (AB033573) hgPTPR3 [Eptatretus burgeri]    115  7e-25
+SEQ gi|13637178|ref|XP_010573.2| protein tyrosine phosphatase, recep...   114  1e-24
+SEQ gi|7503637|pir||T29154 hypothetical protein F47B3.7 - Caenorhabd...   112  4e-24
+SEQ gi|7684351|dbj|BAA95197.1| (AB033590) ryPTPR5b [Potamotrygon mot...   112  5e-24
+SEQ gi|7508697|pir||T25430 hypothetical protein T28F4.3 - Caenorhabd...   112  6e-24
+SEQ gi|7507803|pir||T23738 hypothetical protein T13H5.1 - Caenorhabd...   112  7e-24
+SEQ gi|7684248|dbj|BAA95167.1| (AB033560) amPTPR3 [Branchiostoma bel...   112  7e-24
+SEQ gi|7298436|gb|AAF53658.1| (AE003658) CG7180 gene product [Drosop...   111  1e-23
+SEQ gi|7684345|dbj|BAA95194.1| (AB033587) ryPTPR2B [Potamotrygon mot...   110  3e-23
+SEQ gi|417567|sp|P32586|PYP2_SCHPO PROTEIN-TYROSINE PHOSPHATASE 2 (P...   109  3e-23
+SEQ gi|2564314|dbj|BAA22952.1| (AB006621) Similar to protein tyrosin...   109  3e-23
+SEQ gi|13236924|gb|AAB26343.2| (S59187) tissue-specific protein tyro...   109  4e-23
+SEQ gi|14574622|gb|AAK68680.1|AF038605_6 (AF038605) Hypothetical pro...   109  6e-23
+SEQ gi|7503631|pir||T29156 hypothetical protein F47B3.1 - Caenorhabd...   109  7e-23
+SEQ gi|7503636|pir||T29153 hypothetical protein F47B3.6 - Caenorhabd...   109  7e-23
+SEQ gi|6319971|ref|NP_010051.1| phosphotyrosine-specific protein pho...   108  8e-23
+SEQ gi|13637328|ref|XP_002596.2| protein tyrosine phosphatase, recep...   108  8e-23
+SEQ gi|7505473|pir||T23421 hypothetical protein K07F5.8 - Caenorhabd...   108  9e-23
+SEQ gi|13559717|gb|AAK29923.1| (AC024798) Hypothetical protein Y48G9...   108  1e-22
+SEQ gi|7500661|pir||T33446 hypothetical protein F36H12.10 - Caenorha...   107  1e-22
+SEQ gi|7511101|pir||T25992 hypothetical protein ZK354.8 - Caenorhabd...   107  3e-22
+SEQ gi|300036|gb|AAB26475.1| protein-tyrosine phosphatase, PTPase {c...   106  3e-22
+SEQ gi|7684347|dbj|BAA95195.1| (AB033588) ryPTPR5a [Potamotrygon mot...   106  4e-22
+SEQ gi|2854164|gb|AAC02582.1| (AF045642) Hypothetical protein C17H12...   105  8e-22
+SEQ gi|11263050|pir||T45160 protein-tyrosine-phosphatase (EC 3.1.3.4...   105  8e-22
+SEQ gi|5572715|dbj|BAA82566.1| (AB019133) sPTPN8 [Ephydatia fluviati...   105  9e-22
+SEQ gi|7508547|pir||T25917 hypothetical protein T27A3.5 - Caenorhabd...   104  1e-21
+SEQ gi|13278352|gb|AAH03995.1|AAH03995 (BC003995) Similar to protein...   104  1e-21
+SEQ gi|304403|gb|AAA49019.1| (L20631) phosphoprotein phosphatase [Ga...   104  2e-21
+SEQ gi|7684311|dbj|BAA95177.1| (AB033570) hgPTPR5a [Eptatretus burgeri]   103  3e-21
+SEQ gi|1373258|gb|AAB02231.1| (U57501) protein tyrosine phosphatase ...   102  6e-21
+SEQ gi|14574315|gb|AAK68455.1|AC024775_5 (AC024775) Hypothetical pro...   102  7e-21
+SEQ gi|5572713|dbj|BAA82565.1| (AB019132) sPTPN6 [Ephydatia fluviati...   101  9e-21
+SEQ gi|14574454|gb|AAK68563.1|AC084158_11 (AC084158) Hypothetical pr...   101  1e-20
+SEQ gi|1943802|gb|AAB52456.1| (U97196) Hypothetical protein B0207.1 ...   101  1e-20
+SEQ gi|7684258|dbj|BAA95172.1| (AB033565) amPTPR5 [Branchiostoma bel...   101  2e-20
+SEQ gi|7299485|gb|AAF54673.1| (AE003692) CG14714 gene product [Droso...   100  2e-20
+SEQ gi|5572703|dbj|BAA82560.1| (AB019127) sPTPR5 [Ephydatia fluviati...   100  2e-20
+SEQ gi|13236923|gb|AAB26342.2| (S59186) tissue-specific protein tyro...   100  3e-20
+SEQ gi|7496955|pir||T34151 hypothetical protein C33H5.16 - Caenorhab...    99  4e-20
+SEQ gi|5572707|dbj|BAA82562.1| (AB019129) sPTPN1 [Ephydatia fluviati...    99  8e-20
+SEQ gi|201106|gb|AAA40161.1| (M15174) T200 glycoprotein [Mus musculus]     98  2e-19
+SEQ gi|2547230|gb|AAB81279.1| (AF024438) CD45 [Xenopus laevis]             98  2e-19
+SEQ gi|7500656|pir||T21883 hypothetical protein F36H1.3 - Caenorhabd...    95  1e-18
+SEQ gi|7959203|dbj|BAA95995.1| (AB040904) KIAA1471 protein [Homo sap...    95  1e-18
+SEQ gi|13638168|ref|XP_016748.1| protein tyrosine phosphatase, recep...    94  2e-18
+SEQ gi|300038|gb|AAB26477.1| protein-tyrosine phosphatase, PTPase {c...    93  3e-18
+SEQ gi|5572705|dbj|BAA82561.1| (AB019128) sPTPR3 [Ephydatia fluviati...    93  4e-18
+SEQ gi|1373254|gb|AAB02229.1| (U57499) protein tyrosine phosphatase ...    93  5e-18
+SEQ gi|4966291|gb|AAD34661.1|AF002197_6 (AF002197) contains similari...    93  7e-18
+SEQ gi|7684325|dbj|BAA95184.1| (AB033577) hgPTPR5b [Eptatretus burgeri]    92  8e-18
+SEQ gi|13637099|ref|XP_002447.3| protein tyrosine phosphatase, non-r...    92  1e-17
+SEQ gi|300037|gb|AAB26476.1| protein-tyrosine phosphatase, PTPase {c...    91  2e-17
+SEQ gi|7684341|dbj|BAA95192.1| (AB033585) ryPTPR8 [Potamotrygon motoro]    91  2e-17
+SEQ gi|5572711|dbj|BAA82564.1| (AB019131) sPTPR7 [Ephydatia fluviati...    90  4e-17
+SEQ gi|7500825|pir||T21973 hypothetical protein F38H4.4 - Caenorhabd...    88  1e-16
+SEQ gi|1354859|gb|AAB02007.1| (U57502) protein tyrosine phosphatase ...    88  1e-16
+SEQ gi|5572709|dbj|BAA82563.1| (AB019130) sPTPN2 [Ephydatia fluviati...    88  1e-16
+SEQ gi|1373256|gb|AAB02230.1| (U57500) protein tyrosine phosphatase ...    88  1e-16
+SEQ gi|11359667|pir||T49403 related to protein-tyrosine-phosphatase ...    86  7e-16
+SEQ gi|11544694|emb|CAB91306.2| (AL355928) related to protein-tyrosi...    86  7e-16
+SEQ gi|11359780|pir||T45039 hypothetical protein Y39B6B.m [imported]...    85  9e-16
+SEQ gi|4850176|gb|AAD31046.1|U28971_8 (U28971) Hypothetical protein ...    85  9e-16
+SEQ gi|5701822|emb|CAB52188.1| (AJ245560) IDA-1 protein [Caenorhabdi...    85  9e-16
+SEQ gi|285449|pir||C38189 protein-tyrosine-phosphatase (EC 3.1.3.48)...    84  2e-15
+SEQ gi|131457|sp|P28203|PT11_STYPL PROTEIN-TYROSINE PHOSPHATASE 11 >...    84  3e-15
+SEQ gi|1228944|dbj|BAA11433.1| (D78613) protein tyrosine phosphatase...    83  3e-15
+SEQ gi|6425532|emb|CAB60442.1| (AL132853) contains similarity to Pfa...    83  5e-15
+SEQ gi|13676508|dbj|BAB41172.1| (AB060245) hypothetical protein [Mac...    83  5e-15
+SEQ gi|438138|emb|CAA80585.1| (Z23050) protein-tyrosine-phosphatase ...    82  1e-14
+SEQ gi|6652822|gb|AAF22489.1|AF094828_1 (AF094828) protein tyrosine ...    81  1e-14
+SEQ gi|3342257|gb|AAC27552.1| (AF047881) truncated CLR-1 [Caenorhabd...    81  2e-14
+SEQ gi|1519398|gb|AAB42211.1| (U66567) receptor type protein tyrosin...    81  2e-14
+SEQ gi|7331823|gb|AAF60511.1| (AC006747) similar to protein-tyrosine...    81  2e-14
+SEQ gi|131456|sp|P28202|PT10_STYPL PROTEIN-TYROSINE PHOSPHATASE 10 >...    80  4e-14
+SEQ gi|12324541|gb|AAG52227.1|AC021665_10 (AC021665) protein tyrosin...    80  4e-14
+SEQ gi|7263018|gb|AAF44062.1|AF217284_1 (AF217284) protein tyrosine ...    79  1e-13
+SEQ gi|7497483|pir||T29814 hypothetical protein C46A5.1 - Caenorhabd...    78  1e-13
+SEQ gi|5738160|gb|AAD50277.1|AF169351_1 (AF169351) protein tyrosine ...    78  2e-13
+SEQ gi|13652741|ref|XP_015457.1| protein tyrosine phosphatase, non-r...    76  5e-13
+SEQ gi|438150|emb|CAA80591.1| (Z23056) protein-tyrosine-phosphatase ...    76  5e-13
+SEQ gi|7509339|pir||T26452 hypothetical protein Y113G7C.1 - Caenorha...    76  8e-13
+SEQ gi|7294357|gb|AAF49705.1| (AE003533) CG9311 gene product [Drosop...    75  1e-12
+SEQ gi|285450|pir||B38189 protein-tyrosine-phosphatase (EC 3.1.3.48)...    75  1e-12
+SEQ gi|7689910|gb|AAB30047.2| (S69184) protein tyrosine phosphatase ...    74  2e-12
+SEQ gi|481963|pir||S40282 protein-tyrosine-phosphatase (EC 3.1.3.48)...    74  3e-12
+SEQ gi|7503761|pir||T22382 hypothetical protein F48F5.1 - Caenorhabd...    73  5e-12
+SEQ gi|7496931|pir||T15749 hypothetical protein C33F10.8 - Caenorhab...    73  6e-12
+SEQ gi|4050018|gb|AAC97938.1| (AF097477) protein tyrosine phosphatas...    73  6e-12
+SEQ gi|961493|dbj|BAA06409.1| (D30749) protein tyrosine phosphatase ...    73  7e-12
+SEQ gi|13384519|gb|AAK21448.1| (AF040654) Similar to protein-tyrosin...    72  8e-12
+SEQ gi|7506519|pir||T24090 hypothetical protein R09E10.2 - Caenorhab...    72  8e-12
+SEQ gi|483247|pir||E61180 protein-tyrosine-phosphatase (EC 3.1.3.48)...    71  1e-11
+SEQ gi|131460|sp|P28205|PT13_STYPL PROTEIN-TYROSINE PHOSPHATASE 13 >...    71  2e-11
+SEQ gi|1083484|pir||S51687 protein-tyrosine-phosphatase (EC 3.1.3.48...    71  2e-11
+SEQ gi|438136|emb|CAA80584.1| (Z23049) protein-tyrosine-phosphatase ...    71  2e-11
+SEQ gi|786460|gb|AAB32799.1| protein tyrosine phosphatase 4, PTP 4=M...    71  3e-11
+SEQ gi|131455|sp|P28201|PT09_STYPL PROTEIN-TYROSINE PHOSPHATASE 9 >g...    70  4e-11
+SEQ gi|131449|sp|P28195|PT03_STYPL PROTEIN-TYROSINE PHOSPHATASE 3 >g...    70  5e-11
+SEQ gi|131464|sp|P28209|PT17_STYPL PROTEIN-TYROSINE PHOSPHATASE 17 >...    69  7e-11
+SEQ gi|575327|emb|CAA57908.1| (X82561) protein-tyrosine kinase [Mus ...    69  7e-11
+SEQ gi|304399|gb|AAA49017.1| (L20629) phosphoprotein phosphatase [Ga...    69  1e-10
+SEQ gi|131461|sp|P28206|PT14_STYPL PROTEIN-TYROSINE PHOSPHATASE 14 >...    68  1e-10
+SEQ gi|7498859|pir||T20724 hypothetical protein F10G8.4 - Caenorhabd...    68  1e-10
+SEQ gi|6226682|sp|P28199|PT07_STYPL PROTEIN-TYROSINE PHOSPHATASE 7 >...    68  2e-10
+SEQ gi|7508902|pir||T29019 hypothetical protein W03F11.4 - Caenorhab...    68  2e-10
+SEQ gi|14550387|gb|AAK18987.2| (AF003135) Hypothetical protein W03F1...    68  2e-10
+SEQ gi|11359772|pir||T45031 hypothetical protein Y39B6B.e [imported]...    67  3e-10
+SEQ gi|7504215|pir||T22672 hypothetical protein F54F12.1 - Caenorhab...    67  3e-10
+SEQ gi|131458|sp|P28204|PT12_STYPL PROTEIN-TYROSINE PHOSPHATASE 12 >...    67  4e-10
+SEQ gi|7507098|pir||T24462 hypothetical protein T04F3.3 - Caenorhabd...    66  7e-10
+SEQ gi|786461|gb|AAB32800.1| protein tyrosine phosphatase 63, PTP 63...    66  8e-10
+SEQ gi|482388|pir||A44929 protein-tyrosine-phosphatase (EC 3.1.3.48)...    65  1e-09
+SEQ gi|5738158|gb|AAD50276.1|AF169350_1 (AF169350) protein tyrosine ...    64  2e-09
+SEQ gi|156407|gb|AAA28127.1| (M38013) protein-tyrosine phophatase [C...    64  2e-09
+SEQ gi|13369855|gb|AAB21146.2| (S78080) protein-tyrosine phosphatase...    64  3e-09
+SEQ gi|13491271|gb|AAF39870.2| (AC006651) contains similarity to Pfa...    63  4e-09
+SEQ gi|7505672|pir||T32088 hypothetical protein K09F6.3 - Caenorhabd...    63  6e-09
+SEQ gi|438148|emb|CAA80590.1| (Z23055) protein-tyrosine-phosphatase ...    63  7e-09
+SEQ gi|483108|pir||B61180 protein-tyrosine-phosphatase (EC 3.1.3.48)...    63  7e-09
+SEQ gi|438146|emb|CAA80589.1| (Z23054) protein-tyrosine-phosphatase ...    63  8e-09
+SEQ gi|7503402|pir||T22184 hypothetical protein F44F4.2 - Caenorhabd...    62  1e-08
+SEQ gi|438142|emb|CAA80587.1| (Z23052) protein-tyrosine-phosphatase ...    62  1e-08
+SEQ gi|7510958|pir||T27722 hypothetical protein ZK1251.5 - Caenorhab...    61  2e-08
+SEQ gi|7497241|pir||T33587 hypothetical protein C40A11.5 - Caenorhab...    61  3e-08
+SEQ gi|1536944|emb|CAA69167.1| (Y07833) protein tyrosine phosphatase...    60  3e-08
+SEQ gi|13242862|gb|AAB21148.2| (S78088) protein-tyrosine phosphatase...    59  5e-08
+SEQ gi|7506015|pir||T23725 hypothetical protein M05B5.1 - Caenorhabd...    59  7e-08
+SEQ gi|131452|sp|P28198|PT06_STYPL PROTEIN-TYROSINE PHOSPHATASE 6 >g...    59  8e-08
+SEQ gi|131558|sp|P28192|PTP2_CAEEL PROTEIN-TYROSINE PHOSPHATASE 2 >g...    59  8e-08
+SEQ gi|131463|sp|P28208|PT16_STYPL PROTEIN-TYROSINE PHOSPHATASE 16 >...    59  8e-08
+SEQ gi|304397|gb|AAA49016.1| (L20504) phosphoprotein phosphatase [Ga...    58  2e-07
+SEQ gi|1572645|gb|AAB09079.1| (U69700) protein tyrosine phosphatase ...    58  2e-07
+SEQ gi|1536942|emb|CAA69166.1| (Y07832) protein tyrosine phosphatase...    58  2e-07
+SEQ gi|131478|sp|P28213|PT21_STYPL PROTEIN-TYROSINE PHOSPHATASE 21 >...    58  2e-07
+SEQ gi|131479|sp|P28214|PT22_STYPL PROTEIN-TYROSINE PHOSPHATASE 22 >...    58  3e-07
+SEQ gi|4050020|gb|AAC97939.1| (AF097478) protein tyrosine phosphatas...    57  3e-07
+SEQ gi|131480|sp|P28215|PT23_STYPL PROTEIN-TYROSINE PHOSPHATASE 23 >...    57  3e-07
+SEQ gi|481973|pir||S40292 protein-tyrosine-phosphatase (EC 3.1.3.48)...    57  3e-07
+SEQ gi|481971|pir||S40290 protein-tyrosine-phosphatase (EC 3.1.3.48)...    57  4e-07
+SEQ gi|438158|emb|CAA80595.1| (Z23060) protein-tyrosine-phosphatase ...    57  4e-07
+SEQ gi|131451|sp|P28197|PT05_STYPL PROTEIN-TYROSINE PHOSPHATASE 5 >g...    57  4e-07
+SEQ gi|131465|sp|P28210|PT18_STYPL PROTEIN-TYROSINE PHOSPHATASE 18 >...    56  5e-07
+SEQ gi|131447|sp|P28193|PT01_STYPL PROTEIN-TYROSINE PHOSPHATASE 1 >g...    56  6e-07
+SEQ gi|7506672|pir||T33093 hypothetical protein R12E2.10 - Caenorhab...    56  8e-07
+SEQ gi|4050024|gb|AAC97941.1| (AF097480) protein tyrosine phosphatas...    56  8e-07
+SEQ gi|7508144|pir||T29763 hypothetical protein T21E3.1 - Caenorhabd...    56  9e-07
+SEQ gi|131450|sp|P28196|PT04_STYPL PROTEIN-TYROSINE PHOSPHATASE 4 >g...    56  9e-07
+SEQ gi|6324782|ref|NP_014851.1| protein tyrosine phosphatase; Ptp2p ...    56  9e-07
+SEQ gi|4050022|gb|AAC97940.1| (AF097479) protein tyrosine phosphatas...    55  1e-06
+SEQ gi|7509842|pir||T26897 hypothetical protein Y44A6D.4 - Caenorhab...    55  1e-06
+SEQ gi|7508034|pir||T15125 hypothetical protein T20B6.1 - Caenorhabd...    55  1e-06
+SEQ gi|172382|gb|AAB59323.1| (M38723) tyrosine phosphatase [Saccharo...    54  2e-06
+SEQ gi|7500460|pir||T21741 hypothetical protein F35C11.2 - Caenorhab...    54  2e-06
+SEQ gi|131481|sp|P28216|PT24_STYPL PROTEIN-TYROSINE PHOSPHATASE 24 >...    54  3e-06
+SEQ gi|13559688|gb|AAK29895.1| (AC024796) Hypothetical protein Y48G1...    53  4e-06
+SEQ gi|7506022|pir||T23733 hypothetical protein M05D6.3 - Caenorhabd...    53  4e-06
+SEQ gi|131482|sp|P28217|PT25_STYPL PROTEIN-TYROSINE PHOSPHATASE 25 >...    53  4e-06
+SEQ gi|5052738|gb|AAD38688.1|AF146594_1 (AF146594) protein tyrosine ...    53  5e-06
+SEQ gi|7291309|gb|AAF46739.1| (AE003454) PTP-ER gene product [Drosop...    53  5e-06
+SEQ gi|957256|gb|AAB33980.1| Muller glia protein tyrosine phosphatas...    53  6e-06
+SEQ gi|131477|sp|P28212|PT20_STYPL PROTEIN-TYROSINE PHOSPHATASE 20 >...    52  7e-06
+SEQ gi|7495177|pir||T32595 hypothetical protein C02B10.6 - Caenorhab...    52  9e-06
+SEQ gi|7499471|pir||T34229 hypothetical protein F20B6.1 - Caenorhabd...    52  1e-05
+SEQ gi|1071870|pir||S15849 protein-tyrosine-phosphatase (EC 3.1.3.48...    51  1e-05
+SEQ gi|7506753|pir||T15279 hypothetical protein R155.3 - Caenorhabdi...    50  4e-05
+SEQ gi|131466|sp|P28211|PT19_STYPL PROTEIN-TYROSINE PHOSPHATASE 19 >...    50  5e-05
+SEQ gi|131483|sp|P28218|PT26_STYPL PROTEIN-TYROSINE PHOSPHATASE 26 >...    49  8e-05
+SEQ gi|6746402|gb|AAF27551.1|AF170905_1 (AF170905) PTP36-D isoform [...    48  1e-04
+SEQ gi|13242861|gb|AAB21147.2| (S78086) protein-tyrosine phosphatase...    48  2e-04
+SEQ gi|1083483|pir||S51686 protein-tyrosine-phosphatase (EC 3.1.3.48...    47  2e-04
+SEQ gi|131484|sp|P28219|PT27_STYPL PROTEIN-TYROSINE PHOSPHATASE 27 >...    47  2e-04
+SEQ gi|8216970|emb|CAB92429.1| (AL049812) dJ1121H13.2 (protein tyros...    47  2e-04
+SEQ gi|7505471|pir||T23412 hypothetical protein K07F5.6 - Caenorhabd...    47  2e-04
+SEQ gi|1195603|gb|AAB35759.1| PTPLv15=protein tyrosine phosphatase [...    47  3e-04
+SEQ gi|7508757|pir||T26040 hypothetical protein W01B6.6 - Caenorhabd...    46  5e-04
+SEQ gi|1536946|emb|CAA69168.1| (Y07834) protein tyrosine phosphatase...    46  6e-04
+SEQ gi|13559667|gb|AAK29876.1| (AC084154) Hypothetical protein Y22D7...    46  7e-04
+SEQ gi|131454|sp|P28200|PT08_STYPL PROTEIN-TYROSINE PHOSPHATASE 8 >g...    46  7e-04
+SEQ gi|131462|sp|P28207|PT15_STYPL PROTEIN-TYROSINE PHOSPHATASE 15 >...    46  9e-04
+SEQ 
+## SEQUENCE PROFILE AND ENTROPY
+ SeqNo PDBNo   V   L   I   M   F   W   Y   G   A   P   S   T   C   H   R   K   Q   E   N   D  NOCC NDEL NINS ENTROPY RELENT WEIGHT
+    1    1     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  43   2  54   0   0     0    0    0   0.777     25  0.00
+    2    2     0  48   8  42   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.964     32  0.00
+    3    3     0   0   0   0   0   0   0   0   1   0  14   0   0   1   0  11   4  67   0   2     0    0    0   1.085     36  0.00
+    4    4     2   0   4   0   0   0   0   0  11   0   1   0   0   0   8  34  23   5   0  13     0    0    0   1.815     60  0.00
+    5    5     3   0   0   0   2   0   0   0   2   1   0   0   0  12   5   0   4  73   0   0     0    0    0   1.019     34  0.00
+    6    6     1  15   1   5  44   0  18   0   5   0  10   0   0   0   2   0   0   0   0   0     0    0    0   1.623     54  0.00
+    7    7     0   0   5   0   0   0   0   1   0   0   0   0   0   1  11   8  18  56   0   0     0    0    0   1.327     44  0.00
+    8    8     0   3   1   0   0   0   3   0   1   0  11   2   0   0  17   5  26  10   9  10     0    0    0   2.156     71  0.00
+    9    9     1  29  33   2   0   0   0   0  10   0   0   9   0   0  12   3   0   0   0   0     0    0    0   1.678     56  0.00
+   10   10     0   3   0   0   0   0   0   1   7   9   3   1   0   1   1   2   0   5   0  68     0    0    0   1.261     42  0.00
+   11   11     1   0   0   1   0   0   0   0   2  13  24   2   0   0   7  27   3  15   2   2     0    0    0   1.977     65  0.00
+   12   12     0   0   0   0   2   0   7  14  20   0  19   2   0   1   1   0  12   4  10   9     0    0    0   2.136     71  0.00
+   13   13     1   0   0   0   0   0  12  33   1   3   4   0   9   0  22  10   0   0   5   1     0    0    0   1.900     63  0.00
+   14   14     0  12   2   2   9   0   0   7   2   1  20   4   0   0   4  11   4   9  11   0     0    0    0   2.402     80  0.00
+   15   15     6   7   1   0  30  51   0   0   0   0   4   0   0   0   0   0   2   0   0   0     0    0    0   1.285     42  0.00
+   16   16     0  15   0   0   3   0   0   0  24   1  16   1   0   3  11   1  13  10   1   1     0    0    0   2.111     70  0.00
+   17   17     1   9   2   0   0   0   0   1  37   4   1  12   1   0   4   2   7  18   0   2     0    0    0   1.965     65  0.00
+   18   18     2  22  15   1  12   0   0   0   0   0   0   0   0   0   0   1  19  26   0   1     0    0    0   1.754     58  0.00
+   19   19     0   1   0   0  31   1  43   0   1   0   0   0   0   7   4   1   3   7   1   0     0    0    0   1.535     51  0.00
+   20   20     0   5   1   0   0   0   0   0   1   0   9   2   0   0   2   4  27  43   2   3     0    0    0   1.680     56  0.00
+   21   21     0   9   0   2   0   0   0   1   5   1  14   1   0   0   2   1   8  32   2  23     0    0    0   1.954     65  0.00
+   22   22     3  30  39   2   6   0   0   0   1   0   1   0   8   0   0   0   9   0   0   0     0    0    0   1.636     54  0.00
+   23   23     0   1   0   0   0   0   3   0   7  14   1   2   0   2  24  30   9   2   1   3     0    0    0   2.009     67  0.00
+   24   24     0  14   0   1   2   0   8   0   0   0   0   5   0  21  17   6   8   3  10   3     0    0    0   2.270     75  0.00
+   25   25    18   5  10   0   2   0   0   0   1   0   4   0   0   0   3   5  14  34   0   5     0    0    0   2.007     66  0.00
+   26   26     6   2   0   0  11   0   0  27  30   3   6   2   1   1   0   4   3   0   4   0     0    0    0   2.020     67  0.00
+   27   27     2   8   3   1   0   1   0   0   3   4  29   2   0   4   8  12   9  10   1   2     0    0    0   2.334     77  0.00
+   28   28     4   1   0   0   0   0   0   5   0   8   7   1   0   0   0   9   8   4  10  42     0    0    0   1.928     64  0.00
+   29   29     0  16   8   0  27   1  12   5   3   0   2   5   0   0   4   2  10   0   6   0     0    0    0   2.232     74  0.00
+   30   30     3   0   1   0   0   0   0   1   5  48   9  16   1   7   0   0   2   4   0   1     0    0    0   1.776     59  0.00
+   31   31     1   1  10   1   4   7   0   0   2   0   2   5  49   7   2   3   5   0   1   0     0    0    0   1.936     64  0.00
+   32   32     1   6   0   1   7   0   2   0  10   0  18   9   0   0  21   8   0  11   2   4     0    0    0   2.273     75  0.00
+   33   33    17   7  20   0   4   0   1   0  12   0   5  16   1   6   0   0   0   4   2   3     0    0    0   2.274     75  0.00
+   34   34     0   0   0   0   1   0   0  20  64   0  11   1   0   0   1   1   0   0   0   1     0    0    0   1.124     37  0.00
+   35   35     1   8   0   1   0   0   1   0   2   0   7   1   1   0   8  17  15   8  26   5     0    0    0   2.174     72  0.00
+   36   36     0  46   5   1   2   0   0   2   1   0   2   3   2   2   6  17   3   3   1   1     0    0    0   1.950     65  0.00
+   37   37     0   1   0   0   0   0   1   0   3  56   4   0   0   0   0   4   1  23   0   5     0    0    0   1.404     46  0.00
+   38   38     6   3   0   1   1   0   0   4   9   0   2   1  12   2  10   8   5  33   1   3     0    0    0   2.270     75  0.00
+   39   39     0   2   0   0   0   0   1   0   0   0   1   0   1   4   0   1   0   1  89   1     0    0    0   0.564     18  0.00
+   40   40     5   3   5   6   0   0   0   2   6   1   1   2   0   4  20  37   4   1   1   0     0    0    0   2.106     70  0.00
+   41   41     0   1   2   1   8   0   0   5   2  12   6   4   3   5   4  12   1  11  16   8     0    0    0   2.579     86  0.00
+   42   42     0   1   0   0   0   0   0   0   0   0   0   0   0   0  11  87   0   1   0   0     0    0    0   0.494     16  0.00
+   43   43     0   0   0   0   0   0   0   0   1   0   3   0   1   0   0   0   0   0  93   1     0    0    0   0.364     12  0.00
+   44   44     0   0   0   0   0   0   0   0   0   1   0   0   0   0  98   0   1   0   0   0     0    0    0   0.129      4  0.00
+   45   45     5   7   1   1   5   0  60   0   0   1   8   2   1   3   0   0   2   0   4   1     0    0    0   1.609     53  0.00
+   46   46    14   7   3   5   0   0   0   6   8   7   8   6   0   0  10  17   4   3   3   0     0    0    0   2.526     84  0.00
+   47   47     0   0   0   0   0   0   0   0   4   2   4   4   0   2   0   1   5   1  44  33     0    0    0   1.552     51  0.00
+   48   48    38   1  52   2   3   0   0   0   1   1   0   0   1   0   0   0   0   0   0   0     0    0    0   1.103     36  0.00
+   49   49     9  48  17   6   1   0   1   1   1   4   7   1   0   0   1   1   0   0   1   0     0    0    0   1.780     59  0.00
+   50   50     1   0   0   0   0   0   0   0  16  72   2   2   7   0   0   0   0   0   0   0     0    0    0   0.928     30  0.00
+   51   51     2   4   2   0  14   0  64   1   1   4   1   0   1   0   0   0   1   0   6   0     0    0    0   1.385     46  0.00
+   52   52     0   0   0   0   0   0   0   0   0   4   0   0   0   0   0   0   0  17   1  78     0    0    0   0.703     23  0.00
+   53   53     0   4   2   0   9   1   5   1   3   0   8   3   1  41  11   3   3   2   3   3     0    0    0   2.159     72  0.00
+   54   54     0   0   0   0   1   0   1   1   5   0  47  19   6   2   0   0   0   0  17   0     0    0    0   1.560     52  0.00
+   55   55     0   6   1   0   0   0   0   0   1   0   0   0   0   0  92   0   0   0   0   0     0    0    0   0.358     11  0.00
+   56   56    83   0  15   0   2   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0     0    0    0   0.564     18  0.00
+   57   57     8   6  12   0   1   0   1   2   1   6   5   3  10   4   9  27   2   6   0   0     0    0    0   2.370     79  0.00
+   58   58     3  88   2   1   0   0   0   0   0   0   0   2   0   0   4   0   0   0   0   0     0    0    0   0.581     19  0.00
+   59   59     0   3   1   1   0   0   0   8   4   1  12  11   0  10   6  13  18   4   2   7     0    0    0   2.417     80  0.00
+   60   60     5   1   0   1   0   0   0  10   5  17  10   1   0   5   2   3  13  12   3  11     0    0    0   2.456     81  0.00
+   61   61     4   5   6   0   0   0   1   6   2   8   3   1   0   1   4   7   3  39   3   5     0    0    0   2.246     74  0.00
+   62   62     0   2   0   0   1   0   1  18   2   3  12   5   0   2   1   3   0   9  16  27     0    0    0   2.150     71  0.00
+   63   63     1   0   0   0   0   0   0   9   4   1  52  11   0   1   0   1   0   1  11   6     0    0    0   1.671     55  0.00
+   64   64     0   0   0   0   1   0   0   5   0   0   2   2   0   0   0   3   0   1   6  78     0    0    0   0.950     31  0.00
+   65   65     0   0   0   0   2   0  97   0   0   0   1   0   0   0   0   0   0   0   0   0     0    0    0   0.173      5  0.00
+   66   66     5   1  92   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0     0    0    0   0.372     12  0.00
+   67   67     0   0   0   0   0   0   0   1   0   0   0   0   0   7   0   0   0   0  91   0     0    0    0   0.364     12  0.00
+   68   68     0   0   0   0   0   0   0   1  98   0   1   0   0   0   0   0   0   0   0   0     0    0    0   0.146      4  0.00
+   69   69     1   0   0   0   0   0   0   0   5   0  50   0   0   0   0   0   0   0  43   0     0    0    0   0.993     33  0.00
+   70   70     0  13   5   0  29   3  40   0   0   2   1   0   1   3   0   0   0   0   0   0     0    0    0   1.672     55  0.00
+   71   71    21   5  63   8   0   0   0   0   0   0   0   2   0   0   0   0   0   0   0   0     0    0    0   1.096     36  0.00
+   72   72     0   0   0   9   0   0   0   1   0   8   4   1   0   1   6  16   1   5   5  42     0    0    0   1.931     64  0.00
+   73   73     3   3   5   7   2   0   3  53   0   3   9   3   1   2   0   0   0   0   3   3     0    0    0   1.823     60  0.00
+   74   74     2   1   0   0   4   1  48   2   1   6   6   1   0   6   0   0   2  11   2   5     0    0    0   1.962     65  0.00
+   75   75     3   1   1   0   0   4   4   7   1   4   2   4   0   6  22  13   4  10   9   6     0    0    0   2.538     84  0.00
+   76   76     1   2   1   0   1   0   3   6   8   7   9   0   1   2  16  13  16  10   5   0     0    0    0   2.455     81  0.00
+   77   77     1   1   0   3   1   0   0   2   3  24   9   2   1   1   7  17  19   8   2   0     0    0    0   2.234     74  0.00
+   78   78     0   0   0   0   0   2   0   1   5   4   4   0   0   2  18  28   6   5  20   5     0    0    0   2.088     69  0.00
+   79   79     2   1   0   2   0   0   2   1  36   1  12   6   0   6   4  10   2  12   1   3     0    0    0   2.180     72  0.00
+   80   80     0   2   1   3  30   1  63   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.939     31  0.00
+   81   81     6   0  92   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.337     11  0.00
+   82   82    10   9   3   1   0   0   0   1  71   0   1   0   4   0   0   0   0   0   0   0     0    0    0   1.087     36  0.00
+   83   83     0   0   0   0   0   0   0   0  17   0   5  73   4   0   0   0   0   0   0   0     0    0    0   0.844     28  0.00
+   84   84     0   2   0   0   0   0   0   0   0   0   0   0   0   0   0   0  97   0   0   0     0    0    0   0.159      5  0.00
+   85   85     0   0   0   0   0   0   1  81   6   0   1   1   0   7   0   0   0   0   0   1     0    0    0   0.788     26  0.00
+   86   86     0   0   0   0   0   0   0   0   0  92   1   0   6   0   0   0   0   0   0   0     0    0    0   0.340     11  0.00
+   87   87     3  73   2   9   1   0   0   0   0   0   0   1   0   0   2   8   1   0   0   0     0    0    0   1.090     36  0.00
+   88   88     3   3   2   0   0   0   0   0  11  38   5   1   0   2   1   8  11   7   1   6     0    0    0   2.074     69  0.00
+   89   89     0   0   0   0   0   0   0   3   6   0  10   3   0  13   0   3   1  33  23   4     0    0    0   1.897     63  0.00
+   90   90     0   0   0   2   0   0   0   0   0   0   3  93   0   0   0   0   0   0   0   0     0    0    0   0.360     12  0.00
+   91   91    34   5  16   3   8   0   0   0   5   0   1  11  10   0   5   1   0   0   0   0     0    0    0   2.052     68  0.00
+   92   92     1   2   2   0   1   0   4  17  12   2   3   2   1   1   1   8   1  20  13   9     0    0    0   2.422     80  0.00
+   93   93     0   0   0   0   0   0   0   0   1   0   0   0   1   7   0   1   1   2   0  85     0    0    0   0.680     22  0.00
+   94   94     0   0   0   0  98   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.113      3  0.00
+   95   95     0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.032      1  0.00
+   96   96     0   5   0   1   0   1   1   0   2   0   1   0   0   1  57   6  19   6   1   0     0    0    0   1.481     49  0.00
+   97   97     2   7   0  87   0   0   0   0   2   0   0   1   0   0   0   0   0   0   0   0     0    0    0   0.532     17  0.00
+   98   98    52   8  32   1   0   0   0   0   3   0   0   0   3   0   0   0   0   0   0   0     0    0    0   1.188     39  0.00
+   99   99     2   5   2   0   8  72   5   0   1   0   1   1   0   1   0   0   1   0   0   0     0    0    0   1.189     39  0.00
+  100  100     0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0  27  58   0  10     0    0    0   1.115     37  0.00
+  101  101     0   1   0   0   1   4   8   0   0   0   5   1   0  11   3   2  39  20   5   1     0    0    0   1.936     64  0.00
+  102  102     0   0   0   0   0   0   0  11   0   0   1   0   0   4  12  26   4   3  34   3     0    0    0   1.791     59  0.00
+  103  103    20   1   2   0   0   0   0   0   7   1  43  12  14   0   0   0   0   0   0   0     0    0    0   1.607     53  0.00
+  104  104     4   2   0   0   0   0   2   2  17   5   8  20   3   4  15   6   4   5   2   0     0    0    0   2.431     81  0.00
+  105  105    28   4  20   1   0   0   1   4   7   0  14  17   2   1   0   0   1   0   1   0     0    0    0   2.028     67  0.00
+  106  106    25   1  73   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.662     22  0.00
+  107  107    85   3   5   0   1   0   0   0   5   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.624     20  0.00
+  108  108     1   1   0  94   0   0   0   0   1   0   0   1   1   0   0   0   2   0   0   0     0    0    0   0.366     12  0.00
+  109  109    13  57  10   9   1   0   0   0   3   0   0   7   0   0   0   0   0   0   0   0     0    0    0   1.368     45  0.00
+  110  110     2   0   0   0   0   0   0   1   3   1   3  69   9   0   0   0   0   0  12   0     0    0    0   1.145     38  0.00
+  111  111     1   0   0   1   0   0   0   1   2   4   3   3   0   0  22  22  11  11  17   3     0    0    0   2.088     69  0.00
+  112  112     8  49   4   0   3   0   0   1   0   1   1   2  12   0   0   0   1  15   1   1     0    0    0   1.736     57  0.00
+  113  113    27   3   3  10   4   0   2   1   2   0   2   3   0   0   8   8   3  17   5   1     0    0    0   2.329     77  0.00
+  114  114     0   0   0   0   0   0   0   0   1   0   2   0   0   1   0   0   2  89   1   3     0    0    0   0.553     18  0.00
+  115  115     5   1   0  11   0   0   1  11   3   0   2   2   1   0  19  26   2   2   7   5     0    0    0   2.283     76  0.00
+  116  116     0   1   0   0   0   0   0  55   3   1   8   1   1   0   2   6   0   6   9   5     0    0    0   1.672     55  0.00
+  117  117     5   1   1   0   0   0   0   0   1   1   9   1   0   0  44  15  10  10   1   2     0    0    0   1.822     60  0.00
+  118  118    21   6   9   0   2   0   0   0   2   2   2   3   3   0   8   7   4  22   6   2     0    0    0   2.374     79  0.00
+  119  119     2   1   1   1   0   0   0   1   1   1   0   0   0   0   1  82   6   1   1   1     0    0    0   0.917     30  0.00
+  120  120     1   0   0   0   1   0   0   0   0   0   2   0  94   0   0   0   0   0   0   0     0    0    0   0.365     12  0.00
+  121  121    10   2   0   2   2   0   5   2  23   3   4   2   1  12   0   0   4   8   0  20     0    0    0   2.312     77  0.00
+  122  122     2   3   1   1   0   0   1   0   0   4   1   0   0   6  17   9  47   6   0   2     0    0    0   1.797     60  0.00
+  123  123     0   0   0   0   1   0  98   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.105      3  0.00
+  124  124     0   0   1   0   5  92   2   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.404     13  0.00
+  125  125     0   0   0   0   0   0   0   2   2  94   2   0   0   0   0   1   0   0   0   0     0    0    0   0.333     11  0.00
+  126  126     2   4   0   0   3   0   0   1  11   1  16   5   1   1   3   1   6  16   8  20     0    0    0   2.391     79  0.00
+  127  127     3   3   3   3   0   0   1   4   3   4   4   6   0   1  12  13   2  24   4  11     0    0    0   2.471     82  0.00
+  128  128     2   4   1   2   1   0   0  25   2   2   6   7   0   0  10   5   6  18   2   7     0    0    0   2.354     78  0.00
+  129  129     1   0   0   0   1   0   0  10   3   1  18  12   0   0   4   2   5  29   1  12     0    0    0   2.093     69  0.00
+  130  130     5   0   0   0   0   0   1   8  10   7   8  10   1   0   4  13   9  18   1   4     0    0    0   2.479     82  0.00
+  131  131     2   3   0   0   0   0   6   3   3   6   4  15   3   4  12   5   9  18   0   7     0    0    0   2.536     84  0.00
+  132  132     6   7   2  14   1   0  27  15   4   0   2   7   1   2   4   2   4   2   2   1     0    0    0   2.404     80  0.00
+  133  133    13   8  11   5   5   0   3  11   3   2   3   7   5   3   1   2  12   3   1   1     0    0    0   2.692     89  0.00
+  134  134    12  11   5   3  27   5  23   1   1   0   2   1   1   1   2   3   0   1   0   0     0    0    0   2.166     72  0.00
+  135  135     1   0   1   2   1   0   4  19   7   1   7  12   1   1   5   7   4  23   3   3     0    0    0   2.391     79  0.00
+  136  136     3   2   3   0   1   0  24   4   0   1   2   2   3   6   2   3   1  10   5  27     0    0    0   2.285     76  0.00
+  137  137     8   1   5   1   3   0   4  50   2   1   2  15   1   1   1   1   0   4   1   1     0    0    0   1.866     62  0.00
+  138  138     6   1   1   2   1   0   1   6   4   8   6   5   2   7   6   3   1   5  23  15     0    0    0   2.532     84  0.00
+  139  139    14  17  35   3  19   0   4   0   1   0   1   1   0   0   1   1   1   0   0   0     0    0    0   1.866     62  0.00
+  140  140    11   3   3   2   0   0   0   0   1   0   5  14   0   1  15  23  13   7   1   1     0    0    0   2.249     75  0.00
+  141  141    63  13  14   1   0   0   0   0   0   0   2   2   2   0   0   0   1   1   0   0     0    0    0   1.303     43  0.00
+  142  142     2   1   2   1   1   0   0   2   5   0   8  35   2   2   4   6   4  11   3   9     0    0    0   2.300     76  0.00
+  143  143     9  37   7   6   4   1   0   1   0   8   2   6   7   0   0   1   1   2   7   1     0    0    0   2.255     75  0.00
+  144  144    26  15  14   9   1   0   0   0   4   0   1   3   2   1   2   9   2   8   2   1     0    0    0   2.272     75  0.00
+  145  145     1   1   1   0   2   0   1   3  10   0  30   3   1   1   4   9   1   8   5  17     0    0    0   2.259     75  0.00
+  146  146     8   0   1   3   1   0   1   0   3   1   2  15   2   3   2   3   2  49   0   3     0    0    0   1.896     63  0.00
+  147  147     7   0   4   3   0   0   8   0   1   0   6   8   0   8   3   6   6  17   4  18     0    0    0   2.473     82  0.00
+  148  148    15   7  14   2   1   0   0   1   4   4   4   5   1   4   4   2   3  15   8   5     0    0    0   2.608     87  0.00
+  149  149     1  26   0   9   1   5   3   0   4   1   6   6   7   3   2  11   2   5   2   5     0    0    0   2.539     84  0.00
+  150  150     6   1   1   0   0   0   0   3  20  15  12   6   8   3   1   5   2   9   2   7     0    0    0   2.439     81  0.00
+  151  151     1   3   0   1   1   0   9   4   4   1   5  10   3   3   0   1   7  17   5  24     0    0    0   2.415     80  0.00
+  152  152     2   1   5   0  17   7  58   0   1   0   2   2   1   2   0   1   0   0   0   0     0    0    0   1.494     49  0.00
+  153  153    13   6  19   1   1   0   0   0   5   1   4  33   5   1   1   4   0   1   3   1     0    0    0   2.149     71  0.00
+  154  154    32  22  19   4   1   1   1   0   1   0   3   3   1   2   3   2   1   4   1   0     0    0    0   2.046     68  0.00
+  155  155     0   0   0   0   0   0   1   0   0   0   2   4   0   1  83   2   2   3   0   0     0    0    0   0.822     27  0.00
+  156  156     5   3   4   0   0   1   0   2   3   0   6  24   0   4   3   9   8  16   5   7     0    0    0   2.432     81  0.00
+  157  157     2  34   4   5  53   0   1   0   1   0   1   0   0   0   0   0   0   0   0   0     0    0    0   1.207     40  0.00
+  158  158     5   6   2   1   0   0   5   0   7   0   9  10   4   1   9  17   7  12   2   1     0    0    0   2.553     85  0.00
+  159  159    27  44  23   2   1   0   1   0   0   0   0   0   0   0   0   1   0   0   0   0     0    0    0   1.353     45  0.00
+  160  160     3   1   1   1   1   0   3   0   2   0   7  16   3   8   7  14  13  16   4   1     0    0    0   2.450     81  0.00
+  161  161     2   1   0   1   1   0   0   1   0   6   4   1   0  10   6  15   5   1  31  16     0    0    0   2.157     71  0.00
+  162  162    10  19   9   3   4   1   0   2  11   1   7   8   1   0   5   8   3   1   6   1     0    0    0   2.589     86  0.00
+  163  163     1   2   2   0   3   0   3  19   4   1   6   8   0   0  13  11  10   5   4   6     0    0    0   2.516     83  0.00
+  164  164     3   4   2   1   1   0   4   6   4   1  12  18   2   1   9   3   5   9   6  11     0    0    0   2.614     87  0.00
+  165  165     0   1   0   2   0   0   0  19   1   4  16   1   1   4   4  14  13   5  10   5     0    0    0   2.339     78  0.00
+  166  166     0   1   1   0   0   0   1   1   9   4   2   2   0   2   1   7  15  43   4   7     0    0    0   2.000     66  0.00
+  167  167     7   0   5   1   1   0   1   2   3   5  18  25   1   1   3  10   4  10   2   3     0    0    0   2.380     79  0.00
+  168  168     1   3   0   2   0   0   0   2   0   0   0   0   0   6  74   3   8   0   0   0     0    0    0   1.114     37  0.00
+  169  169     2   5   4   2   1   0   1   0   0   2   5  26   0   6   4   5   5  27   1   4     0    0    0   2.267     75  0.00
+  170  170    56  15  27   1   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0     0    0    0   1.078     35  0.00
+  171  171     2   8   2   4   2   7   6   0   0   0   5  17   0   2  30   8   3   1   1   0     0    0    0   2.279     76  0.00
+  172  172     0   3   0   1   0   0   0   0   0   0   0   0   0  42   0   1  53   0   0   0     0    0    0   0.918     30  0.00
+  173  173     0  15   6   1  55   1  22   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.274     42  0.00
+  174  174     0   1   0   0   0   3   1   0   0   0   1   0   0  46   0   1  42   0   5   0     0    0    0   1.196     39  0.00
+  175  175     1   1   0   0  54   3  36   0   0   0   0   0   4   0   0   0   0   0   0   0     0    0    0   1.084     36  0.00
+  176  176     2  13   5   4   0   0   0   0   1   5   2  53   0   5   3   3   1   1   1   0     0    0    0   1.768     59  0.00
+  177  177     2   0   0   0   0   0   0  13  19   0  23  14   0   0   2   4   3   3   6  10     0    0    0   2.158     72  0.00
+  178  178     0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+  179  179     0   0   0   0   0   0   2   1   2  88   2   1   0   0   0   2   0   0   1   0     0    0    0   0.641     21  0.00
+  180  180     1   0   0   1   0   0   0   2   6   0   1   0   0   1   0   1   0  17   2  69     0    0    0   1.121     37  0.00
+  181  181     5   1   0   4  14   0   5   1   0   0   1   0   0  48   4   1   9   5   1   0     0    0    0   1.878     62  0.00
+  182  182     0   0   0   1   0   0   0  76   0   0   3   1   1   0   0   3   2   3   2   8     0    0    0   1.065     35  0.00
+  183  183    66   4   7   0   0   0   1   1   5   0   0  13   2   0   0   1   0   0   0   0     0    0    0   1.263     42  0.00
+  184  184     0   1   0   0   0   0   0   0   0  97   1   0   0   0   1   0   0   0   0   0     0    0    0   0.170      5  0.00
+  185  185     1   1   0   0   4   0   4   2   8   4  17   2   2   1   1  10   1  27   2  14     0    0    0   2.276     75  0.00
+  186  186     0   1   0   0   0   0  10   1   5   1  31  12   1   8   1   1   2   7   3  15     0    0    0   2.161     72  0.00
+  187  187     2   1   1   0   1   0   0  11  14  44   6   9   1   1   0   4   0   0   3   1     0    0    0   1.915     63  0.00
+  188  188     2   6   6   1   0   0   1   8  11   1   6  14   0   3   7  10   5   8   3   8     0    0    0   2.639     88  0.00
+  189  189     0   5   0   0   0   0   0  29   6  20  21   3   1   3   0   0   1   2   2   7     0    0    0   2.036     67  0.00
+  190  190    12  33  11  10  27   0   0   0   1   1   2   1   0   0   0   1   0   0   0   0     0    0    0   1.758     58  0.00
+  191  191     6  68  18   1   2   0   1   0   0   0   0   2   0   0   1   0   0   0   0   0     0    0    0   1.084     36  0.00
+  192  192     0   0   1   0   2   0   0   3  11   0   8   6   0   3   5  12   7   6  13  21     0    0    0   2.355     78  0.00
+  193  193     2  19   4   5  64   0   2   0   0   0   0   0   0   0   0   0   0   2   0   0     0    0    0   1.210     40  0.00
+  194  194    19  39  26   3   0   0   1   0   0   0   0   0   0   1  10   0   0   0   0   0     0    0    0   1.567     52  0.00
+  195  195     1   4   2   0   7   1   3   8   7   0   6   1   0   2  30   9   6   8   2   4     0    0    0   2.424     80  0.00
+  196  196     1   5   1   3   0   0   4   0   7   0   2   3   0   1  18  20  16  10   3   5     0    0    0   2.351     78  0.00
+  197  197    72   6   9   4   2   0   0   0   2   0   0   1   0   0   1   0   0   0   0   0     0    0    0   1.109     37  0.00
+  198  198     0   1   2   0   0   0   1   0   1   0   1   1   1  12  33  23   6   5  12   2     0    0    0   1.968     65  0.00
+  199  199     0   1   0   0   2   0   0   1   7   0   5   6   1   8   3  30  12  16   3   6     0    0    0   2.223     74  0.00
+  200  200     2   5   2   0   4   3   5   0   4   0  19  13   8   2   5   7  11   5   2   3     0    0    0   2.609     87  0.00
+  201  201     2   1   1   2   0   0   3  12  10   2   7   1   1   4   4  11  19   4  13   2     0    0    0   2.531     84  0.00
+  202  202     3   3   0   1   0   0   1   2  13   3  16   6   6   1   2   6  10  17   7   2     0    0    0   2.492     83  0.00
+  203  203     4  18   3   1   4   1   8   2   7   0   6   7   3   1   3   6  19   4   2   1     0    0    0   2.548     85  0.00
+  204  204     0   3   5   2  11   0   1   5   3  13  21   7   1   1   7   2   1   2  11   3     0    0    0   2.529     84  0.00
+  205  205     3   1   0   1   0   0   1  22   3  41   6   2   0   3   4   2   2   5   1   2     0    0    0   1.971     65  0.00
+  206  206     0   1   0   0   0   0   0   6   1   3   6   1   2   5  13   4  12  17   7  24     0    0    0   2.273     75  0.00
+  207  207     1   1   0   1   1   0   5   1  22   2  13   3   1  17   3   5   3   6   4  10     0    0    0   2.436     81  0.00
+  208  208     2   0   0   0   0   0   0  74   4   2   5   3   4   0   2   2   0   1   1   0     0    0    0   1.135     37  0.00
+  209  209     0   0   0   0   0   0   0   0   3  91   2   0   0   0   4   0   0   0   0   0     0    0    0   0.432     14  0.00
+  210  210    19   5  55   9   0   0   0   0   2   1   0   8   0   0   0   0   0   0   0   0     0    0    0   1.378     45  0.00
+  211  211    49  10  23   1   1   0   0   0   1   0   4   8   4   0   0   0   0   0   0   0     0    0    0   1.489     49  0.00
+  212  212    84   1  11   0   0   0   0   0   1   0   1   2   0   0   0   0   0   0   0   0     0    0    0   0.621     20  0.00
+  213  213     1   0   0   0   0   0   0   0   0   0   0   0   0  97   0   0   1   0   0   0     0    0    0   0.162      5  0.00
+  214  214     0   0   0   0   0   0   0   0   0   0   2   0  94   0   0   0   0   0   0   3     0    0    0   0.278      9  0.00
+  215  215     0   5   0   0   0   0   0   0   0   0  85   0   1   0   3   0   0   2   1   0     0    0    0   0.744     24  0.00
+  216  216     0   1   0   0   0   0   2   0  77   0   2   1   0   1   0   0   0   0   6   8     0    0    0   0.950     31  0.00
+  217  217     0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.022      0  0.00
+  218  218    41   0  26   0   0   0   0   7  14   0   4   2   4   0   0   0   0   0   0   0     0    0    0   1.581     52  0.00
+  219  219     2   0   0   0   0   0   0  91   1   0   2   0   0   0   0   0   2   0   0   1     0    0    0   0.490     16  0.00
+  220  220     0   0   0   0   0   0   0   0   0   0   1   1   0   0  93   1   3   0   0   0     0    0    0   0.386     12  0.00
+  221  221     0   0   0   0   0   0   0   0   4   0  22  73   0   0   0   0   0   0   0   0     0    0    0   0.755     25  0.00
+  222  222     0   0   0   0   0   0   0  95   3   0   0   0   1   0   0   0   0   0   0   0     0    0    0   0.285      9  0.00
+  223  223    16   2   2   2   0   0   0   0   5   0   2  56  16   0   0   0   0   0   0   0     0    0    0   1.364     45  0.00
+  224  224     3  10   6   0  65   0  16   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.136     37  0.00
+  225  225    12   1  56   1   0   0   0   0   3   0   1   0  26   0   0   0   0   0   0   0     0    0    0   1.205     40  0.00
+  226  226    29  18   4   1   0   0   0   5  31   0   2   6   3   0   0   0   0   0   0   0     0    0    0   1.740     58  0.00
+  227  227     8  25  47   2   0   0   0   0   7   0   4   4   2   0   0   0   0   0   0   0     0    0    0   1.554     51  0.00
+  228  228     0   0   2   0   0   0   2   1   1   0  12   2   0   2   1   1   0   8   1  67     0    0    0   1.284     42  0.00
+  229  229     6   3   7   7   1   0   6   1  24   0   7  26   1   1   7   0   1   0   2   0     0    0    0   2.175     72  0.00
+  230  230    14  27   9  10   0   0   0   3   7   0   0   4  23   0   0   0   0   0   0   0     0    0    0   1.937     64  0.00
+  231  231     3  40  13  10   3   4   1   0   5   0  10   1   2   0   2   0   1   4   0   0     0    0    0   2.044     68  0.00
+  232  232    11  11  19   5   0   0   2   3   5   0   1   2   2   1   3   2   7   6  10   9     0    0    0   2.570     85  0.00
+  233  233    10  31   9  26   0   0   0   2   1   0   1   0   2   1   4   1   5   2   2   0     0    0    0   2.061     68  0.00
+  234  234     2  49  16  19   0   0   0   0   0   0   1   1   3   0   1   0   4   0   2   0     0    0    0   1.621     54  0.00
+  235  235     2   3   0   0   0   0   1   0   1   0   7   1   0   5   3   5  14  36   1  19     0    0    0   2.015     67  0.00
+  236  236     2   1   0  10   0   0   1   2   4   0   7   5   0   5  26  11  18   4   1   1     0    0    0   2.314     77  0.00
+  237  237     5  13  16  11   0   0   1   4  14   0   1   1   1   1   8   7   3   5   6   2     0    0    0   2.520     84  0.00
+  238  238     0   5   1   0   0   0   0  10   2   0   1   2   0   1  20  28   5  21   1   1     0    0    0   2.044     68  0.00
+  239  239     2   5   3   0   0   0   8   6  11   3   3   8   4   7   2   1   2   9   6  16     0    0    0   2.670     89  0.00
+  240  240     4   1   2   1   1   0   0   1   4  13   1   1   0   6   0   2   1  52   1   8     0    0    0   1.790     59  0.00
+  241  241     0   0   0   0   0   0   2  31   1   2   9   3   6   2   2  14   3   7  11   6     0    0    0   2.215     73  0.00
+  242  242    24   4   8   1   3   0   1   0   3   2   9  15   1   0   2  10   1   8   2   5     0    0    0   2.437     81  0.00
+  243  243    58  10  18   0   6   0   1   0   1   2   0   1   1   0   0   0   0   0   0   0     0    0    0   1.402     46  0.00
+  244  244     0   0   0   0   0   0   0   1   0   0   3   0   0   0   0   0   1   3   9  82     0    0    0   0.742     24  0.00
+  245  245    40   6  46   3   1   0   1   0   2   1   0   0   0   0   0   0   0   0   0   0     0    0    0   1.228     40  0.00
+  246  246     3   9   0   0  35   0  21   0   7   6   3   1   0   0   1   7   4   1   0   0     0    0    0   2.036     67  0.00
+  247  247     0   0   0   0   2   0   0  26   5   0   3   1   0   4   5  14  22   4   9   4     0    0    0   2.161     72  0.00
+  248  248    15  10  10   1  10   0   3   0   7   0   1  27   6   8   0   0   0   0   0   0     0    0    0   2.155     71  0.00
+  249  249    62  21  10   2   0   0   1   0   4   0   0   1   0   0   0   0   0   0   0   0     0    0    0   1.155     38  0.00
+  250  250     5   8   0   0   1   0   3   0   2   0   8   9   5   1  11  30   9   6   0   1     0    0    0   2.300     76  0.00
+  251  251     2   7   1  12   1   0   0   1   5   1   6  10   5  10   6   6   5  13   4   6     0    0    0   2.671     89  0.00
+  252  252     9  49  12  26   1   0   0   0   0   0   0   0   0   0   0   1   2   0   0   0     0    0    0   1.352     45  0.00
+  253  253     0   0   0   0   0   0   0   0   0   0   0   0   2   0  94   0   1   0   2   0     0    0    0   0.313     10  0.00
+  254  254     1  10   0   3   0   0   0   0  12   1  18  13   0   1   6  12   4   4   7   6     0    0    0   2.417     80  0.00
+  255  255     0   0   0   4   5   0   7   1   3   0   3   0   1   4   4   0  59   3   3   4     0    0    0   1.682     56  0.00
+  256  256     0   0   0   0   0   0   0   0   0   0   0   0   0   0  94   5   0   0   0   0     0    0    0   0.260      8  0.00
+  257  257     7   1   2  12   1   1   0   4   4  30  10   0   7   4   0   1   1   0  13   1     0    0    0   2.288     76  0.00
+  258  258     0   6   0   2   4   1  12  34   8   0   5   0   1   6   1   2   5   0  13   0     0    0    0   2.151     71  0.00
+  259  259     5  19   1  65   0   0   0   1   5   0   3   0   1   0   0   0   0   0   0   0     0    0    0   1.139     38  0.00
+  260  260    77   1  17   0   3   1   0   0   0   0   0   0   1   0   0   0   0   0   0   0     0    0    0   0.747     24  0.00
+  261  261     0   0   0   0   0   0   0   1   1   1   1   3   1   0   2   0  82   6   0   1     0    0    0   0.866     28  0.00
+  262  262     4   1   0   1   0   0   0   0   1   0   8  79   0   0   0   0   0   2   2   2     0    0    0   0.957     31  0.00
+  263  263     1  11   3   2   3   0   1   0   6   5   3   0   0   0   1   7   2  45   1   6     0    0    0   2.053     68  0.00
+  264  264     1   1   0   5   0   0   0   2  12   0   3   1   1   0   0   0   4  38   0  29     0    0    0   1.744     58  0.00
+  265  265     0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0  95   3   0   1     0    0    0   0.259      8  0.00
+  266  266     0   9   2   0   8   0  80   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.735     24  0.00
+  267  267    13   2  19   0   0   0   1   0   2   0   4   3   0   4  12  10  15  13   0   1     0    0    0   2.313     77  0.00
+  268  268     1   8   0   0  86   1   2   0   0   0   0   0   0   0   0   0   1   0   0   0     0    0    0   0.599     19  0.00
+  269  269    16  11  36   1   0   0   0   0   5   0   8   0  23   0   0   0   0   0   0   0     0    0    0   1.663     55  0.00
+  270  270     0   7   0   0   2   0  56   0   0   0   0   1   1  33   0   0   0   0   0   0     0    0    0   1.096     36  0.00
+  271  271     3  10   0   6   0   0   2   0   0   0   1   5   0   4  11   8  19  11   1  17     0    0    0   2.326     77  0.00
+  272  272    17   1   1   1   0   0   0   1  70   0   1   2   6   0   0   0   0   0   0   0     0    0    0   1.030     34  0.00
+  273  273    30  30  22   2   1   0   0   0  14   0   0   1   0   0   0   0   0   0   0   0     0    0    0   1.496     49  0.00
+  274  274     9  56  13   1   0   0   1   0  13   0   0   1   0   0   1   0   4   0   0   0     0    0    0   1.435     47  0.00
+  275  275     0   0   0   0   0   0   0   0   0   1   0   0   0   2   1   1  10  79   1   5     0    0    0   0.848     28  0.00
+  276  276     0   3   1   0   1   2  15  33  22   0   1   1   0   3   1   0   1  14   1   1     0    0    0   1.870     62  0.00
+  277  277    20   0   8   1   2   0   0   2  37   0   1   2   4   2   1   7   0   1  12   0     0    0    0   1.945     64  0.00
+  278  278     0   4   0   2   0   0   5   0   1   0   3   1   0  13   1  29  17  10  15   0     0    0    0   2.018     67  0.00
+  279  279     0   1   2   0  34   0  22   0  16   0   1   6   3   3   2   1   3   0   6   0     0    0    0   1.917     63  0.00
+  280  280     5  38  45   1   2   0   0   4   1   0   0   4   0   0   0   1   0   0   0   1     0    0    0   1.352     45  0.00
+  281  281     3  31   6  22   0   0  19   0   0   0   1   0   6   0   1   5   0   3   0   3     0    0    0   1.882     62  0.00
+  282  282     0   0   0   0   0   0   0  72   9   0   1   5   0   0   0   3   7   1   1   1     0    0    0   1.081     36  0.00
+  283  283     0   0   1   1   0   0   0   0   0   2   0   0   0   0  13   0   1   7   1  75     0    0    0   0.910     30  0.00
+  284  284     1   0   0   0   0   0   0   2   3   0  36  43   0   4   1   5   0   4   2   0     0    0    0   1.460     48  0.00
+  285  285     2   0   0   0   0   0   0   6   6   0  42   3   1   0   6   0   0  27   3   6     0    0    0   1.690     56  0.00
+  286  286    45  30  12   0   0   0   0   1  10   0   0   1   0   0   0   0   1   0   0   0     0    0    0   1.337     44  0.00
+  287  287     0   0   0   0   0   0   0   0   1   5   5   0   0   0   9   0  48  33   0   0     0    0    0   1.277     42  0.00
+  288  288     0   0   0   0   0   0   0   0   0   8   2   6   0   0   0  13   0  23   2  47     0    0    0   1.458     48  0.00
+  289  289     0   0   0   0   0   0   0   2   5   9   2   0   0   0  14   4  55   9   0   0     0    0    0   1.456     48  0.00
+  290  290     2   0   0   0   8  62   6   0   0   0  13   0   8   0   0   0   0   2   0   0     0    0    0   1.265     42  0.00
+  291  291     2  12   0   0   0   0   0   0   0   0   0   0   0   0   0  78   0   8   0   0     0    0    0   0.729     24  0.00
+  292  292     0   0   0   0   0   0   0   0   0   8   0   0   0   0   2   0  12  70   0   8     0    0    0   0.986     32  0.00
+  293  293    22  75   0   0   2   0   0   0   0   0   0   0   0   0   2   0   0   0   0   0     0    0    0   0.704     23  0.00
+  294  294     0   0   0   0   0   0   0  12  10   2  67   8   0   0   0   0   0   0   0   2     0    0    0   1.104     36  0.00
+  295  295     0   0   0   0   0   0   2   0   0   0   0   0   2  45  24  14   0   2  10   0     0    0    0   1.469     49  0.00
+  296  296     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100   0   0     0    0    0   0.000      0  0.00
+  297  297     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   3   0  97     0    0    0   0.130      4  0.00
+//

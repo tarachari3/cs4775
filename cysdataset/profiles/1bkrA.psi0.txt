@@ -1,0 +1,326 @@
+ID Pseudo hssp file.
+SEQ 
+SEQ gi|4507195|ref|NP_003119.1| spectrin, beta, non-erythrocytic 1; ...   221  2e-57
+SEQ gi|2493435|sp|Q62261|SPCO_MOUSE SPECTRIN BETA CHAIN, BRAIN (SPEC...   221  2e-57
+SEQ gi|448251|prf||1916380A beta spectrin (beta fodrin) [Mus musculus]    221  2e-57
+SEQ gi|7106421|ref|NP_033286.1| beta-spectrin 2, non-erythrocytic; b...   221  2e-57
+SEQ gi|2914153|pdb|1AA2|    Calponin Homology (Ch) Domain From Human...   207  3e-53
+SEQ gi|3660036|pdb|1BKR|A Chain A, Calponin Homology (Ch) Domain Fro...   207  4e-53
+SEQ gi|9507135|ref|NP_062040.1| beta-spectrin 3 [Rattus norvegicus] ...   201  2e-51
+SEQ gi|3550975|dbj|BAA32699.1| (AB008551) beta-spectrin III [Rattus ...   201  2e-51
+SEQ gi|5902122|ref|NP_008877.1| spectrin, beta, non-erythrocytic 2 [...   201  2e-51
+SEQ gi|11066461|gb|AAG28596.1|AF225960_1 (AF225960) spectrin-like pr...   201  2e-51
+SEQ gi|13435161|ref|NP_079489.1| spectrin beta 4; KIAA1642 protein [...   186  9e-47
+SEQ gi|11602887|gb|AAF93171.1| (AY004226) betaIV spectrin isoform si...   186  9e-47
+SEQ gi|11992162|gb|AAG42473.1|AF311855_1 (AF311855) spectrin beta IV...   186  9e-47
+SEQ gi|11602890|gb|AAF93173.1| (AY004227) betaIV spectrin isoform si...   185  2e-46
+SEQ gi|7505762|pir||T29140 hypothetical protein K11C4.3 - Caenorhabd...   180  4e-45
+SEQ gi|5734146|gb|AAD49858.1|AF166169_1 (AF166169) beta-G spectrin [...   180  4e-45
+SEQ gi|5734148|gb|AAD49859.1|AF166170_1 (AF166170) beta-G spectrin [...   180  4e-45
+SEQ gi|9944861|gb|AAG03012.1|AF262336_1 (AF262336) beta-spectrin [Da...   179  6e-45
+SEQ gi|134798|sp|P11277|SPCB_HUMAN SPECTRIN BETA CHAIN, ERYTHROCYTE ...   178  2e-44
+SEQ gi|4507193|ref|NP_000338.1| spectrin, beta, erythrocytic (includ...   178  2e-44
+SEQ gi|338441|gb|AAA60579.1| (J05500) beta-spectrin [Homo sapiens]        178  2e-44
+SEQ gi|13650456|ref|XP_007365.3| spectrin, beta, erythrocytic (inclu...   178  2e-44
+SEQ gi|423777|pir||A46147 spectrin beta chain - fruit fly (Drosophil...   178  2e-44
+SEQ gi|226515|prf||1516310A beta spectrin [Drosophila melanogaster]       178  2e-44
+SEQ gi|14286182|sp|Q00963|SPCB_DROME SPECTRIN BETA CHAIN >gi|7293373...   178  2e-44
+SEQ gi|13638882|ref|XP_006487.3| spectrin, beta, non-erythrocytic 2 ...   177  3e-44
+SEQ gi|7363453|ref|NP_038703.1| beta-spectrin 1 [Mus sp.] >gi|250624...   176  6e-44
+SEQ gi|11359811|pir||T42993 probable spectrin beta chain - Caenorhab...   148  2e-35
+SEQ gi|7506776|pir||T23630 hypothetical protein R31.1 - Caenorhabdit...   148  2e-35
+SEQ gi|7508957|pir||T26149 hypothetical protein W04D2.1b - Caenorhab...   137  4e-32
+SEQ gi|13928936|ref|NP_113863.1| alpha actinin 4 [Rattus norvegicus]...   133  7e-31
+SEQ gi|13123941|sp|Q9QXQ0|AAC4_RAT ALPHA-ACTININ 4 (NON-MUSCLE ALPHA...   133  7e-31
+SEQ gi|2493432|sp|Q90734|AAC4_CHICK ALPHA-ACTININ 4 (NON-MUSCLE ALPH...   133  8e-31
+SEQ gi|2804273|dbj|BAA24447.1| (D89980) alpha actinin 4 [Homo sapiens]    133  8e-31
+SEQ gi|3157976|gb|AAC17470.1| (U48734) alpha actinin [Homo sapiens]       133  8e-31
+SEQ gi|11230802|ref|NP_068695.1| alpha actinin 4 [Mus musculus] >gi|...   133  8e-31
+SEQ gi|11425579|ref|XP_009148.1| actinin, alpha 4 [Homo sapiens] >gi...   133  8e-31
+SEQ gi|7706190|ref|NP_057726.1| beta V spectrin [Homo sapiens] >gi|7...   133  1e-30
+SEQ gi|477205|pir||A48403 alpha-actinin - Caenorhabditis elegans (fr...   131  2e-30
+SEQ gi|7508956|pir||T26147 hypothetical protein W04D2.1a - Caenorhab...   131  2e-30
+SEQ gi|7655|emb|CAA37939.1| (X53992) betaH spectrin [Drosophila mela...   129  1e-29
+SEQ gi|103502|pir||A37792 spectrin beta-H chain - fruit fly (Drosoph...   129  1e-29
+SEQ gi|7292359|gb|AAF47766.1| (AE003477) kst gene product [Drosophil...   129  1e-29
+SEQ gi|112959|sp|P12814|AAC1_HUMAN ALPHA-ACTININ 1 (ALPHA-ACTININ CY...   126  9e-29
+SEQ gi|63389|emb|CAA32079.1| (X13875) fibroblast alpha actinin [Gall...   126  9e-29
+SEQ gi|4501891|ref|NP_001093.1| actinin, alpha 1 [Homo sapiens] >gi|...   126  9e-29
+SEQ gi|539494|pir||A42162 alpha-actinin 1 - chicken >gi|211083|gb|AA...   126  9e-29
+SEQ gi|555419|gb|AAA48566.1| (J02666) alpha-actinin [Gallus gallus]       126  9e-29
+SEQ gi|13124665|sp|P05094|AAC1_CHICK ALPHA-ACTININ 1 (ALPHA-ACTININ ...   126  9e-29
+SEQ gi|13591902|ref|NP_112267.1| non-muscle alpha-actinin 1 [Rattus ...   126  1e-28
+SEQ gi|109157|pir||S17548 alpha-actinin - rabbit (fragment) >gi|3122...   125  2e-28
+SEQ gi|4557241|ref|NP_001095.1| skeletal muscle specific actinin, al...   125  2e-28
+SEQ gi|7304855|ref|NP_038484.1| actinin alpha 3 [Mus musculus] >gi|1...   125  2e-28
+SEQ gi|112957|sp|P05095|AACT_DICDI ALPHA-ACTININ, NON-MUSCULAR (F-AC...   123  5e-28
+SEQ gi|929034|emb|CAA27855.1| (X04324) alpha-actinin fragment (414aa...   123  5e-28
+SEQ gi|8186|emb|CAA36042.1| (X51753) alpha actinin (AA 1-895) [Droso...   123  6e-28
+SEQ gi|1070611|pir||FAFFAA alpha-actinin - fruit fly (Drosophila mel...   123  6e-28
+SEQ gi|7441363|pir||T13414 probable alpha-actinin isoform 2 - fruit ...   123  6e-28
+SEQ gi|13124689|sp|P18091|AACT_DROME ALPHA-ACTININ, SARCOMERIC (F-AC...   123  6e-28
+SEQ gi|7290243|gb|AAF45705.1| (AE003422) Actn gene product [alt 2] [...   123  6e-28
+SEQ gi|7290244|gb|AAF45706.1| (AE003422) Actn gene product [alt 1] [...   123  6e-28
+SEQ gi|7490815|pir||T37708 hypothetical protein SPAC15A10.08 - fissi...   122  1e-27
+SEQ gi|86177|pir||A28450 alpha-actinin 1, smooth muscle form - chick...   122  2e-27
+SEQ gi|4501893|ref|NP_001094.1| actinin, alpha 2 [Homo sapiens] >gi|...   121  4e-27
+SEQ gi|13123947|sp|Q9JI91|AAC2_MOUSE ALPHA-ACTININ 2 (ALPHA ACTININ ...   121  4e-27
+SEQ gi|13638457|ref|XP_002047.3| actinin, alpha 2 [Homo sapiens]          121  4e-27
+SEQ gi|112955|sp|P20111|AAC2_CHICK ALPHA-ACTININ 2 (ALPHA ACTININ SK...   119  2e-26
+SEQ gi|7511951|pir||T13714 kakapo gene protein - fruit fly (Drosophi...   115  2e-25
+SEQ gi|7511952|pir||T13715 kakapo gene protein isoform B - fruit fly...   115  2e-25
+SEQ gi|6690782|gb|AAF24340.1|AF200422_1 (AF200422) Short stop/Kakapo...   115  2e-25
+SEQ gi|6690788|gb|AAF24343.1|AF200425_1 (AF200425) Short stop/Kakapo...   115  2e-25
+SEQ gi|7303255|gb|AAF58317.1| (AE003816) shot gene product [alt 4] [...   115  2e-25
+SEQ gi|10727563|gb|AAF58319.2| (AE003816) shot gene product [alt 1] ...   115  2e-25
+SEQ gi|10727564|gb|AAG22268.1| (AE003816) shot gene product [alt 2] ...   115  2e-25
+SEQ gi|13540714|ref|NP_071796.1| plectin [Rattus norvegicus] >gi|170...   114  3e-25
+SEQ gi|14195014|sp|Q9QXS1|PLE1_MOUSE PLECTIN 1 (PLTN) (PCN) >gi|6578...   114  3e-25
+SEQ gi|6578741|gb|AAF18071.1|AF188011_1 (AF188011) plectin isoform p...   114  3e-25
+SEQ gi|6578743|gb|AAF18072.1|AF188012_1 (AF188012) plectin isoform p...   114  3e-25
+SEQ gi|6578745|gb|AAF18073.1|AF188013_1 (AF188013) plectin isoform p...   114  3e-25
+SEQ gi|6578747|gb|AAF18074.1|AF188014_1 (AF188014) plectin isoform p...   114  3e-25
+SEQ gi|6578761|gb|AAF18081.1|AF188021_1 (AF188021) plectin isoform p...   114  3e-25
+SEQ gi|14195008|sp|Q9JI55|PLE1_CRIGR PLECTIN 1 (PLTN) (PCN) (300-KDA...   114  3e-25
+SEQ gi|12857142|dbj|BAB30907.1| (AK017743) putative [Mus musculus]        114  3e-25
+SEQ gi|2137272|pir||I49290 dystonin - mouse (fragment) >gi|904019|gb...   113  7e-25
+SEQ gi|2137273|pir||I49298 dystonin isoform 2 - mouse (fragment) >gi...   113  7e-25
+SEQ gi|14195007|sp|Q15149|PLE1_HUMAN PLECTIN 1 (PLTN) (PCN) (HEMIDES...   113  8e-25
+SEQ gi|4505877|ref|NP_000436.1| plectin 1, intermediate filament bin...   113  8e-25
+SEQ gi|2135049|pir||I39160 dystonin isoform 1 - human (fragment) >gi...   112  9e-25
+SEQ gi|6624584|emb|CAB63787.1| (AL096710) dJ61B2.1 (bullous pemphigo...   112  9e-25
+SEQ gi|2134687|pir||S66292 actin-crosslinking protein ACF7 - human (...   110  5e-24
+SEQ gi|5821434|dbj|BAA83821.1| (AB029290) actin binding protein ABP6...   110  5e-24
+SEQ gi|10048481|ref|NP_036222.1| actin binding protein; macrophin (m...   110  5e-24
+SEQ gi|14285345|sp|Q9UPN3|ACF7_HUMAN ACTIN CROSS-LINKING FAMILY PROT...   110  5e-24
+SEQ gi|11360345|pir||T42725 actin binding protein ACF7, neural isofo...   109  1e-23
+SEQ gi|7513586|pir||T30847 actin binding protein ACF7, neural isofor...   109  1e-23
+SEQ gi|7513587|pir||T30849 actin binding protein ACF7, neural isofor...   109  1e-23
+SEQ gi|14285343|sp|Q9QXZ0|ACF7_MOUSE ACTIN CROSS-LINKING FAMILY PROT...   109  1e-23
+SEQ gi|7320706|emb|CAB07214.2| (Z92788) contains similarity to Pfam ...   109  1e-23
+SEQ gi|13377398|gb|AAK20664.1|AF304204_1 (AF304204) dystrophin-like ...   107  4e-23
+SEQ gi|118684|sp|P11533|DMD_CHICK DYSTROPHIN >gi|86249|pir||S02041 d...   106  1e-22
+SEQ gi|3982751|gb|AAC83646.1| (AF070485) dystrophin [Canis familiaris]    104  3e-22
+SEQ gi|8569559|pdb|1DXX|A Chain A, N-Terminal Actin-Binding Domain O...   104  3e-22
+SEQ gi|30846|emb|CAA32479.1| (X14298) dystrophin (AA 1 - 3685) [Homo...   104  5e-22
+SEQ gi|87340|pir||A27605 dystrophin, muscle - human >gi|181857|gb|AA...   104  5e-22
+SEQ gi|118685|sp|P11532|DMD_HUMAN DYSTROPHIN                              104  5e-22
+SEQ gi|5032281|ref|NP_000100.2| dystrophin Dp427c isoform; Dystrophi...   104  5e-22
+SEQ gi|5032283|ref|NP_003997.1| dystrophin Dp427m isoform; Dystrophi...   104  5e-22
+SEQ gi|5032285|ref|NP_003998.1| dystrophin Dp427l isoform; Dystrophi...   104  5e-22
+SEQ gi|5032287|ref|NP_004000.1| dystrophin Dp427p1 isoform; Dystroph...   104  5e-22
+SEQ gi|6691848|emb|CAB65864.1| (AL096699) dJ1145L23.1 (dystrophin (m...   104  5e-22
+SEQ gi|13655362|ref|XP_017102.1| dystrophin Dp427p2 isoform [Homo sa...   104  5e-22
+SEQ gi|13655364|ref|XP_017103.1| dystrophin Dp427p1 isoform [Homo sa...   104  5e-22
+SEQ gi|13655368|ref|XP_017105.1| dystrophin Dp427m isoform [Homo sap...   104  5e-22
+SEQ gi|1169358|sp|P11531|DMD_MOUSE DYSTROPHIN >gi|478748|pir||S28916...   103  7e-22
+SEQ gi|631598|pir||S44417 dystrophin - rabbit                             103  7e-22
+SEQ gi|6681203|ref|NP_031894.1| dystrophin, muscular dystrophy; Duch...   103  7e-22
+SEQ gi|6572155|emb|CAB62979.1| (AL022311) dJ1014D13.2 (novel protein...   102  2e-21
+SEQ gi|6730445|pdb|1QAG|A Chain A, Actin Binding Region Of The Dystr...   102  2e-21
+SEQ gi|6005938|ref|NP_009055.1| utrophin; dystrophin-related protein...   102  2e-21
+SEQ gi|4389302|pdb|1BHD|A Chain A, Second Calponin Homology Domain F...   102  2e-21
+SEQ gi|6981696|ref|NP_037202.1| utrophin (homologous to dystrophin) ...   101  3e-21
+SEQ gi|383575|prf||1903296A utrophin N-terminal region [Homo sapiens]     100  6e-21
+SEQ gi|540263|gb|AAA21559.1| (U14634) similar to actin binding domai...    99  2e-20
+SEQ gi|7294515|gb|AAF49857.1| (AE003539) CG11259 gene product [Droso...    97  8e-20
+SEQ gi|7510924|pir||T22552 hypothetical protein ZK1151.1 - Caenorhab...    97  9e-20
+SEQ gi|1934963|emb|CAA72912.1| (Y12229) cytoskeletal protein [Mus mu...    96  1e-19
+SEQ gi|3551777|gb|AAC62318.1| (AF014928) alpha actinin [Trichomonas ...    95  3e-19
+SEQ gi|3859891|gb|AAC72899.1| (AF072678) alpha-actinin [Trichomonas ...    95  3e-19
+SEQ gi|7243109|dbj|BAA92602.1| (AB037785) KIAA1364 protein [Homo sap...    93  9e-19
+SEQ gi|8926310|gb|AAF81786.1|AF272975_1 (AF272975) smoothelin-C [Gal...    91  4e-18
+SEQ gi|7290726|gb|AAF46172.1| (AE003438) CG3960 gene product [Drosop...    91  4e-18
+SEQ gi|422301|pir||S32565 actin-binding protein - slime mold (Physar...    88  3e-17
+SEQ gi|12844213|dbj|BAB26278.1| (AK009426) putative [Mus musculus]         88  3e-17
+SEQ gi|4314433|gb|AAD15619.1| (AC005005) similar to smoothelin; simi...    88  4e-17
+SEQ gi|8119288|gb|AAF01481.3|AF064238_1 (AF064238) smoothelin large ...    88  4e-17
+SEQ gi|2239266|gb|AAB62274.1| (L46371) cortexillin II [Dictyostelium...    88  5e-17
+SEQ gi|5901822|gb|AAD55419.1|AF181633_1 (AF181633) EG:118B3.2 [Droso...    87  8e-17
+SEQ gi|10728358|gb|AAF45523.2| (AE003418) EG:118B3.2 gene product [a...    87  8e-17
+SEQ gi|7662284|ref|NP_055447.1| KIAA0750 gene product [Homo sapiens]...    87  8e-17
+SEQ gi|13638349|ref|XP_006081.3| KIAA0750 gene product [Homo sapiens]      87  8e-17
+SEQ gi|2239268|gb|AAB62275.1| (L49527) cortexillin I [Dictyostelium ...    86  1e-16
+SEQ gi|7305505|ref|NP_038898.1| smoothelin [Mus musculus] >gi|601597...    85  3e-16
+SEQ gi|7547259|gb|AAF25580.2| (AF132449) smoothelin small isoform S2...    85  3e-16
+SEQ gi|7512693|pir||T17288 hypothetical protein DKFZp434P1550.1 - hu...    85  3e-16
+SEQ gi|10437695|dbj|BAB15087.1| (AK025226) unnamed protein product [...    85  3e-16
+SEQ gi|14278937|dbj|BAB59010.1| (AB047979) calmin [Homo sapiens]           85  3e-16
+SEQ gi|5107218|gb|AAD40021.1|AF151102_1 (AF151102) cortexillin II [P...    84  5e-16
+SEQ gi|14278935|dbj|BAB59009.1| (AB047978) calmin alpha [Mus musculus]     82  2e-15
+SEQ gi|14289185|dbj|BAB59120.1| (AB059643) calmin gamma [Mus musculus]     82  2e-15
+SEQ gi|14289187|dbj|BAB59121.1| (AB059644) calmin beta [Mus musculus]      82  2e-15
+SEQ gi|14289189|dbj|BAB59122.1| (AB059645) calmin delta [Mus musculu...    82  2e-15
+SEQ gi|10728577|gb|AAF52223.2| (AE003608) Msp-300 gene product [Dros...    82  2e-15
+SEQ gi|4884417|emb|CAA73884.2| (Y13492) smoothelin-B [Homo sapiens] ...    82  3e-15
+SEQ gi|6103359|gb|AAF03563.1| (AF115570) smoothelin-A [Homo sapiens]       82  3e-15
+SEQ gi|8546813|emb|CAA09077.2| (AJ010306) smoothelein L1, large isof...    82  3e-15
+SEQ gi|4138215|emb|CAA09076.1| (AJ010305) smoothelin L1, large isofo...    80  7e-15
+SEQ gi|7547258|gb|AAF25579.2| (AF132449) smoothelin small isoform S1...    80  7e-15
+SEQ gi|5107216|gb|AAD40020.1|AF151101_1 (AF151101) cortexillin I [Po...    79  2e-14
+SEQ gi|4240295|dbj|BAA74926.1| (AB020710) KIAA0903 protein [Homo sap...    78  5e-14
+SEQ gi|7506972|pir||T33140 hypothetical protein T03A1.4 - Caenorhabd...    77  6e-14
+SEQ gi|10440416|dbj|BAB15741.1| (AK024451) FLJ00043 protein [Homo sa...    76  1e-13
+SEQ gi|7302844|gb|AAF57918.1| (AE003804) CG15609 gene product [Droso...    76  1e-13
+SEQ gi|13435566|gb|AAH04660.1|AAH04660 (BC004660) Similar to KIAA090...    74  5e-13
+SEQ gi|13604143|gb|AAK32109.1|AF305087_1 (AF305087) tangerin A [Mus ...    74  5e-13
+SEQ gi|13604147|gb|AAK32111.1|AF305089_1 (AF305089) tangerin C [Mus ...    74  5e-13
+SEQ gi|13604149|gb|AAK32112.1|AF305090_1 (AF305090) tangerin C' [Mus...    74  5e-13
+SEQ gi|7511895|pir||T13410 hypothetical protein 118B3.2 - fruit fly ...    74  8e-13
+SEQ gi|7290056|gb|AAF45522.1| (AE003418) EG:118B3.2 gene product [al...    74  8e-13
+SEQ gi|13195656|ref|NP_077192.1| RIKEN cDNA 1110030K22 gene [Mus mus...    73  8e-13
+SEQ gi|12834980|dbj|BAB23109.1| (AK003989) putative [Mus musculus]         73  8e-13
+SEQ gi|3892157|emb|CAA10033.1| (AJ012469) DYS-1 protein [Caenorhabdi...    71  6e-12
+SEQ gi|7499184|pir||T20978 hypothetical protein F15D3.9 - Caenorhabd...    71  6e-12
+SEQ gi|14530423|emb|CAB61012.2| (Z81063) contains similarity to Pfam...    71  6e-12
+SEQ gi|5902100|ref|NP_008863.1| smoothelin [Homo sapiens] >gi|178101...    66  1e-10
+SEQ gi|3915877|sp|P53814|SMOO_HUMAN SMOOTHELIN >gi|7513339|pir||T095...    66  1e-10
+SEQ gi|7513338|pir||G01000 smoothelin - human                              66  1e-10
+SEQ gi|7489885|pir||T14867 interaptin - slime mold (Dictyostelium di...    66  2e-10
+SEQ gi|7512530|pir||T34532 hypothetical protein DKFZp434B1517.1 - hu...    64  6e-10
+SEQ gi|10433309|dbj|BAB13949.1| (AK021999) unnamed protein product [...    64  6e-10
+SEQ gi|12232439|ref|NP_073602.1| hypothetical protein FLJ11937 [Homo...    64  6e-10
+SEQ gi|13644578|ref|XP_017681.1| hypothetical protein FLJ11937 [Homo...    64  6e-10
+SEQ gi|7300519|gb|AAF55673.1| (AE003726) dystrophin gene product [Dr...    62  3e-09
+SEQ gi|10442630|gb|AAG17395.1|AF277386_1 (AF277386) dystrophin-like ...    62  3e-09
+SEQ gi|13183552|gb|AAK15256.1|AF297644_1 (AF297644) dystrophin-like ...    62  3e-09
+SEQ gi|1695889|gb|AAB40944.1| (U70560) EhABP [Entamoeba histolytica]       59  2e-08
+SEQ gi|7499777|pir||T20122 hypothetical protein F25B3.1 - Caenorhabd...    54  6e-07
+SEQ gi|1845600|gb|AAC51631.1| (U60822) dystrophin [Homo sapiens]           54  8e-07
+SEQ gi|1079404|pir||A49551 filamin, Muller cell - chicken >gi|392018...    53  1e-06
+SEQ gi|14530944|gb|AAK63131.1| (AY032901) dystonin 2 [Homo sapiens]        52  2e-06
+SEQ gi|4376041|emb|CAA41157.1| (X58153) dystrophin [Mus musculus dom...    51  3e-06
+SEQ gi|7496333|pir||T15570 hypothetical protein C23F12.2 - Caenorhab...    51  7e-06
+SEQ gi|4503745|ref|NP_001447.1| filamin 1 (actin-binding protein-280...    51  7e-06
+SEQ gi|1203969|gb|AAA92644.1| (L44140) filamin [Homo sapiens]              51  7e-06
+SEQ gi|10433639|dbj|BAB13999.1| (AK022279) unnamed protein product [...    50  8e-06
+SEQ gi|121115|sp|P13466|GELA_DICDI GELATION FACTOR (ACTIN BINDING PR...    50  8e-06
+SEQ gi|6118392|gb|AAF04108.1|AF188360_1 (AF188360) filamin A [Drosop...    49  1e-05
+SEQ gi|6707288|gb|AAF25614.1|AF174492_1 (AF174492) filamin1 [Drosoph...    49  1e-05
+SEQ gi|7300226|gb|AAF55390.1| (AE003716) cher gene product [Drosophi...    49  1e-05
+SEQ gi|12002996|gb|AAG43431.1| (AF183182) filamin isoform A [Drosoph...    49  1e-05
+SEQ gi|4514645|dbj|BAA75471.1| (AB023438) cgABP260 actin-binding dom...    49  2e-05
+SEQ gi|13627733|ref|XP_004713.3| gamma filamin [Homo sapiens] >gi|76...    49  2e-05
+SEQ gi|8885790|gb|AAF80245.1|AF146692_1 (AF146692) filamin 2 [Homo s...    49  2e-05
+SEQ gi|4557597|ref|NP_001449.1| gamma filamin; actin-binding protein...    48  3e-05
+SEQ gi|7510378|pir||T33759 hypothetical protein Y66H1B.3 - Caenorhab...    48  3e-05
+SEQ gi|5732908|gb|AAD49334.1|AF165191_1 (AF165191) BPAG1n3 [Homo sap...    48  4e-05
+SEQ gi|3282771|gb|AAC33845.1| (AF043045) actin-binding protein homol...    47  8e-05
+SEQ gi|4503747|ref|NP_001448.1| filamin B, beta (actin-binding prote...    47  8e-05
+SEQ gi|13645767|ref|XP_011013.2| filamin B, beta (actin-binding prot...    47  8e-05
+SEQ gi|7291470|gb|AAF46896.1| (AE003458) CG3550 gene product [Drosop...    46  1e-04
+SEQ gi|6636336|gb|AAF20148.1|AF208390_1 (AF208390) actinin-like prot...    46  1e-04
+SEQ gi|5419655|emb|CAB46442.1| (AJ012737) filamin, muscle isoform [H...    45  4e-04
+SEQ gi|7498250|pir||T15900 hypothetical protein D2096.11 - Caenorhab...    44  4e-04
+SEQ 
+## SEQUENCE PROFILE AND ENTROPY
+ SeqNo PDBNo   V   L   I   M   F   W   Y   G   A   P   S   T   C   H   R   K   Q   E   N   D  NOCC NDEL NINS ENTROPY RELENT WEIGHT
+    1    1     0   0   0   0   0   0   0   0   0   0   0   0   0   0  41  38  20   2   0   0     0    0    0   1.125     37  0.00
+    2    2     0   0   0   0   0   0   0   0   1   0  61  19   0   1   0   4   0   0  14   0     0    0    0   1.106     36  0.00
+    3    3     1   0   7   0   0   0   0   0  62   7  20   1   0   0   0   2   0   0   0   0     0    0    0   1.143     38  0.00
+    4    4     0   0   4   0   0   0   0   0   0   0   3   0   0   0  10  66   2  16   0   0     0    0    0   1.109     37  0.00
+    5    5     0   0   0   0   0   0   0   1   1   0   0   0   0   0   0  17  17  42   4  19     0    0    0   1.461     48  0.00
+    6    6     0   1  12   7   0   0   0  19  31   0   5   3   0   0  10  10   1   2   0   0     0    0    0   1.973     65  0.00
+    7    7     1  97   1   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.189      6  0.00
+    8    8     0  98   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0     0    0    0   0.140      4  0.00
+    9    9     1  47   0   0   0   0   0   6   5   0  14   1   0   0   6   2   2   5   3   5     0    0    0   1.847     61  0.00
+   10   10     0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   11   11    18   0   8   0   0   0   0   0   6   0   5   6  54   0   0   0   0   0   0   0     0    0    0   1.415     47  0.00
+   12   12     0   0   1   0   0   0   0   0   0   0   0   0   0   2  26   6  64   0   0   0     0    0    0   0.970     32  0.00
+   13   13     1   0   0  14   0   0   0   0   9   0   1   0   0   1  35   7  17   8  10   0     0    0    0   1.867     62  0.00
+   14   14    10   0   0   6   0   0   1   0   3   0  12   5   0   0   3  52   5   0   1   0     0    0    0   1.630     54  0.00
+   15   15     9   2   4   1   0   0   0   0   0   0   0  82   0   0   0   0   0   0   0   0     0    0    0   0.696     23  0.00
+   16   16     2   0   0   0   0   0   0   2  46   1   1   2   0   2  24   3   2  13   3   1     0    0    0   1.651     55  0.00
+   17   17     0   0   0   0   0   0   0  53   3  22   2   0   0   0   4   4   0   1  12   1     0    0    0   1.412     47  0.00
+   18   18     0   2   0   1   0   0  96   0   0   0   0   0   0   2   0   0   0   0   0   0     0    0    0   0.214      7  0.00
+   19   19     0   0   0   0   0   0   0   1   3  42   4   5   0   2   9  11   7  12   3   2     0    0    0   1.920     64  0.00
+   20   20     0   0   0   0   0   0   2  30   0   0   0   0   0  13   2   0  15   4  30   2     0    0    0   1.721     57  0.00
+   21   21    77  15   7   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.731     24  0.00
+   22   22     0   0   0   0   0   0   0   0   4   7   0   0   2   2  14   8   2   1  47  13     0    0    0   1.715     57  0.00
+   23   23    48   2  39   0   0   0   0   0   0   0   0   0  11   0   0   0   0   0   0   0     0    0    0   1.044     34  0.00
+   24   24     0   3   9   0   0   0   1   1   0   0   3  24   0   6   2   4  28   4  10   5     0    0    0   2.106     70  0.00
+   25   25     0   0   0   0   0   0   0   0   0   0   2   0   0   0   0   0   0   0  80  17     0    0    0   0.580     19  0.00
+   26   26     0   5   0   1  94   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.260      8  0.00
+   27   27     0   0   0   0   0   0   0   0   3   0  23  50   0  16   0   1   0   0   4   0     0    0    0   1.387     46  0.00
+   28   28     0   3   7   0   0   0   0   3   1   0  32  39   0   0   4   2   2   0   5   0     0    0    0   1.685     56  0.00
+   29   29     0   0   0   0   0   0   0   0   0   0  83   0   6   0   0   0   0   0   2   7     0    0    0   0.684     22  0.00
+   30   30     0   0   0   0   9  91   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.293      9  0.00
+   31   31     0   0   0   0   0   0   0   0   2   0  22   5   0   0  39  19   6   0   6   0     0    0    0   1.623     54  0.00
+   32   32     0   0   0   0   0   0   0   0   0   0   9   3   0   0   0   0   0   0   6  82     0    0    0   0.662     22  0.00
+   33   33     0   0   0   0   0   0   0  98   0   0   0   0   0   0   2   0   0   0   0   0     0    0    0   0.095      3  0.00
+   34   34     2  61   1  12   0   0   0   0   0   0   0   0   0   2   9  11   0   0   0   0     0    0    0   1.308     43  0.00
+   35   35     1   9   0   4   0   0   0   8  78   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.833     27  0.00
+   36   36     2  23   0   0  74   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.685     22  0.00
+   37   37     0   8   0   0   0   0   0   8   1   0   4   0  33   0   0   0   0   0  46   0     0    0    0   1.338     44  0.00
+   38   38     0   0   0   1   0   0   1   0  96   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.210      7  0.00
+   39   39     7  71  22   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.781     26  0.00
+   40   40    23  13  61   0   0   0   0   0   2   0   0   1   0   0   0   0   0   0   0   0     0    0    0   1.053     35  0.00
+   41   41     0   0   0   0   0   0   2   0   0   0   0   0   0  82   0   3   0   1   1  10     0    0    0   0.718     23  0.00
+   42   42     0   0   0   0   0   0   1   0   9   0  19   0   0   2  41  19   0   0   9   0     0    0    0   1.577     52  0.00
+   43   43     0   3   4   0  16   0  12   0   0   0   0   0   8  52   0   0   0   0   3   0     0    0    0   1.522     50  0.00
+   44   44     2   2   0   0   8   0   2   0   8   0   0   0   0   0  57   9   3   1   0   7     0    0    0   1.570     52  0.00
+   45   45     0   0   0   0   0   0   0   0   1  95   1   0   0   0   1   0   0   1   0   0     0    0    0   0.289      9  0.00
+   46   46     0   1   0   4   0   0   0  12   0   0   5   0   0   0   0   1   0  18   2  55     0    0    0   1.412     47  0.00
+   47   47     2  81   0   0   0   0   0   0   9   0   1   0   0   0   2   3   1   0   0   0     0    0    0   0.773     25  0.00
+   48   48    14  12  40   0  25   0   0   0   0   0   0   0   8   0   0   0   0   0   0   0     0    0    0   1.499     50  0.00
+   49   49     0   0   0   0   0   0   0   0   0   2   3   0   0   0   0   2   1   8   8  75     0    0    0   0.984     32  0.00
+   50   50     0   4   0  16  18  25  36   0   0   2   0   0   0   0   0   0   0   0   0   0     0    0    0   1.513     50  0.00
+   51   51     0   0   0   0   2   0   0  11   7   0  12   2   0   0   5   4   2  15  18  22     0    0    0   2.149     71  0.00
+   52   52     0   2   0   0   0   0   0   0   5   0  21   5   0   0   6  37  14   6   3   0     0    0    0   1.840     61  0.00
+   53   53    23  54   2   0   1   8   1   0   9   0   0   1   0   0   0   0   0   0   0   0     0    0    0   1.359     45  0.00
+   54   54     9   5   0   0   0   0   5   0   4   0  17   5   0   1  13  11   7   1   6  14     0    0    0   2.376     79  0.00
+   55   55     4   0   2   0   0   0   1   3   2  22   1   0   0   0   6  33  10   7   5   2     0    0    0   2.069     69  0.00
+   56   56     0   6   0   4   0   0   0   2   4   0  14   2   2   2   0   3  29   0   7  24     0    0    0   2.034     67  0.00
+   57   57     0   0   0   0   0   0   0   2   0   0  24   6   0   1   4   4   3   2  32  22     0    0    0   1.793     59  0.00
+   58   58     2   1   3   0   0   0   0   0  30  30   1   4   0   2   9   3   0   0  13   0     0    0    0   1.889     63  0.00
+   59   59    14  20  12   0   0   0   0   0   1   0   1  10   0   6  26   4   0   1   2   2     0    0    0   2.097     69  0.00
+   60   60     0   0   0   0   0   0  10   6   4   0   0   8   0   8   2   2  21  29   1   7     0    0    0   2.063     68  0.00
+   61   61     0   0   0   0   0   0   0   0   3   0   0   1   0   0  21   0   0   0  74   0     0    0    0   0.776     25  0.00
+   62   62     0  67   4   0  10   0   0   0   7   0   0   2   2   0   0   0   0   0   5   0     0    0    0   1.228     40  0.00
+   63   63     0   0   0   0   0   0   0   0   2   0   4   2   0   2   6   3  13  38  22   8     0    0    0   1.824     60  0.00
+   64   64     4  13   1   2   0   2   0   0   2   0   1  12   0  19   3   6  12   7  13   0     0    0    0   2.379     79  0.00
+   65   65     0   0   0   0   0   0   0   1  98   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.114      3  0.00
+   66   66     0   3   0  10  86   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.521     17  0.00
+   67   67     0   1   0   0   0   0   2   2   5   0  20   1   0   3   2   3   5  13  17  25     0    0    0   2.094     69  0.00
+   68   68    37  11  23   0   1   0   0   0   5   0   7   6   0   0   0   3   5   0   0   0     0    0    0   1.817     60  0.00
+   69   69     3   0   0   0   0   0   0   3  94   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.275      9  0.00
+   70   70     0   0   0   0   3   0   0   0   1   0   0   0   1   5   7   2   5  65   0   9     0    0    0   1.344     44  0.00
+   71   71     0   0   0   4   0   0   7   0   3   0   2   5   1   0  17  34   7   1   5  14     0    0    0   2.045     68  0.00
+   72   72     0   6   0   0   0   8  16   2   5   0   4   2   0  16   0   5  14  18   1   6     0    0    0   2.285     76  0.00
+   73   73     5  76   4   0   5   1   4   0   4   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.987     32  0.00
+   74   74     0   0   0   0   0   0   0  63   0   0   0   0   0   4   0   2   0   2   4  24     0    0    0   1.070     35  0.00
+   75   75    30  11  52   0   0   0   1   0   0   0   0   0   6   0   0   0   0   0   0   0     0    0    0   1.173     39  0.00
+   76   76     4   0   5   0   0   0   1   1   9  39   3  21   0   0   2   0   0  14   0   0     0    0    0   1.800     60  0.00
+   77   77     1   0   0   0   0   0   0   0   1  12   2   1   0   0  32  39  11   0   0   0     0    0    0   1.503     50  0.00
+   78   78     9  70   2  16   1   0   1   0   0   0   0   1   0   0   0   0   0   0   0   0     0    0    0   0.995     33  0.00
+   79   79     6  83   9   1   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0     0    0    0   0.646     21  0.00
+   80   80     0   0   0   0   0   0   0   0   4   0   3   4   0   0   0   2   0  15   2  70     0    0    0   1.079     36  0.00
+   81   81     9   0   1   0   0   0   0   1  30  56   0   2   0   0   0   0   0   0   0   0     0    0    0   1.126     37  0.00
+   82   82     0   0   0   0   0   0   0   0   3   0   1   0   0   0   0   3   2  79   2   8     0    0    0   0.891     29  0.00
+   83   83     0   0   0   0   0   0   0   0   2   0   1   0   0   0   0   0   0  11   0  85     0    0    0   0.573     19  0.00
+   84   84    55   7  28  10   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.092     36  0.00
+   85   85     5   3   4  10   4   0   0   4   8   0   8   0   0   3   4   0   1   0  17  28     0    0    0   2.253     75  0.00
+   86   86    33   7   6   4   0   0   0   0   1   0   4  32   0   2   1   1   0   0   2   4     0    0    0   1.880     62  0.00
+   87   87     1   0   0   0   0   0   0   4  12  25   7  11   0   2   6   4   1   9   5  13     0    0    0   2.262     75  0.00
+   88   88     5   3   0   2   0   0   8   2   2   0   6   5   0   6  13  13  12   9  11   2     0    0    0   2.572     85  0.00
+   89   89     8   2   0   0   0   0   0   0   0  86   2   1   0   0   0   0   0   0   0   0     0    0    0   0.600     20  0.00
+   90   90     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100     0    0    0   0.000      0  0.00
+   91   91     0   0   0   0   0   5   0   0   0   6   2   0   0   0   0  17   0  67   1   0     0    0    0   1.094     36  0.00
+   92   92     0  10   0   1   0   0   0   0   0   0   0   0   0   7  10  66   6   0   0   0     0    0    0   1.136     37  0.00
+   93   93     0   0   2   0   0   0   0   2  15   0  71   0   9   0   0   0   1   0   0   0     0    0    0   0.977     32  0.00
+   94   94    31   7  57   3   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0     0    0    0   1.074     35  0.00
+   95   95     6  13  38  33   5   0   4   0   0   0   0   0   0   0   0   0   1   0   0   0     0    0    0   1.501     50  0.00
+   96   96     0   2   0  14   0   0   0   0   2   0   1  78   1   0   0   0   0   0   0   0     0    0    0   0.787     26  0.00
+   97   97     0   0   0   0   0   0  99   0   0   0   0   0   0   0   0   0   1   0   0   0     0    0    0   0.054      1  0.00
+   98   98    62  20  16   0   0   0   0   0   0   0   0   2   0   0   0   0   0   0   0   0     0    0    0   1.001     33  0.00
+   99   99    12   0   0   3   0   0   1   0  12   0  48  14   0   0   0   0  10   0   0   0     0    0    0   1.527     50  0.00
+  100  100     1   4   0   0   0   0   1   0   4   0  50  10  10   2   0   1  11   6   0   0     0    0    0   1.695     56  0.00
+  101  101     1  35   5   0  37   0  21   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.270     42  0.00
+  102  102     1   5   0   0  17   0  73   0   0   0   0   0   0   2   2   1   0   0   0   0     0    0    0   0.888     29  0.00
+  103  103     0   0   0   0   0   0   0   0   1   0   3   0   0  58   1   4   0   9   9  15     0    0    0   1.350     45  0.00
+  104  104     7   1   0   1   1   0  25   0  42   0   0   2   0  10   7   1   1   0   0   0     0    0    0   1.670     55  0.00
+  105  105     0   8   0   2  86   0   4   0   0   0   0   0   1   0   0   0   0   0   0   0     0    0    0   0.576     19  0.00
+  106  106     0   0   0   0   0   0   0   2  13  20  45   0   0   0   9   4   0   4   3   0     0    0    0   1.593     53  0.00
+  107  107     0   0   0   0   0   0   0   1   0   0   9   1   0   0  16  57   1  12   3   0     0    0    0   1.342     44  0.00
+  108  108    20  26   0  54   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.006     33  0.00
+//

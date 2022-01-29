@@ -1,0 +1,68 @@
+ID Pseudo hssp file.
+SEQ 
+SEQ gi|119301|sp|P06717|ELAP_ECOLI HEAT-LABILE ENTEROTOXIN A CHAIN P...    83  5e-16
+SEQ gi|148532|gb|AAB59161.1| (M57244) heat-labile enterotoxin subuni...    82  9e-16
+SEQ gi|41340|emb|CAA23532.1| (V00275) enterotoxin subunit A [Escheri...    82  1e-15
+SEQ gi|2392437|pdb|1LT3|A Chain A, Heat-Labile Enterotoxin Double Mu...    82  1e-15
+SEQ gi|2118626|pir||I55231 heat-labile enterotoxin A precursor - Esc...    82  1e-15
+SEQ gi|1169504|sp|P43530|ELAH_ECOLI HEAT-LABILE ENTEROTOXIN A CHAIN ...    81  1e-15
+SEQ gi|2392443|pdb|1LT4|A Chain A, Heat-Labile Enterotoxin Mutant S63k     81  2e-15
+SEQ gi|408995|gb|AAC60440.1| (S60731) heat-labile enterotoxin A subu...    80  3e-15
+SEQ gi|3062901|dbj|BAA25725.1| (AB011677) heat-labile enterotoxin A ...    79  8e-15
+SEQ gi|1395121|gb|AAB02981.1| (J01646) enterotoxin A [Escherichia coli]    73  4e-13
+SEQ gi|1827767|pdb|1LTI|C Chain C, Heat-Labile Enterotoxin (Lt-I) Co...    64  4e-10
+SEQ gi|1127119|pdb|1LTG|C Chain C, Mol_id: 1; Molecule: Heat-Labile ...    63  4e-10
+SEQ gi|494271|pdb|1LTA|C Chain C, Heat-Labile Enterotoxin (Lt) Compl...    63  6e-10
+SEQ gi|494286|pdb|1LTS|C Chain C, Heat-Labile Enterotoxin (Lt) >gi|4...    63  7e-10
+SEQ gi|48348|emb|CAA24995.1| (X00171) ctx A [Vibrio cholerae]              57  4e-08
+SEQ gi|116397|sp|P01555|CHTA_VIBCH CHOLERA ENTEROTOXIN, A CHAIN PREC...    57  4e-08
+SEQ gi|223826|prf||1001196A toxin,cholera [Vibrio cholerae]                57  4e-08
+SEQ gi|808899|dbj|BAA06288.1| (D30052) cholera toxin [Vibrio cholerae]     57  4e-08
+SEQ gi|625723|pir||A61345 heat-labile enterotoxin A chain precursor ...    49  8e-06
+SEQ gi|1827849|pdb|1XTC|C Chain C, Cholera Toxin >gi|155297|gb|AAA27...    47  2e-05
+SEQ gi|2118625|pir||S39239 cholera enterotoxin chain A2 - Vibrio cho...    45  2e-04
+SEQ 
+## SEQUENCE PROFILE AND ENTROPY
+ SeqNo PDBNo   V   L   I   M   F   W   Y   G   A   P   S   T   C   H   R   K   Q   E   N   D  NOCC NDEL NINS ENTROPY RELENT WEIGHT
+    1    1     0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+    2    2     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  27  73     0    0    0   0.586     19  0.00
+    3    3     0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+    4    4     0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+    5    5     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  73  27     0    0    0   0.586     19  0.00
+    6    6     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100   0   0     0    0    0   0.000      0  0.00
+    7    7     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  27   5  68   0   0     0    0    0   0.756     25  0.00
+    8    8     0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+    9    9     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0     0    0    0   0.000      0  0.00
+   10   10     0   0   0   0   0   0   0   0   0   0  27   0   0   0   0   0   0   0  73   0     0    0    0   0.586     19  0.00
+   11   11     0 100   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   12   12     0   0   0   0   0   0   0  27   0   0  73   0   0   0   0   0   0   0   0   0     0    0    0   0.586     19  0.00
+   13   13    27   0   0   0   0   0   0   0   0   0   0  73   0   0   0   0   0   0   0   0     0    0    0   0.586     19  0.00
+   14   14     0   0  73   0   0   0   0   0   0   0   0   0   0   0   0  27   0   0   0   0     0    0    0   0.586     19  0.00
+   15   15     0   0   0   0  27   0  73   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.586     19  0.00
+   16   16     0 100   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   17   17     0   0   0   0   0   0   0   0   0   0   0   0   0   0  73   0   0   0   0  27     0    0    0   0.586     19  0.00
+   18   18     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  23   0  77   0   0     0    0    0   0.536     17  0.00
+   19   19     0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   20   20     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0     0    0    0   0.000      0  0.00
+   21   21     0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   22   22     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0     0    0    0   0.000      0  0.00
+   23   23   100   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   24   24     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0     0    0    0   0.000      0  0.00
+   25   25     0   0   0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0     0    0    0   0.000      0  0.00
+   26   26     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0     0    0    0   0.000      0  0.00
+   27   27     0   0  95   0   0   0   5   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.191      6  0.00
+   28   28     0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   29   29     0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   30   30     0   0   0   0   0   0   0  29   0   0   0   0   0   0   0   0   0   0   0  71     0    0    0   0.598     19  0.00
+   31   31     0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   32   32     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0     0    0    0   0.000      0  0.00
+   33   33     0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   34   34     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  71   0  29     0    0    0   0.598     19  0.00
+   35   35    71   0  29   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.598     19  0.00
+   36   36     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100     0    0    0   0.000      0  0.00
+   37   37     0   0  71   0   0   0   0   0   0   0   0  29   0   0   0   0   0   0   0   0     0    0    0   0.598     19  0.00
+   38   38     0   0   0   0   0   0  71   0   0   0   0   0   0  29   0   0   0   0   0   0     0    0    0   0.598     19  0.00
+   39   39     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100   0     0    0    0   0.000      0  0.00
+   40   40     0   0   0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0     0    0    0   0.000      0  0.00
+   41   41     0   0 100   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+//

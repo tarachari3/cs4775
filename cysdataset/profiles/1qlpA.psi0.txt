@@ -1,0 +1,923 @@
+ID Pseudo hssp file.
+SEQ 
+SEQ gi|1703025|sp|P01009|A1AT_HUMAN ALPHA-1-ANTITRYPSIN PRECURSOR (A...   715  0.0
+SEQ gi|6137432|pdb|1QLP|A Chain A, 2.0 Angstrom Structure Of Intact ...   715  0.0
+SEQ gi|1942953|pdb|1PSI|    Intact Recombined Alpha1-Antitrypsin Mut...   712  0.0
+SEQ gi|6855601|gb|AAF29581.1|AF113676_1 (AF113676) PRO0684 [Homo sap...   712  0.0
+SEQ gi|224224|prf||1012287A antitrypsin alpha1 mutant [Homo sapiens]      712  0.0
+SEQ gi|177831|gb|AAB59495.1| (K02212) alpha-1-antitrypsin [Homo sapi...   711  0.0
+SEQ gi|177836|gb|AAA51547.1| (J02619) alpha-1-antitrypsin precursor ...   711  0.0
+SEQ gi|4505793|ref|NP_000286.1| serine (or cysteine) proteinase inhi...   711  0.0
+SEQ gi|1942629|pdb|1KCT|    Alpha1-Antitrypsin                            710  0.0
+SEQ gi|13787109|pdb|1HP7|A Chain A, A 2.1 Angstrom Structure Of An U...   710  0.0
+SEQ gi|2392173|pdb|1ATU|    Uncleaved Alpha-1-Antitrypsin                 704  0.0
+SEQ gi|2116650|dbj|BAA20264.1| (AB004044) alpha-1-antitrypsin [Cerco...   673  0.0
+SEQ gi|112888|sp|P01010|A1AT_PAPAN ALPHA-1-ANTITRYPSIN PRECURSOR (AL...   671  0.0
+SEQ gi|223433|prf||0805684B inhibitor,alpha1 protease [Homo sapiens]      669  0.0
+SEQ gi|225768|prf||1313184B alpha1 antitrypsin [Homo sapiens]             666  0.0
+SEQ gi|231279|pdb|8API|A Chain A, Modified Alpha1-Antitrypsin (Modif...   643  0.0
+SEQ gi|11514321|pdb|1EZX|A Chain A, Crystal Structure Of A Serpin:pr...   641  0.0
+SEQ gi|7546268|pdb|1D5S|A Chain A, Crystal Structure Of Cleaved Anti...   633  0.0
+SEQ gi|7245932|pdb|1QMB|A Chain A, Cleaved Alpha-1-Antitrypsin Polymer    612  e-174
+SEQ gi|1703026|sp|P50447|A1AT_PIG ALPHA-1-ANTITRYPSIN PRECURSOR (ALP...   545  e-154
+SEQ gi|2804195|dbj|BAA24422.1| (AB000552) alpha,-antitrypsin [Callos...   541  e-153
+SEQ gi|112890|sp|P12725|A1AT_SHEEP ALPHA-1-ANTIPROTEINASE PRECURSOR ...   533  e-151
+SEQ gi|2804191|dbj|BAA24420.1| (AB000550) alpha,-antitrypsin-like pr...   533  e-150
+SEQ gi|112889|sp|P17475|A1AT_RAT ALPHA-1-ANTIPROTEINASE PRECURSOR (A...   529  e-149
+SEQ gi|203063|gb|AAA40788.1| (M32247) alpha-1-antitrypsin precursor ...   529  e-149
+SEQ gi|3982489|gb|AAC83412.1| (AF034077) alpha-1-antitrypsin; serine...   527  e-149
+SEQ gi|11968100|ref|NP_071964.1| alpha-1-protease inhibitor [Rattus ...   525  e-148
+SEQ gi|2137083|pir||S60036 alpha-1-antitrypsin precursor - golden ha...   525  e-148
+SEQ gi|461442|sp|P34955|A1AT_BOVIN ALPHA-1-ANTIPROTEINASE PRECURSOR ...   525  e-148
+SEQ gi|6686380|sp|O54757|ALMM_TAMSI ALPHA-1-ANTITRYPSIN-LIKE PROTEIN...   521  e-147
+SEQ gi|6686382|sp|O54759|ALST_TAMSI ALPHA-1-ANTITRYPSIN-LIKE PROTEIN...   504  e-142
+SEQ gi|1083848|pir||JX0346 alpha-1-antiproteinase precursor - Mongol...   503  e-141
+SEQ gi|6686383|sp|O54760|ALSI_TAMSI ALPHA-1-ANTITRYPSIN-LIKE PROTEIN...   502  e-141
+SEQ gi|6686381|sp|O54758|ALMS_TAMSI ALPHA-1-ANTITRYPSIN-LIKE PROTEIN...   500  e-140
+SEQ gi|6678079|ref|NP_033269.1| serine protease inhibitor 1-1 [Mus m...   488  e-137
+SEQ gi|2118392|pir||I49471 alpha-1 proteinase inhibitor 2 - mouse (f...   487  e-137
+SEQ gi|6678081|ref|NP_033270.1| serine protease inhibitor 1-2; DNA s...   487  e-137
+SEQ gi|2118396|pir||S54981 alpha-1-antiproteinase isoform E precurso...   482  e-135
+SEQ gi|112884|sp|P22325|A1AS_CAVPO ALPHA-1-ANTIPROTEINASE S PRECURSO...   481  e-135
+SEQ gi|112876|sp|P23035|A1AF_RABIT ALPHA-1-ANTIPROTEINASE F PRECURSO...   480  e-134
+SEQ gi|6685484|sp|O54756|HP55_TAMSI HIBERNATION SPECIFIC PLASMA PROT...   480  e-134
+SEQ gi|6678085|ref|NP_033272.1| serine protease inhibitor 1-4 [Mus m...   480  e-134
+SEQ gi|2118386|pir||I56481 alpha 1-proteinase inhibitor - spiny mous...   480  e-134
+SEQ gi|112887|sp|P26595|A1AT_MUSCR ALPHA-1-ANTIPROTEINASE PRECURSOR ...   476  e-133
+SEQ gi|423323|pir||JX0267 alpha-1-antiproteinase S-1 precursor - rab...   476  e-133
+SEQ gi|6678083|ref|NP_033271.1| serine protease inhibitor 1-3 [Mus m...   475  e-133
+SEQ gi|6678087|ref|NP_033273.1| serine protease inhibitor 1-5 [Mus m...   475  e-133
+SEQ gi|3205171|dbj|BAA28760.1| (AB015164) ATS-22 [Oryctolagus cunicu...   475  e-133
+SEQ gi|627784|pir||A54968 alpha-1-antitrypsin precursor - rabbit >gi...   472  e-132
+SEQ gi|112875|sp|P22324|A1AF_CAVPO ALPHA-1-ANTIPROTEINASE F PRECURSO...   470  e-131
+SEQ gi|2804193|dbj|BAA24421.1| (AB000551) alpha,-antitrypsin-like pr...   470  e-131
+SEQ gi|116960|sp|P22323|COTR_CAVPO CONTRAPSIN PRECURSOR (CP) >gi|112...   460  e-128
+SEQ gi|112498|pir||B39088 alpha-1-antiproteinase F precursor - guine...   438  e-122
+SEQ gi|461443|sp|Q03044|A1AT_DIDMA ALPHA-1-ANTIPROTEINASE PRECURSOR ...   430  e-119
+SEQ gi|5453896|ref|NP_006211.1| serine (or cysteine) proteinase inhi...   391  e-107
+SEQ gi|28637|emb|CAA34982.1| (X17122) alpha-1  antitrypsin [Homo sap...   379  e-104
+SEQ gi|4126465|dbj|BAA36581.1| (AB014091) alpha-1-antiproteinase [Xe...   376  e-103
+SEQ gi|191388|gb|AAA37078.1| (M96650) pregnancy protein 60 kDa [Meso...   314  1e-84
+SEQ gi|11437394|ref|XP_007478.1| alpha-1-antichymotrypsin, precursor...   313  2e-84
+SEQ gi|177933|gb|AAA51560.1| (J05176) alpha-1-antichymotrypsin precu...   313  2e-84
+SEQ gi|1340142|emb|CAA48671.1| (X68733) alpha1-antichymotrypsin [Hom...   313  2e-84
+SEQ gi|4165890|gb|AAD08810.1| (AF089747) alpha-1-antichymotrypsin pr...   313  2e-84
+SEQ gi|6980544|pdb|1QMN|A Chain A, Alpha1-Antichymotrypsin Serpin In...   312  5e-84
+SEQ gi|2133935|pir||I50494 serine proteinase inhibitor CP9 - common ...   308  7e-83
+SEQ gi|2144574|pir||ITHUC alpha-1-antichymotrypsin precursor - human      305  5e-82
+SEQ gi|4502595|ref|NP_001747.1| corticosteroid binding globulin prec...   303  3e-81
+SEQ gi|9955853|emb|CAC05490.1| (AJ297654) alpha-1-antichymotrypsin 2...   302  4e-81
+SEQ gi|400068|sp|P05154|IPSP_HUMAN PLASMA SERINE PROTEASE INHIBITOR ...   301  1e-80
+SEQ gi|7438224|pir||T12502 hypothetical protein DKFZp434P131.1 - hum...   301  1e-80
+SEQ gi|1705660|sp|P50451|CBG_SAISC CORTICOSTEROID-BINDING GLOBULIN P...   300  1e-80
+SEQ gi|115852|sp|P23775|CBG_RABIT CORTICOSTEROID-BINDING GLOBULIN (C...   300  2e-80
+SEQ gi|10835179|ref|NP_000615.1| serine (or cysteine) proteinase inh...   300  2e-80
+SEQ gi|11437396|ref|XP_007479.1| serine (or cysteine) proteinase inh...   299  5e-80
+SEQ gi|92335|pir||B29131 kallikrein-binding protein precursor - rat ...   298  1e-79
+SEQ gi|180550|gb|AAA35688.1| (J02639) plasma serine protease inhibit...   298  1e-79
+SEQ gi|220698|dbj|BAA00648.1| (D00751) contrapsin-like protease inhi...   296  3e-79
+SEQ gi|1705661|sp|P49920|CBG_SHEEP CORTICOSTEROID-BINDING GLOBULIN P...   295  5e-79
+SEQ gi|6680586|ref|NP_032484.1| kallikrein binding protein [Mus musc...   295  6e-79
+SEQ gi|266407|sp|P05545|CPI1_RAT CONTRAPSIN-LIKE PROTEASE INHIBITOR ...   294  1e-78
+SEQ gi|92743|pir||S08102 serine proteinase inhibitor 1 - rat >gi|572...   294  1e-78
+SEQ gi|2507387|sp|P05544|CPI3_RAT CONTRAPSIN-LIKE PROTEASE INHIBITOR...   294  1e-78
+SEQ gi|10720311|sp|Q9TT35|THBG_PIG THYROXINE-BINDING GLOBULIN PRECUR...   294  1e-78
+SEQ gi|57233|emb|CAA34407.1| (X16358) SPI-2 serine protease inhibito...   294  2e-78
+SEQ gi|6981576|ref|NP_036789.1| serine protease inhibitor [Rattus no...   294  2e-78
+SEQ gi|13195769|gb|AAB26244.2| (S58545) acrosomal serine protease in...   293  3e-78
+SEQ gi|477547|pir||A49190 corticosteroid-binding globulin - sheep         292  5e-78
+SEQ gi|116961|sp|P07759|COTR_MOUSE CONTRAPSIN PRECURSOR >gi|90404|pi...   292  6e-78
+SEQ gi|1729928|sp|P50450|THBG_SHEEP THYROXINE-BINDING GLOBULIN PRECU...   290  2e-77
+SEQ gi|930263|emb|CAA34349.1| (X16273) proteinase inhibitor-like pro...   290  2e-77
+SEQ gi|50442|emb|CAA38948.1| (X55147) contrapsin [Mus musculus]           290  2e-77
+SEQ gi|443345|pdb|2ACH|A Chain A, Alpha1 Antichymotrypsin                 289  4e-77
+SEQ gi|7415595|dbj|BAA93451.1| (AB026444) protein C inhibitor [Bos t...   289  5e-77
+SEQ gi|10720312|sp|Q9TT36|THBG_BOVIN THYROXINE-BINDING GLOBULIN PREC...   289  5e-77
+SEQ gi|2982038|pdb|1AS4|A Chain A, Cleaved Antichymotrypsin A349r         288  7e-77
+SEQ gi|6678095|ref|NP_033279.1| serine protease inhibitor-2 related ...   287  1e-76
+SEQ gi|2982150|pdb|3CAA|A Chain A, Cleaved Antichymotrypsin A347r         287  2e-76
+SEQ gi|2982165|pdb|4CAA|A Chain A, Cleaved Antichymotrypsin T345r         287  2e-76
+SEQ gi|54173|emb|CAA40106.1| (X56786) contraspin [Mus musculus]           285  5e-76
+SEQ gi|6679215|ref|NP_032811.1| protein C inhibitor [Mus musculus] >...   284  1e-75
+SEQ gi|2507388|sp|P09006|CPI6_RAT CONTRAPSIN-LIKE PROTEASE INHIBITOR...   284  1e-75
+SEQ gi|11422666|ref|XP_010441.1| serine (or cysteine) proteinase inh...   284  2e-75
+SEQ gi|5453888|ref|NP_006206.1| serine (or cysteine) proteinase inhi...   284  2e-75
+SEQ gi|11437400|ref|XP_007480.1| serine (or cysteine) proteinase inh...   283  2e-75
+SEQ gi|4507377|ref|NP_000345.1| serine (or cysteine) proteinase inhi...   283  3e-75
+SEQ gi|6678093|ref|NP_033278.1| serine protease inhibitor 2-2 [Mus m...   283  3e-75
+SEQ gi|535509|gb|AAA50448.1| (U13609) alpha1-antichymotrypsin isofor...   282  6e-75
+SEQ gi|13928716|ref|NP_113719.1| serine protease inhibitor [Rattus n...   282  7e-75
+SEQ gi|6685945|sp|Q60396|SI24_APOSY SERINE PROTEINASE INHIBITOR 2.4 ...   280  3e-74
+SEQ gi|549076|sp|P35577|THBG_RAT THYROXINE-BINDING GLOBULIN PRECURSO...   279  3e-74
+SEQ gi|2143998|pir||A39567 thyroxine-binding globulin precursor - rat     279  3e-74
+SEQ gi|12018164|gb|AAG45431.1| (AF324155) corticosteroid binding glo...   276  4e-73
+SEQ gi|416561|sp|P32759|A1AT_CYPCA ALPHA-1-ANTITRYPSIN HOMOLOG PRECU...   274  2e-72
+SEQ gi|49792|emb|CAA25457.1| (X00945) protease inhibitor [Mus musculus]   271  1e-71
+SEQ gi|90278|pir||A25420 alpha-1-antitrypsin - mouse (fragment) >gi|...   271  1e-71
+SEQ gi|13386038|ref|NP_080811.1| RIKEN cDNA 4632419J12 gene [Mus mus...   270  2e-71
+SEQ gi|3023208|sp|P81105|A1A6_MOUSE ALPHA-1-ANTITRYPSIN 1-6 (SERINE ...   269  4e-71
+SEQ gi|12621138|ref|NP_075246.1| protein C inhibitor [Rattus norvegi...   268  7e-71
+SEQ gi|4501843|ref|NP_001076.1| alpha-1-antichymotrypsin, precursor;...   265  9e-70
+SEQ gi|225769|prf||1313184C chymotrypsin inhibitor [Homo sapiens]         264  2e-69
+SEQ gi|399194|sp|P31211|CBG_RAT CORTICOSTEROID-BINDING GLOBULIN PREC...   264  2e-69
+SEQ gi|6680856|ref|NP_031644.1| corticosteroid binding globulin [Mus...   261  9e-69
+SEQ gi|1762152|gb|AAB39509.1| (U51017) kallistatin [Rattus norvegicus]    260  2e-68
+SEQ gi|12844084|dbj|BAB26230.1| (AK009343) putative [Mus musculus]        260  2e-68
+SEQ gi|192094|gb|AAA51624.1| (M12586) alpha-1-antitrypsin peptide [M...   260  3e-68
+SEQ gi|207042|gb|AAA42172.1| (M15917) serine protease inhibitor 1 [R...   258  1e-67
+SEQ gi|119509|sp|Q00387|EP45_XENLA ESTROGEN-REGULATED PROTEIN EP45 P...   255  9e-67
+SEQ gi|348255|pir||S31505 serine proteinase inhibitor 2.4 - rat (fra...   255  1e-66
+SEQ gi|2500774|sp|Q60543|CBG_MESAU CORTICOSTEROID-BINDING GLOBULIN P...   252  7e-66
+SEQ gi|13633621|ref|XP_012372.2| serine (or cysteine) proteinase inh...   248  1e-64
+SEQ gi|90280|pir||JH0493 alpha-1-antichymotrypsin-like protein EB22/...   243  4e-63
+SEQ gi|24438|emb|CAA26677.1| (X02920) alpha-1-antitrypsin (aa 268-39...   242  5e-63
+SEQ gi|12832656|dbj|BAB22199.1| (AK002574) putative [Mus musculus]        241  9e-63
+SEQ gi|6689884|gb|AAF23888.1|AF125526_1 (AF125526) endopin 1 [Bos ta...   240  3e-62
+SEQ gi|201038|gb|AAA40129.1| (M64085) spi2 proteinase inhibitor [Mus...   227  2e-58
+SEQ gi|223039|prf||0409325A inhibitor BrCN fragment II,alpha1 prote ...   206  4e-52
+SEQ gi|1143808|gb|AAC50345.1| (U22417) protein C inhibitor [Macaca m...   201  1e-50
+SEQ gi|92880|pir||A29035 thyroid hormone-regulated proteinase inhibi...   200  2e-50
+SEQ gi|7705879|ref|NP_057270.1| protein Z-dependent protease inhibit...   200  4e-50
+SEQ gi|12585537|sp|Q62975|ZPI_RAT PROTEIN Z-DEPENDENT PROTEASE INHIB...   199  4e-50
+SEQ gi|7770183|gb|AAF69627.1|AF119917_35 (AF119873) PRO2275 [Homo sa...   199  4e-50
+SEQ gi|54175|emb|CAA49486.1| (X69832) serine proteinase inhibitor 2....   193  2e-48
+SEQ gi|6677859|ref|NP_033152.1| squamous cell carcinoma antigen 2 [M...   193  4e-48
+SEQ gi|12833752|dbj|BAB22650.1| (AK003220) putative [Mus musculus]        192  7e-48
+SEQ gi|6678101|ref|NP_033282.1| serine protease inhibitor 6 [Mus mus...   191  1e-47
+SEQ gi|12837910|dbj|BAB23998.1| (AK005394) putative [Mus musculus]        187  2e-46
+SEQ gi|4758906|ref|NP_004146.1| serine (or cysteine) proteinase inhi...   185  9e-46
+SEQ gi|2136705|pir||S66289 alpha 1 antichymotrypsin - bovine (fragme...   183  5e-45
+SEQ gi|6680183|ref|NP_032249.1| heparin cofactor II; HC II [Mus musc...   182  7e-45
+SEQ gi|1346272|sp|P47776|HEP2_RABIT HEPARIN COFACTOR II PRECURSOR (H...   180  3e-44
+SEQ gi|6435591|pdb|1BY7|A Chain A, Human Plasminogen Activator Inhib...   180  3e-44
+SEQ gi|3132621|gb|AAC16323.1| (AF061727) heparin cofactor II [Xenopu...   179  5e-44
+SEQ gi|1710877|sp|P48594|SCC2_HUMAN SQUAMOUS CELL CARCINOMA ANTIGEN ...   178  8e-44
+SEQ gi|2118384|pir||I38202 leupin precursor - human                       178  8e-44
+SEQ gi|13242285|ref|NP_077358.1| leuserpin-2 [Rattus norvegicus] >gi...   178  9e-44
+SEQ gi|481621|pir||S38962 serpin - pig                                    178  1e-43
+SEQ gi|3132623|gb|AAC16324.1| (AF061728) heparin cofactor II [Gallus...   178  1e-43
+SEQ gi|12834448|dbj|BAB22916.1| (AK003650) putative [Mus musculus]        177  3e-43
+SEQ gi|5902072|ref|NP_008850.1| serine (or cysteine) proteinase inhi...   176  4e-43
+SEQ gi|2118383|pir||I38201 squamous cell carcinoma antigen 1 - human      176  4e-43
+SEQ gi|266995|sp|P29508|SCC1_HUMAN SQUAMOUS CELL CARCINOMA ANTIGEN 1...   176  4e-43
+SEQ gi|4826902|ref|NP_005015.1| serine (or cysteine) proteinase inhi...   173  3e-42
+SEQ gi|3183108|sp|P79335|PAI1_PIG PLASMINOGEN ACTIVATOR INHIBITOR-1 ...   172  7e-42
+SEQ gi|3098615|gb|AAC15710.1| (AF053401) heterochromatin-associated ...   171  9e-42
+SEQ gi|12843557|dbj|BAB26028.1| (AK009018) putative [Mus musculus]        171  2e-41
+SEQ gi|4504355|ref|NP_000176.1| heparin cofactor II precursor; serin...   169  3e-41
+SEQ gi|13647695|ref|XP_009850.3| heparin cofactor II [Homo sapiens] ...   169  4e-41
+SEQ gi|1335104|emb|CAA27218.1| (X03498) hLS2 (aa 1-480) [Homo sapiens]    169  4e-41
+SEQ gi|3183086|sp|Q90935|NEUS_CHICK NEUROSERPIN PRECURSOR (AXONIN-2)...   168  9e-41
+SEQ gi|2398729|emb|CAA04047.1| (AJ000386) serpin [Mus musculus]           168  9e-41
+SEQ gi|129293|sp|P01012|OVAL_CHICK OVALBUMIN (PLAKALBUMIN) (ALLERGEN...   168  1e-40
+SEQ gi|223299|prf||0705172A ovalbumin [Gallus gallus]                     168  1e-40
+SEQ gi|230201|pdb|1OVA|A Chain A, Ovalbumin (Egg Albumin) >gi|230204...   168  1e-40
+SEQ gi|808969|emb|CAA23682.1| (V00383) reading frame [Gallus gallus]      168  1e-40
+SEQ gi|3136338|gb|AAC16664.1| (AF064546) ovalbumin [Meleagris gallop...   168  1e-40
+SEQ gi|189545|gb|AAA36413.1| (J02685) plasminogen activator inhibito...   168  1e-40
+SEQ gi|1709561|sp|P50449|PAI1_MUSVI PLASMINOGEN ACTIVATOR INHIBITOR-...   168  1e-40
+SEQ gi|11067431|ref|NP_067728.1| plasminogen activator inhibitor 2 t...   167  2e-40
+SEQ gi|6755098|ref|NP_035241.1| plasminogen activator inhibitor, typ...   166  3e-40
+SEQ gi|4505595|ref|NP_002566.1| serine (or cysteine) proteinase inhi...   166  5e-40
+SEQ gi|4826904|ref|NP_005016.1| protease inhibitor 12 (neuroserpin) ...   165  7e-40
+SEQ gi|129575|sp|P13909|PAI1_BOVIN PLASMINOGEN ACTIVATOR INHIBITOR-1...   165  8e-40
+SEQ gi|417185|sp|P80229|ILEU_PIG LEUKOCYTE ELASTASE INHIBITOR (LEI) ...   165  9e-40
+SEQ gi|5453886|ref|NP_006208.1| protease inhibitor 14 precursor; pan...   164  1e-39
+SEQ gi|7649264|gb|AAF65821.1|AF251276_1 (AF251276) serine protease i...   164  2e-39
+SEQ gi|12841103|dbj|BAB25079.1| (AK007510) putative [Mus musculus]        164  2e-39
+SEQ gi|12838085|dbj|BAB24076.1| (AK005491) putative [Mus musculus]        164  2e-39
+SEQ gi|6685780|sp|O02739|PTI6_BOVIN SERINE PROTEINASE INHIBITOR B-43...   163  3e-39
+SEQ gi|12834891|dbj|BAB23079.1| (AK003930) putative [Mus musculus]        163  4e-39
+SEQ gi|31147|emb|CAA31208.1| (X12701) PAI precursor polypeptide [Hom...   162  7e-39
+SEQ gi|10835159|ref|NP_000593.1| serine (or cysteine) proteinase inh...   162  7e-39
+SEQ gi|386997|gb|AAA60008.1| (M14083) prebeta-migrating plasminogen ...   162  7e-39
+SEQ gi|755747|emb|CAA28444.1| (X04744) plasminogen activator inhibit...   162  7e-39
+SEQ gi|10835819|pdb|1DVN|A Chain A, Latent Form Of Plasminogen Activ...   162  7e-39
+SEQ gi|189578|gb|AAA60009.1| (M22321) plasminogen activator inhibito...   161  1e-38
+SEQ gi|462410|sp|P05619|ILEU_HORSE LEUKOCYTE ELASTASE INHIBITOR (LEI...   161  1e-38
+SEQ gi|13537194|dbj|BAB40773.1| (AB046400) SCCA2b [Homo sapiens]          160  2e-38
+SEQ gi|4699815|pdb|9PAI|A Chain A, Cleaved Substrate Variant Of Plas...   160  3e-38
+SEQ gi|4699714|pdb|1A7C|A Chain A, Human Plasminogen Activator Inhib...   160  3e-38
+SEQ gi|7522623|pir||JC7118 headpin serine proteinase inhibitor - hum...   160  3e-38
+SEQ gi|6018510|emb|CAA04937.1| (AJ001698) hurpin [Homo sapiens]           159  5e-38
+SEQ gi|8393956|ref|NP_036529.1| serine (or cysteine) proteinase inhi...   159  6e-38
+SEQ gi|6730093|pdb|1B3K|A Chain A, Plasminogen Activator Inhibitor-1...   159  6e-38
+SEQ gi|7861756|gb|AAF70386.1|AF193014_1 (AF193014) neuroserpin [Ratt...   158  9e-38
+SEQ gi|7861758|gb|AAF70387.1|AF193015_1 (AF193015) neuroserpin [Ratt...   158  9e-38
+SEQ gi|108194|pir||A37276 leukocyte elastase inhibitor - horse            158  1e-37
+SEQ gi|546088|gb|AAB30320.1| (S69272) cytoplasmic antiproteinase, CA...   158  1e-37
+SEQ gi|6573636|pdb|1DB2|A Chain A, Crystal Structure Of Native Plasm...   158  1e-37
+SEQ gi|12843390|dbj|BAB25964.1| (AK008914) putative [Mus musculus]        158  1e-37
+SEQ gi|4758904|ref|NP_004559.1| serine (or cysteine) proteinase inhi...   158  1e-37
+SEQ gi|6678097|ref|NP_033280.1| serine protease inhibitor 3 [Mus mus...   158  1e-37
+SEQ gi|13385352|ref|NP_080143.1| RIKEN cDNA 2310046M08 gene [Mus mus...   157  2e-37
+SEQ gi|12840837|dbj|BAB24976.1| (AK007347) putative [Mus musculus]        157  3e-37
+SEQ gi|10120507|pdb|1DVM|A Chain A, Active Form Of Human Pai-1 >gi|1...   156  3e-37
+SEQ gi|6678091|ref|NP_033276.1| serine protease inhibitor 17; Neuros...   156  5e-37
+SEQ gi|13904990|gb|AAH06776.1|AAH06776 (BC006776) serine (or cystein...   156  5e-37
+SEQ gi|129296|sp|P01014|OVAY_CHICK GENE Y PROTEIN (OVALBUMIN-RELATED...   156  6e-37
+SEQ gi|9968805|emb|CAC06755.1| (AJ293890) alpha-1-antichymotrypsin 2...   155  8e-37
+SEQ gi|576006|pdb|1ATT|A Chain A, Antithrombin Iii (Atiii) (Synchrot...   155  1e-36
+SEQ gi|4884500|dbj|BAA77781.1| (AB027238) antithrombin III [Cavia po...   154  2e-36
+SEQ gi|2118385|pir||A26423 serine proteinase inhibitor 2.1 - rat (fr...   154  2e-36
+SEQ gi|416622|sp|P32262|ANT3_SHEEP ANTITHROMBIN-III PRECURSOR (ATIII...   154  2e-36
+SEQ gi|1174843|sp|P46202|UAB2_PIG UTEROFERRIN-ASSOCIATED BASIC PROTE...   153  4e-36
+SEQ gi|6981332|ref|NP_036752.1| plasminogen activator inhibitor [Rat...   153  6e-36
+SEQ gi|4505791|ref|NP_002631.1| serine (or cysteine) proteinase inhi...   152  7e-36
+SEQ gi|13646616|ref|XP_008748.2| serine (or cysteine) proteinase inh...   152  7e-36
+SEQ gi|6679373|ref|NP_032897.1| plasminogen activator inhibitor, typ...   152  8e-36
+SEQ gi|6002108|emb|CAB56695.1| (AJ245442) serpin, putative [Drosophi...   152  9e-36
+SEQ gi|6686808|emb|CAB64714.1| (AJ252153) antithrombin [Salmo salar]      151  1e-35
+SEQ gi|494175|pdb|1HLE|A Chain A, Horse Leukocyte Elastase Inhibitor...   151  1e-35
+SEQ gi|4502261|ref|NP_000479.1| serine (or cysteine) proteinase inhi...   151  1e-35
+SEQ gi|8569307|pdb|1E03|L Chain L, Plasma Alpha Antithrombin-Iii And...   151  1e-35
+SEQ gi|999514|pdb|1ATH|B Chain B, Antithrombin Iii                        151  1e-35
+SEQ gi|12852307|dbj|BAB29358.1| (AK014448) putative [Mus musculus]        151  1e-35
+SEQ gi|576007|pdb|1ATT|B Chain B, Antithrombin Iii (Atiii) (Synchrot...   151  2e-35
+SEQ gi|1168462|sp|P41361|ANT3_BOVIN ANTITHROMBIN-III (ATIII) >gi|625...   151  2e-35
+SEQ gi|123575|sp|P13731|HS47_CHICK 47 KD HEAT SHOCK PROTEIN PRECURSO...   150  2e-35
+SEQ gi|28332|emb|CAA25459.1| (X00947) alpha 1 antichymotrypsin [Homo...   150  2e-35
+SEQ gi|129294|sp|P19104|OVAL_COTJA OVALBUMIN >gi|104501|pir||S11433 ...   150  3e-35
+SEQ gi|576554|dbj|BAA06212.1| (D29832) antithrombin III (AT-III) var...   150  3e-35
+SEQ gi|4774082|dbj|BAA77461.1| (AB026832) antithrombin III [Takifugu...   150  4e-35
+SEQ gi|8569387|pdb|1DZH|I Chain I, P14-Fluorescein-N135q-S380c-Antit...   149  4e-35
+SEQ gi|8569385|pdb|1DZG|I Chain I, N135q-S380c-Antithrombin-Iii           149  4e-35
+SEQ gi|1098627|gb|AAB06193.1| (U31079) 47 kDa heat shock protein [Da...   149  4e-35
+SEQ gi|134483|sp|P09005|SI21_RAT SERINE PROTEASE INHIBITOR 2.1 (SPI-...   149  5e-35
+SEQ gi|416621|sp|P32261|ANT3_MOUSE ANTITHROMBIN-III PRECURSOR (ATIII...   149  7e-35
+SEQ gi|7302317|gb|AAF57407.1| (AE003790) CG9455 gene product [Drosop...   148  2e-34
+SEQ gi|1195581|gb|AAB35653.1| (S79838) antithrombin, AT-III [chicken...   148  2e-34
+SEQ gi|3183116|sp|P97298|PEDF_MOUSE PIGMENT EPITHELIUM-DERIVED FACTO...   147  2e-34
+SEQ gi|2961472|gb|AAC05731.1| (AF017057) pigment epithelium-derived ...   147  2e-34
+SEQ gi|2118381|pir||I65279 antithrombin III - human >gi|179161|gb|AA...   147  2e-34
+SEQ gi|1082955|pir||JX0364 antithrombin III - pig                         147  2e-34
+SEQ gi|2500778|sp|Q95121|PEDF_BOVIN PIGMENT EPITHELIUM-DERIVED FACTO...   147  2e-34
+SEQ gi|12653501|gb|AAH00522.1|AAH00522 (BC000522) Similar to serine ...   147  3e-34
+SEQ gi|6755444|ref|NP_035470.1| stromal cell derived factor 3 [Mus m...   147  3e-34
+SEQ gi|6572153|emb|CAB63101.1| (AJ251749) serine protease inhibitor ...   146  4e-34
+SEQ gi|1352735|sp|P36955|PEDF_HUMAN PIGMENT EPITHELIUM-DERIVED FACTO...   146  4e-34
+SEQ gi|13643201|ref|XP_010960.2| protease inhibitor 14 [Homo sapiens]     146  4e-34
+SEQ gi|284355|pir||S27967 pigment epithelial-differentiating factor ...   144  1e-33
+SEQ gi|6572149|emb|CAB63099.1| (AJ251747) serine protease inhibitor ...   144  2e-33
+SEQ gi|3808221|gb|AAC69271.1| (AF036164) pigment epithelium-derived ...   144  2e-33
+SEQ gi|1078955|pir||A53120 intracellular coagulation inhibitor LICI ...   144  2e-33
+SEQ gi|7302315|gb|AAF57405.1| (AE003790) sp4 gene product [alt 2] [D...   144  3e-33
+SEQ gi|10727134|gb|AAG22208.1| (AE003790) sp4 gene product [alt 1] [...   144  3e-33
+SEQ gi|10727135|gb|AAG22209.1| (AE003790) sp4 gene product [alt 3] [...   144  3e-33
+SEQ gi|12852435|dbj|BAB29410.1| (AK014524) putative [Mus musculus]        143  4e-33
+SEQ gi|422816|pir||A46046 serine proteinase inhibitor homolog EPC-1 ...   143  5e-33
+SEQ gi|13537192|dbj|BAB40772.1| (AB046399) SCCA1b [Homo sapiens]          142  1e-32
+SEQ gi|4505149|ref|NP_003775.1| serine (or cysteine) proteinase inhi...   142  1e-32
+SEQ gi|50517|emb|CAA25458.1| (X00946) contrapsin [Mus musculus] >gi|...   141  1e-32
+SEQ gi|13489087|ref|NP_109591.1| serine (or cysteine) proteinase inh...   141  1e-32
+SEQ gi|3930783|gb|AAC80559.1| (AF100413) GP50 [Cricetulus griseus]        141  1e-32
+SEQ gi|13640368|ref|XP_006220.2| serine (or cysteine) proteinase inh...   141  1e-32
+SEQ gi|1351385|sp|P21814|UTMP_SHEEP UTERINE MILK PROTEIN PRECURSOR (...   141  2e-32
+SEQ gi|10045225|emb|CAC07815.1| (AJ293944) thyroxine-binding globuli...   141  2e-32
+SEQ gi|7302319|gb|AAF57409.1| (AE003790) CG9460 gene product [Drosop...   141  2e-32
+SEQ gi|2435563|gb|AAB71270.1| (AF026209) Contains similarity to Pfam...   140  3e-32
+SEQ gi|4502597|ref|NP_001226.1| serine (or cysteine) proteinase inhi...   139  5e-32
+SEQ gi|303678|dbj|BAA02298.1| (D12907) 47-kDa heat shock protein [Mu...   139  5e-32
+SEQ gi|136742|sp|P16708|UFBP_PIG UTEROFERRIN-ASSOCIATED PROTEIN PREC...   139  6e-32
+SEQ gi|8393057|ref|NP_058869.1| serine proteinase inhibitor, clade H...   138  1e-31
+SEQ gi|6753304|ref|NP_033955.1| collagen binding protein 1 [Mus musc...   138  1e-31
+SEQ gi|2275601|gb|AAC63406.1| (AF009964) serpin [Petromyzon marinus]      138  1e-31
+SEQ gi|9968809|emb|CAC06757.1| (AJ293892) alpha-1-antichymotrypsin 1...   138  2e-31
+SEQ gi|4757924|ref|NP_004344.1| serine (or cysteine) proteinase inhi...   138  2e-31
+SEQ gi|13359088|dbj|BAB33293.1| (AB017518) Serpin-like protein (SEP-...   137  2e-31
+SEQ gi|13384828|ref|NP_079705.1| RIKEN cDNA 1190005M04 gene [Mus mus...   137  3e-31
+SEQ gi|13631776|ref|XP_002813.3| protease inhibitor 12 (neuroserpin)...   136  6e-31
+SEQ gi|9968807|emb|CAC06756.1| (AJ293891) alpha-1-antichymotrypsin 3...   136  6e-31
+SEQ gi|4505709|ref|NP_002606.1| serine (or cysteine) proteinase inhi...   135  1e-30
+SEQ gi|14140097|emb|CAB55818.2| (AJ269658) hypothetical protein [Ixo...   135  1e-30
+SEQ gi|1078949|pir||S49595 probable serine proteinase inhibitor - si...   134  1e-30
+SEQ gi|177824|gb|AAB59371.1| (J00067) alpha-1 antitrypsin [Homo sapi...   134  2e-30
+SEQ gi|1174914|sp|P46201|UTMP_BOVIN UTERINE MILK PROTEIN PRECURSOR (...   134  2e-30
+SEQ gi|92746|pir||B26423 serine proteinase inhibitor 2.2 - rat (frag...   134  2e-30
+SEQ gi|4505789|ref|NP_002630.1| serine (or cysteine) proteinase inhi...   134  3e-30
+SEQ gi|538275|gb|AAA50447.1| (U13608) alpha1-antichymotrypsin isofor...   133  3e-30
+SEQ gi|9801227|emb|CAC03569.1| (AJ278717) hurpin [Homo sapiens]           133  3e-30
+SEQ gi|862467|dbj|BAA06909.1| (D32211) limulus intracellular coagula...   132  7e-30
+SEQ gi|7542480|gb|AAF63473.1|AF231948_1 (AF231948) serine proteinase...   132  8e-30
+SEQ gi|12805213|gb|AAH02065.1|AAH02065 (BC002065) Unknown (protein f...   131  1e-29
+SEQ gi|6678103|ref|NP_033283.1| serine protease inhibitor 7 [Mus mus...   131  1e-29
+SEQ gi|2500777|sp|P70564|MASP_RAT MASPIN PRECURSOR (PROTEASE INHIBIT...   131  2e-29
+SEQ gi|1620888|dbj|BAA12795.1| (D85341) intracellular coagulation in...   131  2e-29
+SEQ gi|10728901|gb|AAF53932.2| (AE003668) sp3 gene product [Drosophi...   131  2e-29
+SEQ gi|6572147|emb|CAB63098.1| (AJ251746) serine protease inhibitor ...   130  2e-29
+SEQ gi|6679383|ref|NP_032904.1| plasmin inhibitor alpha 2; alpha 2 a...   130  4e-29
+SEQ gi|6759386|emb|CAB69784.1| (AJ271352) putative serine protease i...   129  4e-29
+SEQ gi|57292|emb|CAA31548.1| (X13150) contrapsin C-term. (217 AA) [R...   129  5e-29
+SEQ gi|200966|gb|AAA03200.1| (J05609) put. serine protease inhibitor...   129  6e-29
+SEQ gi|1078956|pir||A55533 intracellular coagulation inhibitor type ...   129  8e-29
+SEQ gi|6572145|emb|CAB63097.1| (AJ251745) serine protease inhibitor ...   128  1e-28
+SEQ gi|6572143|emb|CAB63096.1| (AJ251744) serine proteinase inhibito...   127  3e-28
+SEQ gi|2435565|gb|AAB71272.1| (AF026209) Contains similarity to Pfam...   126  5e-28
+SEQ gi|112907|sp|P08697|A2AP_HUMAN ALPHA-2-ANTIPLASMIN PRECURSOR (AL...   126  6e-28
+SEQ gi|11386143|ref|NP_000925.1| serine (or cysteine) proteinase inh...   126  6e-28
+SEQ gi|178751|gb|AAA35543.1| (J02654) alpha-2-antiplasmin precursor ...   126  7e-28
+SEQ gi|7438223|pir||T16119 hypothetical protein F20D6.4 - Caenorhabd...   124  1e-27
+SEQ gi|6759388|emb|CAB69785.1| (AJ271353) putative serine protease i...   124  2e-27
+SEQ gi|7495290|pir||T25504 hypothetical protein C03G6.19 - Caenorhab...   124  2e-27
+SEQ gi|14574628|gb|AAB52318.2| (U97008) Hypothetical protein C03G6.1...   124  2e-27
+SEQ gi|6002112|emb|CAB56697.1| (AJ245444) serpin, putative [Drosophi...   124  2e-27
+SEQ gi|7304251|gb|AAF59285.1| (AE003842) CG1857 gene product [Drosop...   124  2e-27
+SEQ gi|14028769|gb|AAK52495.1|AF361483_1 (AF361483) chymotrypsin inh...   124  3e-27
+SEQ gi|1168249|sp|P28800|A2AP_BOVIN ALPHA-2-ANTIPLASMIN PRECURSOR (A...   124  3e-27
+SEQ gi|113052|sp|P80034|ACH2_BOMMO ANTICHYMOTRYPSIN II (ACHY-II) >gi...   123  3e-27
+SEQ gi|4090872|gb|AAD09285.1| (AF023274) putative serpin [Hyphantria...   122  7e-27
+SEQ gi|12085132|ref|NP_073534.1| 149R protein [Yaba-like disease vir...   121  2e-26
+SEQ gi|12408576|gb|AAG53705.1| (AC087794) Hypothetical protein Y32G9...   121  2e-26
+SEQ gi|7303674|gb|AAF58725.1| (AE003827) CG7722 gene product [Drosop...   121  2e-26
+SEQ gi|134436|sp|P14754|SERA_MANSE ALASERPIN PRECURSOR (SERPIN 1) >g...   120  4e-26
+SEQ gi|7711112|emb|CAA72916.2| (Y12233) serine protease inhibitor-li...   119  6e-26
+SEQ gi|13786763|pdb|1I99|I Chain I, Crystal Structure Of Michaelis S...   119  8e-26
+SEQ gi|84752|pir||JX0130 antitrypsin precursor - silkworm                 117  2e-25
+SEQ gi|231459|sp|P22922|A1AT_BOMMO ANTITRYPSIN PRECURSOR (AT) >gi|21...   117  2e-25
+SEQ gi|13627439|ref|XP_001452.2| serine (or cysteine) proteinase inh...   117  3e-25
+SEQ gi|6678099|ref|NP_033281.1| serine protease inhibitor 4 [Mus mus...   116  4e-25
+SEQ gi|1144299|gb|AAA84914.1| (U29953) pigment epithelium-derived fa...   116  7e-25
+SEQ gi|4699766|pdb|1SEK|    The Structure Of Active Serpin K From Ma...   115  8e-25
+SEQ gi|5734504|emb|CAB52709.1| (AJ245878) serpin [Triticum aestivum]      115  1e-24
+SEQ gi|431347|gb|AAA29334.1| (L20793) serine protease inhibitor [Man...   114  1e-24
+SEQ gi|121111|sp|P07092|GDN_RAT GLIA DERIVED NEXIN PRECURSOR (GDN) (...   114  3e-24
+SEQ gi|1378124|gb|AAC47334.1| (U58361) serpin 1 [Manduca sexta]           114  3e-24
+SEQ gi|7297267|gb|AAF52530.1| (AE003618) CG6717 gene product [Drosop...   113  3e-24
+SEQ gi|1378131|gb|AAC47341.1| (U58361) serpin 1 [Manduca sexta]           113  3e-24
+SEQ gi|3097041|emb|CAA75296.1| (Y15035) B20R [Cowpox virus]               113  4e-24
+SEQ gi|1378125|gb|AAC47335.1| (U58361) serpin 1 [Manduca sexta]           112  9e-24
+SEQ gi|13386342|ref|NP_083016.1| RIKEN cDNA 4933406L18 gene [Mus mus...   112  9e-24
+SEQ gi|7299967|gb|AAF55139.1| (AE003708) CG6687 gene product [Drosop...   112  1e-23
+SEQ gi|7302318|gb|AAF57408.1| (AE003790) sp1 gene product [Drosophil...   111  1e-23
+SEQ gi|4090828|gb|AAC99573.1| (AF012825) serpin C14R [Ectromelia virus]   111  1e-23
+SEQ gi|6634109|emb|CAB64266.1| (AJ244011) Spi-1 protein [Ectromelia ...   111  1e-23
+SEQ gi|1378128|gb|AAC47338.1| (U58361) serpin 1 [Manduca sexta]           110  2e-23
+SEQ gi|433400|gb|AAB42377.1| (U04206) BmSERPIN [Brugia malayi]            110  3e-23
+SEQ gi|9627714|ref|NP_042237.1| B25R [Variola virus] >gi|419250|pir|...   110  3e-23
+SEQ gi|7438221|pir||T06488 serpin WZS2 - wheat >gi|1885350|emb|CAA72...   110  3e-23
+SEQ gi|7438218|pir||T06183 serpin - barley >gi|1197577|emb|CAA64599....   110  3e-23
+SEQ gi|4557379|ref|NP_000053.1| complement component 1 inhibitor pre...   110  3e-23
+SEQ gi|13640059|ref|XP_006339.2| complement component 1 inhibitor [H...   110  3e-23
+SEQ gi|9633390|ref|NP_050494.1| D14R protein [variola minor virus] >...   110  3e-23
+SEQ gi|416571|sp|Q03383|ACH1_BOMMO ANTICHYMOTRYPSIN I PRECURSOR (ACH...   110  4e-23
+SEQ gi|1150682|emb|CAA50975.1| (X72086) ORF24R; B25R in citation [3]...   110  4e-23
+SEQ gi|1378127|gb|AAC47337.1| (U58361) serpin 1 [Manduca sexta]           110  4e-23
+SEQ gi|476330|gb|AAA19160.1| (U07767) serpin-like protein [Cowpox vi...   110  4e-23
+SEQ gi|2130110|pir||S65782 serpin - wheat >gi|871551|emb|CAA90071.1|...   109  5e-23
+SEQ gi|7341330|gb|AAF61252.1|AF242200_1 (AF242200) serpin-2 [Bombyx ...   109  5e-23
+SEQ gi|1378126|gb|AAC47336.1| (U58361) serpin 1 [Manduca sexta]           109  5e-23
+SEQ gi|1732049|gb|AAB38685.1| (U57450) EPC-1 [Homo sapiens]               109  5e-23
+SEQ gi|464797|sp|P33829|SPI1_VARV SERINE PROTEINASE INHIBITOR 1           109  6e-23
+SEQ gi|179619|gb|AAA35613.1| (M13690) plasma protease (C1) inhibitor...   109  6e-23
+SEQ gi|1378122|gb|AAC47332.1| (U58361) serpin 1 [Manduca sexta]           109  7e-23
+SEQ gi|1174419|sp|P42927|SPI1_COWPX SERINE PROTEINASE INHIBITOR 1         109  8e-23
+SEQ gi|4567253|gb|AAD23667.1|AC007070_16 (AC007070) putative serpin ...   107  2e-22
+SEQ gi|134824|sp|P15058|SPI1_VACCV SERINE PROTEINASE INHIBITOR 1 >gi...   107  2e-22
+SEQ gi|7438225|pir||T00972 serpin homolog T9J22.6 - Arabidopsis thal...   107  2e-22
+SEQ gi|1174420|sp|P42928|SPI1_RABPU SERINE PROTEINASE INHIBITOR 1 >g...   107  2e-22
+SEQ gi|1378123|gb|AAC47333.1| (U58361) serpin 1 [Manduca sexta]           107  2e-22
+SEQ gi|1378129|gb|AAC47339.1| (U58361) serpin 1 [Manduca sexta]           107  2e-22
+SEQ gi|1378130|gb|AAC47340.1| (U58361) serpin 1 [Manduca sexta]           107  2e-22
+SEQ gi|1378132|gb|AAC47342.1| (U58361) serpin 1 [Manduca sexta]           107  2e-22
+SEQ gi|9229894|dbj|BAB00620.1| (AB036843) Not2 [Ciona intestinalis]       107  3e-22
+SEQ gi|87514|pir||A27496 glia-derived nexin I alpha precursor - huma...   107  3e-22
+SEQ gi|9634363|ref|NP_037903.1| TC19L [Vaccinia virus (strain Tian T...   106  5e-22
+SEQ gi|5734506|emb|CAB52710.1| (AJ245879) serpin [Triticum aestivum]      106  7e-22
+SEQ gi|7498712|pir||T20650 hypothetical protein F09C6.5 - Caenorhabd...   105  8e-22
+SEQ gi|2149091|gb|AAB58491.1| (U79184) serpin-2 [Manduca sexta]           105  1e-21
+SEQ gi|129295|sp|P01013|OVAX_CHICK GENE X PROTEIN (OVALBUMIN-RELATED...   105  1e-21
+SEQ gi|7299966|gb|AAF55138.1| (AE003708) sp5 gene product [Drosophil...   104  2e-21
+SEQ gi|9634680|ref|NP_038973.1| ORF FPV010 Serpin gene family protei...   104  2e-21
+SEQ gi|134826|sp|P15059|SPI2_VACCV SERINE PROTEINASE INHIBITOR 2 >gi...   104  3e-21
+SEQ gi|13654228|ref|XP_016126.1| serine (or cysteine) proteinase inh...   104  3e-21
+SEQ gi|11279069|pir||T47462 serpin-like protein - Arabidopsis thalia...   103  4e-21
+SEQ gi|6686296|sp||HP55_TAMAS_2 [Segment 2 of 3] HIBERNATION SPECIFI...   103  4e-21
+SEQ gi|421989|pir||S29819 serpin - barley >gi|19071|emb|CAA78822.1| ...   102  7e-21
+SEQ gi|121110|sp|P07093|GDN_HUMAN GLIA DERIVED NEXIN PRECURSOR (GDN)...   102  8e-21
+SEQ gi|3097033|emb|CAA75288.1| (Y15035) B12R [Cowpox virus]               102  8e-21
+SEQ gi|9937311|gb|AAG02411.1|AF284038_1 (AF284038) phloem serpin-1 [...   102  8e-21
+SEQ gi|1174422|sp|P42926|SPI2_RABPU SERINE PROTEINASE INHIBITOR 2 >g...   102  9e-21
+SEQ gi|9790920|ref|NP_063647.1| C12L; putative [Vaccinia virus] >gi|...   102  1e-20
+SEQ gi|6572151|emb|CAB63100.1| (AJ251748) serine protease inhibitor ...   102  1e-20
+SEQ gi|10120504|pdb|1C8O|A Chain A, 2.9 A Structure Of Cleaved Viral...   101  1e-20
+SEQ gi|5668792|gb|AAD46018.1|AC007519_3 (AC007519) Strong similarity...   101  1e-20
+SEQ gi|12084993|ref|NP_073395.1| 10L protein [Yaba-like disease viru...   101  1e-20
+SEQ gi|436016|gb|AAA29938.1| (L27100) serpin [Schistosoma mansoni]        101  2e-20
+SEQ gi|7438222|pir||T06597 serpin homolog WZS3 - wheat >gi|1885346|e...   101  2e-20
+SEQ gi|9627702|ref|NP_042225.1| B13R [Variola virus] >gi|464798|sp|P...   100  3e-20
+SEQ gi|1310677|emb|CAA66232.1| (X97636) protein z-type serpin [Horde...   100  3e-20
+SEQ gi|87509|pir||A26061 glia-derived neurite promoting factor precu...   100  3e-20
+SEQ gi|1772998|emb|CAA71412.1| (Y10386) C1 inhibitor [Mus musculus]       100  4e-20
+SEQ gi|123123|sp|P07385|CRMA_COWPX ICE INHIBITOR (HEMORRHAGE-INDUCIN...   100  4e-20
+SEQ gi|9633378|ref|NP_050482.1| D2R protein [variola minor virus] >g...   100  5e-20
+SEQ gi|7297367|gb|AAF52627.1| (AE003620) sp2 gene product [Drosophil...   100  5e-20
+SEQ gi|12805137|gb|AAH02026.1|AAH02026 (BC002026) serine (or cystein...   100  5e-20
+SEQ gi|6753218|ref|NP_033906.1| complement component 1 inhibitor [Mu...    99  8e-20
+SEQ gi|6686297|sp||HP55_TAMAS_3 [Segment 3 of 3] HIBERNATION SPECIFI...    99  8e-20
+SEQ gi|6691167|gb|AAF24518.1|AF220045_1 (AF220045) serpin 27A [Droso...    99  8e-20
+SEQ gi|4090821|gb|AAC99566.1| (AF012825) serpin C7R [Ectromelia viru...    99  1e-19
+SEQ gi|179617|gb|AAA51848.1| (M14036) C1-inhibitor [Homo sapiens]          98  1e-19
+SEQ gi|281068|pir||D41752 alpha-1-antitrypsin homolog HP-55 - Siberi...    98  1e-19
+SEQ gi|1340170|emb|CAA30469.1| (X07577) C1 inhibitor (AA 155-478 ) (...    98  1e-19
+SEQ gi|6857178|gb|AAF30285.1|AF219903_1 (AF219903) serine protease i...    98  1e-19
+SEQ gi|131091|sp|P06293|PRTZ_HORVU PROTEIN Z (Z4) (MAJOR ENDOSPERM A...    98  2e-19
+SEQ gi|7302316|gb|AAF57406.1| (AE003790) CG9454 gene product [Drosop...    98  3e-19
+SEQ gi|1706733|sp|P50448|F12I_BOVIN FACTOR XIIA INHIBITOR PRECURSOR ...    97  5e-19
+SEQ gi|3334643|emb|CAA07772.1| (AJ007935) serpin [Ectromelia virus]        96  5e-19
+SEQ gi|14211394|gb|AAK57435.1|AF380366_1 (AF380366) serine protease ...    96  5e-19
+SEQ gi|9633786|ref|NP_051864.1| m151R [Myxoma virus] >gi|5565900|gb|...    96  6e-19
+SEQ gi|7293663|gb|AAF49033.1| (AE003514) CG6680 gene product [alt 2]...    96  6e-19
+SEQ gi|10120524|pdb|1F0C|A Chain A, Structure Of The Viral Serpin Crma     96  7e-19
+SEQ gi|12025451|gb|AAG45932.1|AF317731_1 (AF317731) serpin [Schistos...    96  9e-19
+SEQ gi|7297317|gb|AAF52578.1| (AE003619) CG12318 gene product [Droso...    95  2e-18
+SEQ gi|1537066|gb|AAC55470.1| (U60474) Serp2 [Myxoma virus]                93  5e-18
+SEQ gi|90044|pir||A24470 probable proteinase inhibitor - rabbit plas...    93  6e-18
+SEQ gi|9633644|ref|NP_051870.1| Serp1 [Myxoma virus] >gi|9633803|ref...    93  6e-18
+SEQ gi|93218|pir||S24676 serpin - Ectromelia virus >gi|59259|emb|CAA...    93  7e-18
+SEQ gi|9633955|ref|NP_052035.1| gp151R [Rabbit fibroma virus] >gi|65...    92  1e-17
+SEQ gi|6630690|dbj|BAA88536.1| (AP000969) Similar to serpin - wheat....    92  1e-17
+SEQ gi|9627543|ref|NP_042066.1| C2L [Variola virus] >gi|464799|sp|P3...    92  2e-17
+SEQ gi|431335|gb|AAA29328.1| (L20790) serine protease inhibitor [Man...    91  2e-17
+SEQ gi|1808628|emb|CAA64110.1| (X94355) M2L [Cowpox virus] >gi|22859...    91  2e-17
+SEQ gi|9790942|ref|NP_063669.1| K2L; putative [Vaccinia virus] >gi|1...    90  5e-17
+SEQ gi|9634395|ref|NP_037933.1| TK3L [Vaccinia virus (strain Tian Ta...    89  1e-16
+SEQ gi|12004575|gb|AAG44097.1|AF216779_1 (AF216779) serine proteinas...    89  1e-16
+SEQ gi|9633217|ref|NP_050321.1| P2L protein [variola minor virus] >g...    88  1e-16
+SEQ gi|7460931|pir||T30775 probable serpin SPI-3 - vaccinia virus (s...    88  3e-16
+SEQ gi|219408|dbj|BAA00070.1| (D00116) alpha 2-plasmin inhibitor [Ho...    87  3e-16
+SEQ gi|7498711|pir||T20649 hypothetical protein F09C6.4 - Caenorhabd...    87  3e-16
+SEQ gi|555731|gb|AAA50230.1| (U11023) serpin [Schistosoma japonicum]       87  4e-16
+SEQ gi|7461015|pir||T28460 hypothetical protein C2L - variola major ...    87  4e-16
+SEQ gi|134829|sp|P18384|SPI3_VACCV SERINE PROTEINASE INHIBITOR 3 >gi...    86  5e-16
+SEQ gi|885820|gb|AAA69433.1| (U18340) C2L [Variola virus]                  86  1e-15
+SEQ gi|7297327|gb|AAF52588.1| (AE003619) CG7219 gene product [Drosop...    85  2e-15
+SEQ gi|161125|gb|AAA19730.1| (M99562) serine protease inhibitor [Sch...    84  2e-15
+SEQ gi|9791147|ref|NP_063874.1| B14R; putative [Vaccinia virus] >gi|...    84  3e-15
+SEQ gi|9634592|ref|NP_038130.1| TB14R [Vaccinia virus (strain Tian T...    82  1e-14
+SEQ gi|2145124|gb|AAB58420.1| (U67964) H14-B [Ectromelia virus] >gi|...    82  1e-14
+SEQ gi|7245933|pdb|1QMB|B Chain B, Cleaved Alpha-1-Antitrypsin Polymer     82  1e-14
+SEQ gi|7546269|pdb|1D5S|B Chain B, Crystal Structure Of Cleaved Anti...    82  1e-14
+SEQ gi|2623846|gb|AAB86571.1| (AF030970) unknown [Schistosoma mansoni]     81  3e-14
+SEQ gi|1083827|pir||S49162 ZG-21p protein - rat >gi|510194|emb|CAA83...    80  5e-14
+SEQ gi|7304253|gb|AAF59287.1| (AE003842) CG1865 gene product [Drosop...    80  5e-14
+SEQ gi|3695073|gb|AAC62632.1| (AF074325) putative plasminogen activa...    79  7e-14
+SEQ gi|6002110|emb|CAB56696.1| (AJ245443) serpin, putative [Drosophi...    79  1e-13
+SEQ gi|7438226|pir||T02362 hypothetical protein T8F5.17 - Arabidopsi...    78  1e-13
+SEQ gi|13646646|ref|XP_008742.3| serine (or cysteine) proteinase inh...    78  3e-13
+SEQ gi|7499505|pir||T16120 hypothetical protein F20D6.3 - Caenorhabd...    77  4e-13
+SEQ gi|2104737|gb|AAB57813.1| (U96701) serine proteinase inhibitor m...    77  5e-13
+SEQ gi|8574449|dbj|BAA96790.1| (AB044780) rheumatoid arthritis-relat...    76  7e-13
+SEQ gi|4868129|gb|AAD31175.1| (AF118560) barley protein Z homolog [A...    76  9e-13
+SEQ gi|2226380|gb|AAB61755.1| (AF006495) antithrombin III [Cyprinus ...    76  1e-12
+SEQ gi|257063|gb|AAB23548.1| alpha 1-antitrypsin, SPAAT {N-terminal ...    76  1e-12
+SEQ gi|7495289|pir||T25503 hypothetical protein C03G6.18 - Caenorhab...    74  2e-12
+SEQ gi|11514322|pdb|1EZX|B Chain B, Crystal Structure Of A Serpin:pr...    74  4e-12
+SEQ gi|13633623|ref|XP_007484.2| protein Z-dependent protease inhibi...    74  4e-12
+SEQ gi|431341|gb|AAA29331.1| (L20796) serine protease inhibitor [Man...    73  9e-12
+SEQ gi|262837|gb|AAB24771.1| cancer-associated SCM-recognition immun...    72  1e-11
+SEQ gi|6692103|gb|AAF24568.1|AC007764_10 (AC007764) F22C12.22 [Arabi...    72  2e-11
+SEQ gi|10121743|gb|AAG13351.1|AF266231_1 (AF266231) putative serum t...    71  3e-11
+SEQ gi|2160141|gb|AAB60763.1| (AC000375) Strong similarity to Tritic...    70  4e-11
+SEQ gi|1174421|sp|Q08519|SPI1_SPVKA PUTATIVE SERINE PROTEASE INHIBIT...    69  7e-11
+SEQ gi|2104739|gb|AAB57814.1| (U96702) serine proteinase inhibitor m...    69  8e-11
+SEQ gi|11078283|gb|AAG29056.1|AF188487_1 (AF188487) angiotensinogen ...    69  1e-10
+SEQ gi|2144576|pir||ANHU angiotensin precursor - human                     68  2e-10
+SEQ gi|11118375|gb|AAG30306.1|AF193461_1 (AF193461) angiotensinogen ...    68  2e-10
+SEQ gi|4557287|ref|NP_000020.1| angiotensinogen precursor; angiotens...    68  2e-10
+SEQ gi|2136706|pir||S66290 alpha 1 antichymotrypsin - bovine (fragme...    68  2e-10
+SEQ gi|532198|gb|AAA51679.1| (M24689) angiotensinogen [Homo sapiens]       68  2e-10
+SEQ gi|6687186|emb|CAB64880.1| (AJ132343) angiotensinogen [Callithri...    68  2e-10
+SEQ gi|3608130|gb|AAC36163.1| (AC005314) putative serpin [Arabidopsi...    67  5e-10
+SEQ gi|113882|sp|P01015|ANGT_RAT ANGIOTENSINOGEN PRECURSOR [CONTAINS...    66  6e-10
+SEQ gi|553208|gb|AAA51849.1| (M13203) C1 inhibitor [Homo sapiens]          66  7e-10
+SEQ gi|11078286|gb|AAG29057.1|AF188488_1 (AF188488) angiotensinogen ...    66  7e-10
+SEQ gi|763101|emb|CAA23685.1| (V00387) seventh exon [Gallus gallus]        66  1e-09
+SEQ gi|1703309|sp|P20757|ANGT_SHEEP ANGIOTENSINOGEN PRECURSOR [CONTA...    64  2e-09
+SEQ gi|177823|gb|AAB59370.1| (J00067) alpha-1 antitrypsin [Homo sapi...    64  4e-09
+SEQ gi|2094884|emb|CAA72915.1| (Y12232) serine protease inhibitor-li...    64  4e-09
+SEQ gi|177816|gb|AAA51545.1| (M26123) alpha-1-antitrypsin (alpha-1-A...    63  5e-09
+SEQ gi|2094882|emb|CAA72914.1| (Y12231) serine protease inhibitor-li...    63  6e-09
+SEQ gi|627863|pir||A61450 corticosteroid-binding globulin - mouse (f...    63  7e-09
+SEQ gi|242145|gb|AAB20850.1| HP-55=55kda hibernation protein [chipmu...    63  9e-09
+SEQ gi|6680670|ref|NP_031454.1| angiotensinogen [Mus musculus] >gi|1...    62  1e-08
+SEQ gi|68748|pir||DXBHZ protein Z - barley (fragment) >gi|19079|emb|...    62  1e-08
+SEQ gi|224339|prf||1102202A protein Z [Hordeum vulgare var. distichum]     62  1e-08
+SEQ gi|7301970|gb|AAF57075.1| (AE003775) CG1342 gene product [Drosop...    61  2e-08
+SEQ gi|13641976|ref|XP_004385.2| serine (or cysteine) proteinase inh...    61  2e-08
+SEQ gi|9634714|ref|NP_039007.1| ORF FPV044 Serpin gene family protei...    61  3e-08
+SEQ gi|227258|prf||1617172B protease inhibitor 2 [Mus musculus]            60  4e-08
+SEQ gi|114299|sp|P14369|AT3H_FOWPM ANTITHROMBIN-III HOMOLOG >gi|6875...    60  4e-08
+SEQ gi|2134379|pir||I50605 ovalbumin, three intron fragment - chicke...    59  1e-07
+SEQ gi|930005|emb|CAA37094.1| (X52906) partial PAI-1 (AA 153-235) [B...    59  1e-07
+SEQ gi|13436314|gb|AAH04948.1|AAH04948 (BC004948) Unknown (protein f...    59  1e-07
+SEQ gi|7297601|gb|AAF52854.1| (AE003627) CG4804 gene product [Drosop...    59  1e-07
+SEQ gi|9634921|ref|NP_039214.1| ORF FPV251 Serpin gene family protei...    58  1e-07
+SEQ gi|3608129|gb|AAC36162.1| (AC005314) putative serpin [Arabidopsi...    58  2e-07
+SEQ gi|6708304|gb|AAF25881.1|AF210380_1 (AF210380) nexin [Bos taurus]      58  2e-07
+SEQ gi|262839|gb|AAB24773.1| cancer-associated SCM-recognition immun...    58  3e-07
+SEQ gi|227257|prf||1617172A protease inhibitor 1 [Mus musculus]            58  3e-07
+SEQ gi|262841|gb|AAB24775.1| cancer-associated SCM-recognition immun...    57  4e-07
+SEQ gi|262840|gb|AAB24774.1| cancer-associated SCM-recognition immun...    56  7e-07
+SEQ gi|6635471|gb|AAF19834.1|AF203339_1 (AF203339) immune-responsive...    56  1e-06
+SEQ gi|12849138|dbj|BAB28223.1| (AK012411) putative [Mus musculus]         55  1e-06
+SEQ gi|262838|gb|AAB24772.1| cancer-associated SCM-recognition immun...    55  2e-06
+SEQ gi|1091878|prf||2022178A angiotensinogen [Ovis aries]                  54  2e-06
+SEQ gi|3608131|gb|AAC36164.1| (AC005314) putative serpin [Arabidopsi...    54  2e-06
+SEQ gi|3982743|gb|AAC95004.1| (AF069712) plasminogen activator inhib...    54  4e-06
+SEQ gi|4263819|gb|AAD15462.1| (AC006067) putative serpin [Arabidopsi...    53  6e-06
+SEQ gi|227260|prf||1617172D protease inhibitor 4 [Mus musculus]            53  7e-06
+SEQ gi|242147|gb|AAB20852.1| HP-55=55kda hibernation protein [chipmu...    53  8e-06
+SEQ gi|227261|prf||1617172E protease inhibitor 5 [Mus musculus]            52  1e-05
+SEQ gi|242144|gb|AAB20849.1| HP-55=55kda hibernation protein [chipmu...    52  1e-05
+SEQ gi|540668|pir||S41973 serine proteinase inhibitor serpin - fowlp...    52  1e-05
+SEQ gi|7304252|gb|AAF59286.1| (AE003842) CG1859 gene product [Drosop...    52  1e-05
+SEQ gi|14192835|dbj|BAB55877.1| (AB062096) complement C1 inhibitor [...    52  1e-05
+SEQ gi|2094880|emb|CAA72913.1| (Y12230) serine protease inhibitor-li...    51  3e-05
+SEQ gi|6692102|gb|AAF24567.1|AC007764_9 (AC007764) F22C12.21 [Arabid...    51  3e-05
+SEQ gi|227259|prf||1617172C protease inhibitor 3 [Mus musculus]            50  6e-05
+SEQ gi|897844|gb|AAA86316.1| (U19568) squamous cell carcinoma antige...    49  7e-05
+SEQ gi|14245696|dbj|BAB56140.1| (AB028052) serine proteinase inhibit...    49  7e-05
+SEQ gi|7302821|gb|AAF57895.1| (AE003804) CG10956 gene product [Droso...    49  9e-05
+SEQ gi|2895605|gb|AAC02994.1| (AF043997) serpin [Schistosoma japonicum]    48  2e-04
+SEQ gi|584689|sp||A1A1_HORSE_2 [Segment 2 of 2] ALPHA-1-ANTIPROTEINA...    48  3e-04
+SEQ gi|2305210|gb|AAB65744.1| (AF009825) serpin precursor [Brugia ma...    47  3e-04
+SEQ gi|539721|pir||A61219 serpin Spi 1 - horse (fragments)                 47  3e-04
+SEQ gi|539722|pir||B61219 serpin Spi 2 - horse (fragments)                 47  4e-04
+SEQ gi|584692|sp||A1A2_HORSE_2 [Segment 2 of 2] ALPHA-1-ANTIPROTEINA...    47  4e-04
+SEQ gi|12858644|dbj|BAB31393.1| (AK018763) putative [Mus musculus]         47  4e-04
+SEQ 
+## SEQUENCE PROFILE AND ENTROPY
+ SeqNo PDBNo   V   L   I   M   F   W   Y   G   A   P   S   T   C   H   R   K   Q   E   N   D  NOCC NDEL NINS ENTROPY RELENT WEIGHT
+    1    1     0   0   0   0  77   0  23   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.536     17  0.00
+    2    2     0   0   0   0   0   0   0   0   0   0   6   0   0  37   4   0   0   0  51   2     0    0    0   1.098     36  0.00
+    3    3     0   0   0   0   0   0   0   0   0   1  10   1   0   0  17  53  10   8   0   0     0    0    0   1.391     46  0.00
+    4    4     7  34  54   4   0   0   0   0   0   1   1   0   0   0   0   0   0   0   0   0     0    0    0   1.095     36  0.00
+    5    5     0   1   0   0   1   0   0   0  45   4  22  23   0   0   0   0   0   2   1   1     0    0    0   1.406     46  0.00
+    6    6     1   1   1   1   0   0   1   1  13  44   6   7   0   0   6   4   2   9   4   0     0    0    0   1.939     64  0.00
+    7    7     2   0   1   0   1   0   2   5  25   1  15   5   0   6   1   1   0   2  34   2     0    0    0   1.938     64  0.00
+    8    8    10  48   9   3   0   0   2   0   1   1   4   2   0   1   0   0   1   1  17   1     0    0    0   1.745     58  0.00
+    9    9     5   1   0   2   0   0   0   5  46   0  21   9   1   0   1   3   0   0   1   0     0    0    0   1.741     58  0.00
+   10   10     0   2   0   0   0   0   1   1   2   0   0   0   0   4   5   7   9  20   8  41     0    0    0   1.860     62  0.00
+   11   11     1   3   1   0  92   1   1   0   0   0   0   1   0   0   0   0   0   0   0   0     0    0    0   0.431     14  0.00
+   12   12     1   0   0   2   0   0   0  15  55   0   9  13   3   0   0   0   0   0   0   1     0    0    0   1.393     46  0.00
+   13   13    13  15   7   2  41   0   4   0   7   0   1   6   0   1   1   1   1   0   0   1     0    0    0   1.937     64  0.00
+   14   14     0   0   1   0   0   0   0   1   3   0  30   4   0   2   8   6   5   5  12  22     0    0    0   2.070     69  0.00
+   15   15    10  65   8   8   7   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.148     38  0.00
+   16   16     0   8   0   0  33   0  56   0   1   0   0   1   1   1   0   0   0   0   0   0     0    0    0   1.097     36  0.00
+   17   17     0   1   0   0   0   0   1   2   0   0   6   1   0   4  33  30  16   1   6   0     0    0    0   1.717     57  0.00
+   18   18     7   6   2   2   0   0   0   0  10   0   1   3   0   9   4   8  23  22   3   1     0    0    0   2.224     74  0.00
+   19   19    14  59  13   3   5   0   0   0   0   0   1   0   0   0   3   0   0   0   0   0     0    0    0   1.316     43  0.00
+   20   20    16   3   5   0   0   0   1   2  41   1  11   3   3   0   2   5   2   1   3   1     0    0    0   2.031     67  0.00
+   21   21     5  13   1   2   0   0   0   2   5   1  13   2   0  13   5  14   9   7   2   7     0    0    0   2.494     83  0.00
+   22   22     0   3   0   1   0   0   0   2  13   0  16   4   0   2   4  19  17  10   3   5     0    0    0   2.291     76  0.00
+   23   23     1   0   0   3   0   0   2   3   9   2  32   4   0   6   2   5   4   2  19   5     0    0    0   2.262     75  0.00
+   24   24     2   2   0   0   0   0   0   2   9  33   4   4   0   2   1  11   1   5  22   3     0    0    0   2.041     68  0.00
+   25   25     2   1   0   0   0   0   0  13   5   0  13  17   1   2   1   3   1   5   8  26     0    0    0   2.199     73  0.00
+   26   26     0   1   0   0   0   0   0   8   1   1  11  16   0   0   5  17  10  18   6   6     0    0    0   2.229     74  0.00
+   27   27     0   0   0   0   0   0   0   1   0   0   4   0   0   0   0   0   0   0  94   1     0    0    0   0.330     11  0.00
+   28   28    36   6  48   3   3   0   0   0   1   0   0   1   0   0   0   0   0   0   0   0     0    0    0   1.288     42  0.00
+   29   29    26  15  11   0  42   0   0   0   3   0   0   0   1   0   0   0   0   0   0   0     0    0    0   1.462     48  0.00
+   30   30     4  17  16   1  53   0   6   0   1   0   1   0   1   0   0   0   0   0   0   0     0    0    0   1.428     47  0.00
+   31   31     0   0   0   0   0   0   0   0   2   0  96   0   2   0   0   0   0   0   0   0     0    0    0   0.213      7  0.00
+   32   32     0   0   0   0   0   0   0   0   4  94   1   0   0   0   0   0   0   0   0   0     0    0    0   0.273      9  0.00
+   33   33    29  29   7   4  15   2   5   0   5   1   0   2   0   1   0   0   0   0   0   0     0    0    0   1.902     63  0.00
+   34   34     2   1   0   0   0   0   0  14   4   0  74   2   1   0   0   0   0   0   0   0     0    0    0   0.940     31  0.00
+   35   35    22   6  64   2   0   0   3   0   1   0   0   2   0   0   0   0   0   0   0   0     0    0    0   1.109     37  0.00
+   36   36     0  10   1   2   3   0   2   0  27   0  38   5   0   3   1   0   2   2   2   0     0    0    0   1.899     63  0.00
+   37   37     4   7   3   6   4   0   0   2  11   4  28  29   1   1   0   0   0   0   1   0     0    0    0   2.008     67  0.00
+   38   38     9   5   2   0   0   0   0   1  58   4  11   8   2   0   0   0   0   0   0   0     0    0    0   1.456     48  0.00
+   39   39     0  71   2  10  15   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.915     30  0.00
+   40   40     2   1   0   0   3   0   0  15  51   0  18   7   0   0   0   0   0   0   0   0     0    0    0   1.477     49  0.00
+   41   41     2  17  11  51   4   0   0   0   3   0   2   2   0   1   0   0   6   0   0   0     0    0    0   1.640     54  0.00
+   42   42    22  53   7   2   1   0   0   0   7   0   2   4   0   0   0   0   0   0   0   0     0    0    0   1.451     48  0.00
+   43   43     0  11   1   1   4   0  12   0  11   0  36   2   0   3   2   4   8   2   2   0     0    0    0   2.087     69  0.00
+   44   44     4  70   1   5   2   0   3   1   6   0   1   1   0   3   0   0   0   2   0   0     0    0    0   1.279     42  0.00
+   45   45     0   0   0   0   0   0   0  84   7   2   1   4   0   0   0   0   0   0   0   0     0    0    0   0.667     22  0.00
+   46   46     1   2   0   0   0   0   0   2  64   0  14  15   0   0   0   0   0   0   0   0     0    0    0   1.135     37  0.00
+   47   47     4   2   0   0   0   0   0  11   5   0   5   2   7   3   9  35   4   5   4   4     0    0    0   2.220     74  0.00
+   48   48     0   0   0   0   0   0   0  58   9   0   8   0   1   1   0   0   2   2   9   9     0    0    0   1.487     49  0.00
+   49   49     2   0   0   0   0   0   1   1   4   2  19   6   0   4   5   6   3  14  15  18     0    0    0   2.279     76  0.00
+   50   50     0   0   0   0   0   0   0   0   2   0   7  88   0   0   0   0   0   0   0   0     0    0    0   0.533     17  0.00
+   51   51     0  13   0   3   1   0   0   0  24   0   2   0   0  17  13  10   8   8   0   0     0    0    0   2.088     69  0.00
+   52   52     2   0   2   1   0   0   1   0   5   0  11  20   0   1   3   7  12  17   2  14     0    0    0   2.271     75  0.00
+   53   53     1   0   2   0   0   0   0   0   0   0   1   0   0   0   2   0  56  34   2   0     0    0    0   1.112     37  0.00
+   54   54     5  33  51   7   0   0   0   0   3   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.216     40  0.00
+   55   55     3  40   3   5   0   0   1   1   6   0   8   0   0   5   7   5   8   4   2   2     0    0    0   2.207     73  0.00
+   56   56     0   1   0   1   0   0   0   0   9   0   8   1   0   2   9  22   8  33   2   3     0    0    0   2.007     66  0.00
+   57   57    23   1   5   0   3   0   1  30  20   0   4   9   0   0   0   0   0   0   2   1     0    0    0   1.910     63  0.00
+   58   58     4  75   2  11   6   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.974     32  0.00
+   59   59     0   0   0   0   0   0   4  23   1   0   6   0   0  11   8  15   6   5  13   6     0    0    0   2.290     76  0.00
+   60   60     3  13   1   1  53   0  10   1   2   0   4   1   0   0   0   3   0   2   1   4     0    0    0   1.751     58  0.00
+   61   61     1   1   0   0   1   0   1   7   1   5   6   1   0   0   5   4   2   2  48  17     0    0    0   1.827     60  0.00
+   62   62    11  41   6   1   2   1   0   2   5   1   9   5   2   1   1   7   1   4   1   1     0    0    0   2.154     71  0.00
+   63   63     4   2   6   0   1   0   0   4   3   2  14  43   0   0   2   4   4   4   4   3     0    0    0   2.064     68  0.00
+   64   64     0   0   0   0   2   0   0   5   2   0   8   2   0   0   1  16   6  39   3  13     0    0    0   1.994     66  0.00
+   65   65     5  16  16   5   1   0   3   2   4   1   7  15   1   1   4   8   1   1   5   6     0    0    0   2.524     84  0.00
+   66   66     5   5   2   0   0   0   0   6  10  25  13  11   1   0   2   7   1   2   2   6     0    0    0   2.372     79  0.00
+   67   67     4   2   1   1   4   0   0   2   3   3   6   2   0   2   1   2   3  40   2  20     0    0    0   2.102     70  0.00
+   68   68     2   1   0   0   0   0   0   6  41   2   5   4   0   2   0   8   2  10   3   9     0    0    0   2.119     70  0.00
+   69   69     1   2   0   0   1   0   1   6   3   0   1   4   0   3   1   7  21  24   4  22     0    0    0   2.119     70  0.00
+   70   70    19  13  46   5   1   0   0   0   5   1   1   0   0   0   0   0   1   3   1   2     0    0    0   1.746     58  0.00
+   71   71     1   5   0   0   3   0   1   1   9   1   2   1   0  57   4   2   3   3   6   2     0    0    0   1.765     58  0.00
+   72   72     0   1   0   0   5   0   0   2   4   6  13   3   0   4   7   7  22  12   4   8     0    0    0   2.446     81  0.00
+   73   73     4   3   1   1   6   0   1  37  11   0  12   4   2   3   3   2   5   1   1   1     0    0    0   2.221     74  0.00
+   74   74     8  15   2   1  58   0   9   1   0   0   1   1   0   0   0   2   0   0   0   1     0    0    0   1.428     47  0.00
+   75   75     3   1   1   0   1   0   1   9   6   1   6   3   0   3  17   9  35   3   0   2     0    0    0   2.160     72  0.00
+   76   76     1   1   0   0   2   0   2   3   5   1   8   2   0  21   2  14   6  19   6   6     0    0    0   2.362     78  0.00
+   77   77    10  68   8   1   4   0   1   1   1   0   0   1   0   0   1   2   0   0   2   1     0    0    0   1.303     43  0.00
+   78   78     3  53   7   2   3   0   4   0   1   1   8   3   5   2   0   1   0   1   5   0     0    0    0   1.879     62  0.00
+   79   79     2   2   0   0   0   0   1   0   8   0  15   7   2  10  16   8  13   3   5   5     0    0    0   2.451     81  0.00
+   80   80     1   8   1   4   0   0   1   3   8   0   9  23   1   1   8   5   4  14   1   7     0    0    0   2.476     82  0.00
+   81   81    12  51  11   1   4   0   6   1   4   0   1   1   1   0   1   0   2   0   1   2     0    0    0   1.805     60  0.00
+   82   82     2   2   1   5   2   0   1   4   5   0  13   8   1   1   7   4   3   3  37   3     0    0    0   2.275     75  0.00
+   83   83     1   1   0   1   2   0   1   8   9   0   9   2   0   1  13  24  19   4   2   3     0    0    0   2.269     75  0.00
+   84   84     2   5   2   1   0   0   0   1  11  39  14   5   1   0   5   3   2   3   2   4     0    0    0   2.158     72  0.00
+   85   85     1   1   0   0   1   4   0   8   3   1   9   6   0   2   4  10   3  10  16  20     0    0    0   2.421     80  0.00
+   86   86     2   0   1   0   2   0   1   7   5   1  20  10   0   1   4  14   2   2  12  15     0    0    0   2.369     79  0.00
+   87   87     3   0   0   0   2   0   0  14   4   4  11   3   2   0   1   7  23  13   5   7     0    0    0   2.365     78  0.00
+   88   88    12  28   6   1   3   0  18   1   6   3   5   3   0   2   0   5   0   0   1   6     0    0    0   2.275     75  0.00
+   89   89     2   4   4   0   0   0   0   2   2   1   7  11   0   1   3   9  24  20   3   6     0    0    0   2.335     77  0.00
+   90   90     8  61  12   4   8   2   2   0   0   0   1   1   0   0   0   0   0   0   0   0     0    0    0   1.401     46  0.00
+   91   91     4   1   1   0   0   0   1   0   7   0  20  20   0   1  10  21   2   2   9   0     0    0    0   2.109     70  0.00
+   92   92     8  15  12  11   2   0   2   0   4   0  16  26   0   1   1   0   1   1   0   0     0    0    0   2.114     70  0.00
+   93   93     9   0   1   2   0   0   0  31  46   0   2   6   0   0   0   1   0   0   0   0     0    0    0   1.477     49  0.00
+   94   94     3   0   0   0   0   0   0   0   2   0  20   2   0   0   0   1   0   0  63   7     0    0    0   1.194     39  0.00
+   95   95     1   2   1   0   1   0   0  22  22   0   4   1   0   1  25  17   2   0   1   2     0    0    0   1.921     64  0.00
+   96   96    13  50  24   7   2   0   0   0   1   0   0   2   0   0   0   0   0   0   0   0     0    0    0   1.365     45  0.00
+   97   97     4   2   1   0  59   3  31   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.051     35  0.00
+   98   98    29  13  17   1   4   0   0  19   3   0   1   7   2   2   0   0   2   0   0   0     0    0    0   1.996     66  0.00
+   99   99     0   1   0   2   0   0   0   2   8   2  13   0   0   3   5   5  11  18   9  20     0    0    0   2.290     76  0.00
+  100  100     0   2   0   0   0   1   2   0   3   5   4   0   0   2   8  36   7  16   8   6     0    0    0   2.101     70  0.00
+  101  101     2   0   0   0   1   0   0  20   1   0  24  11   0   2   3   6   8   4   8  11     0    0    0   2.185     72  0.00
+  102  102     5  49   6   1  13   0  13   1   5   0   1   0   2   0   0   0   2   0   0   0     0    0    0   1.742     58  0.00
+  103  103     2   2   1   1   0   0   1   1   5  10   9   6   0   5   5  23   7  13   5   4     0    0    0   2.485     82  0.00
+  104  104    11  39  20   1  24   0   0   0   0   3   0   1   0   0   0   0   0   0   0   0     0    0    0   1.572     52  0.00
+  105  105    18  24   1   0   0   0   0   0   3   0   2   1   0   4   6  21   4   4  10   2     0    0    0   2.126     70  0.00
+  106  106     1   1   0   0   0   0   0   1   9  11   7   2   0   2   1   4  13  17   3  27     0    0    0   2.151     71  0.00
+  107  107     0   1   0   1   0   0   0   5   2   4  18  12   0   1   4  18   2  17   4  12     0    0    0   2.224     74  0.00
+  108  108     0   1   0   0  75   0  20   0   0   0   1   2   0   0   0   0   0   0   0   0     0    0    0   0.766     25  0.00
+  109  109    14  36   3   5   1   0   0   0   5   0   3   4   0   1   3   8  10   2   4   1     0    0    0   2.193     73  0.00
+  110  110     2   1   0   0   0   0   0   1  12   4   4   2   0   2   6   5  14  30   6  13     0    0    0   2.206     73  0.00
+  111  111     6   8   6   3   0   0   2   3   8   3  10   1   5   3   2  12   2   5   3  20     0    0    0   2.608     87  0.00
+  112  112    21  10  16   4   6   0   0   0  14   0  16   8   3   0   0   0   0   0   2   0     0    0    0   2.128     71  0.00
+  113  113     3   2   0   0   4   0   1   3   2   0   3   1   0   1  16  44   7  13   1   0     0    0    0   1.867     62  0.00
+  114  114     1   2   0   1   0   0   0   1   7   3   4   7   2   3  10  22   4   8  11  13     0    0    0   2.450     81  0.00
+  115  115    10  37   1   1   8   0  11   0   0   1   9   1   0   5   2   3   2   0   3   4     0    0    0   2.151     71  0.00
+  116  116     0   1   0   0  30   0  67   0   0   0   0   0   0   1   0   0   0   0   0   0     0    0    0   0.791     26  0.00
+  117  117     0   3   0   1   3   0   3  19   3   0   3   2   0  13   7   7  19   5   9   3     0    0    0   2.405     80  0.00
+  118  118     1   1   0   0   0   0   1   3  35   2  37  12   3   0   0   1   3   0   0   0     0    0    0   1.646     54  0.00
+  119  119     2   1   0   0   0   0   0   4   6   0   7   5   0   0   3  10   3  51   1   7     0    0    0   1.797     59  0.00
+  120  120    25  17   2   2   1   0   1   1  31   9   1   5   1   3   0   0   0   0   0   1     0    0    0   1.900     63  0.00
+  121  121     3   6   0   1  28   0   3   0   3   0   5   1   0   0   7   8  17  15   3   1     0    0    0   2.202     73  0.00
+  122  122     5   3   3   1   0   0   0   0   9  14  22  15   0   2   4   5   7   3   6   0     0    0    0   2.380     79  0.00
+  123  123    44  20  11   1   0   0   0   0   7   0   0  14   0   0   1   0   0   0   0   0     0    0    0   1.553     51  0.00
+  124  124     0   0   0   0   0   0   0   1   0   1   5   4   0   0   0   0   0   0  33  55     0    0    0   1.122     37  0.00
+  125  125     0   3   1   0  95   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.300     10  0.00
+  126  126     5   2   0   0   0   0   1  12   8   1  16  11   0   2   8   8  13   3   6   3     0    0    0   2.465     82  0.00
+  127  127     0   0   0   0   0   0   0   0   2   0   1   3   0   2   0  13   8  12  23  35     0    0    0   1.837     61  0.00
+  128  128     6   2   1   1   0   2   0   1  22  17  19  11   3   0   3   6   2   1   4   0     0    0    0   2.277     76  0.00
+  129  129     7   2   0   0   0   0   0   0  11   2   3   5   0   0  11   4   1  38   8   7     0    0    0   2.070     69  0.00
+  130  130     4   3   1   0   2   0   0   3  12   0   4   4   0   0   6   4  12  35   2   6     0    0    0   2.202     73  0.00
+  131  131     8   1   4   0   0   0   0   0  60   0  11   8   1   0   0   0   0   0   2   4     0    0    0   1.421     47  0.00
+  132  132     5   9   2   1   0   0   0   1  18   0   4   3   1   0  24  25   2   2   0   2     0    0    0   2.076     69  0.00
+  133  133     1   2   0   0   4   0   0   6   8   0   2   2   0   1   3  35  13  14   5   4     0    0    0   2.158     72  0.00
+  134  134     4  16   7   1   2   0   1   0  10   0   5   5   0   3   1  13  18  10   2   2     0    0    0   2.450     81  0.00
+  135  135     8   1  90   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.401     13  0.00
+  136  136     0   0   0   0   0   0   0   0   0   0   2   0   0   0   0   0   0   0  95   2     0    0    0   0.260      8  0.00
+  137  137     0   0   0   0   1   0   0   1   4   0  19   7   0   1   5  13   5   9   9  25     0    0    0   2.162     72  0.00
+  138  138     0   0   2   0   9  54  24   0   1   0   1   0   2   5   0   0   0   0   0   0     0    0    0   1.391     46  0.00
+  139  139    82   0   9   2   0   0   0   0   5   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.688     22  0.00
+  140  140     0   2   0   1   0   0   0   1  12   0  14   0   0   0   1  20   5  37   2   4     0    0    0   1.846     61  0.00
+  141  141     1   0   2   0   0   0   0   1   6   0   7   8   0   1   6  27   6   9  18   7     0    0    0   2.252     75  0.00
+  142  142     4   3   1   3   2   0   1  14   3   0   1   4   0   8   5  16  25   4   6   0     0    0    0   2.342     78  0.00
+  143  143     0   0   0   3   0   0   0   0   0   0   5  92   0   0   0   0   0   0   0   0     0    0    0   0.366     12  0.00
+  144  144     0   0   0   0   0   0   0   6   0   0   2   1   0   4   7  16  19  14  25   5     0    0    0   2.058     68  0.00
+  145  145     0   0   0   2   0   3   0  73   0   0   1   0   0   2   1   1   0   3  11   2     0    0    0   1.125     37  0.00
+  146  146     0  10   1   7   0   0   0   0   0   0   3   0   0   3   9  62   2   1   1   0     0    0    0   1.427     47  0.00
+  147  147     4   6  83   1   1   0   0   0   0   0   0   1   0   0   0   0   0   0   2   0     0    0    0   0.748     24  0.00
+  148  148    21   1   0   0   0   0   0   2   6   8   6   9   0   0   6  24   3   5   7   1     0    0    0   2.243     74  0.00
+  149  149     2   1   0   0   0   0   0   3   0   2   4   1   1   2   6   4   1  19  17  38     0    0    0   1.933     64  0.00
+  150  150    10  61   8   4   3   0   0   0   4   2   4   1   0   0   0   0   0   0   0   2     0    0    0   1.454     48  0.00
+  151  151    26  36  19   1   9   0   0   0   0   0   3   6   0   0   0   0   0   0   0   0     0    0    0   1.588     52  0.00
+  152  152     1   0   0   1   0   0   0   5   3  11  18  10   0   0   3  24   6   5   3  11     0    0    0   2.267     75  0.00
+  153  153     1   0   0   2   0   0   1   4  11   4  19   1   0   1   1   5   2  25   4  19     0    0    0   2.159     72  0.00
+  154  154    17  50  16   3   2   0   0   1   3   1   1   1   0   0   0   0   0   1   1   2     0    0    0   1.628     54  0.00
+  155  155     1   1   0   0   0   0   0   3   1  11  15   2   0   0   0   4   0   5   9  48     0    0    0   1.748     58  0.00
+  156  156     3   1   4   0   2   0   0   1   4  13  22   2   0   0  10   5   6  15   6   5     0    0    0   2.427     81  0.00
+  157  157     0   9   0   2   1   0   0   2   5   1   6   9   0   0   5   0   6   6  13  33     0    0    0   2.213     73  0.00
+  158  158     2   3   3   0   0   0   0   1   6   0   7  72   0   1   0   0   1   0   1   2     0    0    0   1.175     39  0.00
+  159  159    24   7   4   4   0   1   1   3   4   0   8   5   2   0  21  10   2   1   1   0     0    0    0   2.343     78  0.00
+  160  160     4  45   4  22  10   2   0   1   6   0   4   1   0   0   0   0   0   0   0   0     0    0    0   1.673     55  0.00
+  161  161    46  16   9   2   2   0   0   0  20   0   1   4   1   0   0   0   0   0   0   0     0    0    0   1.571     52  0.00
+  162  162     5  78   8   2   3   0   0   0   3   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.884     29  0.00
+  163  163    66  11  10   0   1   0   0   2   4   0   0   2   0   0   0   0   0   0   2   0     0    0    0   1.218     40  0.00
+  164  164     0   0   0   0   0   0   0   3   1   0   7   2   0   0   0   0   0   0  85   1     0    0    0   0.632     21  0.00
+  165  165     4   0   1   1   0   0  33   1  48   0   1   6   2   1   0   0   0   0   0   0     0    0    0   1.402     46  0.00
+  166  166    20  14  57   3   1   0   0   0   5   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.260     42  0.00
+  167  167     1   5   0   0  22   0  56   0   1   0   1   0   1  11   0   0   0   0   0   0     0    0    0   1.316     43  0.00
+  168  168     0   4   0   1  95   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.263      8  0.00
+  169  169     1   0   0   0   0   0   0   0   0   0   3   1   0   1   4  78   5   1   5   0     0    0    0   0.922     30  0.00
+  170  170     1   0   0   0   0   0   0  73  21   2   1   0   0   0   0   0   0   0   0   1     0    0    0   0.825     27  0.00
+  171  171     0   7   2   5   2   0   1   0   5   0   7   7   0   3   2  36  14   1   4   2     0    0    0   2.204     73  0.00
+  172  172     0   1   0   2   0  96   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.194      6  0.00
+  173  173     5   5   0   1   0   0   0   0   3   0   2   3   0   1   3  37   9  23   2   6     0    0    0   1.994     66  0.00
+  174  174     4   1   3   5   0   0   7   1   0   0  11  16   0   4   9  15   3   6   8   5     0    0    0   2.538     84  0.00
+  175  175     1   0   1   0   0   0   0   2   4  43   4   3   0   0   2  27   9   2   1   0     0    0    0   1.699     56  0.00
+  176  176     0   0   0   0  99   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.070      2  0.00
+  177  177     4   1   1   2   0   0   1   0   2   7  10   0   0   3   3   6   3  13  12  31     0    0    0   2.254     75  0.00
+  178  178     9   5   2   0   0   0   0   0   4  33   5   4   0   4   1  22   0   6   0   4     0    0    0   2.087     69  0.00
+  179  179     0   2   0   1   0   0   2   1   2   1  12   3   0   4   6  16   5  34   6   3     0    0    0   2.171     72  0.00
+  180  180     0  13   0   5   4   0   3   3   4   0   8   0   0   5   6  11   2   3  14  18     0    0    0   2.476     82  0.00
+  181  181     4   0   1   1   0   0   0   1   1   0   1  89   0   0   0   0   0   0   2   0     0    0    0   0.521     17  0.00
+  182  182     1   1   1   6   7   0   4   2   0   0   9   7   0  11  16  13   6  13   0   2     0    0    0   2.492     83  0.00
+  183  183     1   7   2   2   0   0   0   1   2   5   1   5   1   1   3  11   6  29   8  13     0    0    0   2.346     78  0.00
+  184  184     0   1   1   4   2   0   5   2  10   1  14   2   1   2  15   4   6  22   1   8     0    0    0   2.415     80  0.00
+  185  185     1   8   1   0   1   0   1   3   0  16   7   3   0   0   3   7   0  14   6  28     0    0    0   2.230     74  0.00
+  186  186     0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.029      0  0.00
+  187  187     1   2   0   2   5   7  32   0   0   0   2   3   0  34   9   3   1   0   0   0     0    0    0   1.831     61  0.00
+  188  188    41  25   7   2   1   0   0   0   1   2   4   4   0   0   0  11   0   0   1   0     0    0    0   1.776     59  0.00
+  189  189     1   4   0   0   0   0   0   3   4   1  26  10   0   0   0   2   0   0  16  31     0    0    0   1.841     61  0.00
+  190  190     0   0   0   0   0   0   0   2   3   6   4   1   0   0   3  27   6  22   8  16     0    0    0   2.054     68  0.00
+  191  191     5   0   0   0   0   0   3  17   4   0  11  10   0   1   3  14   4   8  13   8     0    0    0   2.393     79  0.00
+  192  192     2   0   4   0   1   0   2   3   0   0  13  28   0   1  12  13   2  14   1   3     0    0    0   2.193     73  0.00
+  193  193     8   0   2   3   0   3   2   1   1   1  24  43   0   1   1   4   2   3   1   0     0    0    0   1.891     63  0.00
+  194  194    57   1  12   1   0   0   2   0   0   0   1   5   4   0   4  13   0   0   0   0     0    0    0   1.480     49  0.00
+  195  195     1   1   1   4   0   0   0   2   0  11  14   6   0   0  11  30  10   2   2   4     0    0    0   2.215     73  0.00
+  196  196    87   0   5   1   0   0   0   0   3   0   0   3   0   0   0   0   0   0   0   0     0    0    0   0.561     18  0.00
+  197  197     0   1   0   1   0   0   0   0   1  63   8   2   0   0   1   3  10   3   1   6     0    0    0   1.411     47  0.00
+  198  198     0   0   0  85   8   0   1   0   0   0   0   6   0   0   0   0   0   0   0   0     0    0    0   0.568     18  0.00
+  199  199     0   5   1  93   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.281      9  0.00
+  200  200     1   1   0   1   6   1  13   0   6   0  24   7   1   8   4  14   3   1  10   0     0    0    0   2.368     79  0.00
+  201  201     3  11   2   5   0   0   0   4   2   0   7   7   0   1  22   6  28   1   1   1     0    0    0   2.207     73  0.00
+  202  202     5  17   7   6   1   0   7   0   1   0   8  13   0   1   4   9   3  14   1   3     0    0    0   2.495     83  0.00
+  203  203     0   1   0   0   0   0   1  42   4   0   6   3   0   4   2   8   2   7  10  10     0    0    0   2.009     67  0.00
+  204  204     3  11   2  13   0   0   2   0   3   2   6   9   0   3   4  23   5   6   4   4     0    0    0   2.516     83  0.00
+  205  205     2  17   2   1  48   0  15   0   0   0   0   4   0   1   0   4   2   1   0   3     0    0    0   1.721     57  0.00
+  206  206     1   3   0   0   1   0   7   3   2   6   5  10   1   5   9   9   4   2  22  11     0    0    0   2.520     84  0.00
+  207  207    12   7  13   3   7   1  31   0   4   1   1   6   0   5   1   2   0   0   1   4     0    0    0   2.298     76  0.00
+  208  208     4   8   3   1   6   1   6   9  14   5   5   8   0   7   9   2   7   1   3   1     0    0    0   2.717     90  0.00
+  209  209     2   4   1   0   3   0  23   0   1   0  11   4   0  19  11   2   1  10   5   4     0    0    0   2.274     75  0.00
+  210  210    12   8  12   1  13   1   1   0   5   0   5   1  16   0   0   0   1   0   1  20     0    0    0   2.237     74  0.00
+  211  211     1   0   0   0   0   0   0   3   7   5  15   5   0   1  12  14   4  19   4  10     0    0    0   2.335     77  0.00
+  212  212     3   0   0   0   0   0   0   2   4   0   5  12   0   1   1   9   4  37   6  14     0    0    0   2.038     68  0.00
+  213  213     4  59   6   1   2   0   2   2   0   6   3   1   0   0   0   1   0   7   1   4     0    0    0   1.665     55  0.00
+  214  214     1   1   0   0   4   0   0   8   4   3  24   1   0   1   2  15   8   4   9  15     0    0    0   2.295     76  0.00
+  215  215     3   3   2   3   6   0   3  11  19   0  16   6  24   0   0   0   0   1   2   1     0    0    0   2.224     74  0.00
+  216  216     1   2   0   1   4  14   1   3   0   0  10  14   0   4   5  14  22   0   1   3     0    0    0   2.342     78  0.00
+  217  217    52   6  23   8   2   0   0   0   3   0   1   0   0   0   0   2   0   1   0   0     0    0    0   1.498     49  0.00
+  218  218    18  52  18   1   0   0   0   1   4   0   0   3   0   0   0   0   1   1   0   0     0    0    0   1.414     47  0.00
+  219  219     3  12   0   2   0   0   0   3   1   2   2   0   0   1   6   3  13  47   0   3     0    0    0   1.876     62  0.00
+  220  220     5  53   9  24   1   0   2   0   0   1   2   0   0   0   0   0   1   0   0   0     0    0    0   1.434     47  0.00
+  221  221     0   0   0   0   0   0   1   0   1  56   5   1   0   1   1  16   3   2   1  11     0    0    0   1.541     51  0.00
+  222  222     0   7   0   0  10   0  76   0   1   1   0   0   1   1   0   0   1   0   1   0     0    0    0   0.948     31  0.00
+  223  223     9  11   1   1   0   0   1   3   8   0   4  15   0   4   4  17   7  11   1   1     0    0    0   2.462     82  0.00
+  224  224     0   0   0   0   0   0   1  68   2   0   6   0   0   4   1   5   1   4   5   3     0    0    0   1.336     44  0.00
+  225  225     0   0   0   0   1   0   0   5   0   0   6   2   0   1   2   6   0   3  45  28     0    0    0   1.625     54  0.00
+  226  226     4   9   8   5   1   0   1   2  34   0   8  10   0   0   1   3   2   8   1   3     0    0    0   2.276     75  0.00
+  227  227     1   8   3   1   2   0   1   0   1   0  49  25   1   0   2   0   0   0   3   0     0    0    0   1.586     52  0.00
+  228  228     2   8   5  35   3   0   1   0  30   0  12   2   0   0   0   0   0   1   0   0     0    0    0   1.767     58  0.00
+  229  229    19  29  24  15   5   0   4   0   0   0   2   1   0   0   0   0   0   0   0   0     0    0    0   1.782     59  0.00
+  230  230    12  15  27   3  41   0   1   0   0   1   0   0   0   0   0   0   0   0   0   0     0    0    0   1.461     48  0.00
+  231  231    11  28  43   2  12   0   4   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.442     48  0.00
+  232  232     6  81   2   2   1   0   3   0   1   1   0   0   0   0   0   0   2   0   0   0     0    0    0   0.891     29  0.00
+  233  233     0   0   0   0   0   0   0   1   2  88   0   0   0   0   1   1   0   3   1   0     0    0    0   0.609     20  0.00
+  234  234     2   3   2   0   0   0   0   0   1   1   3   5   0   5   1  11   4   4  10  48     0    0    0   1.917     63  0.00
+  235  235     1   1   1   0   0   0   1   2   4   1   2   4   0   3   2  14  16  35   2  13     0    0    0   2.049     68  0.00
+  236  236     8   0   5   0   1   1   0  38   0   0  10   3   0   1   1   5   3   1   4  18     0    0    0   2.010     67  0.00
+  237  237     1   2   0   1   0   0   0  21   1   5   6   4   0   1   5  28   3   9   8   5     0    0    0   2.232     74  0.00
+  238  238     2  55  10  28   2   0   0   0   0   1   1   0   0   0   0   0   0   0   0   0     0    0    0   1.237     41  0.00
+  239  239     0   1   0   0   0   2   3   1   8   2  11  10   0   0   4   7  23  20   2   6     0    0    0   2.291     76  0.00
+  240  240     2   4   0   1   0   1   1   0  13   0   7   6   0  15   4  11  14   9   4   4     0    0    0   2.488     83  0.00
+  241  241    30  48  14   2   2   0   0   0   2   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.307     43  0.00
+  242  242     1   6   4   0   0   0   0   0   3   0   0   6   0   0   0   1   2  74   1   0     0    0    0   1.131     37  0.00
+  243  243     0   0   0   0   0   0   0   3  14   2   8   1   0   0   2  18  15  14  13   9     0    0    0   2.212     73  0.00
+  244  244     2   6   5   3   0   0   0   3   9   0  13  10   0   4   3  17   6  11   7   1     0    0    0   2.507     83  0.00
+  245  245     3  72  17   3   1   0   0   0   0   0   0   2   0   0   0   0   0   0   0   0     0    0    0   0.988     32  0.00
+  246  246     0   4   0   1   2   0   0   1   1   0  19  42   0   0   1   7   7   1   8   4     0    0    0   1.910     63  0.00
+  247  247     0   4   0   0   5   1   4   2  14  21   8   7   0   6   4   7   2   3   1   9     0    0    0   2.548     85  0.00
+  248  248     1   1   0   1   0   0   0   1   4   1   3   4   0   1   2  12   8  42   2  16     0    0    0   1.994     66  0.00
+  249  249     7  14  10   2   6   0   0   0   4   0   2  21   0   2   1  17   3   0   9   2     0    0    0   2.315     77  0.00
+  250  250     6  52  28   1   9   0   0   0   0   0   1   1   0   0   1   0   0   0   0   1     0    0    0   1.333     44  0.00
+  251  251     3   6   2   4   1   0   1   0   3   3  14  10   0   4  10  16   6   6   5   6     0    0    0   2.603     86  0.00
+  252  252     0   1   1   0   0   0   3   2   4   1   4   2   0   3  17  31   4  17   3   5     0    0    0   2.175     72  0.00
+  253  253     2   6   6   0  16  56   2   0   4   1   1   1   0   2   0   2   0   1   0   0     0    0    0   1.583     52  0.00
+  254  254     2  31   7   6   1   0   0   0   5   0   5  10   5   1   6   9   3   4   2   3     0    0    0   2.420     80  0.00
+  255  255     1   4   0   0   1   0   0   8   2   3  12   0   0   1   7  15   3  16   9  16     0    0    0   2.336     77  0.00
+  256  256     0   4   1   7   1   1   0   1   3   3  21   4   0   1   6  13   4   7  23   1     0    0    0   2.327     77  0.00
+  257  257     2  33   0  17   3   0   0   0   2   1   5   2   0   2  10   3   3  12   2   3     0    0    0   2.191     73  0.00
+  258  258     2   1   4   1   4   0   7   2   1   8   8  11   0   2   7  13   7  10   3   9     0    0    0   2.669     89  0.00
+  259  259     2   4   0   4   3   0   1   1   4   7   3  10   0   0  22  10   2  15   9   1     0    0    0   2.421     80  0.00
+  260  260     2   4   3   6   0   1   1   2   2   1   5  14   0   1  29  14   6   7   0   2     0    0    0   2.322     77  0.00
+  261  261     5   9  11   3   4   2   1   0   4   6  16   5   1   0   3   7   7  12   2   2     0    0    0   2.656     88  0.00
+  262  262    35   6  15   1   0   0   3   5  14   0   2   5   1   2   6   1   0   1   0   2     0    0    0   2.131     71  0.00
+  263  263     7   5   1   0   0   0   1   0   5   0   8   2   0   4   3   5   8  26  11  13     0    0    0   2.354     78  0.00
+  264  264    32  53  10   0   3   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.112     37  0.00
+  265  265     4   2   1   1   5   0  26   0   1   0   8  10   0  22   7   7   3   1   1   0     0    0    0   2.234     74  0.00
+  266  266     6  58  14  13   8   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.234     41  0.00
+  267  267     0   0   0   0   0   0   0   0   0  99   0   0   0   0   0   0   0   0   0   0     0    0    0   0.043      1  0.00
+  268  268     0   0   0   0   0   0   0   0   0   0   0   0   0   1  23  71   4   0   0   0     0    0    0   0.843     28  0.00
+  269  269     3  21   3   3  67   1   0   2   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.051     35  0.00
+  270  270     4   0   0   0   0   0   1   0   1   0  37   5   0   1   6  41   1   3   1   0     0    0    0   1.502     50  0.00
+  271  271    16  22  51   4   3   0   0   0   2   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.372     45  0.00
+  272  272     1   0   0   0   0   0   0   0   2   0  29  13   0   0   1   3   3  43   0   2     0    0    0   1.546     51  0.00
+  273  273     2   0   0   0   9   0   4  22   5   0   5  15   0   1   3   4   5  14   3   6     0    0    0   2.385     79  0.00
+  274  274     1   0   0   1   0   0   0   6   2   2  22  21   0   1   2   9   5  12   4  13     0    0    0   2.205     73  0.00
+  275  275     6   6   5   2   8   0  53   2   1   0   1   6   0   3   3   0   3   0   0   1     0    0    0   1.839     61  0.00
+  276  276     1   0   0   0   0   0   0   1   0   0   7   2   0   0   2   2   4  12  22  46     0    0    0   1.623     54  0.00
+  277  277     3  81   3   6   2   0   0   0   4   1   0   0   0   0   0   0   0   0   0   0     0    0    0   0.821     27  0.00
+  278  278    10   2   0   0   0   0   0   3   0   0   5   6   0   1   6  39   6  11   9   1     0    0    0   2.049     68  0.00
+  279  279     1   0   0   0   0   0   0   4   4   6  19   6   0   2   1  10   2  22   1  21     0    0    0   2.156     71  0.00
+  280  280    30  11  20   1   1   0   1   0   7   7   4   9   0   3   0   1   3   0   1   1     0    0    0   2.140     71  0.00
+  281  281     1  87   0   5   3   0   0   0   2   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.558     18  0.00
+  282  282     4   4   1   3   0   0   1   9   8  11  13   1   0   0   7  11  12  14   1   1     0    0    0   2.487     83  0.00
+  283  283     1   2   0   2   0   0   0   3   9   3  10   2   1   3   5  15  14  10  12   8     0    0    0   2.497     83  0.00
+  284  284     2  60   3  30   1   0   0   0   2   0   1   0   0   0   0   0   0   0   0   0     0    0    0   1.094     36  0.00
+  285  285     0   0   0   0   0   0   0  84   2   0   0   0   0   0   0   4   0   3   6   0     0    0    0   0.666     22  0.00
+  286  286    10  23  48  13   2   0   0   0   0   3   0   0   1   0   0   0   0   0   0   0     0    0    0   1.421     47  0.00
+  287  287     6   1   1   0   2   0   0   2   2   3   6  37   0   1   6  13  11   8   3   0     0    0    0   2.103     70  0.00
+  288  288     0   3   0   3   0   0   1   0   2   0   5   2   0   1   6  18   2  17   7  33     0    0    0   2.041     68  0.00
+  289  289    23  24  22   8   3   0   0   0  16   3   0   0   0   0   0   0   0   0   0   0     0    0    0   1.775     59  0.00
+  290  290     0   4   2   0  90   0   0   0   0   0   0   0   0   0   0   0   0   0   2   0     0    0    0   0.454     15  0.00
+  291  291     0   0   2   0   0   0   1   8   2   2  36  17   1   1   3   4   1   5  10   6     0    0    0   2.105     70  0.00
+  292  292     0   1   0   0   1   0   5   4   3   7  16   6   0   2   3   6   7  11  17  12     0    0    0   2.465     82  0.00
+  293  293     1   0   0   0   0   0   3  19   4   1  10   5   0   2   2  15  12   8   9   8     0    0    0   2.386     79  0.00
+  294  294     0   3   0   0   0   0   0   6  76   4   6   2   2   0   0   0   0   0   0   0     0    0    0   1.019     34  0.00
+  295  295     0   0   0   0   0   0   0   0   2   0   4   1   0   1   1   2   1   3  15  67     0    0    0   1.254     41  0.00
+  296  296     0  60   1   2  29   0   4   0   0   0   1   1   0   0   2   0   0   0   0   0     0    0    0   1.142     38  0.00
+  297  297     1   0   0   0   0   0   0   3   2   5  64   9   2   0   2   3   2   1   4   1     0    0    0   1.518     50  0.00
+  298  298     0   3   0   0   0   0   0  55   3   0   5   1   0   3   6  10   1   4   6   3     0    0    0   1.720     57  0.00
+  299  299    10  18  41  28   1   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0     0    0    0   1.443     48  0.00
+  300  300     7   3   1   0   1   0   1   1   3   0  29  44   6   0   0   2   0   0   1   0     0    0    0   1.646     54  0.00
+  301  301     0   1   0   0   0   1   0  18   5   3   8   4   0   0   4   4   3  25   8  16     0    0    0   2.211     73  0.00
+  302  302     1   0   0   0   0   0   0   4   7   0  10  10   0   2   2  11  10  19   6  18     0    0    0   2.280     76  0.00
+  303  303     1   2   1   1   1   0   0   5  15   6  13   7   0   1  11  15   3  12   6   2     0    0    0   2.457     82  0.00
+  304  304     0   1   0   0   1   0   0  11   1  30   7   1   0   0   1   3   3   5  14  22     0    0    0   2.005     66  0.00
+  305  305    10  73  12   0   1   0   0   0   1   1   1   0   0   0   0   0   1   0   0   0     0    0    0   0.964     32  0.00
+  306  306     4   0   1   1   6   0  20   0   4   2   8   6   2   7   8  23   4   1   0   0     0    0    0   2.358     78  0.00
+  307  307    55  24  16   1   0   0   0   0   2   0   1   0   0   0   0   0   0   0   0   0     0    0    0   1.199     40  0.00
+  308  308     0   1   0   0   1   0   2   5   5   0  67   5   0   0   0   1   1   3   1   8     0    0    0   1.362     45  0.00
+  309  309     0   3   0   0   0   0   0   3   8   0   6   0   0   2   2  32  22   9   5   6     0    0    0   2.048     68  0.00
+  310  310    37   0   9  10   9   0   0   1  32   0   1   0   0   0   0   0   0   0   0   0     0    0    0   1.533     51  0.00
+  311  311    33  20  13   2  15   0   1   0   3   0   1   1   0   0   2   2   3   2   0   0     0    0    0   1.948     65  0.00
+  312  312     0   0   0   0   0   0   0   0   0   0   0   0   0  79   0   0  17   0   3   0     0    0    0   0.655     21  0.00
+  313  313     1   0   0   0   0   0   0   1   3   0   5   3   0   1   4  70   8   1   2   0     0    0    0   1.258     42  0.00
+  314  314     9   0   2   0   0   0   0   2  60   1  12  11   1   0   0   0   0   0   1   0     0    0    0   1.347     44  0.00
+  315  315    34   3   1   3  28   0   5   2   5   0   1   4   3   1   0   8   0   1   1   0     0    0    0   1.996     66  0.00
+  316  316    16  40  32   2   8   0   0   0   1   0   1   0   0   0   0   0   0   0   0   0     0    0    0   1.409     47  0.00
+  317  317     0   0   0   0   0   0   0   0   1   0   1  14   0   1   0   4   2  51   2  23     0    0    0   1.463     48  0.00
+  318  318    64  11  19   1   1   3   0   0   1   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.085     36  0.00
+  319  319     0   0   0   0   3   0   0   2   3   0   4   8   0   0   0   1   0   3  42  34     0    0    0   1.532     51  0.00
+  320  320     0   0   0   0   0   0   0   1   2   0   0   3   0   0   0   1   0  92   0   0     0    0    0   0.398     13  0.00
+  321  321     2   0   0   1   1   0   1   2   3   0   8  10   0   1   4  12   4  42   0   9     0    0    0   1.976     65  0.00
+  322  322     0   0   0   0   0   0   6  89   1   0   0   1   0   0   0   0   0   2   0   0     0    0    0   0.507     16  0.00
+  323  323     6   1   2   0   0   0   0   1   8   0   9  64   1   0   3   1   0   2   2   0     0    0    0   1.389     46  0.00
+  324  324     7   1   0   0   0   0   0   2   2   2   0   5   0   0   2   3   2  71   1   1     0    0    0   1.272     42  0.00
+  325  325     2   0   0   0   2   0   0   3  84   2   2   2   0   0   0   0   0   1   0   0     0    0    0   0.802     26  0.00
+  326  326     3   0   1   0   0   0   0   2  65   1  13   7   0   0   0   0   1   3   0   3     0    0    0   1.329     44  0.00
+  327  327     2   0   0   0   0   0   0  18  61   4   7   3   0   0   1   0   2   1   0   0     0    0    0   1.342     44  0.00
+  328  328     8   0   1   0   1   0   0   6  53   1  18   5   1   0   0   1   0   1   0   3     0    0    0   1.601     53  0.00
+  329  329     6   0   5   6   0   0   0   1   5   3   7  62   0   0   1   1   0   0   3   0     0    0    0   1.490     49  0.00
+  330  330    15   2   6   1  15   0   4  19  19   0   5   5   1   1   1   0   2   3   0   0     0    0    0   2.317     77  0.00
+  331  331    24  20  13  13   5   0   0   5   7   2   1   3   0   0   1   0   2   1   0   1     0    0    0   2.205     73  0.00
+  332  332     8   5   9   3   2   0   1   9   7   1   7   6   1   1   5   9   5  17   3   1     0    0    0   2.673     89  0.00
+  333  333    12   4  16   6   6   0   1   7  20   3   5   2   0   1   2   3   1   3   5   3     0    0    0   2.550     85  0.00
+  334  334    20   3  17   7   4   0   0   2   9   2   9  12   4   0   4   2   1   2   1   1     0    0    0   2.469     82  0.00
+  335  335     4   5   3   1   4   0   0   7  15  31   7   4   2   1   8   2   0   4   1   2     0    0    0   2.377     79  0.00
+  336  336     2  13   5  22   2   0   3   3   6   1   7   5   2   1  18   4   2   2   1   0     0    0    0   2.471     82  0.00
+  337  337     6   4   1   7   0   0   0   1   4   1  48   8   2   2   6   1   1   3   2   1     0    0    0   2.010     67  0.00
+  338  338     7  25  12   7   6   0   3   2  11   2  10   3   0   0   2   2   2   3   2   1     0    0    0   2.456     81  0.00
+  339  339     4   6   2   2   1   0   2   3   1  51   5   4   0   1   5   1   4   2   6   1     0    0    0   1.993     66  0.00
+  340  340     5   8   4   2   1   0   1   1   2  40   5   7   0   0   2   3   3  11   3   2     0    0    0   2.191     73  0.00
+  341  341     3   3   7   0   1   2   0   0   2   1   4   6   0   1   8   8   6  32   5  11     0    0    0   2.337     77  0.00
+  342  342    34  15  11   2  28   0   2   0   0   1   1   1   0   0   0   1   0   2   0   0     0    0    0   1.749     58  0.00
+  343  343     6   1   7   2   2   0   6   0   1   0   2   6   6   7  11  18   5   9   7   4     0    0    0   2.633     87  0.00
+  344  344    11   8   6   3  44   0   1   0  22   0   0   1   4   0   0   0   0   0   0   0     0    0    0   1.644     54  0.00
+  345  345     0   0   0   0   0   0   0   0   0   0   1   1   0   1   0   1   1   0  52  43     0    0    0   0.962     32  0.00
+  346  346     1   0   0   0   0   0   0   0   1   0   2   2   0  38  40  10   4   0   0   0     0    0    0   1.423     47  0.00
+  347  347     0   0   0   0   0   0   0   0   0  96   1   1   0   0   0   0   0   0   0   1     0    0    0   0.217      7  0.00
+  348  348     0   0   0   0  99   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0     0    0    0   0.081      2  0.00
+  349  349    12  58  14   7   3   0   1   0   1   1   0   1   0   1   0   0   0   0   0   0     0    0    0   1.391     46  0.00
+  350  350     8   7   3   6  65   0   9   0   0   0   0   0   1   0   0   0   0   0   0   0     0    0    0   1.253     41  0.00
+  351  351    20  27  16   4  21   0   1   0   6   0   1   1   1   0   0   0   0   0   0   0     0    0    0   1.861     62  0.00
+  352  352    13  11  64  10   1   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.134     37  0.00
+  353  353     9   4  12   2   7   3  13   0   1   0   3   3   0   0  31   7   2   1   0   0     0    0    0   2.217     74  0.00
+  354  354     0   1   1   0   0   0   1   0   0   2   3   0   0  27   0   5   2  28   2  27     0    0    0   1.757     58  0.00
+  355  355     6   0   2   1   0   0   1   1   1   0   3  10   0   7   8   8  12   8  18  14     0    0    0   2.420     80  0.00
+  356  356     0   1   7   1   2   0   1   1   3  10   6   5   0   5   4  11   6   6  18  13     0    0    0   2.524     84  0.00
+  357  357     2   5   3   0   0   0   0   4   5   1  13  60   0   2   0   0   0   0   2   2     0    0    0   1.565     52  0.00
+  358  358     0   0   1   0   1   2   0  27   2   0   4   3   0   1   5  20  15   3  14   3     0    0    0   2.122     70  0.00
+  359  359     5   3   6   2   5   0   0   1  10   0  36  15   3   2   4   0   1   0   7   0     0    0    0   2.141     71  0.00
+  360  360    17  12  38   0   0   0   0   0   2  26   3   2   0   0   0   0   0   0   0   1     0    0    0   1.611     53  0.00
+  361  361     4  78   7   1   3   0   3   0   0   1   0   0   0   2   0   0   0   0   0   0     0    0    0   0.928     30  0.00
+  362  362     0   2   0   1  96   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.238      7  0.00
+  363  363    18  17  12  32   5   1   2   0   3   0   2   1   3   0   0   0   1   0   1   0     0    0    0   1.964     65  0.00
+  364  364     0   0   0   0   0   0   0  90   7   0   2   0   0   0   0   0   0   0   0   0     0    0    0   0.384     12  0.00
+  365  365     1   0   2   0   0   0   0   0   0   0   3   0   0   6  34  45   8   0   0   0     0    0    0   1.371     45  0.00
+  366  366    64   3  12   0  10   0   7   0   0   0   0   0   3   0   0   0   0   0   0   0     0    0    0   1.178     39  0.00
+  367  367    28   4   3   8   3   1   3   0   8   0  10  13   8   0   2   0   0   3   4   0     0    0    0   2.327     77  0.00
+  368  368     0   0   0   0   0   0   4   0   0   0  20   0   1   1   4   3   2   5  40  18     0    0    0   1.750     58  0.00
+  369  369     0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0     0    0    0   0.017      0  0.00
+  370  370     1   0   0   0   0   0   0   0   2   0  17  67   5   0   1   5   0   1   1   0     0    0    0   1.109     37  0.00
+  371  371     6   0   0   0   1   0   0   0   0   0   0   0   0   8   9  17  43  16   0   1     0    0    0   1.616     53  0.00
+  372  372     0   0   0   0   0   0   0   0   0   0   0   0   0   0   2  84  10   3   0   0     0    0    0   0.563     18  0.00
+//

@@ -1,0 +1,349 @@
+ID Pseudo hssp file.
+SEQ 
+SEQ gi|126675|sp|P19999|MABA_RAT MANNOSE-BINDING PROTEIN A PRECURSOR...   267  7e-71
+SEQ gi|996129|pdb|1RTM|1 Chain 1, Mannose-Binding Protein A (Clostri...   267  7e-71
+SEQ gi|3420792|gb|AAC31936.1| (AF080507) mannose-binding protein; MB...   267  7e-71
+SEQ gi|3660143|pdb|1BUU|A Chain A, One Ho3+ Form Of Rat Mannose-Bind...   267  7e-71
+SEQ gi|6981188|ref|NP_036731.1| mannose binding protein A, serum [Ra...   265  2e-70
+SEQ gi|1942263|pdb|3KMB|1 Chain 1, Complex Of 3'-Sulfo-Lewis-X With ...   260  7e-69
+SEQ gi|1431810|pdb|1AFB|1 Chain 1, C-Type Lectin, Calcium-Binding Pr...   252  2e-66
+SEQ gi|3318887|pdb|1BCH|1 Chain 1, Mannose-Binding Protein-A Mutant ...   250  9e-66
+SEQ gi|3318890|pdb|1BCJ|1 Chain 1, Mannose-Binding Protein-A Mutant ...   248  4e-65
+SEQ gi|10120821|pdb|1FIF|A Chain A, N-Acetylgalactosamine-Selective ...   241  4e-63
+SEQ gi|6754654|ref|NP_034905.1| mannose binding lectin, liver (A) [M...   235  2e-61
+SEQ gi|1633491|pdb|1YTT|A Chain A, Yb Substituted Subtilisin Fragmen...   221  3e-57
+SEQ gi|1449042|gb|AAB48070.1| (L43912) mannose-binding protein A [Ma...   205  3e-52
+SEQ gi|4557739|ref|NP_000233.1| soluble mannose-binding lectin precu...   138  3e-32
+SEQ gi|1311344|pdb|1HUP|    Alpha-Helical Coiled-Coil Mol_id: 1; Mol...   138  3e-32
+SEQ gi|5911794|emb|CAB56045.1| (Y16578) mannose-binding lectin [Homo...   138  3e-32
+SEQ gi|5911796|emb|CAB56121.1| (Y16579) mannose-binding lectin [Homo...   138  3e-32
+SEQ gi|5911809|emb|CAB56124.1| (Y16582) mannose-binding lectin [Homo...   138  3e-32
+SEQ gi|14030460|gb|AAK52907.1|AF360991_1 (AF360991) mannan-binding l...   138  3e-32
+SEQ gi|126677|sp|P08661|MABC_RAT MANNOSE-BINDING PROTEIN C PRECURSOR...   138  3e-32
+SEQ gi|12083669|ref|NP_073195.1| mannose-binding protein C (liver) [...   138  3e-32
+SEQ gi|227513|prf||1705239A mannan binding protein [Rattus norvegicus]    138  3e-32
+SEQ gi|1449044|gb|AAB48071.1| (L43911) mannose-binding protein C [Ma...   138  4e-32
+SEQ gi|1421632|pdb|1RDL|2 Chain 2, Mannose-Binding Protein, Subtilis...   131  5e-30
+SEQ gi|6729734|pdb|1BV4|A Chain A, Apo-Mannose-Binding Protein-C >gi...   131  5e-30
+SEQ gi|6754656|ref|NP_034906.1| mannose binding lectin, serum (C) [M...   129  1e-29
+SEQ gi|233018|gb|AAB19343.1| (S42294) mannose-binding protein C, MBP...   129  1e-29
+SEQ gi|5566370|gb|AAD45377.1|AF164576_1 (AF164576) mannose-binding l...   128  3e-29
+SEQ gi|7387860|sp|O02659|MABC_BOVIN MANNOSE-BINDING PROTEIN C PRECUR...   122  2e-27
+SEQ gi|34767|emb|CAA46152.1| (X65018) lung surfactant protein D [Hom...   101  4e-21
+SEQ gi|4506909|ref|NP_003010.1| surfactant, pulmonary-associated pro...   101  4e-21
+SEQ gi|6573319|pdb|1B08|A Chain A, Lung Surfactant Protein D (Sp-D) ...   101  4e-21
+SEQ gi|13626560|ref|XP_005776.2| surfactant, pulmonary-associated pr...   101  4e-21
+SEQ gi|2736145|gb|AAB94071.1| (AF022226) mannan-binding lectin; coll...   101  6e-21
+SEQ gi|13561409|gb|AAK30298.1| (AF231714) mannose-binding lectin pre...   101  6e-21
+SEQ gi|107547|pir||S18382 surfactant protein C - human (fragment)          99  2e-20
+SEQ gi|7949133|ref|NP_037010.1| pulmonary surfactant protein D [Ratt...    96  2e-19
+SEQ gi|6677921|ref|NP_033186.1| surfactant associated protein D [Mus...    95  4e-19
+SEQ gi|461774|sp|P23805|CONG_BOVIN CONGLUTININ PRECURSOR >gi|346501|...    85  4e-16
+SEQ gi|7441637|pir||I45878 conglutinin - bovine >gi|495013|gb|AAA201...    85  4e-16
+SEQ gi|914924|dbj|BAA04983.1| (D25302) conglutinin precursor [Bos ta...    85  4e-16
+SEQ gi|464485|sp|P35246|PSPD_BOVIN PULMONARY SURFACTANT-ASSOCIATED P...    84  7e-16
+SEQ gi|423283|pir||S33603 surfactant protein D - bovine                    84  7e-16
+SEQ gi|1083017|pir||A53570 collectin-43 - bovine                           84  8e-16
+SEQ gi|395268|emb|CAA50665.1| (X71774) conglutinin [Bos taurus]            84  9e-16
+SEQ gi|1709871|sp|P50403|PSPA_CAVPO PULMONARY SURFACTANT-ASSOCIATED ...    84  1e-15
+SEQ gi|6601484|gb|AAF18995.1|AF211856_1 (AF211856) pulmonary surfact...    83  2e-15
+SEQ gi|6782434|gb|AAF28384.1|AF133668_1 (AF133668) lung surfactant p...    83  2e-15
+SEQ gi|8394337|ref|NP_059025.1| pulmonary surfactant-associated glyc...    83  2e-15
+SEQ gi|57839|emb|CAA31574.1| (X13177) pulmonary surfactant protein A...    83  2e-15
+SEQ gi|1709873|sp|P08427|PSPA_RAT PULMONARY SURFACTANT-ASSOCIATED PR...    83  2e-15
+SEQ gi|499385|emb|CAA53511.1| (X75912) collectin-43 [Bos taurus]           82  4e-15
+SEQ gi|1168967|sp|P42916|CL43_BOVIN COLLECTIN-43 (CL-43)                   82  4e-15
+SEQ gi|7542470|gb|AAF63468.1|AF227737_1 (AF227737) mannose binding-l...    81  5e-15
+SEQ gi|6760482|gb|AAF22145.2|AF132496_1 (AF132496) lung surfactant p...    80  1e-14
+SEQ gi|12963513|ref|NP_075623.1| surfactant associated protein A; su...    80  1e-14
+SEQ gi|444733|prf||1908183A surfactant-associated protein SP-A [Mus ...    80  1e-14
+SEQ gi|12835916|dbj|BAB23416.1| (AK004620) putative [Mus musculus] >...    80  1e-14
+SEQ gi|7542474|gb|AAF63470.1|AF227739_1 (AF227739) mannose binding-l...    80  2e-14
+SEQ gi|7542472|gb|AAF63469.1|AF227738_1 (AF227738) mannose binding-l...    79  3e-14
+SEQ gi|131413|sp|P12842|PSPA_RABIT PULMONARY SURFACTANT-ASSOCIATED P...    79  4e-14
+SEQ gi|431446|gb|AAA31468.1| (L19387) surfactant protein A [Oryctola...    79  4e-14
+SEQ gi|71967|pir||LNHUPS pulmonary surfactant protein A precursor (g...    78  4e-14
+SEQ gi|131412|sp|P07714|PSPA_HUMAN PULMONARY SURFACTANT-ASSOCIATED P...    78  4e-14
+SEQ gi|71969|pir||LNHUP1 pulmonary surfactant protein A precursor (c...    78  4e-14
+SEQ gi|13346504|ref|NP_005402.2| surfactant, pulmonary-associated pr...    78  4e-14
+SEQ gi|190672|gb|AAA36520.1| (K03475) pulmonary surfactant-associate...    78  4e-14
+SEQ gi|11431661|ref|XP_005864.1| surfactant, pulmonary-associated pr...    78  4e-14
+SEQ gi|13645176|ref|XP_018469.1| surfactant, pulmonary-associated pr...    78  4e-14
+SEQ gi|13645187|ref|XP_018470.1| surfactant, pulmonary-associated pr...    78  4e-14
+SEQ gi|206459|gb|AAA41972.1| (M15754) prepulmonary surfactant-associ...    78  5e-14
+SEQ gi|13346506|ref|NP_008857.1| surfactant, pulmonary-associated pr...    77  1e-13
+SEQ gi|8918631|dbj|BAA97976.1| (AB015963) pulmonary surfactant prote...    76  3e-13
+SEQ gi|1709872|sp|P49874|PSPA_PIG PULMONARY SURFACTANT-ASSOCIATED PR...    74  1e-12
+SEQ gi|1172693|sp|P06908|PSPA_CANFA PULMONARY SURFACTANT-ASSOCIATED ...    74  1e-12
+SEQ gi|71970|pir||LNDGPS pulmonary surfactant protein A precursor - dog    71  6e-12
+SEQ gi|382753|prf||1901176A surfactant protein A [Oryctolagus cunicu...    71  8e-12
+SEQ gi|423653|pir||S34198 IgE Fc receptor II, low-affinity - rat >gi...    70  2e-11
+SEQ gi|7305051|ref|NP_038545.1| Fc receptor, IgE, low affinity II, a...    70  2e-11
+SEQ gi|560482|emb|CAA45532.1| (X64223) Fc-E receptor II (Fc-ERII/CD2...    70  2e-11
+SEQ gi|560484|emb|CAA45533.1| (X64224) Fc-E receptor II (Fc-ERII/CD2...    70  2e-11
+SEQ gi|13236929|gb|AAB28791.2| (S67072) low affinity IgE Fc receptor...    70  2e-11
+SEQ gi|13236930|gb|AAB28792.2| (S67073) low affinity IgE Fc receptor...    70  2e-11
+SEQ gi|13236931|gb|AAB28793.2| (S67074) low affinity IgE Fc receptor...    70  2e-11
+SEQ gi|4584829|emb|CAB40823.1| (AJ133002) surfactant protein D [Ovis...    68  8e-11
+SEQ gi|126131|sp|P02707|LECH_CHICK HEPATIC LECTIN >gi|71964|pir||LNC...    66  3e-10
+SEQ gi|5031637|ref|NP_005743.1| C-type (calcium dependent, carbohydr...    65  4e-10
+SEQ gi|5453619|ref|NP_006429.1| collectin sub-family member 10 (C-ty...    64  7e-10
+SEQ gi|13641777|ref|XP_005080.2| collectin sub-family member 10 (C-t...    64  7e-10
+SEQ gi|13128972|ref|NP_076932.1| hypothetical protein MGC3279 simila...    63  2e-09
+SEQ gi|7959947|gb|AAF71144.1|AF141931_1 (AF141931) low-affinity IgE ...    63  2e-09
+SEQ gi|12082813|gb|AAG48620.1|AF317204_1 (AF317204) C-type lectin su...    63  3e-09
+SEQ gi|13637142|ref|XP_015704.1| hypothetical protein MGC3279 simila...    62  3e-09
+SEQ gi|12833584|dbj|BAB22581.1| (AK003121) putative [Mus musculus]         62  5e-09
+SEQ gi|13365515|dbj|BAB39147.1| (AB038518) scavenger receptor with C...    61  6e-09
+SEQ gi|4584834|emb|CAB40825.1| (AJ133003) surfactant protein D [Sus ...    61  9e-09
+SEQ gi|726276|gb|AAC18614.1| (U22298) C-type lectin homolog precurso...    60  2e-08
+SEQ gi|135619|sp|P26258|TETN_CARSP TETRANECTIN-LIKE PROTEIN >gi|8544...    58  6e-08
+SEQ gi|2326381|emb|CAA62217.1| (X90645) C-type lectin [Botryllus sch...    57  1e-07
+SEQ gi|13630603|ref|XP_008939.3| Fc fragment of IgE, low affinity II...    57  2e-07
+SEQ gi|13928904|ref|NP_113841.1| chondroitin sulfate proteoglycan 3 ...    56  2e-07
+SEQ gi|7513546|pir||T42389 versican precursor, splice form V0 - bovi...    56  3e-07
+SEQ gi|3253302|gb|AAC24359.1| (AF060457) versican V1 splice-variant ...    56  3e-07
+SEQ gi|7513547|pir||T14274 versican precursor, splice form V2 - bovi...    56  3e-07
+SEQ gi|3253306|gb|AAC24361.1| (AF060459) versican V3 splice-variant ...    56  3e-07
+SEQ gi|4758082|ref|NP_004376.1| chondroitin sulfate proteoglycan 2 (...    56  3e-07
+SEQ gi|387017|gb|AAA36437.1| (J02814) chondroitin sulfate proteoglyc...    56  3e-07
+SEQ gi|2506816|sp|P13611|PGCV_HUMAN VERSICAN CORE PROTEIN PRECURSOR ...    56  3e-07
+SEQ gi|833853|gb|AAA67565.1| (U26555) versican V2 core protein precu...    56  3e-07
+SEQ gi|1008913|dbj|BAA06801.1| (D32039) proteoglycan PG-M(V3) [Homo ...    56  3e-07
+SEQ gi|13646059|ref|XP_011335.2| chondroitin sulfate proteoglycan 2 ...    56  3e-07
+SEQ gi|9506521|ref|NP_062262.1| chondroitin sulfate proteoglycan 2 [...    56  3e-07
+SEQ gi|1008921|dbj|BAA06802.1| (D32040) proteoglycan PG-M(V3) [Mus m...    56  3e-07
+SEQ gi|2497660|sp|Q62059|PGCV_MOUSE VERSICAN CORE PROTEIN PRECURSOR ...    56  3e-07
+SEQ gi|3139072|gb|AAC40166.1| (AF062402) versican V0 isoform [Rattus...    56  3e-07
+SEQ gi|3309591|gb|AAC26116.1| (AF072892) versican V3 isoform precurs...    56  3e-07
+SEQ gi|10445213|gb|AAG16631.1| (AY007691) proteoglycan PG-M V3 isofo...    56  3e-07
+SEQ gi|6681063|ref|NP_031815.1| chondroitin sulfate proteoglycan 3 [...    54  7e-07
+SEQ gi|4503679|ref|NP_001993.1| Fc fragment of IgE, low affinity II,...    54  7e-07
+SEQ gi|2497655|sp|Q90953|PGCV_CHICK VERSICAN CORE PROTEIN PRECURSOR ...    54  8e-07
+SEQ gi|505285|emb|CAA42787.1| (X60226) proteoglycan [Gallus gallus]        54  8e-07
+SEQ gi|665485|gb|AAA96811.1| (U08595) tetranectin [Mus musculus]           53  2e-06
+SEQ gi|4758084|ref|NP_004377.1| chondroitin sulfate proteoglycan 3 (...    53  2e-06
+SEQ gi|3288885|gb|AAC25581.1| (AC005254) PGCN_HUMAN, PARTIAL CDS; 24...    53  2e-06
+SEQ gi|12742008|ref|XP_009327.2| chondroitin sulfate proteoglycan 3 ...    53  2e-06
+SEQ gi|6755821|ref|NP_035736.1| tetranectin (plasminogen-binding pro...    53  2e-06
+SEQ gi|1083074|pir||A39808 proteoglycan core protein, cartilage - bo...    52  2e-06
+SEQ gi|11276915|pir||T42630 aggrecan - bovine >gi|1730260|gb|AAB3852...    52  2e-06
+SEQ gi|6174903|sp|P13608|PGCA_BOVIN AGGRECAN CORE PROTEIN PRECURSOR ...    52  2e-06
+SEQ gi|4878035|gb|AAD24546.2| (AF116856) neurocan core protein precu...    52  3e-06
+SEQ gi|4507557|ref|NP_003269.1| tetranectin (plasminogen-binding pro...    52  4e-06
+SEQ gi|2781225|pdb|1HTN|    Human Tetranectin, A Trimeric Plasminoge...    52  4e-06
+SEQ gi|3212622|pdb|1TN3|    The C-Type Lectin Carbohydrate Recogniti...    52  4e-06
+SEQ gi|11277030|pir||S78774 perlucin - Haliotis laevigata                  52  4e-06
+SEQ gi|6671618|ref|NP_031555.1| brevican [Mus musculus] >gi|2497654|...    52  4e-06
+SEQ gi|1143285|gb|AAA87847.1| (U37142) brevican core protein [Rattus...    52  4e-06
+SEQ gi|7657333|ref|NP_055173.1| C-type (calcium dependent, carbohydr...    51  7e-06
+SEQ gi|2134714|pir||S62786 aggrecan - human (fragment) >gi|30249|emb...    51  8e-06
+SEQ gi|106887|pir||A39086 aggrecan precursor - human                       51  8e-06
+SEQ gi|129886|sp|P16112|PGCA_HUMAN AGGRECAN CORE PROTEIN PRECURSOR (...    51  8e-06
+SEQ gi|4501991|ref|NP_001126.1| aggrecan 1, isoform 1 precursor; Agg...    51  8e-06
+SEQ gi|181168|gb|AAA35726.1| (J05062) proteoglycan core protein [Hom...    51  8e-06
+SEQ gi|2119176|pir||S08042 proteoglycan core protein long splice for...    51  8e-06
+SEQ gi|6995994|ref|NP_037359.1| aggrecan 1, isoform 2 precursor; Agg...    51  8e-06
+SEQ gi|13652150|ref|XP_007700.3| aggrecan 1, isoform 2 precursor [Ho...    51  8e-06
+SEQ gi|13652152|ref|XP_007701.3| aggrecan 1, isoform 1 precursor [Ho...    51  8e-06
+SEQ gi|2506815|sp|P55068|PGCB_RAT BREVICAN CORE PROTEIN PRECURSOR (B...    51  8e-06
+SEQ gi|129887|sp|P07897|PGCA_RAT AGGRECAN CORE PROTEIN PRECURSOR (CA...    51  9e-06
+SEQ gi|6671523|ref|NP_031450.1| aggrecan, structural proteoglycan of...    51  9e-06
+SEQ gi|206105|gb|AAA41836.1| (M13518) proteoglycan [Rattus norvegicus]     51  9e-06
+SEQ gi|11990616|ref|NP_071526.1| aggrecan, structural proteoglycan o...    51  9e-06
+SEQ gi|12644429|sp|Q28343|PGCA_CANFA AGGRECAN CORE PROTEIN PRECURSOR...    51  1e-05
+SEQ gi|7804476|dbj|BAA95671.1| (AB034807) C-type lectin [Cyprinus ca...    51  1e-05
+SEQ gi|12084795|gb|AAG13815.2| (AF209481) probable mannose binding C...    50  1e-05
+SEQ gi|13383470|gb|AAK20998.1|AF290887_1 (AF290887) L-SIGN [Homo sap...    50  1e-05
+SEQ gi|11276914|pir||T46256 brevican - human (fragment) >gi|6808151|...    50  1e-05
+SEQ gi|11345494|ref|NP_068767.1| chondroitin sulfate proteoglycan BE...    50  1e-05
+SEQ gi|14318638|gb|AAH09117.1|AAH09117 (BC009117) chondroitin sulfat...    50  1e-05
+SEQ gi|13810902|gb|AAK40085.1|AF325324_1 (AF325324) brevican soluble...    50  1e-05
+SEQ gi|1514645|emb|CAA42701.1| (X60107) cartilage aggregating proteo...    50  2e-05
+SEQ gi|6048422|gb|AAF02223.1| (AF087691) surfactant protein A [Macac...    50  2e-05
+SEQ gi|13386188|ref|NP_081232.1| RIKEN cDNA 1810029C22 gene [Mus mus...    49  2e-05
+SEQ gi|2497653|sp|Q28062|PGCB_BOVIN BREVICAN CORE PROTEIN PRECURSOR ...    49  2e-05
+SEQ gi|9910162|ref|NP_064332.1| C-type (calcium dependent, carbohydr...    49  2e-05
+SEQ gi|12053819|emb|CAC20217.1| (AJ277116) tetranectin [Gallus gallus]     49  3e-05
+SEQ gi|13386222|ref|NP_081619.1| RIKEN cDNA 2310066I10 gene [Mus mus...    49  4e-05
+SEQ gi|1346434|sp|P98131|LEM1_BOVIN L-SELECTIN PRECURSOR (LYMPH NODE...    49  4e-05
+SEQ gi|3551204|dbj|BAA32800.1| (AB012579) 26-kDa lectin [Periplaneta...    49  4e-05
+SEQ gi|126127|sp|P06027|LECE_ANTCR ECHINOIDIN >gi|85328|pir||A26697 ...    49  4e-05
+SEQ gi|11095795|gb|AAG30026.1|AF281351_1 (AF281351) C-type lectin 2-...    48  5e-05
+SEQ gi|4502251|ref|NP_001662.1| asialoglycoprotein receptor 1 [Homo ...    48  5e-05
+SEQ gi|9955094|pdb|1DV8|A Chain A, Crystal Structure Of The Carbohyd...    48  5e-05
+SEQ gi|10121695|gb|AAG13327.1|AF266207_1 (AF266207) mannose receptor...    48  6e-05
+SEQ gi|5453684|ref|NP_006335.1| macrophage lectin 2 (calcium depende...    47  1e-04
+SEQ gi|13632758|ref|XP_008330.2| macrophage lectin 2 (calcium depend...    47  1e-04
+SEQ gi|4505245|ref|NP_002429.1| mannose receptor, C type 1 [Homo sap...    47  1e-04
+SEQ gi|13629186|ref|XP_005830.3| mannose receptor, C type 1 [Homo sa...    47  1e-04
+SEQ gi|6680734|ref|NP_031519.1| asialoglycoprotein receptor 2 [Mus m...    47  1e-04
+SEQ gi|12084797|gb|AAG13848.2| (AF245219) probable mannose binding C...    47  2e-04
+SEQ gi|10120636|pdb|1EGG|A Chain A, Structure Of A C-Type Carbohydra...    47  2e-04
+SEQ gi|7705290|ref|NP_036635.1| asialoglycoprotein receptor 1 (hepat...    46  3e-04
+SEQ gi|202988|gb|AAA40764.1| (M21770) asialoglycoprotein receptor [R...    46  3e-04
+SEQ gi|6678932|ref|NP_032651.1| mannose receptor, C type 1 [Mus musc...    46  3e-04
+SEQ gi|477362|pir||A48925 mannose receptor precursor, macrophage - m...    46  3e-04
+SEQ gi|3063776|emb|CAA91440.1| (Z66536) C-type lectin-like protein [...    46  4e-04
+SEQ gi|125733|sp|P10716|KUCR_RAT KUPFFER CELL RECEPTOR >gi|92446|pir...    45  4e-04
+SEQ gi|130308|sp|P21756|PLIB_TRIFL PHOSPHOLIPASE A2 INHIBITOR SUBUNI...    45  5e-04
+SEQ gi|7949066|ref|NP_058031.1| Kupffer cell c-type lectin receptor;...    45  5e-04
+SEQ gi|13629779|ref|XP_008073.2| C-type (calcium dependent, carbohyd...    45  5e-04
+SEQ gi|6754728|ref|NP_034949.1| macrophage C-type lectin [Mus muscul...    45  5e-04
+SEQ gi|5381155|dbj|BAA82265.1| (D49510) Regenectin [Periplaneta amer...    45  6e-04
+SEQ gi|130307|sp|P21755|PLIA_TRIFL PHOSPHOLIPASE A2 INHIBITOR SUBUNI...    44  8e-04
+SEQ gi|7512092|pir||T30273 hypothetical protein - sea urchin (Strong...    44  8e-04
+SEQ gi|7297248|gb|AAF52512.1| (AE003617) CG15818 gene product [Droso...    44  9e-04
+SEQ 
+## SEQUENCE PROFILE AND ENTROPY
+ SeqNo PDBNo   V   L   I   M   F   W   Y   G   A   P   S   T   C   H   R   K   Q   E   N   D  NOCC NDEL NINS ENTROPY RELENT WEIGHT
+    1    1     0   0   0   0   0   0   0   0  81   0  19   0   0   0   0   0   0   0   0   0     0    0    0   0.483     16  0.00
+    2    2    19   6  75   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.703     23  0.00
+    3    3     0   0   0   0   0   0   0   0   0   0   0   0   0   0   5   0   0  95   0   0     0    0    0   0.191      6  0.00
+    4    4    50   0   5   0  23   0   0   0   5   0   9   0   0   0   0   0   5   5   0   0     0    0    0   1.463     48  0.00
+    5    5     7   0   0   0   0   0   0   0   0   0   0   0   0   0  15  48  11   0   0  19     0    0    0   1.384     46  0.00
+    6    6     3  55  16  10   0   0   0   0   0   0   0  16   0   0   0   0   0   0   0   0     0    0    0   1.255     41  0.00
+    7    7     0   0   0   0   0   0   0   9  50   0   6  16   0   0   9   0   0   9   0   0     0    0    0   1.476     49  0.00
+    8    8     0   0   0   0   0   0   0   0   0   0  12   6   0   0   0   0   0  15  61   6     0    0    0   1.185     39  0.00
+    9    9     0  38  16  47   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.013     33  0.00
+   10   10     0   0   0   0   0   0   0   0   0   0   0   0   0   0   3   9   3  56   0  28     0    0    0   1.119     37  0.00
+   11   11     0   9   0   0   0   0   0  12  42   0  21   0   0   0   3   0   0   3   9   0     0    0    0   1.596     53  0.00
+   12   12     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   6  15  79   0   0     0    0    0   0.644     21  0.00
+   13   13    21   9  67   0   0   0   0   0   0   0   0   0   0   0   3   0   0   0   0   0     0    0    0   0.923     30  0.00
+   14   14     0   0   0   0   0   0   0   0  18   0   6   3   0   0   9   0  27   0  33   3     0    0    0   1.630     54  0.00
+   15   15     6   0   3   0   0   0   0   0  15   0   3  39   0   0  12   3  15   0   3   0     0    0    0   1.788     59  0.00
+   16   16     0  97   3   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.136      4  0.00
+   17   17     0   0   0   0   0   0   0   0   0   0   3   9   0   0  18  48  15   6   0   0     0    0    0   1.441     48  0.00
+   18   18     0   0   0   0   0   0   0   0   6   0  64   3   0   3   0   6   0   0   9   9     0    0    0   1.275     42  0.00
+   19   19     0   0   9   0   0   3   0   0   3   0   0   0   0   0   0  48   0  30   0   6     0    0    0   1.313     43  0.00
+   20   20     9  79   9   0   3   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.730     24  0.00
+   21   21     0   0   3   0   0   0   0   0   9   0   9   9   0   0  15   9   6  33   3   3     0    0    0   2.012     67  0.00
+   22   22     0  42   0   0  12   0   0   0  15   0   0   6   0   3   6   0  15   0   0   0     0    0    0   1.637     54  0.00
+   23   23     0   6  15  12   6   0  18   0   3   0   0  39   0   0   0   0   0   0   0   0     0    0    0   1.664     55  0.00
+   24   24     0   0   0   0   0   0   0   3   0   0   0   0   0   0  24  24   3   9  36   0     0    0    0   1.485     49  0.00
+   25   25     3   0   0   0   0   0   0   0   0   0   0   0   0   0   0  78   0   0  19   0     0    0    0   0.615     20  0.00
+   26   26    13  44   0   0   0  19   0   0  25   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.282     42  0.00
+   27   27    38   9   0   0   0   0   0   0   3   0   6   0   0  38   0   0   3   3   0   0     0    0    0   1.456     48  0.00
+   28   28     0  31   3   0   0   0   0   0  50   0  13   0   0   0   0   0   0   0   3   0     0    0    0   1.187     39  0.00
+   29   29     6  16   0   0  66   0   0   9   0   0   0   0   0   0   0   0   3   0   0   0     0    0    0   1.070     35  0.00
+   30   30     9   0   0   0   0   0   0   6   0  13  59   0   3   0   0   9   0   0   0   0     0    0    0   1.295     43  0.00
+   31   31     0  13   0  47   0   0   0   0   0   0   3   3   0   6   9   0   0   0   3  16     0    0    0   1.625     54  0.00
+   32   32     6   0   0   3   9   0   0  58   0   0  15   0   0   0   0   0   0   9   0   0     0    0    0   1.316     43  0.00
+   33   33     6   3   0   0   0   0   0   0   0   0   0   9   0   0   9  48   9  15   0   0     0    0    0   1.567     52  0.00
+   34   34     0   0   0   3   0   0   0   3  12   0   0   0   0   0   3  48   6   9  15   0     0    0    0   1.598     53  0.00
+   35   35    48   0   3   0   0   0   0   0   0   0  48   0   0   0   0   0   0   0   0   0     0    0    0   0.808     26  0.00
+   36   36     0   0   0   0   0   0   0  91   0   0   0   0   0   0   0   9   0   0   0   0     0    0    0   0.305     10  0.00
+   37   37     0   0   9   0   0   0   0   0   0   0   0   0   0   0   0  67   9  12   0   3     0    0    0   1.068     35  0.00
+   38   38     0   0   0   0   0   0   9   0   0   0   0   0   0   0   0  91   0   0   0   0     0    0    0   0.305     10  0.00
+   39   39     3  18  12   6  33   0  24   0   3   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.657     55  0.00
+   40   40     0   9   0   0  79   0  12   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.662     22  0.00
+   41   41    52  17   4  13   2   0   0   0   2   0   0   0   0   0   0   9   0   0   0   0     0    0    0   1.424     47  0.00
+   42   42     0   0   0   0   0   0   0   0   0   0  31  65   0   0   0   4   0   0   0   0     0    0    0   0.773     25  0.00
+   43   43     0   0   0   0   0   0   0   1   5   0  10   3   0   0   0   0   0   4  73   4     0    0    0   1.007     33  0.00
+   44   44     6   0   0   0   0   0   0  51   1   0   4   0   0  26   1   4   0   6   0   2     0    0    0   1.457     48  0.00
+   45   45     3   0   0   0   1   0   0   0   4   0   3   0   0   0   3   9  30  39   1   6     0    0    0   1.677     55  0.00
+   46   46     6   0   8   1   0   0   0   2   0   1  25   1   0   0  35  20   0   3   0   0     0    0    0   1.698     56  0.00
+   47   47    13   1  11  34   0   0   2   2   5   0   0   0   0   0   8  16   0   6   3   0     0    0    0   1.977     65  0.00
+   48   48     0   0   1   0   0   3   0   0   2  28  18  32   0   0   0   1   0   0  14   2     0    0    0   1.631     54  0.00
+   49   49     0   5   0   3  59  21   9   0   0   0   0   0   0   2   0   0   0   0   0   0     0    0    0   1.200     40  0.00
+   50   50     3   0   0   1   4   0   0   0   5   0  16   6   0   7   1   0   5  17   9  27     0    0    0   2.123     70  0.00
+   51   51     1   0   0   0   0   0   0   1  12   1   3   5   0   0   5  19   2  26   3  21     0    0    0   2.010     67  0.00
+   52   52    21   2  19   0   0   0   0   4  50   0   4   0   0   0   0   0   0   0   0   0     0    0    0   1.322     44  0.00
+   53   53     1   1   0   1   0   0   0   0   1   0   4   2   0   0  16  33  19  16   1   1     0    0    0   1.852     61  0.00
+   54   54     1   7   0   0   1   0   0   1  26   0   8   4   0   0   1   6  12  28   1   4     0    0    0   1.997     66  0.00
+   55   55     5  37   5   7  11   0   5   0   9   0   4   2   1   1   0   2   8   1   0   5     0    0    0   2.166     72  0.00
+   56   56     1   0   0   0   0   0   0   0   0   0   0   0  99   0   0   0   0   0   0   0     0    0    0   0.036      1  0.00
+   57   57     3   0   7   1   0   0   0   0  14   1  17  11   0   0  27   6   8   3   1   1     0    0    0   2.118     70  0.00
+   58   58     0   2   1   2   0   0   1   4   6   0   8   0   0   0  20   9   9  30   0   8     0    0    0   2.072     69  0.00
+   59   59     2  23   1   3   8   0   2   0  29   0   0   0   0   0   8   4  13   3   3   0     0    0    0   2.036     67  0.00
+   60   60     1   0   0   0   2   0   1  47   2   0   2   0   0   2   9   5  24   3   3   0     0    0    0   1.640     54  0.00
+   61   61     0   0   1   0   0   0   0  69  17   0  13   1   0   0   0   0   0   0   0   0     0    0    0   0.883     29  0.00
+   62   62     1   1   1   1   0   0   0   0   1   0   6  20   0  30  14   0  15   2   4   5     0    0    0   1.957     65  0.00
+   63   63    24  57  17   2   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.047     34  0.00
+   64   64    15   0   1   0   0   0   0   2  54   3  20   6   0   0   0   0   0   0   0   0     0    0    0   1.310     43  0.00
+   65   65    16   1  19   3   1   0   0   0   7   0  38  14   0   0   0   1   0   0   0   0     0    0    0   1.672     55  0.00
+   66   66     7   0  28   0   1   0   0   0   1  56   0   1   0   6   0   0   0   0   1   1     0    0    0   1.198     39  0.00
+   67   67    10   0   0   2   0   0   0   0   0   0  10   3   2   5  44   9   7   1   6   1     0    0    0   1.885     62  0.00
+   68   68     0   1   0   0   0   0   1   1   0   1  32  23   0   0   1   0   5   1  32   4     0    0    0   1.563     52  0.00
+   69   69     1   3   0   0   0   1   0   3  27  29   9   0   0   0   2   8   2  14   0   0     0    0    0   1.880     62  0.00
+   70   70     0   2   0   0   0   0   0   1  16   0   5   2   0   0   1   1   2  68   1   4     0    0    0   1.153     38  0.00
+   71   71     0   0   1   0   0   0   0   0   3   0   0   1   0   0   0   0   8  88   0   0     0    0    0   0.459     15  0.00
+   72   72     0   0   2   0   0   0   0   1   1   0   1   0   0   3   0   2  33   0  51   7     0    0    0   1.252     41  0.00
+   73   73     2   0   0   8   7   0   0   4   9   0   4   3   0   0   5  13   5  30   5   7     0    0    0   2.250     75  0.00
+   74   74     4   7   1   0  37   1   2   0  47   0   1   2   0   0   0   0   0   0   0   0     0    0    0   1.274     42  0.00
+   75   75    33  22  38   5   0   0   1   0   0   0   0   2   0   0   0   0   0   0   0   0     0    0    0   1.314     43  0.00
+   76   76     0   2   0   1   2   4   3   1  15   0   3   8   0   0   3   6  30   0  26   0     0    0    0   1.961     65  0.00
+   77   77     0   1   1   1   0   0   1   2   1   0  17   1   0   7  13   8  14  11  17   7     0    0    0   2.215     73  0.00
+   78   78    24  18  14   4   8   0   7   1   3   1   0   4   0   1   4   1   1   0   9   0     0    0    0   2.231     74  0.00
+   79   79    17   3   8   2   1   0   5  19  32   0   5   2   0   0   2   1   0   0   5   1     0    0    0   2.023     67  0.00
+   80   80     2   2   0   1   0   0   0   1   1   3   2   8   0  13  15  39  12   0   3   1     0    0    0   1.906     63  0.00
+   81   81     2   1   0   0   1   0   0   1  11   1   8  20   0   1   4   7   3  12   6  24     0    0    0   2.197     73  0.00
+   82   82     4   0   2   0   1   0  38   3   7   1  18   2   0   1   2   2   2   6  10   4     0    0    0   2.042     68  0.00
+   83   83     7   2   1   0   2   0   4   4  39   2   7   8   0   2   2   0  22   0   0   0     0    0    0   1.910     63  0.00
+   84   84     0   0   0   0  31  49  21   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.038     34  0.00
+   85   85     5  43  46   4   0   0   0   0   1   0   0   2   0   0   0   0   0   0   0   0     0    0    0   1.110     37  0.00
+   86   86     0   0   0   0   0   0   0  88   0   0  10   0   0   0   1   0   0   0   1   0     0    0    0   0.412     13  0.00
+   87   87     6  58  20  13   2   0   0   1   1   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.203     40  0.00
+   88   88     2   3   4   0   0   0   0   1   3   0   8  34   0   2   2   0   4   1  39   0     0    0    0   1.663     55  0.00
+   89   89     0   0   2   0   0   0   3   0   0   0   0   0   0   0   0   1   0  15   1  80     0    0    0   0.705     23  0.00
+   90   90     2  11   6   5   1   0   0  13   3   0   6   2   0   1  18  11   8  12   0   2     0    0    0   2.395     79  0.00
+   91   91    11   1   3  11   0   0   2   2   5  10   6  15   0   2   6   7   5   5  11   2     0    0    0   2.589     86  0.00
+   92   92     6   1  15   4   9   0   0   3   5   4   6  36   0   1   2   6   2   1   2   1     0    0    0   2.205     73  0.00
+   93   93     0   0   0   0   0   0   0   0   4  11   4   0   0   0   0   2   1  77   0   2     0    0    0   0.873     29  0.00
+   94   94     0   0   0   0   0   2   0  76   1   0   0   0   0   9   3   2   0   2   3   0     0    0    0   0.980     32  0.00
+   95   95     3   1   0   1   0   0   0   2   4   0   2   5   0   0   4  13  15   7   2  38     0    0    0   2.014     67  0.00
+   96   96     0   0   0   0  82  15   3   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.559     18  0.00
+   97   97    19   8   4   9   1   0   2   0   1   0   0  11   0   4  24   1   9   3   0   0     0    0    0   2.206     73  0.00
+   98   98     0   0   0   0   1  46  33   0   0   0   1   1   0   0   0   0   0   0   1  18     0    0    0   1.174     39  0.00
+   99   99    18  17   1   6   0   0   0   2   0  10  26  16   0   0   0   0   0   0   0   0     0    0    0   1.878     62  0.00
+  100  100     1   0   0   0   0   0   0   0   1   0   1  30   0   0   0   0   0   1   2  60     0    0    0   1.082     36  0.00
+  101  101     0   0   0   0   0   0   0  86   0   0   0   0   0   1   1   0   1   0   5   4     0    0    0   0.618     20  0.00
+  102  102     2   1   1   0   0   0   2  10   8   0  23  16   0   9   0   4   1   8   8   3     0    0    0   2.331     77  0.00
+  103  103     0   1   2   0   0   0   0   4   6  41  14   5   0   1  18   3   1   2   0   1     0    0    0   1.875     62  0.00
+  104  104    28  51   4   6   2   0   1   0   1   0   1   2   0   0   0   0   0   0   0   0     0    0    0   1.410     47  0.00
+  105  105     9   4   0   0   0   0   0   6   4   0   7  18   0   1   5   1  22   0  18   8     0    0    0   2.179     72  0.00
+  106  106     0   1   0   0  23   0  72   0   0   2   0   0   0   0   0   0   0   0   0   0     0    0    0   0.799     26  0.00
+  107  107     2   2   0   0   1   0   0   0   1   0  27  27   0   0   0   6   2  27   1   0     0    0    0   1.750     58  0.00
+  108  108     0   0   0   0   2   0   1   0   1   0   2   0   0   0   1   4   1   0  86   0     0    0    0   0.671     22  0.00
+  109  109     0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.031      1  0.00
+  110  110     1   0   0   0   0   0  14   4  18   1   2   0   1   0  25  11   1   4  18   4     0    0    0   2.025     67  0.00
+  111  111     1   0   0   0   1   0   3   1   3  49   5   6   0   1   7  11   1  11   0   5     0    0    0   1.786     59  0.00
+  112  112     1   0   0   0   0   0   0  59   2   0   2   1   0   0   1   1   2   4  22   7     0    0    0   1.291     43  0.00
+  113  113     0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   1  41  56   1   1     0    0    0   0.814     27  0.00
+  114  114     0   0   0   0   0   0   0   0   0  99   1   0   0   0   0   1   0   0   0   0     0    0    0   0.063      2  0.00
+  115  115     1   0   0   0   0   0   0   2   5   0   2   1   0   0   9   1   0   0  44  37     0    0    0   1.330     44  0.00
+  116  116     0   0   0   0   2   0   1  17   0   0  14   0   0   0   0   1   0   2  45  20     0    0    0   1.448     48  0.00
+  117  117     3   1   1   0  22   6   9   7  10   1   2   1   0   7  15   0   5   3   3   6     0    0    0   2.445     81  0.00
+  118  118     1   0   0   1   5   0   3  58  14   0  11   0   0   0   1   2   3   0   3   1     0    0    0   1.478     49  0.00
+  119  119     1   1   0   0   1   0   0  19  13   2  18   7   0   0   2  19   7   3   5   5     0    0    0   2.178     72  0.00
+  120  120     4   2   1   0   0   0   0  57   5   2   6   3   0   1   4   1   0   2   4   9     0    0    0   1.698     56  0.00
+  121  121     0   0   0   0   0   0   0   1   1   0   0   0   0   0   1   0   3  95   0   0     0    0    0   0.261      8  0.00
+  122  122     0   0   0   0   0   0   3   0   0   0   0   1   0   2   0   8   6   0  22  59     0    0    0   1.216     40  0.00
+  123  123     0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+  124  124    77   4   1   0   0   0   0   6  13   0   0   1   0   0   0   0   0   1   0   0     0    0    0   0.820     27  0.00
+  125  125    35   6   1   5   0   0   1   1   2   0   2   8   0   6   0   1   1  33   0   0     0    0    0   1.768     59  0.00
+  126  126     3  16  33  40   7   0   0   0   2   0   0   1   0   0   0   0   0   0   0   0     0    0    0   1.396     46  0.00
+  127  127    17  11  20   0   8   1  17   0   5   0   4   3   0   2   7   3   0   2   1   1     0    0    0   2.272     75  0.00
+  128  128     0   1   1   1   0   0   1  10   5   5   7  23   0   1   1   4   3  23   1  17     0    0    0   2.118     70  0.00
+  129  129     1   0   0   0   0   0   0   0   2   1  18   1   0   2   2   8   5   1  36  24     0    0    0   1.742     58  0.00
+  130  130     0   0   0   0   0   1   1  93   0   2   1   0   0   0   1   1   0   1   0   1     0    0    0   0.379     12  0.00
+  131  131     1  11   0   2   3   0   0   3   0   0   1   6   1   2   7  23  30  10   3   0     0    0    0   2.053     68  0.00
+  132  132     0   1   0   0   0  99   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.057      1  0.00
+  133  133     0   0   1   1   4   0   0   0   0   0   7   1   0   1   0   0   0   0  84   2     0    0    0   0.675     22  0.00
+  134  134     0   1   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   1  97     0    0    0   0.146      4  0.00
+  135  135    38   3  15   1   1   0   1   1   7   0   1   1   0   0  11  11   0   3   3   6     0    0    0   2.010     67  0.00
+  136  136     5   0   0   0   6   0   1   5  10  37  11   2   0   0   5   1   2   3  14   2     0    0    0   2.071     69  0.00
+  137  137     0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+  138  138     0  13   0   0   1   0   0   9   0   0  13   2   1   4  11   1  11   4  26   5     0    0    0   2.174     72  0.00
+  139  139     2   2   1   0   1   1  33   1   8   0  10   6   0   3   4   4   9   9   1   8     0    0    0   2.236     74  0.00
+  140  140     1   4   1   0   0   0  12   0   1   6  24   3   0  18   0   6  13   4   5   2     0    0    0   2.236     74  0.00
+  141  141     1  36   0   4   5   0   6   0   0   0   1   0   1  10  21   4   1   0  10   0     0    0    0   1.886     62  0.00
+  142  142     0  31   2   0   2   0   5   2   2  19   5  17   0   2   6   1   0   0   5   4     0    0    0   2.073     69  0.00
+  143  143    15   1   3   0  16  10  24   0  23   1   1   6   0   0   1   0   0   0   0   0     0    0    0   1.884     62  0.00
+  144  144    35   2  39   3   0   0   0   0   0   0   0  22   0   0   0   0   0   0   0   0     0    0    0   1.228     40  0.00
+  145  145     0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+  146  146     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  30  10  60   0   1     0    0    0   0.921     30  0.00
+  147  147     0   2   0   1  90   0   1   0   0   0   0   0   0   0   0   4   2   0   0   0     0    0    0   0.472     15  0.00
+  148  148     0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+  149  149     0   0   0   0   0   0   0   0  90   0  10   0   0   0   0   0   0   0   0   0     0    0    0   0.325     10  0.00
+//

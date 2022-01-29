@@ -1,0 +1,161 @@
+ID Pseudo hssp file.
+SEQ 
+SEQ gi|85969|pir||S06931 short neurotoxin 1b precursor [validated] -...   104  2e-22
+SEQ gi|104360|pir||S14003 short neurotoxin 1c precursor - broad-band...   102  5e-22
+SEQ gi|128967|sp|P01435|NXS1_LATSE SHORT NEUROTOXIN 1 PRECURSOR (ERA...   101  1e-21
+SEQ gi|230845|pdb|3EBX|    Erabutoxin b >gi|231206|pdb|6EBX|A Chain ...    98  2e-20
+SEQ gi|4558181|pdb|1QKD|A Chain A, Erabutoxin >gi|4558182|pdb|1QKD|B...    96  6e-20
+SEQ gi|2780901|pdb|2ERA|    Recombinant Erabutoxin A, S8g Mutant           96  7e-20
+SEQ gi|2780864|pdb|3ERA|A Chain A, Recombinant Erabutoxin A (S8t Mut...    95  9e-20
+SEQ gi|809314|pdb|1NXB|    Neurotoxin b (Probably Identical To Erabu...    93  5e-19
+SEQ gi|69471|pir||N1LT1E short neurotoxin 1 - broad-banded blue sea ...    89  6e-18
+SEQ gi|4519868|dbj|BAA75778.1| (AB017958) short chain neurotoxin [La...    87  3e-17
+SEQ gi|4519808|dbj|BAA75748.1| (AB017928) short chain neurotoxin [La...    86  5e-17
+SEQ gi|4519872|dbj|BAA75780.1| (AB017960) short chain neurotoxin [La...    85  1e-16
+SEQ gi|4519826|dbj|BAA75757.1| (AB017937) short chain neurotoxin [La...    83  5e-16
+SEQ gi|4519842|dbj|BAA75765.1| (AB017945) short chain neurotoxin [La...    83  6e-16
+SEQ gi|4519818|dbj|BAA75753.1| (AB017933) short chain neurotoxin [La...    82  9e-16
+SEQ gi|128990|sp|P25495|NXSA_LATCR SHORT NEUROTOXIN A                      82  1e-15
+SEQ gi|4519846|dbj|BAA75767.1| (AB017947) short chain neurotoxin [La...    82  1e-15
+SEQ gi|4519848|dbj|BAA75768.1| (AB017948) short chain neurotoxin [La...    82  1e-15
+SEQ gi|128994|sp|P10458|NXSC_LATCR SHORT NEUROTOXIN C >gi|85965|pir|...    81  2e-15
+SEQ gi|4519866|dbj|BAA75777.1| (AB017957) short chain neurotoxin [La...    81  2e-15
+SEQ gi|4519832|dbj|BAA75760.1| (AB017940) short chain neurotoxin [La...    81  2e-15
+SEQ gi|128995|sp|P10460|NXSC_LATLA SHORT NEUROTOXIN C >gi|85968|pir|...    81  2e-15
+SEQ gi|4519864|dbj|BAA75776.1| (AB017956) short chain neurotoxin [La...    80  4e-15
+SEQ gi|4519836|dbj|BAA75762.1| (AB017942) short chain neurotoxin [La...    79  6e-15
+SEQ gi|4519862|dbj|BAA75775.1| (AB017955) short chain neurotoxin [La...    79  1e-14
+SEQ gi|128981|sp|P10457|NXS2_LATCO SHORT NEUROTOXIN II >gi|85964|pir...    78  2e-14
+SEQ gi|128996|sp|P10456|NXSD_LATCO SHORT NEUROTOXIN D >gi|85963|pir|...    78  2e-14
+SEQ gi|128991|sp|P25496|NXSB_LATCR SHORT NEUROTOXIN B                      78  2e-14
+SEQ gi|128993|sp|P10455|NXSC_LATCO SHORT NEUROTOXIN C >gi|85962|pir|...    77  4e-14
+SEQ gi|128992|sp|P10459|NXSB_LATLA SHORT NEUROTOXIN B >gi|85967|pir|...    76  9e-14
+SEQ gi|464291|sp|P34076|NXS1_BOUCH SHORT NEUROTOXIN 1 >gi|104350|pir...    71  2e-12
+SEQ gi|128974|sp|P01426|NXS1_NAJPA SHORT NEUROTOXIN 1 (NEUROTOXIN AL...    71  3e-12
+SEQ gi|464290|sp|P34075|NXS1_BOUAN SHORT NEUROTOXIN 1 >gi|104349|pir...    71  3e-12
+SEQ gi|128964|sp|P01425|NXS1_HEMHA SHORT NEUROTOXIN 1 (TOXIN II) >gi...    69  1e-11
+SEQ gi|128960|sp|P01417|NXS1_DENJA SHORT NEUROTOXIN 1 >gi|69449|pir|...    69  1e-11
+SEQ gi|128962|sp|P01418|NXS1_DENVI SHORT NEUROTOXIN 1 (NEUROTOXIN 4....    68  1e-11
+SEQ gi|128973|sp|P01427|NXS1_NAJOX SHORT NEUROTOXIN 1 (NEUROTOXIN AL...    68  2e-11
+SEQ gi|6226881|sp|P80958|NXSB_NAJAT SHORT NEUROTOXIN PRECURSOR (COBR...    68  2e-11
+SEQ gi|128971|sp|P01424|NXS1_NAJME SHORT NEUROTOXIN 1 (NEUROTOXIN D)...    68  2e-11
+SEQ gi|128956|sp|P01434|NXS1_ACAAN SHORT NEUROTOXIN 1 (TOXIN AA C) >...    67  3e-11
+SEQ gi|128975|sp|P01428|NXS1_NAJPH SHORT NEUROTOXIN 1 >gi|69460|pir|...    67  3e-11
+SEQ gi|69462|pir||N1NJ2P short neurotoxin 1, minor component - Phili...    66  4e-11
+SEQ gi|128983|sp|P25675|NXS2_NAJHH SHORT NEUROTOXIN 2 (TOXIN CM-10A)       66  5e-11
+SEQ gi|4185752|gb|AAD09180.1| (AF088998) cobrotoxin III [Naja atra]        66  6e-11
+SEQ gi|7428586|pir||A59136 short neurotoxin 1 - monocled cobra             66  6e-11
+SEQ gi|4185750|gb|AAD09179.1| (AF088997) cobrotoxin IV [Naja atra]         65  1e-10
+SEQ gi|128961|sp|P01416|NXS1_DENPO SHORT NEUROTOXIN 1 (NEUROTOXIN AL...    65  2e-10
+SEQ gi|128982|sp|P01422|NXS2_NAJHA SHORT NEUROTOXIN 2 (TOXIN CM-14) ...    64  2e-10
+SEQ gi|128976|sp|P25497|NXS1_PSEAU SHORT NEUROTOXIN 1 (NEUROTOXIN PA A)    64  2e-10
+SEQ gi|128984|sp|P01423|NXS2_NAJNI SHORT NEUROTOXIN 2 (NEUROTOXIN BE...    63  5e-10
+SEQ gi|1352609|sp|P80548|NXS1_MICNI SHORT NEUROTOXIN 1 (NEUROTOXIN A...    63  5e-10
+SEQ gi|2688938|gb|AAC69916.1| (AF023272) post synaptic alpha neuroto...    63  5e-10
+SEQ gi|3860085|gb|AAD08813.1| (AF097000) post synaptic alpha neuroto...    63  6e-10
+SEQ gi|1421606|pdb|1NTX|    Alpha-Neurotoxin (Nmr, 20 Structures)          63  6e-10
+SEQ gi|128969|sp|P01429|NXS1_NAJHA SHORT NEUROTOXIN 1 (NEUROTOXIN AL...    63  7e-10
+SEQ gi|128988|sp|P19960|NXS4_AIPLA SHORT NEUROTOXIN D PRECURSOR >gi|...    63  7e-10
+SEQ gi|2688936|gb|AAC69915.1| (AF023271) post synaptic alpha neuroto...    62  9e-10
+SEQ gi|128972|sp|P01431|NXS1_NAJMO SHORT NEUROTOXIN 1 (NEUROTOXIN I)...    62  9e-10
+SEQ gi|3860083|gb|AAD08812.1| (AF096999) post synaptic alpha neuroto...    61  1e-09
+SEQ gi|128980|sp|P01433|NXS2_HEMHA SHORT NEUROTOXIN 2 (TOXIN IV) >gi...    61  2e-09
+SEQ gi|128977|sp|P19959|NXS2_AIPLA SHORT NEUROTOXIN B PRECURSOR >gi|...    61  2e-09
+SEQ gi|6650221|gb|AAF21774.1| (AF068052) neurotoxin preprotein precu...    61  2e-09
+SEQ gi|128966|sp|P01437|NXS1_HYDLA SHORT NEUROTOXIN 1 (NEUROTOXIN A)...    61  2e-09
+SEQ gi|2507399|sp|P01430|NXS1_NAJAT SHORT NEUROTOXIN 1 PRECURSOR (CO...    61  3e-09
+SEQ gi|128987|sp|P01432|NXS3_NAJMO SHORT NEUROTOXIN 3 (NEUROTOXIN II...    60  4e-09
+SEQ gi|128986|sp|P01420|NXS3_NAJHA SHORT NEUROTOXIN 3 (TOXIN CM-10) ...    60  5e-09
+SEQ gi|804792|gb|AAA66026.1| (L42003) neurotoxin [Naja naja]               59  5e-09
+SEQ gi|229257|prf||671059A neurotoxin [Naja nigricollis]                   59  6e-09
+SEQ gi|12002778|gb|AAG43384.1|AF161797_1 (AF161797) short chain neur...    59  8e-09
+SEQ gi|128989|sp|P01421|NXS4_NAJHA SHORT NEUROTOXIN 4 (TOXIN CM-12) ...    59  9e-09
+SEQ gi|128963|sp|P25492|NXS1_ENHSC SHORT NEUROTOXIN 1 (TOXIN 4) >gi|...    59  1e-08
+SEQ gi|804790|gb|AAA66025.1| (L42002) neurotoxin [Naja naja]               58  1e-08
+SEQ gi|422648|pir||D40667 neurotoxin - Naja naja >gi|999516|pdb|1COD...    58  1e-08
+SEQ gi|128985|sp|P19958|NXS3_AIPLA SHORT NEUROTOXIN C                      58  2e-08
+SEQ gi|417398|sp|P32879|NXS1_AIPLA SHORT NEUROTOXIN A >gi|69478|pir|...    58  2e-08
+SEQ gi|13959416|sp|P82849|NXS5_NAJKA SHORT NEUROTOXIN 5 (COBROTOXIN ...    58  2e-08
+SEQ gi|128970|sp|P14613|NXS1_NAJKA SHORT NEUROTOXIN 1 (TOXIN C-6) >g...    58  2e-08
+SEQ gi|786434|gb|AAB33649.1| toxin-3=postsynaptic neurotoxin short c...    58  2e-08
+SEQ gi|85993|pir||S02484 short neurotoxin 1 - sea snake (Acalyptophi...    57  4e-08
+SEQ gi|128965|sp|P25494|NXS1_HYDCY SHORT NEUROTOXIN 1 (HYDROPHITOXIN A)    57  4e-08
+SEQ gi|128958|sp|P01438|NXS1_ASTST SHORT NEUROTOXIN 1 (TOXIN A) >gi|...    57  4e-08
+SEQ gi|128979|sp|P25493|NXS2_ENHSC SHORT NEUROTOXIN 2 (TOXIN 5) (PEL...    56  6e-08
+SEQ gi|136517|sp|P01419|TX50_DENJA TOXIN S5C10 >gi|69451|pir||N1EP2J...    55  1e-07
+SEQ gi|4867886|emb|CAB43097.1| (AJ239050) cobrotoxin homolog [Naja a...    53  6e-07
+SEQ gi|136513|sp|P18329|TX31_DENAN TOXIN C13S1C1 PRECURSOR >gi|85956...    48  2e-05
+SEQ gi|128959|sp|P10808|NXS1_BUNFA SHORT NEUROTOXIN 1 (TOXIN V-II-1)...    46  5e-05
+SEQ gi|136559|sp|P01412|TXW1_OPHHA WEAK TOXIN DE-1 >gi|69444|pir||V7...    46  6e-05
+SEQ gi|223564|prf||0901189A neurotoxin a [Laticauda colubrina]             46  6e-05
+SEQ gi|7546568|pdb|1QM7|A Chain A, X-Ray Structure Of A Three-Finger...    45  2e-04
+SEQ gi|223565|prf||0901189B neurotoxin b [Laticauda colubrina]             43  5e-04
+SEQ gi|999831|pdb|1TFS|    Toxin Fs2 (Nmr, 20 Structures)                  42  9e-04
+SEQ gi|136536|sp|P01414|TXF2_DENPO TOXIN FS-2 (FS2) >gi|69446|pir||T...    42  0.001
+SEQ gi|128921|sp|P25670|NXL1_ASPSC LONG NEUROTOXIN 1 (TOXIN S4C6)          42  0.001
+SEQ 
+## SEQUENCE PROFILE AND ENTROPY
+ SeqNo PDBNo   V   L   I   M   F   W   Y   G   A   P   S   T   C   H   R   K   Q   E   N   D  NOCC NDEL NINS ENTROPY RELENT WEIGHT
+    1    1     0   0   0   0   0   0   0   0   0   0   0   0   0   0  98   2   0   0   0   0     0    0    0   0.113      3  0.00
+    2    2     0   0  58   2   0   0   0   0   0   0   0   0   0   0  40   0   0   0   0   0     0    0    0   0.759     25  0.00
+    3    3     0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+    4    4     0   1   0   0  28   0  22   0   0   0   0   0  13  36   0   0   0   0   0   0     0    0    0   1.369     45  0.00
+    5    5     0   0   0   0   0   0   0   0   0   0   4   0   0   0   0   2   0   0  90   3     0    0    0   0.428     14  0.00
+    6    6     0   0   0   0   0   0   0   0   0   0   0   1   0  25   0   0  74   0   0   0     0    0    0   0.623     20  0.00
+    7    7     0   0   0   1   0   0   0   0   0   8   0   2   0   2   1   3  81   1   0   0     0    0    0   0.794     26  0.00
+    8    8     0   1   0   0   0   0   0   1   2   0  91   3   0   0   0   0   1   0   0   0     0    0    0   0.429     14  0.00
+    9    9     0   5   2   0   0   0   1   0   1   0  84   5   0   0   0   0   0   0   1   0     0    0    0   0.685     22  0.00
+   10   10     0   2   0   0   0   0   0   0   3   0   1   6   0   0   1   0  78   9   0   0     0    0    0   0.870     29  0.00
+   11   11     0   0   0   0   2   0   0   0   9  68   0  15   0   1   4   0   0   1   0   0     0    0    0   1.068     35  0.00
+   12   12     0   0   0   0   0   0   1   0   6  38   0   0   0   0   4  24  22   3   0   0     0    0    0   1.515     50  0.00
+   13   13     0   0   3   0   0   0   0   0   2   1   0  89   0   0   0   0   0   0   0   4     0    0    0   0.475     15  0.00
+   14   14     0   1   4   0   0   0   0   0   0   1   0  80   0   1   0   0   1   0  12   0     0    0    0   0.759     25  0.00
+   15   15     0   0   0   0   0   0   0   0   0   1   0  36   0   0   0  60   3   0   0   0     0    0    0   0.835     27  0.00
+   16   16     2   0   3   0   0   0   0  16   1   0  29  34   0   1   2   0   0   0   7   4     0    0    0   1.716     57  0.00
+   17   17     0   0   0   0   0   0   0   0   0   0   0   0  99   0   0   0   0   0   1   0     0    0    0   0.059      1  0.00
+   18   18     4   0   0   0   0   0   0   1  18  30  43   0   0   0   0   0   0   4   0   0     0    0    0   1.335     44  0.00
+   19   19     0   3   0   0   0   0   0  27   1  61   1   0   0   0   1   0   1   1   0   1     0    0    0   1.119     37  0.00
+   20   20     0   0   0   0   0   1   0  97   0   0   0   0   1   0   0   0   0   0   0   0     0    0    0   0.137      4  0.00
+   21   21     1   0   0   0   0   0   0   2   0   0   0   0   0   0   0   1   3  87   0   5     0    0    0   0.564     18  0.00
+   22   22     0   0   0   0   0   0   0   0   0   0  17  37   0   0   0   3   0   2  39   1     0    0    0   1.283     42  0.00
+   23   23     0   0   3   0   0   0   0   0   0   0  53   2   0   0   0   0   0   0  41   1     0    0    0   0.945     31  0.00
+   24   24     0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   25   25     0   0   0   0   0   0  99   0   0   0   0   0   0   0   0   0   1   0   0   0     0    0    0   0.059      1  0.00
+   26   26     0   3   0   0   0   0   0   0   0   0   1   0   0   5   4  59   0   1  27   0     0    0    0   1.163     38  0.00
+   27   27     0   0   0   3   0   0   0   0   0   0   1   1   0   0   1  94   0   0   0   0     0    0    0   0.317     10  0.00
+   28   28     2   0   1   0   3   7   2   1   1   0   9  17   0   0  16   0  39   1   0   0     0    0    0   1.831     61  0.00
+   29   29     0   1   2   0   0  96   0   0   0   0   0   0   0   0   1   0   0   0   0   0     0    0    0   0.220      7  0.00
+   30   30     0   0   0   0   0   0   0   0   1   1  32   0   1   2  56   2   1   0   1   2     0    0    0   1.175     39  0.00
+   31   31     0   0   0   0   0   0   1   2   0   0   0   3   0   1   0   1   0   0   1  90     0    0    0   0.476     15  0.00
+   32   32     0   1   2   0  12   0   0   0   1   1   0   0   0  81   0   0   0   0   1   1     0    0    0   0.746     24  0.00
+   33   33     0   0   0   0   0   0   0   1   0   2   0   0   0   0  96   1   0   0   0   0     0    0    0   0.220      7  0.00
+   34   34     0   1   0   0   0   0   0  95   0   0   0   0   0   1   0   1   1   1   0   0     0    0    0   0.293      9  0.00
+   35   35     1   0   1   1   0   0  19   0   0   0  15  60   0   0   0   1   0   0   2   0     0    0    0   1.184     39  0.00
+   36   36     1   0  66   0   0   0   0   0   0   0   0   0   0   0  30   3   0   0   0   0     0    0    0   0.794     26  0.00
+   37   37     0   4  63   0   0   0   0   0   0   0   3  30   0   0   0   0   0   0   0   0     0    0    0   0.897     29  0.00
+   38   38     0   0   0   0   0   0   0   2   0   0   0   0   0   0   0   1   0  96   0   1     0    0    0   0.220      7  0.00
+   39   39     0   0   0   0   3   0   0   0   0   0   0   0   0   0  97   0   0   0   0   0     0    0    0   0.141      4  0.00
+   40   40     0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   41   41     0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   42   42     0   0   0   0   0   0   0  97   3   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.141      4  0.00
+   43   43     0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   44   44     0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   45   45     0   1   1   0   0   0   0   0   0   0  21  36   0   1   3  20  15   1   0   0     0    0    0   1.607     53  0.00
+   46   46    96   0   0   0   0   0   0   1   2   0   0   1   0   0   0   0   0   0   0   0     0    0    0   0.220      7  0.00
+   47   47     0   1   0   2   0   0   0   0   1   0   0   0   0   0   0  95   0   0   1   0     0    0    0   0.279      9  0.00
+   48   48     0   0   0   0   0   2   0   0   0  60  10   0   0   0   2  18   1   0   7   0     0    0    0   1.248     41  0.00
+   49   49     1   0   0   0   1   0   0  94   0   3   0   0   0   0   0   1   0   0   0   0     0    0    0   0.317     10  0.00
+   50   50    19   1  78   0   0   0   2   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.643     21  0.00
+   51   51     0   0   0   0   0   0   0   6   0   0   1   0   0   4   2  54   3  18   9   2     0    0    0   1.483     49  0.00
+   52   52     0  67  30   0   0   0   0   0   0   0   1   2   0   0   0   0   0   0   0   0     0    0    0   0.763     25  0.00
+   53   53     0   0   1   0   0   0   3   0   0   0  13   8   0   7  17   5   0  13  33   0     0    0    0   1.894     63  0.00
+   54   54     0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   55   55     0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   56   56     0   0   0   0   0   0   0   0   1   0   2  34   0   6   3  15  15  22   0   1     0    0    0   1.733     57  0.00
+   57   57     0   0   0   0   0   0   0   2   0   0  41  56   0   0   0   0   0   0   0   0     0    0    0   0.770     25  0.00
+   58   58     0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0  28  12  60     0    0    0   0.963     32  0.00
+   59   59    11   0   0   0   0   0   0   0   0   0   0   0   0   0  28  23   0  13   3  23     0    0    0   1.643     54  0.00
+   60   60     0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   61   61     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100   0     0    0    0   0.000      0  0.00
+   62   62     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100   0     0    0    0   0.000      0  0.00
+//

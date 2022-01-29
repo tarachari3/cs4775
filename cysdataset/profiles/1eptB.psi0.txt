@@ -1,0 +1,762 @@
+ID Pseudo hssp file.
+SEQ 
+SEQ gi|136429|sp|P00761|TRYP_PIG TRYPSIN PRECURSOR >gi|67550|pir||TR...   161  1e-39
+SEQ gi|9257116|pdb|1QQU|A Chain A, Crystal Structure Of Porcine Beta...   161  1e-39
+SEQ gi|13399521|pdb|1EJA|A Chain A, Structure Of Porcine Trypsin Com...   161  1e-39
+SEQ gi|1942351|pdb|1AKS|A Chain A, Crystal Structure Of The First Ac...   160  3e-39
+SEQ gi|9954879|pdb|1C9P|A Chain A, Complex Of Bdellastasin With Porc...   159  5e-39
+SEQ gi|999627|pdb|1EPT|B Chain B, Porcine E-Trypsin (E.C.3.4.21.4)        156  6e-38
+SEQ gi|2358117|gb|AAB69087.1| (AE000665) trypsinogen 15 [Mus musculus]    138  9e-33
+SEQ gi|6755893|ref|NP_035776.1| trypsin 4 [Mus musculus] >gi|2358085...   138  1e-32
+SEQ gi|136417|sp|P08426|TRY3_RAT TRYPSIN III, CATIONIC PRECURSOR (PR...   138  1e-32
+SEQ gi|2358116|gb|AAB69086.1| (AE000665) trypsinogen 12 [Mus musculus]    138  1e-32
+SEQ gi|6755891|ref|NP_035775.1| trypsin 3 [Mus musculus] >gi|2358088...   138  2e-32
+SEQ gi|136411|sp|P06872|TRY2_CANFA TRYPSINOGEN, ANIONIC PRECURSOR >g...   137  2e-32
+SEQ gi|2358118|gb|AAB69088.1| (AE000665) trypsinogen 16 [Mus musculu...   137  2e-32
+SEQ gi|2358086|gb|AAB69057.1| (AE000664) trypsinogen 9 [Mus musculus...   137  2e-32
+SEQ gi|2358087|gb|AAB69058.1| (AE000664) trypsinogen 10 [Mus musculus]    136  5e-32
+SEQ gi|2098543|pdb|1AND|    Anionic Trypsin Mutant With Arg 96 Repla...   136  5e-32
+SEQ gi|6981422|ref|NP_036861.1| pancreatic trypsin II [Rattus norveg...   136  6e-32
+SEQ gi|515094|pdb|1BRA|    Trypsin (E.C.3.4.21.4) Variant (D189g,G22...   136  6e-32
+SEQ gi|758266|emb|CAA24581.1| (V01274) trypsinogen (1 is 3rd base in...   136  6e-32
+SEQ gi|2098541|pdb|1ANB|    Anionic Trypsin Mutant With Ser 214 Repl...   136  6e-32
+SEQ gi|2098544|pdb|1ANE|    Anionic Trypsin Wild Type >gi|4139558|pd...   136  6e-32
+SEQ gi|2098545|pdb|1ANC|    Anionic Trypsin Mutant With Ser 214 Repl...   136  6e-32
+SEQ gi|2392288|pdb|1DPO|    Structure Of Rat Trypsin                      136  6e-32
+SEQ gi|2781041|pdb|1AMH|A Chain A, Uncomplexed Rat Trypsin Mutant Wi...   136  6e-32
+SEQ gi|4139560|pdb|3TGJ|E Chain E, S195a Trypsinogen Complexed With ...   136  6e-32
+SEQ gi|11513886|pdb|1FY8|E Chain E, Crystal Structure Of The Deltail...   136  6e-32
+SEQ gi|13786764|pdb|1I99|E Chain E, Crystal Structure Of Michaelis S...   136  6e-32
+SEQ gi|67548|pir||TRRT2 trypsin (EC 3.4.21.4) II precursor - rat          134  1e-31
+SEQ gi|230776|pdb|2TRM|    Asn102Trypsin (E.C.3.4.21.4) (Mutant With...   134  2e-31
+SEQ gi|10120746|pdb|1QL9|A Chain A, Factor Xa Specific Inhibitor In ...   134  2e-31
+SEQ gi|1633121|pdb|1SLX|B Chain B, Rat Anionic N143h, E151h Trypsin ...   134  2e-31
+SEQ gi|1633123|pdb|1SLW|B Chain B, Rat Anionic N143h, E151h Trypsin ...   133  3e-31
+SEQ gi|136406|sp|P06871|TRY1_CANFA TRYPSINOGEN, CATIONIC PRECURSOR >...   133  4e-31
+SEQ gi|9256995|pdb|1EZS|C Chain C, Crystal Structure Of Ecotin Mutan...   132  6e-31
+SEQ gi|12963645|ref|NP_075822.1| RIKEN cDNA 2210010C04 gene [Mus mus...   132  8e-31
+SEQ gi|12843046|dbj|BAB25837.1| (AK008695) putative [Mus musculus]        132  8e-31
+SEQ gi|6678439|ref|NP_033456.1| trypsin 2 [Mus musculus] >gi|136428|...   132  8e-31
+SEQ gi|4506149|ref|NP_002762.1| protease, serine, 3 (trypsin 3) [Hom...   131  2e-30
+SEQ gi|464951|sp|P35030|TRY4_HUMAN TRYPSIN IVA PRECURSOR >gi|423134|...   131  2e-30
+SEQ gi|480950|pir||S37538 trypsin (EC 3.4.21.4) IV form b precursor ...   131  2e-30
+SEQ gi|13641039|ref|XP_005545.3| protease, serine, 3 (trypsin 3) [Ho...   131  2e-30
+SEQ gi|3980129|emb|CAA50484.1| (X71345) trypsinogen IV b-form [Homo ...   131  2e-30
+SEQ gi|6066378|emb|CAB58178.1| (X72781) trypsinogen IV a-form [Homo ...   131  2e-30
+SEQ gi|6981420|ref|NP_036767.1| pancreatic trypsin 1 [Rattus norvegi...   129  5e-30
+SEQ gi|4506147|ref|NP_002761.1| protease, serine, 2 (trypsin 2) [Hom...   127  2e-29
+SEQ gi|13627619|ref|XP_011546.2| protease, serine, 2 (trypsin 2) [Ho...   127  2e-29
+SEQ gi|2358071|gb|AAB69043.1| (AE000663) trypsinogen 5 [Mus musculus]     126  5e-29
+SEQ gi|12963793|ref|NP_076196.1| RIKEN cDNA 1810009J06 gene [Mus mus...   126  5e-29
+SEQ gi|11932121|emb|CAC19188.1| (AJ297822) trypsin [Danio rerio]          126  5e-29
+SEQ gi|67549|pir||TRBOTR trypsin (EC 3.4.21.4) precursor - bovine >g...   126  7e-29
+SEQ gi|8569286|pdb|1F2S|E Chain E, Crystal Structure Of The Complex ...   126  7e-29
+SEQ gi|230765|pdb|2TLD|E Chain E, Bovine Trypsin (E.C.3.4.21.4) Comp...   126  7e-29
+SEQ gi|2507249|sp|P00760|TRY1_BOVIN TRYPSINOGEN, CATIONIC PRECURSOR ...   126  7e-29
+SEQ gi|1421532|pdb|1TGB|    Trypsinogen-Ca From Peg                       126  7e-29
+SEQ gi|2392548|pdb|1TAW|A Chain A, Bovine Trypsin Complexed To Appi       126  7e-29
+SEQ gi|2392803|pdb|5PTP|    Structure Of Hydrolase (Serine Proteinase)    126  7e-29
+SEQ gi|5542503|pdb|1ZZZ|A Chain A, Trypsin Inhibitors With Rigid Tri...   126  7e-29
+SEQ gi|9955040|pdb|1C1N|A Chain A, Recruiting Zinc To Mediate Potent...   126  7e-29
+SEQ gi|13096612|pdb|1G3B|A Chain A, Bovine Beta-Trypsin Bound To Met...   126  7e-29
+SEQ gi|136419|sp|P12788|TRY4_RAT TRYPSIN IV PRECURSOR (PRETRYPSINOGE...   122  5e-28
+SEQ gi|1552516|gb|AAC80208.1| (U66061) trypsinogen C [Homo sapiens]       122  6e-28
+SEQ gi|230196|pdb|1NTP|    Modified Beta Trypsin (Monoisopropylphosp...   122  7e-28
+SEQ gi|4506145|ref|NP_002760.1| protease, serine, 1 (trypsin 1); cat...   122  8e-28
+SEQ gi|1064990|pdb|1TRN|A Chain A, Trypsin (E.C.3.4.21.4) Complexed ...   122  8e-28
+SEQ gi|2499861|sp|Q29463|TRY2_BOVIN TRYPSINOGEN, ANIONIC PRECURSOR >...   120  3e-27
+SEQ gi|11120626|gb|AAG30948.1|AF315310_1 (AF315310) cationic trypsin...   119  5e-27
+SEQ gi|464949|sp|P35033|TRY3_SALSA TRYPSIN III PRECURSOR >gi|422585|...   119  6e-27
+SEQ gi|4389384|pdb|1A0J|A Chain A, Crystal Structure Of A Non-Psychr...   119  6e-27
+SEQ gi|1616766|gb|AAC50728.1| (U70137) cationic trypsinogen [Homo sa...   117  2e-26
+SEQ gi|11120624|gb|AAG30947.1|AF315309_1 (AF315309) cationic trypsin...   117  3e-26
+SEQ gi|11120628|gb|AAG30949.1|AF315311_1 (AF315311) cationic trypsin...   116  5e-26
+SEQ gi|464946|sp|P35032|TRY2_SALSA TRYPSIN II PRECURSOR >gi|422584|p...   113  4e-25
+SEQ gi|136433|sp|P19799|TRY1_XENLA TRYPSIN PRECURSOR >gi|104227|pir|...   113  4e-25
+SEQ gi|464944|sp|P35031|TRY1_SALSA TRYPSIN I PRECURSOR >gi|422581|pi...   113  4e-25
+SEQ gi|422582|pir||S31776 trypsin (EC 3.4.21.4) IA precursor - Atlan...   113  4e-25
+SEQ gi|2133995|pir||S66661 trypsin (EC 3.4.21.4) IB - Atlantic salmo...   113  4e-25
+SEQ gi|422583|pir||S31777 trypsin (EC 3.4.21.4) IB - Atlantic salmon...   113  4e-25
+SEQ gi|515295|pdb|2TBS|    Trypsin (E.C.3.4.21.4) Complexed With Ben...   113  4e-25
+SEQ gi|809221|pdb|1BIT|    Trypsin (Anionic) Complexed With The Inhi...   113  4e-25
+SEQ gi|6980533|pdb|2STA|E Chain E, Anionic Salmon Trypsin In Complex...   113  4e-25
+SEQ gi|13516893|dbj|BAB40330.1| (AB041930) trypsinogen II [Engraulis...   113  5e-25
+SEQ gi|2499865|sp|P70059|TRY2_XENLA TRYPSIN PRECURSOR >gi|1621633|gb...   112  6e-25
+SEQ gi|418136|sp|P32821|TRYA_RAT TRYPSIN V-A PRECURSOR >gi|92926|pir...   111  1e-24
+SEQ gi|418137|sp|P32822|TRYB_RAT TRYPSIN V-B PRECURSOR >gi|92927|pir...   111  1e-24
+SEQ gi|971196|gb|AAA75001.1| (U25747) trypsinogen [Takifugu rubripes]     109  5e-24
+SEQ gi|3452120|gb|AAC32752.1| (AF012463) trypsinogen 2 precursor [Pl...   109  7e-24
+SEQ gi|1086279|pir||S49489 trypsin (EC 3.4.21.4) precursor - Paranot...   108  1e-23
+SEQ gi|3242120|emb|CAA07315.1| (AJ006882) trypsin [Dicentrarchus lab...   107  2e-23
+SEQ gi|136431|sp|P00764|TRYP_SQUAC TRYPSIN PRECURSOR >gi|67553|pir||...   104  2e-22
+SEQ gi|5441853|dbj|BAA82362.1| (AB029750) trypsinogen 1 [Paralichthy...   104  2e-22
+SEQ gi|5441855|dbj|BAA82363.1| (AB029751) trypsinogen 2 [Paralichthy...   104  3e-22
+SEQ gi|2499862|sp|Q90627|TRY1_CHICK TRYPSIN I-P1 PRECURSOR >gi|10852...   103  4e-22
+SEQ gi|2499863|sp|Q90628|TRY2_CHICK TRYPSIN I-P38 PRECURSOR >gi|6039...   103  4e-22
+SEQ gi|2118087|pir||S55067 trypsin (EC 3.4.21.4) I precursor, pancre...   103  4e-22
+SEQ gi|13516891|dbj|BAB40329.1| (AB041929) trypsinogen [Engraulis ja...   102  6e-22
+SEQ gi|2367501|gb|AAB69657.1| (AF011901) trypsinogen b2 [Petromyzon ...   102  7e-22
+SEQ gi|1373148|gb|AAB02196.1| (U47819) trypsinogen I [Gadus morhua]       101  1e-21
+SEQ gi|2367499|gb|AAB69656.1| (AF011900) trypsinogen B1 [Petromyzon ...   101  2e-21
+SEQ gi|2293478|gb|AAB65411.1| (AF011352) trypsinogen A1 [Petromyzon ...   101  2e-21
+SEQ gi|2367495|gb|AAB69654.1| (AF011898) trypsinogen a2 [Petromyzon ...   101  2e-21
+SEQ gi|2499867|sp|Q91041|TRYX_GADMO TRYPSIN X PRECURSOR >gi|481641|p...   100  5e-21
+SEQ gi|1334753|emb|CAA54215.1| (X76887) trypsinogen X [Gadus morhua]      100  5e-21
+SEQ gi|481640|pir||S39047 trypsin (EC 3.4.21.4) I - Atlantic cod >gi...    97  4e-20
+SEQ gi|2507250|sp|P16049|TRY1_GADMO TRYPSIN I PRECURSOR                    97  4e-20
+SEQ gi|2499864|sp|Q90629|TRY3_CHICK TRYPSIN II-P29 PRECURSOR >gi|108...    96  1e-19
+SEQ gi|3452117|gb|AAC32751.1| (AF012462) trypsinogen 1 precursor [Pl...    89  6e-18
+SEQ gi|7435607|pir||T01779 trypsin (EC 3.4.21.4) - plaice >gi|121363...    84  4e-16
+SEQ gi|3006086|emb|CAA75311.1| (Y15041) trypsin [Litopenaeus vannamei]     81  2e-15
+SEQ gi|5001993|gb|AAD37247.1|AF134321_1 (AF134321) chimeric AFGP/try...    79  6e-15
+SEQ gi|4809136|gb|AAD30107.1|AF134323_1 (AF134323) trypsinogen-like ...    79  7e-15
+SEQ gi|3006084|emb|CAA75310.1| (Y15040) trypsin [Litopenaeus vannamei]     78  2e-14
+SEQ gi|1399811|gb|AAB57732.1| (U58945) pretrypsinogen-like serine pr...    78  2e-14
+SEQ gi|2102686|gb|AAB57728.1| (U58835) preprotrypsin-like protease [...    78  2e-14
+SEQ gi|4883930|gb|AAD31711.1|AF134322_1 (AF134322) chimeric antifree...    76  6e-14
+SEQ gi|10121760|gb|AAG13359.1|AF266240_1 (AF266240) trypsinogen 2 pr...    75  1e-13
+SEQ gi|11545747|ref|NP_071329.1| kallikrein 14 [Homo sapiens] >gi|12...    75  2e-13
+SEQ gi|13652837|ref|XP_012919.2| kallikrein 14 [Homo sapiens]              75  2e-13
+SEQ gi|6815045|dbj|BAA82364.2| (AB029752) trypsinogen 3 [Paralichthy...    74  4e-13
+SEQ gi|1086280|pir||S54146 trypsin (EC 3.4.21.4) - penaeid shrimp (P...    73  4e-13
+SEQ gi|3006082|emb|CAA75309.1| (Y15039) trypsin [Litopenaeus vannamei]     73  4e-13
+SEQ gi|9957760|gb|AAG09469.1|AF242195_1 (AF242195) KLK15 [Homo sapiens]    72  1e-12
+SEQ gi|9957762|gb|AAG09471.1| (AF242195) KLK15 splice variant 2 [Hom...    72  1e-12
+SEQ gi|13399302|ref|NP_059979.1| ACO for serine protease homologue; ...    72  1e-12
+SEQ gi|14484922|gb|AAK62813.1|AF303046_1 (AF303046) prostinogen [Hom...    72  1e-12
+SEQ gi|1708046|sp|Q06605|GRL1_RAT GRANZYME-LIKE PROTEIN I PRECURSOR ...    70  5e-12
+SEQ gi|9910298|ref|NP_064358.1| protease, serine, 20; hippostasin [M...    69  1e-11
+SEQ gi|6681654|dbj|BAA36955.1| (AB016227) hippostasin prostate type ...    69  1e-11
+SEQ gi|11424671|ref|XP_009005.1| kallikrein 11 [Homo sapiens] >gi|36...    69  1e-11
+SEQ gi|5803199|ref|NP_006844.1| kallikrein 11; protease, serine, try...    69  1e-11
+SEQ gi|10835840|pdb|1FI8|A Chain A, Rat Granzyme B [n66q] Complexed ...    68  2e-11
+SEQ gi|12842990|dbj|BAB25816.1| (AK008660) putative [Mus musculus]         68  2e-11
+SEQ gi|136424|sp|P00765|TRYP_ASTFL TRYPSIN I >gi|67554|pir||TRCY1 tr...    68  2e-11
+SEQ gi|13183620|gb|AAK15274.1|AF312826_1 (AF312826) sea star regener...    68  2e-11
+SEQ gi|3318901|pdb|1FXY|A Chain A, Coagulation Factor Xa-Trypsin Chi...    68  2e-11
+SEQ gi|464965|sp|P35034|TRYP_PLEPL TRYPSIN PRECURSOR >gi|345579|pir|...    67  5e-11
+SEQ gi|128371|sp|P18291|NKP1_RAT NATURAL KILLER CELL PROTEASE 1 PREC...    66  7e-11
+SEQ gi|2853182|emb|CAA10915.1| (AJ222658) Trypsin [Pacifastacus leni...    66  7e-11
+SEQ gi|11066284|gb|AAG28537.1|AF198965_1 (AF198965) duodenase precur...    66  8e-11
+SEQ gi|14278517|pdb|1EUF|A Chain A, Bovine Duodenase(New Serine Prot...    66  8e-11
+SEQ gi|544112|sp|P36178|CTR2_PENVA CHYMOTRYPSIN BII PRECURSOR              66  1e-10
+SEQ gi|1169259|sp|P80219|DDN1_BOVIN DUODENASE I (DUODENUM SERINE PRO...    65  2e-10
+SEQ gi|1071883|pir||S43259 granzyme-like protein III (EC 3.4.21.-) p...    65  2e-10
+SEQ gi|5441861|dbj|BAA82366.1| (AB029754) chymotrypsinogen 2 [Parali...    64  2e-10
+SEQ gi|1345861|sp|P47796|CTRA_GADMO CHYMOTRYPSIN A PRECURSOR >gi|107...    64  3e-10
+SEQ gi|9296988|sp|Q9UKQ9|KLK9_HUMAN KALLIKREIN 9 PRECURSOR (KALLIKRE...    64  4e-10
+SEQ gi|461857|sp|Q00871|CTR1_PENVA CHYMOTRYPSIN BI PRECURSOR >gi|478...    64  4e-10
+SEQ gi|2624387|emb|CAA71672.1| (Y10664) Chymotrypsin BI [Litopenaeus...    64  4e-10
+SEQ gi|6010462|gb|AAF01139.1|AF124299_1 (AF124299) stratum corneum c...    63  5e-10
+SEQ gi|14141577|dbj|BAB55604.1| (AB008371) thymopsin [Mus musculus]        63  5e-10
+SEQ gi|4506155|ref|NP_002765.1| kallikrein 6 (neurosin, zyme); prote...    63  5e-10
+SEQ gi|13652845|ref|XP_009001.3| kallikrein 6 (neurosin, zyme) [Homo...    63  5e-10
+SEQ gi|2499856|sp|Q28153|EL1_BOVIN ELASTASE 1 PRECURSOR >gi|163484|g...    63  6e-10
+SEQ gi|3123249|sp|P80931|MCT1_SHEEP MAST CELL PROTEASE 1A PRECURSOR ...    63  7e-10
+SEQ gi|1698704|gb|AAB48265.1| (U67912) mast cell protease 9 [Rattus ...    62  1e-09
+SEQ gi|11024706|ref|NP_062196.1| mast cell protease 9 [Rattus norveg...    62  1e-09
+SEQ gi|5441859|dbj|BAA82365.1| (AB029753) chymotrypsinogen 1 [Parali...    62  1e-09
+SEQ gi|5441865|dbj|BAA82368.1| (AB029756) elastase 2 precursor [Para...    62  1e-09
+SEQ gi|12843871|dbj|BAB26143.1| (AK009217) putative [Mus musculus]         61  2e-09
+SEQ gi|121585|sp|P08882|GRAC_MOUSE GRANZYME C PRECURSOR (CYTOTOXIC C...    61  2e-09
+SEQ gi|91792|pir||A28566 T-cell suppressor factor, phosphorylcholine...    61  3e-09
+SEQ gi|6093538|sp|O88780|NRPN_RAT NEUROPSIN PRECURSOR (NP) (BRAIN SE...    60  4e-09
+SEQ gi|11424675|ref|XP_009006.1| kallikrein 12 [Homo sapiens] >gi|92...    60  4e-09
+SEQ gi|9665236|ref|NP_062544.1| kallikrein 12 [Homo sapiens] >gi|624...    60  4e-09
+SEQ gi|3914457|sp|Q28661|PRTC_RABIT VITAMIN-K DEPENDENT PROTEIN C PR...    60  4e-09
+SEQ gi|9506997|ref|NP_062048.1| protease, serine, 9 [Rattus norvegic...    60  4e-09
+SEQ gi|12840914|dbj|BAB25008.1| (AK007392) putative [Mus musculus]         60  4e-09
+SEQ gi|1698706|gb|AAB48266.1| (U67913) mast cell protease 10 [Rattus...    60  4e-09
+SEQ gi|4503149|ref|NP_001902.1| cathepsin G [Homo sapiens] >gi|11434...    60  4e-09
+SEQ gi|110680|pir||A34910 mast cell proteinase (EC 3.4.21.-) 2 precu...    60  4e-09
+SEQ gi|2392230|pdb|1CGH|A Chain A, Human Cathepsin G                       60  4e-09
+SEQ gi|3891975|pdb|1AU8|A Chain A, Human Cathepsin G                       60  4e-09
+SEQ gi|50329|emb|CAA40308.1| (X56990) cytotoxic cell proteinase 5 [M...    60  5e-09
+SEQ gi|110841|pir||A36172 procytotoxic T-lymphocyte proteinase (EC 3...    60  5e-09
+SEQ gi|6754106|ref|NP_034502.1| granzyme D [Mus musculus] >gi|333446...    60  5e-09
+SEQ gi|7305123|ref|NP_038570.1| granzyme B [Mus musculus] >gi|121584...    60  5e-09
+SEQ gi|6754104|ref|NP_034501.1| granzyme C [Mus musculus] >gi|211808...    60  6e-09
+SEQ gi|4826950|ref|NP_005037.1| kallikrein 7 (chymotryptic, stratum ...    60  6e-09
+SEQ gi|6679487|ref|NP_032966.1| protease, serine, 19 (neuropsin) [Mu...    60  6e-09
+SEQ gi|4699764|pdb|1NPM|A Chain A, Neuropsin, A Serine Protease Expr...    60  6e-09
+SEQ gi|4506115|ref|NP_000303.1| protein C (inactivator of coagulatio...    60  6e-09
+SEQ gi|190323|gb|AAA60164.1| (K02059) protein C [Homo sapiens]             60  6e-09
+SEQ gi|190332|gb|AAA60165.1| (M12712) Protein C [Homo sapiens]             60  6e-09
+SEQ gi|2392174|pdb|1AUT|C Chain C, Human Activated Protein C               60  6e-09
+SEQ gi|6685647|sp|O46683|MCT3_SHEEP MAST CELL PROTEASE 3 PRECURSOR (...    59  7e-09
+SEQ gi|6005844|ref|NP_009127.1| kallikrein 8 (neuropsin/ovasin); pro...    59  9e-09
+SEQ gi|3176393|dbj|BAA28676.1| (AB012761) neuropsin [Homo sapiens] >...    59  9e-09
+SEQ gi|5672479|dbj|BAA82666.1| (AB008927) neuropsin type2 [Homo sapi...    59  9e-09
+SEQ gi|90424|pir||S06176 cytotoxic T-lymphocyte proteinase (EC 3.4.2...    59  1e-08
+SEQ gi|6754112|ref|NP_034505.1| granzyme G; AKA granzyme G; CTL seri...    59  1e-08
+SEQ gi|1679664|gb|AAB19191.1| (U66473) preprogranzyme G [Mus musculus]     59  1e-08
+SEQ gi|131065|sp|P00745|PRTC_BOVIN VITAMIN-K DEPENDENT PROTEIN C PRE...    59  1e-08
+SEQ gi|163487|gb|AAA30685.1| (K02435) protein C prepropeptide [Bos t...    59  1e-08
+SEQ gi|6978801|ref|NP_036684.1| elastase 1 [Rattus norvegicus] >gi|2...    59  1e-08
+SEQ gi|12840266|dbj|BAB24801.1| (AK006951) putative [Mus musculus]         59  1e-08
+SEQ gi|6755180|ref|NP_035307.1| protease, serine, 18 [Mus musculus] ...    59  1e-08
+SEQ gi|14141579|dbj|BAB55605.1| (AB008928) neurosin [Mus musculus]         59  1e-08
+SEQ gi|6912644|ref|NP_036559.1| kallikrein 5; stratum corneum trypti...    59  1e-08
+SEQ gi|11244763|gb|AAG33358.1|AF243527_6 (AF243527) stratum corneum ...    59  1e-08
+SEQ gi|6678840|ref|NP_032598.1| mast cell protease 8 [Mus musculus] ...    58  2e-08
+SEQ gi|5478490|gb|AAD43900.1|AF119363_1 (AF119363) mast cell proteas...    58  2e-08
+SEQ gi|2764810|emb|CAA62746.1| (X91400) elastase I [Macaca fascicula...    58  2e-08
+SEQ gi|6981412|ref|NP_036935.1| protein C [Rattus norvegicus] >gi|40...    58  2e-08
+SEQ gi|111275|pir||S15685 kallikrein, glandular - multimammate rat (...    58  2e-08
+SEQ gi|1633225|pdb|1FUJ|A Chain A, Pr3 (Myeloblastin) >gi|1633226|pd...    58  2e-08
+SEQ gi|181186|gb|AAA75490.1| (M28879) granzyme B [Homo sapiens]            58  2e-08
+SEQ gi|338011|gb|AAA36603.1| (J03189) proteolytic serine esterase [H...    58  2e-08
+SEQ gi|121587|sp|P08884|GRAE_MOUSE GRANZYME E PRECURSOR (CYTOTOXIC C...    58  2e-08
+SEQ gi|13374559|ref|NP_075671.1| RIKEN cDNA 1810004D15 gene [Mus mus...    58  2e-08
+SEQ gi|12843559|dbj|BAB26029.1| (AK009019) putative [Mus musculus]         58  2e-08
+SEQ gi|1314481|gb|AAC47030.1| (U49931) serine collagenase 1 precurso...    58  3e-08
+SEQ gi|12840814|dbj|BAB24967.1| (AK007333) putative [Mus musculus]         58  3e-08
+SEQ gi|193628|gb|AAA37737.1| (J03256) granzyme E [Mus musculus]            58  3e-08
+SEQ gi|6754108|ref|NP_034503.1| granzyme E [Mus musculus] >gi|167966...    58  3e-08
+SEQ gi|1706190|sp|P80646|CTRB_GADMO CHYMOTRYPSIN B                         58  3e-08
+SEQ gi|7435614|pir||S72219 chymotrypsin B - Atlantic cod (fragments)       58  3e-08
+SEQ gi|190533|gb|AAB59493.1| (M96839) [Human proteinase 3 gene], gen...    58  3e-08
+SEQ gi|1335280|emb|CAA39203.1| (X55668) proteinase 3 [Homo sapiens]        58  3e-08
+SEQ gi|11426381|ref|XP_009264.1| proteinase 3 (serine proteinase, ne...    58  3e-08
+SEQ gi|4758494|ref|NP_004122.1| granzyme B precursor; Granzyme B (cy...    57  3e-08
+SEQ gi|181159|gb|AAB59528.1| (J03072) serine protease B [Homo sapiens]     57  3e-08
+SEQ gi|1070495|pir||A61021 granzyme B (EC 3.4.21.79) precursor - human     57  3e-08
+SEQ gi|13096242|pdb|1FQ3|A Chain A, Crystal Structure Of Human Granz...    57  3e-08
+SEQ gi|13631361|ref|XP_012328.2| granzyme B precursor [Homo sapiens]       57  3e-08
+SEQ gi|14278216|pdb|1IAU|A Chain A, Human Granzyme B In Complex With...    57  3e-08
+SEQ gi|1708047|sp|Q06606|GRL2_RAT GRANZYME-LIKE PROTEIN II PRECURSOR...    57  3e-08
+SEQ gi|6678838|ref|NP_032597.1| mast cell protease 2 [Mus musculus] ...    57  3e-08
+SEQ gi|2645979|gb|AAC33795.1| (AF034569) anticoagulant protein C [Mu...    57  4e-08
+SEQ gi|12802523|gb|AAK07918.1|AF318182_1 (AF318182) anticoagulant pr...    57  4e-08
+SEQ gi|121590|sp|P20718|GRAH_HUMAN GRANZYME H PRECURSOR (CYTOTOXIC T...    57  4e-08
+SEQ gi|11424656|ref|XP_009000.1| kallikrein 5 [Homo sapiens]               57  5e-08
+SEQ gi|109655|pir||S23505 chymase (EC 3.4.21.39) 2 - mouse (fragment...    57  5e-08
+SEQ gi|13959030|gb|AAK51074.1|AF361939_1 (AF361939) mast cell protea...    57  5e-08
+SEQ gi|6679477|ref|NP_032960.1| protein C; inactivator of coagulatio...    57  5e-08
+SEQ gi|4938265|emb|CAB43766.1| (AJ242521) chymotrypsin B precursor [...    57  5e-08
+SEQ gi|6678842|ref|NP_032599.1| mast cell protease-like [Mus musculu...    56  5e-08
+SEQ gi|6754664|ref|NP_034912.1| mast cell protease 9 [Mus musculus] ...    56  5e-08
+SEQ gi|2291028|gb|AAB65246.1| (AF007120) mast cell protease 9 [Mus m...    56  5e-08
+SEQ gi|12000367|gb|AAG24502.1| (AY007568) mast cell protease-9 [Mus ...    56  5e-08
+SEQ gi|53028|emb|CAA32255.1| (X14093) CTL serine protease 2 [Mus mus...    56  6e-08
+SEQ gi|4454073|emb|CAA05126.1| (AJ001979) Protein C [Canis familiaris]     56  6e-08
+SEQ gi|12836266|dbj|BAB23579.1| (AK004807) putative [Mus musculus]         56  6e-08
+SEQ gi|2737921|gb|AAB94638.1| (U76256) enamel matrix serine proteina...    56  6e-08
+SEQ gi|12248797|dbj|BAB20287.1| (AB020757) chymopasin [Rattus norveg...    56  7e-08
+SEQ gi|119254|sp|P00773|EL1_RAT ELASTASE 1 PRECURSOR >gi|67567|pir||...    56  7e-08
+SEQ gi|119253|sp|P00772|EL1_PIG ELASTASE 1 PRECURSOR >gi|67568|pir||...    56  7e-08
+SEQ gi|217712|dbj|BAA00049.1| (D00070) preproelastase 1 peptide [Sus...    56  7e-08
+SEQ gi|13096632|pdb|1HV7|A Chain A, Porcine Pancreatic Elastase Comp...    56  7e-08
+SEQ gi|7546312|pdb|1QNJ|A Chain A, The Structure Of Native Porcine P...    56  7e-08
+SEQ gi|12834991|dbj|BAB23113.1| (AK003996) putative [Mus musculus]         56  7e-08
+SEQ gi|4731318|gb|AAD28441.1|AF120493_1 (AF120493) elastase 1 precur...    56  7e-08
+SEQ gi|7435611|pir||S70439 pancreatic elastase I (allele HEL1-16) pr...    56  7e-08
+SEQ gi|11068133|ref|NP_067609.1| mast cell protease 8 [Rattus norveg...    56  9e-08
+SEQ gi|11065894|gb|AAG28380.1|AF191307_1 (AF191307) protein C [Sus s...    56  1e-07
+SEQ gi|217684|dbj|BAA00118.1| (D00160) pancreatic preproelastase I [...    56  1e-07
+SEQ gi|585360|sp|Q07276|KLK1_MACFA GLANDULAR KALLIKREIN 1 PRECURSOR ...    56  1e-07
+SEQ gi|9837154|gb|AAG00451.1| (AF275652) N-elastase [Ornithorhynchus...    56  1e-07
+SEQ gi|6754110|ref|NP_034504.1| granzyme F; granzyme G; AKA granzyme...    56  1e-07
+SEQ gi|3041665|sp|P00771|COGS_UCAPU BRACHYURIN (COLLAGENOLYTIC PROTE...    56  1e-07
+SEQ gi|9257067|pdb|1QR3|E Chain E, Structure Of Porcine Pancreatic E...    56  1e-07
+SEQ gi|515121|pdb|1ESB|    Elastase (E.C.3.4.21.36) Complexed With N...    56  1e-07
+SEQ gi|355937|prf||1207237A elastase 1,pancreatic [Sus scrofa domest...    55  1e-07
+SEQ gi|4758960|ref|NP_004908.1| kallikrein 4 (prostase, enamel matri...    55  1e-07
+SEQ gi|11424644|ref|XP_008997.1| kallikrein 4 (prostase, enamel matr...    55  1e-07
+SEQ gi|12002224|gb|AAG43246.1| (AF126401) enamel matrix serine prote...    55  1e-07
+SEQ gi|35193|emb|CAA39598.1| (X56132) alternative reading frame (AA ...    55  1e-07
+SEQ gi|7382458|ref|NP_002768.2| proteinase 3 (serine proteinase, neu...    55  1e-07
+SEQ gi|279563|pir||PRHU3 proteinase 3 (EC 3.4.21.-) precursor - human      55  1e-07
+SEQ gi|747844|emb|CAA39597.1| (X56132) proteinase 3 precursor (AA 23...    55  1e-07
+SEQ gi|7512178|pir||T30337 polyprotein - African clawed frog >gi|298...    55  2e-07
+SEQ gi|4557951|pdb|1PJP|A Chain A, The 2.2 A Crystal Structure Of Hu...    55  2e-07
+SEQ gi|67576|pir||KCUF brachyurin (EC 3.4.21.32) [validated] - Atlan...    55  2e-07
+SEQ gi|67570|pir||CPBOA3 procarboxypeptidase A complex component III...    55  2e-07
+SEQ gi|1827671|pdb|1FON|A Chain A, Crystal Structure Of Bovine Proca...    55  2e-07
+SEQ gi|5915862|sp|P05805|CAC3_BOVIN PROPROTEINASE E PRECURSOR (PROCA...    55  2e-07
+SEQ gi|998972|gb|AAB34364.1| ICK=intron-containing kallikrein {alter...    55  2e-07
+SEQ gi|181137|gb|AAA52118.1| (J04071) serine esterase [Homo sapiens]       55  2e-07
+SEQ gi|4503137|ref|NP_001898.1| chymotrypsin-like; Chymotrypsin-like...    55  2e-07
+SEQ gi|117612|sp|P04813|CTR2_CANFA CHYMOTRYPSINOGEN 2 PRECURSOR >gi|...    54  2e-07
+SEQ gi|128152|sp|P00757|KLK4_MOUSE 7S NERVE GROWTH FACTOR ALPHA CHAI...    54  2e-07
+SEQ gi|8659572|ref|NP_035045.1| nerve growth factor, alpha [Mus musc...    54  2e-07
+SEQ gi|762984|emb|CAA25932.1| (X01801) nerve growth factor alpha-sub...    54  2e-07
+SEQ gi|3212604|pdb|1SGF|A Chain A, Crystal Structure Of 7s Ngf: A Co...    54  2e-07
+SEQ gi|6671768|ref|NP_031742.1| chymase 2, mast cell [Mus musculus] ...    54  2e-07
+SEQ gi|3024066|sp|Q28773|KLK1_PAPHA GLANDULAR KALLIKREIN 1 PRECURSOR...    54  2e-07
+SEQ gi|1470062|gb|AAB05240.1| (U57062) natural killer cell protease ...    54  3e-07
+SEQ gi|3024116|sp|P56435|MCT1_MACFA CHYMASE PRECURSOR (MAST CELL PRO...    54  3e-07
+SEQ gi|1708955|sp|P52195|MCT1_PAPHA CHYMASE PRECURSOR (MAST CELL PRO...    54  3e-07
+SEQ gi|3452123|gb|AAC32753.1| (AF012464) trypsinogen 3 precursor [Pl...    54  3e-07
+SEQ gi|5441869|dbj|BAA82370.1| (AB029758) elastase 4 precursor [Para...    54  3e-07
+SEQ gi|125170|sp|P06870|KLK1_HUMAN GLANDULAR KALLIKREIN 1 PRECURSOR ...    54  3e-07
+SEQ gi|186651|gb|AAA59455.1| (M33109) kallikrein [Homo sapiens]            54  3e-07
+SEQ gi|226064|prf||1409287A urinary prokallikrein [Homo sapiens]           54  3e-07
+SEQ gi|386843|gb|AAA59201.1| (M12706) kallikrein [Homo sapiens]            54  3e-07
+SEQ gi|742152|prf||2009261A kallidinogenase [Homo sapiens]                 54  3e-07
+SEQ gi|13529059|gb|AAH05313.1|AAH05313 (BC005313) kallikrein 1, rena...    54  3e-07
+SEQ gi|4502907|ref|NP_001827.1| chymase 1, mast cell; Chymase-1, mas...    54  3e-07
+SEQ gi|4139720|pdb|1KLT|    Crystal Structure Of Pmsf-Treated Human ...    54  3e-07
+SEQ gi|4504875|ref|NP_002248.1| kallikrein 1, renal/pancreas/salivar...    54  3e-07
+SEQ gi|6851258|gb|AAF29490.1|AF173845_1 (AF173845) tissue kallikrein...    54  4e-07
+SEQ gi|9910516|ref|NP_064312.1| protease, serine 17 (enamel matrix, ...    54  4e-07
+SEQ gi|9230643|gb|AAF85937.1|AF198031_1 (AF198031) enamel matrix ser...    54  4e-07
+SEQ gi|1942485|pdb|1PYT|C Chain C, Ternary Complex Of Procarboxypept...    54  4e-07
+SEQ gi|13652842|ref|XP_009004.2| kallikrein 10 [Homo sapiens] >gi|10...    53  5e-07
+SEQ gi|13385032|ref|NP_079859.1| RIKEN cDNA 2200008D09 gene [Mus mus...    53  5e-07
+SEQ gi|12833514|dbj|BAB22553.1| (AK003079) putative [Mus musculus] >...    53  5e-07
+SEQ gi|12841192|dbj|BAB25112.1| (AK007566) putative [Mus musculus]         53  5e-07
+SEQ gi|1470064|gb|AAB05241.1| (U57063) natural killer cell protease ...    53  5e-07
+SEQ gi|4511879|gb|AAD21524.1| (AF015449) proteinase 3 [Homo sapiens]       53  5e-07
+SEQ gi|1336053|gb|AAB01218.1| (U56423) chymotrypsin-like protease pr...    53  6e-07
+SEQ gi|14318431|gb|AAK13194.2| (AY008349) putative chymotrypsin-like...    53  6e-07
+SEQ gi|4503135|ref|NP_001897.1| chymotrypsinogen B1 [Homo sapiens] >...    53  7e-07
+SEQ gi|609583|gb|AAA58781.1| (L33839) kallikrein [Rattus norvegicus]       52  8e-07
+SEQ gi|3914456|sp|Q28506|PRTC_MACMU VITAMIN-K DEPENDENT PROTEIN C (A...    52  1e-06
+SEQ gi|476488|pir||KQPG tissue kallikrein (EC 3.4.21.35), pancreatic...    52  1e-06
+SEQ gi|2851459|sp|P00752|KLK_PIG GLANDULAR KALLIKREIN (TISSUE KALLIK...    52  1e-06
+SEQ gi|223966|prf||1006237A nerve growth factor alpha 7S [Mus musculus]    52  2e-06
+SEQ gi|11096217|gb|AAG30240.1| (AF302479) serine protease K8/F1R1 [C...    52  2e-06
+SEQ gi|6681083|ref|NP_031826.1| cathepsin G [Mus musculus] >gi|17056...    52  2e-06
+SEQ gi|7688073|emb|CAB89695.1| (AJ277423) mannose-binding protein as...    52  2e-06
+SEQ gi|12843302|dbj|BAB25932.1| (AK008858) putative [Mus musculus]         51  2e-06
+SEQ gi|13385916|ref|NP_080695.1| RIKEN cDNA 2310074F01 gene [Mus mus...    51  2e-06
+SEQ gi|4098568|gb|AAD00320.1| (U79521) plasminogen activator sPA [Sc...    51  2e-06
+SEQ gi|1310934|pdb|1ELT|    Mol_id: 1; Molecule: Elastase; Chain: Nu...    51  2e-06
+SEQ gi|3212609|pdb|1SGF|Z Chain Z, Crystal Structure Of 7s Ngf: A Co...    51  2e-06
+SEQ gi|12805271|gb|AAH02100.1|AAH02100 (BC002100) Similar to kallikr...    51  2e-06
+SEQ gi|464955|sp|P35041|TRY7_ANOGA TRYPSIN 7 PRECURSOR >gi|630838|pi...    51  2e-06
+SEQ gi|13277969|gb|AAH03851.1|AAH03851 (BC003851) Similar to proteas...    51  2e-06
+SEQ gi|7514382|pir||T10495 chymotrypsin (EC 3.4.21.1) BII - penaeid ...    51  3e-06
+SEQ gi|4506157|ref|NP_002767.1| kallikrein 10; protease, serine-like...    51  3e-06
+SEQ gi|6978717|ref|NP_036668.1| chymotrypsin B [Rattus norvegicus] >...    51  3e-06
+SEQ gi|134129|sp|P18964|VSPA_DABRU VIPERA RUSSELLI PROTEINASE RVV-V ...    51  3e-06
+SEQ gi|134130|sp|P18965|VSPG_DABRU VIPERA RUSSELLI PROTEINASE RVV-V ...    51  3e-06
+SEQ gi|11096195|gb|AAG30229.1| (AF302468) serine protease K14/F1R2 [...    51  3e-06
+SEQ gi|11096235|gb|AAG30249.1| (AF302488) serine protease K2.2/F1R2 ...    51  3e-06
+SEQ gi|1633237|pdb|1DST|    Mutant Of Factor D With Enhanced Catalyt...    51  3e-06
+SEQ gi|5441863|dbj|BAA82367.1| (AB029755) elastase 1 precursor [Para...    51  3e-06
+SEQ gi|9757698|dbj|BAB08216.1| (AB038496) embryonic serine protease-...    51  3e-06
+SEQ gi|10727021|gb|AAF46764.2| (AE003455) CG4386 gene product [Droso...    51  3e-06
+SEQ gi|88301|pir||A29934 pancreatic elastase (EC 3.4.21.36) IIIA pre...    51  3e-06
+SEQ gi|1352363|sp|P09093|EL3A_HUMAN ELASTASE IIIA PRECURSOR (PROTEAS...    51  3e-06
+SEQ gi|13543518|gb|AAH05918.1|AAH05918 (BC005918) Similar to elastas...    51  3e-06
+SEQ gi|14249992|gb|AAH08383.1|AAH08383 (BC008383) Similar to elastas...    51  3e-06
+SEQ gi|5032185|ref|NP_005647.1| transmembrane protease, serine 2 [Ho...    51  3e-06
+SEQ gi|5001724|gb|AAD37117.1|AF123453_1 (AF123453) transmembrane ser...    51  3e-06
+SEQ gi|13655026|ref|XP_009774.3| transmembrane protease, serine 2 [H...    51  3e-06
+SEQ gi|14091028|gb|AAK53559.1|AF329454_1 (AF329454) epitheliasin [Ho...    51  3e-06
+SEQ gi|417205|sp|P32824|KLKR_PRANA GLANDULAR KALLIKREIN, RENAL PRECU...    51  3e-06
+SEQ gi|3914454|sp|Q28380|PRTC_HORSE VITAMIN-K DEPENDENT PROTEIN C (A...    51  3e-06
+SEQ gi|2331217|gb|AAB66878.1| (AF012809) trypsin [Anopheles stephensi]     51  4e-06
+SEQ gi|6678810|ref|NP_032581.1| mannan-binding lectin serine proteas...    51  4e-06
+SEQ gi|346943|pir||PC1235 29K serine proteinase (EC 3.4.21.-) - mouse      51  4e-06
+SEQ gi|9957761|gb|AAG09470.1| (AF242195) KLK15 splice variant 1 [Hom...    51  4e-06
+SEQ gi|9957763|gb|AAG09472.1| (AF242195) KLK15 splice variant 3 [Hom...    51  4e-06
+SEQ gi|7705648|ref|NP_056933.1| pancreatic elastase IIB [Homo sapien...    50  4e-06
+SEQ gi|11096219|gb|AAG30241.1| (AF302480) serine protease K6.2/F1R2 ...    50  5e-06
+SEQ gi|11096221|gb|AAG30242.1| (AF302481) serine protease K4.1/F1R2 ...    50  5e-06
+SEQ gi|1708954|sp|P50340|MCT1_MERUN MAST CELL PROTEASE 1 PRECURSOR >...    50  5e-06
+SEQ gi|7294576|gb|AAF49916.1| (AE003541) CG10663 gene product [Droso...    50  5e-06
+SEQ gi|117615|sp|P00766|CTRA_BOVIN CHYMOTRYPSINOGEN A >gi|67573|pir|...    50  6e-06
+SEQ gi|230965|pdb|4CHA|A Chain A, Alpha-Chymotrypsin (E.C.3.4.21.1) ...    50  6e-06
+SEQ gi|10835745|pdb|1GG6|B Chain B, Crystal Stucture Of Gamma Chymot...    50  6e-06
+SEQ gi|7766829|pdb|1DLK|B Chain B, Crystal Structure Analysis Of Del...    50  6e-06
+SEQ gi|6429055|dbj|BAA86869.1| (D83276) mannose-binding protein-asso...    50  6e-06
+SEQ gi|7949064|ref|NP_032482.1| kallikrein 5 [Mus musculus] >gi|1251...    50  6e-06
+SEQ gi|12313869|ref|NP_034769.3| kallikrein renal/pancreas/salivary ...    50  6e-06
+SEQ gi|520591|dbj|BAA01257.1| (D10464) tissue kallikrein [Mus muscul...    50  6e-06
+SEQ gi|10441463|gb|AAG17054.1|AF188613_1 (AF188613) channel activati...    50  6e-06
+SEQ gi|13633203|sp|Q9ESD1|PSS8_MOUSE PROSTASIN PRECURSOR (CHANNEL AC...    50  6e-06
+SEQ gi|631512|pir||S45303 tissue kallikrein (EC 3.4.21.35) precursor...    50  6e-06
+SEQ gi|1336172|gb|AAB58350.1| (U56956) elastase precursor [Gadus mor...    50  6e-06
+SEQ gi|128153|sp|P00756|KLK3_MOUSE GLANDULAR KALLIKREIN K3 PRECURSOR...    49  7e-06
+SEQ gi|1334246|emb|CAA25930.1| (X01799) NGF-gamma [Mus musculus]           49  7e-06
+SEQ gi|7435615|pir||JE0151 myonase (EC 3.4.-.-) - mouse                    49  7e-06
+SEQ gi|11181573|gb|AAG32641.1|AF202076_1 (AF202076) prostasin [Rattu...    49  7e-06
+SEQ gi|13632973|sp|Q9ES87|PSS8_RAT PROSTASIN PRECURSOR >gi|12248788|...    49  7e-06
+SEQ gi|7657651|ref|NP_056590.1| transmembrane protease, serine 2; ep...    49  7e-06
+SEQ gi|12643799|sp|Q9JIQ8|TMS2_MOUSE TRANSMEMBRANE PROTEASE, SERINE ...    49  7e-06
+SEQ gi|9739019|gb|AAF97867.1|AF199362_1 (AF199362) serine protease T...    49  7e-06
+SEQ gi|6815047|dbj|BAA82369.2| (AB029757) elastase 3 precursor [Para...    49  7e-06
+SEQ gi|9837156|gb|AAG00452.1| (AF275653) granzyme [Ornithorhynchus a...    49  7e-06
+SEQ gi|7302895|gb|AAF57967.1| (AE003806) CG5197 gene product [Drosop...    49  8e-06
+SEQ gi|3915685|sp|P05620|VSP1_TRIFL FLAVOXOBIN PRECURSOR >gi|2114114...    49  8e-06
+SEQ gi|9506889|ref|NP_062195.1| mast cell protease 7 [Rattus norvegi...    49  8e-06
+SEQ gi|53157|emb|CAA48704.1| (X68804) serine protease 4 [Mus musculus]     49  8e-06
+SEQ gi|6754662|ref|NP_034909.1| mast cell protease 4 [Mus musculus] ...    49  8e-06
+SEQ gi|7435616|pir||S26042 chymase (EC 3.4.21.39) 4 precursor - mous...    49  8e-06
+SEQ gi|11559289|dbj|BAB18732.1| (AB051900) myonase [Mus musculus]          49  8e-06
+SEQ gi|12000374|gb|AAG24503.1| (AY007569) mouse mast cell protease-4...    49  8e-06
+SEQ gi|125173|sp|P12323|KLK2_CAVPO GLANDULAR KALLIKREIN, PROSTATIC (...    49  9e-06
+SEQ gi|104457|pir||A41456 venombin A (EC 3.4.21.74) [validated] - ha...    49  9e-06
+SEQ gi|14349287|dbj|BAB60718.1| (AB052635) proacrosin [Halocynthia r...    49  9e-06
+SEQ gi|4378029|gb|AAD19350.1| (AF089847) thrombin-like defibrase 1 [...    49  9e-06
+SEQ gi|13959649|sp|Q9I8X1|VSP2_AGKAC VENOM SERINE PROTEINASE DAV-PA ...    49  9e-06
+SEQ gi|11378386|pir||JG0169 venombin A (EC 3.4.21.74) [validated] - ...    49  9e-06
+SEQ gi|543374|pir||JC2125 chymase (EC 3.4.21.39) precursor - rat >gi...    49  9e-06
+SEQ gi|2815501|sp|P09650|MCT1_RAT MAST CELL PROTEASE I PRECURSOR (RM...    49  9e-06
+SEQ gi|119586|sp|P09582|ESTA_CANFA ARGININE ESTERASE PRECURSOR >gi|8...    49  1e-05
+SEQ gi|108118|pir||A37938 tissue kallikrein (EC 3.4.21.35), prostati...    49  1e-05
+SEQ gi|3914455|sp|Q28412|PRTC_FELCA VITAMIN-K DEPENDENT PROTEIN C (A...    49  1e-05
+SEQ gi|4503547|ref|NP_001962.1| elastase 1, pancreatic [Homo sapiens...    49  1e-05
+SEQ gi|219620|dbj|BAA00165.1| (D00236) pancreatic elastase 2 precurs...    49  1e-05
+SEQ gi|11096231|gb|AAG30247.1| (AF302486) serine protease K16/F1R2 [...    49  1e-05
+SEQ gi|1304147|dbj|BAA07812.1| (D43755) protein C [Mus musculus]           49  1e-05
+SEQ gi|67580|pir||DBHU complement factor D (EC 3.4.21.46) precursor ...    49  1e-05
+SEQ gi|4503309|ref|NP_001919.1| adipsin/complement factor D precurso...    49  1e-05
+SEQ gi|5542120|pdb|1BIO|    Human Complement Factor D In Complex Wit...    49  1e-05
+SEQ gi|3915626|sp|P00746|CFAD_HUMAN COMPLEMENT FACTOR D PRECURSOR (C...    49  1e-05
+SEQ gi|6730437|pdb|1FDP|A Chain A, Proenzyme Of Human Complement Fac...    49  1e-05
+SEQ gi|13633209|ref|XP_009262.2| adipsin/complement factor D precurs...    49  1e-05
+SEQ gi|1082954|pir||S54115 complement factor D (EC 3.4.21.46) - pig ...    49  1e-05
+SEQ gi|1705760|sp|P51779|CFAD_PIG COMPLEMENT FACTOR D PRECURSOR (C3 ...    49  1e-05
+SEQ gi|11096213|gb|AAG30238.1| (AF302477) serine protease K10/F1R1 [...    49  1e-05
+SEQ gi|119218|sp|P15948|KLKM_MOUSE GLANDULAR KALLIKREIN K22 PRECURSO...    49  1e-05
+SEQ gi|7415931|dbj|BAA93614.1| (AB038652) miniature swine mast cell ...    49  1e-05
+SEQ gi|2094763|dbj|BAA19932.1| (D85517) chymase 1 [Mesocricetus aura...    48  1e-05
+SEQ gi|387167|gb|AAA37682.1| (M17979) epidermal growth factor bindin...    48  1e-05
+SEQ gi|13385812|ref|NP_080593.1| RIKEN cDNA 1700016G05 gene [Mus mus...    48  2e-05
+SEQ gi|1169898|sp|P43685|GILX_HELHO GILATOXIN >gi|542660|pir||A48598...    48  2e-05
+SEQ gi|4505107|ref|NP_001870.1| mannan-binding lectin serine proteas...    48  2e-05
+SEQ gi|6683456|dbj|BAA89206.1| (AB007617) MASP/P100 [Homo sapiens]         48  2e-05
+SEQ gi|13648464|ref|XP_003193.3| C4/C2 activating component of Ra-re...    48  2e-05
+SEQ gi|2460245|gb|AAB91992.1| (AF020767) skeletal muscle neutral pro...    48  2e-05
+SEQ gi|6978803|ref|NP_036685.1| elastase 2, pancreatic [Rattus norve...    48  2e-05
+SEQ gi|1352202|sp|P48740|CRAR_HUMAN COMPLEMENT-ACTIVATING COMPONENT ...    48  2e-05
+SEQ gi|7705572|ref|NP_032483.1| kallikrein 8; protease, serine, 19 (...    48  2e-05
+SEQ gi|13638706|ref|XP_001583.2| 6533 [Homo sapiens] >gi|14530777|em...    48  2e-05
+SEQ gi|1717790|sp|P50342|TRYT_MERUN MAST CELL TRYPTASE PRECURSOR >gi...    48  2e-05
+SEQ gi|5031683|ref|NP_005738.1| elastase 3, pancreatic (protease E) ...    48  2e-05
+SEQ gi|5525101|dbj|BAA82522.1| (AB030007) tunicate retinoic acid-ind...    48  2e-05
+SEQ gi|2367493|gb|AAB69653.1| (AF011897) trypsinogen 1 [Boltenia vil...    48  2e-05
+SEQ gi|547791|sp|P36374|KLK8_RAT GLANDULAR KALLIKREIN 8, PROSTATIC P...    48  2e-05
+SEQ gi|2275016|emb|CAA03899.1| (AJ000067) elastase [Macaca mulatta]        48  2e-05
+SEQ gi|6753734|ref|NP_034245.1| epidermal growth factor binding prot...    48  2e-05
+SEQ gi|1351311|sp|P35037|TRY3_ANOGA TRYPSIN 3 PRECURSOR >gi|630835|p...    48  2e-05
+SEQ gi|125179|sp|P15946|KLKB_MOUSE GLANDULAR KALLIKREIN K11 PRECURSO...    48  2e-05
+SEQ gi|7512910|pir||T08808 hypothetical protein DKFZp586J1923.1 - hu...    47  2e-05
+SEQ gi|11496281|ref|NP_056411.1| kallikrein 13; kallikrein-like gene...    47  2e-05
+SEQ gi|13652839|ref|XP_012918.2| kallikrein 13 [Homo sapiens]              47  2e-05
+SEQ gi|119220|sp|P15949|KLK9_MOUSE GLANDULAR KALLIKREIN K9 PRECURSOR...    47  3e-05
+SEQ gi|3914452|sp|Q28278|PRTC_CANFA VITAMIN-K DEPENDENT PROTEIN C (A...    47  3e-05
+SEQ gi|5031829|ref|NP_005542.1| kallikrein 2, prostatic [Homo sapien...    47  3e-05
+SEQ gi|4261523|gb|AAD13817.1|S39329_11 (S39329) glandular kallikrein...    47  3e-05
+SEQ gi|6425044|gb|AAF08275.1|AF188745_1 (AF188745) prostrate kallikr...    47  3e-05
+SEQ gi|13652849|ref|XP_008996.2| kallikrein 2, prostatic [Homo sapiens]    47  3e-05
+SEQ gi|7295794|gb|AAF51096.1| (AE003579) CG3229 gene product [Drosop...    47  3e-05
+SEQ gi|7289776|gb|AAF45447.1| (AE002717) CG17571 gene product [Droso...    47  3e-05
+SEQ gi|11096199|gb|AAG30231.1| (AF302470) serine protease K2.1/F1R1 ...    47  3e-05
+SEQ gi|4097755|gb|AAD09539.1| (U67888) mast cell protease 3 [Rattus ...    47  3e-05
+SEQ gi|6706013|emb|CAB65936.1| (AJ243757) beta-fibrinogenase [Agkist...    47  3e-05
+SEQ gi|7291511|gb|AAF46936.1| (AE003459) CG9898 gene product [Drosop...    47  3e-05
+SEQ gi|9650964|dbj|BAB03502.1| (AB037898) membrane bound serine prot...    47  4e-05
+SEQ gi|6754460|ref|NP_034774.1| kallikrein 26 [Mus musculus] >gi|547...    47  4e-05
+SEQ gi|228276|prf||1802275A pro-renin-converting enzyme [Mus musculus]     47  4e-05
+SEQ gi|5295890|emb|CAB46014.1| (AJ242649) plasminogen protein [Rattu...    47  4e-05
+SEQ gi|223207|prf||0608151A kallikrein B [Sus scrofa domestica]            47  4e-05
+SEQ gi|6981132|ref|NP_036725.1| kallikrein 1, renal/pancreas/salivar...    47  4e-05
+SEQ gi|6679723|ref|NP_031998.1| coagulation factor X [Mus musculus] ...    47  4e-05
+SEQ gi|13278040|gb|AAH03877.1|AAH03877 (BC003877) coagulation factor...    47  4e-05
+SEQ gi|8393675|ref|NP_034773.1| kallikrein 24 [Mus musculus] >gi|720...    47  4e-05
+SEQ gi|117616|sp|P00767|CTRB_BOVIN CHYMOTRYPSINOGEN B >gi|67572|pir|...    47  4e-05
+SEQ gi|539475|pir||G42696 thrombin (EC 3.4.21.5) B chain - rainbow t...    47  4e-05
+SEQ gi|11096223|gb|AAG30243.1| (AF302482) serine protease K17/F1R2 [...    47  4e-05
+SEQ gi|126823|sp|P21842|MCT1_CANFA CHYMASE PRECURSOR (MAST CELL PROT...    47  4e-05
+SEQ gi|433826|emb|CAA82243.1| (Z28393) serine proteinase [synthetic ...    47  4e-05
+SEQ gi|433829|emb|CAA82244.1| (Z28394) serine proteinase [synthetic ...    47  4e-05
+SEQ gi|6679625|ref|NP_031378.1| elastase 3B [Homo sapiens] >gi|88302...    47  4e-05
+SEQ gi|190336|gb|AAA36482.1| (M16630) protease E precursor [Homo sap...    47  4e-05
+SEQ gi|14195655|sp|P08861|EL3B_HUMAN ELASTASE IIIB PRECURSOR (PROTEA...    47  4e-05
+SEQ gi|7295218|gb|AAF50541.1| (AE003558) CG16998 gene product [Droso...    47  5e-05
+SEQ gi|1644281|emb|CAA93818.1| (Z69978) serine protease [Anopheles g...    47  5e-05
+SEQ gi|464950|sp|P35038|TRY4_ANOGA TRYPSIN 4 PRECURSOR >gi|630834|pi...    47  5e-05
+SEQ gi|9506885|ref|NP_062194.1| mast cell protease 4 [Rattus norvegi...    47  5e-05
+SEQ gi|4504235|ref|NP_002095.1| granzyme K precursor; granzyme 3; gr...    47  5e-05
+SEQ gi|547792|sp|P36375|KLKA_RAT GLANDULAR KALLIKREIN 10 PRECURSOR (...    47  5e-05
+SEQ gi|7435610|pir||JE0236 tissue kallikrein (EC 3.4.21.35) - mouse ...    47  5e-05
+SEQ gi|4098570|gb|AAD09224.1| (U79522) serine protease SSP1 [Scolope...    47  5e-05
+SEQ gi|13994131|ref|NP_113711.1| nerve growth factor, gamma polypept...    46  6e-05
+SEQ gi|547788|sp|P00758|KLK1_RAT GLANDULAR KALLIKREIN, PANCREATIC 1 ...    46  6e-05
+SEQ gi|818030|emb|CAA27247.1| (X03560) kallikrein [Rattus norvegicus]      46  6e-05
+SEQ gi|5360907|emb|CAB46431.1| (AJ001209) acubin [Deinagkistrodon ac...    46  6e-05
+SEQ gi|9581530|emb|CAC00530.1| (AJ006471) acubin2 [Deinagkistrodon a...    46  6e-05
+SEQ gi|3914453|sp|Q28315|PRTC_CAPHI VITAMIN-K DEPENDENT PROTEIN C (A...    46  6e-05
+SEQ gi|11096211|gb|AAG30237.1| (AF302476) serine protease K17/F1R1 [...    46  7e-05
+SEQ gi|13898841|gb|AAK48894.1|AF357226_1 (AF357226) CUB-serine prote...    46  7e-05
+SEQ gi|12313877|ref|NP_064664.1| kallikrein 27; glandular kallikrein...    46  7e-05
+SEQ gi|3328199|gb|AAC26797.1| (AF075459) coagulation factor X [Canis...    46  7e-05
+SEQ gi|2624767|pdb|1AO5|A Chain A, Mouse Glandular Kallikrein-13 (Pr...    46  8e-05
+SEQ gi|119258|sp|P08419|EL2_PIG ELASTASE 2 PRECURSOR >gi|89258|pir||...    46  8e-05
+SEQ gi|5821885|pdb|1BRU|P Chain P, Structure Of Porcine Pancreatic E...    46  8e-05
+SEQ gi|547793|sp|P36376|KLKC_RAT GLANDULAR KALLIKREIN 12, SUBMANDIBU...    46  8e-05
+SEQ gi|6678836|ref|NP_032596.1| mast cell protease 1 [Mus musculus] ...    46  8e-05
+SEQ gi|7292446|gb|AAF47850.1| (AE003480) mas gene product [Drosophil...    46  8e-05
+SEQ gi|2599504|gb|AAB96905.1| (AF029404) serine protease [Xenopus la...    46  9e-05
+SEQ gi|5453676|ref|NP_006135.1| granzyme A precursor; Granzyme A (Cy...    46  1e-04
+SEQ gi|2459819|gb|AAB71817.1| (AF001296) kallikrein-like serine prot...    46  1e-04
+SEQ gi|4138530|emb|CAA09691.1| (AJ011561) serine protease SmSP1 [Sch...    46  1e-04
+SEQ gi|4138532|emb|CAA09692.1| (AJ011562) serine protease SmSP1 ligh...    46  1e-04
+SEQ gi|13095440|gb|AAK12273.1| (AF333768) thrombin-like enzyme precu...    46  1e-04
+SEQ gi|7438532|pir||S45356 probable serine proteinase (EC 3.4.21.-) ...    46  1e-04
+SEQ gi|4506153|ref|NP_002764.1| protease, serine, 8 (prostasin) [Hom...    46  1e-04
+SEQ gi|13629979|ref|XP_008107.3| protease, serine, 8 (prostasin) [Ho...    46  1e-04
+SEQ gi|13959622|sp|O13069|VSP2_BOTJA KININ-RELEASING AND FIBRINOGEN-...    46  1e-04
+SEQ gi|136423|sp|P19236|TRYM_CANFA MASTOCYTOMA PROTEASE PRECURSOR >g...    46  1e-04
+SEQ gi|4512604|gb|AAA30855.2| (M24665) mastin precursor [Canis sp.]        46  1e-04
+SEQ gi|2507247|sp|P06868|PLMN_BOVIN PLASMINOGEN PRECURSOR >gi|107049...    46  1e-04
+SEQ gi|6693854|gb|AAF25008.1|AF176679_1 (AF176679) salmonase [Gloydi...    45  1e-04
+SEQ gi|11493902|gb|AAG35697.1|AF206667_1 (AF206667) mast cell beta I...    45  1e-04
+SEQ gi|7435631|pir||JC5878 plasma hyaluronan-binding protein precurs...    45  1e-04
+SEQ gi|13446175|emb|CAC35028.1| (AJ311671) neurotrypsin [Rattus norv...    45  1e-04
+SEQ gi|7209780|dbj|BAA92319.1| (AB039276) glandular kallikrein 21 [M...    45  1e-04
+SEQ gi|13242031|gb|AAK16516.1|AF331156_1 (AF331156) serine protease ...    45  1e-04
+SEQ gi|13648878|ref|XP_016203.1| tryptase beta 1 [Homo sapiens] >gi|...    45  2e-04
+SEQ gi|339981|gb|AAA36778.1| (M33491) tryptase-I [Homo sapiens]            45  2e-04
+SEQ gi|13650352|ref|XP_018104.1| similar to tryptase beta 2 (H. sapi...    45  2e-04
+SEQ gi|13650347|ref|XP_012577.2| similar to tryptase beta 2 (H. sapi...    45  2e-04
+SEQ gi|13648874|ref|XP_012534.2| tryptase beta 2 [Homo sapiens]            45  2e-04
+SEQ gi|14336741|gb|AAK61271.1|AE006466_6 (AE006466) tryptase I [Homo...    45  2e-04
+SEQ gi|2664220|emb|CAA10933.1| (AJ222677) coagulation factor X [Mus ...    45  2e-04
+SEQ gi|6754102|ref|NP_034500.1| granzyme A; BLT esterase; Hanukah fa...    45  2e-04
+SEQ gi|420204|pir||B45061 granzyme A (EC 3.4.21.78) precursor, splic...    45  2e-04
+SEQ gi|1085699|pir||S49323 chymotrypsin (EC 3.4.21.1) L - Botryllus ...    45  2e-04
+SEQ gi|539460|pir||I42696 thrombin (EC 3.4.21.5) B chain - Pacific h...    45  2e-04
+SEQ gi|2507246|sp|P32038|CFAD_RAT COMPLEMENT FACTOR D PRECURSOR (C3 ...    45  2e-04
+SEQ gi|11415040|ref|NP_068813.1| suppression of tumorigenicity 14 (c...    45  2e-04
+SEQ gi|10257390|gb|AAG15395.1|AF057145_1 (AF057145) serine protease ...    45  2e-04
+SEQ gi|12249015|dbj|BAB20376.1| (AB030036) prostamin [Homo sapiens]        45  2e-04
+SEQ gi|13543320|gb|AAH05826.1|AAH05826 (BC005826) Similar to suppres...    45  2e-04
+SEQ gi|217686|dbj|BAA00166.1| (D00237) pancreatic elastase 2 precurs...    45  2e-04
+SEQ gi|9651113|dbj|BAB03569.1| (AB046651) hypothetical protein [Maca...    45  2e-04
+SEQ gi|13631308|ref|XP_010270.3| coagulation factor IX [Homo sapiens...    45  2e-04
+SEQ gi|4503649|ref|NP_000124.1| coagulation factor IX; Coagulation f...    45  2e-04
+SEQ gi|3859055|emb|CAA21954.1| (AL033403) F9 (coagulation factor IX ...    45  2e-04
+SEQ gi|5822391|pdb|1RFN|A Chain A, Human Coagulation Factor Ixa In C...    45  2e-04
+SEQ gi|14270099|dbj|BAB58885.1| (AB062470) coagulation factor XI [Pa...    45  2e-04
+SEQ gi|14270123|dbj|BAB58886.1| (AB062471) coagulation factor XI [Pa...    45  2e-04
+SEQ gi|7297481|gb|AAF52738.1| (AE003623) Try29F gene product [Drosop...    45  2e-04
+SEQ gi|9857909|gb|AAG00937.1|AF271695_1 (AF271695) trypsin-like 1 pr...    45  2e-04
+SEQ gi|13775597|ref|NP_077078.2| tryptase beta 2 precursor; mast cel...    45  2e-04
+SEQ gi|339983|gb|AAA36779.1| (M33492) tryptase-II [Homo sapiens]           45  2e-04
+SEQ gi|339985|gb|AAA36780.1| (M33493) tryptase-III [Homo sapiens]          45  2e-04
+SEQ gi|4699695|pdb|1A0L|A Chain A, Human Beta-Tryptase: A Ring-Like ...    45  2e-04
+SEQ gi|3319320|gb|AAC39131.1| (AF074956) midgut-specific serine prot...    45  2e-04
+SEQ gi|4502173|ref|NP_001639.1| kallikrein 3, (prostate specific ant...    45  2e-04
+SEQ gi|88489|pir||B31567 prostatic proantigen precursor (clone 424) ...    45  2e-04
+SEQ gi|88490|pir||A31567 prostatic proantigen precursor (clone 525) ...    45  2e-04
+SEQ gi|189524|gb|AAA59995.1| (M21895) prostate specific antigen prec...    45  2e-04
+SEQ gi|225915|prf||1403294A gamma seminoprotein [Homo sapiens]             45  2e-04
+SEQ gi|511857|gb|AAA60193.1| (M24543) prostate-specific antigen [Hom...    45  2e-04
+SEQ gi|2135235|pir||I52712 gene PSA protein - human (fragment) >gi|4...    45  2e-04
+SEQ gi|5419891|emb|CAB46487.1| (X13942) prostrate specific antigen [...    45  2e-04
+SEQ gi|14422305|emb|CAC41631.1| (AJ310937) putative preproPSA-RP2 [H...    45  2e-04
+SEQ gi|4505881|ref|NP_000292.1| plasminogen [Homo sapiens] >gi|13642...    45  2e-04
+SEQ gi|625234|pir||PLHU plasmin (EC 3.4.21.7) precursor [validated] ...    45  2e-04
+SEQ gi|387031|gb|AAA60124.1| (K02922) plasminogen [Homo sapiens]           45  2e-04
+SEQ gi|2815618|gb|AAB97887.1| (AF029692) plasminogen [Papio hamadryas]     45  2e-04
+SEQ gi|5821850|pdb|1BML|A Chain A, Complex Of The Catalytic Domain O...    45  2e-04
+SEQ gi|6137623|pdb|1BUI|A Chain A, Structure Of The Ternary Micropla...    45  2e-04
+SEQ gi|7245724|pdb|1DDJ|A Chain A, Crystal Structure Of Human Plasmi...    45  2e-04
+SEQ gi|7019443|ref|NP_032480.1| kallikrein 16 [Mus musculus] >gi|132...    44  2e-04
+SEQ gi|290665|gb|AAA21620.1| (M81393) thrombin [Eptatretus stouti]         44  2e-04
+SEQ gi|6679485|ref|NP_032965.1| protease, serine, 12 neurotrypsin, (...    44  2e-04
+SEQ gi|7513606|pir||JC5759 brain-specific serine proteinase (EC 3.4....    44  2e-04
+SEQ gi|3928860|gb|AAC79702.1| (AF082186) neutrophil elastase [Mus mu...    44  2e-04
+SEQ gi|3169123|dbj|BAA28615.1| (AB007622) chymase 2 [Mesocricetus au...    44  2e-04
+SEQ gi|2815616|gb|AAB97886.1| (AF029691) apolipoprotein a [Papio ham...    44  2e-04
+SEQ gi|6435714|pdb|1QRZ|A Chain A, Catalytic Domain Of Plasminogen >...    44  2e-04
+SEQ gi|5921269|emb|CAB56422.1| (AJ011396) hepatocyte growth factor-l...    44  2e-04
+SEQ gi|464945|sp|P35036|TRY2_ANOGA TRYPSIN 2 PRECURSOR >gi|479775|pi...    44  3e-04
+SEQ gi|9757700|dbj|BAB08217.1| (AB038497) embryonic serine protease-...    44  3e-04
+SEQ gi|6680143|ref|NP_032222.1| granzyme K [Mus musculus] >gi|312216...    44  3e-04
+SEQ gi|5869573|dbj|BAA84221.1| (AB032200) granzyme K [Mus musculus]        44  3e-04
+SEQ gi|13959617|sp|O13059|VSP1_TRIGA VENOM SERINE PROTEINASE 1 PRECU...    44  3e-04
+SEQ gi|8393513|ref|NP_058815.1| granzyme K [Rattus norvegicus] >gi|1...    44  3e-04
+SEQ gi|14285806|sp|P81661|VSPA_BOTJA BOTHROMBIN (REPTILASE) >gi|6272...    44  3e-04
+SEQ gi|130317|sp|P12545|PLMN_MACMU PLASMINOGEN PRECURSOR >gi|86639|p...    44  3e-04
+SEQ gi|6912728|ref|NP_036599.1| transmembrane tryptase preproprotein...    44  3e-04
+SEQ gi|11432856|ref|XP_008123.1| transmembrane tryptase [Homo sapien...    44  3e-04
+SEQ gi|1072114|gb|AAB03851.1| (U39500) Alp1 [Cochliobolus carbonum]        44  3e-04
+SEQ gi|190026|gb|AAA36451.1| (M74220) plasminogen [Homo sapiens]           44  3e-04
+SEQ gi|8393340|ref|NP_058839.1| coagulation factor X [Rattus norvegi...    44  3e-04
+SEQ gi|11493900|gb|AAG35696.1|AF206666_1 (AF206666) mast cell alpha ...    44  3e-04
+SEQ gi|13654243|ref|NP_112464.1| mast cell protease 7 [Mus musculus]...    44  3e-04
+SEQ gi|1906318|emb|CAA65252.1| (X96388) trypsinogen [Botryllus schlo...    44  3e-04
+SEQ gi|729315|sp|P39675|DER3_DERPT MITE ALLERGEN DER P 3 PRECURSOR (...    44  3e-04
+SEQ gi|3985980|dbj|BAA34864.1| (D61695) mannose-binding protein asso...    44  3e-04
+SEQ gi|165741|gb|AAA31477.1| (M81396) thrombin [Oryctolagus cuniculus]     44  3e-04
+SEQ gi|539785|pir||C42696 thrombin (EC 3.4.21.5) B chain - rabbit (f...    44  3e-04
+SEQ gi|4503635|ref|NP_000497.1| coagulation factor II precursor; pro...    44  3e-04
+SEQ gi|8569363|pdb|1QHR|B Chain B, Novel Covalent Active Site Thromb...    44  3e-04
+SEQ gi|11514051|pdb|1DOJ|A Chain A, Crystal Structure Of Human Alpha...    44  3e-04
+SEQ gi|1335344|emb|CAA23842.1| (V00595) prothrombin [Homo sapiens]         44  3e-04
+SEQ gi|1943508|pdb|1HXE|H Chain H, Serine Protease                         44  3e-04
+SEQ gi|2780962|pdb|1BTH|H Chain H, Structure Of Thrombin Complexed W...    44  3e-04
+SEQ gi|3891536|pdb|1BHX|B Chain B, X-Ray Structure Of The Complex Of...    44  3e-04
+SEQ gi|4139650|pdb|1VR1|H Chain H, Specifity For Plasminogen Activat...    44  3e-04
+SEQ gi|4699865|pdb|1THP|B Chain B, Structure Of Human Alpha-Thrombin...    44  3e-04
+SEQ gi|4699868|pdb|2THF|B Chain B, Structure Of Human Alpha-Thrombin...    44  3e-04
+SEQ gi|10835391|pdb|1D3D|B Chain B, Crystal Structure Of Human Alpha...    44  3e-04
+SEQ gi|6980506|pdb|1DM4|B Chain B, Ser195ala Mutant Of Human Thrombi...    44  3e-04
+SEQ gi|6980889|pdb|1B7X|B Chain B, Structure Of Human Alpha-Thrombin...    44  3e-04
+SEQ gi|7766841|pdb|1EOJ|A Chain A, Design Of P1' And P3' Residues Of...    44  3e-04
+SEQ gi|11513803|pdb|1E0F|D Chain D, Crystal Structure Of The Human A...    44  3e-04
+SEQ gi|9955048|pdb|1C1U|H Chain H, Recruiting Zinc To Mediate Potent...    44  3e-04
+SEQ gi|11514212|pdb|1D9I|A Chain A, Structure Of Thrombin Complexed ...    44  3e-04
+SEQ gi|11514286|pdb|1D6W|A Chain A, Structure Of Thrombin Complexed ...    44  3e-04
+SEQ gi|13399530|pdb|1H8I|H Chain H, X-Ray Crystal Structure Of Human...    44  3e-04
+SEQ gi|13400013|pdb|1H8D|H Chain H, X-Ray Structure Of The Human Alp...    44  3e-04
+SEQ gi|13959654|sp|Q9PSN3|VSP2_AGKBI BILINEOBIN >gi|2134238|pir||S65...    44  3e-04
+SEQ gi|4507661|ref|NP_003284.1| alpha tryptase I precursor; mast cel...    44  3e-04
+SEQ gi|4336579|gb|AAD17846.1| (AF098328) tryptase alpha II [Homo sap...    44  3e-04
+SEQ gi|267160|sp|P29786|TRY3_AEDAE TRYPSIN 3A1 PRECURSOR >gi|67556|p...    44  3e-04
+SEQ gi|6679381|ref|NP_032903.1| plasminogen [Mus musculus] >gi|13031...    44  3e-04
+SEQ gi|13959615|sp|O13057|VSP2_TRIFL VENOM SERINE PROTEINASE 2 PRECU...    44  3e-04
+SEQ gi|8393764|ref|NP_058841.1| mast cell protease 1 [Rattus norvegi...    44  4e-04
+SEQ gi|8570162|gb|AAF76457.1|AF191031_1 (AF191031) gamma I-tryptase ...    44  4e-04
+SEQ gi|464474|sp|P33619|KLK3_MACMU PROSTATE SPECIFIC ANTIGEN PRECURS...    44  4e-04
+SEQ gi|2133693|pir||A55617 masquerade precursor - fruit fly (Drosoph...    44  4e-04
+SEQ gi|3044080|gb|AAC13280.1| (AF056033) salmobin [Gloydius halys]         44  4e-04
+SEQ gi|3668352|gb|AAC61838.1| (AF015727) salmobin [Gloydius halys]         44  4e-04
+SEQ gi|2118064|pir||JC4850 trypsin-like proteinase (EC 3.4.21.-) Try...    44  4e-04
+SEQ gi|1619621|emb|CAA69989.1| (Y08734) hepatocyte growth factor-lik...    44  4e-04
+SEQ gi|1717788|sp|P51588|TRYP_SARBU TRYPSIN PRECURSOR >gi|2148110|pi...    44  4e-04
+SEQ gi|5031885|ref|NP_005568.1| lipoprotein, Lp(a); Apolipoprotein L...    44  4e-04
+SEQ gi|225794|prf||1313352A apolipoprotein a [Homo sapiens]                44  4e-04
+SEQ gi|461512|sp|P09872|VSP1_AGKCO ANCROD (VENOMBIN A) (PROTEIN C AC...    44  5e-04
+SEQ gi|4503625|ref|NP_000495.1| coagulation factor X precursor; Prot...    44  5e-04
+SEQ gi|182841|gb|AAA52490.1| (K03194) factor X prepeptide [Homo sapi...    44  5e-04
+SEQ gi|1065081|pdb|1HCG|A Chain A, Blood Coagulation Factor Xa             44  5e-04
+SEQ gi|4699774|pdb|1XKA|C Chain C, Factor Xa Complexed With A Synthe...    44  5e-04
+SEQ gi|10835432|pdb|1FJS|A Chain A, Crystal Structure Of The Inhibit...    44  5e-04
+SEQ gi|10835686|pdb|1EZQ|A Chain A, Crystal Structure Of Human Coagu...    44  5e-04
+SEQ gi|12084290|pdb|1C5M|D Chain D, Structural Basis For Selectivity...    44  5e-04
+SEQ gi|1165221|gb|AAB67271.1| (U43525) pre-pro-protease 3 [Mus muscu...    43  5e-04
+SEQ gi|2105432|gb|AAB58055.1| (U97073) pre-pro-proteinase 3 [Mus mus...    43  5e-04
+SEQ gi|6755184|ref|NP_035308.1| proteinase 3; myeloblastin [Mus musc...    43  5e-04
+SEQ gi|2851462|sp|P98139|FA7_RABIT COAGULATION FACTOR VII PRECURSOR ...    43  5e-04
+SEQ gi|2147188|pir||I46932 coagulation factor VII - rabbit                 43  5e-04
+SEQ gi|92894|pir||B23863 tissue kallikrein (EC 3.4.21.35) S1, submax...    43  5e-04
+SEQ gi|482951|pir||B32340 tissue kallikrein (EC 3.4.21.35) 3 - rat (...    43  5e-04
+SEQ gi|547789|sp|P15950|KLK3_RAT GLANDULAR KALLIKREIN 3, SUBMANDIBUL...    43  5e-04
+SEQ gi|609585|gb|AAA58782.1| (L33840) kallikrein [Rattus norvegicus]       43  5e-04
+SEQ gi|1399751|gb|AAB52574.1| (U57455) growth factor Livertine [Xeno...    43  5e-04
+SEQ gi|126831|sp|P00770|MCT2_RAT MAST CELL PROTEASE II PRECURSOR (RM...    43  6e-04
+SEQ gi|230919|pdb|3RP2|A Chain A, Rat Mast Cell Protease II (RMCPII)...    43  6e-04
+SEQ gi|13959657|sp|Q9PTU8|VSP3_BOTJA VENOM SERINE PROTEINASE A PRECU...    43  6e-04
+SEQ gi|7657060|ref|NP_056594.1| elastase [Mus musculus] >gi|2118081|...    43  6e-04
+SEQ gi|7363445|ref|NP_035306.2| protease, serine, 14 (epithin) [Mus ...    43  6e-04
+SEQ gi|13959623|sp|O42207|VSP2_AGKCA CAPILLARY PERMEABILITY-INCREASI...    43  6e-04
+SEQ gi|539468|pir||H42696 thrombin (EC 3.4.21.5) B chain - white stu...    43  6e-04
+SEQ gi|14423685|sp|O97370|EUM3_EURMA MITE ALLERGEN EUR M 3 PRECURSOR...    43  6e-04
+SEQ gi|7304867|ref|NP_038487.1| adipsin [Mus musculus] >gi|113444|sp...    43  6e-04
+SEQ gi|673431|emb|CAA28379.1| (X04673) precursor adipsin [Mus musculus]    43  6e-04
+SEQ gi|2624623|pdb|1FAX|A Chain A, Coagulation Factor Xa Inhibitor C...    43  6e-04
+SEQ gi|7301263|gb|AAF56393.1| (AE003750) CG11836 gene product [Droso...    43  7e-04
+SEQ gi|114837|sp|P04971|VSPA_BOTAT BATROXOBIN PRECURSOR (BOTHROPS AT...    43  7e-04
+SEQ gi|130319|sp|P06867|PLMN_PIG PLASMINOGEN >gi|2144494|pir||PLPG p...    43  7e-04
+SEQ gi|7295979|gb|AAF51277.1| (AE003583) CG17012 gene product [Droso...    43  7e-04
+SEQ gi|321205|pir||A45754 tryptase (EC 3.4.21.59) alpha precursor - ...    43  8e-04
+SEQ gi|4210804|emb|CAA76929.1| (Y17905) trypsin [Phaedon cochleariae]      43  8e-04
+SEQ gi|7303022|gb|AAF58092.1| (AE003808) CG8299 gene product [Drosop...    42  8e-04
+SEQ gi|119765|sp|P22457|FA7_BOVIN COAGULATION FACTOR VII (SERUM PROT...    42  8e-04
+SEQ gi|464943|sp|P35035|TRY1_ANOGA TRYPSIN 1 PRECURSOR >gi|311983|em...    42  8e-04
+SEQ gi|6681297|ref|NP_031945.1| elastase 2 [Mus musculus] >gi|119257...    42  9e-04
+SEQ gi|6009515|dbj|BAA84941.1| (AB018694) epidermis specific serine ...    42  9e-04
+SEQ gi|1717783|sp|P54625|TRYB_DROER TRYPSIN BETA PRECURSOR >gi|11139...    42  9e-04
+SEQ gi|211031|gb|AAA48553.1| (M20894) batroxobin [Bothrops atrox]          42  9e-04
+SEQ gi|7387836|sp|Q26422|LFC_CARRO LIMULUS CLOTTING FACTOR C PRECURS...    42  9e-04
+SEQ gi|913964|gb|AAB34362.1| (S77064) factor C=endotoxin-sensitive i...    42  9e-04
+SEQ gi|7303610|gb|AAF58662.1| (AE003826) etaTry gene product [Drosop...    42  0.001
+SEQ gi|2286143|gb|AAC17927.1| (AF005026) serine protease-like protei...    42  0.001
+SEQ gi|114063|sp|P14417|APOA_MACMU APOLIPOPROTEIN(A) (APO(A)) (LP(A)...    42  0.001
+SEQ gi|2507248|sp|P49275|DEF3_DERFA MITE ALLERGEN DER F 3 PRECURSOR ...    42  0.001
+SEQ gi|119771|sp|P16295|FA9_CAVPO COAGULATION FACTOR IX (CHRISTMAS F...    42  0.001
+SEQ gi|479774|pir||S35339 trypsin (EC 3.4.21.4) 1 precursor - Africa...    42  0.001
+SEQ 
+## SEQUENCE PROFILE AND ENTROPY
+ SeqNo PDBNo   V   L   I   M   F   W   Y   G   A   P   S   T   C   H   R   K   Q   E   N   D  NOCC NDEL NINS ENTROPY RELENT WEIGHT
+    1    1     0   0   0   0   0   0   0   0   0   0  91   7   0   0   0   0   0   0   2   0     0    0    0   0.347     11  0.00
+    2    2     4   0   0   0   0   0   1   5   0   0  14   0   0   0  41  20   3   1   5   5     0    0    0   1.778     59  0.00
+    3    3    13  18  41  10   7   0  10   0   0   0   0   0   1   0   0   0   0   0   0   0     0    0    0   1.640     54  0.00
+    4    4     0   2   1   1   0   0   1   0   0   0   3  10   0   1  16  14  34   8   8   1     0    0    0   1.992     66  0.00
+    5    5    87   2   9   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.499     16  0.00
+    6    6    15   6   9   1   1   9   3   1   1   0   0  12   0   1  36   3   3   0   0   0     0    0    0   2.064     68  0.00
+    7    7     8  80   5   2   0   0   0   0   5   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.795     26  0.00
+    8    8     0   0   0   0   0   0   0  97   0   0   0   0   0   0   2   0   0   0   0   0     0    0    0   0.153      5  0.00
+    9    9     2   1   0   2   0   0   0   0  25   0   3   0   0   1   7  13   1  36   0   8     0    0    0   1.814     60  0.00
+   10   10     0   2   0   0   1   0   9   0   0   0   2   1   0  73   2   0   2   0   6   3     0    0    0   1.125     37  0.00
+   11   11     0   0   0   0   0   1   0   0   1   0  15   0   0   5   1   3   4   1  54  13     0    0    0   1.558     52  0.00
+   12   12     6  35  31   1   2   1   0   0   0   0   0   4   0   0  10   2   2   3   0   0     0    0    0   1.821     60  0.00
+   13   13     3   4   0   1   9   1   3   3   5   0  14   6   0   0  14  12   3   6  12   6     0    0    0   2.530     84  0.00
+   14   14    28   2   1   1   0   0   1   0   6   0   5   3   0   2  10  12  10  12   3   3     0    0    0   2.267     75  0.00
+   15   15     3  18   1   0   2   2   6   0   2   6   4   7   0   1   8   7   8   6  10   8     0    0    0   2.606     86  0.00
+   16   16     0   0   0   0   0   0   3   1   2   0   2   0   0   0   0   1   0  75   3  11     0    0    0   1.042     34  0.00
+   17   17     0   0   0   0   0   0   3  34   3  16   9   0   1   1   6   3   1  10   4   7     0    0    0   2.146     71  0.00
+   18   18     0   0   0   1   2   2   1  11   0   5  13  30   1   3   0   1   3   1  18   7     0    0    0   2.136     71  0.00
+   19   19     4   0   2   0   0   1   0   6   9   0   3   2   0   0   1   3  16  47   0   4     0    0    0   1.821     60  0.00
+   20   20     5   3   0   1   0   0   0   0   2   0   0   1   0   1   3   4  78   1   0   0     0    0    0   1.013     33  0.00
+   21   21    14  12  10   2  20   1   4   0   2   0   1   6   0   8   4   7   2   4   0   3     0    0    0   2.471     82  0.00
+   22   22    17  13  35   3   7   0   2   0   0   0   5   0   0   3  13   0   0   0   0   0     0    0    0   1.924     64  0.00
+   23   23     1   5   0   4   1   0   1   4   2  11  13   6   0   3   4  10   5   9  13   8     0    0    0   2.602     86  0.00
+   24   24    53   5   8   0   0   0   0   1  16   2   9   3   0   0   0   2   0   0   0   0     0    0    0   1.558     52  0.00
+   25   25     4   2   3   0   0   0   0   3  21   0  29   4   0   0   2  11   4  11   2   2     0    0    0   2.149     71  0.00
+   26   26     2   1   0   1   1   0   0   0   3   0   2   2   0   4  18  43   9  10   1   4     0    0    0   1.879     62  0.00
+   27   27    18   6  32   1   6   0   2   0   9   2  14   2   0   0   0   2   4   0   0   1     0    0    0   2.051     68  0.00
+   28   28    10   2  51   0  26   0   5   0   0   0   0   2   0   1   0   3   0   0   0   0     0    0    0   1.394     46  0.00
+   29   29    17   8   9   1   1   1   0   0   1  24   3   5   2   0  12   9   3   1   2   0     0    0    0   2.313     77  0.00
+   30   30     0   2   0   0   1   0   1   0   0   2   0   0   2  85   0   0   0   3   5   0     0    0    0   0.713     23  0.00
+   31   31     0   0   0   0   0   0   0   0   0  79   5   0   0   2   1   2   2   7   3   0     0    0    0   0.911     30  0.00
+   32   32     0   5   0   0   1   0   2  11   3   0  10   2   1   0   7  11   7   1  26  12     0    0    0   2.288     76  0.00
+   33   33     0   0   0   0  24   9  60   0   0   0   2   0   0   0   1   3   0   0   0   0     0    0    0   1.156     38  0.00
+   34   34     1   1   0   0   0   0   3   0   0   0   8   3   0   0   2   2   4   1  56  18     0    0    0   1.516     50  0.00
+   35   35     1   0   2   7   2   0   4   8   9  10  21   4   0   1  14   6   1   1   2   4     0    0    0   2.497     83  0.00
+   36   36     0   2   1   0   4   2   7   2   5   2  18   4   0   0   5  10   4  11  13   9     0    0    0   2.546     84  0.00
+   37   37     2   9   2   0   0   0   0   2   1   2   8  39   2   1   1   3   5   0  15   6     0    0    0   2.102     70  0.00
+   38   38     8  31  15   4   7   2   7   1   1   2   4   4   0   4   1   4   0   0   3   1     0    0    0   2.345     78  0.00
+   39   39     3   4   1   0   3   0   0   6   5   0  12   2   0   1   4   2   2   6  17  31     0    0    0   2.244     74  0.00
+   40   40     0   0   0   0   4   0   3   3   7   0   2   0   0  10   4   4   0   0  61   2     0    0    0   1.483     49  0.00
+   41   41     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1  99     0    0    0   0.087      2  0.00
+   42   42     4  18  76   0   1   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.752     25  0.00
+   43   43     2   4   0  50   0   0   0   1  36   0   3   3   0   0   0   0   0   0   0   0     0    0    0   1.235     41  0.00
+   44   44     5  92   1   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.346     11  0.00
+   45   45     6  53  34   5   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.084     36  0.00
+   46   46     0   0   0   0   0   0   0   0   0   0   0   0   0   4  26  53   8   9   0   0     0    0    0   1.313     43  0.00
+   47   47     1  97   1   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.156      5  0.00
+   48   48     2   1   0   0   0   0   1   0  14   2  33   3   0   0   3  14   6  11   4   5     0    0    0   2.107     70  0.00
+   49   49     1   0   0   0   0   0   0   1   0   0  27   9   0   2  13  18   8  16   2   1     0    0    0   2.038     68  0.00
+   50   50     0   0   0   0   0   0   0   0   4  66  10   1   0   0   2  12   2   1   1   0     0    0    0   1.245     41  0.00
+   51   51    28   7   5   0   1   0   0   0  56   1   0   0   0   0   0   0   0   0   0   0     0    0    0   1.204     40  0.00
+   52   52     7   0   2   0   0   0   0   0   5   0   9  28   0   1   6  13   6   8   8   7     0    0    0   2.280     76  0.00
+   53   53     4  45  17   3  16   0   3   0   1   1   0   0   0   0   5   1   1   2   3   0     0    0    0   1.765     58  0.00
+   54   54     0   0   0   0   0   0   0   8   0   0  26  31   0   0   2   0   0   0  30   1     0    0    0   1.470     49  0.00
+   55   55     0   1   0   2   0   0   0   2  13   6  19   4   0   1   5   6   6   5   3  26     0    0    0   2.258     75  0.00
+   56   56     5   2   0   1   1   0  15   2  20   0   4   9   0   7  14   8   2   1   8   1     0    0    0   2.418     80  0.00
+   57   57    77   1  20   0   0   0   0   0   1   0   0   0   0   0   0   0   1   0   0   0     0    0    0   0.697     23  0.00
+   58   58     4   1   2   2   0   0   0   2  19   0   9   2   0   7  11  16  19   1   3   3     0    0    0   2.306     76  0.00
+   59   59    11   8   0   0   1   0   0   0   6  48   5  19   0   0   0   0   0   0   0   0     0    0    0   1.599     53  0.00
+   60   60    34  17  33   2   0   0   0   3  11   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.484     49  0.00
+   61   61     3   0   0   1   0   0   0   2  15  12  16   4  26   1   2   3   3   3   3   6     0    0    0   2.262     75  0.00
+   62   62     2  92   3   0   1   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.403     13  0.00
+   63   63     1   0   0   0   0   0   0   0   6  87   2   1   0   0   0   1   2   0   0   0     0    0    0   0.598     19  0.00
+   64   64     0   0   0   0   0   0   1   0   4   6  24  22   0   0  17   3   6   7   4   3     0    0    0   2.132     71  0.00
+   65   65     0   0   0   0   0   0   1   1  14   8  24   5   0   2   6   4  10  12   7   3     0    0    0   2.290     76  0.00
+   66   66     3   4   4   1   2   1   1   6   2   8  11   5  22   0   0   2   1  11   7   9     0    0    0   2.535     84  0.00
+   67   67    15   8   3   2   1   2   0   0  24  24   2   3   0   2   1   0   4   5   0   3     0    0    0   2.224     74  0.00
+   68   68     2   0   2   1   0   0   1   2  28  16  10   8   0   1   1  16   6   4   1   0     0    0    0   2.177     72  0.00
+   69   69    15   8   0   0   1   0   0   1  29  20   3   4   0   0   0   1   1   5   7   5     0    0    0   2.076     69  0.00
+   70   70     0   0   0   0   0   0   0  82   1   1   3   1   0   0   3   1   1   1   4   2     0    0    0   0.862     28  0.00
+   71   71     2   3   1   5   0   0   3   2   4   1  15  44   0   1   2   3   7   2   2   4     0    0    0   2.027     67  0.00
+   72   72     9   6   1  13   0   0   0   0   4   9   4  17   0   2   3   9  10  12   2   1     0    0    0   2.435     81  0.00
+   73   73     4   0   1   0   0   0   0   6   4   0   0   4  80   0   0   0   0   0   0   0     0    0    0   0.822     27  0.00
+   74   74     7  26   5   1   2   8  12   0   1   0   6  12   0   1  12   0   2   1   0   2     0    0    0   2.285     76  0.00
+   75   75    51   0  28   0   0   0   0   0  15   1   0   4   0   0   0   0   0   0   0   0     0    0    0   1.214     40  0.00
+   76   76     0   1   0   6   0   0   0   0  17   0  47  29   0   0   0   0   0   0   0   0     0    0    0   1.282     42  0.00
+   77   77     0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.011      0  0.00
+   78   78     0   0   0   0   2  97   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.134      4  0.00
+   79   79     0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.011      0  0.00
+   80   80     1   5   1   0   0   0   1   0   2   0  21   6   0   3  10   4   3   5  31   6     0    0    0   2.138     71  0.00
+   81   81     0   8   0   0   0   0   0   0   1   0   0  91   0   0   0   0   0   0   0   0     0    0    0   0.389     12  0.00
+   82   82     0   0   0   0   0   0   0   0   0   0   0   0   0   0  20  52  25   3   0   0     0    0    0   1.122     37  0.00
+//

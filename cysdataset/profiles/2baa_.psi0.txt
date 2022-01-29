@@ -1,0 +1,543 @@
+ID Pseudo hssp file.
+SEQ 
+SEQ gi|116316|sp|P23951|CHI2_HORVU 26 KD ENDOCHITINASE 2 PRECURSOR (...   428  e-119
+SEQ gi|1310915|pdb|2BAA|    Mol_id: 1; Molecule: Endochitinase (26 K...   427  e-119
+SEQ gi|7435349|pir||JC5918 chitinase (EC 3.2.1.14) - two-rowed barley     425  e-118
+SEQ gi|1310888|pdb|1CNS|A Chain A, Crystal Structure Of Chitinase At...   424  e-118
+SEQ gi|11344589|dbj|BAB18520.1| (AB051579) seed chitinase-c [Secale ...   404  e-112
+SEQ gi|543512|pir||JN0884 chitinase (EC 3.2.1.14) C - rye                 403  e-111
+SEQ gi|11344587|dbj|BAB18519.1| (AB051578) seed chitinase-a [Secale ...   398  e-110
+SEQ gi|542173|pir||JC2071 chitinase (EC 3.2.1.14) a - rye                 397  e-110
+SEQ gi|2506281|sp|P11955|CHI1_HORVU 26 KD ENDOCHITINASE 1 PRECURSOR ...   396  e-109
+SEQ gi|741317|prf||2007234A chitinase a [Secale cereale]                  396  e-109
+SEQ gi|12407647|gb|AAG53609.1| (AF280437) 31.7 kDa class I endochiti...   367  e-101
+SEQ gi|6164588|gb|AAF04454.1|AF000966_1 (AF000966) chitinase [Poa pr...   367  e-100
+SEQ gi|481478|pir||S38670 chitinase (EC 3.2.1.14) - wheat >gi|416029...   365  e-100
+SEQ gi|6164585|gb|AAF04453.1|AF000964_1 (AF000964) chitinase [Poa pr...   351  6e-96
+SEQ gi|7435363|pir||T03614 chitinase (EC 3.2.1.14) - rice >gi|500615...   342  4e-93
+SEQ gi|20202|emb|CAA39535.1| (X56063) chitinase [Oryza sativa]            341  4e-93
+SEQ gi|383024|prf||1901378A chitinase [Oryza sativa]                      341  5e-93
+SEQ gi|7798658|gb|AAF69783.1|AF135143_1 (AF135143) class I chitinase...   341  8e-93
+SEQ gi|5689118|dbj|BAA82818.1| (AB023456) basic endochitinase [Arabi...   340  1e-92
+SEQ gi|7798676|gb|AAF69792.1|AF135152_1 (AF135152) class I chitinase...   340  1e-92
+SEQ gi|5689110|dbj|BAA82814.1| (AB023452) basic endochitinase [Arabi...   339  2e-92
+SEQ gi|320556|pir||B45511 chitinase (EC 3.2.1.14) precursor, basic -...   339  2e-92
+SEQ gi|5689102|dbj|BAA82810.1| (AB023448) basic endochitinase [Arabi...   338  4e-92
+SEQ gi|282971|pir||S26625 chitinase (EC 3.2.1.14) - potato >gi|21495...   338  4e-92
+SEQ gi|7798642|gb|AAF69775.1|AF135135_1 (AF135135) class I chitinase...   338  5e-92
+SEQ gi|7798654|gb|AAF69781.1|AF135141_1 (AF135141) class I chitinase...   338  6e-92
+SEQ gi|5689130|dbj|BAA82824.1| (AB023462) basic endochitinase [Arabi...   337  6e-92
+SEQ gi|5880843|gb|AAD54934.1|AF141372_1 (AF141372) chitinase precurs...   337  7e-92
+SEQ gi|116343|sp|P19171|CHIT_ARATH BASIC ENDOCHITINASE PRECURSOR          337  8e-92
+SEQ gi|82378|pir||S04131 chitinase (EC 3.2.1.14) - barley (fragment)...   336  1e-91
+SEQ gi|116317|sp|P25765|CHI2_ORYSA BASIC ENDOCHITINASE 2 PRECURSOR >...   336  2e-91
+SEQ gi|7798646|gb|AAF69777.1|AF135137_1 (AF135137) class I chitinase...   336  3e-91
+SEQ gi|7798670|gb|AAF69789.1|AF135149_1 (AF135149) class I chitinase...   336  3e-91
+SEQ gi|7798636|gb|AAF69772.1|AF135132_1 (AF135132) class I chitinase...   335  4e-91
+SEQ gi|7798632|gb|AAF69770.1|AF135130_1 (AF135130) class I chitinase...   335  5e-91
+SEQ gi|7798638|gb|AAF69773.1|AF135133_1 (AF135133) class I chitinase...   335  5e-91
+SEQ gi|7798648|gb|AAF69778.1|AF135138_1 (AF135138) class I chitinase...   334  5e-91
+SEQ gi|11528439|gb|AAG37276.1|AF320111_1 (AF320111) chitinase [Fraga...   334  6e-91
+SEQ gi|7798678|gb|AAF69793.1|AF135153_1 (AF135153) class I chitinase...   334  6e-91
+SEQ gi|7798664|gb|AAF69786.1|AF135146_1 (AF135146) class I chitinase...   334  7e-91
+SEQ gi|7435351|pir||S72528 chitinase (EC 3.2.1.14) class II precurso...   334  8e-91
+SEQ gi|3201547|emb|CAB01591.1| (Z78202) endochitinase [Persea americ...   334  1e-90
+SEQ gi|7798666|gb|AAF69787.1|AF135147_1 (AF135147) class I chitinase...   334  1e-90
+SEQ gi|1076740|pir||S40414 chitinase (EC 3.2.1.14) - rice >gi|407472...   333  1e-90
+SEQ gi|481896|pir||S39979 chitinase (EC 3.2.1.14) - rice                  333  1e-90
+SEQ gi|7798644|gb|AAF69776.1|AF135136_1 (AF135136) class I chitinase...   333  1e-90
+SEQ gi|227774|prf||1710349A basic chitinase [Arabidopsis thaliana]        333  1e-90
+SEQ gi|7798660|gb|AAF69784.1|AF135144_1 (AF135144) class I chitinase...   333  1e-90
+SEQ gi|116321|sp|P24091|CHI2_TOBAC ENDOCHITINASE B PRECURSOR (CHN-B)...   333  1e-90
+SEQ gi|7798652|gb|AAF69780.1|AF135140_1 (AF135140) class I chitinase...   333  2e-90
+SEQ gi|170227|gb|AAA34070.1| (M15173) endochitinase precursor (EC 3....   333  2e-90
+SEQ gi|2129928|pir||S69184 chitinase (EC 3.2.1.14) class II precurso...   332  2e-90
+SEQ gi|500617|dbj|BAA03751.1| (D16223) endochitinase [Oryza sativa]       332  3e-90
+SEQ gi|10880381|emb|CAC14015.1| (AJ291506) chitinase [Vitis vinifera]     332  4e-90
+SEQ gi|5689134|dbj|BAA82826.1| (AB023464) basic endochitinase [Arabi...   332  4e-90
+SEQ gi|116314|sp|P08252|CHI1_TOBAC ENDOCHITINASE A PRECURSOR (CHN-A)...   331  4e-90
+SEQ gi|7798662|gb|AAF69785.1|AF135145_1 (AF135145) class I chitinase...   331  7e-90
+SEQ gi|561873|gb|AAA51377.1| (L37289) chitinase [Oryza sativa]            331  7e-90
+SEQ gi|256133|gb|AAB23374.1| (S44869) basic chitinase [Nicotiana tab...   330  8e-90
+SEQ gi|11558417|emb|CAC17793.1| (AJ301671) endochitinase [Nicotiana ...   330  1e-89
+SEQ gi|166345|gb|AAA32641.1| (M94105) chitinase [Allium sativum] >gi...   330  1e-89
+SEQ gi|1076741|pir||S54806 chitinase (EC 3.2.1.14) class I precursor...   330  1e-89
+SEQ gi|7798674|gb|AAF69791.1|AF135151_1 (AF135151) class I chitinase...   330  1e-89
+SEQ gi|584928|sp|Q09023|CHI2_BRANA ENDOCHITINASE CH25 PRECURSOR >gi|...   329  2e-89
+SEQ gi|21465|emb|CAA32351.1| (X14133) endochintinase (315 AA) [Solan...   329  2e-89
+SEQ gi|544011|sp|Q05538|CHIC_LYCES BASIC 30 KD ENDOCHITINASE PRECURS...   329  2e-89
+SEQ gi|7798656|gb|AAF69782.1|AF135142_1 (AF135142) class I chitinase...   329  2e-89
+SEQ gi|7798668|gb|AAF69788.1|AF135148_1 (AF135148) class I chitinase...   329  2e-89
+SEQ gi|1781042|emb|CAA71402.1| (Y10373) chitinase [Medicago truncatula]   329  2e-89
+SEQ gi|116349|sp|P05315|CHIT_SOLTU ENDOCHITINASE PRECURSOR >gi|82262...   329  3e-89
+SEQ gi|1705805|sp|P52403|CHI1_SOLTU ENDOCHITINASE 1 PRECURSOR >gi|21...   328  6e-89
+SEQ gi|1705808|sp|P52404|CHI2_SOLTU ENDOCHITINASE 2 PRECURSOR >gi|21...   327  7e-89
+SEQ gi|1705809|sp|P52405|CHI3_SOLTU ENDOCHITINASE 3 PRECURSOR >gi|62...   327  7e-89
+SEQ gi|116347|sp|P06215|CHIT_PHAVU ENDOCHITINASE PRECURSOR >gi|16933...   327  1e-88
+SEQ gi|3790355|dbj|BAA33971.1| (AB008892) chitinase 134 [Nicotiana t...   326  2e-88
+SEQ gi|544004|sp|P36361|CHI5_PHAVU ENDOCHITINASE CH5B PRECURSOR >gi|...   325  3e-88
+SEQ gi|10047221|dbj|BAB13369.1| (AB048531) class I chitinase [Psopho...   325  3e-88
+SEQ gi|7435359|pir||T07000 chitinase (EC 3.2.1.14) class I precursor...   324  5e-88
+SEQ gi|166343|gb|AAA32640.1| (M94106) chitinase [Allium sativum]          324  1e-87
+SEQ gi|1705813|sp|P51613|CHIB_VITVI BASIC ENDOCHITINASE PRECURSOR >g...   323  2e-87
+SEQ gi|7798640|gb|AAF69774.1|AF135134_1 (AF135134) class I chitinase...   323  2e-87
+SEQ gi|7435361|pir||T04484 probable chitinase (EC 3.2.1.14) - barley...   323  2e-87
+SEQ gi|116323|sp|P29059|CHI3_TOBAC ENDOCHITINASE 3 PRECURSOR >gi|821...   322  4e-87
+SEQ gi|7435366|pir||T09687 chitinase (EC 3.2.1.14) class I - alfalfa...   322  4e-87
+SEQ gi|544012|sp|Q05537|CHID_LYCES BASIC ENDOCHITINASE >gi|487030|pi...   321  8e-87
+SEQ gi|626030|pir||JC2252 chitinase (EC 3.2.1.14) class I, CH16 prec...   317  8e-86
+SEQ gi|1705807|sp|P21226|CHI2_PEA ENDOCHITINASE A2 PRECURSOR >gi|136...   317  1e-85
+SEQ gi|10863764|gb|AAG23965.1|AF307511_1 (AF307511) class I chitinas...   317  1e-85
+SEQ gi|116303|sp|P24626|CHI1_ORYSA BASIC ENDOCHITINASE 1 PRECURSOR >...   314  9e-85
+SEQ gi|3892724|emb|CAA10189.1| (AJ012821) class I chitinase [Cicer a...   312  3e-84
+SEQ gi|9187661|emb|CAB97002.1| (AJ297395) putative class I chitinase...   312  4e-84
+SEQ gi|7435358|pir||T06999 chitinase (EC 3.2.1.14) ChtC1 precursor -...   311  5e-84
+SEQ gi|6573210|gb|AAF17593.1|AF202731_1 (AF202731) chitinase class I...   311  5e-84
+SEQ gi|4151199|gb|AAD04295.1| (AF053341) class I extracellular chiti...   310  1e-83
+SEQ gi|1354129|gb|AAB01895.1| (U48687) endochitinase [Castanea sativ...   309  2e-83
+SEQ gi|1362075|pir||S57482 chitinase class 1 - cowpea (fragment) >gi...   309  3e-83
+SEQ gi|544015|sp|P36907|CHIX_PEA ENDOCHITINASE PRECURSOR >gi|2118033...   308  4e-83
+SEQ gi|3334147|sp|Q39799|CHI1_GOSHI ENDOCHITINASE 1 PRECURSOR >gi|74...   308  6e-83
+SEQ gi|3126963|gb|AAC16010.1| (AF061805) acidic chitinase [Elaeagnus...   307  7e-83
+SEQ gi|7435364|pir||T03239 probable chitinase (EC 3.2.1.14) precurso...   307  1e-82
+SEQ gi|4205741|gb|AAD11255.1| (AF034566) class I chitinase [Gossypiu...   307  1e-82
+SEQ gi|1705810|sp|P52406|CHI4_SOLTU ENDOCHITINASE 4 PRECURSOR >gi|21...   305  4e-82
+SEQ gi|13124019|sp|Q41596|CHI1_THECC ENDOCHITINASE 1 PRECURSOR >gi|9...   304  6e-82
+SEQ gi|7435357|pir||T07838 chitinase (EC 3.2.1.14) - cucurbit >gi|32...   304  8e-82
+SEQ gi|3126965|gb|AAC16011.1| (AF061806) basic chitinase [Elaeagnus ...   302  3e-81
+SEQ gi|3334146|sp|Q39785|CHI2_GOSHI ENDOCHITINASE 2 PRECURSOR >gi|74...   301  8e-81
+SEQ gi|3319713|emb|CAA07413.1| (AJ006992) chitinase precursor [Canav...   293  2e-78
+SEQ gi|7435355|pir||T03032 chitinase (EC 3.2.1.14) CH11, acidic - ma...   292  2e-78
+SEQ gi|10120702|pdb|1DXJ|A Chain A, Structure Of The Chitinase From ...   288  5e-77
+SEQ gi|388361|gb|AAA34214.1| (L22032) chitinase [Ulmus americana]         287  1e-76
+SEQ gi|2129820|pir||S65069 chitinase (EC 3.2.1.14) class II - peanut...   280  1e-74
+SEQ gi|5880845|gb|AAD54935.1|AF141373_1 (AF141373) chitinase precurs...   280  1e-74
+SEQ gi|5880847|gb|AAD54936.1|AF141374_1 (AF141374) chitinase precurs...   280  1e-74
+SEQ gi|4960049|gb|AAD34596.1|AF147497_1 (AF147497) endochitinase pre...   279  3e-74
+SEQ gi|626031|pir||JC2253 chitinase (EC 3.2.1.14) class I, CH6 - ric...   272  4e-72
+SEQ gi|744092|prf||2014210B chitinase class I:ISOTYPE=CH6 [Oryza sat...   271  5e-72
+SEQ gi|7435350|pir||T02004 chitinase (EC 3.2.1.14) class II - Arabid...   271  6e-72
+SEQ gi|3061269|dbj|BAA25638.1| (AB012855) chitinase [Oryza sativa]        270  1e-71
+SEQ gi|6048743|gb|AAF02299.1|AF098302_1 (AF098302) chitinase [Brassi...   270  1e-71
+SEQ gi|3721942|dbj|BAA33762.1| (AB018248) chitinase [Oryza sativa]        270  1e-71
+SEQ gi|9857532|gb|AAG00887.1|AC064879_5 (AC064879) Putative chitinas...   267  2e-70
+SEQ gi|1705811|sp|P16579|CHI6_POPTR ACIDIC ENDOCHITINASE WIN6 PRECUR...   265  3e-70
+SEQ gi|6002766|gb|AAF00131.1|AF147091_1 (AF147091) class II chitinas...   265  4e-70
+SEQ gi|7435365|pir||T03026 chitinase (EC 3.2.1.14), acidic - maize >...   263  1e-69
+SEQ gi|8096375|dbj|BAA95846.1| (AP002070) Similar to Oryza sativa cl...   260  2e-68
+SEQ gi|13548695|dbj|BAB40816.1| (AB059274) endochitinase MCHT-1 [Cuc...   259  3e-68
+SEQ gi|2129821|pir||S65070 chitinase (EC 3.2.1.14) class II - peanut...   255  6e-67
+SEQ gi|4008074|gb|AAC95376.1| (AF105426) chitinase [Cynodon dactylon]     254  1e-66
+SEQ gi|7595841|gb|AAF64475.1|AF241267_1 (AF241267) chitinase 2 [Cucu...   253  2e-66
+SEQ gi|2129478|pir||S51939 chitinase (EC 3.2.1.14) precursor - beet ...   252  3e-66
+SEQ gi|81593|pir||S18750 chitinase (EC 3.2.1.14) precursor - western...   251  6e-66
+SEQ gi|13548697|dbj|BAB40817.1| (AB059275) endochitinase MCHT-2 [Cuc...   250  2e-65
+SEQ gi|544010|sp|Q05540|CHIB_LYCES ACIDIC 27 KD ENDOCHITINASE PRECUR...   249  2e-65
+SEQ gi|2108350|gb|AAC49718.1| (U57410) Pschi4 [Pinus strobus]             249  3e-65
+SEQ gi|99651|pir||B33985 wound-inducible chitinase homolog win6 - bl...   247  1e-64
+SEQ gi|10140777|gb|AAG13608.1|AC051633_24 (AC051633) chitinase [Oryz...   244  9e-64
+SEQ gi|3370780|dbj|BAA31997.1| (AB016497) chitinase [Oryza sativa]        243  2e-63
+SEQ gi|116346|sp|P29021|CHIT_PETHY ACIDIC ENDOCHITINASE PRECURSOR >g...   243  2e-63
+SEQ gi|7435356|pir||T10106 chitinase (EC 3.2.1.14) (class II, acidic...   243  2e-63
+SEQ gi|3641355|gb|AAC36359.1| (AF091235) chitinase class II [Capsicu...   242  5e-63
+SEQ gi|4008072|gb|AAC95375.1| (AF105425) chitinase [Cynodon dactylon]     241  6e-63
+SEQ gi|116342|sp|P17514|CHIQ_TOBAC ACIDIC ENDOCHITINASE Q PRECURSOR ...   240  1e-62
+SEQ gi|100306|pir||S20738 chitinase (EC 3.2.1.14) PR-Q - common toba...   240  2e-62
+SEQ gi|100308|pir||S20737 chitinase (EC 3.2.1.14) PR-P - common toba...   238  6e-62
+SEQ gi|1236162|gb|AAB96340.1| (U49970) class II chitinase [Solanum t...   237  1e-61
+SEQ gi|116341|sp|P17513|CHIP_TOBAC ACIDIC ENDOCHITINASE P PRECURSOR ...   236  2e-61
+SEQ gi|2565309|gb|AAB81963.1| (AF024538) class II chitinase [Solanum...   236  3e-61
+SEQ gi|629778|pir||S48848 chitinase (EC 3.2.1.14) cht2b precursor - ...   235  4e-61
+SEQ gi|12407649|gb|AAG53610.1| (AF280438) 24.8 kDa class II endochit...   235  4e-61
+SEQ gi|2335201|gb|AAB67171.1| (AF013581) chitinase [Oryza sativa]         235  6e-61
+SEQ gi|1236160|gb|AAB96341.1| (U49969) class II chitinase [Solanum t...   234  9e-61
+SEQ gi|2565307|gb|AAB81962.1| (AF024537) class II chitinase [Solanum...   234  9e-61
+SEQ gi|629777|pir||S48847 chitinase (EC 3.2.1.14) cht2a precursor - ...   233  3e-60
+SEQ gi|2335199|gb|AAB67170.1| (AF013580) chitinase [Oryza sativa]         232  4e-60
+SEQ gi|2493672|sp|Q40114|CHIA_LYCCI ACIDIC ENDOCHITINASE PCHT28 PREC...   232  5e-60
+SEQ gi|1086105|pir||S51588 chitinase (EC 3.2.1.14) pchtI precursor -...   231  9e-60
+SEQ gi|2109455|gb|AAB58238.1| (AF001500) chitinase [Oryza sativa]         227  1e-58
+SEQ gi|9501334|emb|CAB99486.1| (AJ276226) chitinase II [Hordeum vulg...   225  3e-58
+SEQ gi|544007|sp|Q05539|CHIA_LYCES ACIDIC 26 KD ENDOCHITINASE PRECUR...   225  6e-58
+SEQ gi|6563310|gb|AAF17248.1|AF206635_1 (AF206635) basic chitinase t...   219  4e-56
+SEQ gi|7489525|pir||T03017 probable chitinase (EC 3.2.1.14) class II...   218  7e-56
+SEQ gi|13548699|dbj|BAB40818.1| (AB059276) endochitinase MCHT-3 [Cuc...   216  3e-55
+SEQ gi|99652|pir||A33985 wound-inducible chitinase homolog win8 prec...   204  1e-51
+SEQ gi|116326|sp|P16061|CHI8_POPTR ENDOCHITINASE WIN8 PRECURSOR >gi|...   203  2e-51
+SEQ gi|1345776|sp|P29031|CHIB_POPTR ACIDIC ENDOCHITINASE WIN6.2B PRE...   202  3e-51
+SEQ gi|10140759|gb|AAG13590.1|AC051633_6 (AC051633) putative chitina...   195  5e-49
+SEQ gi|7435348|pir||T03440 probable chitinase (EC 3.2.1.14) - rice (...   191  7e-48
+SEQ gi|4206072|gb|AAD11407.1| (AF074386) hevein-like protein [Sambuc...   187  1e-46
+SEQ gi|4206070|gb|AAD11406.1| (AF074385) hevein-like protein [Sambuc...   186  2e-46
+SEQ gi|7798628|gb|AAF69768.1|AF135128_1 (AF135128) class I chitinase...   186  2e-46
+SEQ gi|7489322|pir||T14185 chitinase (EC 3.2.1.14) - common sunflowe...   186  4e-46
+SEQ gi|4218936|gb|AAD12237.1| (AF074388) hevein-like protein HLPf [S...   185  5e-46
+SEQ gi|4206074|gb|AAD11408.1| (AF074387) hevein-like protein [Sambuc...   183  2e-45
+SEQ gi|113510|sp|P11218|AGI_URTDI LECTIN/ENDOCHITINASE PRECURSOR (AG...   174  1e-42
+SEQ gi|4138900|gb|AAD03614.1| (AF059535) agglutinin isolectin I prec...   174  1e-42
+SEQ gi|7798650|gb|AAF69779.1|AF135139_1 (AF135139) class I chitinase...   162  5e-39
+SEQ gi|7670022|dbj|BAA94976.1| (AB026636) basic chitinase [Arabidops...   148  6e-35
+SEQ gi|7435362|pir||T06470 probable chitinase (EC 3.2.1.14) - wheat ...   148  7e-35
+SEQ gi|7435372|pir||T03405 probable chitinase (EC 3.2.1.14) IIb - ri...   146  3e-34
+SEQ gi|6850314|gb|AAF29391.1|AC009999_11 (AC009999) Contains similar...   146  3e-34
+SEQ gi|2306813|gb|AAB65777.1| (U97522) class IV endochitinase [Vitis...   144  8e-34
+SEQ gi|2570160|dbj|BAA22965.1| (D45181) chitinase [Chenopodium amara...   144  8e-34
+SEQ gi|1168935|sp|P42820|CHIP_BETVU ACIDIC ENDOCHITINASE SP2 PRECURS...   144  1e-33
+SEQ gi|1076694|pir||S51645 chitinase (EC 3.2.1.14) class II - Europe...   144  1e-33
+SEQ gi|2570162|dbj|BAA22966.1| (D45182) chitinase [Chenopodium amara...   143  2e-33
+SEQ gi|7514379|pir||JE0125 chitinase (EC 3.2.1.14) A - Virginian pok...   143  2e-33
+SEQ gi|2306811|gb|AAB65776.1| (U97521) class IV endochitinase [Vitis...   142  6e-33
+SEQ gi|2570166|dbj|BAA22968.1| (D45184) chitinase [Chenopodium amara...   141  1e-32
+SEQ gi|7711140|gb|AAF67825.1| (AF167323) putative chitinase [Medicag...   139  4e-32
+SEQ gi|3608477|gb|AAC35981.1| (AF090336) chitinase CHI1 [Citrus sine...   139  5e-32
+SEQ gi|2597826|emb|CAA74930.1| (Y14590) class IV chitinase [Arabidop...   138  1e-31
+SEQ gi|11263903|pir||T47601 class IV chitinase (CHIV) - Arabidopsis ...   137  2e-31
+SEQ gi|482985|pir||B42424 chitinase (EC 3.2.1.14) precursor - maize ...   137  2e-31
+SEQ gi|116333|sp|P29023|CHIB_MAIZE ENDOCHITINASE B PRECURSOR (SEED C...   136  2e-31
+SEQ gi|4584552|emb|CAA53544.1| (X75945) chitinase [Beta vulgaris]         136  4e-31
+SEQ gi|116329|sp|P29022|CHIA_MAIZE ENDOCHITINASE A PRECURSOR (SEED C...   134  9e-31
+SEQ gi|283037|pir||A42424 chitinase (EC 3.2.1.14) A - maize               134  1e-30
+SEQ gi|1076693|pir||S51678 chitinase (EC 3.2.1.14) class I - Europea...   134  2e-30
+SEQ gi|2570164|dbj|BAA22967.1| (D45183) chitinase [Chenopodium amara...   133  2e-30
+SEQ gi|4741848|gb|AAD28733.1|AF112966_1 (AF112966) chitinase IV prec...   133  3e-30
+SEQ gi|2281109|gb|AAB64045.1| (AC002333) putative endochitinase [Ara...   130  2e-29
+SEQ gi|7798630|gb|AAF69769.1|AF135129_1 (AF135129) class I chitinase...   130  2e-29
+SEQ gi|2281108|gb|AAB64044.1| (AC002333) putative endochitinase [Ara...   127  1e-28
+SEQ gi|584929|sp|Q06209|CHI4_BRANA BASIC ENDOCHITINASE CHB4 PRECURSO...   127  1e-28
+SEQ gi|322881|pir||A44039 chitinase (EC 3.2.1.14) I, acidic - Japane...   127  2e-28
+SEQ gi|461740|sp|P80052|CHIT_DIOJA ACIDIC ENDOCHITINASE                   127  2e-28
+SEQ gi|2281111|gb|AAB64047.1| (AC002333) putative endochitinase [Ara...   127  2e-28
+SEQ gi|4741842|gb|AAD28730.1|AF112963_1 (AF112963) chitinase II prec...   126  2e-28
+SEQ gi|116324|sp|P27054|CHI4_PHAVU ENDOCHITINASE PR4 PRECURSOR >gi|1...   126  4e-28
+SEQ gi|1403522|emb|CAA40474.1| (X57187) chitinase [Phaseolus vulgaris]    126  4e-28
+SEQ gi|4519556|dbj|BAA75648.1| (AB017013) ChiG [Streptomyces coelico...   122  3e-27
+SEQ gi|1336630|gb|AAB01339.1| (U57408) chitinase [Gossypium hirsutum]     119  4e-26
+SEQ gi|7435352|pir||T09131 chitinase (EC 3.2.1.14) - white spruce >g...   119  4e-26
+SEQ gi|7435369|pir||T14344 chitinase (EC 3.2.1.14) EP3-2/H1, class I...   119  4e-26
+SEQ gi|7488930|pir||T14341 probable chitinase (EC 3.2.1.14) EP3-1/H5...   117  1e-25
+SEQ gi|4895143|gb|AAD32750.1| (AF127374) MmcY [Streptomyces lavendulae]   117  2e-25
+SEQ gi|2662299|dbj|BAA23739.1| (AB009289) chitinase C [Streptomyces ...   116  3e-25
+SEQ gi|6681674|dbj|BAA88834.1| (AB016843) chi25 [Streptomyces thermo...   115  8e-25
+SEQ gi|7435371|pir||T14348 probable chitinase (EC 3.2.1.14) EP3B/E6,...   114  1e-24
+SEQ gi|7209518|dbj|BAA92252.1| (AB038998) chitinase B [Burkholderia ...   114  1e-24
+SEQ gi|7435370|pir||T14345 chitinase (EC 3.2.1.14) EP3-3/E7, class I...   113  3e-24
+SEQ gi|6681672|dbj|BAA88833.1| (AB016842) chi35 [Streptomyces thermo...   112  4e-24
+SEQ gi|7479169|pir||T35345 chitinase - Streptomyces coelicolor >gi|4...   112  7e-24
+SEQ gi|7480552|pir||T42075 probable chitinase F - Streptomyces coeli...   112  7e-24
+SEQ gi|4456814|emb|CAB37321.1| (AJ133186) 30 kDa chitinase [Streptom...   111  9e-24
+SEQ gi|1362076|pir||S57476 chitinase class 4 - cowpea (fragment) >gi...   111  1e-23
+SEQ gi|2281113|gb|AAB64049.1| (AC002333) putative endochitinase [Ara...   106  3e-22
+SEQ gi|2281112|gb|AAB64048.1| (AC002333) putative endochitinase [Ara...   102  4e-21
+SEQ gi|2558859|gb|AAB81596.1| (AF020766) chitinase [Cynodon dactylon]     102  7e-21
+SEQ gi|2129790|pir||S65778 chitinase class IV precursor - rape (frag...   101  9e-21
+SEQ gi|9954745|gb|AAG09096.1|AC009323_7 (AC009323) Putative chitinas...    99  7e-20
+SEQ gi|6010286|emb|CAB57191.1| (AL121719) Secreted chitinase [Strept...    98  1e-19
+SEQ gi|14486393|gb|AAK62047.1| (AY035389) chitinase class 4-like pro...    96  4e-19
+SEQ gi|2281110|gb|AAB64046.1| (AC002333) putative endochitinase [Ara...    96  5e-19
+SEQ gi|7258552|emb|CAB77516.1| (AJ400141) chitinase [Hordeum marinum...    96  5e-19
+SEQ gi|7258542|emb|CAB77521.1| (AJ400128) chitinase [Hordeum murinum...    95  1e-18
+SEQ gi|7258540|emb|CAB77520.1| (AJ400127) chitinase [Hordeum murinum...    95  1e-18
+SEQ gi|7258538|emb|CAB77519.1| (AJ400126) chitinase [Hordeum murinum...    94  2e-18
+SEQ gi|11355865|pir||E82282 probable chitinase VC0769 [imported] - V...    94  2e-18
+SEQ gi|7258404|emb|CAB77449.1| (AJ400133) chitinase [Hordeum bulbosum]     93  5e-18
+SEQ gi|7259232|emb|CAB77550.1| (AJ400140) chitinase [Triticum aestivum]    88  9e-17
+SEQ gi|123999|sp||IAMY_COILA_4 [Segment 4 of 6] ALPHA-AMYLASE INHIBI...    87  3e-16
+SEQ gi|7507247|pir||T31899 hypothetical protein T05H4.7 - Caenorhabd...    84  1e-15
+SEQ gi|7271212|emb|CAB77669.1| (AJ400145) chitinase [Hordeum secalinum]    84  2e-15
+SEQ gi|7258412|emb|CAB77453.1| (AJ400148) chitinase [Hordeum chilense]     83  3e-15
+SEQ gi|7258410|emb|CAB77452.1| (AJ400136) chitinase [Hordeum bulbosu...    83  3e-15
+SEQ gi|82379|pir||A29104 chitinase (EC 3.2.1.14) - barley (fragments)      81  2e-14
+SEQ gi|7258416|emb|CAB77455.1| (AJ400150) chitinase [Hordeum chilense]     80  3e-14
+SEQ gi|7258414|emb|CAB77454.1| (AJ400149) chitinase [Hordeum chilense]     80  4e-14
+SEQ gi|5851918|dbj|BAA84197.1| (AB031748) chitinase 19-3 [Streptomyc...    79  6e-14
+SEQ gi|5851920|dbj|BAA84198.1| (AB031749) chitinase19-1 [Streptomyce...    79  7e-14
+SEQ gi|13182835|gb|AAK14961.1|AF230682_1 (AF230682) chitinase [Brass...    79  7e-14
+SEQ gi|13182839|gb|AAK14963.1|AF230684_1 (AF230684) chitinase [Brass...    79  8e-14
+SEQ gi|7259230|emb|CAB77549.1| (AJ400139) chitinase [Triticum aestivum]    78  1e-13
+SEQ gi|7511547|pir||T24127 probable chitinase (EC 3.2.1.14) precurso...    78  1e-13
+SEQ gi|5851928|dbj|BAA84202.1| (AB031753) chitinase 19-2 [Streptomyc...    77  2e-13
+SEQ gi|4138800|gb|AAD03578.1| (AF059541) agglutinin isolectin I prec...    77  3e-13
+SEQ gi|13182833|gb|AAK14960.1|AF230681_1 (AF230681) chitinase [Brass...    76  5e-13
+SEQ gi|5851934|dbj|BAA84205.1| (AB031756) chitinase 19-1 [Streptomyc...    76  6e-13
+SEQ gi|7258550|emb|CAB77525.1| (AJ400132) chitinase [Hordeum murinum...    75  8e-13
+SEQ gi|7495654|pir||T19078 hypothetical protein C08B6.4 - Caenorhabd...    75  9e-13
+SEQ gi|5851930|dbj|BAA84203.1| (AB031754) chitinase 19-1 [Streptomyc...    75  1e-12
+SEQ gi|14574374|gb|AAK68504.1|AC006794_3 (AC006794) Hypothetical pro...    75  1e-12
+SEQ gi|4138805|gb|AAD03580.1| (AF059543) agglutinin isolectin I prec...    75  1e-12
+SEQ gi|5851926|dbj|BAA84201.1| (AB031752) chitinase 19-1 [Streptomyc...    74  1e-12
+SEQ gi|11357137|pir||T46629 lp6 protein - loblolly pine >gi|974294|g...    74  1e-12
+SEQ gi|5851936|dbj|BAA84206.1| (AB031757) chitinase 19-1 [Streptomyc...    74  2e-12
+SEQ gi|288481|emb|CAA40209.1| (X56890) chitinase [Arachis hypogaea]        74  2e-12
+SEQ gi|4138905|gb|AAD03616.1| (AF059551) putative agglutinin isolect...    74  2e-12
+SEQ gi|4321721|gb|AAD15807.1| (AF059561) agglutinin isolectin VII pr...    74  2e-12
+SEQ gi|4587324|dbj|BAA76716.1| (AB025420) Family 19 chitinase (pRYA1...    74  2e-12
+SEQ gi|4138910|gb|AAD03618.1| (AF059553) agglutinin isolectin IV pre...    74  2e-12
+SEQ gi|4164459|gb|AAD05430.1| (AF059555) agglutinin isolectin V prec...    74  3e-12
+SEQ gi|7258595|emb|CAB77546.1| (AJ400138) chitinase [Hordeum vulgare...    74  3e-12
+SEQ gi|288485|emb|CAA40210.1| (X56891) chitinase [Arachis hypogaea]        73  3e-12
+SEQ gi|7258548|emb|CAB77524.1| (AJ400131) chitinase [Hordeum murinum...    73  4e-12
+SEQ gi|4138815|gb|AAD03584.1| (AF059547) agglutinin isolectin II pre...    73  4e-12
+SEQ gi|5851912|dbj|BAA84194.1| (AB031745) chitinase 19-1 [Streptomyc...    73  4e-12
+SEQ gi|544005|sp|Q06012|CHIA_ARAHY ENDOCHITINASE 1A (CHIT 1A)              73  4e-12
+SEQ gi|288487|emb|CAA40211.1| (X56892) chitinase [Arachis hypogaea]        73  5e-12
+SEQ gi|5851916|dbj|BAA84196.1| (AB031747) chitinase 19-2 [Streptomyc...    72  6e-12
+SEQ gi|5851932|dbj|BAA84204.1| (AB031755) chitinase 19-1 [Streptomyc...    72  7e-12
+SEQ gi|7258406|emb|CAB77450.1| (AJ400134) chitinase [Hordeum bulbosum]     72  8e-12
+SEQ gi|544009|sp|Q06013|CHIB_ARAHY ENDOCHITINASE 1B (CHIT 1B)              72  8e-12
+SEQ gi|5851914|dbj|BAA84195.1| (AB031746) chitinase 19-1 [Streptomyc...    72  1e-11
+SEQ gi|544001|sp|Q06015|CHI3_ARAHY ENDOCHITINASE 3 (CHIT 3)                71  1e-11
+SEQ gi|5851924|dbj|BAA84200.1| (AB031751) chitinase 19-1 [Streptomyc...    71  2e-11
+SEQ gi|11263901|pir||T45714 endochitinase-like protein - Arabidopsis...    68  2e-10
+SEQ gi|7479171|pir||T36400 chitinase - Streptomyces coelicolor (frag...    66  7e-10
+SEQ gi|288479|emb|CAA40208.1| (X56889) chitinase [Arachis hypogaea]        64  1e-09
+SEQ gi|288483|emb|CAA40212.1| (X56893) chitinase [Arachis hypogaea]        63  5e-09
+SEQ gi|543999|sp|Q06014|CHI2_ARAHY ENDOCHITINASE 2 (CHIT 2)                63  6e-09
+SEQ gi|544002|sp|Q06016|CHI4_ARAHY ENDOCHITINASE 4 (CHIT 4)                61  1e-08
+SEQ gi|2055429|gb|AAB53223.1| (U94847) chitinase [Linum usitatissimum]     59  9e-08
+SEQ 
+## SEQUENCE PROFILE AND ENTROPY
+ SeqNo PDBNo   V   L   I   M   F   W   Y   G   A   P   S   T   C   H   R   K   Q   E   N   D  NOCC NDEL NINS ENTROPY RELENT WEIGHT
+    1    1     0   0   0   0   0   0   0   0   7   0  56  10   0   0   0   0   0   0  27   0     0    0    0   1.099     36  0.00
+    2    2    49  31  16   0   0   0   0   0   3   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.125     37  0.00
+    3    3     0   0   0   0   0   0   0  29  18   0  42   2   0   0   0   0   2   6   0   0     0    0    0   1.433     47  0.00
+    4    4     0   0   0   0   0   0   0  17   4   0  53   1   0   0   2   2   0   2   5  12     0    0    0   1.519     50  0.00
+    5    5    20  19  56   2   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0     0    0    0   1.193     39  0.00
+    6    6    43   0  56   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.756     25  0.00
+    7    7     0   0   0   0   0   0   0   0   0   5  57  33   0   0   0   0   0   0   2   1     0    0    0   1.031     34  0.00
+    8    8     1   0   0   0   0   0   0   0   1   5  24   1   0   1  23   6  13  13   7   5     0    0    0   2.084     69  0.00
+    9    9     0   0   0   0   0   0   1   1  24   2  43   1   0   0   0   0   1   9   3  13     0    0    0   1.659     55  0.00
+   10   10     4  33   0  12  16   0   0   0   0   0   0   7   0   0   0   0  25   1   0   1     0    0    0   1.752     58  0.00
+   11   11     0   0   0   0  93   1   6   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.285      9  0.00
+   12   12     0   0   0   0   1   0   0   0   2   0   0   0   0   1   0   0   0  16  31  47     0    0    0   1.267     42  0.00
+   13   13     0   0   0   0   0   0   0  13   1   0   9   0   0   0  12   1  34   8   5  17     0    0    0   1.882     62  0.00
+   14   14     0   9  13  74   2   0   0   2   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.884     29  0.00
+   15   15     0  74  10   1  12   0   0   0   0   0   0   0   0   0   0   3   0   0   0   0     0    0    0   0.861     28  0.00
+   16   16     1  27   8   3   0   0   0   0   1  10   8   0   0   0   0  35   0   0   8   0     0    0    0   1.755     58  0.00
+   17   17     0   0   0   0   4   0   4   2   0   0   5   0   0  62   0   2   7   0  12   1     0    0    0   1.391     46  0.00
+   18   18     1   0   0   2   0   0   0   0   6   0   1   0   0   0  76   5   8   0   0   0     0    0    0   0.945     31  0.00
+   19   19     1   0   0   0   0   0   0   6   9   1   0   1   0   0   0   3   0   0  68  10     0    0    0   1.184     39  0.00
+   20   20     0   0   0   0   0   0   0   2   5   1   7   2   0   0   0   0   0   3  12  68     0    0    0   1.177     39  0.00
+   21   21     0   0   0   0   0   0   0  29  32   6  12   2   0   0   2   0   1   1   9   5     0    0    0   1.800     60  0.00
+   22   22     2   1   0   0   0   0   0   6  58   0   9   1   0   0   8   0   6   0   3   4     0    0    0   1.560     52  0.00
+   23   23     1   0   0   0   0   0   0   0   1   0   0   0  97   0   0   0   0   0   0   0     0    0    0   0.156      5  0.00
+   24   24     0   2   0   0   0   0   0   1   9  53   1   1   0   1   2   3  20   5   0   2     0    0    0   1.582     52  0.00
+   25   25     0   0   0   0   0   0   0  34  62   0   4   0   0   0   0   0   0   0   0   0     0    0    0   0.816     27  0.00
+   26   26     3   0   0   0   0   0   0   0   1   0   0   1   0   1  33  52   2   0   7   0     0    0    0   1.253     41  0.00
+   27   27     0   0   0   0   0   0   0  75   1   0   5   0   0   0   3   0   0   0  13   1     0    0    0   0.909     30  0.00
+   28   28     0   2   0   0  98   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.085      2  0.00
+   29   29     0   0   0   0   1   0  98   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.102      3  0.00
+   30   30     0   0   0   0   0   0   1   0   1   1  12  80   0   0   1   1   0   0   1   0     0    0    0   0.775     25  0.00
+   31   31     0   0   0   0   0   0  80   0   0   0   1   2   0   1  13   0   0   0   0   1     0    0    0   0.717     23  0.00
+   32   32     0   0   0   0   0   0   1   2   5   0  10   0   0   1   2   1   4  10  24  38     0    0    0   1.816     60  0.00
+   33   33     0   0   0   0   3   0   0   5  82   0   5   1   0   0   1   0   0   0   1   2     0    0    0   0.815     27  0.00
+   34   34     0   4   2   0  88   0   1   0   3   0   0   3   0   0   0   0   0   0   0   0     0    0    0   0.551     18  0.00
+   35   35    19  17  53   1   3   0   0   0   3   0   0   3   0   0   1   0   0   0   0   0     0    0    0   1.391     46  0.00
+   36   36     3   1   0   0   0   0   0   0  41   0  11  23   0   0   2   1   2   5   8   4     0    0    0   1.787     59  0.00
+   37   37     0   0   0   0   0   0   0   2  95   0   2   0   0   0   0   0   0   0   0   0     0    0    0   0.277      9  0.00
+   38   38     5  11   0   0   2   0   0   0  73   0   1   6   0   0   0   0   0   0   2   0     0    0    0   1.019     33  0.00
+   39   39     0   0   1   0   0   0   0   8  10   0   9   1   0   0  14  27   4   3  20   2     0    0    0   2.070     69  0.00
+   40   40     0   0   0   0   4   0   1   1  33   0  48   4   0   0   2   2   0   2   3   1     0    0    0   1.460     48  0.00
+   41   41     0   0   0   0  73   0  19   0   4   2   0   0   0   0   1   0   0   0   1   0     0    0    0   0.850     28  0.00
+   42   42     0   1   0   0   1   0   2   4   5  72   8   1   0   0   3   0   0   0   3   0     0    0    0   1.176     39  0.00
+   43   43     0   0   0   0   2   0   0  50  14   3  12   0   0   0   3   2   2   1   4   7     0    0    0   1.683     56  0.00
+   44   44     0   2   0   0  91   0   1   1   1   0   1   1   0   0   0   0   1   0   0   1     0    0    0   0.510     17  0.00
+   45   45     0   0   0   0   3   0   0  74  16   0   1   1   2   0   1   1   0   0   0   0     0    0    0   0.936     31  0.00
+   46   46     0   0   0   1   1   0   0   5   6   2   4  61   0   2   3   3   0   0  13   0     0    0    0   1.469     49  0.00
+   47   47     3   0   1   0   0   0   0   7   2   0  10  70   0   0   1   1   0   1   3   1     0    0    0   1.176     39  0.00
+   48   48     0   0   1   0   2   0   0  92   0   0   1   1   1   0   1   0   0   0   0   0     0    0    0   0.448     14  0.00
+   49   49     0   0   0   0   0   0   0   2   3   0  31   4   1   0   0   0   0   0   3  54     0    0    0   1.224     40  0.00
+   50   50     3   2   3   0   0   0   0   2  16   3   5  41   0   0   0   0   3   3   3  17     0    0    0   1.914     63  0.00
+   51   51     3   2   0   0   0   0   0   0  28   0   3  18   0   0   0   1   0  12   5  28     0    0    0   1.755     58  0.00
+   52   52    10   1   1   3   0   0   0   0  20   0   2  50   0   0   0   0   1   1   0  11     0    0    0   1.539     51  0.00
+   53   53     2   0   2   0   0   0   0   3   2   0   7   3   2   0  65   6   7   0   2   0     0    0    0   1.399     46  0.00
+   54   54     0   0   0   0   0   0   0   0   0   0   0   0   0   0   9  90   1   0   1   0     0    0    0   0.388     12  0.00
+   55   55     0   0   0   0   0   0   0   0   0   0   0   0   0   0  70  25   4   0   0   0     0    0    0   0.769     25  0.00
+   56   56     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0  98   0   1     0    0    0   0.122      4  0.00
+   57   57    32  12  50   2   0   0   0   0   4   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.199     40  0.00
+   58   58     0   0   0   0   0   0   0   0  99   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.054      1  0.00
+   59   59     0   0   0   0   0   0   0   0  98   0   0   1   0   0   0   0   0   0   0   0     0    0    0   0.119      3  0.00
+   60   60     0   0   1   2  94   0   1   0   1   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.327     10  0.00
+   61   61     0  46   0   0  53   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.714     23  0.00
+   62   62     0   0   0   0   0   0   0  40  58   0   2   0   0   0   0   0   0   0   0   0     0    0    0   0.773     25  0.00
+   63   63     0   0   0   0   0   0   0   0   0   0   0   0   0  18   0   0  77   0   4   0     0    0    0   0.667     22  0.00
+   64   64    14   0   5   0   5   0   0   0   3   0   0  73   0   0   0   0   0   0   0   0     0    0    0   0.929     31  0.00
+   65   65     0   0   0   0   0   0   0   2   2   0  82  12   0   0   0   0   0   0   1   0     0    0    0   0.684     22  0.00
+   66   66     0   0   0   0   0   0   1   0   0   0   1   0   0  92   0   0   5   0   0   0     0    0    0   0.342     11  0.00
+   67   67     0   0   0   0   0   0   0   1   3   0   0   0   0   0   0   1   1  94   0   0     0    0    0   0.307     10  0.00
+   68   68     0   0   0   0   0   0   0   0   0   0   2  97   0   0   0   0   0   0   1   0     0    0    0   0.155      5  0.00
+   69   69     0   0   0   0   0   0   0  16   0   0   4  75   0   0   0   1   0   0   4   0     0    0    0   0.844     28  0.00
+   70   70     0   0   0   0   0   0   0  98   0   0   0   0   1   0   0   0   0   0   0   0     0    0    0   0.116      3  0.00
+   71   71     0   1   0   1   0   1   0  95   0   0   0   0   0   0   1   0   1   2   0   0     0    0    0   0.283      9  0.00
+   72   72     0   2   0   0   1  78   4   0   1   0   7   6   1   0   2   0   0   0   0   0     0    0    0   0.915     30  0.00
+   73   73     0   3   1   0   0   0   0   2  61  21   3   1   0   0   5   0   0   0   0   3     0    0    0   1.262     42  0.00
+   74   74     1   1   2   0   0   0   0   7   2   0  26  57   0   0   1   0   0   0   1   3     0    0    0   1.266     42  0.00
+   75   75     1   0   0   0   0   0   0   1  92   0   5   0   0   0   0   0   0   1   0   0     0    0    0   0.357     11  0.00
+   76   76     2   0   0   0   0   0   0   0   2  85   3   2   0   0   1   0   2   4   0   0     0    0    0   0.702     23  0.00
+   77   77     2   0   0   0   0   0   0   3   0   0   0   0   1   1   2   0   0   2   3  87     0    0    0   0.621     20  0.00
+   78   78     0   0   0   0   0   1   0  94   1   0   0   0   0   0   1   0   0   0   1   3     0    0    0   0.321     10  0.00
+   79   79     0   0   0   0   0   0   0   0  10  75   2   4   0   0   1   0   6   1   0   0     0    0    0   0.935     31  0.00
+   80   80     0   1   1   0  42   0  52   0   0   0   0   0   0   3   0   0   0   0   0   0     0    0    0   0.941     31  0.00
+   81   81     0   0   0   0   0   0   0   0  49   0  32  10   1   0   0   0   5   0   0   1     0    0    0   1.289     43  0.00
+   82   82     0   5   0   0   0  87   0   7   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.522     17  0.00
+   83   83     3   0   0   0   0   0   0  85   0   0   1   0   0   9   0   0   1   0   1   0     0    0    0   0.619     20  0.00
+   84   84     0   8   0   1  13   0  78   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.737     24  0.00
+   85   85     3   0   2   0   0   0   0   0   0   0   0   0  93   0   0   0   0   0   0   0     0    0    0   0.311     10  0.00
+   86   86     5   2   0   0  57   2  29   0   0   0   0   0   0   4   1   0   0   0   0   0     0    0    0   1.186     39  0.00
+   87   87    14  11  19   0   0   0   0   0   0   0   0   0   0   0   2  42   0   7   5   0     0    0    0   1.618     54  0.00
+   88   88     0   0   0   0   0   0   0   0   0   0   4   1   0   0  23   3  29  32   5   0     0    0    0   1.611     53  0.00
+   89   89     1   0   0   0   0   0   0   2   0   0   0   1   0   0   0   0   6  84   7   0     0    0    0   0.654     21  0.00
+   90   90     5   4  19   1   0   0   0   1   0   0   1   8   0   0  12   4  30   1  12   2     0    0    0   2.087     69  0.00
+   91   91     0   0   0   0   0   0   0  33   9   0   5   2   0   0   0   0   0   0  41   8     0    0    0   1.458     48  0.00
+   92   92     1   0   0   0   0   0   0   3  21  29   8   4   1   1   2   8   7   1  12   1     0    0    0   2.088     69  0.00
+   93   93     0   0   0   1   0   0   7   4  10  17  25  13   0   0   2   3   4   0   6   5     0    0    0   2.243     74  0.00
+   94   94     1   1   0   1   0   0   0  11   5  11  40   4   0   2   4   4   2   4   5   5     0    0    0   2.108     70  0.00
+   95   95     1   1   1   0   0   0   0   1   4   1   6   7   0   7   2   3   4   2  19  46     0    0    0   1.822     60  0.00
+   96   96     0   0   0   0   2   0  95   0   0   0   0   0   0   2   0   0   0   0   0   0     0    0    0   0.262      8  0.00
+   97   97     0   0   0   0   0   0   0   0   0   0   0   0  99   0   0   0   0   0   0   0     0    0    0   0.056      1  0.00
+   98   98     7   0   0   0   0   0   0   0   4   0  12  18   0   0   0   0  12  15   0  30     0    0    0   1.879     62  0.00
+   99   99     0   0   0   0   0   6   0   0  12  49  12   3   0   0   1   1   5   7   1   1     0    0    0   1.712     57  0.00
+  100  100     0   0   0   0   0   0   1   4   1   0  63   8   0   0   0   5   0   1  13   3     0    0    0   1.316     43  0.00
+  101  101     1   0   0   0   0   0   0   4  33  11  14   7   0   0   5   6  14   1   2   1     0    0    0   2.077     69  0.00
+  102  102     0   0   0   0   0   0   0   1   1   7   3  17   0   0   2   4  46  10   6   1     0    0    0   1.780     59  0.00
+  103  103     0   0   0   0   6  60  32   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.959     32  0.00
+  104  104     0   0   0   0   0   0   0   9   0  89   0   0   0   0   0   0   1   0   0   0     0    0    0   0.432     14  0.00
+  105  105     0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0     0    0    0   0.028      0  0.00
+  106  106     6   0   0   0   0   0   4   0  64  10   3   3   0   0   1   0   1   0   5   0     0    0    0   1.372     45  0.00
+  107  107     0   0   0   0   1   0   0   0  24  53  14   5   0   0   1   0   2   0   0   0     0    0    0   1.307     43  0.00
+  108  108     0   0   0   0   0   0   1  81   2   0   7   0   0   0   0   0   0   0   6   2     0    0    0   0.764     25  0.00
+  109  109     2   0   0   0   0   0   0   0   0   5   1   0   0   0   9  64  14   2   2   0     0    0    0   1.264     42  0.00
+  110  110     0   0   0   0   1   0   0   8   8   4   9   2   0   0  22  28  13   1   2   0     0    0    0   2.014     67  0.00
+  111  111     0   0   0   0   0   0  99   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.076      2  0.00
+  112  112     0   0   0   0  20   0  68   0   0   0   1   0   1   5   0   1   1   0   2   0     0    0    0   1.025     34  0.00
+  113  113     0   0   0   0   0   0   0  96   1   1   1   0   0   0   1   0   0   0   0   0     0    0    0   0.226      7  0.00
+  114  114     0   0   0   0   0   0   0   0   0   0   0   0   0   0  99   0   0   0   0   0     0    0    0   0.077      2  0.00
+  115  115     0   0   0   0   0   0   0  99   0   0   0   0   0   0   1   0   0   0   0   0     0    0    0   0.071      2  0.00
+  116  116     0   1   0   0   0   0   0   0   4  95   0   0   0   0   0   0   0   0   0   0     0    0    0   0.262      8  0.00
+  117  117     2  12  69  15   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0     0    0    0   0.967     32  0.00
+  118  118     0   0   0   1   0   0   0   0   0   1   0   0   0   0   0   0  98   0   0   0     0    0    0   0.143      4  0.00
+  119  119     0  71  29   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.647     21  0.00
+  120  120     0   0   0   0   0   0   1   0   1   0  69  27   0   0   1   1   0   0   0   0     0    0    0   0.803     26  0.00
+  121  121     0   0   0   0   2  55  15   5   0   0   0   0   0  20   0   0   0   0   2   0     0    0    0   1.339     44  0.00
+  122  122     0   0   0   0   0   0   0   0   0   0   0   0   0   0   2   0   7   0  89   1     0    0    0   0.487     16  0.00
+  123  123     0   0   1   0  16   0  71   0   0   0   8   0   0   0   0   0   0   1   2   0     0    0    0   0.950     31  0.00
+  124  124     0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0  97   0     0    0    0   0.166      5  0.00
+  125  125     0   0   0   0   0   0  98   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.102      3  0.00
+  126  126     0   0   3   0   0   0   0  76   2   0   0   0   0   0   0   9   3   5   0   2     0    0    0   0.985     32  0.00
+  127  127     0  20   0   0   0   0   0   0  21  35   0   0   0   0   3   2  15   2   0   2     0    0    0   1.682     56  0.00
+  128  128     0   0   0   0   1   0   0   0  61   0   0   0  33   0   2   0   0   0   0   0     0    0    0   0.948     31  0.00
+  129  129     0   0   0   0   0   0   0  96   0   0   1   1   0   0   0   0   0   0   0   0     0    0    0   0.229      7  0.00
+  130  130     1   0   0   0   0   0   0   0   1   0   2   2   0   0  42  13  16   6   7  10     0    0    0   1.797     59  0.00
+  131  131     0   0   0   0   1   0   1   5  73   0  10   0   0   1   1   0   0   1   2   4     0    0    0   1.082     36  0.00
+  132  132     1  31  64   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   3   0     0    0    0   0.871     29  0.00
+  133  133     0   0   0   0   0   0   0  81   1   0   0   0   0   1   1   4   1   2   6   1     0    0    0   0.859     28  0.00
+  134  134    39  11   9   0  16   0   2   0   5   0   5   2   0   0   0   2   5   4   0   0     0    0    0   1.963     65  0.00
+  135  135     0   0   0   0   0   0   0   1   0   4   0   0   0   0   0   0   0   2  11  82     0    0    0   0.660     22  0.00
+  136  136     0  82   1   0   0   0   0  16   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.539     17  0.00
+  137  137    11  80   9   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.659     21  0.00
+  138  138     0   0   0   0   0   0   0  12   5   0   6   1   0   0   8   5   3   0  58   2     0    0    0   1.502     50  0.00
+  139  139     0   0   0   0   0   0   0   0   4   0   1   1   0   2   0   1   3   4  77   7     0    0    0   0.989     33  0.00
+  140  140     0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0     0    0    0   0.025      0  0.00
+  141  141     0   0   0   0   0   5   1   3   0   0   0   0   0   0   0   0   0  19   3  69     0    0    0   0.996     33  0.00
+  142  142     1  76   7   1   0   0   1   0   1   0   0   6   0   0   2   4   0   0   0   0     0    0    0   1.019     34  0.00
+  143  143    95   4   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.215      7  0.00
+  144  144     0   0   0   2   0   0   0   2  72   0  12   0   0   0   0   0   6   5   0   0     0    0    0   1.012     33  0.00
+  145  145     0   0   0   0   0   0   0   0   0   0  13  44   0   0   5   3   5   0  29   0     0    0    0   1.450     48  0.00
+  146  146     0   0   0   0   0   0   0   0   0   0   2   0   2   0   0   0   0   0  11  84     0    0    0   0.584     19  0.00
+  147  147     3   0   0   0   0   0   0   0  40  44  11   1   0   0   0   0   2   0   0   0     0    0    0   1.177     39  0.00
+  148  148    47   2   9   0   1   1   0   0   8   2   2  25   0   0   0   0   0   1   0   2     0    0    0   1.579     52  0.00
+  149  149    40   8  47   0   0   0   0   0   0   0   0   4   0   0   0   0   0   0   0   0     0    0    0   1.089     36  0.00
+  150  150     1   0   0   0   0   0   0   1  38   0  58   1   0   0   0   0   0   0   1   0     0    0    0   0.864     28  0.00
+  151  151     1   0   0   1  88   8   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.496     16  0.00
+  152  152     0   1   0   1   0   0   0   0   2   0   0   0   0   0   8  83   3   2   0   0     0    0    0   0.704     23  0.00
+  153  153     0   0   0   0   1   0   0   0  19   0  12  67   1   0   0   0   0   0   0   0     0    0    0   0.953     31  0.00
+  154  154     0   0   0   0   0   0   0   9  86   1   4   0   0   0   0   0   0   0   0   0     0    0    0   0.523     17  0.00
+  155  155     1  45  39   5  10   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.172     39  0.00
+  156  156     0   0   0   0   0  99   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.076      2  0.00
+  157  157     0   1   0   0  85   0  12   0   0   0   0   0   0   0   1   0   0   0   0   0     0    0    0   0.503     16  0.00
+  158  158     0   0   0   0   0  97   2   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.205      6  0.00
+  159  159     1   0   1  85   0   0   0   0   0   0   0   2   0   0   0   1   0   0   9   0     0    0    0   0.625     20  0.00
+  160  160     1   0   0   0   0   0   0   0   0   0   4  82   0   0   1   2   1   0   9   0     0    0    0   0.772     25  0.00
+  161  161     0   0   0   0   0   0   0   1  33  39   2   0   0   1   1   1  14   4   4   0     0    0    0   1.529     51  0.00
+  162  162     9   0   0   0   0   0   0   0   0   0   5   3   0   7   4   0  70   1   1   0     0    0    0   1.144     38  0.00
+  163  163     0   0   0   0   0   0   0  23   5  17  28   0   0   2   6   3   4   0   0  11     0    0    0   1.946     64  0.00
+  164  164     1   0   0   0   0   0   0   0   1  67   4   2   0   0   0   0   0   0  25   0     0    0    0   0.927     30  0.00
+  165  165     7   0   0   0   0   0   0   0   1   0   2   0   0   0   2  84   1   0   2   0     0    0    0   0.694     23  0.00
+  166  166     0   3   2   0   1   0   0   1   1  89   0   1   0   0   0   0   0   0   0   0     0    0    0   0.588     19  0.00
+  167  167     1   0   0   0   0   0   0   0   2   0  84   0   0   0   0   2   0   0   9   0     0    0    0   0.678     22  0.00
+  168  168     6   2   0   2   0   0   0   0   3   1  22   0  55   0   0   0   7   0   0   0     0    0    0   1.397     46  0.00
+  169  169     0   0   0   0   0   0   1   0   0   0   0   1   0  96   0   0   1   0   0   0     0    0    0   0.258      8  0.00
+  170  170     1   0   0   0   0   0   0   1  29   0   5   0   0   1   0   0   3   3   8  48     0    0    0   1.490     49  0.00
+  171  171    87   0  12   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.435     14  0.00
+  172  172    10   4  70  12   1   0   0   0   3   0   0   1   0   0   0   0   0   0   0   0     0    0    0   1.059     35  0.00
+  173  173    13   9  16   1   0   0   0   0  10   3   4  43   0   0   0   0   0   0   1   1     0    0    0   1.725     57  0.00
+  174  174     0   0   0   0   0   0   0  89   0   0   2   0   0   0   2   0   0   1   4   1     0    0    0   0.515     17  0.00
+  175  175     0   0   0   0   0   0   0   1   3   0   2   6   0   0  33   4  41   3   6   0     0    0    0   1.597     53  0.00
+  176  176     0   1   0   5   0  89   6   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.453     15  0.00
+  177  177     4   0   0   0   0   0   0   0   1   0  15  40   0   0   5   5  24   0   3   1     0    0    0   1.704     56  0.00
+  178  178     0   0   0   0   0   0   0   0   0  97   1   0   0   0   1   0   0   0   0   0     0    0    0   0.164      5  0.00
+  179  179     0   0   0   0   0   0   0   2   0   1  72  12   0   5   0   0   0   0   6   0     0    0    0   1.016     33  0.00
+  180  180     1   0   0   0   0   0   0  17  36   6  11   0   0   0   0   2   2   1   7  17     0    0    0   1.862     62  0.00
+  181  181     1   0   0   0   0   0   0   2  72   0   5   6   0   0   1   2   0   1   6   3     0    0    0   1.184     39  0.00
+  182  182     0   0   0   2   0   0   0   0   0   0   2   0   0   0   0   0   0   2   6  87     0    0    0   0.560     18  0.00
+  183  183    10   3   4   0   0   0   0   0   2   0  18  13   0   0  29   2  14   2   1   0     0    0    0   2.039     68  0.00
+  184  184     0   1   0   0   0   0   0   0  79   1   9   1   0   0   1   0   0   3   4   0     0    0    0   0.857     28  0.00
+  185  185     0   0   0   1   0   0   0   3  88   0   4   1   0   0   1   0   0   0   1   0     0    0    0   0.569     19  0.00
+  186  186     1   0   0   0   0   0   0  62   3   0   0   0   0   0   2   2   0   0  27   2     0    0    0   1.085     36  0.00
+  187  187     0   0   0   0   0   0   0   0   0   0   0   2   0   0  91   0   2   0   1   1     0    0    0   0.472     15  0.00
+  188  188    46  29   3   1   0   0   0   2  10   0   0   6   0   1   0   1   1   0   0   0     0    0    0   1.516     50  0.00
+  189  189     0   1   0   0   0   0   0   1   4  81   4   1   0   0   0   0   6   0   0   0     0    0    0   0.822     27  0.00
+  190  190     0   0   1   0   0   0   0  93   0   0   2   0   0   0   0   0   0   0   4   0     0    0    0   0.363     12  0.00
+  191  191     0   0   0   0  47   0  49   0   0   0   0   0   0   0   0   4   0   0   0   0     0    0    0   0.867     28  0.00
+  192  192     0   0   0   0   0   0   0  99   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.051      1  0.00
+  193  193    60   8   0   2   0   0   0   1  13   2   2   5   0   0   0   0   2   5   0   0     0    0    0   1.426     47  0.00
+  194  194    11   2  61   0   0   0   0   0   0   0   0  25   0   0   0   0   0   0   0   0     0    0    0   1.024     34  0.00
+  195  195     0   0  19   0   0   0   0   2   0   0   5  73   0   0   0   0   0   0   0   0     0    0    0   0.803     26  0.00
+  196  196     0   2   0   0   0   0   0   0   0   0   0   0   0   0  18   2   1   0  75   0     0    0    0   0.823     27  0.00
+  197  197     1   0  79   0   0   0   0   0  13   0   4   0   0   0   2   1   0   0   0   0     0    0    0   0.778     25  0.00
+  198  198     7   2  89   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.481     16  0.00
+  199  199     0   0   0   0   0   0   1   0   0   0   4   2   0   0   0   0   1   0  91   1     0    0    0   0.434     14  0.00
+  200  200     0   0   0   0   0   0   0  89   0   0   3   0   0   0   5   0   0   0   3   0     0    0    0   0.486     16  0.00
+  201  201     0   0   0   0   0   0   0  76  10   0   6   0   0   0   1   0   1   1   2   1     0    0    0   0.907     30  0.00
+  202  202     7  57  21   3   6   0   0   1   0   0   0   0   0   0   0   0   1   1   0   0     0    0    0   1.410     47  0.00
+  203  203     0   0   0   0   0   0   0   2   0   0   0   0   0   0   0   0   1  91   0   5     0    0    0   0.409     13  0.00
+  204  204     0   0   0   0   0   0   0   0   0   0   0   0  98   2   0   0   0   0   0   0     0    0    0   0.137      4  0.00
+  205  205     0   0   0   0   0   0   0  73   1   0   2   2   0   0   0   0   2   0  14   7     0    0    0   0.943     31  0.00
+  206  206     4   0   3   5   1   0   0  22   0   0   4   0   0  21  24  11   3   0   0   1     0    0    0   1.983     66  0.00
+  207  207     0   0   0   0   0   1   0  78   5   1   1   1   0   1   2   2   1   0   2   5     0    0    0   1.013     33  0.00
+  208  208     0   2   0   0   1   2   1   4   5   9  11   3   0   0   4   0  30   3  19   6     0    0    0   2.181     72  0.00
+  209  209     2   0   1   0   4   0   0   1   1  12   4   5   0   0   0   1   1   0  19  50     0    0    0   1.650     55  0.00
+  210  210     0   0   0   0   0   0   0  15  25   7  19   9   0   0   0   0   0   5   5  15     0    0    0   1.944     64  0.00
+  211  211     4   1   0   0   0   0   0   0  20   0   0   4   0   0  45   5  15   1   1   3     0    0    0   1.702     56  0.00
+  212  212    74   0   2   7   0   0   0   0   4   0   1   0   0   0   4   0   1   1   5   0     0    0    0   1.074     35  0.00
+  213  213     5   0   0   1   0   0   0   1  32   0   5   3   0   0   0   2  21  13  15   2     0    0    0   1.905     63  0.00
+  214  214     0   0   0   0   0   0   0   0  10   0  16   3   0   0   0   0   0   0  16  53     0    0    0   1.325     44  0.00
+  215  215     0   0   0   0   0   0   0   0   0   0   5   0   0   0  93   0   0   0   0   0     0    0    0   0.292      9  0.00
+  216  216    17   0  80   0   1   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.604     20  0.00
+  217  217     0   0   0   0   0   0   0  79   2   0   3   1   0   0   2   1   3   0   5   3     0    0    0   0.946     31  0.00
+  218  218     0   2   0   0  66   0  25   0   2   0   0   0   0   2   0   1   1   0   2   0     0    0    0   1.026     34  0.00
+  219  219     0   0   0   0   8   0  92   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.288      9  0.00
+  220  220     1   3   0   0   0   0   0   0   0   0   0   8   0   0  19  42  23   1   2   0     0    0    0   1.530     51  0.00
+  221  221     0   0   0   0   0   0   1   0   0   0   3   2   0   0  76   2   6   4   0   6     0    0    0   1.017     33  0.00
+  222  222     0   0   1   0   8   0  91   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.353     11  0.00
+  223  223     1   1   0   0   0   0   0   0   3   0   0   3  91   0   0   0   0   0   0   0     0    0    0   0.408     13  0.00
+  224  224     0   0   0   0   0   0   0  16   2   0   8   3   0   0   4   6   9   1  14  38     0    0    0   1.862     62  0.00
+  225  225     3  12  39  23   0   0   0   0   1   0   2   1   0   0   0   4  12   0   0   1     0    0    0   1.768     59  0.00
+  226  226     0  70   0   3  27   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.719     24  0.00
+  227  227     0   0   0   0   0   0   0  80   0   0   1   0   0   1   2   3   2   2   9   1     0    0    0   0.851     28  0.00
+  228  228    83   1   8   0   0   0   0   0   2   0   0   5   0   0   0   0   0   0   0   0     0    0    0   0.653     21  0.00
+  229  229     0   0   0   0   0   0   0  20  10   5  29   5   0   0   0   0   3   1  14  13     0    0    0   1.913     63  0.00
+  230  230     1   1   0   0   0   0  37   0   0  47   0  12   0   0   1   0   0   0   0   0     0    0    0   1.151     38  0.00
+  231  231     0   0   0   0   0   0   0  98   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.110      3  0.00
+  232  232     0   0   0   0   0   0   0  18   5   8   8   1   0   5   1   1   0   6  18  29     0    0    0   2.007     66  0.00
+  233  233     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  94   4     0    0    0   0.314     10  0.00
+  234  234     1  95   2   0   0   0   0   0   0   0   0   0   0   0   0   0   2   0   0   0     0    0    0   0.239      7  0.00
+  235  235     0   0   1   0   0   0   4   1   0   1   8   7   0   0   2   0   0   1   2  72     0    0    0   1.138     37  0.00
+  236  236     0   0   0   0   0   2   0   0   0   0   0   0  97   0   0   0   0   0   0   0     0    0    0   0.147      4  0.00
+  237  237     1   0   0   0   6   0  60   9   8   0   1   0   0   1   2   1   0   2   9   2     0    0    0   1.478     49  0.00
+  238  238     0   0   0   0   1   0   1   1   0   0  12   3   0   1   1   0   2   1  71   6     0    0    0   1.107     36  0.00
+  239  239     0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0  97   3   0   0     0    0    0   0.167      5  0.00
+  240  240     0   0   0   0   0   0   0   0   3   0   2   6   0   0  74  10   2   2   0   0     0    0    0   0.991     33  0.00
+  241  241     0   0   0   0   0   1   0   1   0  58  25   1   0   2   0   0   0   0  12   1     0    0    0   1.136     37  0.00
+  242  242     0   0   0   0  93   0   6   0   0   0   1   0   0   0   0   0   0   0   0   0     0    0    0   0.262      8  0.00
+  243  243     0   0   0   0   0   0   0   0  91   0   9   0   0   0   0   0   0   0   0   0     0    0    0   0.295      9  0.00
+//

@@ -1,0 +1,634 @@
+ID Pseudo hssp file.
+SEQ 
+SEQ gi|443367|pdb|2CMD|    Malate Dehydrogenase (E.C.1.1.1.37) >gi|4...   538  e-152
+SEQ gi|226907|prf||1611193A malate dehydrogenase [Escherichia coli]       535  e-151
+SEQ gi|41989|emb|CAA68326.1| (Y00129) malate dehydrogenase [Escheric...   535  e-151
+SEQ gi|1170899|sp|P06994|MDH_ECOLI MALATE DEHYDROGENASE >gi|7427667|...   533  e-151
+SEQ gi|450385|gb|AAA16107.1| (M24777) malate dehydrogenase [Escheric...   521  e-147
+SEQ gi|9664488|gb|AAF97146.1|AF267606_1 (AF267606) malate dehydrogen...   516  e-145
+SEQ gi|9754602|gb|AAF98001.1|AF091771_1 (AF091771) malate dehydrogen...   512  e-144
+SEQ gi|2289311|gb|AAB87033.1| (AF004200) malate dehydrogenase [Esche...   512  e-144
+SEQ gi|9754600|gb|AAF98000.1|AF091770_1 (AF091770) malate dehydrogen...   512  e-144
+SEQ gi|9664474|gb|AAF97139.1|AF267599_1 (AF267599) malate dehydrogen...   512  e-144
+SEQ gi|9664486|gb|AAF97145.1|AF267605_1 (AF267605) malate dehydrogen...   512  e-144
+SEQ gi|440001|gb|AAC43730.1| (U04742) malate dehydrogenase [Escheric...   511  e-144
+SEQ gi|9754576|gb|AAF97988.1|AF091758_1 (AF091758) malate dehydrogen...   511  e-144
+SEQ gi|2289313|gb|AAB87034.1| (AF004201) malate dehydrogenase [Esche...   511  e-144
+SEQ gi|9664484|gb|AAF97144.1|AF267604_1 (AF267604) malate dehydrogen...   511  e-144
+SEQ gi|9754578|gb|AAF97989.1|AF091759_1 (AF091759) malate dehydrogen...   510  e-144
+SEQ gi|440009|gb|AAC43734.1| (U04746) malate dehydrogenase [Escheric...   510  e-143
+SEQ gi|440007|gb|AAC43733.1| (U04745) malate dehydrogenase [Escheric...   510  e-143
+SEQ gi|9664512|gb|AAF97158.1|AF267618_1 (AF267618) malate dehydrogen...   510  e-143
+SEQ gi|440017|gb|AAC43738.1| (U04750) malate dehydrogenase [Escheric...   510  e-143
+SEQ gi|440031|gb|AAC43745.1| (U04757) malate dehydrogenase [Escheric...   510  e-143
+SEQ gi|9664502|gb|AAF97153.1|AF267613_1 (AF267613) malate dehydrogen...   509  e-143
+SEQ gi|440029|gb|AAC43744.1| (U04756) malate dehydrogenase [Escheric...   509  e-143
+SEQ gi|2289309|gb|AAB87032.1| (AF004199) malate dehydrogenase [Esche...   509  e-143
+SEQ gi|9664510|gb|AAF97157.1|AF267617_1 (AF267617) malate dehydrogen...   509  e-143
+SEQ gi|9754610|gb|AAF98005.1|AF091775_1 (AF091775) malate dehydrogen...   509  e-143
+SEQ gi|9664490|gb|AAF97147.1|AF267607_1 (AF267607) malate dehydrogen...   509  e-143
+SEQ gi|2289315|gb|AAB87035.1| (AF004202) malate dehydrogenase [Esche...   508  e-143
+SEQ gi|3388001|gb|AAC28659.1| (AF071029) malate dehydrogenase [Esche...   508  e-143
+SEQ gi|440015|gb|AAC43737.1| (U04749) malate dehydrogenase [Escheric...   508  e-143
+SEQ gi|9664494|gb|AAF97149.1|AF267609_1 (AF267609) malate dehydrogen...   508  e-143
+SEQ gi|9664480|gb|AAF97142.1|AF267602_1 (AF267602) malate dehydrogen...   508  e-143
+SEQ gi|126913|sp|P25077|MDH_SALTY MALATE DEHYDROGENASE >gi|319834|pi...   508  e-143
+SEQ gi|9664508|gb|AAF97156.1|AF267616_1 (AF267616) malate dehydrogen...   504  e-142
+SEQ gi|10185848|gb|AAG14464.1|AF293106_1 (AF293106) malate dehydroge...   496  e-139
+SEQ gi|10185917|gb|AAG14509.1|AF293129_1 (AF293129) malate dehydroge...   495  e-139
+SEQ gi|10186001|gb|AAG14565.1|AF293157_1 (AF293157) malate dehydroge...   494  e-139
+SEQ gi|10185872|gb|AAG14479.1|AF293114_1 (AF293114) malate dehydroge...   494  e-139
+SEQ gi|10185995|gb|AAG14561.1|AF293155_1 (AF293155) malate dehydroge...   493  e-138
+SEQ gi|10185905|gb|AAG14501.1|AF293125_1 (AF293125) malate dehydroge...   493  e-138
+SEQ gi|10185846|gb|AAG14463.1|AF293105_1 (AF293105) malate dehydroge...   492  e-138
+SEQ gi|10185920|gb|AAG14511.1|AF293130_1 (AF293130) malate dehydroge...   492  e-138
+SEQ gi|10185923|gb|AAG14513.1|AF293131_1 (AF293131) malate dehydroge...   492  e-138
+SEQ gi|10716995|gb|AAG21998.1|AF282309_1 (AF282309) malate dehydroge...   490  e-138
+SEQ gi|10185998|gb|AAG14563.1|AF293156_1 (AF293156) malate dehydroge...   490  e-137
+SEQ gi|440055|gb|AAC43757.1| (U04769) malate dehydrogenase [Salmonel...   489  e-137
+SEQ gi|440077|gb|AAC43768.1| (U04780) malate dehydrogenase [Salmonel...   488  e-137
+SEQ gi|440063|gb|AAC43761.1| (U04773) malate dehydrogenase [Salmonel...   488  e-137
+SEQ gi|440043|gb|AAC43751.1| (U04763) malate dehydrogenase [Salmonel...   488  e-137
+SEQ gi|2289251|gb|AAB87003.1| (AF004170) malate dehydrogenase [Esche...   487  e-137
+SEQ gi|440071|gb|AAC43765.1| (U04777) malate dehydrogenase [Salmonel...   487  e-137
+SEQ gi|440061|gb|AAC43760.1| (U04772) malate dehydrogenase [Salmonel...   487  e-137
+SEQ gi|2289267|gb|AAB87011.1| (AF004178) malate dehydrogenase [Esche...   486  e-136
+SEQ gi|2289307|gb|AAB87031.1| (AF004198) malate dehydrogenase [Esche...   486  e-136
+SEQ gi|440075|gb|AAC43767.1| (U04779) malate dehydrogenase [Salmonel...   486  e-136
+SEQ gi|440081|gb|AAC43770.1| (U04782) malate dehydrogenase [Salmonel...   486  e-136
+SEQ gi|440039|gb|AAC43749.1| (U04761) malate dehydrogenase [Salmonel...   486  e-136
+SEQ gi|2289273|gb|AAB87014.1| (AF004181) malate dehydrogenase [Esche...   486  e-136
+SEQ gi|7288729|gb|AAF45253.1| (AF230592) malate dehydrogenase [Esche...   485  e-136
+SEQ gi|7288693|gb|AAF45235.1| (AF230574) malate dehydrogenase [Esche...   485  e-136
+SEQ gi|440045|gb|AAC43752.1| (U04764) malate dehydrogenase [Salmonel...   485  e-136
+SEQ gi|440087|gb|AAD12204.1| (U04786) malate dehydrogenase [Salmonel...   485  e-136
+SEQ gi|2289281|gb|AAB87018.1| (AF004185) malate dehydrogenase [Esche...   485  e-136
+SEQ gi|2289305|gb|AAB87030.1| (AF004197) malate dehydrogenase [Esche...   483  e-135
+SEQ gi|440041|gb|AAC43750.1| (U04762) malate dehydrogenase [Salmonel...   483  e-135
+SEQ gi|440049|gb|AAC43754.1| (U04766) malate dehydrogenase [Salmonel...   483  e-135
+SEQ gi|440085|gb|AAC43772.1| (U04784) malate dehydrogenase [Salmonel...   483  e-135
+SEQ gi|7288703|gb|AAF45240.1| (AF230579) malate dehydrogenase [Esche...   483  e-135
+SEQ gi|8895779|gb|AAF81104.1|AF230656_1 (AF230656) malate dehydrogen...   476  e-133
+SEQ gi|8895777|gb|AAF81103.1|AF230655_1 (AF230655) malate dehydrogen...   474  e-133
+SEQ gi|8895781|gb|AAF81105.1|AF230657_1 (AF230657) malate dehydrogen...   470  e-132
+SEQ gi|8895783|gb|AAF81106.1|AF230658_1 (AF230658) malate dehydrogen...   464  e-130
+SEQ gi|11251108|pir||G82324 malate dehydrogenase VC0432 [imported] -...   436  e-121
+SEQ gi|585471|sp|P37226|MDH_PHOPR MALATE DEHYDROGENASE >gi|294198|gb...   434  e-121
+SEQ gi|4566884|gb|AAD23505.1|AF117876_1 (AF117876) malate dehydrogen...   431  e-120
+SEQ gi|4566867|gb|AAD23488.1|AF117859_1 (AF117859) malate dehydrogen...   431  e-120
+SEQ gi|14285578|sp|Q9KUT3|MDH_VIBCH MALATE DEHYDROGENASE >gi|4566871...   428  e-119
+SEQ gi|4566874|gb|AAD23495.1|AF117866_1 (AF117866) malate dehydrogen...   428  e-119
+SEQ gi|4566870|gb|AAD23491.1|AF117862_1 (AF117862) malate dehydrogen...   427  e-118
+SEQ gi|12720816|gb|AAK02634.1| (AE006091) Mdh [Pasteurella multocida]     423  e-117
+SEQ gi|1346511|sp|P48364|MDH_VIBS5 MALATE DEHYDROGENASE >gi|1063268|...   412  e-114
+SEQ gi|1170900|sp|P44427|MDH_HAEIN MALATE DEHYDROGENASE >gi|1074999|...   412  e-114
+SEQ gi|13183107|gb|AAK15055.1| (AF238330) Mdh [Vibrio cholerae] >gi|...   344  1e-93
+SEQ gi|13183105|gb|AAK15054.1| (AF238329) Mdh [Vibrio cholerae]           342  4e-93
+SEQ gi|13183119|gb|AAK15061.1| (AF238336) Mdh [Vibrio mimicus] >gi|1...   329  3e-89
+SEQ gi|7208320|gb|AAF40141.1|AF207856_1 (AF207856) Mdh [Vibrio mimicus]   322  5e-87
+SEQ gi|13183117|gb|AAK15060.1| (AF238335) Mdh [Vibrio mimicus]            315  6e-85
+SEQ gi|6746611|gb|AAF27650.1|AF218064_1 (AF218064) malate dehydrogen...   307  1e-82
+SEQ gi|10444078|gb|AAG17699.1|AF280052_1 (AF280052) mitochondrial ma...   297  1e-79
+SEQ gi|5174541|ref|NP_005909.1| malate dehydrogenase 2, NAD (mitocho...   293  2e-78
+SEQ gi|6678916|ref|NP_032643.1| malate dehydrogenase, mitochondrial ...   293  2e-78
+SEQ gi|319830|pir||DEMSMM malate dehydrogenase (EC 1.1.1.37) precurs...   293  3e-78
+SEQ gi|65932|pir||DEPGMM malate dehydrogenase (EC 1.1.1.37), mitocho...   292  4e-78
+SEQ gi|2506849|sp|P00346|MDHM_PIG MALATE DEHYDROGENASE, MITOCHONDRIA...   292  4e-78
+SEQ gi|13592145|ref|NP_112413.1| malate dehydrogenase mitochondrial ...   292  4e-78
+SEQ gi|126897|sp|P08249|MDHM_MOUSE MALATE DEHYDROGENASE, MITOCHONDRI...   291  7e-78
+SEQ gi|7300357|gb|AAF55516.1| (AE003721) CG7998 gene product [Drosop...   291  8e-78
+SEQ gi|164541|gb|AAA31071.1| (M16427) malate dehydrogenase precursor...   289  3e-77
+SEQ gi|3183079|sp|Q42972|MDHG_ORYSA MALATE DEHYDROGENASE, GLYOXYSOMA...   285  7e-76
+SEQ gi|7431179|pir||T09263 malate dehydrogenase (EC 1.1.1.37) precur...   283  2e-75
+SEQ gi|4029338|emb|CAA76361.1| (Y16748) malate dehydrogenase [Piromy...   282  4e-75
+SEQ gi|5123836|emb|CAB45387.1| (AJ006974) NAD-malate dehydrogenase [...   282  5e-75
+SEQ gi|3183074|sp|O02640|MDHM_CAEEL PROBABLE MALATE DEHYDROGENASE, M...   281  1e-74
+SEQ gi|126894|sp|P19446|MDHG_CITLA MALATE DEHYDROGENASE, GLYOXYSOMAL...   278  5e-74
+SEQ gi|7488830|pir||T06386 probable malate dehydrogenase (EC 1.1.1.3...   276  3e-73
+SEQ gi|7431178|pir||T09294 malate dehydrogenase (EC 1.1.1.37) precur...   276  3e-73
+SEQ gi|11133398|sp|O82399|MDHI_ARATH PROBABLE MALATE DEHYDROGENASE, ...   276  3e-73
+SEQ gi|1170897|sp|P46488|MDHG_CUCSA MALATE DEHYDROGENASE, GLYOXYSOMA...   275  5e-73
+SEQ gi|11133715|sp|Q9ZP06|MDHM_ARATH MALATE DEHYDROGENASE, MITOCHOND...   275  6e-73
+SEQ gi|169977|gb|AAC37464.1| (L01628) malate dehydrogenase [Glycine ...   275  6e-73
+SEQ gi|1346501|sp|P37228|MDHG_SOYBN MALATE DEHYDROGENASE, GLYOXYSOMA...   275  6e-73
+SEQ gi|7431166|pir||T08177 malate dehydrogenase (EC 1.1.1.37), sodiu...   275  8e-73
+SEQ gi|14164433|dbj|BAB55686.1| (AP003053) putative malate dehydroge...   274  1e-72
+SEQ gi|8777485|dbj|BAA97065.1| (AP000370) NAD-dependent malate dehyd...   273  2e-72
+SEQ gi|7769871|gb|AAF69549.1|AC008007_24 (AC008007) F12M16.14 [Arabi...   273  2e-72
+SEQ gi|11133713|sp|Q9ZP05|MDHG_ARATH MALATE DEHYDROGENASE, GLYOXYSOM...   270  2e-71
+SEQ gi|126896|sp|P17783|MDHM_CITLA MALATE DEHYDROGENASE, MITOCHONDRI...   270  2e-71
+SEQ gi|7431173|pir||T06325 malate dehydrogenase (EC 1.1.1.37), nodul...   268  5e-71
+SEQ gi|3256066|emb|CAA74320.1| (Y13987) chloroplast NAD-MDH [Arabido...   268  5e-71
+SEQ gi|11251147|pir||T45712 NAD-dependent malate dehydrogenase, chlo...   268  5e-71
+SEQ gi|11133654|sp|Q9XFW3|MDHH_BRANA MALATE DEHYDROGENASE 2, GLYOXYS...   266  2e-70
+SEQ gi|5929964|gb|AAD56659.1| (AF180335) malate dehydrogenase [Glyci...   266  3e-70
+SEQ gi|7431177|pir||T09286 malate dehydrogenase (EC 1.1.1.37) precur...   265  4e-70
+SEQ gi|12644436|sp|Q43743|MDHG_BRANA MALATE DEHYDROGENASE 1, GLYOXYS...   265  5e-70
+SEQ gi|7798706|gb|AAF69802.1|AF195869_1 (AF195869) malate dehydrogen...   262  6e-69
+SEQ gi|2497858|sp|Q42686|MDHM_CHLRE MALATE DEHYDROGENASE, MITOCHONDR...   260  1e-68
+SEQ gi|2497857|sp|Q43744|MDHM_BRANA MALATE DEHYDROGENASE, MITOCHONDR...   258  6e-68
+SEQ gi|13561848|gb|AAK30532.1| (AF343280) malate dehydrogenase [Vibr...   254  1e-66
+SEQ gi|13561904|gb|AAK30560.1| (AF343308) malate dehydrogenase [Vibr...   253  2e-66
+SEQ gi|1170898|sp|P46487|MDHM_EUCGU MALATE DEHYDROGENASE, MITOCHONDR...   253  3e-66
+SEQ gi|2605782|gb|AAC27101.1| (AF027739) malate dehydrogenase [Trypa...   247  2e-64
+SEQ gi|3406624|gb|AAC79434.1| (AF079110) glycosomal malate dehydroge...   246  3e-64
+SEQ gi|7294520|gb|AAF49862.1| (AE003539) CG10749 gene product [Droso...   244  9e-64
+SEQ gi|7431168|pir||T08015 probable malate dehydrogenase (EC 1.1.1.3...   242  6e-63
+SEQ gi|7431174|pir||T06326 malate dehydrogenase (EC 1.1.1.37) Mdh-2,...   238  5e-62
+SEQ gi|11421463|ref|XP_004905.1| malate dehydrogenase 2, NAD (mitoch...   237  1e-61
+SEQ gi|4587985|gb|AAD25927.1|AF084828_1 (AF084828) major allergenic ...   237  2e-61
+SEQ gi|5852144|emb|CAB55506.1| (AL117268) malate dehydrogenase [Leis...   236  2e-61
+SEQ gi|9858812|gb|AAG01146.1|AF284097_1 (AF284097) malate dehydrogen...   233  3e-60
+SEQ gi|2961256|gb|AAC05706.1| (AF051893) putative malate dehydrogena...   231  1e-59
+SEQ gi|7492161|pir||T41286 malate dehydrogenase precursor, mitochond...   227  1e-58
+SEQ gi|6041761|gb|AAF02107.1|AC008239_1 (AC008239) MDH [Leishmania m...   226  2e-58
+SEQ gi|7294521|gb|AAF49863.1| (AE003539) CG10748 gene product [Droso...   226  3e-58
+SEQ gi|6322765|ref|NP_012838.1| mitochondrial malate dehydrogenase; ...   222  6e-57
+SEQ gi|9858810|gb|AAG01145.1|AF284096_1 (AF284096) 2-hydroxyacid deh...   216  2e-55
+SEQ gi|12964967|gb|AAK11407.1| (AF322753) malate dehydrogenase [Haem...   207  1e-52
+SEQ gi|12964945|gb|AAK11396.1| (AF322742) malate dehydrogenase [Haem...   207  2e-52
+SEQ gi|12964953|gb|AAK11400.1| (AF322746) malate dehydrogenase [Haem...   207  2e-52
+SEQ gi|12964941|gb|AAK11394.1| (AF322740) malate dehydrogenase [Haem...   206  2e-52
+SEQ gi|12964943|gb|AAK11395.1| (AF322741) malate dehydrogenase [Haem...   206  3e-52
+SEQ gi|12964987|gb|AAK11417.1| (AF322763) malate dehydrogenase [Haem...   205  6e-52
+SEQ gi|12964975|gb|AAK11411.1| (AF322757) malate dehydrogenase [Haem...   205  6e-52
+SEQ gi|12964971|gb|AAK11409.1| (AF322755) malate dehydrogenase [Haem...   204  1e-51
+SEQ gi|6469139|emb|CAB61751.1| (AJ275317) malate dehydrogenase [Cice...   201  9e-51
+SEQ gi|6320125|ref|NP_010205.1| malate dehydrogenase; Mdh3p [Sacchar...   168  7e-41
+SEQ gi|171918|gb|AAA34767.1| (M98763) malate dehydrogenase [Saccharo...   166  3e-40
+SEQ gi|7274396|gb|AAF44753.1| (AF233351) malate dehdrogenase [Ovis a...   158  6e-38
+SEQ gi|126895|sp|P22133|MDHC_YEAST MALATE DEHYDROGENASE, CYTOPLASMIC...   139  4e-32
+SEQ gi|6324446|ref|NP_014515.1| cytosolic malate dehydrogenase; Mdh2...   139  4e-32
+SEQ gi|585469|sp|P37227|MDHM_SCHMA MALATE DEHYDROGENASE, MITOCHONDRI...   129  4e-29
+SEQ gi|14285573|sp|O67655|MDH_AQUAE MALATE DEHYDROGENASE >gi|7431157...    88  2e-16
+SEQ gi|7431175|pir||T06327 malate dehydrogenase (EC 1.1.1.37), mitoc...    88  2e-16
+SEQ gi|14285576|sp|Q9HJL5|MDH_THEAC MALATE DEHYDROGENASE >gi|1064026...    87  3e-16
+SEQ gi|2506848|sp|P80040|MDH_CHLAU MALATE DEHYDROGENASE >gi|1491644|...    87  4e-16
+SEQ gi|14285577|sp|Q9K849|MDH_BACHD MALATE DEHYDROGENASE >gi|1017578...    86  7e-16
+SEQ gi|13541928|ref|NP_111616.1| Malate dehydrogenase [Thermoplasma ...    85  9e-16
+SEQ gi|7431155|pir||S75735 probable malate dehydrogenase (EC 1.1.1.3...    85  1e-15
+SEQ gi|1708969|sp|P49814|MDH_BACSU MALATE DEHYDROGENASE (VEGETATIVE ...    84  2e-15
+SEQ gi|7387872|sp|Q9ZDF3|MDH_RICPR MALATE DEHYDROGENASE >gi|7431154|...    84  2e-15
+SEQ gi|3183505|sp|P80039|MDH_CHLTE MALATE DEHYDROGENASE >gi|1769428|...    84  3e-15
+SEQ gi|3183534|sp|P80038|MDH_CHLVI MALATE DEHYDROGENASE >gi|1769430|...    83  5e-15
+SEQ gi|7387870|sp|Q9X4K8|MDH_BACTC MALATE DEHYDROGENASE >gi|4731926|...    81  1e-14
+SEQ gi|2497625|sp|Q27797|LDH_TOXGO L-LACTATE DEHYDROGENASE (LDH) >gi...    80  4e-14
+SEQ gi|2497856|sp|Q59202|MDH_BACIS MALATE DEHYDROGENASE >gi|7431156|...    79  6e-14
+SEQ gi|1737465|gb|AAB38970.1| (U80676) malate dehydrogenase [Botryoc...    78  2e-13
+SEQ gi|14285575|sp|Q9EYJ6|MDH_RHIME MALATE DEHYDROGENASE >gi|1193516...    77  4e-13
+SEQ gi|2497621|sp|Q60176|MDH2_METJA MALATE DEHYDROGENASE II >gi|2129...    77  4e-13
+SEQ gi|13425411|gb|AAK25617.1| (AE006023) malate dehydrogenase [Caul...    75  1e-12
+SEQ gi|3183070|sp|O33525|MDH_RHILV MALATE DEHYDROGENASE >gi|2624395|...    75  1e-12
+SEQ gi|1695772|gb|AAC47443.1| (U35118) lactate dehydrogenase [Toxopl...    74  3e-12
+SEQ gi|12723247|gb|AAK04474.1|AE006274_8 (AE006274) L-lactate dehydr...    73  4e-12
+SEQ gi|7387871|sp|Q9YEA1|MDH_AERPE MALATE DEHYDROGENASE >gi|7431162|...    73  5e-12
+SEQ gi|7431161|pir||D70444 malate dehydrogenase - Aquifex aeolicus >...    72  8e-12
+SEQ gi|2497624|sp|Q27743|LDH1_PLAFD L-LACTATE DEHYDROGENASE (LDH-P) ...    72  1e-11
+SEQ gi|10444017|gb|AAG17668.1|AF274310_1 (AF274310) lactate dehydrog...    71  1e-11
+SEQ gi|4699704|pdb|1A5Z|    Lactate Dehydrogenase From Thermotoga Ma...    71  2e-11
+SEQ gi|13473642|ref|NP_105210.1| malate dehydrogenase [Mesorhizobium...    71  2e-11
+SEQ gi|547837|sp|P16115|LDH_THEMA L-LACTATE DEHYDROGENASE >gi|480440...    71  2e-11
+SEQ gi|4699811|pdb|1CEQ|A Chain A, Chloroquine Binds In The Cofactor...    71  2e-11
+SEQ gi|2554656|pdb|1LDG|    Plasmodium Falciparum L-Lactate Dehydrog...    70  4e-11
+SEQ gi|13094954|gb|AAK12097.1| (AF323520) lactate dehydrogenase [Pla...    68  2e-10
+SEQ gi|1170742|sp|P06150|LDH_THECA L-LACTATE DEHYDROGENASE >gi|48135...    65  1e-09
+SEQ gi|126069|sp|P13715|LDH_THEAQ L-LACTATE DEHYDROGENASE >gi|77587|...    65  1e-09
+SEQ gi|77586|pir||A24999 L-lactate dehydrogenase (EC 1.1.1.27) - The...    64  2e-09
+SEQ gi|11498461|ref|NP_069689.1| L-malate dehydrogenase, NAD+-depend...    64  2e-09
+SEQ gi|2266674|emb|CAB03618.1| (Z81318) lactate dehydrogenase [Lacto...    64  3e-09
+SEQ gi|13508413|ref|NP_110363.1| L-lactate dehydrogenase [Mycoplasma...    63  4e-09
+SEQ gi|7431146|pir||F71441 L-lactate dehydrogenase (EC 1.1.1.27) - A...    63  5e-09
+SEQ gi|126063|sp|P00343|LDH_LACCA L-LACTATE DEHYDROGENASE >gi|476428...    63  7e-09
+SEQ gi|2865462|gb|AAC02678.1| (AF043130) lactate dehydrogenase [Arab...    63  7e-09
+SEQ gi|8393706|ref|NP_058721.1| lactate dehydrogenase A [Rattus norv...    61  2e-08
+SEQ gi|230128|pdb|1LLC|    L-Lactate Dehydrogenase (E.C.1.1.1.27) Co...    61  2e-08
+SEQ gi|7431158|pir||E69118 lactate dehydrogenase - Methanobacterium ...    60  5e-08
+SEQ gi|7431163|pir||T07063 L-lactate dehydrogenase (EC 1.1.1.27) 2 -...    59  5e-08
+SEQ gi|126062|sp|P19869|LDH_BIFLO L-LACTATE DEHYDROGENASE >gi|80587|...    59  6e-08
+SEQ gi|9965352|gb|AAG10055.1|AF288749_1 (AF288749) putative cytosoli...    59  6e-08
+SEQ gi|494259|pdb|1LLD|A Chain A, L-Lactate Dehydrogenase (E.C.1.1.1...    59  7e-08
+SEQ gi|1730104|sp|P50933|LDH_DEIRA L-LACTATE DEHYDROGENASE >gi|21174...    58  2e-07
+SEQ gi|126034|sp|P22989|LDHB_HORVU L-LACTATE DEHYDROGENASE B (LDH-B)...    58  2e-07
+SEQ gi|7431147|pir||T07005 L-lactate dehydrogenase (EC 1.1.1.27) cha...    58  2e-07
+SEQ gi|126033|sp|P22988|LDHA_HORVU L-LACTATE DEHYDROGENASE A (LDH-A)...    58  2e-07
+SEQ gi|7431160|pir||G70110 L-lactate dehydrogenase (ldh) homolog - L...    58  2e-07
+SEQ gi|2257584|dbj|BAA21471.1| (AB005539) L-lactate dehydrogenase [D...    57  3e-07
+SEQ gi|2497623|sp|Q95028|LDH_DROME L-LACTATE DEHYDROGENASE (LDH) >gi...    57  3e-07
+SEQ gi|13700156|dbj|BAB41455.1| (AP003129) L-lactate dehydrogenase [...    57  3e-07
+SEQ gi|6016489|sp|Q59828|LDH_STRBO L-LACTATE DEHYDROGENASE >gi|14182...    57  3e-07
+SEQ gi|5031857|ref|NP_005557.1| LDHA [Homo sapiens] >gi|126047|sp|P0...    57  4e-07
+SEQ gi|13786849|pdb|1I10|A Chain A, Human Muscle L-Lactate Dehydroge...    57  4e-07
+SEQ gi|13676469|dbj|BAB41156.1| (AB060222) hypothetical protein [Mac...    57  4e-07
+SEQ gi|80325|pir||A25805 L-lactate dehydrogenase (EC 1.1.1.27) - Bac...    57  4e-07
+SEQ gi|2895200|gb|AAC02943.1| (AF023168) L-lactate dehydrogenase [St...    57  4e-07
+SEQ gi|7473084|pir||E75282 L-lactate dehydrogenase (EC 1.1.1.27) - D...    57  4e-07
+SEQ gi|433214|dbj|BAA02971.1| (D13817) lactate dehydrogenase [Oryza ...    56  4e-07
+SEQ gi|280275|pir||B29704 L-lactate dehydrogenase (EC 1.1.1.27) - Ba...    56  5e-07
+SEQ gi|10176562|dbj|BAB07656.1| (AP001520) L-lactate dehydrogenase [...    56  5e-07
+SEQ gi|5199145|gb|AAD40736.1|AF076528_1 (AF076528) lactate dehydroge...    56  5e-07
+SEQ gi|11251151|pir||T44580 lactate dehydrogenase [imported] - Bacil...    56  7e-07
+SEQ gi|126053|sp|P14561|LDHP_BACPS L-LACTATE DEHYDROGENASE P >gi|801...    56  8e-07
+SEQ gi|11251117|pir||T50135 probable l-lactate dehydrogenase [import...    56  8e-07
+SEQ gi|13702559|dbj|BAB43700.1| (AP003137) L-lactate dehydrogenase [...    55  1e-06
+SEQ gi|13815888|gb|AAK42709.1| (AE006855) L-lactate dehydrogenase (s...    55  1e-06
+SEQ gi|5199139|gb|AAD40733.1|AF070996_1 (AF070996) lactate dehydroge...    55  1e-06
+SEQ gi|126050|sp|P13491|LDHM_RABIT L-LACTATE DEHYDROGENASE M CHAIN (...    55  1e-06
+SEQ gi|7431151|pir||E69649 L-lactate dehydrogenase (EC 1.1.1.27) - B...    55  2e-06
+SEQ gi|2506808|sp|P13714|LDH_BACSU L-LACTATE DEHYDROGENASE                 55  2e-06
+SEQ gi|1841739|gb|AAB51679.1| (U78635) L-lactate dehydrogenase [Lact...    54  2e-06
+SEQ gi|1730106|sp|P50934|LDH_LACSK L-LACTATE DEHYDROGENASE >gi|84795...    54  2e-06
+SEQ gi|6048359|gb|AAF02212.1|AF067201_1 (AF067201) lactate dehydroge...    54  2e-06
+SEQ gi|11127931|gb|AAG31146.1|AF307995_1 (AF307995) cytosolic malate...    54  2e-06
+SEQ gi|126060|sp|P00344|LDH_BACST L-LACTATE DEHYDROGENASE >gi|214431...    54  2e-06
+SEQ gi|494236|pdb|1LDN|A Chain A, L-Lactate Dehydrogenase (E.C.1.1.1...    54  2e-06
+SEQ gi|14090174|emb|CAC13932.1| (AL445565) L-LACTATE DEHYDROGENASE [...    54  2e-06
+SEQ gi|80070|pir||S00019 L-lactate dehydrogenase (EC 1.1.1.27) - Bac...    54  3e-06
+SEQ gi|3719279|gb|AAC63283.1| (AF079825) lactate dehydrogenase-A [El...    54  3e-06
+SEQ gi|126068|sp|P26283|LDH_STRMU L-LACTATE DEHYDROGENASE >gi|97995|...    54  3e-06
+SEQ gi|3041692|sp|P56512|LDH_LACPL L-LACTATE DEHYDROGENASE (L-LDH) >...    54  4e-06
+SEQ gi|2497620|sp|Q60009|LDH_STRTR L-LACTATE DEHYDROGENASE >gi|62894...    53  4e-06
+SEQ gi|7431145|pir||T07061 L-lactate dehydrogenase (EC 1.1.1.27) cha...    53  4e-06
+SEQ gi|322114|pir||A45246 L-lactate dehydrogenase (EC 1.1.1.27), fru...    53  5e-06
+SEQ gi|1346424|sp|Q01462|LDH_LACLA L-LACTATE DEHYDROGENASE >gi|32210...    53  5e-06
+SEQ gi|1841735|gb|AAB51677.1| (U78633) L-lactate dehydrogenase [Lact...    53  5e-06
+SEQ gi|230599|pdb|2LDX|    Apo-Lactate Dehydrogenase (E.C.1.1.1.27),...    53  5e-06
+SEQ gi|65923|pir||DEMSLM L-lactate dehydrogenase (EC 1.1.1.27) chain...    52  7e-06
+SEQ gi|6754524|ref|NP_034829.1| lactate dehydrogenase 1, A chain [Mu...    52  7e-06
+SEQ gi|6016487|sp|Q92055|LDHA_FUNHE L-LACTATE DEHYDROGENASE M CHAIN ...    52  7e-06
+SEQ gi|8308018|gb|AAF74436.1|AF226154_1 (AF226154) lactate dehydroge...    52  7e-06
+SEQ gi|4033438|sp|O33734|LDH_STRPN L-LACTATE DEHYDROGENASE >gi|22751...    52  8e-06
+SEQ gi|4138534|emb|CAA06714.1| (AJ005815) lactate dehydrogenase [Str...    52  8e-06
+SEQ gi|126045|sp|P19858|LDHM_BOVIN L-LACTATE DEHYDROGENASE M CHAIN (...    52  8e-06
+SEQ gi|217590|dbj|BAA14169.1| (D90141) pLDH5 [Bos taurus]                  52  8e-06
+SEQ gi|12045319|ref|NP_073130.1| L-lactate dehydrogenase (ldh) [Myco...    52  8e-06
+SEQ gi|1730105|sp|P04034|LDH_LACLC L-LACTATE DEHYDROGENASE >gi|40992...    52  9e-06
+SEQ gi|7305229|ref|NP_038608.1| lactate dehydrogenase 3, C chain, sp...    52  9e-06
+SEQ gi|4321147|gb|AAD15625.1| (U21850) lactate dehydrogenase [Anguil...    52  1e-05
+SEQ gi|126058|sp|P10655|LDH_BACCA L-LACTATE DEHYDROGENASE >gi|143134...    52  1e-05
+SEQ gi|1170740|sp|P00339|LDHM_PIG L-LACTATE DEHYDROGENASE M CHAIN (L...    51  1e-05
+SEQ gi|5726602|gb|AAD48489.1|AF170710_1 (AF170710) lactate dehydroge...    51  2e-05
+SEQ gi|198683|gb|AAA72343.1| (L10389) [Mouse lactate dehydrogenase-X...    51  2e-05
+SEQ gi|585470|sp|Q07841|MDH_HALMA MALATE DEHYDROGENASE >gi|477616|pi...    51  2e-05
+SEQ gi|7546447|pdb|1D3A|A Chain A, Crystal Structure Of The Wild Typ...    51  2e-05
+SEQ gi|65924|pir||DEPGLM L-lactate dehydrogenase (EC 1.1.1.27) chain...    51  2e-05
+SEQ gi|443576|pdb|9LDT|A Chain A, Lactate Dehydrogenase (E.C.1.1.1.2...    51  2e-05
+SEQ gi|7245978|pdb|2HLP|A Chain A, Crystal Structure Of The E267r Mu...    51  2e-05
+SEQ gi|462491|sp|Q06176|LDHC_FUNHE L-LACTATE DEHYDROGENASE C CHAIN (...    51  2e-05
+SEQ gi|3406662|gb|AAC31199.1| (AF079534) lactate dehydrogenase-A [Co...    51  3e-05
+SEQ gi|13529599|gb|AAH05509.1|AAH05509 (BC005509) Similar to Lactate...    51  3e-05
+SEQ gi|126054|sp|P20619|LDHX_BACPS L-LACTATE DEHYDROGENASE X >gi|801...    51  3e-05
+SEQ gi|1170732|sp|P42120|LDHA_XENLA L-LACTATE DEHYDROGENASE A CHAIN ...    50  3e-05
+SEQ gi|104472|pir||A40488 L-lactate dehydrogenase (EC 1.1.1.27) chai...    50  3e-05
+SEQ gi|126038|sp|P13743|LDHH_ANAPL L-LACTATE DEHYDROGENASE H CHAIN (...    50  3e-05
+SEQ gi|642256|emb|CAA50278.1| (X70927) L-lactate dehydrogenase [Pedi...    50  4e-05
+SEQ gi|2497622|sp|Q27888|LDH_CAEEL L-LACTATE DEHYDROGENASE >gi|10788...    50  4e-05
+SEQ gi|5199137|gb|AAD40732.1|AF070995_1 (AF070995) lactate dehydroge...    50  5e-05
+SEQ gi|7407106|gb|AAF61914.1|AF226155_1 (AF226155) lactate dehydroge...    50  5e-05
+SEQ gi|11127929|gb|AAG31145.1|AF307994_1 (AF307994) cytosolic malate...    50  5e-05
+SEQ gi|92452|pir||B27246 L-lactate dehydrogenase (EC 1.1.1.27) chain...    49  6e-05
+SEQ gi|5199133|gb|AAD40730.1|AF070952_1 (AF070952) lactate dehydroge...    49  7e-05
+SEQ gi|3043367|sp|P56511|LDH_LACPE L-LACTATE DEHYDROGENASE (L-LDH) >...    49  7e-05
+SEQ gi|1806119|emb|CAA71612.1| (Y10603) L-lactate dehydrogenase [Lyc...    49  9e-05
+SEQ gi|3396068|gb|AAC28855.1| (AF079460) muscle-type lactate dehydro...    49  1e-04
+SEQ gi|126066|sp|P29038|LDH_MAIZE L-LACTATE DEHYDROGENASE (LDH) >gi|...    49  1e-04
+SEQ gi|126059|sp|P00345|LDH_BACME L-LACTATE DEHYDROGENASE >gi|65931|...    49  1e-04
+SEQ gi|7230675|gb|AAF43044.1|AF236112_1 (AF236112) malate dehydrogen...    48  1e-04
+SEQ gi|6907091|dbj|BAA90618.1| (AP001129) Similar to Rice mRNA for l...    48  1e-04
+SEQ gi|1737228|gb|AAB38887.1| (U80001) lactate dehydrogenase-A [Sphy...    48  1e-04
+SEQ gi|1737230|gb|AAB38888.1| (U80002) lactate dehydrogenase-A [Sphy...    48  1e-04
+SEQ gi|12044145|gb|AAG47715.1|AF308780_1 (AF308780) cytosolic malate...    48  1e-04
+SEQ gi|6016488|sp|Q29563|LDHX_VULVU L-LACTATE DEHYDROGENASE X CHAIN ...    48  2e-04
+SEQ gi|10581775|gb|AAG20463.1| (AE005119) L-malate dehydrogenase; Md...    48  2e-04
+SEQ gi|6746613|gb|AAF27651.1|AF218065_1 (AF218065) cytosolic malate ...    48  2e-04
+SEQ gi|6048361|gb|AAF02213.1|AF067202_1 (AF067202) lactate dehydroge...    48  2e-04
+SEQ gi|13622288|gb|AAK34023.1| (AE006557) putative L-lactate dehydro...    47  2e-04
+SEQ gi|10444076|gb|AAG17698.1|AF280051_1 (AF280051) cytosolic malate...    47  2e-04
+SEQ gi|12044147|gb|AAG47716.1|AF308781_1 (AF308781) cytosolic malate...    47  3e-04
+SEQ gi|1170736|sp|P42121|LDHC_XENLA L-LACTATE DEHYDROGENASE C CHAIN ...    47  3e-04
+SEQ gi|9965350|gb|AAG10054.1|AF288748_1 (AF288748) putative cytosoli...    47  4e-04
+SEQ gi|266453|sp|P07864|LDHX_HUMAN L-LACTATE DEHYDROGENASE X CHAIN (...    46  5e-04
+SEQ gi|187074|gb|AAA59508.1| (M24515) lactate dehydrogenase-C [Homo ...    46  5e-04
+SEQ gi|4504973|ref|NP_002292.1| lactate dehydrogenase C [Homo sapien...    46  5e-04
+SEQ gi|7431176|pir||T06328 malate dehydrogenase (EC 1.1.1.37) a2, mi...    46  5e-04
+SEQ gi|6652537|gb|AAF22363.1| (U95378) lactate dehydrogenase-C [Sus ...    46  6e-04
+SEQ gi|9965342|gb|AAG10050.1|AF288744_1 (AF288744) putative cytosoli...    46  8e-04
+SEQ gi|462494|sp|P33571|LDH_PETMA L-LACTATE DEHYDROGENASE (LDH) >gi|...    46  8e-04
+SEQ gi|7473111|pir||E75535 malate dehydrogenase - Deinococcus radiod...    46  9e-04
+SEQ gi|1737226|gb|AAB38886.1| (U80000) lactate dehydrogenase-A [Sphy...    46  0.001
+SEQ gi|223115|prf||0509096A dehydrogenase C4,lactate [Mus musculus]        46  0.001
+SEQ 
+## SEQUENCE PROFILE AND ENTROPY
+ SeqNo PDBNo   V   L   I   M   F   W   Y   G   A   P   S   T   C   H   R   K   Q   E   N   D  NOCC NDEL NINS ENTROPY RELENT WEIGHT
+    1    1     0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+    2    2     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0     0    0    0   0.000      0  0.00
+    3    3   100   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+    4    4     0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+    5    5   100   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+    6    6     0  75  25   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.562     18  0.00
+    7    7     0   0   0   0   0   0   0  96   4   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.154      5  0.00
+    8    8     0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+    9    9     0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   10   10     0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   11   11     0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   12   12     0   0 100   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   13   13     0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   14   14     0   0   0   0   0   0   0   4   0   0   0   0   0   0   0   0  96   0   0   0     0    0    0   0.154      5  0.00
+   15   15     0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   16   16     0 100   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   17   17     0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   18   18     0 100   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   19   19     0 100   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   20   20     0 100   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   21   21     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0     0    0    0   0.000      0  0.00
+   22   22     0   2   0   0   0   0   0   0   0   0   0  70   0   0   0   0   0   0  27   0     0    0    0   0.692     23  0.00
+   23   23     0   0   0   0   0   0   0   1   0   0   0   0   0   0   8   0  89   2   0   0     0    0    0   0.431     14  0.00
+   24   24     0  89   7   1   0   0   0   0   0   0   1   0   0   0   0   0   0   0   1   1     0    0    0   0.474     15  0.00
+   25   25     0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   26   26     0  27   1   0   1   0   4   1  11   0  49   0   0   0   1   1   2   0   0   3     0    0    0   1.448     48  0.00
+   27   27    27   0   3   1   0   0   0  66   0   0   0   0   0   0   0   3   0   0   0   0     0    0    0   0.893     29  0.00
+   28   28     0   0   0   0   0   0   0   0   3   0  86   5   0   0   0   1   0   3   1   1     0    0    0   0.609     20  0.00
+   29   29     3   3   0   0   0   0   0   0   0   0   3   4   0   2   3   1   1  64   0  17     0    0    0   1.289     43  0.00
+   30   30     6  80   8   1   0   0   1   0   0   0   0   0   0   0   0   0   0   1   0   1     0    0    0   0.807     26  0.00
+   31   31     8   0   2   0   0   0   1   4  29   0  37   6   1   8   1   0   0   0   3   0     0    0    0   1.790     59  0.00
+   32   32     2  91   6   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.408     13  0.00
+   33   33    24   5   3   0   7   0  58   2   0   0   0   0   0   0   0   0   0   1   0   0     0    0    0   1.222     40  0.00
+   34   34     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   2   4   0  94     0    0    0   0.302     10  0.00
+   35   35    24   3  66   0   0   0   0   0   6   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.952     31  0.00
+   36   36    14   1   0   8   0   0   0   0  57   1   2   3   0   0   2   6   1   5   0   0     0    0    0   1.552     51  0.00
+   37   37     0   0   0   0   0   0   0   6   0  43   0   0   0   5   0   4   0  17  10  14     0    0    0   1.657     55  0.00
+   38   38    51   1   0   0   0   0   0   7   5   0   0   2   0   0   1  27   0   2   2   0     0    0    0   1.439     48  0.00
+   39   39     4  23   4   3   0   0   0   0   8   0   0  52   0   0   0   5   0   0   2   0     0    0    0   1.452     48  0.00
+   40   40     1   0   0   0   0   0   0   0   0  64   0   0   0   2   5  20   4   3   1   0     0    0    0   1.182     39  0.00
+   41   41     0   0   0   0   0   0   0  99   1   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.084      2  0.00
+   42   42    57   0   3   0   0   0   0   0   0   0   0   0   0   0   0   7   0  22   0   9     0    0    0   1.251     41  0.00
+   43   43     7   1   0  13   0   0   0   2  70   0   0   5   0   0   0   1   0   0   0   0     0    0    0   1.076     35  0.00
+   44   44    28  18   2  21   0   0   2   0  23   0   1   1   0   0   0   1   0   3   0   0     0    0    0   1.761     58  0.00
+   45   45     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   4   0  96     0    0    0   0.179      5  0.00
+   46   46     6  80   8   3   0   0   0   0   0   0   1   1   0   0   0   0   0   0   0   0     0    0    0   0.799     26  0.00
+   47   47     1   1   1   1   0   0   1   3   3   0  60   1   0   0   1   1  22   1   4   0     0    0    0   1.353     45  0.00
+   48   48     0   0   0   0   0   0   0   0   0   0   0   0   0  88   0   0   3   1   1   5     0    0    0   0.529     17  0.00
+   49   49     2   2  48   5   2   1   0  18  14   0   1   3   5   0   0   0   0   0   0   0     0    0    0   1.641     54  0.00
+   50   50     0   4   0   0   0   0   0   1   9  42  17   3   1   0   0   0   1   5  11   7     0    0    0   1.860     62  0.00
+   51   51     3  16   0   0   4   0   1   0  10   0   6  55   0   0   1   0   1   0   3   0     0    0    0   1.494     49  0.00
+   52   52     1   1   1   0  24   0   0   5  33  15   3   3   0   0   8   1   1   1   2   1     0    0    0   1.977     66  0.00
+   53   53    38  21   3   1   2   0   2   1  13   1  10   6   0   0   1   1   0   1   0   0     0    0    0   1.901     63  0.00
+   54   54     5   2   0   0   1   0   0   1   1   8   9   8   0   0   8  44   4   3   4   1     0    0    0   2.010     67  0.00
+   55   55    26   1  35   0   0   0   1   0   2   4   0  19   1   0   3   1   2   0   3   2     0    0    0   1.825     60  0.00
+   56   56     6   0   1   0   0   1   1   2   4   5   3   5   2   4   8  50   1   2   2   2     0    0    0   2.002     66  0.00
+   57   57     3   0   8   0   0   0   2  55   5   0   3   1   0   0   1  17   0   0   1   2     0    0    0   1.582     52  0.00
+   58   58    10   1  21   0  39   0  18   3   2   0   0   1   0   2   0   1   0   0   0   0     0    0    0   1.706     56  0.00
+   59   59    13   9   2   2   1   0   4   0   9   0  41  11   0   0   0   3   1   2   0   2     0    0    0   2.004     66  0.00
+   60   60     0   0   0   0   0   0   4  71  12   1   6   3   0   0   0   1   0   0   0   0     0    0    0   1.107     36  0.00
+   61   61     1   0   0   0   0   0   0   1   7   3  11   4   0   1   0   9   2  43   0  17     0    0    0   1.834     61  0.00
+   62   62     1   0   0   0   0   0   3   2   1   1   2   2   0   0   0  10   4  11   8  55     0    0    0   1.623     54  0.00
+   63   63     1   9   1   0   0   0   9   1  28  12   3   3   3   0   2   1   7   2   1  17     0    0    0   2.234     74  0.00
+   64   64     0   9   1   0   1   0  21   2   8   1   7  34   0   0   1   0   0   5   5   6     0    0    0   2.040     68  0.00
+   65   65     6   0   0   0   0   0   0   0   7  45  11   2   2   0   0   6   2   9   3   9     0    0    0   1.885     62  0.00
+   66   66    17   1   2   0   0   0   0   0  59   0   3   1   9   0   0   0   0   0   1   6     0    0    0   1.406     46  0.00
+   67   67     2  63   3   1   4   0   0   0   1   0   4  19   3   0   0   0   0   0   0   0     0    0    0   1.258     42  0.00
+   68   68     0   0   1   0   0   0   0   0  23   0   2   5   0   1   3  17   1  41   0   5     0    0    0   1.671     55  0.00
+   69   69     0   0   0   0   0   0   0  66   0   0   1   0   0   0   0   0   0   1  19  13     0    0    0   0.943     31  0.00
+   70   70     5   0   0   4   0   0   1   0  58   0  28   1   4   0   0   0   0   0   0   0     0    0    0   1.162     38  0.00
+   71   71     0   0   0   0   0   0   0   0   0   0   1   0   0   0   8   8   2   1   4  76     0    0    0   0.910     30  0.00
+   72   72    55  27  13   1   1   0   1   0   2   0   0   0   1   0   0   0   0   0   0   0     0    0    0   1.176     39  0.00
+   73   73    86   1   4   0   2   0   0   0   4   0   0   0   4   0   0   0   0   0   0   0     0    0    0   0.604     20  0.00
+   74   74    35  34  25   0   4   0   0   0   0   0   0   0   2   0   0   0   0   0   0   0     0    0    0   1.267     42  0.00
+   75   75    24   7  69   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.832     27  0.00
+   76   76     4   0   1   0   0   0   0   0   2  17  32  39   4   0   0   0   0   0   0   0     0    0    0   1.454     48  0.00
+   77   77     0   0   0   0   0   0   0   4  94   0   2   0   0   0   0   0   0   0   0   0     0    0    0   0.270      8  0.00
+   78   78     0   0   0   0   0   0   0  96   1   0   2   0   0   0   0   0   0   0   0   0     0    0    0   0.176      5  0.00
+   79   79    55   4   5   2   4   0   0   0  28   1   0   0   0   0   1   1   0   0   0   0     0    0    0   1.298     43  0.00
+   80   80     0   0   0   0   0   0   0   0  34  36   0   2   0   0  21   1   0   0   6   0     0    0    0   1.353     45  0.00
+   81   81     0   0   0   1   0   0   0   0   0   0   0   0   0   0  63   2  33   0   0   0     0    0    0   0.856     28  0.00
+   82   82     2   0   2   0   0   0   0   0   2   0   0   0   0   0   3  74  14   0   2   0     0    0    0   0.950     31  0.00
+   83   83     0   0   0   0   0   0   0   0   1  79   1   0   0   0   0   0   1  15   0   2     0    0    0   0.718     23  0.00
+   84   84     0   0   0   0   0   0   0  99   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.065      2  0.00
+   85   85     0   1   0  61   0   0   0   1   0   0   0   0   0   0   0   2   3  33   0   0     0    0    0   0.946     31  0.00
+   86   86     0   0   0   0   0   0   0   0   0   1  24  37   0   0   0   1   0   2   1  34     0    0    0   1.300     43  0.00
+   87   87     0   0   0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0     0    0    0   0.022      0  0.00
+   88   88     0  35   1   1   0   0   0   0   5   0  29   1   0   0   0   1   0   3   1  24     0    0    0   1.556     51  0.00
+   89   89     0   0   0   0   0   0   0   0   2   0   1   0   0   0   0   1   4   2  14  76     0    0    0   0.875     29  0.00
+   90   90     0 100   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.021      0  0.00
+   91   91    26  18   2   0  51   0   0   0   3   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.195     39  0.00
+   92   92     0   0   0   0   1   0   0   7   2   2   3   0   0   1   0   4  19   9  48   4     0    0    0   1.725     57  0.00
+   93   93    31   1  16   1   1   0   0   1   3   0   1   7   0   0  21  16   0   0   0   2     0    0    0   1.876     62  0.00
+   94   94     0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0  99   0     0    0    0   0.075      2  0.00
+   95   95    20  11   3   0   0   0   0   3  59   0   1   1   0   0   0   0   1   0   1   0     0    0    0   1.322     44  0.00
+   96   96     0   0   0   0   0   0   0  49   9   2   3   4   0   0   4  11   1   2  15   2     0    0    0   1.692     56  0.00
+   97   97     6   3  90   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.434     14  0.00
+   98   98    50   4   4  12  24   0   2   0   1   0   0   2   0   0   0   0   0   0   2   0     0    0    0   1.478     49  0.00
+   99   99     0   1   2   1   0   0   0   0   6   0   3   0   0   0  16  67   1   3   0   1     0    0    0   1.225     40  0.00
+  100  100     2   0   0   0   9   0   0   5   8   0  14   9   0   2   0   3   3   6  26  12     0    0    0   2.232     74  0.00
+  101  101     9  52  35   0   0   0   1   0   0   0   0   0   0   0   0   0   3   0   0   0     0    0    0   1.116     37  0.00
+  102  102    45   1  19   1   0   0   0   8  12   0   2   6   6   0   0   0   1   0   0   0     0    0    0   1.668     55  0.00
+  103  103     0   2   1   1   1   0   0   3   5  21   4   9   0   0   2   5  24  19   0   4     0    0    0   2.144     71  0.00
+  104  104     1   0   0   0   0   0   0   7  19   4   5   3   0   1   2  10  30   5  12   0     0    0    0   2.092     69  0.00
+  105  105    40   9  42   1   0   0   0   0   2   0   0   0   6   0   0   0   0   0   0   0     0    0    0   1.249     41  0.00
+  106  106    23   1   2   6   0   0   0   3  50   1   4   1   0   0   0   6   1   1   1   1     0    0    0   1.632     54  0.00
+  107  107     6   0   1   0   0   0   0   0   7   1   2   1   0   1   3  55   6  11   2   4     0    0    0   1.688     56  0.00
+  108  108     7   0   1   0   1   0  24   0   4   0  14  25   4   9   0   1   1   0   8   0     0    0    0   2.054     68  0.00
+  109  109     0   0   0   0   0   0   0  12  11   0  25   0  49   0   1   0   0   0   2   0     0    0    0   1.359     45  0.00
+  110  110     0   0   0   0  12   0   0   0   0  80   1   0   0   0   0   4   1   0   0   2     0    0    0   0.731     24  0.00
+  111  111     0   0   0   0   0   0   0   1   0   0   1   2   0   3   1  42   3   6  22  19     0    0    0   1.620     54  0.00
+  112  112     2   0   0   0   1   0   1  12  61   1   4   3  15   0   0   0   0   0   0   1     0    0    0   1.317     43  0.00
+  113  113     7   8  27   5   7   0   1   0   0   0   0   1  32   0   1   9   0   0   0   0     0    0    0   1.859     62  0.00
+  114  114    28  17  37   1  12   0   1   0   0   0   1   1   0   0   0   0   0   0   0   0     0    0    0   1.497     49  0.00
+  115  115     4  32  11   3   0   0   0  33   1   0   0   0   5   2   0   0   0   0   8   0     0    0    0   1.742     58  0.00
+  116  116    39   3  49   5   1   0   0   0   0   0   0   2   2   0   0   0   0   0   0   0     0    0    0   1.164     38  0.00
+  117  117    30   1  53   0   0   0   0   0  13   0   0   3   0   0   0   0   0   0   0   0     0    0    0   1.119     37  0.00
+  118  118     0   0   0   0   0   0   0   3   9   0  37  51   0   0   0   0   0   0   0   0     0    0    0   1.068     35  0.00
+  119  119     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100   0     0    0    0   0.000      0  0.00
+  120  120     0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+  121  121    91   4   0   0   0   0   0   0   4   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.406     13  0.00
+  122  122     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  54  46     0    0    0   0.689     23  0.00
+  123  123    12   2  21   1   0   0   0   0   2   0  22  40   1   0   0   0   0   0   0   0     0    0    0   1.514     50  0.00
+  124  124     0  24   1  10   0   0   0   0   1   0   0  60   0   0   0   0   0   0   3   0     0    0    0   1.114     37  0.00
+  125  125    65   0   4   0   0   0   0   0   3   0   0  27   1   0   0   0   0   0   0   0     0    0    0   0.913     30  0.00
+  126  126     0   1   0   0   0   2  24   1  39  29   1   0   0   2   0   0   0   0   0   1     0    0    0   1.458     48  0.00
+  127  127    21  11  64   3   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.035     34  0.00
+  128  128     2   8   0   3   1   0   0   0  71   0   1  13   1   0   0   1   0   0   0   0     0    0    0   1.034     34  0.00
+  129  129     2   2   0   0   0  11  11   0  57   1   2   9   0   0   0   1   1   0   2   0     0    0    0   1.526     50  0.00
+  130  130     1   0   0   0   0   0   8   0   7   0   3   3   0   3   3   7   5  61   0   0     0    0    0   1.488     49  0.00
+  131  131    60   4   9   1   2   0   1   0   8   0   0  10   0   2   0   0   0   0   1   0     0    0    0   1.490     49  0.00
+  132  132     1  54   1   0  15  16   1   0   4   0   1   6   0   0   0   0   0   0   0   0     0    0    0   1.435     47  0.00
+  133  133     0   1   0   1   0   6   3   0   0   1   1   0   0   2   1  78   4   0   1   0     0    0    0   0.997     33  0.00
+  134  134     1   7   2   0   7   0   0   1   1   0   1   0   0   0   4  66   3   5   2   0     0    0    0   1.368     45  0.00
+  135  135     2  11   2   2   4   0   0   0  45   0  20   3   0   6   0   3   1   0   1   0     0    0    0   1.761     58  0.00
+  136  136     0   0   0   0   0   0   0  74   0   1  21   2   0   1   0   1   0   0   0   0     0    0    0   0.781     26  0.00
+  137  137    45  12   0   2   5   0   0  21   1   1   1   8   0   0   1   1   0   0   1   2     0    0    0   1.690     56  0.00
+  138  138     2   7   2   0  20   0  51   0   0  15   0   0   0   0   2   0   1   0   0   0     0    0    0   1.460     48  0.00
+  139  139     1   0   0   0   0   0   0   1   3  27   3   0   0   2   0   6   2   1   5  49     0    0    0   1.540     51  0.00
+  140  140     3   0   0   0   0   0   0   0   1  19   3   2   0   3   7  47   1  12   1   0     0    0    0   1.683     56  0.00
+  141  141     0   0   0   0   0   0   0   3   2   0   1   1   0   4  23  13   2   4  46   1     0    0    0   1.614     53  0.00
+  142  142    14   0   1   1   0   0   0   0   0   0   0   0   0   1  30  48   2   0   3   0     0    0    0   1.328     44  0.00
+  143  143    29  46  21   1   3   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.199     40  0.00
+  144  144     5   6  20   3  47   0   0  15   0   0   1   0   2   0   0   0   0   0   0   0     0    0    0   1.553     51  0.00
+  145  145     0   0   0   1   0   0   0  82   2   0  14   0   1   0   0   0   0   0   0   0     0    0    0   0.638     21  0.00
+  146  146    50   3   2   5   2   0   0  13   2   0  19   1   0   0   0   0   1   1   0   0     0    0    0   1.540     51  0.00
+  147  147     0   0   1   0   0   0   0   6   3   0   3  77   9   0   0   0   0   0   0   0     0    0    0   0.928     30  0.00
+  148  148     9   2   5   3   0   0   1   0   1   0   7  48   0   0   4   1   0   0  20   0     0    0    0   1.636     54  0.00
+  149  149     0  99   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.060      2  0.00
+  150  150     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100     0    0    0   0.022      0  0.00
+  151  151    20   1  28   1   0   0   0   1   1   0  32  13   0   2   0   0   1   0   0   0     0    0    0   1.588     53  0.00
+  152  152    17   5  29   0   0   0   0   2  35   0   8   1   0   0   0   0   0   0   3   0     0    0    0   1.601     53  0.00
+  153  153     0   0   0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0     0    0    0   0.021      0  0.00
+  154  154     0   7   0   2  38   0   0   0  19   0  33   0   1   0   0   0   0   0   0   0     0    0    0   1.396     46  0.00
+  155  155     0   1   0   0   0   0   0   0   1   0   2   2   0   0  42   8   2   9  34   0     0    0    0   1.472     49  0.00
+  156  156     2   2   0   0   9   0  16   2   4   0   1  51   0   5   3   2   4   0   1   0     0    0    0   1.750     58  0.00
+  157  157     2  24   2   1  58   0   3   0   6   0   1   1   0   1   0   0   1   1   0   1     0    0    0   1.362     45  0.00
+  158  158    44  20  19  11   0   0   4   0   1   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.445     48  0.00
+  159  159     1   0   0   0   0   0   0  18  68   0  10   0   0   0   1   0   0   0   2   0     0    0    0   0.966     32  0.00
+  160  160     0   0   0   1   0   0   0   4   5   0   0   1   0   0   0   4   9  68   0   6     0    0    0   1.238     41  0.00
+  161  161     6  37   2   1   0   0   4   0   3   0   0   0   0   7   7  23   2   6   0   0     0    0    0   1.934     64  0.00
+  162  162     3  32   1   1  11   0   1   0   6   0   0   2   1   0   0  41   0   1   1   0     0    0    0   1.598     53  0.00
+  163  163     1   1   0   0   0   0   0  58   3   0   2   0   0   2   1   1   1   1  15  14     0    0    0   1.412     47  0.00
+  164  164    37  18   5   1   1   0   0   3   3   1   0   1   0   1   1  29   0   0   0   0     0    0    0   1.663     55  0.00
+  165  165     1   4   0   1   0   0   0   0   6   6  11   2   2  11   2   2  18   3   9  21     0    0    0   2.310     77  0.00
+  166  166    14   3   1   1   0   0   1   1   9  64   2   1   0   3   0   0   0   0   0   0     0    0    0   1.312     43  0.00
+  167  167     1   2   2   0   0   0   1  27   9   0  13  13   0   0  13   4  12   3   1   1     0    0    0   2.147     71  0.00
+  168  168     2   0   0   1   0   0   0   1   0   0  21   1   0   1   6   2   5  28   8  24     0    0    0   1.914     63  0.00
+  169  169    69   1   6   0   0   0   0   0   1   1   4   5  10   0   0   1   0   1   0   0     0    0    0   1.193     39  0.00
+  170  170     1   0   0   0   0   0   0   0   0   0   8   3   0  25   6   2   7  25  13   9     0    0    0   1.984     66  0.00
+  171  171    57   1   1   0   0   0   0  15  24   0   1   2   0   0   0   0   0   0   0   0     0    0    0   1.167     38  0.00
+  172  172     0   1   1   0   5  10  16   0   0  54   1   5   1   3   1   0   1   0   1   0     0    0    0   1.594     53  0.00
+  173  173    71   1  25   2   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0     0    0    0   0.767     25  0.00
+  174  174    18  14  55   6   0   7   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.280     42  0.00
+  175  175     0   0   0   0   0   0   0  95   0   0   4   0   0   0   0   0   0   0   0   0     0    0    0   0.248      8  0.00
+  176  176     0   0   0   0   0   0   0  62   1   0   0   1   0   0   0   0   0  32   3   0     0    0    0   0.917     30  0.00
+  177  177     3   0   0   1   0   0   0   0   0   0   0   0   0  95   0   0   0   0   0   0     0    0    0   0.265      8  0.00
+  178  178     0   0   0   0   0   0   0  10  25   0  62   1   0   1   0   0   0   0   0   0     0    0    0   1.003     33  0.00
+  179  179     0   0   0   0   0   0   0  85   0   0   3   1   0   0   0   0   0   0   4   6     0    0    0   0.642     21  0.00
+  180  180    54   0   9   0   0   0   0   0   2   1   5   1   0   0   0   5   0   2   1  19     0    0    0   1.536     51  0.00
+  181  181     0   0   0   3   0   0   0   2   4   0  13  60   0   0   0   0   2   3  10   3     0    0    0   1.470     49  0.00
+  182  182    14   7  55   7   0   0   0   1   0   0   3   1   0   0   0   1   2   8   0   0     0    0    0   1.537     51  0.00
+  183  183    17  60  10   1   3   1   0   0   1   0   0   0   0   0   1   4   1   2   0   0     0    0    0   1.392     46  0.00
+  184  184     1   0   0   0   0   0   0   0   4  78   4   1   0   0   0   4   4   2   2   0     0    0    0   0.975     32  0.00
+  185  185    17  64   2   1   2   2   1   1   1   0   4   3   0   0   1   0   0   1   0   0     0    0    0   1.335     44  0.00
+  186  186     3  55   9   0   8  11   1   0   0   1   2   1   0   2   1   0   3   0   2   0     0    0    0   1.648     55  0.00
+  187  187     0   0   0   0   0   0   0   1   1   4  73   4   0   1   1   3   0   3   6   2     0    0    0   1.198     39  0.00
+  188  188     1   1   1   1   2   0   2   3   1   7   3   3   0   6   0   5  56   5   4   3     0    0    0   1.828     61  0.00
+  189  189    46   6  16   0   1   0   0   0  10   0   1   9   1   1   0   6   1   0   1   1     0    0    0   1.802     60  0.00
+  190  190     0   3   3   3   0   0   0   7   9  48   4   4   0   0   1   3   5   6   4   0     0    0    0   1.935     64  0.00
+  191  191     2   3   1   0   1   0   1  62   1   6   3   0   0   1   0   5   3   3   5   4     0    0    0   1.607     53  0.00
+  192  192    49   4   8   0   1   0   0   1   7   5   4  10   2   0   2   4   1   1   0   1     0    0    0   1.934     64  0.00
+  193  193     0   3   1   0   1   0   0   3   5   9  43   4   0   0   1   6   2   6   4  12     0    0    0   2.023     67  0.00
+  194  194     3  18   5   1  51   2   2   3   4   2   3   1   0   0   0   3   1   0   1   1     0    0    0   1.789     59  0.00
+  195  195     0   2   1   0   0   0   0   1   3   6  14  42   1   0   0   4   1   3   6  16     0    0    0   1.902     63  0.00
+  196  196     0   1   0   0   0   0   0   3   2   5   4   2   0   0   0  13   8  45   0  16     0    0    0   1.760     58  0.00
+  197  197     0   1   0   0   0   0   1   1   7   0   3   0   0   0   0   6  31  33   0  14     0    0    0   1.739     58  0.00
+  198  198     2   1   1   0   0   0   0   1   3   1   0   4   0   3   1   7  12  53   4   7     0    0    0   1.770     59  0.00
+  199  199    27  22  18   0   1  13   1   0   6   0   1   0   0   0   5   4   1   0   0   0     0    0    0   1.970     65  0.00
+  200  200     5   1   2   0   0   0   1   0  36   1   2   2   0   1   1  18   2  19   1   7     0    0    0   1.972     65  0.00
+  201  201     1   0   0   0   0   0   5   2  16   1   1   4   0   1   2   8   5  22   5  29     0    0    0   2.096     69  0.00
+  202  202    11  58  23   1   2   0   0   1   1   0   0   1   0   0   0   0   0   1   0   0     0    0    0   1.256     41  0.00
+  203  203     7   2   5   0   9   0   0   1   1   0   2  47   0  17   2   1   0   2   0   3     0    0    0   1.807     60  0.00
+  204  204     5   1   1   0   0   0   0   5   1   1   0   1   0   4   3  55   3  12   2   6     0    0    0   1.719     57  0.00
+  205  205     0   0   0   4   1   0   0   4   3   0   4   1   0   0  57   5  11   2   3   4     0    0    0   1.667     55  0.00
+  206  206    35   2  45   0   0   0   0   0   0   0   0  16   0   0   0   0   0   1   0   0     0    0    0   1.145     38  0.00
+  207  207    19   0   1   0   0   0   0   0   0   0   1   0   0   0  19   4  53   1   0   1     0    0    0   1.347     44  0.00
+  208  208     1   0   0   1   3   0   1   3   0   0   0   1   0   1   2   4   2  10  44  25     0    0    0   1.734     57  0.00
+  209  209     0   0   1   0   0   0   0  23  54   0  16   1   0   0   1   2   1   0   0   0     0    0    0   1.303     43  0.00
+  210  210     0   1   0   0   0   0   0  61  37   0   0   0   0   1   0   0   0   0   0   0     0    0    0   0.755     25  0.00
+  211  211     0   1   0   2   0   0  34   4   5   1   0  47   0   0   0   1   0   1   0   4     0    0    0   1.426     47  0.00
+  212  212     0   0   0   0   1   0   0   0   0   0   4   2   0   1   1   1   3  82   1   4     0    0    0   0.853     28  0.00
+  213  213    70   0  29   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.627     20  0.00
+  214  214    58   2  37   0   0   0   0   0   1   0   0   0   0   0   0   1   0   1   0   0     0    0    0   0.898     29  0.00
+  215  215     0   0   0   0   0   0   0   2   2   0   1   0   0   0   3  25   2  51  12   3     0    0    0   1.450     48  0.00
+  216  216     0  27   1   1   0   0   0   3  56   0   0   1   0   0   4   6   0   0   0   0     0    0    0   1.291     43  0.00
+  217  217     0   3   0   1   0   0   0   0   1   0   0   0   0   2   1  92   0   0   0   0     0    0    0   0.406     13  0.00
+  218  218     1   4   0   0   0   0   0   6  68   0   1   1   0   0   8   7   2   0   2   2     0    0    0   1.268     42  0.00
+  219  219     0   1   0   0   0   0   1  91   1   0   1   3   0   0   1   2   0   0   0   0     0    0    0   0.472     15  0.00
+  220  220     1   1   0   0   0   0   0  55  27   0   1   1   0   0   3   9   1   1   2   0     0    0    0   1.275     42  0.00
+  221  221     0   0   0   0   0   0   0  94   0   0   1   4   0   0   0   0   0   0   0   0     0    0    0   0.264      8  0.00
+  222  222     0   0   0   0   0   0  22   0  16   0  60   0   0   0   0   0   0   1   0   0     0    0    0   1.027     34  0.00
+  223  223     1   0   1   0   0   0   4   0  57   1   0  35   0   0   0   0   0   0   0   0     0    0    0   1.010     33  0.00
+  224  224     1   0   1   0   8   0  11   4   0   0  16  54   0   1   0   0   1   0   3   0     0    0    0   1.481     49  0.00
+  225  225     1  54   3   0   1  20  18   0   1   0   0   0   0   0   1   1   0   0   0   0     0    0    0   1.336     44  0.00
+  226  226     0   0   0   0   0   0   0  14  30   1  54   0   0   0   0   0   0   0   0   0     0    0    0   1.135     37  0.00
+  227  227     4   1  30  55   0   0   1   0   2   5   0   1   0   0   1   0   0   0   0   0     0    0    0   1.230     41  0.00
+  228  228     0   0   0   0   0   0   1  63  34   0   0   0   0   0   0   0   0   1   0   0     0    0    0   0.805     26  0.00
+  229  229     4  17   1   5   2   1  22   0   6   1   1   4   0   1   0   0  31   4   0   0     0    0    0   2.012     67  0.00
+  230  230     0   0   0   0   0   0   0   5  69   1  23   0   1   0   0   0   0   0   0   0     0    0    0   0.895     29  0.00
+  231  231    21  12   3   0   0   0   0  13  44   3   2   1   0   0   0   0   0   0   0   0     0    0    0   1.574     52  0.00
+  232  232     4   0   2   3   0   0   1   0  80   0   0   4   3   0   0   0   0   0   0   0     0    0    0   0.921     30  0.00
+  233  233     1   3   1   1   0   0   1   0   4   0   3   1   0   1  53   6   1   7   2  16     0    0    0   1.695     56  0.00
+  234  234     2  21   6   5  59   1   1   1   1   0   2   0   1   0   0   0   0   0   0   0     0    0    0   1.355     45  0.00
+  235  235    20   1   0   1   0   0   0  36  33   0   2   4   2   0   0   0   0   0   0   0     0    0    0   1.481     49  0.00
+  236  236     2  37   2   1   4   0   0   2   4   0   2   2   0   1   3   3   0  24   2  10     0    0    0   2.032     67  0.00
+  237  237     1   0   0   1   0   0   0   0  18   0  63   4   0   2   4   0   2   2   1   1     0    0    0   1.353     45  0.00
+  238  238    10  42  29   6   1   0   2   0   1   0   2   0   8   0   0   0   0   0   0   0     0    0    0   1.562     52  0.00
+  239  239    46  28   4   6   1   0   0   0   2   0   1  11   0   0   0   0   0   1   0   0     0    0    0   1.500     50  0.00
+  240  240     0   1   0   0   0   0   0   0   1   0   2   0   0   1  47  36   0   6   1   4     0    0    0   1.360     45  0.00
+  241  241     1   1   1   0   0   0   1  13  60   0   1   0   0   0   0   0   0   0  17   4     0    0    0   1.287     42  0.00
+  242  242     1  71  16   4   2   0   0   0   1   0   0   1   0   0   2   0   1   0   0   0     0    0    0   1.066     35  0.00
+  243  243     1  15   0   0   0   0   0   0   1   0   1   3   0   6  15   8  32   0  13   3     0    0    0   2.019     67  0.00
+  244  244     0   0   0   0   0   0   0  55   1   0   2   0   0   3  13   6   0   1   6  12     0    0    0   1.547     51  0.00
+  245  245    20   1   1   0   0   0   0   0   1   0   1   1   1   1   1   6   1  40   4  20     0    0    0   1.752     58  0.00
+  246  246     0   1   1   0   0   0   0   1   5   5   6   3   0  15   2  17  25  13   4   1     0    0    0   2.195     73  0.00
+  247  247     1   0   0   0   0   0   0  38   5  16   1   1   0   3   8   3   0   1  12  10     0    0    0   1.968     65  0.00
+  248  248    66   2  12   0   0   0   0   0   6   2   2   0   0   0   6   1   1   2   0   0     0    0    0   1.276     42  0.00
+  249  249    53  10  15   1   0   0   3   0   0   0  13   4   0   0   0   0   0   0   0   0     0    0    0   1.469     49  0.00
+  250  250     3  14   1   0   0   0   0   0   2   6   1  18   0   4   0   0   2  49   0   0     0    0    0   1.648     55  0.00
+  251  251     4   6   1   8   0   0   4   2   1  14   3   3  53   0   0   0   0   0   0   0     0    0    0   1.701     56  0.00
+  252  252    19   5   5   0   1   0   0   1  46   0  17   5   0   0   0   0   0   1   0   0     0    0    0   1.603     53  0.00
+  253  253     0   2   0   0  13   0  52   0   1   0  15   3   0   0   0  12   1   0   0   0     0    0    0   1.487     49  0.00
+  254  254    64   8   2   2   1   0   0  14   3   1   0   3   0   0   0   0   0   0   0   0     0    0    0   1.310     43  0.00
+  255  255     1  13   1   5   6   0   5   1   4   2   1   1   0   1   1   3  10  39   0   5     0    0    0   2.155     71  0.00
+  256  256     2   8   1   2   0   0   9  42   2   0  20   2   0   5   0   0   5   1   0   1     0    0    0   1.863     62  0.00
+  257  257     1   0   0   0   0   0   2  14   1   1   3   6   0   0   1   5   6  13   3  45     0    0    0   1.841     61  0.00
+  258  258    13   3  12   0   0   0   1  62   1   1   1   0   0   0   0   0   0   5   0   1     0    0    0   1.326     44  0.00
+  259  259     3   1   2   1   2   0   1   1   1   2   0  15   0   1   0  13  40  11   3   2     0    0    0   1.980     66  0.00
+  260  260     0   1   0   0   1   0  50   1   0   0   1   0   0   4   3   3   0  22   1   9     0    0    0   1.635     54  0.00
+  261  261     1  11   1   0   0   0   0  23  35   0   1   0   5   0   0   0   0  10   1  12     0    0    0   1.792     59  0.00
+  262  262    24   7   4   1   0   0   0   1   3  14   1   5   0   3  28   1   1   3   1   2     0    0    0   2.146     71  0.00
+  263  263     0   0   1   1  70   0  22   0   1   0   2   1   2   1   0   0   0   0   0   0     0    0    0   0.954     31  0.00
+  264  264     3  27  13   1  53   0   1   1   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.237     41  0.00
+  265  265     0   0   0   0   0   0   0  25  20   0  55   0   0   0   0   0   0   0   0   0     0    0    0   1.039     34  0.00
+  266  266    23  10   7   1   0   0   0   0   0   0  12  11   0   0   0   0  34   0   0   0     0    0    0   1.742     58  0.00
+  267  267     0   0   0   0   0   0   0   0   0  88   0   0   0   0   3   9   0   0   0   0     0    0    0   0.450     15  0.00
+  268  268    25  31   5   0   0   0   0   0  17   0   0   3  16   0   2   0   0   0   0   0     0    0    0   1.658     55  0.00
+  269  269    26  34  14   0   0   0   0   0   0   0   0   2   0   0  11  10   1   2   0   0     0    0    0   1.671     55  0.00
+  270  270     9  78  12   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.701     23  0.00
+  271  271     0   0   0   0   0   0   0  87   0   0   1   1   0   0   1   0   0   0  10   0     0    0    0   0.500     16  0.00
+  272  272     0   0   0   0   0   1   0   4   9   2   3   2   0   0  19  45   8   2   5   0     0    0    0   1.777     59  0.00
+  273  273     1   0   0   0   0   0   0   6   1   0   8   3   1   3   2   6   2   5  58   3     0    0    0   1.669     55  0.00
+  274  274     0   0   0   0   0   0   0  99   0   0   1   0   0   0   0   0   0   0   0   0     0    0    0   0.043      1  0.00
+  275  275    62   9  26   0   0   0   0   0   3   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.973     32  0.00
+  276  276     2   1   0   0   0   0   0   1   1   0   8   6   0   0   5   2   1  69   1   2     0    0    0   1.252     41  0.00
+  277  277     0   0   0   0   0   0   0   1   4   0   2   0   0   0   3  12   6  51   2  17     0    0    0   1.544     51  0.00
+  278  278    25   4  15   0   3   0   1   0   0   3   0   2   0   0  37   0   0   1   6   0     0    0    0   1.769     59  0.00
+  279  279    16  25   9   0   1   0   3   0   0   0   3   2   0   2   1  34   0   1   0   1     0    0    0   1.888     63  0.00
+  280  280     2   0   1   0   0   0   0  10   1   8  36   1   0   3   0  10   2  11   3  10     0    0    0   2.087     69  0.00
+  281  281    13  23  54   7   0   0   2   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.243     41  0.00
+  282  282     0   0   0   0   0   0   0  84   1   6   1   0   0   0   0   0   4   1   2   0     0    0    0   0.698     23  0.00
+  283  283     0   0   0   0   0   0   0   3   0  18   2  47   0   1   1  13   1   6   4   1     0    0    0   1.700     56  0.00
+  284  284     2  88   5   5   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.506     16  0.00
+  285  285     0   1   0   0   0   0   0   0   0   0  60  19   0   0   0   3   0   0  14   2     0    0    0   1.188     39  0.00
+  286  286     0   0   0   0   0   0   0   1  48  11   4   2   0   1   0   0   0  10   1  21     0    0    0   1.560     52  0.00
+  287  287     2   0   0   1  44   0  19   1   2   0   2   2   0   2   1   1   1  16   0   8     0    0    0   1.714     57  0.00
+  288  288     0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0  99   0   0     0    0    0   0.032      1  0.00
+  289  289     2   2   2   0   0   0   0   0   1   0   0   1   0   0  10  16  46  22   0   0     0    0    0   1.461     48  0.00
+  290  290     2   0   2   1   0   0   0   3  17   0   6   1   0   4   5  18   8  11  24   0     0    0    0   2.128     71  0.00
+  291  291     0  11   1   7   0   0   0  11  36   0  11   0   1   2   6   5   9   1   0   0     0    0    0   1.989     66  0.00
+  292  292     3  78   5   6   7   0   1   0   0   0   0   0   0   0   1   0   0   0   0   1     0    0    0   0.870     29  0.00
+  293  293     3   2   0   0   0   0   0   0   6   0   1   2   0   2   3  17   4  46   3  12     0    0    0   1.776     59  0.00
+  294  294     1   0   1   0   0   0   0  28  15   1   4   2   0   4   3  28   1   5   4   3     0    0    0   1.998     66  0.00
+  295  295     1  11   1  28   0   0   0   0  18   0  35   1   3   0   0   0   0   0   0   1     0    0    0   1.580     52  0.00
+  296  296     7  34   9   1   1   0   0   0  30   0   1   0   0   0   1  17   0   0   0   0     0    0    0   1.576     52  0.00
+  297  297     1   0   1   0   0   0   0   2   5  19   6   1   0   1   1   8   1  13   2  40     0    0    0   1.857     61  0.00
+  298  298     5   1   3   1   0   0   0   2   0   0   2  51   0   0   0   0   5  28   1   1     0    0    0   1.420     47  0.00
+  299  299     5  92   2   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.355     11  0.00
+  300  300     0   1   2   1   0   0   0   0  10   0   1   1   0   1   5  70   7   1   1   0     0    0    0   1.166     38  0.00
+  301  301     1   0   0   0   0   0   0  11  26   0  15   2   0   0   0  30   4   9   0   3     0    0    0   1.791     59  0.00
+  302  302     6   0   2   1   0   0   0   0   0   0  42   2   0   0   0   0   2   1  22  21     0    0    0   1.526     50  0.00
+  303  303     3  12  81   1   0   0   0   0   3   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.686     22  0.00
+  304  304     1   0   0   0   0   0   0   2  17   0   1   6   0   1   0  15  17  34   0   5     0    0    0   1.804     60  0.00
+  305  305     0  22   8   0   0   0   0   0   1   0   0   0   0   0   1  65   0   2   0   1     0    0    0   1.044     34  0.00
+  306  306     1   0   0   0   0   0   0  93   6   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.287      9  0.00
+  307  307    31   4  20   1   1   0   0   0   0   0   1   0   0   0   0   8   4  28   0   3     0    0    0   1.737     57  0.00
+  308  308     0   0   0   0   0   0   0   1   9   0  10   3   0   0   0  21   5  32   5  14     0    0    0   1.870     62  0.00
+  309  309     0   1   1   0  97   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.140      4  0.00
+  310  310    49   1  20   0   0   0   0   0  26   0   1   1   0   0   0   0   0   0   0   0     0    0    0   1.207     40  0.00
+  311  311     0   0   0   0   0   0   0   0   5   0   2   2   0   0  20   2  10   0  59   0     0    0    0   1.278     42  0.00
+  312  312     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  59  38   3   0   0     0    0    0   0.774     25  0.00
+//

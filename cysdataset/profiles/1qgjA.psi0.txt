@@ -1,0 +1,635 @@
+ID Pseudo hssp file.
+SEQ 
+SEQ gi|1403134|emb|CAA67092.1| (X98453) peroxidase [Arabidopsis thal...   575  e-163
+SEQ gi|7245406|pdb|1QGJ|A Chain A, Arabidopsis Thaliana Peroxidase N...   569  e-161
+SEQ gi|99773|pir||S14268 peroxidase (EC 1.11.1.7), neutral - horsera...   522  e-147
+SEQ gi|1279654|emb|CAA66037.1| (X97351) peroxidase [Populus balsamif...   328  5e-89
+SEQ gi|7433035|pir||T04333 peroxidase (EC 1.11.1.7) (clone prxRPN) -...   328  6e-89
+SEQ gi|7433039|pir||T03912 peroxidase (EC 1.11.1.7) poxN [similarity...   325  5e-88
+SEQ gi|2129513|pir||S60054 peroxidase (EC 1.11.1.7) A3a precursor - ...   322  5e-87
+SEQ gi|1097875|prf||2114377A peroxidase:ISOTYPE=RPA [Oryza sativa]        317  1e-85
+SEQ gi|6002461|dbj|BAA84764.1| (D84400) peroxidase [Oryza sativa]         316  3e-85
+SEQ gi|7433034|pir||T04344 peroxidase (EC 1.11.1.7) (clone prxRPA) -...   315  6e-85
+SEQ gi|9759301|dbj|BAB09807.1| (AP002032) peroxidase [Arabidopsis th...   313  2e-84
+SEQ gi|8546851|emb|CAB94692.1| (AJ242742) peroxidase [Ipomoea batatas]    310  1e-83
+SEQ gi|11513747|pdb|1PA2|A Chain A, Arabidopsis Thaliana Peroxidase ...   310  1e-83
+SEQ gi|1491617|emb|CAA68212.1| (X99952) peroxidase [Arabidopsis thal...   310  1e-83
+SEQ gi|7433057|pir||T09566 peroxidase (EC 1.11.1.7) - black poplar >...   307  2e-82
+SEQ gi|485393|dbj|BAA06335.1| (D30653) peroxidase [Populus kitakamie...   306  2e-82
+SEQ gi|7433056|pir||T09565 peroxidase (EC 1.11.1.7) - black poplar >...   304  1e-81
+SEQ gi|5002342|gb|AAD37427.1|AF149277_1 (AF149277) peroxidase 1 prec...   304  1e-81
+SEQ gi|4006918|emb|CAB16848.1| (Z99708) peroxidase like protein [Ara...   302  4e-81
+SEQ gi|1730490|sp|P80679|PERX_ARMRU PEROXIDASE                            302  4e-81
+SEQ gi|1279650|emb|CAA66035.1| (X97349) peroxidase [Populus balsamif...   302  4e-81
+SEQ gi|1097876|prf||2114377B peroxidase:ISOTYPE=RPN [Oryza sativa]        301  9e-81
+SEQ gi|5002348|gb|AAD37430.1|AF149280_1 (AF149280) peroxidase 5 prec...   300  2e-80
+SEQ gi|1279648|emb|CAA66034.1| (X97348) peroxidase [Populus balsamif...   299  2e-80
+SEQ gi|4874288|gb|AAD31351.1|AC007212_7 (AC007212) putative peroxida...   297  1e-79
+SEQ gi|2129514|pir||S60055 peroxidase (EC 1.11.1.7) A4a precursor - ...   295  4e-79
+SEQ gi|7242902|dbj|BAA92500.1| (AP001383) ESTs D39300(R3292),AU03075...   294  9e-79
+SEQ gi|4874289|gb|AAD31352.1|AC007212_8 (AC007212) putative peroxida...   294  1e-78
+SEQ gi|1279652|emb|CAA66036.1| (X97350) peroxidase [Populus balsamif...   292  3e-78
+SEQ gi|421924|pir||S32768 peroxidase (EC 1.11.1.7) - tomato >gi|2969...   292  4e-78
+SEQ gi|797268|gb|AAB47602.1| (L07554) peroxidase [Linum usitatissimum]    291  7e-78
+SEQ gi|6723685|emb|CAB67121.1| (Y19023) peroxidase [Lycopersicon esc...   291  9e-78
+SEQ gi|129837|sp|P11965|PERX_TOBAC LIGNIN FORMING ANIONIC PEROXIDASE...   290  2e-77
+SEQ gi|2117621|pir||JC4780 peroxidase (EC 1.11.1.7) 1B precursor - a...   289  3e-77
+SEQ gi|7433042|pir||T03686 peroxidase (EC 1.11.1.7) - common tobacco...   287  9e-77
+SEQ gi|537604|dbj|BAA06334.1| (D30652) peroxidase [Populus kitakamie...   287  1e-76
+SEQ gi|11255592|pir||T46118 peroxidase - Arabidopsis thaliana >gi|65...   287  1e-76
+SEQ gi|2117622|pir||JC4781 peroxidase (EC 1.11.1.7) 1C precursor - a...   285  4e-76
+SEQ gi|4139555|pdb|3ATJ|A Chain A, Heme Ligand Mutant Of Recombinant...   285  5e-76
+SEQ gi|129813|sp|P00433|PERA_ARMRU PEROXIDASE C1A PRECURSOR >gi|2144...   284  8e-76
+SEQ gi|208494|gb|AAA72223.1| (J05552) synthetic horseradish peroxida...   284  8e-76
+SEQ gi|2914168|pdb|1ATJ|A Chain A, Recombinant Horseradish Peroxidas...   284  8e-76
+SEQ gi|2914297|pdb|2ATJ|A Chain A, Recombinant Horseradish Peroxidas...   284  8e-76
+SEQ gi|7488438|pir||PC7025 peroxidase (EC 1.11.1.7) - horseradish (f...   284  8e-76
+SEQ gi|129809|sp|P17179|PER2_ARMRU PEROXIDASE C2 PRECURSOR >gi|81665...   284  1e-75
+SEQ gi|480907|pir||S37495 peroxidase (EC 1.11.1.7) Cb - Arabidopsis ...   284  2e-75
+SEQ gi|168241|gb|AAA33377.1| (M37156) HRPC1 [Armoracia rusticana]         281  6e-75
+SEQ gi|7267519|emb|CAB78002.1| (AL161512) peroxidase C2 precursor li...   281  9e-75
+SEQ gi|129815|sp|P24101|PERC_ARATH NEUTRAL PEROXIDASE C PRECURSOR >g...   281  1e-74
+SEQ gi|2245683|gb|AAC98519.1| (AF007211) peroxidase precursor [Glyci...   280  1e-74
+SEQ gi|129814|sp|P15232|PERB_ARMRU PEROXIDASE C1B PRECURSOR >gi|8166...   280  2e-74
+SEQ gi|14031051|gb|AAK52085.1| (AY032675) peroxidase [Nicotiana taba...   280  2e-74
+SEQ gi|1402908|emb|CAA66959.1| (X98315) peroxidase [Arabidopsis thal...   278  6e-74
+SEQ gi|9884625|dbj|BAB02631.1| (AP002054) peroxidase [Arabidopsis th...   278  6e-74
+SEQ gi|129816|sp|P15233|PERC_ARMRU PEROXIDASE C1C PRECURSOR >gi|8166...   278  9e-74
+SEQ gi|5381253|dbj|BAA82306.1| (AB027752) peroxidase [Nicotiana taba...   277  1e-73
+SEQ gi|7433044|pir||T02506 peroxidase (EC 1.11.1.7) T19C21.12 - Arab...   277  1e-73
+SEQ gi|7433043|pir||T02507 peroxidase (EC 1.11.1.7) T19C21.13 - Arab...   277  2e-73
+SEQ gi|7267520|emb|CAB78003.1| (AL161512) peroxidase C2 precursor li...   275  7e-73
+SEQ gi|4544449|gb|AAD22357.1|AC006592_14 (AC006592) putative peroxid...   275  7e-73
+SEQ gi|7453855|gb|AAF63027.1|AF244924_1 (AF244924) peroxidase prx15 ...   274  9e-73
+SEQ gi|129817|sp|P24102|PERE_ARATH BASIC PEROXIDASE E PRECURSOR >gi|...   273  1e-72
+SEQ gi|537315|gb|AAB41810.1| (L36156) peroxidase [Medicago sativa]        272  3e-72
+SEQ gi|5453379|gb|AAD43561.1|AF155124_1 (AF155124) bacterial-induced...   272  5e-72
+SEQ gi|2117620|pir||JC4779 peroxidase (EC 1.11.1.7) 1A precursor - a...   272  5e-72
+SEQ gi|1402918|emb|CAA66964.1| (X98320) peroxidase [Arabidopsis thal...   272  6e-72
+SEQ gi|478389|pir||JQ2217 peroxidase (EC 1.11.1.7) precursor, anioni...   271  8e-72
+SEQ gi|129812|sp|P17180|PER3_ARMRU PEROXIDASE C3 PRECURSOR >gi|81667...   271  8e-72
+SEQ gi|10177520|dbj|BAB10915.1| (AB013389) peroxidase [Arabidopsis t...   271  9e-72
+SEQ gi|7453853|gb|AAF63026.1|AF244923_1 (AF244923) peroxidase prx14 ...   271  9e-72
+SEQ gi|13992526|emb|CAC38073.1| (AJ306689) peroxidase1A [Medicago sa...   271  1e-71
+SEQ gi|11255590|pir||T45730 peroxidase-like protein - Arabidopsis th...   270  1e-71
+SEQ gi|10120418|gb|AAG13043.1|AC011807_2 (AC011807) peroxidase ATP5a...   269  3e-71
+SEQ gi|7433046|pir||T09165 probable peroxidase (EC 1.11.1.7) (clone ...   268  7e-71
+SEQ gi|1546702|emb|CAA67341.1| (X98809) peroxidase; peroxidase ATP5a...   268  8e-71
+SEQ gi|577503|gb|AAB02554.1| (L37790) cationic peroxidase [Stylosant...   266  3e-70
+SEQ gi|7433036|pir||T05723 peroxidase (EC 1.11.1.7) precursor, seed ...   265  5e-70
+SEQ gi|13399943|pdb|1FHF|A Chain A, The Structure Of Soybean Peroxid...   265  5e-70
+SEQ gi|7658147|dbj|BAA94962.1| (AB042103) peroxidase [Asparagus offi...   265  5e-70
+SEQ gi|10176746|dbj|BAB09977.1| (AB010692) peroxidase [Arabidopsis t...   265  7e-70
+SEQ gi|400750|sp|Q02200|PERX_NICSY LIGNIN FORMING ANIONIC PEROXIDASE...   264  1e-69
+SEQ gi|1076611|pir||B56555 peroxidase (EC 1.11.1.7), anionic, precur...   264  1e-69
+SEQ gi|3927894|emb|CAA76680.1| (Y17192) peroxidase [Cucurbita pepo]       264  1e-69
+SEQ gi|7433085|pir||T09665 peroxidase (EC 1.11.1.7) pxdC precursor -...   262  6e-69
+SEQ gi|7228462|dbj|BAA92422.1| (AP001366) ESTs AU081576(R0541),AU032...   262  6e-69
+SEQ gi|1546700|emb|CAA67336.1| (X98804) peroxidase; peroxidase ATP18...   260  1e-68
+SEQ gi|6688979|emb|CAB65334.1| (AJ250121) SPI2 protein [Picea abies]      260  2e-68
+SEQ gi|7433058|pir||T10252 peroxidase (EC 1.11.1.7) - radish >gi|151...   260  2e-68
+SEQ gi|5002344|gb|AAD37428.1|AF149278_1 (AF149278) peroxidase 3 prec...   259  4e-68
+SEQ gi|464365|sp|P00434|PERX_BRARA PEROXIDASE P7 >gi|66306|pir||OPNB...   258  6e-68
+SEQ gi|6093671|sp|P22195|PER1_ARAHY CATIONIC PEROXIDASE 1 PRECURSOR ...   257  1e-67
+SEQ gi|8777341|dbj|BAA96931.1| (AB019228) peroxidase [Arabidopsis th...   257  1e-67
+SEQ gi|7433061|pir||T10445 peroxidase (EC 1.11.1.7) - cucumber >gi|1...   257  1e-67
+SEQ gi|99872|pir||A38265 peroxidase (EC 1.11.1.7) precursor, cationi...   256  2e-67
+SEQ gi|2811262|gb|AAB97853.1| (AF043234) ferriprotein porphyrin-cont...   256  3e-67
+SEQ gi|4760704|dbj|BAA77389.1| (AB024439) peroxidase 3 [Scutellaria ...   255  5e-67
+SEQ gi|1854581|gb|AAB48184.1| (L24120) peroxidase precursor [Linum u...   255  5e-67
+SEQ gi|2117619|pir||S61408 peroxidase (EC 1.11.1.7) 4 precursor - wh...   255  6e-67
+SEQ gi|993004|emb|CAA62615.1| (X91232) peroxidase [Mercurialis annua]     255  6e-67
+SEQ gi|7433048|pir||T09164 probable peroxidase (EC 1.11.1.7) (clone ...   255  8e-67
+SEQ gi|1633130|pdb|1SCH|A Chain A, Peanut Peroxidase >gi|1633131|pdb...   254  1e-66
+SEQ gi|4760702|dbj|BAA77388.1| (AB024438) peroxidase 2 [Scutellaria ...   254  1e-66
+SEQ gi|1232069|gb|AAB67737.1| (L77080) cationic peroxidase [Stylosan...   253  1e-66
+SEQ gi|8777340|dbj|BAA96930.1| (AB019228) peroxidase [Arabidopsis th...   253  3e-66
+SEQ gi|7453851|gb|AAF63025.1|AF244922_1 (AF244922) peroxidase prx13 ...   252  4e-66
+SEQ gi|7433047|pir||T09166 probable peroxidase (EC 1.11.1.7) (clone ...   251  9e-66
+SEQ gi|7262698|gb|AAF43956.1|AC012188_33 (AC012188) Strong similarit...   251  1e-65
+SEQ gi|7340877|dbj|BAA92967.1| (AP001551) ESTs D41670(S4325),AU03316...   251  1e-65
+SEQ gi|1483222|emb|CAA67551.1| (X99097) peroxidase [Arabidopsis thal...   249  4e-65
+SEQ gi|1620371|emb|CAA70035.1| (Y08782) peroxidase ATP23a [Arabidops...   249  4e-65
+SEQ gi|7433060|pir||T10444 peroxidase (EC 1.11.1.7) precursor, acidi...   249  4e-65
+SEQ gi|9501336|emb|CAB99487.1| (AJ276227) peroxidase [Hordeum vulgare]    248  9e-65
+SEQ gi|7262696|gb|AAF43954.1|AC012188_31 (AC012188) Strong similarit...   247  2e-64
+SEQ gi|11862958|dbj|BAB19339.1| (AP003044) putative peroxidase [Oryz...   246  3e-64
+SEQ gi|2429292|gb|AAC49821.1| (AF014470) peroxidase [Oryza sativa]        245  7e-64
+SEQ gi|6573301|gb|AAD37429.2|AF149279_1 (AF149279) peroxidase 4 prec...   245  8e-64
+SEQ gi|7433041|pir||T03683 peroxidase (EC 1.11.1.7), anionic - commo...   244  9e-64
+SEQ gi|585662|sp|P37835|PER2_ORYSA PEROXIDASE PRECURSOR >gi|7433040|...   244  1e-63
+SEQ gi|3608150|gb|AAC36183.1| (AC005314) putative peroxidase [Arabid...   244  1e-63
+SEQ gi|7433049|pir||T08121 peroxidase (EC 1.11.1.7) - flax (fragment...   243  2e-63
+SEQ gi|7433080|pir||T09167 probable peroxidase (EC 1.11.1.7) (clone ...   242  5e-63
+SEQ gi|167533|gb|AAA33129.1| (M91372) peroxidase [Cucumis sativus]        242  6e-63
+SEQ gi|2811264|gb|AAB97854.1| (AF043235) ferriprotein porphyrin-cont...   242  7e-63
+SEQ gi|2117618|pir||S61405 peroxidase (EC 1.11.1.7) 1 precursor - wh...   239  3e-62
+SEQ gi|129810|sp|P19135|PER2_CUCSA PEROXIDASE 2 >gi|81569|pir||S1187...   239  3e-62
+SEQ gi|82613|pir||S13375 peroxidase (EC 1.11.1.7) precursor, pathoge...   237  2e-61
+SEQ gi|7433038|pir||T06172 peroxidase (EC 1.11.1.7) precursor, patho...   237  2e-61
+SEQ gi|129806|sp|P27337|PER1_HORVU PEROXIDASE 1 PRECURSOR >gi|743303...   236  2e-61
+SEQ gi|7527716|gb|AAF63165.1|AC010657_1 (AC010657) T5E21.5 [Arabidop...   234  9e-61
+SEQ gi|1402914|emb|CAA66962.1| (X98318) peroxidase [Arabidopsis thal...   234  1e-60
+SEQ gi|1429213|emb|CAA67309.1| (X98773) peroxidase ATP4a [Arabidopsi...   234  1e-60
+SEQ gi|129808|sp|P22196|PER2_ARAHY CATIONIC PEROXIDASE 2 PRECURSOR >...   234  1e-60
+SEQ gi|3411221|gb|AAC31550.1| (AF078871) peroxidase PXC2 precursor [...   232  4e-60
+SEQ gi|2117616|pir||S61406 peroxidase (EC 1.11.1.7) 2 precursor - wh...   232  5e-60
+SEQ gi|100694|pir||S22087 peroxidase (EC 1.11.1.7) precursor - rice ...   231  7e-60
+SEQ gi|5381255|dbj|BAA82307.1| (AB027753) peroxidase [Nicotiana taba...   231  9e-60
+SEQ gi|7433068|pir||T02443 probable peroxidase (EC 1.11.1.7), cation...   231  1e-59
+SEQ gi|520568|gb|AAA20472.1| (U12314) peroxidase [Cenchrus ciliaris]      230  1e-59
+SEQ gi|1084393|pir||S55035 peroxidase (EC 1.11.1.7) precursor - pars...   230  1e-59
+SEQ gi|217995|dbj|BAA02840.1| (D13683) peroxidase [Populus kitakamie...   230  2e-59
+SEQ gi|571484|gb|AAB48986.1| (U16727) peroxidase precursor [Medicago...   230  2e-59
+SEQ gi|1402900|emb|CAA66966.1| (X98322) peroxidase [Arabidopsis thal...   230  2e-59
+SEQ gi|7433065|pir||T07008 peroxidase (EC 1.11.1.7) precursor, defen...   230  3e-59
+SEQ gi|9931567|gb|AAG02215.1|AF291667_1 (AF291667) class III peroxid...   230  3e-59
+SEQ gi|2429286|gb|AAC49818.1| (AF014467) peroxidase [Oryza sativa]        229  3e-59
+SEQ gi|2429288|gb|AAC49819.1| (AF014468) peroxidase [Oryza sativa]        229  3e-59
+SEQ gi|4204759|gb|AAD11481.1| (U51191) peroxidase precursor [Glycine...   228  6e-59
+SEQ gi|4204761|gb|AAD11482.1| (U51192) peroxidase precursor [Glycine...   226  4e-58
+SEQ gi|9758333|dbj|BAB08889.1| (AB012243) peroxidase [Arabidopsis th...   225  6e-58
+SEQ gi|7433092|pir||D71429 hypothetical protein - Arabidopsis thalia...   224  1e-57
+SEQ gi|1389835|gb|AAB02926.1| (U59284) peroxidase [Linum usitatissimum]   224  1e-57
+SEQ gi|8901180|gb|AAF65464.2|AF247700_1 (AF247700) peroxidase POC1 [...   224  1e-57
+SEQ gi|478409|pir||JQ2252 peroxidase (EC 1.11.1.7), cationic - adzuk...   224  1e-57
+SEQ gi|2117617|pir||S61407 peroxidase (EC 1.11.1.7) 3 precursor - wh...   224  1e-57
+SEQ gi|730298|sp|Q05855|PER1_WHEAT PEROXIDASE PRECURSOR >gi|82612|pi...   223  2e-57
+SEQ gi|6091756|gb|AAF03466.1|AC009327_5 (AC009327) putative peroxida...   223  2e-57
+SEQ gi|7433067|pir||T02960 peroxidase (EC 1.11.1.7) isozyme 38K prec...   223  2e-57
+SEQ gi|7433066|pir||T02962 peroxidase (EC 1.11.1.7) isozyme 40K prec...   223  2e-57
+SEQ gi|1546692|emb|CAA67337.1| (X98805) peroxidase; peroxidase ATP19...   223  3e-57
+SEQ gi|7433054|pir||T13020 peroxidase (EC 1.11.1.7) ATP19a - Arabido...   223  3e-57
+SEQ gi|4760700|dbj|BAA77387.1| (AB024437) peroxidase 1 [Scutellaria ...   223  3e-57
+SEQ gi|12056452|emb|CAC21393.1| (AJ401276) peroxidase [Zea mays]          223  3e-57
+SEQ gi|1402910|emb|CAA66960.1| (X98316) peroxidase [Arabidopsis thal...   223  3e-57
+SEQ gi|7484677|pir||T09240 peroxidase (EC 1.11.1.7) prx11 precursor ...   222  3e-57
+SEQ gi|3411223|gb|AAC31551.1| (AF078872) peroxidase PXC6 precursor [...   222  4e-57
+SEQ gi|11255579|pir||T49953 prx10 peroxidase-like protein - Arabidop...   222  6e-57
+SEQ gi|585661|sp|P37834|PER1_ORYSA PEROXIDASE PRECURSOR >gi|7433074|...   221  6e-57
+SEQ gi|5002238|gb|AAD37376.1|AF145350_1 (AF145350) peroxidase [Glyci...   220  2e-56
+SEQ gi|13366004|dbj|BAB39281.1| (AP002971) putative peroxidase [Oryz...   218  8e-56
+SEQ gi|7433084|pir||T09161 probable peroxidase (EC 1.11.1.7) prxr1 -...   218  9e-56
+SEQ gi|8809683|dbj|BAA97224.1| (AB025623) peroxidase [Arabidopsis th...   217  1e-55
+SEQ gi|1402916|emb|CAA66963.1| (X98319) peroxidase [Arabidopsis thal...   217  2e-55
+SEQ gi|2388571|gb|AAB71452.1| (AC000098) Strong similarity to Arabid...   216  2e-55
+SEQ gi|2956707|emb|CAA76376.1| (Y16778) peroxidase [Spinacia oleracea]    216  3e-55
+SEQ gi|10241426|emb|CAC09347.1| (AL442007) putative peroxidase [Oryz...   216  3e-55
+SEQ gi|2429290|gb|AAC49820.1| (AF014469) peroxidase [Oryza sativa]        214  1e-54
+SEQ gi|7433093|pir||T05993 probable peroxidase (EC 1.11.1.7) F17M5.1...   213  2e-54
+SEQ gi|14031049|gb|AAK52084.1| (AY032674) peroxidase [Nicotiana taba...   212  6e-54
+SEQ gi|7259219|emb|CAA76374.2| (Y16776) peroxidase [Spinacia oleracea]    211  7e-54
+SEQ gi|4204765|gb|AAD11484.1| (U51194) peroxidase [Glycine max]           211  9e-54
+SEQ gi|7433052|pir||T04253 peroxidase homolog F20B18.90 - Arabidopsi...   211  1e-53
+SEQ gi|7453849|gb|AAF63024.1|AF244921_1 (AF244921) peroxidase prx12 ...   211  1e-53
+SEQ gi|7433064|pir||T07401 peroxidase (EC 1.11.1.7) TPX2 precursor -...   211  1e-53
+SEQ gi|82410|pir||S22505 peroxidase (EC 1.11.1.7) BP1 precursor - ba...   210  3e-53
+SEQ gi|4204763|gb|AAD11483.1| (U51193) peroxidase [Glycine max]           210  3e-53
+SEQ gi|520570|gb|AAA20473.1| (U12315) peroxidase [Cenchrus ciliaris]      210  3e-53
+SEQ gi|10176959|dbj|BAB10279.1| (AB008266) peroxidase ATP3a homolog ...   208  5e-53
+SEQ gi|678547|gb|AAA65637.1| (L13654) peroxidase [Lycopersicon escul...   208  6e-53
+SEQ gi|1084405|pir||S51584 peroxidase (EC 1.11.1.7) TPX1 precursor -...   208  9e-53
+SEQ gi|1546688|emb|CAA67334.1| (X98802) peroxidase; peroxidase ATP11...   206  2e-52
+SEQ gi|7433079|pir||T09218 peroxidase (EC 1.11.1.7) precursor prx10 ...   206  2e-52
+SEQ gi|2624498|pdb|1BGP|    Crystal Structure Of Barley Grain Peroxi...   206  3e-52
+SEQ gi|7433081|pir||T09163 probable peroxidase (EC 1.11.1.7) (clone ...   206  3e-52
+SEQ gi|7433082|pir||T09168 probable peroxidase (EC 1.11.1.7) (clone ...   205  6e-52
+SEQ gi|1086111|pir||S40268 peroxidase (EC 1.11.1.7) precursor - Spir...   205  7e-52
+SEQ gi|11255591|pir||T45849 peroxidase ATP21a - Arabidopsis thaliana...   205  8e-52
+SEQ gi|5002236|gb|AAD37375.1|AF145349_1 (AF145349) peroxidase [Glyci...   204  1e-51
+SEQ gi|1546694|emb|CAA67338.1| (X98806) peroxidase; peroxidase ATP20...   204  2e-51
+SEQ gi|1890313|emb|CAA72484.1| (Y11788) peroxidase ATP24a [Arabidops...   203  4e-51
+SEQ gi|7433075|pir||T04360 probable peroxidase (EC 1.11.1.-) 1 precu...   202  5e-51
+SEQ gi|3925233|gb|AAC79954.1| (AF037034) putative peroxidase P7X [Ze...   202  5e-51
+SEQ gi|4138647|emb|CAA09881.1| (AJ011939) peroxidase [Trifolium repens]   201  1e-50
+SEQ gi|1546698|emb|CAA67340.1| (X98808) peroxidase; peroxidase ATP3a...   200  2e-50
+SEQ gi|1402920|emb|CAA66965.1| (X98321) peroxidase [Arabidopsis thal...   200  2e-50
+SEQ gi|1546704|emb|CAA67360.1| (X98854) peroxidase ATP7a [Arabidopsi...   200  2e-50
+SEQ gi|7433077|pir||T04454 probable peroxidase (EC 1.11.1.7) precurs...   200  3e-50
+SEQ gi|7433073|pir||T04710 peroxidase (EC 1.11.1.7) F19F18.20 - Arab...   199  4e-50
+SEQ gi|13366000|dbj|BAB39277.1| (AP002971) putative peroxidase [Oryz...   199  4e-50
+SEQ gi|1620369|emb|CAA70034.1| (Y08781) peroxidase ATP22a [Arabidops...   199  5e-50
+SEQ gi|7433071|pir||T01626 peroxidase (EC 1.11.1.7) ATP22a - Arabido...   199  5e-50
+SEQ gi|11994644|dbj|BAB02839.1| (AB025634) peroxidase [Arabidopsis t...   198  6e-50
+SEQ gi|2829914|gb|AAC00622.1| (AC002291) putative peroxidase [Arabid...   198  8e-50
+SEQ gi|14485511|emb|CAC42086.1| (AJ401150) putative peroxidase [Sola...   197  1e-49
+SEQ gi|7433045|pir||T06778 peroxidase (EC 1.11.1.7), seed coat - soy...   196  3e-49
+SEQ gi|3928088|gb|AAC79614.1| (AC005770) putative peroxidase [Arabid...   195  8e-49
+SEQ gi|12056448|emb|CAC21391.1| (AJ401274) peroxidase [Zea mays]          195  9e-49
+SEQ gi|7433094|pir||T04256 peroxidase homolog F20B18.120 - Arabidops...   194  1e-48
+SEQ gi|9758231|dbj|BAB08730.1| (AB009056) peroxidase-like protein [A...   193  3e-48
+SEQ gi|7433099|pir||T14077 peroxidase (EC 1.11.1.7) ATP8a - Arabidop...   193  3e-48
+SEQ gi|6721554|dbj|BAA89584.1| (AP001073) ESTs D24550(R2151),D24265(...   193  3e-48
+SEQ gi|1546690|emb|CAA67335.1| (X98803) peroxidase; peroxidase ATP14...   192  5e-48
+SEQ gi|6979323|gb|AAF34416.1|AF172282_5 (AF172282) putative peroxida...   190  2e-47
+SEQ gi|2288998|gb|AAB64327.1| (AC002335) putative peroxidase [Arabid...   190  2e-47
+SEQ gi|7433086|pir||T09667 peroxidase (EC 1.11.1.7) pxdD precursor -...   190  2e-47
+SEQ gi|421984|pir||S34355 peroxidase (EC 1.11.1.7) BP-2B - barley >g...   190  2e-47
+SEQ gi|7433063|pir||T04709 peroxidase (EC 1.11.1.7) prxr2 - Arabidop...   189  4e-47
+SEQ gi|1546708|emb|CAA67362.1| (X98856) peroxidase ATP9a [Arabidopsi...   189  4e-47
+SEQ gi|2342726|gb|AAB67624.1| (AC002341) putative peroxidase [Arabid...   189  4e-47
+SEQ gi|2117624|pir||JC4782 peroxidase (EC 1.11.1.7) 2 precursor - al...   189  5e-47
+SEQ gi|7433070|pir||T02067 probable peroxidase (EC 1.11.1.7), cation...   188  6e-47
+SEQ gi|13992528|emb|CAC38106.1| (AJ306690) peroxidase2 [Medicago sat...   188  1e-46
+SEQ gi|7433091|pir||T09162 probable peroxidase (EC 1.11.1.7) prxr2 -...   188  1e-46
+SEQ gi|9757822|dbj|BAB08340.1| (AB007651) peroxidase ATP14a homolog ...   187  2e-46
+SEQ gi|1402902|emb|CAA66967.1| (X98323) peroxidase [Arabidopsis thal...   187  2e-46
+SEQ gi|13365997|dbj|BAB39274.1| (AP002971) putative peroxidase [Oryz...   185  6e-46
+SEQ gi|100603|pir||JC1249 peroxidase (EC 1.11.1.7) BP-2A precursor -...   185  9e-46
+SEQ gi|129807|sp|P15003|PER1_LYCES SUBERIZATION-ASSOCIATED ANIONIC P...   185  9e-46
+SEQ gi|8468043|dbj|BAA96643.1| (AP002482) Similar to Arabidopsis tha...   183  3e-45
+SEQ gi|7433051|pir||T05215 peroxidase homolog F17I5.60 - Arabidopsis...   181  1e-44
+SEQ gi|13366001|dbj|BAB39278.1| (AP002971) putative peroxidase [Oryz...   181  1e-44
+SEQ gi|5777628|emb|CAB53489.1| (AJ245900) CAA303716.1 protein [Oryza...   181  1e-44
+SEQ gi|129811|sp|P15004|PER2_LYCES SUBERIZATION-ASSOCIATED ANIONIC P...   181  1e-44
+SEQ gi|129836|sp|P12437|PERX_SOLTU SUBERIZATION-ASSOCIATED ANIONIC P...   181  1e-44
+SEQ gi|7433097|pir||H71446 probable peroxidase - Arabidopsis thalian...   179  4e-44
+SEQ gi|7433095|pir||T05094 peroxidase homolog F28M20.50 - Arabidopsi...   178  7e-44
+SEQ gi|4559371|gb|AAD23032.1|AC006585_27 (AC006585) putative peroxid...   177  2e-43
+SEQ gi|7433090|pir||T09169 probable peroxidase (EC 1.11.1.7) (clone ...   176  2e-43
+SEQ gi|12039355|gb|AAG46142.1|AC082644_24 (AC082644) putative peroxi...   176  2e-43
+SEQ gi|4926834|gb|AAD32944.1|AC004135_19 (AC004135) T17H7.19 [Arabid...   173  3e-42
+SEQ gi|9759442|dbj|BAB10239.1| (AB013394) peroxidase [Arabidopsis th...   172  4e-42
+SEQ gi|10177502|dbj|BAB10896.1| (AB010699) peroxidase ATP26a homolog...   172  5e-42
+SEQ gi|12039343|gb|AAG46130.1|AC082644_12 (AC082644) putative peroxi...   172  5e-42
+SEQ gi|12039346|gb|AAG46133.1|AC082644_15 (AC082644) putative peroxi...   172  6e-42
+SEQ gi|7433055|pir||T10946 peroxidase (EC 1.11.1.7), neutral - sweet...   171  1e-41
+SEQ gi|12039338|gb|AAG46125.1|AC082644_7 (AC082644) putative peroxid...   170  2e-41
+SEQ gi|11994582|dbj|BAB02637.1| (AP002056) peroxidase [Arabidopsis t...   169  5e-41
+SEQ gi|5777629|emb|CAB53490.1| (AJ245900) CAA303717.1 protein [Oryza...   167  1e-40
+SEQ gi|12039335|gb|AAG46122.1|AC082644_4 (AC082644) putative peroxid...   167  1e-40
+SEQ gi|12039354|gb|AAG46141.1|AC082644_23 (AC082644) putative peroxi...   167  1e-40
+SEQ gi|14334600|gb|AAK59478.1| (AY034973) putative peroxidase [Arabi...   166  2e-40
+SEQ gi|13365986|dbj|BAB39264.1| (AP002968) putative peroxidase isozy...   165  6e-40
+SEQ gi|13265527|gb|AAG40051.2|AF324700_1 (AF324700) AT3g49120 [Arabi...   164  9e-40
+SEQ gi|6002682|gb|AAF00093.1|AF109124_1 (AF109124) anionic peroxidas...   163  2e-39
+SEQ gi|8247318|emb|CAB92952.1| (AJ251254) peroxidase [Pinus pinaster]     163  2e-39
+SEQ gi|3925231|gb|AAC79953.1| (AF037033) anionic peroxidase H [Zea m...   163  4e-39
+SEQ gi|12039358|gb|AAG46145.1|AC082644_27 (AC082644) putative peroxi...   162  6e-39
+SEQ gi|8778251|gb|AAF79260.1|AC023279_9 (AC023279) F12K21.18 [Arabid...   162  7e-39
+SEQ gi|5777624|emb|CAB53485.1| (AJ245900) CAA303712.1 protein [Oryza...   161  1e-38
+SEQ gi|7433072|pir||T00640 peroxidase homolog F3I6.3 - Arabidopsis t...   161  1e-38
+SEQ gi|4927284|gb|AAD33072.1|AF149251_1 (AF149251) secretory peroxid...   161  2e-38
+SEQ gi|12056450|emb|CAC21392.1| (AJ401275) peroxidase [Zea mays]          161  2e-38
+SEQ gi|7433062|pir||T10945 peroxidase (EC 1.11.1.7), anionic - sweet...   160  2e-38
+SEQ gi|10241560|emb|CAB71128.2| (AJ271660) cationic peroxidase [Cice...   159  6e-38
+SEQ gi|5002234|gb|AAD37374.1|AF145348_1 (AF145348) peroxidase [Glyci...   157  1e-37
+SEQ gi|10697182|dbj|BAB16317.1| (AB049589) secretory peroxidase [Avi...   157  2e-37
+SEQ gi|4375832|emb|CAA07353.1| (AJ006961) peroxidase [Arabidopsis th...   157  2e-37
+SEQ gi|7433098|pir||T06227 peroxidase (EC 1.11.1.7) 2, cationic - so...   156  2e-37
+SEQ gi|1890317|emb|CAA72487.1| (Y11791) peroxidase ATP26a [Arabidops...   156  4e-37
+SEQ gi|1890319|emb|CAA72488.1| (Y11792) peroxidase ATP27a [Arabidops...   154  1e-36
+SEQ gi|14029184|gb|AAK51153.1| (AY033386) peroxidase [Manihot escule...   154  1e-36
+SEQ gi|7433087|pir||T10790 peroxidase (EC 1.11.1.7) - upland cotton ...   153  3e-36
+SEQ gi|5777625|emb|CAB53486.1| (AJ245900) CAA303713.1 protein [Oryza...   152  5e-36
+SEQ gi|5777627|emb|CAB53488.1| (AJ245900) CAA303715.1 protein [Oryza...   151  8e-36
+SEQ gi|1402904|emb|CAA66957.1| (X98313) peroxidase [Arabidopsis thal...   150  2e-35
+SEQ gi|7433096|pir||T05478 peroxidase (EC 1.11.1.7) prxr1 - Arabidop...   150  2e-35
+SEQ gi|1403136|emb|CAA66862.1| (X98189) peroxidase ATP1a [Arabidopsi...   150  3e-35
+SEQ gi|8468044|dbj|BAA96644.1| (AP002482) Similar to Oryza sativa pe...   149  3e-35
+SEQ gi|5002334|gb|AAD37423.1|AF149281_1 (AF149281) peroxidase 6 [Pha...   144  1e-33
+SEQ gi|6002684|gb|AAF00094.1|AF109123_1 (AF109123) anionic peroxidas...   143  3e-33
+SEQ gi|945083|gb|AAC49362.1| (U31095) P17 [Petunia x hybrida]             143  3e-33
+SEQ gi|12323863|gb|AAG51904.1|AC023913_12 (AC023913) peroxidase, put...   140  2e-32
+SEQ gi|7670031|dbj|BAA94985.1| (AB026636) peroxidase-like protein [A...   138  9e-32
+SEQ gi|9909169|dbj|BAB12028.1| (AP002820) putative peroxidase [Oryza...   138  1e-31
+SEQ gi|9909174|dbj|BAB12033.1| (AP002820) putative peroxidase [Oryza...   136  3e-31
+SEQ gi|5091615|gb|AAD39603.1|AC007454_2 (AC007454) Similar to gb|X98...   134  1e-30
+SEQ gi|1403138|emb|CAA66863.1| (X98190) peroxidase ATP2a [Arabidopsi...   133  2e-30
+SEQ gi|1402912|emb|CAA66961.1| (X98317) peroxidase [Arabidopsis thal...   133  3e-30
+SEQ gi|10241684|emb|CAC09521.1| (AL442115) probable peroxidase [Oryz...   131  1e-29
+SEQ gi|4375831|emb|CAA07352.1| (AJ006960) peroxidase [Arabidopsis th...   129  3e-29
+SEQ gi|12044293|gb|AAG47783.1| (AF311351) peroxidase isozyme [Gossyp...   124  1e-27
+SEQ gi|129835|sp|P16147|PERX_LUPPO PEROXIDASE >gi|81844|pir||S26672 ...   119  3e-26
+SEQ gi|1890323|emb|CAA72490.1| (Y11794) peroxidase ATP29a [Arabidops...   117  2e-25
+SEQ gi|10086421|gb|AAG12487.1|AC037197_12 (AC037197) Putative peroxi...   116  3e-25
+SEQ gi|9909171|dbj|BAB12030.1| (AP002820) putative peroxidase [Oryza...   110  2e-23
+SEQ gi|9909173|dbj|BAB12032.1| (AP002820) putative peroxidase [Oryza...   109  5e-23
+SEQ gi|3643121|gb|AAC36707.1| (AF078691) peroxidase [Manihot esculenta]   104  2e-21
+SEQ gi|3789723|gb|AAC67489.1| (AF019116) peroxidase [Glycine max]         101  9e-21
+SEQ gi|82409|pir||S14611 peroxidase (EC 1.11.1.7) - barley (fragment)     101  1e-20
+SEQ gi|538502|gb|AAA96137.1| (L36231) peroxidase [Stylosanthes humilis]   101  1e-20
+SEQ gi|1890311|emb|CAA72485.1| (Y11789) peroxidase ATP23b [Arabidops...    95  9e-19
+SEQ gi|3986703|gb|AAC84140.1| (AF101427) peroxidase [Cichorium intybus]    93  6e-18
+SEQ gi|7433059|pir||T10261 probable peroxidase (EC 1.11.1.-), acidic...    89  7e-17
+SEQ gi|19075|emb|CAA37464.1| (X53384) peroxidase [Hordeum vulgare]         89  7e-17
+SEQ gi|1890315|emb|CAA72486.1| (Y11790) peroxidase ATP25a [Arabidops...    89  9e-17
+SEQ gi|464361|sp|Q01548|PER2_HORVU PEROXIDASE 2 >gi|82408|pir||S1806...    88  1e-16
+SEQ gi|8656007|gb|AAF78280.1|AC020576_24 (AC020576) Contains similar...    79  7e-14
+SEQ gi|129838|sp|P15984|PERX_WHEAT PEROXIDASE >gi|82611|pir||S04862 ...    75  1e-12
+SEQ gi|1890321|emb|CAA72489.1| (Y11793) peroxidase ATP28a [Arabidops...    72  1e-11
+SEQ gi|7484646|pir||T14543 peroxidase (EC 1.11.1.7), cell wall - bee...    71  2e-11
+SEQ gi|11357999|pir||T47315 hypothetical protein T12K4.20 - Arabidop...    64  3e-09
+SEQ gi|2429294|gb|AAC49822.1| (AF014471) peroxidase [Oryza sativa]         63  5e-09
+SEQ gi|7484619|pir||T12338 L-ascorbate peroxidase (EC 1.11.1.11) - c...    62  8e-09
+SEQ gi|7484620|pir||T12389 L-ascorbate peroxidase (EC 1.11.1.11) - c...    62  9e-09
+SEQ gi|2956705|emb|CAA76377.1| (Y16779) peroxidase [Spinacia oleracea]     58  1e-07
+SEQ gi|2129481|pir||S66265 L-ascorbate peroxidase (EC 1.11.1.11) - s...    52  1e-05
+SEQ gi|1419390|emb|CAA67426.1| (X98926) thylakoid-bound ascorbate pe...    52  1e-05
+SEQ gi|12323379|gb|AAG51660.1|AC010704_4 (AC010704) thylakoid-bound ...    51  2e-05
+SEQ gi|7433076|pir||T04366 probable peroxidase (EC 1.11.1.7), cation...    46  8e-04
+SEQ gi|7433083|pir||T09231 probable peroxidase (EC 1.11.1.7) precurs...    46  9e-04
+SEQ 
+## SEQUENCE PROFILE AND ENTROPY
+ SeqNo PDBNo   V   L   I   M   F   W   Y   G   A   P   S   T   C   H   R   K   Q   E   N   D  NOCC NDEL NINS ENTROPY RELENT WEIGHT
+    1    1     0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   3  91   5   0   0     0    0    0   0.377     12  0.00
+    2    2     0  99   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.073      2  0.00
+    3    3     0   0   0   1   3   0   2   0   2   0  45  16   0   0   8   7   7   2   2   5     0    0    0   1.864     62  0.00
+    4    4     8   6   0   6   4   4   3   0  10  35   6   7   0   0   4   1   0   2   0   2     0    0    0   2.289     76  0.00
+    5    5     0   0   0   0   0   0   0  16   1   0   5  29   0   3   1   2   4   1  21  15     0    0    0   1.901     63  0.00
+    6    6     0   1   2   0  79   0  14   0   0   0   0   0   1   2   0   0   0   0   0   0     0    0    0   0.726     24  0.00
+    7    7     0   0   0   0   0   0  97   0   1   0   0   0   0   1   0   0   0   0   0   0     0    0    0   0.171      5  0.00
+    8    8     0   0   0   0   1   0   0   1  18   0  18   0   0   3   6   7   4   2   4  33     0    0    0   1.996     66  0.00
+    9    9     0   1   0   0   1   0   3   6   2   0  13  16   1   2   5  17   8   9  11   5     0    0    0   2.425     80  0.00
+   10   10     0   0   3   0   0   0   0   0   2   0  51  36   1   0   1   5   0   0   1   1     0    0    0   1.213     40  0.00
+   11   11     0   0   0   0   0   0   0   0   1   0   0   0  99   0   0   0   0   0   0   0     0    0    0   0.065      2  0.00
+   12   12     0   0   0   0   0   0   0   0   1  93   2   0   0   0   1   0   1   0   0   0     0    0    0   0.420     14  0.00
+   13   13     0   1   0   0   1   0   1   3   0   1   7   3   0   1  11   9  15   1  38   4     0    0    0   2.036     67  0.00
+   14   14    36  14   0   0   2   0   0   0  47   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.130     37  0.00
+   15   15     2  14   1   1   5   0   3   0   0   1  10   3   0   2   0   1   5  47   2   4     0    0    0   1.882     62  0.00
+   16   16     0   1   0   0   3   0   1   2  11   1  27  10   0   1   3   6   8   7  10   9     0    0    0   2.329     77  0.00
+   17   17     6   3  76   0   1   0   0   0   1   0   0  12   0   0   0   1   0   0   0   0     0    0    0   0.884     29  0.00
+   18   18    69   1  29   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.706     23  0.00
+   19   19     1   2   0   1   1   1   1   2   2   0   5   2   0   0  52  22   6   2   0   0     0    0    0   1.627     54  0.00
+   20   20     0   0   0   0   0   2   0   7   2   0  27   4   0   1   4   8   8  11  13  12     0    0    0   2.218     74  0.00
+   21   21    27   1   4   0   4   0   1   6  15   0   5  15   0   6   2   0   6   6   0   1     0    0    0   2.263     75  0.00
+   22   22    63   9  20   6   0   0   0   0   0   0   0   2   0   0   0   0   0   0   0   0     0    0    0   1.077     35  0.00
+   23   23     9   1   1   2   2   3   2   2  12   0   2  11   0   2  11  12  15   7   4   3     0    0    0   2.543     84  0.00
+   24   24     2   3   2   0   0   0   0   1  15   0  10   3   1   0   3  14  16   8  14   7     0    0    0   2.346     78  0.00
+   25   25     6   5   1   0   2   0   1   1  52   0   0   3   0   8   2   9   2   7   0   0     0    0    0   1.808     60  0.00
+   26   26    25  21  16   3  16   0   6   0   2   0   5   2   0   1   0   0   3   0   0   0     0    0    0   2.025     67  0.00
+   27   27     3   3   4   1   1   0   2   1   9   2  11   2   0   2  15  17  12   2   7   4     0    0    0   2.527     84  0.00
+   28   28     1   1   0   0   1   0   0   0   9   0  26   9   0   2  15  13   9   2  10   1     0    0    0   2.180     72  0.00
+   29   29     1   0   0   0   0   0   0   1   5   0   1   6   0   4   0   1   2  24   6  49     0    0    0   1.580     52  0.00
+   30   30     3   1   8   2   6   0   0   1   7  42   6   6   0   0   7   6   3   0   1   1     0    0    0   2.072     69  0.00
+   31   31     3   0   0   0   0   0   0  11   3   0   9  13   0   0  53   2   0   0   6   0     0    0    0   1.549     51  0.00
+   32   32     9  12  25  29   0   0   0   0   3   0   1  12   1   0   0   1   3   0   3   0     0    0    0   1.908     63  0.00
+   33   33     3   3   2   0   0   0   0  31  51   5   1   2   0   1   0   0   0   0   0   1     0    0    0   1.369     45  0.00
+   34   34     1   0   0   0   3   0   0   4  75  15   0   0   0   0   0   1   0   0   0   0     0    0    0   0.876     29  0.00
+   35   35     1   0   2   0   0   0   0  17  17   4  50   0   0   0   2   6   0   0   0   0     0    0    0   1.495     49  0.00
+   36   36     2  68  17   1   1   4   0   0   1   0   0   6   0   0   0   0   0   0   0   0     0    0    0   1.082     36  0.00
+   37   37     7  63  27   2   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0     0    0    0   0.986     32  0.00
+   38   38     0   0   0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0     0    0    0   0.022      0  0.00
+   39   39     1  73   4  17   1   0   0   0   0   0   0   0   0   0   0   0   0   0   4   0     0    0    0   0.888     29  0.00
+   40   40     1   6   4   0  17   0   2   1   1   0   1   0   0  64   0   0   4   0   0   0     0    0    0   1.253     41  0.00
+   41   41     0   0   0   0  97   1   2   0   0   0   0   0   0   0   0   0   0   0   1   0     0    0    0   0.161      5  0.00
+   42   42     0   0   0   0   0   0   0   0   0   0   1   0   0  99   0   0   0   0   0   0     0    0    0   0.061      2  0.00
+   43   43     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100     0    0    0   0.000      0  0.00
+   44   44     0   0   0   0   0   0   0   0   2   0   0   0  98   0   0   0   0   0   0   0     0    0    0   0.105      3  0.00
+   45   45     1   1   0   1  93   0   0   1   3   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.389     13  0.00
+   46   46    91   1   1   0   0   0   0   0   1   4   1   0   0   0   1   0   0   0   0   0     0    0    0   0.444     14  0.00
+   47   47     0   1   0   0   0   0   0   1   0   0   1   0   0   2  16   5  30   8  29   5     0    0    0   1.820     60  0.00
+   48   48     0   0   0   0   0   0   0  95   1   0   4   0   0   0   0   0   0   0   0   0     0    0    0   0.222      7  0.00
+   49   49     1   0   0   0   0   0   0   0   1   0   0   0  97   0   0   0   0   0   0   0     0    0    0   0.157      5  0.00
+   50   50     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   1  97     0    0    0   0.193      6  0.00
+   51   51     0   0   0   0   0   0   0  38  61   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.742     24  0.00
+   52   52     0   0   0   0   0   0   0   3   0   0  96   1   0   0   0   0   0   0   0   0     0    0    0   0.212      7  0.00
+   53   53    46  18  36   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0     0    0    0   1.083     36  0.00
+   54   54     0  92   1   3   1   0   1   0   0   0   0   0   0   0   1   0   0   0   0   0     0    0    0   0.409     13  0.00
+   55   55     4  79  16   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.674     22  0.00
+   56   56     1   0   0   0   0   0   0   2   6   1  10   3   0   1   1   2   2   6  11  56     0    0    0   1.579     52  0.00
+   57   57     0   0   0   0   0   0   0  34   3   2  21   3   0   0   0   2   0   1  18  15     0    0    0   1.763     58  0.00
+   58   58     2   0   5   2   1   0   0   3   7   6  19  44   0   0   0   2   1   1   5   2     0    0    0   1.930     64  0.00
+   59   59     1   0   1   0   0   0   0   8   8   6  12  14   0   1   5   4   7   7  13  12     0    0    0   2.439     81  0.00
+   60   60     0   0   0   0   1   0   0   6  16   3  50  14   0   0   2   0   2   1   5   2     0    0    0   1.656     55  0.00
+   61   61     0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   1   1  95   1   0     0    0    0   0.271      9  0.00
+   62   62     0   4   0   0   0   0   0   0   0   0   0   0   0   0  12  61  19   1   0   1     0    0    0   1.168     38  0.00
+   63   63     1   8   0   1   3   0   0   6   1   0   5  14   0   1   3   3   4   7  16  28     0    0    0   2.256     75  0.00
+   64   64     1   1   0   1   0   0   0   4  66   1  14   3   0   4   0   0   1   4   1   0     0    0    0   1.303     43  0.00
+   65   65     2  10   8   0   9   0   0  14  14  22   3   1   0   0   2   2   1   3   5   4     0    0    0   2.353     78  0.00
+   66   66     1   0   2   0   0   0   0  11   7  67   1   0   0   0   3   0   1   3   1   4     0    0    0   1.273     42  0.00
+   67   67     0   0   0   0   0   0   0   1   1   0   3   0   0   2   1   1   1   1  88   1     0    0    0   0.621     20  0.00
+   68   68     8  25   7   2   5   0   0   1  16   0   3   0   0   0   6   7   2   0  17   2     0    0    0   2.220     74  0.00
+   69   69     0   1   0   0   0   0   0  13   2   6   9   9   0   0   4   3   2   0  48   2     0    0    0   1.802     60  0.00
+   70   70     0   6   2   0   0   0   0   9   1   2  64   6   0   0   7   0   1   1   1   0     0    0    0   1.361     45  0.00
+   71   71    19  32   7   2   0   0   0   3  27   4   1   1   0   0   0   1   1   0   0   0     0    0    0   1.778     59  0.00
+   72   72     1   0   0   0   0   0   0   5   0   0   2   1   0   2  71   4   3   3   1   8     0    0    0   1.194     39  0.00
+   73   73     0   0   0   0   0   0   0  83  11   0   1   0   0   0   0   0   0   0   4   0     0    0    0   0.622     20  0.00
+   74   74     0  10   1   1  78   0   9   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.779     25  0.00
+   75   75     2   0   0   0   0   0   3   8   1   5   3   0   0   0   4   6   3  32   5  28     0    0    0   1.978     66  0.00
+   76   76    64   8  12   0   5   0   4   0   2   0   1   5   0   0   0   0   0   0   0   0     0    0    0   1.286     42  0.00
+   77   77    30   1  68   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.705     23  0.00
+   78   78     2   0   5   0   0   0   0   1   2   0   0   1   0   0   0   1   1  15   8  65     0    0    0   1.242     41  0.00
+   79   79     0   0   1   0   0   0   1   1  14   1   7   7   0   0  15   9   7  10  10  19     0    0    0   2.284     76  0.00
+   80   80     6   3  53  10   0   0   0   0  27   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.237     41  0.00
+   81   81     0   0   0   0   0   0   0   0   0   0   0   0   0   0   7  92   0   0   0   0     0    0    0   0.297      9  0.00
+   82   82     1   0   0   0   0   0   1   0  35   0  12  21   0   1   6   4   5   7   1   4     0    0    0   1.983     66  0.00
+   83   83     1   8   1   0   0   0   0   0  47   0   3   0   0   1   5   6  15   5   3   4     0    0    0   1.821     60  0.00
+   84   84    47  44   7   0   0   0   1   0   1   0   0   0   0   1   0   0   0   0   0   0     0    0    0   1.013     33  0.00
+   85   85     0   0   1   0   0   0   0   0   0   1   0   0   0   4   0   1   1  85   0   5     0    0    0   0.694     23  0.00
+   86   86     1   3   2   0   0   0   0   2  25   0  14   3   0   1  12  17   3   3  12   2     0    0    0   2.178     72  0.00
+   87   87    17   3   6   0   1   0   0   0  36   0   8   1   0   1   3   5   3  14   1   0     0    0    0   2.052     68  0.00
+   88   88     0   0   0   0   0   0   0   0   0   0   0   0  99   0   0   0   0   0   0   0     0    0    0   0.087      2  0.00
+   89   89     0   0   0   0   0   0   0   6   2  76   2   1   0   1   5   5   0   0   2   1     0    0    0   1.034     34  0.00
+   90   90     0   1   0   0   0   0   0  46   5   2   3   1   0   2  12   3   9   3  12   2     0    0    0   1.858     62  0.00
+   91   91    43   1   8   0   0   0   0   0   0   0   0  40   0   0   1   6   1   0   0   0     0    0    0   1.285     42  0.00
+   92   92    98   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.090      3  0.00
+   93   93     0   0   0   0   0   0   0   0   0   0  99   1   0   0   0   0   0   0   0   0     0    0    0   0.082      2  0.00
+   94   94     0   0   0   0   0   0   2   0   0   0   0   0  98   0   0   0   0   0   0   0     0    0    0   0.125      4  0.00
+   95   95     1   0   0   0   0   0   0   0  88   0  11   1   0   0   0   0   0   0   0   0     0    0    0   0.454     15  0.00
+   96   96     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  99     0    0    0   0.043      1  0.00
+   97   97     6   6  86   2   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.584     19  0.00
+   98   98    15  69   9   0   1   0   1   0   0   0   1   3   0   0   0   0   0   0   0   0     0    0    0   1.018     33  0.00
+   99   99     6   0   2   0   0   0   0   0  64   1   2  23   0   0   0   0   2   0   1   0     0    0    0   1.091     36  0.00
+  100  100    13  54  21   3   6   0   1   0   0   0   0   0   0   0   0   0   1   0   0   0     0    0    0   1.342     44  0.00
+  101  101     4   0   0   0   0   0   0   2  86   0   6   3   0   0   0   0   0   0   0   0     0    0    0   0.613     20  0.00
+  102  102     1   0   0   0   0   0   0   2  75   0   9  13   0   0   0   0   0   0   0   0     0    0    0   0.829     27  0.00
+  103  103     1   0   0   0   0   0   0   1   1   0   0   0   0   0  76   3   8  10   0   0     0    0    0   0.902     30  0.00
+  104  104     1   1   6   0   0   0   2   1   3   0   1   1   0   0   0   0   6   7   1  70     0    0    0   1.270     42  0.00
+  105  105     7   3   0   0   1   0   0  11  24   0  53   2   0   0   0   0   0   0   0   0     0    0    0   1.324     44  0.00
+  106  106    67   2  13   1   2   0   0   0   1   0   7   5   1   0   0   0   0   0   0   0     0    0    0   1.208     40  0.00
+  107  107    43   6   2   0   5   1   2   1   9   0   6   8   1   3   1   0   1   5   6   2     0    0    0   2.121     70  0.00
+  108  108     4  50   5   3   4   0   2   0  20   0   3   2   0   0   0   3   2   1   0   0     0    0    0   1.699     56  0.00
+  109  109     9  19   2   1   1   0   0   2  27   0  20  16   0   0   1   0   1   0   1   0     0    0    0   1.942     64  0.00
+  110  110     0   0   0   0   1   0   0  82   0   0   3   1   0   0   2   3   3   1   3   1     0    0    0   0.857     28  0.00
+  111  111     0   0   0   0   0   0   0  93   1   0   2   0   0   0   2   1   0   0   1   0     0    0    0   0.383     12  0.00
+  112  112     2   2   0   0   0   0   0   1   2  83   1   1   0   0   2   2   4   0   0   0     0    0    0   0.864     28  0.00
+  113  113     2   1   0   0   6   4  10   5   2   0  35  10   1   2   3   2   2   1   7   7     0    0    0   2.283     76  0.00
+  114  114     2   1   6   0   6  59  25   0   0   0   0   1   0   0   0   0   0   0   0   0     0    0    0   1.170     39  0.00
+  115  115     1   0   0   1   0   0   0   0   5  12   6  16   1   0   9   5  10  11   9  13     0    0    0   2.376     79  0.00
+  116  116    86   6   5   2   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.618     20  0.00
+  117  117     1  13   0   0   2   0   0   0   4  53   2   2   0   0   2  12   1   7   0   0     0    0    0   1.617     53  0.00
+  118  118     3  61   1   1   2   0   1   0   3   1   3  20   0   0   0   4   0   0   1   0     0    0    0   1.339     44  0.00
+  119  119     0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+  120  120     0   0   0   0   0   0   0   0   0   0   0   0   0   0  98   0   1   0   0   0     0    0    0   0.098      3  0.00
+  121  121     1   8   0   0   3   1   0   0   0   0   1   0   0   0  75  11   0   0   0   0     0    0    0   0.946     31  0.00
+  122  122     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100     0    0    0   0.000      0  0.00
+  123  123     1   0   0   0   0   0   0  46   7   0  45   1   0   0   1   0   0   0   0   0     0    0    0   1.006     33  0.00
+  124  124     4  35   2   0   4   0   0   0   1   0   0  16   0   0  29   5   0   0   2   1     0    0    0   1.748     58  0.00
+  125  125    21   1  11   0   1   0   1   3   8   0   4  33   0   1   5   3   5   2   0   2     0    0    0   2.098     70  0.00
+  126  126     0   0   0   0   1   0   0   2  53   1  39   3   0   0   0   0   0   0   0   0     0    0    0   1.011     33  0.00
+  127  127     0   4   1   1   9   0   1   0   2   1  25   5   0   0   8   5   2   1  33   3     0    0    0   2.056     68  0.00
+  128  128     3  16   1   3   5   0   0   1  21   1   8   2   0   0  10   6  13   6   1   3     0    0    0   2.407     80  0.00
+  129  129     1   1   0   1   1   0   0   3  15   1  29  13   0   1   1   1   2   4   9  17     0    0    0   2.104     70  0.00
+  130  130     5  20   1   1   0   0   0  15  17   0   8   5   0   0   3   2   2  11   2   8     0    0    0   2.293     76  0.00
+  131  131    17   8   1   1   0   0   0   3  55   1   3   6   0   0   1   0   1   2   1   1     0    0    0   1.592     53  0.00
+  132  132     2   2   0   0   1   0   0   5   3   1   7   4   0   1   2   1   4   5  53  10     0    0    0   1.810     60  0.00
+  133  133     1   1   1   0   2   0   0   2   3   0   9   4   0   1   1   4   7   3  43  20     0    0    0   1.886     62  0.00
+  134  134     1  77  20   1   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0     0    0    0   0.686     22  0.00
+  135  135     2   1   0   0   0   0   0   0   1  96   0   0   0   0   0   0   0   0   0   0     0    0    0   0.194      6  0.00
+  136  136     0   2   0   0   0   0   0  14  28  18  19   2   0   1   1   1   3   2   3   6     0    0    0   2.025     67  0.00
+  137  137     1   0   1   0   4   0   0   1   3  84   2   0   0   4   0   0   0   0   0   0     0    0    0   0.738     24  0.00
+  138  138     0   1   2   0  35   0   0   3   1   1  17  20   0   0   3   3   1   1  14   1     0    0    0   1.865     62  0.00
+  139  139     0   3   2   3  25   0   0   1   7   0  23   2   0   0   1   0   1  15   5  13     0    0    0   2.074     69  0.00
+  140  140     0   1   0   0   0   0   0   3   1   6  26  24   0   0   0   1   1   0  30   7     0    0    0   1.723     57  0.00
+  141  141    20  47  12   1   9   0   0   0   7   0   0   2   0   0   2   0   0   0   0   0     0    0    0   1.578     52  0.00
+  142  142     1   0   0   0   0   0   0   3  12   8  22  16   0   0   2   2   6   3   8  18     0    0    0   2.180     72  0.00
+  143  143    11   1   2   0   0   0   0   3   5   1   6  15   0   3   4   4  27   8   8   4     0    0    0   2.338     78  0.00
+  144  144     4  68  13   4   0   0   0   0   1   0   1   2   0   0   0   0   6   0   0   0     0    0    0   1.182     39  0.00
+  145  145     5  16  28   0   0   0   0   0   2   0   2   9   0   0   6  17   7   2   4   0     0    0    0   2.106     70  0.00
+  146  146     0   2   1   0   1   0   0   4  18   2  18  14   0   0   4   4  13   5   2  12     0    0    0   2.279     76  0.00
+  147  147     2  15   3   3   1   0   1   1  13   0  18   3   0   0   6  22   4   0   7   1     0    0    0   2.250     75  0.00
+  148  148     0   3   0   0  96   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.223      7  0.00
+  149  149     2   2   0   0   0   0   2   6  35   0  15   7   0   0   6  12   3   2   5   3     0    0    0   2.123     70  0.00
+  150  150     3   1   0   0   1   0   0   0  20   0  13   5   0   0  10   8   3   2  24   9     0    0    0   2.173     72  0.00
+  151  151    19   5   2   3   1   0   0   0   0   0   1   0   0   2   8  41  13   0   5   0     0    0    0   1.830     61  0.00
+  152  152     0   0   0   0   0   0   0  81   0   0   3   0   0   0   1   2   0   1  11   1     0    0    0   0.742     24  0.00
+  153  153     0  82   4   4  10   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.658     21  0.00
+  154  154     0   1   0   0   0   0   0   1   0   0  18  14   0   0   0   0   0   1  33  31     0    0    0   1.480     49  0.00
+  155  155    14  14   6   1   0   0   0   1  14   7   4  23   0   0   1   2   5   3   3   3     0    0    0   2.309     77  0.00
+  156  156     5   2   1   0   1   0   0   0   3   3  10  29   0   1  10  14   5  10   6   2     0    0    0   2.272     75  0.00
+  157  157     0   0   0   0   0   0   0   3   1   0   0   0   0   0   0   0   1  12   1  82     0    0    0   0.679     22  0.00
+  158  158     9  55   2  31   0   0   0   0   1   0   1   1   0   0   0   0   0   0   0   0     0    0    0   1.139     38  0.00
+  159  159    91   0   6   0   0   0   0   0   0   0   0   2   0   0   0   0   0   0   0   0     0    0    0   0.388     12  0.00
+  160  160    14   7   2   0   0   0   0   0  65   0   3  10   0   0   0   0   0   0   0   0     0    0    0   1.132     37  0.00
+  161  161     0  98   2   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.103      3  0.00
+  162  162     3   9   0   1   0   0   0   2   2   0  82   0   0   0   0   0   0   0   0   0     0    0    0   0.743     24  0.00
+  163  163     0   0   0   0   0   0   0  97   2   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.170      5  0.00
+  164  164     0   0   0   0   0   0   0  26  65   0   8   0   0   0   0   0   0   0   0   0     0    0    0   0.874     29  0.00
+  165  165     0   0   0   0   0   0   0   0   0   0   0   0   0  99   0   0   0   0   0   0     0    0    0   0.043      1  0.00
+  166  166     0   0   0   0   0   0   0   0   0   0   9  91   0   0   0   0   0   0   0   0     0    0    0   0.338     11  0.00
+  167  167    14   8  55   1  21   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0     0    0    0   1.231     41  0.00
+  168  168     0   0   0   0   0   0   0  99   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.043      1  0.00
+  169  169     9   4   5   2  15   0   0   0   1   0   1   5   0   0  27  10  17   0   3   2     0    0    0   2.155     71  0.00
+  170  170     1   0   0   0   0   0   0   6  53   0  27   8   0   0   0   0   0   0   5   0     0    0    0   1.251     41  0.00
+  171  171     0   0   0   0   1   0   0   1   3   0   2   0   0  39  25   3  23   1   1   1     0    0    0   1.554     51  0.00
+  172  172     0   0   0   0   0   0   0   0   0   1   1   0  98   0   0   0   0   0   0   0     0    0    0   0.100      3  0.00
+  173  173     9   2   1   1   5   0   0  10   5   4  26  14   0   0   7   3   8   0   4   2     0    0    0   2.362     78  0.00
+  174  174     5   8   0   0  17   0   1   2   3   0  28  16   0   0   1   7   1   2   9   0     0    0    0   2.129     71  0.00
+  175  175     7   7   9   2  74   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.925     30  0.00
+  176  176     9   2   2   6   3   0   0   1   1   1  20   8   2   0  23   6   3   4   6   3     0    0    0   2.404     80  0.00
+  177  177     0   1   0   0   3   0   1   6   5   3   7   6   0   5   2   3   7   3  20  28     0    0    0   2.288     76  0.00
+  178  178     0   0   0   0   0   0   0   0   0   0   1   0   0   2  95   0   0   0   0   1     0    0    0   0.269      8  0.00
+  179  179     4  66  25   0   2   0   0   0   1   0   0   0   0   0   1   0   0   0   0   0     0    0    0   0.973     32  0.00
+  180  180     1   1   0   0  18   1  66   1   2   0   3   1   0   3   0   0   1   0   2   0     0    0    0   1.229     41  0.00
+  181  181     0   0   0   0   0   0   0   3   0  11   1   3   0   0   1   1   2   1  71   5     0    0    0   1.162     38  0.00
+  182  182     2   2   1   0  63   0   2   0   0   1   1   3   0   0   2   0   7   6   5   2     0    0    0   1.544     51  0.00
+  183  183     1   0   0   0   0   0   0   2   0   1  37  25   0   0   1   3   3   0  20   4     0    0    0   1.744     58  0.00
+  184  184     1   1   0   0   0   0   0  44   4   6  10   7   0   0   1   3   1   1  19   0     0    0    0   1.824     60  0.00
+  185  185     4   0   2   0   2   1   0   2  10   1  11  41   0   0   2   8   3   1   8   4     0    0    0   2.098     70  0.00
+  186  186     3   2   1   0   0   0   1  52   4   1   5   8   0   4   1   1   2   0  12   2     0    0    0   1.841     61  0.00
+  187  187     0   8   1   1   0   0   0   6   8   4   8   6   0   0   6   8   4   5  26   9     0    0    0   2.399     80  0.00
+  188  188    12   1  11   0   0   0   0   1   7  48   3   2   0   0   0   2   9   1   1   1     0    0    0   1.796     59  0.00
+  189  189     0   0   0   0   1   0   0   1   2   2   1   0   0   0   2   1   0   5   3  81     0    0    0   0.899     30  0.00
+  190  190     0   1   0   1   2   0   0   2  10  55  10  11   0   1   1   1   2   1   0   1     0    0    0   1.649     55  0.00
+  191  191     1   1   1   0   0   0   0   2   8   1  20  44   0   0   0   2   2   2  11   5     0    0    0   1.792     59  0.00
+  192  192     4  50  24  12   7   0   2   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.389     46  0.00
+  193  193     0   0   0   0   0   0   0   0  10   0   8   1   0   0   2   0   1   6  34  38     0    0    0   1.545     51  0.00
+  194  194     0   2   1   0   0   0   1   2  12  28  13  21   1   0   2   9   6   1   1   0     0    0    0   2.092     69  0.00
+  195  195     2   1   1   0   1   0   1   5  12   2  20  33   0   0   2   4   3   6   3   4     0    0    0   2.156     71  0.00
+  196  196     0  19   0   1  29   0  42   1   0   0   0   0   1   2   2   0   0   0   0   0     0    0    0   1.449     48  0.00
+  197  197    11  29   1   0   1   0   1   0  42   1   2   0   0   0   8   3   1   0   0   0     0    0    0   1.602     53  0.00
+  198  198     3   2   0   0   1   0   0   3  27   7  16   8   0   0   2   6  13   4   4   2     0    0    0   2.295     76  0.00
+  199  199     2   6   1   1   2   0   1   2   3   0  10  20   0   3   4   7  13   8  17   1     0    0    0   2.401     80  0.00
+  200  200     0  84   2   3   0   0   0   0   0   0   1   0   4   0   6   0   0   0   0   0     0    0    0   0.669     22  0.00
+  201  201     0   4   1   1   0   0   0   0   1   2   2   3   0   0  29  23  28   2   2   0     0    0    0   1.824     60  0.00
+  202  202     1   1   0   1   0   0   1   8  18   0   9   7   1   2  12  12  16   3   6   2     0    0    0   2.386     79  0.00
+  203  203     4  19   8   3   1   0   0   1   6   0   4  12   0   0  10  14   9   0   9   1     0    0    0   2.366     78  0.00
+  204  204     0   0   0   0   0   0   0   0   0   0   0   1  96   0   1   1   0   0   1   0     0    0    0   0.224      7  0.00
+  205  205     0   0   0   0   0   0   0   1   4  79   5   3   2   0   2   3   0   0   0   0     0    0    0   0.901     30  0.00
+  206  206     6  11   2   0   1   0   1   2   7   3   7   7   0   0  18   4  22   1   6   1     0    0    0   2.399     80  0.00
+  207  207     0   2   0   1   0   0   0  25   5   5  17   7   0   1   2   2   0   1  26   5     0    0    0   2.062     68  0.00
+  208  208     6   1   3   0   0   0   0  54   6   5  10   5   0   0   1   1   1   1   7   1     0    0    0   1.716     57  0.00
+  209  209     0   0   0   0   0   0   0  16   1   5  10   7   0   0   2   1   2   1  27  26     0    0    0   1.923     64  0.00
+  210  210     2   4   1   0   1   0   0  14   6   9  13   9   0   0   2   2   4   2   9  23     0    0    0   2.332     77  0.00
+  211  211     1   0   0   1   1   1   0   7   4   2  21  13   0   0   7   1   4   1  28  10     0    0    0   2.120     70  0.00
+  212  212    15  11  11   1   1   0   0   3   7   4   3  17   0   0   3   3   3   1  17   0     0    0    0   2.363     78  0.00
+  213  213     5  31   8   0   2   0   1   1  10   4   5  21   0   0   6   1   1   1   1   1     0    0    0   2.145     71  0.00
+  214  214    29   3   5   0   2   0   0   2  24   0   3  16   0   0   1   1   6   1   2   4     0    0    0   2.050     68  0.00
+  215  215     5   0   0   1   5   1   0   2   6  26   2   0   0   0   1   0   1   9  25  14     0    0    0   2.059     68  0.00
+  216  216     2  57   4  15  12   0   0   0   0   0   0   0   0   0   0   3   3   0   5   0     0    0    0   1.439     48  0.00
+  217  217     0   1   0   0   0   0   0   0   0   0   0   1   0   0   1   0   0   1   0  96     0    0    0   0.217      7  0.00
+  218  218    14  16   9   0   3   0   1   0   2  24   2  10   0   1   8   1   4   1   1   1     0    0    0   2.271     75  0.00
+  219  219    13   1   3   3   1   0   0  15   4   1   9  25   0   0  12   3   4   3   5   1     0    0    0   2.306     76  0.00
+  220  220     0   0   0   0   0   0   0   1   1   2  25  71   0   0   0   0   0   0   0   0     0    0    0   0.780     26  0.00
+  221  221     2   1   0   0   2   0   0   2   9  67   7   5   0   1   3   1   2   1   1   0     0    0    0   1.356     45  0.00
+  222  222     2   3   0   4   5   0   2   2   7   0   3  12   0   1   6   3   1   1  28  20     0    0    0   2.266     75  0.00
+  223  223    15   3   5   1   0   0   1   1  15   0   7  22   0   1   6  16   4   1   2   2     0    0    0   2.266     75  0.00
+  224  224     2   8   0   1  87   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.536     17  0.00
+  225  225     0   0   0   0   0   0   0   1   0   0   0   1   0   0   0   0   0   1   0  98     0    0    0   0.138      4  0.00
+  226  226     2   5   1   0   0   0   0   1   0   0   7   4   0   0   2   4   1   1  71   1     0    0    0   1.204     40  0.00
+  227  227     4   0   1   3   1   0   0   2  13   0  18   4   0   3   3  14   8   0  21   4     0    0    0   2.293     76  0.00
+  228  228     0   0   3   0   3   0  94   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.293      9  0.00
+  229  229     0   2   0   0  31   0  67   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.727     24  0.00
+  230  230    12   0   5   0   2   0   0   1   2   0  12  12   0   1  11  30   7   0   4   1     0    0    0   2.182     72  0.00
+  231  231     0   8   1   0   0   0   0   1   1   1   0   1   0   1   1   0   4   2  69  10     0    0    0   1.260     42  0.00
+  232  232    10  74  12   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   1   0     0    0    0   0.857     28  0.00
+  233  233     9  29  10   9   0   0   0   0   2   2   1   2   0   0   7   9  17   3   1   0     0    0    0   2.164     72  0.00
+  234  234     4   1   1   1   0   1   0   2  14   0  16   3   1   1   5  10   9  11  17   5     0    0    0   2.401     80  0.00
+  235  235     0   2   0   0   0   0   1  24   0   0   2   0   0   6  15  12  13   0  24   1     0    0    0   1.908     63  0.00
+  236  236     0   4   1   2   1   0   0   0   0   0   1   1   0   0  23  45  11   6   3   1     0    0    0   1.698     56  0.00
+  237  237     4   0   0   0   0   0   0  91   3   0   1   0   0   0   0   0   0   0   0   1     0    0    0   0.413     13  0.00
+  238  238     9  82   5   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0     0    0    0   0.699     23  0.00
+  239  239     1  59   7   2  30   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.992     33  0.00
+  240  240     3   2   2   0   4   0   0   2   3   1   6  16   0  16   4   3  28   7   4   1     0    0    0   2.281     76  0.00
+  241  241     4   0   4   0   0   0   0   0   0   1  81   9   0   0   0   0   0   0   0   0     0    0    0   0.726     24  0.00
+  242  242     0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0  99     0    0    0   0.060      2  0.00
+  243  243     0   1   0   1   0   1   0   0  10   0   3   0   0   6   0   0  70   4   1   1     0    0    0   1.189     39  0.00
+  244  244    27   0   6   0   0   0   0   6  15   0   1   4   0   0   1   1   7  26   1   4     0    0    0   2.007     67  0.00
+  245  245     0  96   1   2   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0     0    0    0   0.206      6  0.00
+  246  246     3  12   5   2  51   5   8   1   6   0   0   5   0   1   0   0   0   0   0   0     0    0    0   1.712     57  0.00
+  247  247     1   2   0   1   0   0   1   3   1   1  33  27   0   1   0   3   2   2  20   3     0    0    0   1.887     62  0.00
+  248  248     0   0   0   0   0   0   0  13   1   0  18  16   0   1   1   2   2   1  17  30     0    0    0   1.836     61  0.00
+  249  249     0   3   1   0   0   0   0   6   3  38   8   4   0   0   2   1   3   2   7  20     0    0    0   2.012     67  0.00
+  250  250     5  13   7   0   2   1   0  23   9   4   6   2   0   2   6   3   0   3  10   5     0    0    0   2.483     82  0.00
+  251  251     0   2   0   0   0   0   0   9  56   2  12  14   0   0   2   1   0   2   0   0     0    0    0   1.422     47  0.00
+  252  252    14  12   5   0   0   0   1  19   9   0   5  17   0   0   7   2   0   0   1  10     0    0    0   2.225     74  0.00
+  253  253     2   0   0   0   0   0   0  18  11   4  17   3   0   1   2  11   3   3  12  12     0    0    0   2.295     76  0.00
+  254  254     2   1   2   0   1   0   1   0   8   1  18  24   0   0  16   2   5   2   3  14     0    0    0   2.164     72  0.00
+  255  255     5   1   9   1   2   0   0   0   2   0   6  69   0   0   1   1   2   0   0   1     0    0    0   1.279     42  0.00
+  256  256     2   1  13   2   0   0   0   1  11   0   4   1   0   0  18  21   3   2   3  17     0    0    0   2.177     72  0.00
+  257  257     1   0   0   0   0   1   1   6  18  21  11   2   0   0   5   8   4   7   9   3     0    0    0   2.348     78  0.00
+  258  258     4  33  29   4   8   0   4   0   2   0   1  10   0   1   0   1   2   0   0   0     0    0    0   1.869     62  0.00
+  259  259    89   2   3   0   0   1   0   0   4   0   0   1   0   0   0   0   0   0   0   0     0    0    0   0.509     16  0.00
+  260  260     2   2   1   0   0   0   0   1   2   0   6  10   0   1  19  10   6  12  20   7     0    0    0   2.277     76  0.00
+  261  261     0   8   1   1   0   0   0   7  12   0  19   5   0   0  10   9   6   7   9   5     0    0    0   2.439     81  0.00
+  262  262     0   5   1   4  39   2  42   0   0   1   0   0   0   1   0   0   0   0   4   0     0    0    0   1.384     46  0.00
+  263  263     1   2   0   1   0   0   0   1  62   0  27   0   0   0   2   0   0   1   1   0     0    0    0   1.172     39  0.00
+  264  264     1   4   2   0   0   0   0   5  10   0  21   6   0   1   7   7   5  10  15   6     0    0    0   2.412     80  0.00
+  265  265     0   1   3   1   0   0   0   6   1   3  22   1   0   1   1   1   0   0  41  19     0    0    0   1.710     57  0.00
+  266  266     4   3   1   2   2   0   0   5   8  11   3   8   0   0   4   3  33  10   5   0     0    0    0   2.273     75  0.00
+  267  267     2   1   0   0   2   0   1  12  15   0  12  15   0   2   3   5  10   6   8   7     0    0    0   2.441     81  0.00
+  268  268     5  21   1   0   2   3   4   1  28   1   3  11   0   0   4   6   3   5   2   2     0    0    0   2.308     77  0.00
+  269  269     0   1   0   0  91   7   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.359     11  0.00
+  270  270     1   4   0   1  56   0   3   2   5   0   7   1   0   1   3   3   0   3   9   1     0    0    0   1.719     57  0.00
+  271  271     2   1   1   0   0   1   0   3   8   0  14   4   1   1  10  10   7  19   6  12     0    0    0   2.433     81  0.00
+  272  272     0   0   0   0   0   0   1   1  23   0   8   0   0   2   5   5  13  12   3  28     0    0    0   1.963     65  0.00
+  273  273     0   0   0   0  96   1   2   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.186      6  0.00
+  274  274    20   0   5   0   0   0   0  11  40   1   7   9   0   0   3   3   1   1   0   0     0    0    0   1.812     60  0.00
+  275  275     8   2   1   1   0   0   0   2  16   1   4   9   2   0   9  15   6  13   8   4     0    0    0   2.453     81  0.00
+  276  276     0   0   0   0   0   0   0   1  53   0  45   0   0   0   1   0   0   0   0   0     0    0    0   0.773     25  0.00
+  277  277     1   4   7  84   3   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0     0    0    0   0.657     21  0.00
+  278  278    34   6  37   0   0   0   0   1   1   0   1   5   0   0   1   1   3   5   2   3     0    0    0   1.726     57  0.00
+  279  279     0   0   1   0   0   0   0   0   0   0   4   0   0   0  15  74   0   0   6   0     0    0    0   0.874     29  0.00
+  280  280     0  18   0  78   0   0   0   0   0   0   0   0   0   0   0   0   0   3   0   0     0    0    0   0.670     22  0.00
+  281  281     1   0   0   0   0   0   0  75   4   0  18   1   0   0   0   0   0   0   3   0     0    0    0   0.817     27  0.00
+  282  282     0   0   0   0   0   0   0   8   1   0   7   1   0   0   3   4   7   4  57   9     0    0    0   1.550     51  0.00
+  283  283    21  16  58   1   1   0   0   0   0   4   0   0   0   0   0   0   0   0   0   0     0    0    0   1.136     37  0.00
+  284  284     0  11   0   0   0   0   0  11   5   2  28   6   0   0   5  20   5   6   2   1     0    0    0   2.132     71  0.00
+  285  285     3   0   0   0   0   0   0   4   3   2   2  80   0   0   0   1   0   1   4   1     0    0    0   0.916     30  0.00
+  286  286     0   0   0   0   0   0   0  89   1   1   3   0   0   0   1   1   0   0   1   2     0    0    0   0.571     19  0.00
+  287  287     1   0   1   1   1   0   2   2   7   1  27  30   0   1   5   5   2   2   7   5     0    0    0   2.136     71  0.00
+  288  288     3   1   0   0   0   0   0   1  10   2   7   1   0   1   3   8  29   7  17   9     0    0    0   2.179     72  0.00
+  289  289     0   2   0   0   0   0   0  96   0   0   1   0   0   0   0   0   0   0   0   0     0    0    0   0.199      6  0.00
+  290  290     2   0   2   0   0   0   0   0   0   0   0   0   0   0   0   1  21  70   3   0     0    0    0   0.907     30  0.00
+  291  291    14   0  86   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.429     14  0.00
+  292  292     0   0   0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0     0    0    0   0.022      0  0.00
+  293  293     2  20   1   0   1   0   0   1   2   0   2  10   0   0  24  27   4   1   3   2     0    0    0   1.970     65  0.00
+  294  294    10   1   3   0   1   0   0   0   0   0   8   3   0   3   4   3   8   0  44  11     0    0    0   1.905     63  0.00
+  295  295     0   0   0   0   0   0   0   0   0   0   0   1  99   0   0   0   0   0   0   0     0    0    0   0.063      2  0.00
+  296  296     0   0   1   0   0   0   0   4   6   0  28   1   0   0  43   5   0   0   8   3     0    0    0   1.635     54  0.00
+  297  297    31   3   0   1  10   0   1   0  20   0   3   0   0   1  17  12   0   0   0   0     0    0    0   1.853     61  0.00
+  298  298    56   3  13   1   8   0   0   0   6   3   1   4   0   0   5   0   0   0   0   0     0    0    0   1.547     51  0.00
+  299  299     0   0   0   0   0   0   0   1   0   0   1   0   0   0   0   0   0   0  98   0     0    0    0   0.136      4  0.00
+  300  300     0   0   0   0   0   0   0   0   0   0  64   0   0  14   0   0   0   0  16   6     0    0    0   1.028     34  0.00
+//

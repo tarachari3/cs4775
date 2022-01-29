@@ -1,0 +1,958 @@
+ID Pseudo hssp file.
+SEQ 
+SEQ gi|11386163|ref|NP_068771.1| ELAV (embryonic lethal, abnormal vi...   317  4e-86
+SEQ gi|2500580|sp|Q61701|ELV4_MOUSE ELAV-LIKE PROTEIN 4 (PARANEOPLAS...   317  4e-86
+SEQ gi|2500581|sp|O09032|ELV4_RAT ELAV-LIKE PROTEIN 4 (PARANEOPLASTI...   317  4e-86
+SEQ gi|6754266|ref|NP_034618.1| HU-antigen D [Mus musculus] >gi|2801...   317  4e-86
+SEQ gi|5739519|gb|AAD50508.1|AF176675_1 (AF176675) RNA-binding prote...   317  4e-86
+SEQ gi|13096196|pdb|1FXL|A Chain A, Crystal Structure Of Hud And Au-...   317  4e-86
+SEQ gi|13635703|ref|XP_018255.1| ELAV (embryonic lethal, abnormal vi...   317  4e-86
+SEQ gi|14280323|gb|AAK57538.1| (AY033995) HUD3 [Homo sapiens]             317  4e-86
+SEQ gi|14280325|gb|AAK57539.1| (AY033996) HUD4 [Homo sapiens]             317  4e-86
+SEQ gi|14280327|gb|AAK57540.1| (AY033997) HUD1 [Homo sapiens]             317  4e-86
+SEQ gi|2134155|pir||I51678 ribonucleoprotein - African clawed frog >...   315  2e-85
+SEQ gi|12851808|dbj|BAB29173.1| (AK014133) putative [Mus musculus]        315  2e-85
+SEQ gi|4758262|ref|NP_004423.1| ELAV (embryonic lethal, abnormal vis...   312  2e-84
+SEQ gi|2136127|pir||I39077 RNA-binding protein Hel-N2 - human >gi|90...   312  2e-84
+SEQ gi|6754264|ref|NP_034616.1| HU-antigen; HU-antigen B [Mus muscul...   312  2e-84
+SEQ gi|11428314|ref|XP_005409.1| ELAV (embryonic lethal, abnormal vi...   312  2e-84
+SEQ gi|2133906|pir||I50513 ribonucleoprotein - zebra fish >gi|608549...   308  3e-83
+SEQ gi|2134153|pir||I51676 ribonucleoprotein - African clawed frog >...   307  4e-83
+SEQ gi|728726|emb|CAA59430.1| (X85111) Xel-1 [Xenopus laevis]             306  1e-82
+SEQ gi|2134154|pir||I51677 ribonucleoprotein - African clawed frog >...   303  1e-81
+SEQ gi|3913869|sp|Q14576|ELV3_HUMAN ELAV-LIKE PROTEIN 3 (HU-ANTIGEN ...   300  5e-81
+SEQ gi|13631329|ref|XP_012805.2| Hu antigen C [Homo sapiens]              300  5e-81
+SEQ gi|542846|pir||JC2116 hippocampal 38K autoantigen protein - huma...   300  7e-81
+SEQ gi|1683635|gb|AAB36515.1| (U62018) zHuC [Danio rerio]                 299  2e-80
+SEQ gi|3913870|sp|Q60900|ELV3_MOUSE ELAV-LIKE PROTEIN 3 (HU-ANTIGEN ...   298  3e-80
+SEQ gi|4503553|ref|NP_001411.1| Hu antigen C [Homo sapiens] >gi|4310...   297  6e-80
+SEQ gi|5738251|gb|AAD50314.1|AF176674_1 (AF176674) RNA-binding prote...   286  1e-76
+SEQ gi|14280337|gb|AAK57545.1| (AY034002) Hu antigen C long [Homo sa...   275  2e-73
+SEQ gi|6694225|gb|AAF25188.1|AF184245_1 (AF184245) ribonucleoprotein...   266  1e-70
+SEQ gi|6694223|gb|AAF25187.1|AF184244_1 (AF184244) ribonucleoprotein...   259  1e-68
+SEQ gi|13630693|ref|XP_008947.2| ELAV (embryonic lethal, abnormal vi...   256  1e-67
+SEQ gi|4503551|ref|NP_001410.1| ELAV (embryonic lethal, abnormal vis...   254  5e-67
+SEQ gi|6754262|ref|NP_034615.1| HU-antigen A [Mus musculus] >gi|1312...   252  2e-66
+SEQ gi|5738249|gb|AAD50313.1|AF176673_1 (AF176673) RNA-binding prote...   252  2e-66
+SEQ gi|2134152|pir||I51675 ribonucleoprotein - African clawed frog >...   252  3e-66
+SEQ gi|158227|gb|AAC13646.1| (L04930) RNA-binding protein [Drosophil...   246  1e-64
+SEQ gi|7295877|gb|AAF51177.1| (AE003581) Rbp9 gene product [alt 1] [...   246  1e-64
+SEQ gi|10728220|gb|AAF48215.2| (AE003491) fne gene product [Drosophi...   245  3e-64
+SEQ gi|158226|gb|AAC13645.1| (L04930) RNA-binding protein [Drosophil...   240  9e-63
+SEQ gi|7295878|gb|AAF51178.1| (AE003581) Rbp9 gene product [alt 2] [...   240  9e-63
+SEQ gi|7322081|gb|AAB25519.2| (S55886) RRM9 [Drosophila melanogaster]     240  9e-63
+SEQ gi|7230770|gb|AAF43091.1|AF239667_1 (AF239667) putative RNA bind...   233  7e-61
+SEQ gi|7500574|pir||T21822 hypothetical protein F35H8.5 - Caenorhabd...   233  1e-60
+SEQ gi|119264|sp|P16914|ELAV_DROME ELAV PROTEIN (EMBRYONIC LETHAL AB...   211  5e-54
+SEQ gi|103516|pir||A40252 elav protein - fruit fly (Drosophila virilis)   211  5e-54
+SEQ gi|119265|sp|P23241|ELAV_DROVI ELAV PROTEIN >gi|157338|gb|AAA285...   211  5e-54
+SEQ gi|2961399|emb|CAA18091.1| (AL022139) EG:65F1.2 [Drosophila mela...   211  5e-54
+SEQ gi|1144009|gb|AAC53000.1| (U29149) mHuC-S [Mus musculus]              208  3e-53
+SEQ gi|2565362|gb|AAB81985.1| (AF025689) Sex-lethal protein [Musca d...   175  3e-43
+SEQ gi|6226777|sp|O17310|SXL_MUSDO SEX-LETHAL PROTEIN HOMOLOG >gi|25...   175  3e-43
+SEQ gi|6226775|sp|O97018|SXL_CHRRU SEX-LETHAL PROTEIN HOMOLOG             175  4e-43
+SEQ gi|13357168|gb|AAK20025.1|AF234183_1 (AF234183) sex-lethal prote...   175  4e-43
+SEQ gi|13357170|gb|AAK20026.1|AF234184_1 (AF234184) sex-lethal prote...   175  4e-43
+SEQ gi|2981305|gb|AAC38968.1| (AF026145) sex-lethal homolog CcSXL [C...   175  4e-43
+SEQ gi|6226164|sp|O61374|SXL_CERCA SEX-LETHAL PROTEIN HOMOLOG (CCSXL)     175  4e-43
+SEQ gi|6226776|sp|O01671|SXL_MEGSC SEX-LETHAL PROTEIN HOMOLOG             173  1e-42
+SEQ gi|6456838|emb|CAA04179.2| (AJ000546) Sex-lethal orthologous pro...   173  1e-42
+SEQ gi|9743624|emb|CAC01696.1| (AJ245662) sex-lethal homologue [Mega...   173  1e-42
+SEQ gi|135080|sp|P19339|SXL_DROME SEX-LETHAL PROTEIN >gi|85146|pir||...   172  2e-42
+SEQ gi|103381|pir||B39725 sex-lethal sex determination protein MS11 ...   172  2e-42
+SEQ gi|1403308|emb|CAA67016.1| (X98370) sex-lethal [Drosophila subob...   172  2e-42
+SEQ gi|10728508|gb|AAF46241.2| (AE003439) Sxl gene product [alt 3] [...   172  2e-42
+SEQ gi|12643503|sp|Q24668|SXL_DROSU SEX-LETHAL PROTEIN                    172  2e-42
+SEQ gi|4929888|pdb|1B7F|A Chain A, Sxl-Lethal ProteinRNA COMPLEX >gi...   172  3e-42
+SEQ gi|4930239|pdb|3SXL|A Chain A, Sex-Lethal Rna Recognition Domain...   169  1e-41
+SEQ gi|3255957|emb|CAA19655.1| (AL023893) /prediction=(method:''gene...   165  3e-40
+SEQ gi|7767194|pdb|1D8Z|A Chain A, Solution Structure Of The First R...   157  8e-38
+SEQ gi|2133907|pir||I50511 ribonucleoprotein - zebra fish (fragment)...   155  3e-37
+SEQ gi|13898849|gb|AAK48899.1|AF357912_1 (AF357912) ribonucleoprotei...   148  5e-35
+SEQ gi|7767195|pdb|1D9A|A Chain A, Solution Structure Of The Second ...   144  4e-34
+SEQ gi|7300034|gb|AAF55205.1| (AE003709) CG5213 gene product [Drosop...   132  3e-30
+SEQ gi|6469493|emb|CAB61832.1| (X98769) Sex-lethal orthologous prote...   112  4e-24
+SEQ gi|6469495|emb|CAB61831.1| (X98771) Sex-lethal orthologous prote...   112  4e-24
+SEQ gi|13560783|gb|AAK30205.1|AF349964_1 (AF349964) poly(A)-binding ...   104  9e-22
+SEQ gi|3116231|dbj|BAA25933.1| (AB009975) MSSP-1 [Gallus gallus]          102  2e-21
+SEQ gi|9937972|ref|NP_064692.1| RNA binding motif, single stranded i...   101  6e-21
+SEQ gi|453413|emb|CAA54628.1| (X77494) MSSP-2 [Homo sapiens]              100  1e-20
+SEQ gi|4506447|ref|NP_002888.1| RNA binding motif, single stranded i...   100  1e-20
+SEQ gi|2135217|pir||S53612 gene MSSP-2 protein - human                    100  1e-20
+SEQ gi|8400718|ref|NP_058520.1| RNA binding motif, single stranded i...   100  1e-20
+SEQ gi|8400720|ref|NP_058521.1| RNA binding motif, single stranded i...   100  1e-20
+SEQ gi|8400722|ref|NP_058522.1| RNA binding motif, single stranded i...   100  1e-20
+SEQ gi|8400724|ref|NP_058523.1| RNA binding motif, single stranded i...   100  1e-20
+SEQ gi|7657506|ref|NP_055298.1| RNA binding motif, single stranded i...    99  3e-20
+SEQ gi|13645818|ref|XP_003046.3| RNA binding motif, single stranded ...    99  3e-20
+SEQ gi|7673355|gb|AAF66823.1|AF190655_1 (AF190655) poly(A)-binding p...    98  9e-20
+SEQ gi|640423|pdb|1SXL|    Sex-Lethal Protein (C-Terminus, Or Second...    98  1e-19
+SEQ gi|1346591|sp|P29558|MSSP_HUMAN SINGLE-STRANDED DNA-BINDING PROT...    96  3e-19
+SEQ gi|1171978|sp|P42731|PAB2_ARATH POLYADENYLATE-BINDING PROTEIN 2 ...    96  3e-19
+SEQ gi|13647978|ref|XP_015828.1| similar to RNA binding motif, singl...    96  4e-19
+SEQ gi|7528270|gb|AAF63202.1|AF240679_1 (AF240679) poly(A)-binding p...    95  5e-19
+SEQ gi|7439963|pir||T07933 polyadenylate-binding protein RB47 precur...    94  7e-19
+SEQ gi|12083748|dbj|BAB20902.1| (AB053355) trunk lateral cell specif...    94  8e-19
+SEQ gi|2137740|pir||I49144 ribonucleoprotein - mouse (fragment) >gi|...    94  8e-19
+SEQ gi|9790209|ref|NP_062685.1| RNA binding motif, single stranded i...    94  1e-18
+SEQ gi|10120431|gb|AAG13056.1|AC011807_15 (AC011807) Putative Poly-A...    94  1e-18
+SEQ gi|4506449|ref|NP_002889.1| RNA binding motif, single stranded i...    93  1e-18
+SEQ gi|3402035|pdb|2SXL|    Sex-Lethal Rbd1, Nmr, Minimized Average ...    93  2e-18
+SEQ gi|88609|pir||S19873 single-stranded DNA-binding protein - human       93  3e-18
+SEQ gi|13650494|ref|XP_018288.1| similar to RNA binding motif, singl...    92  4e-18
+SEQ gi|21309|emb|CAA41023.1| (X57955) 28kD RNA binding protein [Spin...    92  5e-18
+SEQ gi|99565|pir||S15348 RNA-binding protein, 28K - spinach                92  5e-18
+SEQ gi|133247|sp|P28644|ROC1_SPIOL 28 KDA RIBONUCLEOPROTEIN, CHLOROP...    92  5e-18
+SEQ gi|480602|pir||S37085 polyadenylate-binding protein - fern (Anem...    90  2e-17
+SEQ gi|7439964|pir||T00497 polyadenylate-binding protein T20D16.2 - ...    89  4e-17
+SEQ gi|13430610|gb|AAK25927.1|AF360217_1 (AF360217) putative poly(A)...    89  4e-17
+SEQ gi|2204089|emb|CAB05388.1| (Z82989) FCA gamma [Arabidopsis thali...    87  2e-16
+SEQ gi|2204091|emb|CAB05389.1| (Z82990) FCA delta [Arabidopsis thali...    87  2e-16
+SEQ gi|3023721|sp|O04425|FCA_ARATH FLOWERING TIME CONTROL PROTEIN FC...    87  2e-16
+SEQ gi|2204096|emb|CAB05392.1| (Z82992) FCA delta [Arabidopsis thali...    87  2e-16
+SEQ gi|7430376|pir||E71429 probable FCA gamma - Arabidopsis thaliana...    87  2e-16
+SEQ gi|133248|sp|P19683|ROC4_NICSY 31 KDA RIBONUCLEOPROTEIN, CHLOROP...    86  2e-16
+SEQ gi|1171979|sp|Q05196|PAB5_ARATH POLYADENYLATE-BINDING PROTEIN 5 ...    86  4e-16
+SEQ gi|7239504|gb|AAF43230.1|AC012654_14 (AC012654) Identical to the...    86  4e-16
+SEQ gi|11045077|emb|CAB41488.2| (AJ237848) putative FCA orthologue [...    85  5e-16
+SEQ gi|9759027|dbj|BAB09396.1| (AB024031) RNA-binding protein-like [...    85  6e-16
+SEQ gi|538583|pir||DNZPPA polyadenylate-binding protein - fission ye...    85  6e-16
+SEQ gi|3123239|sp|P31209|PABP_SCHPO POLYADENYLATE-BINDING PROTEIN (P...    85  6e-16
+SEQ gi|11994764|dbj|BAB03120.1| (AP002042) contains similarity to RN...    84  9e-16
+SEQ gi|2062166|gb|AAB63640.1| (AC001645) poly(A)-binding protein iso...    84  1e-15
+SEQ gi|64970|emb|CAA40721.1| (X57483) polyA binding protein [Xenopus...    84  1e-15
+SEQ gi|1352709|sp|P20965|PABP_XENLA POLYADENYLATE-BINDING PROTEIN (P...    84  1e-15
+SEQ gi|6996560|emb|CAB75429.1| (AJ272011) oligouridylate binding pro...    83  2e-15
+SEQ gi|418855|pir||S30887 polyadenylate-binding protein - fruit fly ...    83  2e-15
+SEQ gi|585638|sp|P21187|PABP_DROME POLYADENYLATE-BINDING PROTEIN (PO...    83  2e-15
+SEQ gi|7302665|gb|AAF57745.1| (AE003800) pAbp gene product [alt 3] [...    83  2e-15
+SEQ gi|13812116|ref|NP_113243.1| polyadenylate-binding protein [Guil...    83  3e-15
+SEQ gi|1616770|gb|AAB16848.1| (U70731) putative poly(A)-binding prot...    83  3e-15
+SEQ gi|4505575|ref|NP_002559.1| poly(A)-binding protein, cytoplasmic...    83  3e-15
+SEQ gi|6679197|ref|NP_032800.1| poly A binding protein, cytoplasmic ...    83  3e-15
+SEQ gi|3183544|sp|P11940|PAB1_HUMAN POLYADENYLATE-BINDING PROTEIN 1 ...    83  3e-15
+SEQ gi|6137354|pdb|1CVJ|E Chain E, X-Ray Crystal Structure Of The Po...    83  3e-15
+SEQ gi|12188891|emb|CAC21554.1| (AJ298278) poly(A) binding protein [...    83  3e-15
+SEQ gi|12836631|dbj|BAB23742.1| (AK005009) putative [Mus musculus]         83  3e-15
+SEQ gi|13278026|gb|AAH03870.1|AAH03870 (BC003870) poly A binding pro...    83  3e-15
+SEQ gi|13642968|ref|XP_018280.1| poly(A)-binding protein, cytoplasmi...    83  3e-15
+SEQ gi|3776057|emb|CAA15498.1| (AL008725) dJ148E22.2 (novel PABPC1 (...    83  3e-15
+SEQ gi|6019464|gb|AAC64372.2| (AF093062) polyadenylate-binding prote...    83  3e-15
+SEQ gi|7882851|gb|AAF70533.1|AC009603_5 (AC009603) PolyA Binding Pro...    83  3e-15
+SEQ gi|133246|sp|P19682|ROC3_NICSY 28 KDA RIBONUCLEOPROTEIN, CHLOROP...    83  3e-15
+SEQ gi|6321013|ref|NP_011092.1| Poly(A) binding protein, cytoplasmic...    82  3e-15
+SEQ gi|172092|gb|AAA34838.1| (M12780) polyadenylate-binding protein ...    82  3e-15
+SEQ gi|7446356|pir||T06232 Ps16 protein - wheat >gi|2443390|dbj|BAA2...    82  4e-15
+SEQ gi|7446359|pir||T05727 nucleic acid-binding protein - barley >gi...    82  4e-15
+SEQ gi|4104919|gb|AAD13337.1| (AF042190) poly(A) binding protein I [...    82  6e-15
+SEQ gi|2665654|gb|AAB88449.1| (AF032896) polyadenylate binding prote...    81  7e-15
+SEQ gi|464662|sp|Q04836|ROC3_ARATH 31 KDA RIBONUCLEOPROTEIN, CHLOROP...    81  7e-15
+SEQ gi|99684|pir||S20940 DNA-binding protein - Arabidopsis thaliana        81  7e-15
+SEQ gi|475719|gb|AAA18379.1| (U08467) RNA-binding protein 2 [Arabido...    81  7e-15
+SEQ gi|629557|pir||S49030 RNA-binding protein RNP-D precursor - Arab...    81  7e-15
+SEQ gi|1076305|pir||S53492 RNA-binding protein cp31 precursor - Arab...    81  7e-15
+SEQ gi|681908|dbj|BAA06521.1| (D31713) cp31 [Arabidopsis thaliana]         81  7e-15
+SEQ gi|100903|pir||S23780 nucleic acid-binding protein - maize >gi|1...    81  9e-15
+SEQ gi|9758270|dbj|BAB08769.1| (AB005232) contains similarity to pol...    81  9e-15
+SEQ gi|11762114|gb|AAG40335.1|AF324983_1 (AF324983) AT5g54900 [Arabi...    81  9e-15
+SEQ gi|6754972|ref|NP_035163.1| poly A binding protein, cytoplasmic ...    81  1e-14
+SEQ gi|7446358|pir||T05725 cp31AHv protein - barley >gi|3550467|emb|...    81  1e-14
+SEQ gi|12855391|dbj|BAB30319.1| (AK016578) putative [Mus musculus]         81  1e-14
+SEQ gi|12229876|sp|Q15097|PAB2_HUMAN POLYADENYLATE-BINDING PROTEIN 2...    81  1e-14
+SEQ gi|6524499|gb|AAF15091.1| (AF110846) sex-lethal homolog [Megasel...    80  1e-14
+SEQ gi|6524500|gb|AAF15092.1| (AF110846) sex-lethal homolog [Megasel...    80  1e-14
+SEQ gi|7506572|pir||T24137 hypothetical protein R10E4.2a - Caenorhab...    80  2e-14
+SEQ gi|7506573|pir||T24138 hypothetical protein R10E4.2b - Caenorhab...    80  2e-14
+SEQ gi|13096978|gb|AAH03283.1|AAH03283 (BC003283) Similar to poly(A)...    80  2e-14
+SEQ gi|4504715|ref|NP_003810.1| poly(A)-binding protein, cytoplasmic...    80  2e-14
+SEQ gi|12643628|sp|O64380|PAB3_ARATH POLYADENYLATE-BINDING PROTEIN 3...    79  2e-14
+SEQ gi|7439965|pir||T00768 polyadenylate-binding protein T22J18.7 - ...    79  2e-14
+SEQ gi|9930616|gb|AAG02117.1|AF293840_1 (AF293840) poly(A) binding p...    79  2e-14
+SEQ gi|780291|gb|AAA65224.1| (U24123) polyadenylate-binding protein ...    79  3e-14
+SEQ gi|7509318|pir||T26427 hypothetical protein Y106G6H.2 - Caenorha...    79  3e-14
+SEQ gi|7673359|gb|AAF66825.1| (AF190657) poly(A)-binding protein [Ni...    79  3e-14
+SEQ gi|1076251|pir||S50765 RNA-binding protein - common ice plant >g...    79  3e-14
+SEQ gi|7439967|pir||T06979 polyadenylate-binding protein - wheat >gi...    79  3e-14
+SEQ gi|5032069|ref|NP_005841.1| splicing factor 3b, subunit 4, 49kD;...    79  3e-14
+SEQ gi|2393873|gb|AAB70164.1| (AF001290) poly(A)-binding protein tes...    79  4e-14
+SEQ gi|475720|gb|AAA18380.1| (U08467) RNA-binding protein 3 [Arabido...    78  5e-14
+SEQ gi|6324449|ref|NP_014518.1| putative polyadenylated-RNA-binding ...    78  7e-14
+SEQ gi|12230623|sp|Q9ZUU4|ROC1_ARATH PUTATIVE RIBONUCLEOPROTEIN AT2G...    78  1e-13
+SEQ gi|7492901|pir||T40627 probable ribonucleoprotein SPBC660.15 - f...    77  1e-13
+SEQ gi|7506587|pir||T24148 hypothetical protein R10E9.1 - Caenorhabd...    77  1e-13
+SEQ gi|10047307|dbj|BAB13470.1| (AB036738) neural RNA-binding protei...    77  1e-13
+SEQ gi|7446357|pir||T06817 RNA-binding protein - garden pea >gi|2330...    77  1e-13
+SEQ gi|4587549|gb|AAD25780.1|AC006577_16 (AC006577) Similar to gb|U5...    77  2e-13
+SEQ gi|7446360|pir||T09108 RNA binding protein, 24K, chloroplast - s...    77  2e-13
+SEQ gi|459650|gb|AAC46487.1| (U06070) poly(A) binding protein [Trypa...    76  2e-13
+SEQ gi|11595517|emb|CAC18311.1| (AL451022) related to heterogeneous ...    76  3e-13
+SEQ gi|9294635|dbj|BAB02974.1| (AP000600) RNA binding protein nucleo...    76  4e-13
+SEQ gi|4505255|ref|NP_002433.1| Musashi (Drosophila) homolog 1; Musa...    76  4e-13
+SEQ gi|4507499|ref|NP_003243.1| TIA1 cytotoxic granule-associated RN...    75  5e-13
+SEQ gi|13992702|gb|AAK51596.1|AC016528_7 (AC016528) Poly(A) binding ...    75  6e-13
+SEQ gi|13540314|gb|AAK29408.1|AF338225_1 (AF338225) embryonic poly(A...    75  6e-13
+SEQ gi|9758076|dbj|BAB08520.1| (AB009052) contains similarity to RNA...    75  6e-13
+SEQ gi|4218014|gb|AAD12222.1| (AC006135) putative spliceosome-associ...    74  7e-13
+SEQ gi|9665134|gb|AAF97318.1|AC007843_21 (AC007843) Putative RNA bin...    74  8e-13
+SEQ gi|3608147|gb|AAC36180.1| (AC005314) putative chloroplast RNA-bi...    74  9e-13
+SEQ gi|478265|pir||I48110 RNA recognition motif-type RNA-binding pro...    74  1e-12
+SEQ gi|13435438|gb|AAH04587.1|AAH04587 (BC004587) Unknown (protein f...    74  1e-12
+SEQ gi|7499381|pir||T21095 hypothetical protein F18H3.3a - Caenorhab...    74  1e-12
+SEQ gi|7499382|pir||T21096 hypothetical protein F18H3.3b - Caenorhab...    74  1e-12
+SEQ gi|11863161|ref|NP_071320.1| TIA1 protein, isoform 1; cytotoxic ...    74  1e-12
+SEQ gi|13637931|ref|XP_016463.1| TIA1 protein, isoform 1 [Homo sapiens]    74  1e-12
+SEQ gi|9663767|emb|CAC01237.1| (AJ292767) RNA Binding Protein 45 [Ni...    74  1e-12
+SEQ gi|6678940|ref|NP_032655.1| Musashi-1 homolog (Drosophila) [Mus ...    74  1e-12
+SEQ gi|11595719|emb|CAC18197.1| (AL451015) probable spliceosome-asso...    74  2e-12
+SEQ gi|14334958|gb|AAK59656.1| (AY035152) putative spliceosome-assoc...    73  2e-12
+SEQ gi|13569958|ref|NP_112241.1| testis-specific poly(A)-binding pro...    73  2e-12
+SEQ gi|12053297|emb|CAB66834.1| (AL136900) hypothetical protein [Hom...    73  2e-12
+SEQ gi|12229883|sp|Q9ZQA8|PABX_ARATH PROBABLE POLYADENYLATE-BINDING ...    73  2e-12
+SEQ gi|12230584|sp|Q08935|ROC1_NICSY 29 KDA RIBONUCLEOPROTEIN A, CHL...    73  2e-12
+SEQ gi|5668812|gb|AAD46038.1|AC007519_23 (AC007519) Contains 3 PF|00...    73  3e-12
+SEQ gi|7512684|pir||T34543 hypothetical protein DKFZp434O1221.1 - hu...    73  3e-12
+SEQ gi|7495587|pir||T19033 hypothetical protein C07A4.1 - Caenorhabd...    73  3e-12
+SEQ gi|6094480|sp|P31483|TIA1_HUMAN NUCLEOLYSIN TIA-1 (RNA-BINDING P...    72  4e-12
+SEQ gi|11863163|ref|NP_071505.1| TIA1 protein, isoform 2; cytotoxic ...    72  4e-12
+SEQ gi|13637929|ref|XP_016462.1| TIA1 protein, isoform 2 [Homo sapiens]    72  4e-12
+SEQ gi|7446355|pir||S71556 DNA-binding protein CEBP-1 - clove pink >...    72  5e-12
+SEQ gi|2134141|pir||I51546 probable RNA-binding protein nrp-1A - Afr...    72  6e-12
+SEQ gi|2134142|pir||I51547 probable RNA-binding protein nrp-1B - Afr...    72  6e-12
+SEQ gi|542646|pir||S40774 ribonucleoprotein - African clawed frog >g...    72  6e-12
+SEQ gi|6755783|ref|NP_035715.1| cytotoxic granule-associated RNA-bin...    72  6e-12
+SEQ gi|88405|pir||PS0381 polyadenylate-binding protein II - human (f...    71  6e-12
+SEQ gi|172438|gb|AAA02808.1| (L01797) RNA-binding protein [Saccharom...    71  7e-12
+SEQ gi|417556|sp|P32588|PUB1_YEAST NUCLEAR AND CYTOPLASMIC POLYADENY...    71  7e-12
+SEQ gi|6324312|ref|NP_014382.1| poly(A)+ RNA-binding protein; Pub1p ...    71  7e-12
+SEQ gi|5668811|gb|AAD46037.1|AC007519_22 (AC007519) Contains 3 PF|00...    71  7e-12
+SEQ gi|14571652|emb|CAC42812.1| (AJ299083) Poly(A)-binding protein [...    71  8e-12
+SEQ gi|14571705|emb|CAC42817.1| (AJ299078) Poly(A)-binding protein [...    71  8e-12
+SEQ gi|14571725|emb|CAC42819.1| (AJ299082) Poly(A)-binding protein [...    71  8e-12
+SEQ gi|1350820|sp|P49313|ROC1_NICPL 30 KDA RIBONUCLEOPROTEIN, CHLORO...    71  1e-11
+SEQ gi|7670538|dbj|BAA95119.1| (AB032726) zebrafish Bruno-like [Dani...    71  1e-11
+SEQ gi|606976|gb|AAA81375.1| (U16800) ribonucleoprotein [Xenopus lae...    71  1e-11
+SEQ gi|7446337|pir||T15542 hypothetical protein C18A3.5 - Caenorhabd...    71  1e-11
+SEQ gi|14573833|gb|AAK68191.1|U28944_5 (U28944) Hypothetical protein...    71  1e-11
+SEQ gi|14573834|gb|AAK68192.1|U28944_6 (U28944) Hypothetical protein...    71  1e-11
+SEQ gi|1076509|pir||S49463 RNA-binding protein RNP1 precursor - kidn...    71  1e-11
+SEQ gi|7506855|pir||T29469 hypothetical protein T01D1.2a - Caenorhab...    70  1e-11
+SEQ gi|8778468|gb|AAF79476.1|AC022492_20 (AC022492) F1L3.34 [Arabido...    70  2e-11
+SEQ gi|9294614|dbj|BAB02953.1| (AP000419) DNA/RNA binding protein-li...    70  2e-11
+SEQ gi|6678349|ref|NP_033409.1| Tial1 cytotoxic granule-associated R...    70  2e-11
+SEQ gi|14571650|emb|CAC42811.1| (AJ299085) Poly(A)-binding protein [...    70  2e-11
+SEQ gi|9246977|gb|AAF86232.1|AF248650_1 (AF248650) RNA-binding prote...    70  2e-11
+SEQ gi|1076308|pir||S53494 RNA-binding protein cp33 precursor - Arab...    70  2e-11
+SEQ gi|681912|dbj|BAA06523.1| (D31715) cp33 [Arabidopsis thaliana]         70  2e-11
+SEQ gi|7670536|dbj|BAA95118.1| (AB032725) Etr-1 [Danio rerio]              69  2e-11
+SEQ gi|8895708|gb|AAF81071.1|AF225910_1 (AF225910) DAZ-associated pr...    69  2e-11
+SEQ gi|14030309|gb|AAK52851.1|AF321194_1 (AF321194) Napor [Danio rerio]    69  3e-11
+SEQ gi|7489112|pir||T03934 DNA binding protein ACBF - common tobacco...    69  3e-11
+SEQ gi|7489196|pir||T01932 RNA binding protein homolog - common toba...    69  3e-11
+SEQ gi|9663769|emb|CAC01238.1| (AJ292768) RNA Binding Protein 47 [Ni...    69  3e-11
+SEQ gi|7578881|gb|AAF64167.1|AF240462_1 (AF240462) plastid-specific ...    69  3e-11
+SEQ gi|7488303|pir||T01382 ribonucleoprotein homolog T4I9.1 - Arabid...    69  3e-11
+SEQ gi|7301090|gb|AAF56224.1| (AE003746) Rox8 gene product [alt 1] [...    69  3e-11
+SEQ gi|2148976|gb|AAB58464.1| (U58976) bruno [Drosophila melanogaster]     69  3e-11
+SEQ gi|2231301|gb|AAB61993.1| (U73846) testis-specific RNP-type RNA ...    69  3e-11
+SEQ gi|13435394|ref|NP_071728.1| TIA1 cytotoxic granule-associated R...    69  4e-11
+SEQ gi|13647249|ref|XP_011945.2| TIA1 cytotoxic granule-associated R...    69  4e-11
+SEQ gi|10086463|gb|AAG12523.1|AC015446_4 (AC015446) Similar to Polya...    68  5e-11
+SEQ gi|8745539|gb|AAF78957.1|AF267535_1 (AF267535) CUG-binding prote...    68  6e-11
+SEQ gi|12054715|emb|CAC20707.1| (AJ007987) deadenylation factor EDEN...    68  6e-11
+SEQ gi|12852385|dbj|BAB29392.1| (AK014492) putative [Mus musculus]         68  6e-11
+SEQ gi|1002380|gb|AAC47514.1| (U24189) RRM-type RNA binding protein ...    68  7e-11
+SEQ gi|1176668|sp|Q09442|YP85_CAEEL HYPOTHETICAL 40.9 KDA PROTEIN C0...    68  7e-11
+SEQ gi|6434257|emb|CAB60993.1| (Z46676) contains similarity to Pfam ...    68  7e-11
+SEQ gi|7446344|pir||JC5437 spliceosome-associated protein 49 - Caeno...    68  7e-11
+SEQ gi|10801574|dbj|BAB16700.1| (AB041639) TIA-1 like protein [Bomby...    68  8e-11
+SEQ gi|5729794|ref|NP_006551.1| CUG triplet repeat, RNA-binding prot...    68  8e-11
+SEQ gi|8745535|gb|AAF78955.1|AF267533_1 (AF267533) CUG-binding prote...    68  8e-11
+SEQ gi|8745537|gb|AAF78956.1|AF267534_1 (AF267534) CUG-binding prote...    68  8e-11
+SEQ gi|10716605|gb|AAG21903.1|AC026815_7 (AC026815) putative RNA bin...    68  1e-10
+SEQ gi|13123780|ref|NP_068757.1| Bruno (Drosophila) -like 5, RNA bin...    68  1e-10
+SEQ gi|13651463|ref|XP_015524.1| Bruno (Drosophila) -like 5, RNA bin...    68  1e-10
+SEQ gi|4835793|gb|AAD30259.1|AC007296_20 (AC007296) Similar to gb|U9...    67  1e-10
+SEQ gi|2781419|gb|AAC41243.1| (AF003923) embryo deadenylation elemen...    67  1e-10
+SEQ gi|7485342|pir||T04823 hypothetical protein F10M23.340 - Arabido...    67  1e-10
+SEQ gi|7291799|gb|AAF47219.1| (AE003464) CG4612 gene product [Drosop...    67  1e-10
+SEQ gi|13123778|ref|NP_064565.1| Bruno (Drosophila) -like 4, RNA bin...    67  1e-10
+SEQ gi|13878153|gb|AAK44154.1|AF370339_1 (AF370339) putative DNA bin...    67  1e-10
+SEQ gi|479829|pir||S35500 heterogeneous ribonuclear particle protein...    67  2e-10
+SEQ gi|1568643|gb|AAB09040.1| (U69546) RNA-binding protein BRUNOL3 [...    67  2e-10
+SEQ gi|3451291|emb|CAA09103.1| (AJ010386) ETR-R3b protein [Rattus no...    67  2e-10
+SEQ gi|8567352|ref|NP_058893.1| elav-type RNA-binding protein 3 [Rat...    67  2e-10
+SEQ gi|3927998|emb|CAA77110.1| (Y18298) elav-type RNA-binding protei...    67  2e-10
+SEQ gi|4104559|gb|AAD02074.1| (AF036956) neuroblastoma apoptosis-rel...    67  2e-10
+SEQ gi|4249666|gb|AAD13760.1| (AF090693) apoptosis-related RNA bindi...    67  2e-10
+SEQ gi|5729816|ref|NP_006552.1| CUG triplet repeat, RNA-binding prot...    67  2e-10
+SEQ gi|6753780|ref|NP_034290.1| CUG triplet repeat,RNA-binding prote...    67  2e-10
+SEQ gi|4249672|gb|AAD13763.1| (AF090696) apoptosis-related RNA bindi...    67  2e-10
+SEQ gi|13645042|ref|XP_005837.2| CUG triplet repeat, RNA-binding pro...    67  2e-10
+SEQ gi|7290689|gb|AAF46136.1| (AE003437) Spx gene product [Drosophil...    67  2e-10
+SEQ gi|1568645|gb|AAB09041.1| (U69547) Etr-3 [Xenopus laevis]              67  2e-10
+SEQ gi|13488613|gb|AAK26172.1| (AY028920) proline-rich Vg1 mRNA-bind...    66  2e-10
+SEQ gi|419961|pir||JN0573 polyadenylate-binding protein - fruit fly ...    66  2e-10
+SEQ gi|7689377|gb|AAF67755.1|AF255335_1 (AF255335) poly(A)-binding p...    66  2e-10
+SEQ gi|12230585|sp|Q08937|ROC2_NICSY 29 KDA RIBONUCLEOPROTEIN B, CHL...    66  2e-10
+SEQ gi|542588|pir||S41644 polyadenylate-binding protein - fruit fly ...    66  3e-10
+SEQ gi|100376|pir||S18883 ribonucleoprotein precursor - common tobac...    66  3e-10
+SEQ gi|7446342|pir||S77714 RNA-binding protein precursor, 33K - wood...    66  3e-10
+SEQ gi|12835985|dbj|BAB23448.1| (AK004657) putative [Mus musculus]         66  3e-10
+SEQ gi|1346955|sp|P48809|RB27_DROME HETEROGENEOUS NUCLEAR RIBONUCLEO...    66  3e-10
+SEQ gi|7297190|gb|AAF52456.1| (AE003615) Hrb27C gene product [alt 1]...    66  3e-10
+SEQ gi|4249379|gb|AAD14476.1|AAD14476 (AC005966) Strong similarity t...    66  3e-10
+SEQ gi|133249|sp|P19684|ROC5_NICSY 33 KDA RIBONUCLEOPROTEIN, CHLOROP...    66  4e-10
+SEQ gi|13537210|dbj|BAB40781.1| (AB047035) HrETR-1 [Halocynthia rore...    66  4e-10
+SEQ gi|2459445|gb|AAB80680.1| (AC002332) putative RNA-binding protei...    65  4e-10
+SEQ gi|11426269|ref|XP_009249.1| DAZ associated protein 1 [Homo sapi...    65  4e-10
+SEQ gi|12804985|gb|AAH01946.1|AAH01946 (BC001946) Similar to etr1 [H...    65  4e-10
+SEQ gi|8778484|gb|AAF79492.1|AC022492_36 (AC022492) F1L3.2 [Arabidop...    65  4e-10
+SEQ gi|7446361|pir||T12196 RNA-binding protein - fava bean (fragment...    65  5e-10
+SEQ gi|7487039|pir||T08931 hypothetical protein T15N24.100 - Arabido...    65  6e-10
+SEQ gi|9506537|ref|NP_061832.1| DAZ associated protein 1 [Homo sapie...    65  7e-10
+SEQ gi|1350821|sp|P49314|ROC2_NICPL 31 KDA RIBONUCLEOPROTEIN, CHLORO...    64  8e-10
+SEQ gi|10120421|gb|AAG13046.1|AC011807_5 (AC011807) Putative RNA bin...    64  8e-10
+SEQ gi|4506445|ref|NP_002887.1| RNA binding motif protein 4 [Homo sa...    64  9e-10
+SEQ gi|11441224|ref|XP_006490.1| RNA binding motif protein 4 [Homo s...    64  9e-10
+SEQ gi|7292475|gb|AAF47879.1| (AE003480) CG1316 gene product [Drosop...    64  1e-09
+SEQ gi|6321803|ref|NP_011879.1| PolyA-binding protein; Mip6p [Saccha...    64  1e-09
+SEQ gi|3024026|sp|Q19706|IF34_CAEEL PROBABLE EUKARYOTIC TRANSLATION ...    64  1e-09
+SEQ gi|6648193|gb|AAF21191.1|AC013483_15 (AC013483) putative RNA-bin...    63  2e-09
+SEQ gi|8843867|dbj|BAA97393.1| (AB023044) contains similarity to tra...    63  2e-09
+SEQ gi|13877739|gb|AAK43947.1|AF370132_1 (AF370132) unknown protein ...    63  2e-09
+SEQ gi|12746392|gb|AAK07474.1|AF329264_1 (AF329264) CUG-BP and ETR-3...    63  2e-09
+SEQ gi|1279382|emb|CAA65831.1| (X97197) spliceosomal protein [Drosop...    63  2e-09
+SEQ gi|3540221|dbj|BAA32663.1| (AB017339) similar to TIA-1 [Bombyx m...    63  2e-09
+SEQ gi|7657502|ref|NP_033058.1| RNA binding motif protein 4 [Mus mus...    63  2e-09
+SEQ gi|12839555|dbj|BAB24594.1| (AK006447) putative [Mus musculus]         63  2e-09
+SEQ gi|13899354|ref|NP_113680.1| hypothetical protein similar to RNA...    63  2e-09
+SEQ gi|13182931|gb|AAK14991.1|AF233063_1 (AF233063) RNA-binding prot...    63  2e-09
+SEQ gi|9758187|dbj|BAB08572.1| (AB015479) RNA-binding protein-like [...    63  2e-09
+SEQ gi|14091677|gb|AAK53819.1| (AF372519) RNA-binding protein UBP1 [...    63  2e-09
+SEQ gi|12583812|gb|AAG59664.1|AC084319_22 (AC084319) putative RNA bi...    63  3e-09
+SEQ gi|7488302|pir||T00912 ribonucleoprotein homolog F21B7.26 - Arab...    63  3e-09
+SEQ gi|9280669|gb|AAF86538.1|AC002560_31 (AC002560) F21B7.8 [Arabido...    63  3e-09
+SEQ gi|7492981|pir||T40057 probable single-strand polynucleotide bin...    62  4e-09
+SEQ gi|14029147|gb|AAK51123.1| (AY030359) polyadenylated mRNA-bindin...    62  4e-09
+SEQ gi|7662250|ref|NP_055667.1| KIAA0682 gene product [Homo sapiens]...    62  5e-09
+SEQ gi|7705365|ref|NP_057280.1| hypothetical protein [Homo sapiens] ...    62  5e-09
+SEQ gi|13279134|gb|AAH04289.1|AAH04289 (BC004289) KIAA0682 gene prod...    62  5e-09
+SEQ gi|9758790|dbj|BAB09088.1| (AB025628) RNA-binding protein-like [...    62  5e-09
+SEQ gi|13278738|gb|AAH04145.1|AAH04145 (BC004145) Unknown (protein f...    61  6e-09
+SEQ gi|13654587|ref|XP_018399.1| similar to heterogeneous nuclear ri...    61  7e-09
+SEQ gi|11357772|pir||T49094 hypothetical protein F4F15.260 - Arabido...    61  7e-09
+SEQ gi|541667|emb|CAA55897.1| (X79339) musashi [Drosophila melanogas...    61  7e-09
+SEQ gi|4432957|dbj|BAA19554.1| (D82361) MSSP-2 [Homo sapiens]              61  8e-09
+SEQ gi|4432958|dbj|BAA19555.1| (D82361) MSSP-2 [Homo sapiens]              61  8e-09
+SEQ gi|7493299|pir||T40511 ribosomal processing, rna binding, nucleo...    61  8e-09
+SEQ gi|13643584|ref|XP_010852.3| 7989 [Homo sapiens]                       61  8e-09
+SEQ gi|14571727|emb|CAC42820.1| (AJ299084) Poly(A)-binding protein [...    61  9e-09
+SEQ gi|13605916|gb|AAK32943.1|AF367357_1 (AF367357) AT4g00830/A_TM01...    61  1e-08
+SEQ gi|1710624|sp|P51990|RO22_XENLA HETEROGENEOUS NUCLEAR RIBONUCLEO...    61  1e-08
+SEQ gi|400927|sp|Q02926|RB97_DROME RIBONUCLEOPROTEIN RB97D >gi|42249...    61  1e-08
+SEQ gi|422492|pir||S33680 ribonucleoprotein - fruit fly (Drosophila ...    61  1e-08
+SEQ gi|8777484|dbj|BAA97064.1| (AP000370) contains similarity to RNA...    61  1e-08
+SEQ gi|1809248|gb|AAB41656.1| (U51586) siah binding protein 1 [Homo ...    61  1e-08
+SEQ gi|5524727|gb|AAD44358.1|AF165892_1 (AF165892) RNA-binding prote...    61  1e-08
+SEQ gi|6176532|gb|AAF05605.1|AF190744_1 (AF190744) poly-U binding sp...    61  1e-08
+SEQ gi|6684440|gb|AAF23589.1|AF114818_1 (AF114818) Ro ribonucleoprot...    61  1e-08
+SEQ gi|14149649|ref|NP_055096.1| siah binding protein 1; FBP interac...    61  1e-08
+SEQ gi|14250810|gb|AAH08875.1|AAH08875 (BC008875) siah binding prote...    61  1e-08
+SEQ gi|7446339|pir||T05730 probable RNA-binding protein cp33 precurs...    61  1e-08
+SEQ gi|13365527|dbj|BAB39137.1| (AB048539) poly(A)-binding protein [...    61  1e-08
+SEQ gi|7295704|gb|AAF51009.1| (AE003576) CG15440 gene product [Droso...    60  1e-08
+SEQ gi|13365525|dbj|BAB39136.1| (AB048538) poly(A)-binding protein [...    60  1e-08
+SEQ gi|12860250|dbj|BAB31894.1| (AK019871) putative [Mus musculus]         60  2e-08
+SEQ gi|1438951|gb|AAB04133.1| (U61842) cutinase negative acting prot...    60  2e-08
+SEQ gi|4885511|ref|NP_005372.1| nucleolin [Homo sapiens] >gi|128841|...    60  2e-08
+SEQ gi|476947|pir||A47369 RNA-binding protein (alternatively spliced...    60  2e-08
+SEQ gi|477707|pir||B47369 RNA-binding protein (alternatively spliced...    60  2e-08
+SEQ gi|1351109|sp|Q08473|SQD_DROME RNA-BINDING PROTEIN SQUID (HETERO...    60  2e-08
+SEQ gi|13650572|ref|XP_015697.1| similar to heterogeneous nuclear ri...    60  2e-08
+SEQ gi|90209|pir||A27441 nucleolin - Chinese hamster                       60  2e-08
+SEQ gi|7485284|pir||T01563 hypothetical protein A_TM018A10.14 - Arab...    60  2e-08
+SEQ gi|128842|sp|P08199|NUCL_MESAU NUCLEOLIN (PROTEIN C23)                 60  2e-08
+SEQ gi|7106377|ref|NP_035010.1| nucleolin [Mus musculus] >gi|128843|...    60  2e-08
+SEQ gi|13529464|gb|AAH05460.1|AAH05460 (BC005460) nucleolin [Mus mus...    60  2e-08
+SEQ gi|4504445|ref|NP_002127.1| heterogeneous nuclear ribonucleoprot...    60  2e-08
+SEQ gi|133252|sp|P09867|ROA1_BOVIN HETEROGENEOUS NUCLEAR RIBONUCLEOP...    60  2e-08
+SEQ gi|133254|sp|P09651|ROA1_HUMAN HETEROGENEOUS NUCLEAR RIBONUCLEOP...    60  2e-08
+SEQ gi|8393547|ref|NP_058944.1| heterogeneous nuclear ribonucleoprot...    60  2e-08
+SEQ gi|387050|gb|AAA36966.1| (M15825) nucleolin, C23 [Cricetulus gri...    60  2e-08
+SEQ gi|1711240|dbj|BAA13161.1| (D86728) TIS [Mus musculus]                 60  2e-08
+SEQ gi|2194069|pdb|1HA1|    Hnrnp A1 (Rbd1,2) From Homo Sapiens            60  2e-08
+SEQ gi|2554653|pdb|1UP1|    Up1, The Two Rna-Recognition Motif Domai...    60  2e-08
+SEQ gi|5542530|pdb|2UP1|A Chain A, Structure Of Up1-Telomeric Dna Co...    60  2e-08
+SEQ gi|13646382|ref|XP_015755.1| similar to heterogeneous nuclear ri...    60  2e-08
+SEQ gi|14043070|ref|NP_112420.1| heterogeneous nuclear ribonucleopro...    60  2e-08
+SEQ gi|604437|gb|AAC47508.1| (U18401) testis-specific-RRM-protein [D...    60  2e-08
+SEQ gi|7299787|gb|AAF54966.1| (AE003701) Rbp4 gene product [Drosophi...    60  2e-08
+SEQ gi|6273351|gb|AAF06330.1|AF192348_1 (AF192348) vitamin D respons...    59  2e-08
+SEQ gi|6425313|emb|CAB60356.1| (AL110485) contains similarity to Pfa...    59  2e-08
+SEQ gi|6981248|ref|NP_036881.1| nucleolin [Rattus norvegicus] >gi|12...    59  3e-08
+SEQ gi|92559|pir||JH0148 nucleolin - rat                                   59  3e-08
+SEQ gi|1094717|prf||2106321A stage-specific activator protein [Stron...    59  3e-08
+SEQ gi|4071008|gb|AAC98546.1| (L15365) stage specific activator prot...    59  3e-08
+SEQ gi|283665|pir||C41732 heterogeneous nuclear RNP protein clone pH...    59  3e-08
+SEQ gi|283666|pir||B41732 heterogeneous nuclear RNP protein clone pH...    59  3e-08
+SEQ gi|8573021|gb|AAF77195.1|AC005801_1 (AC005801) PolyA Binding Pro...    59  3e-08
+SEQ gi|6005725|ref|NP_009116.1| trinucleotide repeat containing 4; e...    59  3e-08
+SEQ gi|10185822|gb|AAG14457.1|AF284423_1 (AF284423) RNA-binding prot...    59  3e-08
+SEQ gi|13436308|gb|AAH04945.1|AAH04945 (BC004945) Unknown (protein f...    59  4e-08
+SEQ gi|14043072|ref|NP_112533.1| heterogeneous nuclear ribonucleopro...    59  4e-08
+SEQ gi|4504447|ref|NP_002128.1| heterogeneous nuclear ribonucleoprot...    59  4e-08
+SEQ gi|7949053|ref|NP_058086.1| heterogeneous nuclear ribonucleoprot...    59  4e-08
+SEQ gi|12653469|gb|AAH00506.1|AAH00506 (BC000506) Similar to heterog...    59  4e-08
+SEQ gi|7439958|pir||G71404 probable ribonucleoprotein - Arabidopsis ...    59  4e-08
+SEQ gi|13640923|ref|XP_017442.1| similar to heterogeneous nuclear ri...    59  4e-08
+SEQ gi|2500575|sp|Q28521|ROA1_MACMU HETEROGENEOUS NUCLEAR RIBONUCLEO...    59  4e-08
+SEQ gi|8922789|ref|NP_060752.1| hypothetical protein FLJ10955 [Homo ...    59  4e-08
+SEQ gi|11433307|ref|XP_007072.1| hypothetical protein FLJ10955 [Homo...    59  4e-08
+SEQ gi|12847286|dbj|BAB27509.1| (AK011272) putative [Mus musculus]         59  4e-08
+SEQ gi|13385144|ref|NP_079958.1| RIKEN cDNA 5730470C09 gene [Mus mus...    59  4e-08
+SEQ gi|1209409|emb|CAA90716.1| (Z50856) hnRNP protein [Chironomus te...    59  4e-08
+SEQ gi|128840|sp|P15771|NUCL_CHICK NUCLEOLIN (PROTEIN C23) >gi|70845...    59  4e-08
+SEQ gi|2275209|gb|AAB63831.1| (AC002337) putative FCA-related protei...    59  5e-08
+SEQ gi|7294455|gb|AAF49799.1| (AE003537) CG10046 gene product [Droso...    59  5e-08
+SEQ gi|212412|gb|AAA48983.1| (M21791) nucleolin/C23 [Gallus gallus]        58  6e-08
+SEQ gi|9758950|dbj|BAB09337.1| (AB016879) contains similarity to RNA...    58  6e-08
+SEQ gi|7297213|gb|AAF52478.1| (AE003616) CG11266 gene product [Droso...    58  7e-08
+SEQ gi|4530579|gb|AAD22102.1| (AF130355) Pad-1 [Neurospora crassa]         58  9e-08
+SEQ gi|2267567|gb|AAB63581.1| (AF009003) glycine-rich RNA binding pr...    58  1e-07
+SEQ gi|1710623|sp|P51989|RO21_XENLA HETEROGENEOUS NUCLEAR RIBONUCLEO...    57  1e-07
+SEQ gi|133256|sp|P21522|ROA1_SCHAM HETEROGENEOUS NUCLEAR RIBONUCLEOP...    57  1e-07
+SEQ gi|102860|pir||S13513 heterogeneous ribonuclear particle protein...    57  1e-07
+SEQ gi|13644124|ref|XP_010858.2| nucleolin [Homo sapiens]                  57  1e-07
+SEQ gi|6911144|gb|AAF31403.1|AF200322_1 (AF200322) putative glycine-...    57  1e-07
+SEQ gi|9246975|gb|AAF86231.1|AF248649_1 (AF248649) RNA-binding prote...    57  1e-07
+SEQ gi|3121946|sp|O13759|CSX1_SCHPO RNA-BINDING POST-TRANSCRIPTIONAL...    57  1e-07
+SEQ gi|87650|pir||S02061 heterogeneous ribonuclear particle protein ...    57  1e-07
+SEQ gi|6911142|gb|AAF31402.1| (AF200321) putative glycine-rich RNA b...    57  2e-07
+SEQ gi|12803083|gb|AAH02343.1|AAH02343 (BC002343) Similar to nucleol...    57  2e-07
+SEQ gi|422617|pir||S32644 nucleolin - African clawed frog >gi|295899...    56  2e-07
+SEQ gi|1518654|gb|AAB07067.1| (U59476) RNA-binding protein lark [Dro...    56  2e-07
+SEQ gi|12018306|ref|NP_072143.1| nucleolin-related protein NRP (NRP)...    56  2e-07
+SEQ gi|544426|sp|Q03878|GRP_DAUCA GLYCINE-RICH RNA-BINDING PROTEIN >...    56  3e-07
+SEQ gi|1911429|gb|AAB50657.1| A0=heterogeneous nuclear ribonucleopro...    56  3e-07
+SEQ gi|12642586|gb|AAK00297.1|AF314172_1 (AF314172) BRUNOL2 [Mus mus...    56  3e-07
+SEQ gi|4757926|ref|NP_004893.1| splicing factor (CC1.3) [Homo sapien...    56  3e-07
+SEQ gi|405194|gb|AAA16347.1| (L10911) splicing factor [Homo sapiens]...    56  3e-07
+SEQ gi|5803036|ref|NP_006796.1| heterogeneous nuclear ribonucleoprot...    56  3e-07
+SEQ gi|13278367|gb|AAH04000.1|AAH04000 (BC004000) Similar to splicin...    56  3e-07
+SEQ gi|13653567|ref|XP_009458.2| splicing factor (CC1.3) [Homo sapiens]    56  3e-07
+SEQ gi|12859567|dbj|BAB31694.1| (AK019388) putative [Mus musculus]         56  3e-07
+SEQ gi|543010|pir||S41768 splicing factor homolog - human >gi|348239...    56  3e-07
+SEQ gi|12659074|gb|AAK01176.1| (AF315811) RNA-binding protein [Triti...    56  3e-07
+SEQ gi|1346180|sp|P49310|GRP1_SINAL GLYCINE-RICH RNA-BINDING PROTEIN...    56  4e-07
+SEQ gi|7439982|pir||S59529 RNA-binding glycine-rich protein-1 (RGP-1...    56  4e-07
+SEQ gi|8922388|ref|NP_060547.1| hypothetical protein FLJ10377 [Homo ...    56  4e-07
+SEQ gi|13642042|ref|XP_004626.2| hypothetical protein FLJ10377 [Homo...    56  4e-07
+SEQ gi|14488165|emb|CAC42098.1| (AJ314912) RBD protein [Chironomus t...    56  4e-07
+SEQ gi|133258|sp|P17130|ROA1_XENLA HETEROGENEOUS NUCLEAR RIBONUCLEOP...    56  4e-07
+SEQ gi|104063|pir||B34840 heterogeneous ribonuclear particle protein...    56  4e-07
+SEQ gi|8894856|emb|CAB96000.1| (AL360054) Protein with 3 RNA binding...    55  4e-07
+SEQ gi|12836469|dbj|BAB23670.1| (AK004919) putative [Mus musculus]         55  4e-07
+SEQ gi|1346181|sp|P49311|GRP2_SINAL GLYCINE-RICH RNA-BINDING PROTEIN...    55  4e-07
+SEQ gi|7496180|pir||T19347 hypothetical protein C17D12.2 - Caenorhab...    55  4e-07
+SEQ gi|8923460|ref|NP_060316.1| tRNA selenocysteine associated prote...    55  5e-07
+SEQ gi|4263832|gb|AAD15475.1| (AC006067) putative spliceosome-associ...    55  5e-07
+SEQ gi|1084415|pir||S46286 RNA-binding protein - wood tobacco >gi|62...    55  5e-07
+SEQ gi|1723533|sp|Q10422|YDC1_SCHPO HYPOTHETICAL 33.6 KDA PROTEIN C2...    55  5e-07
+SEQ gi|7522573|pir||T38529 rna binding protein - fission yeast (Schi...    55  5e-07
+SEQ gi|784909|dbj|BAA07210.1| (D38013) Bmsqd-1 [Bombyx mori]               55  5e-07
+SEQ gi|1465873|dbj|BAA07211.1| (D38014) Bmsqd-2 [Bombyx mori]              55  5e-07
+SEQ gi|12711700|ref|NP_075416.1| tRNA selenocysteine associated prot...    55  5e-07
+SEQ gi|1149523|emb|CAA64070.1| (X94344) Neosin [Mus musculus]              55  6e-07
+SEQ gi|6911146|gb|AAF31404.1|AF200323_1 (AF200323) putative glycine-...    55  6e-07
+SEQ gi|7299785|gb|AAF54964.1| (AE003701) sqd gene product [Drosophil...    55  6e-07
+SEQ gi|2226370|gb|AAC50020.1| (AF005359) RNA-binding protein [Nicoti...    55  6e-07
+SEQ gi|181914|gb|AAA35781.1| (M94630) DNA-binding protein [Homo sapi...    55  7e-07
+SEQ gi|420052|pir||A44192 heterogeneous nuclear ribonucleoprotein C-...    55  7e-07
+SEQ gi|2645699|gb|AAC61787.1| (AF031933) glycine-rich RNA-binding pr...    55  7e-07
+SEQ gi|2674201|gb|AAC61786.1| (AF036339) glycine-rich RNA-binding pr...    55  7e-07
+SEQ gi|544424|sp|Q03250|GRP7_ARATH GLYCINE-RICH RNA-BINDING PROTEIN ...    55  7e-07
+SEQ gi|6671602|ref|NP_031542.1| AU-rich element RNA-binding protein ...    54  7e-07
+SEQ gi|7657383|ref|NP_031389.2| non-Pou domain-containing octamer (A...    54  8e-07
+SEQ gi|13629770|ref|XP_010139.3| non-Pou domain-containing octamer (...    54  8e-07
+SEQ gi|12836308|dbj|BAB23598.1| (AK004830) putative [Mus musculus]         54  8e-07
+SEQ gi|13124797|sp|Q15233|NR54_HUMAN 54 KDA NUCLEAR RNA- AND DNA-BIN...    54  8e-07
+SEQ gi|13529479|gb|AAH05465.1|AAH05465 (BC005465) non-POU-domain-con...    54  8e-07
+SEQ gi|3747052|gb|AAC77437.1| (AF093414) estrogen response element b...    54  8e-07
+SEQ gi|7493336|pir||T39935 RNA binding protein - fission yeast (Schi...    54  9e-07
+SEQ gi|2119042|pir||S41771 glycine-rich RNA-binding protein RGP-1a -...    54  9e-07
+SEQ gi|5453806|ref|NP_006363.1| NS1-associated protein 1 [Homo sapie...    54  1e-06
+SEQ gi|7439994|pir||T06796 glycine-rich RNA-binding protein - garden...    54  1e-06
+SEQ gi|433344|gb|AAC50056.1| (U02019) p37 AUF1 [Homo sapiens]              54  1e-06
+SEQ gi|870743|dbj|BAA09522.1| (D55671) heterogeneous nuclear ribonuc...    54  1e-06
+SEQ gi|14110414|ref|NP_002129.2| heterogeneous nuclear ribonucleopro...    54  1e-06
+SEQ gi|870747|dbj|BAA09524.1| (D55673) heterogeneous nuclear ribonuc...    54  1e-06
+SEQ gi|14110420|ref|NP_112738.1| heterogeneous nuclear ribonucleopro...    54  1e-06
+SEQ gi|1082775|pir||A54601 RNA-binding protein AUF1 - human                54  1e-06
+SEQ gi|2773158|gb|AAB96683.1| (AF039575) heterogeneous nuclear ribon...    54  1e-06
+SEQ gi|14110417|ref|NP_112737.1| heterogeneous nuclear ribonucleopro...    54  1e-06
+SEQ gi|452936|gb|AAB28794.1| 60 kda non-pathogenic specific antigen ...    54  1e-06
+SEQ gi|2331133|gb|AAB66885.1| (AF010580) glycine-rich protein [Oryza...    54  1e-06
+SEQ gi|10047233|dbj|BAB13405.1| (AB046799) KIAA1579 protein [Homo sa...    54  1e-06
+SEQ gi|6321599|ref|NP_011675.1| nuclear localization sequence bindin...    54  1e-06
+SEQ gi|253181|gb|AAB22809.1| NSR1=nucleolin homolog [Saccharomyces c...    54  1e-06
+SEQ gi|7239507|gb|AAF43233.1|AC012654_17 (AC012654) Contains similar...    54  1e-06
+SEQ gi|9294301|dbj|BAB02203.1| (AP001298) contains similarity to RNA...    54  1e-06
+SEQ gi|544416|sp|Q05966|GR10_BRANA GLYCINE-RICH RNA-BINDING PROTEIN ...    54  1e-06
+SEQ gi|6118522|gb|AAF04132.1|AF190745_1 (AF190745) poly-U binding sp...    54  2e-06
+SEQ gi|7292088|gb|AAF47501.1| (AE003471) poly-U-binding-splicing-fac...    54  2e-06
+SEQ gi|7292089|gb|AAF47502.1| (AE003471) poly-U-binding-splicing-fac...    54  2e-06
+SEQ gi|7439998|pir||T10479 glycine-rich RNA-binding protein GRP1 - C...    54  2e-06
+SEQ gi|7024451|dbj|BAA92156.1| (AB007819) glycine-rich RNA-binding p...    53  2e-06
+SEQ gi|7504374|pir||T22767 hypothetical protein F56A8.6 - Caenorhabd...    53  2e-06
+SEQ gi|2119043|pir||S41773 glycine-rich RNA-binding protein RGP-1c -...    53  2e-06
+SEQ gi|9759450|dbj|BAB10366.1| (AB006696) contains similarity to RNA...    53  2e-06
+SEQ gi|9757907|dbj|BAB08354.1| (AB015475) contains similarity to RNA...    53  2e-06
+SEQ gi|7428647|pir||S58472 lysine-rich surface antigen - Entamoeba h...    53  2e-06
+SEQ gi|2462758|gb|AAB71977.1| (AC002292) putative RNA-binding protei...    53  2e-06
+SEQ gi|12963531|ref|NP_075633.1| non-POU-domain-containing, octamer-...    53  2e-06
+SEQ gi|2293480|gb|AAB65412.1| (AF011331) glycine-rich protein [Oryza...    53  2e-06
+SEQ gi|136628|sp|P26369|U2AF_MOUSE SPLICING FACTOR U2AF 65 KDA SUBUN...    53  3e-06
+SEQ gi|110998|pir||S22646 splicing factor U2AF homolog - mouse >gi|1...    53  3e-06
+SEQ gi|13242324|ref|NP_077380.1| RNA binding protein p45AUF1 [Rattus...    53  3e-06
+SEQ gi|9588098|dbj|BAB03466.1| (AB046616) RNA binding protein p42 AU...    53  3e-06
+SEQ gi|9588100|dbj|BAB03467.1| (AB046617) RNA binding protein p40 AU...    53  3e-06
+SEQ gi|9588102|dbj|BAB03468.1| (AB046618) RNA binding protein p37 AU...    53  3e-06
+SEQ gi|6576815|dbj|BAA88342.1| (AB035725) SYNCRIP [Mus musculus]           52  3e-06
+SEQ gi|13643226|ref|XP_004340.3| 10495 [Homo sapiens]                      52  3e-06
+SEQ gi|13639207|ref|XP_006169.2| CUG triplet repeat, RNA-binding pro...    52  3e-06
+SEQ gi|9758966|dbj|BAB09409.1| (AB016893) splicing factor-like prote...    52  3e-06
+SEQ gi|12850171|dbj|BAB28620.1| (AK013047) putative [Mus musculus]         52  3e-06
+SEQ gi|12859434|dbj|BAB31653.1| (AK019296) putative [Mus musculus]         52  3e-06
+SEQ gi|387047|gb|AAA36961.1| (M13757) nucleolin [Cricetus cricetus]        52  4e-06
+SEQ gi|7439986|pir||T03586 glycine-rich RNA-binding protein 2 - rice...    52  4e-06
+SEQ gi|5726567|gb|AAD48471.1|AF169205_1 (AF169205) glycine-rich RNA-...    52  4e-06
+SEQ gi|12718462|emb|CAC28728.1| (AL513445) conserved hypothetical pr...    52  4e-06
+SEQ gi|7489099|pir||T16961 RNA-binding protein RGP-3 - wood tobacco ...    52  4e-06
+SEQ gi|7439995|pir||T15047 RNA binding protein 3 - wood tobacco >gi|...    52  4e-06
+SEQ gi|6273331|gb|AAF06329.1|AF191305_1 (AF191305) glycine-rich RNA ...    52  4e-06
+SEQ gi|13654154|ref|XP_015298.1| similar to RNA binding motif protei...    52  4e-06
+SEQ gi|1710626|sp|P51992|RO32_XENLA HETEROGENEOUS NUCLEAR RIBONUCLEO...    52  4e-06
+SEQ gi|7439985|pir||T03583 glycine-rich RNA-binding protein - rice >...    52  4e-06
+SEQ gi|9581852|gb|AAF89096.1|AF169013_1 (AF169013) RNA binding prote...    52  4e-06
+SEQ gi|13646398|ref|XP_012734.5| 10068 [Homo sapiens]                      52  5e-06
+SEQ gi|998355|gb|AAA76605.1| (U35661) colony 1 [Ophiostoma ulmi]           52  6e-06
+SEQ gi|7439987|pir||T04346 glycine-rich RNA-binding protein - rice >...    51  6e-06
+SEQ gi|6782261|emb|CAB70238.1| (AL137227) contains similarity to Pfa...    51  7e-06
+SEQ gi|464252|sp|P20397|NUCL_XENLA NUCLEOLIN (PROTEIN C23) >gi|10414...    51  7e-06
+SEQ gi|8922450|ref|NP_060577.1| hypothetical protein FLJ10482 [Homo ...    51  8e-06
+SEQ gi|12803481|gb|AAH02566.1|AAH02566 (BC002566) Similar to hypothe...    51  8e-06
+SEQ gi|13649772|ref|XP_007511.2| hypothetical protein FLJ10482 [Homo...    51  8e-06
+SEQ gi|7439981|pir||S71779 glycine-rich RNA-binding protein GRP1 - w...    51  8e-06
+SEQ gi|7487621|pir||T02113 hypothetical protein T3K9.17 - Arabidopsi...    51  8e-06
+SEQ gi|9843661|emb|CAC03604.1| (AJ293800) SC35-like splicing factor ...    51  8e-06
+SEQ gi|11994559|dbj|BAB02599.1| (AP002038) contains similarity to Se...    51  8e-06
+SEQ gi|4826998|ref|NP_005057.1| splicing factor proline/glutamine ri...    51  9e-06
+SEQ gi|10442545|gb|AAG17365.1| (AF272847) PTB-associated splicing fa...    51  9e-06
+SEQ gi|13528666|gb|AAH04534.1|AAH04534 (BC004534) Similar to splicin...    51  9e-06
+SEQ gi|13638760|ref|XP_002121.2| splicing factor proline/glutamine r...    51  9e-06
+SEQ gi|7492928|pir||T38656 probable RNA-binding protein - fission ye...    51  9e-06
+SEQ gi|6678271|ref|NP_031401.1| TAR DNA binding protein; TAR DNA-bin...    51  9e-06
+SEQ gi|544423|sp|Q99070|GRP2_SORBI GLYCINE-RICH RNA-BINDING PROTEIN ...    51  9e-06
+SEQ gi|13752575|ref|NP_112539.1| cleavage stimulation factor, 3' pre...    51  1e-05
+SEQ gi|14149675|ref|NP_056050.1| likely ortholog of mouse variant po...    51  1e-05
+SEQ gi|4098582|gb|AAD00328.1| (U79567) RBM1 [Sminthopsis macroura]         51  1e-05
+SEQ gi|2331131|gb|AAB66884.1| (AF010579) glycine-rich protein [Oryza...    51  1e-05
+SEQ gi|9756546|emb|CAC02176.1| (AL390114) hypothetical protein LM12....    51  1e-05
+SEQ gi|2119044|pir||S41772 glycine-rich RNA-binding protein RGP-1b -...    51  1e-05
+SEQ gi|4104336|gb|AAD01997.1| (AF034741) heterogeneous nuclear ribon...    51  1e-05
+SEQ gi|7630030|emb|CAB88326.1| (AL162459) RNA binding protein-like [...    51  1e-05
+SEQ gi|5713194|gb|AAD47839.1|AF170082_1 (AF170082) cleavage stimulat...    51  1e-05
+SEQ gi|7300420|gb|AAF55577.1| (AE003723) CstF-64 gene product [Droso...    51  1e-05
+SEQ gi|4704605|gb|AAD28176.1|AF109917_1 (AF109917) glycine-rich RNA-...    51  1e-05
+SEQ gi|6319835|ref|NP_009916.1| Protein with RNA recognition motifs;...    51  1e-05
+SEQ gi|7439979|pir||S71453 glycine-rich RNA-binding protein, low-tem...    51  1e-05
+SEQ gi|9759319|dbj|BAB09686.1| (AP002544) contains similarity to RNA...    51  1e-05
+SEQ gi|2547076|dbj|BAA22860.1| (D89678) A+U-rich element RNA binding...    51  1e-05
+SEQ gi|7446333|pir||JW0079 heterogeneous nuclear ribonucleoprotein h...    51  1e-05
+SEQ gi|4885423|ref|NP_005454.1| heterogeneous nuclear ribonucleoprot...    51  1e-05
+SEQ gi|7710036|ref|NP_057899.1| heterogeneous nuclear ribonucleoprot...    51  1e-05
+SEQ gi|3037013|gb|AAC12926.1| (AF037448) Gry-rbp [Homo sapiens]            51  1e-05
+SEQ gi|14141154|ref|NP_112480.1| heterogeneous nuclear ribonucleopro...    51  1e-05
+SEQ gi|1362731|pir||S56751 single stranded D box binding factor 1 - ...    51  1e-05
+SEQ gi|1362732|pir||S56750 single stranded D box binding factor 2 - ...    51  1e-05
+SEQ gi|7507390|pir||T24666 hypothetical protein T07F10.3 - Caenorhab...    51  1e-05
+SEQ gi|4557493|ref|NP_001316.1| cleavage stimulation factor subunit ...    51  1e-05
+SEQ gi|632500|gb|AAB50269.1| (U17394) polyadenylation factor 64 kDa ...    51  1e-05
+SEQ gi|2791276|emb|CAB08591.1| (Z95327) Cleavage Stimulation Factor ...    51  1e-05
+SEQ gi|4678893|emb|CAB41262.1| (Z78021) CSTF2 (cleavage stimulation ...    51  1e-05
+SEQ gi|11139720|gb|AAG31814.1|AF317552_1 (AF317552) polyadenylation ...    51  1e-05
+SEQ gi|542850|pir||S41766 heterogeneous nuclear ribonucleoprotein G ...    51  1e-05
+SEQ gi|542851|pir||S43202 hnRNP G protein - human                          51  1e-05
+SEQ gi|4504451|ref|NP_002130.1| RNA binding motif protein, X chromos...    51  1e-05
+SEQ gi|5579009|emb|CAB51361.1| (AJ237846) heterogeneous nuclear ribo...    51  1e-05
+SEQ gi|6755296|ref|NP_035382.1| RNA binding motif protein, X chromos...    51  1e-05
+SEQ gi|13651448|ref|XP_016562.1| similar to RNA binding motif protei...    51  1e-05
+SEQ gi|1076672|pir||S54255 probable glycine rich RNA binding protein...    50  1e-05
+SEQ gi|7706316|ref|NP_057108.1| CGI-79 protein [Homo sapiens] >gi|13...    50  1e-05
+SEQ gi|4938275|emb|CAB43745.1| (AL050405) hypothetical protein [Homo...    50  1e-05
+SEQ gi|5531845|gb|AAD44497.1| (AF078865) RNA-binding protein [Homo s...    50  1e-05
+SEQ gi|11358672|pir||T49019 probable RNA binding protein - Arabidops...    50  1e-05
+SEQ gi|6566348|dbj|BAA88269.1| (AB008022) RNA binding protein [Arabi...    50  1e-05
+SEQ gi|12321044|gb|AAG50640.1|AC082643_4 (AC082643) RNA binding prot...    50  1e-05
+SEQ gi|13637599|ref|XP_010368.5| similar to RNA binding motif protei...    50  1e-05
+SEQ gi|13548328|emb|CAC35875.1| (AL590346) putative protein [Arabido...    50  1e-05
+SEQ gi|6321689|ref|NP_011766.1| Ygr250cp [Saccharomyces cerevisiae] ...    50  1e-05
+SEQ gi|6005926|ref|NP_009210.1| U2 small nuclear ribonucleoprotein a...    50  2e-05
+SEQ gi|107723|pir||S20250 splicing factor U2AF large chain - human >...    50  2e-05
+SEQ gi|12741532|ref|XP_008965.2| U2 small nuclear ribonucleoprotein ...    50  2e-05
+SEQ gi|112994|sp|P10979|GRPA_MAIZE GLYCINE-RICH RNA-BINDING, ABSCISI...    50  2e-05
+SEQ gi|6681425|dbj|BAA88672.1| (AB030233) CiMsi [Ciona intestinalis]       50  2e-05
+SEQ gi|7506352|pir||T23960 hypothetical protein R06C1.4 - Caenorhabd...    50  2e-05
+SEQ gi|14318545|ref|NP_116678.1| poly(A) binding protein; related to...    50  2e-05
+SEQ gi|14574494|gb|AAG23482.2| (AC084197) Hypothetical protein Y73B6...    50  2e-05
+SEQ gi|7506856|pir||T29470 hypothetical protein T01D1.2b - Caenorhab...    50  2e-05
+SEQ gi|14574220|gb|AAB37882.2| (U80455) Hypothetical protein T01D1.2...    50  2e-05
+SEQ gi|452239|dbj|BAA05461.1| (D26442) PES4 PAB-like protein [Saccha...    50  2e-05
+SEQ gi|3342756|gb|AAC41383.1| (U71299) RNA-binding protein AxRNBP [A...    50  2e-05
+SEQ gi|11358835|pir||T50647 serine/arginine-rich protein [imported] ...    50  2e-05
+SEQ gi|12323160|gb|AAG51556.1|AC027034_2 (AC027034) unknown protein;...    50  2e-05
+SEQ gi|7301350|gb|AAF56478.1| (AE003752) msi gene product [Drosophil...    50  2e-05
+SEQ gi|730688|sp|P39697|RT19_ARATH 40S RIBOSOMAL PROTEIN S19, MITOCH...    49  2e-05
+SEQ gi|8809615|dbj|BAA97166.1| (AB018117) 40S ribosomal protein S19 ...    49  2e-05
+SEQ gi|1710625|sp|P51968|RO31_XENLA HETEROGENEOUS NUCLEAR RIBONUCLEO...    49  3e-05
+SEQ gi|7708595|emb|CAB90143.1| (AL355012) putative cleavage or polya...    49  3e-05
+SEQ gi|11275253|pir||JC7299 transformer-2-like protein - liverwort (...    49  3e-05
+SEQ gi|4502847|ref|NP_001271.1| cold inducible RNA-binding protein; ...    49  3e-05
+SEQ gi|5031755|ref|NP_005817.1| heterogeneous nuclear ribonucleoprot...    49  3e-05
+SEQ gi|7270986|emb|CAB77630.1| (AJ390490) spliceosome-associated ess...    49  3e-05
+SEQ gi|12847345|dbj|BAB27533.1| (AK011307) putative [Mus musculus]         49  3e-05
+SEQ gi|13435603|gb|AAH04679.1|AAH04679 (BC004679) Similar to heterog...    49  3e-05
+SEQ gi|13629286|ref|XP_001541.2| heterogeneous nuclear ribonucleopro...    49  3e-05
+SEQ gi|7243688|gb|AAF43415.1|AF232775_1 (AF232775) SR family splicin...    49  3e-05
+SEQ gi|6754222|ref|NP_034578.1| heterogeneous nuclear ribonucleoprot...    49  3e-05
+SEQ gi|1843458|gb|AAB81555.1| (U36929) Rbm [Mus musculus]                  49  3e-05
+SEQ gi|13786156|ref|NP_112620.1| heterogeneous nuclear ribonucleopro...    49  3e-05
+SEQ gi|4378711|gb|AAD19638.1| (AF108653) nucleic acid binding factor...    49  3e-05
+SEQ gi|6562845|emb|CAB62553.1| (AJ238854) heterogeneous nuclear ribo...    49  3e-05
+SEQ gi|6562847|emb|CAB62554.1| (AJ238855) heterogeneous nuclear ribo...    49  3e-05
+SEQ gi|12851175|dbj|BAB28963.1| (AK013709) putative [Mus musculus]         49  3e-05
+SEQ gi|12323333|gb|AAG51641.1|AC018908_7 (AC018908) putative U2 snRN...    49  3e-05
+SEQ gi|544425|sp|Q03251|GRP8_ARATH GLYCINE-RICH RNA-BINDING PROTEIN ...    49  3e-05
+SEQ gi|10334491|emb|CAC10207.1| (AJ299058) putative splicing factor ...    49  3e-05
+SEQ gi|542649|pir||S40777 heterogeneous ribonuclear particle protein...    49  3e-05
+SEQ gi|6680946|ref|NP_031731.1| cold inducible RNA-binding protein [...    49  3e-05
+SEQ gi|11346382|pir||T45648 probable RNA binding protein - Arabidops...    49  3e-05
+SEQ gi|6324895|ref|NP_014964.1| homolog of mammalian splicing factor...    49  3e-05
+SEQ gi|13938661|gb|AAH07487.1|AAH07487 (BC007487) Similar to U2 smal...    49  4e-05
+SEQ gi|14250571|gb|AAH08740.1|AAH08740 (BC008740) U2 small nuclear r...    49  4e-05
+SEQ gi|11358504|pir||T48500 Mei2-like protein - Arabidopsis thaliana...    49  4e-05
+SEQ gi|9755847|emb|CAC01929.1| (AJ293728) translation initiation fac...    49  4e-05
+SEQ gi|12407751|gb|AAG53636.1|AF291712_1 (AF291712) initiation facto...    49  4e-05
+SEQ gi|9858779|gb|AAG01126.1|AF273333_11 (AF273333) BAC19.11 [Lycope...    49  4e-05
+SEQ gi|1079438|pir||S53710 ribonucleoprotein - chicken >gi|550458|gb...    49  4e-05
+SEQ gi|1076731|pir||S53050 RNA binding protein - barley >gi|728594|e...    49  4e-05
+SEQ gi|2133909|pir||I50512 ribonucleoprotein - zebra fish (fragment)...    49  5e-05
+SEQ gi|2137113|pir||I49069 A+U-rich RNA-binding protein - mouse (fra...    49  5e-05
+SEQ gi|5822501|pdb|2U2F|A Chain A, Solution Structure Of The Second ...    49  5e-05
+SEQ gi|7331978|gb|AAF60666.1| (AC024791) contains similarity to Pfam...    49  5e-05
+SEQ gi|7331988|gb|AAF60676.1| (AC024791) contains similarity to Pfam...    49  5e-05
+SEQ gi|11761319|dbj|BAB19129.1| (AB044535) cold-inducible RNA bindin...    49  5e-05
+SEQ gi|9756932|emb|CAC02544.1| (AL390114) possible poly(A)-binding p...    48  6e-05
+SEQ gi|12850804|dbj|BAB28857.1| (AK013444) putative [Mus musculus]         48  6e-05
+SEQ gi|3850823|emb|CAA77136.1| (Y18351) U2 snRNP auxiliary factor, l...    48  6e-05
+SEQ gi|12838734|dbj|BAB24311.1| (AK005907) putative [Mus musculus]         48  6e-05
+SEQ gi|1346959|sp|P48810|RB87_DROME HETEROGENEOUS NUCLEAR RIBONUCLEO...    48  6e-05
+SEQ gi|8318|emb|CAA42212.1| (X59691) P11 (hnRNP protein) [Drosophila...    48  6e-05
+SEQ gi|283664|pir||A41732 heterogeneous ribonuclear particle protein...    48  6e-05
+SEQ gi|829184|emb|CAA41170.1| (X58183) heterogeneous nuclear ribonuc...    48  6e-05
+SEQ gi|7299788|gb|AAF54967.1| (AE003701) Hrb87F gene product [Drosop...    48  6e-05
+SEQ gi|10799202|gb|AAG23220.1| (AF310215) glycine-rich RNA-binding p...    48  6e-05
+SEQ gi|7300883|gb|AAF56024.1| (AE003739) CG6937 gene product [Drosop...    48  7e-05
+SEQ gi|7506500|pir||T24067 hypothetical protein R09B3.2 - Caenorhabd...    48  8e-05
+SEQ gi|5454064|ref|NP_006319.1| RNA binding motif protein 14; SYT in...    48  8e-05
+SEQ gi|7439972|pir||T01356 glycine-rich RNA binding protein - maize ...    48  8e-05
+SEQ gi|6677685|ref|NP_033059.1| RNA binding motif protein, X chromos...    48  9e-05
+SEQ gi|6682989|dbj|BAA88978.1| (AB025351) BFCIRP [Rana catesbeiana]        48  9e-05
+SEQ gi|4098580|gb|AAD00327.1| (U79565) RBM1 [Macropus eugenii]             47  9e-05
+SEQ gi|14211667|dbj|BAB56132.1| (AB062361) MADP-1 protein [Homo sapi...    47  9e-05
+SEQ gi|12803583|gb|AAH02625.1|AAH02625 (BC002625) Similar to heterog...    47  1e-04
+SEQ gi|4758542|ref|NP_004490.1| heterogeneous nuclear ribonucleoprot...    47  1e-04
+SEQ gi|14110404|ref|NP_112556.1| heterogeneous nuclear ribonucleopro...    47  1e-04
+SEQ gi|13785947|gb|AAK39523.1| (AF355190) RNA-binding motif protein ...    47  1e-04
+SEQ gi|7291656|gb|AAF47078.1| (AE003462) TBPH gene product [alt 1] [...    47  1e-04
+SEQ gi|7291658|gb|AAF47080.1| (AE003462) TBPH gene product [alt 3] [...    47  1e-04
+SEQ gi|10177573|dbj|BAB10805.1| (AB017060) eukaryotic translation in...    47  1e-04
+SEQ gi|2129944|pir||JC4817 RNA-binding protein RZ-1 - wood tobacco >...    47  1e-04
+SEQ gi|4033485|sp|Q24562|U2AF_DROME SPLICING FACTOR U2AF 50 KDA SUBU...    47  1e-04
+SEQ gi|8850217|ref|NP_055284.2| testes-specific heterogenous nuclear...    47  1e-04
+SEQ gi|7486241|pir||T01286 hypothetical protein F27F23.18 - Arabidop...    47  1e-04
+SEQ gi|8927581|gb|AAF82129.1|AF279289_1 (AF279289) testes-specific h...    47  1e-04
+SEQ gi|3309585|gb|AAC26114.1| (AF072431) putative RNA binding protei...    47  1e-04
+SEQ gi|7488314|pir||T05255 RNA-binding protein homolog F18A5.250 - A...    47  2e-04
+SEQ gi|7673357|gb|AAF66824.1|AF190656_1 (AF190656) poly(A)-binding p...    47  2e-04
+SEQ gi|7767662|gb|AAF69159.1|AC007915_11 (AC007915) F27F5.17 [Arabid...    47  2e-04
+SEQ gi|5921787|sp|O93235|CIRP_XENLA COLD-INDUCIBLE RNA-BINDING PROTE...    47  2e-04
+SEQ gi|6321394|ref|NP_011471.1| component of the cleavage and polyad...    47  2e-04
+SEQ gi|7509375|pir||T31517 hypothetical protein Y116A8C.34 - Caenorh...    47  2e-04
+SEQ gi|4006898|emb|CAB16828.1| (Z99708) splicing factor-like protein...    47  2e-04
+SEQ gi|5031693|ref|NP_005749.1| heterogeneous nuclear protein simila...    46  2e-04
+SEQ gi|1710627|sp|P51991|ROA3_HUMAN HETEROGENEOUS NUCLEAR RIBONUCLEO...    46  2e-04
+SEQ gi|7298629|gb|AAF53845.1| (AE003664) CG10466 gene product [Droso...    46  2e-04
+SEQ gi|3929375|sp|Q09511|SFR2_CAEEL PUTATIVE SPLICING FACTOR, ARGINI...    46  2e-04
+SEQ gi|14574034|gb|AAK68298.1|U23484_14 (U23484) Hypothetical protei...    46  2e-04
+SEQ gi|322514|pir||S31443 glycine-rich RNA-binding protein (clone A8...    46  2e-04
+SEQ gi|2826811|emb|CAA05727.1| (AJ002892) AtGRP2 [Arabidopsis thaliana]    46  2e-04
+SEQ gi|7439991|pir||T05254 probable RNA-binding protein F18A5.240 - ...    46  2e-04
+SEQ gi|12643764|sp|Q43349|ROC2_ARATH 29 KDA RIBONUCLEOPROTEIN, CHLOR...    46  2e-04
+SEQ gi|681904|dbj|BAA06519.1| (D31711) cp29 [Arabidopsis thaliana]         46  2e-04
+SEQ gi|7428649|pir||B71334 probable RNA-binding protein - syphilis s...    46  2e-04
+SEQ gi|11346380|pir||T45886 RNA-binding protein cp29 protein - Arabi...    46  2e-04
+SEQ gi|9964085|gb|AAG09816.1|AF278702_1 (AF278702) cold-inducible RN...    46  2e-04
+SEQ gi|2460200|gb|AAB71866.1| (AF020833) eukaryotic translation init...    46  2e-04
+SEQ gi|8393308|ref|NP_058572.1| eukaryotic translation initiation fa...    46  2e-04
+SEQ gi|6492222|gb|AAF14221.1|AF108214_1 (AF108214) eukaryotic transl...    46  2e-04
+SEQ gi|6601502|gb|AAF19004.1|AF151366_1 (AF151366) arginine/serine-r...    46  2e-04
+SEQ gi|7949121|ref|NP_058089.1| RNA binding motif protein 3 [Mus mus...    46  2e-04
+SEQ gi|11358431|pir||T51274 hypothetical protein T8M16_190 - Arabido...    46  2e-04
+SEQ gi|5052976|gb|AAD38787.1|AF153444_1 (AF153444) hnRNP A/B related...    46  3e-04
+SEQ gi|9294652|dbj|BAB03001.1| (AP001297) glycine-rich RNA binding p...    46  3e-04
+SEQ gi|5007080|gb|AAD37807.1| (AF153689) poly(A)-binding protein [Or...    46  3e-04
+SEQ gi|631384|pir||B49418 spermatogenesis factor AZF (clone MK29) - ...    46  3e-04
+SEQ gi|4379044|emb|CAA53660.1| (X76060) YRRM2 [Homo sapiens]               46  3e-04
+SEQ gi|13640192|ref|XP_013162.2| RNA binding motif protein, Y chromo...    46  3e-04
+SEQ gi|6755478|ref|NP_035488.1| splicing factor, arginine/serine-ric...    46  3e-04
+SEQ gi|266991|sp|P30352|SFR2_CHICK SPLICING FACTOR, ARGININE/SERINE-...    46  3e-04
+SEQ gi|3929383|sp|Q62093|SFR2_MOUSE SPLICING FACTOR, ARGININE/SERINE...    46  3e-04
+SEQ gi|3850821|emb|CAA77135.1| (Y18350) U2 snRNP auxiliary factor, l...    46  3e-04
+SEQ gi|6815067|dbj|BAA90354.1| (AP001080) ESTs AU082210(C53655),AU05...    46  3e-04
+SEQ gi|12849869|dbj|BAB28513.1| (AK012852) putative [Mus musculus]         46  3e-04
+SEQ gi|13386268|ref|NP_082192.1| RIKEN cDNA 1300007E16 gene [Mus mus...    46  3e-04
+SEQ gi|11358792|pir||T48456 rna binding protein-like - Arabidopsis t...    46  3e-04
+SEQ gi|12324900|gb|AAG52402.1|AC020579_4 (AC020579) putative RNA-bin...    46  4e-04
+SEQ gi|9759396|dbj|BAB09851.1| (AB008268) contains similarity to spl...    46  4e-04
+SEQ gi|9843653|emb|CAC03600.1| (AJ293796) splicing factor SC35 [Arab...    46  4e-04
+SEQ gi|5803137|ref|NP_006734.1| RNA binding motif protein 3 [Homo sa...    46  4e-04
+SEQ gi|5596632|gb|AAD45610.1|AF161270_1 (AF161270) Vg1 RNA binding p...    46  4e-04
+SEQ gi|12325357|gb|AAG52616.1|AC024261_3 (AC024261) RNA-binding prot...    46  4e-04
+SEQ gi|12856118|dbj|BAB30571.1| (AK017055) putative [Mus musculus]         46  4e-04
+SEQ gi|7492835|pir||T40350 probable polyadenylation factor - fission...    46  4e-04
+SEQ gi|7496951|pir||T34145 hypothetical protein C33H5.12 - Caenorhab...    46  4e-04
+SEQ gi|9837439|gb|AAG00575.1|AF288041_1 (AF288041) splicing factor a...    46  4e-04
+SEQ gi|4826974|ref|NP_005049.1| RNA binding motif protein, Y chromos...    46  4e-04
+SEQ gi|12655185|gb|AAH01449.1|AAH01449 (BC001449) heterogeneous nucl...    46  4e-04
+SEQ gi|82696|pir||S20846 glycine-rich protein - maize >gi|22293|emb|...    46  4e-04
+SEQ gi|7492998|pir||T37994 probable splicing factor - fission yeast ...    46  4e-04
+SEQ gi|6755298|ref|NP_035383.1| RNA binding motif protein, Y chromos...    46  4e-04
+SEQ gi|6855434|emb|CAB71228.1| (AL138558) possible RNA-binding prote...    46  4e-04
+SEQ gi|13644651|ref|XP_011901.2| heterogeneous nuclear protein simil...    45  4e-04
+SEQ gi|133253|sp|P07909|ROA1_DROME HETEROGENEOUS NUCLEAR RIBONUCLEOP...    45  4e-04
+SEQ gi|157651|gb|AAA28621.1| (M34319) nuclear ribonucleoprotein [Dro...    45  4e-04
+SEQ gi|157652|gb|AAA28622.1| (M34319) nuclear ribonucleoprotein [Dro...    45  4e-04
+SEQ gi|157653|gb|AAA28623.1| (M34319) nuclear ribonucleoprotein [Dro...    45  4e-04
+SEQ gi|4544401|gb|AAD22311.1|AC007047_20 (AC007047) putative glycine...    45  4e-04
+SEQ gi|7301686|gb|AAF56800.1| (AE003766) Hrb98DE gene product [alt 1...    45  4e-04
+SEQ gi|13242328|ref|NP_062640.1| NS1-associated protein 1-like; RRM ...    45  5e-04
+SEQ gi|6648212|gb|AAF21210.1|AC013483_34 (AC013483) putative RNA-bin...    45  5e-04
+SEQ gi|4826972|ref|NP_005096.1| RNA binding motif protein 8A; RNA bi...    45  5e-04
+SEQ gi|7158824|gb|AAF37551.1|AF198620_1 (AF198620) RNA binding motif...    45  5e-04
+SEQ gi|11177862|ref|NP_067631.1| RNA binding motif protein 8B [Homo ...    45  5e-04
+SEQ gi|13385356|ref|NP_080151.1| RIKEN cDNA 2310057C03 gene [Mus mus...    45  5e-04
+SEQ gi|11356113|pir||D82358 RNA-binding protein VC0159 [imported] - ...    45  5e-04
+SEQ gi|9558733|ref|NP_037425.1| transformer-2 alpha (htra-2 alpha) [...    45  5e-04
+SEQ gi|4512666|gb|AAD21720.1| (AC006931) putative RNA-binding protei...    45  5e-04
+SEQ gi|13605835|gb|AAK32903.1|AF367316_1 (AF367316) At2g42890/F7D19....    45  5e-04
+SEQ gi|4587587|gb|AAD25815.1|AC007232_5 (AC007232) putative RNA-bind...    45  5e-04
+SEQ gi|7490750|pir||T42420 hypothetical protein - fission yeast (Sch...    45  5e-04
+SEQ gi|11359323|pir||T43333 translation initiation factor 3 - fissio...    45  5e-04
+SEQ gi|6016322|sp|P78795|IF34_SCHPO PROBABLE EUKARYOTIC TRANSLATION ...    45  5e-04
+SEQ gi|14269395|gb|AAK58049.1| (AF378546) polyadenylate binding prot...    45  5e-04
+SEQ gi|1033165|gb|AAC16917.1| (U36610) Y-chromosome RNA recognition ...    45  5e-04
+SEQ gi|12847571|dbj|BAB27623.1| (AK011443) putative [Mus musculus]         45  5e-04
+SEQ gi|12849069|dbj|BAB28194.1| (AK012371) putative [Mus musculus]         45  5e-04
+SEQ gi|12852315|dbj|BAB29361.1| (AK014453) putative [Mus musculus]         45  5e-04
+SEQ gi|12856573|dbj|BAB30711.1| (AK017370) putative [Mus musculus]         45  5e-04
+SEQ gi|4033483|sp|P90727|U2AF_CAEBR SPLICING FACTOR U2AF 65 KDA SUBU...    45  6e-04
+SEQ gi|6226906|sp|P90978|U2AF_CAEEL SPLICING FACTOR U2AF 65 KDA SUBU...    45  6e-04
+SEQ gi|12852237|dbj|BAB29330.1| (AK014406) putative [Mus musculus]         45  6e-04
+SEQ gi|4850342|dbj|BAA77711.1| (AB003331) RNA binding protein [Anaba...    45  6e-04
+SEQ gi|12322795|gb|AAG51392.1|AC011560_24 (AC011560) hypothetical pr...    45  6e-04
+SEQ gi|7503022|pir||T22008 hypothetical protein F39H2.2 - Caenorhabd...    45  6e-04
+SEQ gi|6322128|ref|NP_012203.1| U1snRNP 70K protein homolog; Snp1p [...    45  7e-04
+SEQ gi|7496277|pir||T19389 hypothetical protein C18D11.4 - Caenorhab...    45  7e-04
+SEQ gi|7291545|gb|AAF46969.1| (AE003460) CG3162 gene product [Drosop...    45  8e-04
+SEQ gi|4191610|gb|AAD09827.1| (AF117107) IGF-II mRNA-binding protein...    44  8e-04
+SEQ gi|5729884|ref|NP_006539.1| IGF-II mRNA-binding protein 2 [Homo ...    44  8e-04
+SEQ gi|4587586|gb|AAD25814.1|AC007232_4 (AC007232) putative RNA-bind...    44  8e-04
+SEQ gi|13624461|emb|CAC36889.1| (AL136305) dJ259A10.1 (ssDNA binding...    44  8e-04
+SEQ gi|2133638|pir||S68988 boule protein - fruit fly (Drosophila mel...    44  9e-04
+SEQ gi|10728042|gb|AAF50317.2| (AE003553) bol gene product [Drosophi...    44  9e-04
+SEQ gi|7492931|pir||T40730 probable rna-binding protein - fission ye...    44  9e-04
+SEQ gi|7489207|pir||T03986 transformer-SR ribonucleoprotein - common...    44  0.001
+SEQ gi|4972682|gb|AAD34736.1| (AF132148) unknown [Drosophila melanog...    44  0.001
+SEQ gi|4503517|ref|NP_003746.1| eukaryotic translation initiation fa...    44  0.001
+SEQ 
+## SEQUENCE PROFILE AND ENTROPY
+ SeqNo PDBNo   V   L   I   M   F   W   Y   G   A   P   S   T   C   H   R   K   Q   E   N   D  NOCC NDEL NINS ENTROPY RELENT WEIGHT
+    1    1     0   0   0   0   0   0   0   0   4   0  87   7   0   0   0   0   0   0   2   0     0    0    0   0.506     16  0.00
+    2    2     0   3   0   2   1   0   0   5   5   1   7   2   0   2  15  38   2   8   7   1     0    0    0   2.137     71  0.00
+    3    3     2   0   0   0   2   0   0   2   8   0   9  62   2   3   6   0   0   0   4   0     0    0    0   1.434     47  0.00
+    4    4     0   0   0   0   0   0   0   0   1   0  15   3   0   4   5  11   0   2  58   0     0    0    0   1.381     46  0.00
+    5    5    15  62  15   8   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.068     35  0.00
+    6    6     2   1   9   0  56   0  29   0   0   0   0   0   0   0   0   1   0   0   0   0     0    0    0   1.151     38  0.00
+    7    7    59   2  38   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.815     27  0.00
+    8    8     0   0   0   0   0   0   5  56   0   0   4   2   0   0   4  18   0   0   9   1     0    0    0   1.447     48  0.00
+    9    9     0   0   0   0   0   0   9  28   0   0   2   0   0   5   1   1   5   1  38  10     0    0    0   1.729     57  0.00
+   10   10     4  82  10   0   4   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.687     22  0.00
+   11   11     0   0   0   0   0   0   0   4   4  40  22   2   0   4   0   0   1   1   4  16     0    0    0   1.777     59  0.00
+   12   12     1   0   0   0   8  11  10   0   3  14   3   3   0   1  10   9  16   7   1   3     0    0    0   2.460     82  0.00
+   13   13     0   0   0   0   0   1   2   3   2   0  15   8   0   3   4   2   3  19  10  28     0    0    0   2.154     71  0.00
+   14   14    21   7  15  15   6   3   0   0   6   0   0  25   1   0   0   0   0   0   0   0     0    0    0   1.961     65  0.00
+   15   15     0   1   0   0   1   0   1   4   0   0  11  48   0   0   3   1   1   2   8  20     0    0    0   1.649     55  0.00
+   16   16     0   0   0   0   0   0   0   0   1   2   5   2   0   1   0   5  10  38   7  28     0    0    0   1.744     58  0.00
+   17   17     1   0   1   0   0   0   0   2   7   1   6   2   0   0   5  17   9  29   1  18     0    0    0   2.105     70  0.00
+   18   18     1   3   2   5   1   0   1   3   9   0   7   7   0   1   4   5   7  23   2  20     0    0    0   2.416     80  0.00
+   19   19     3  78  11   2   6   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.803     26  0.00
+   20   20     3   5   2   1   3   1  11   0   4   0   2   1   0   3  26  24   3   9   0   0     0    0    0   2.242     74  0.00
+   21   21     0   0   1   1   0   0   0   3   8   3  13   3   1   0   3   7  11  26   3  18     0    0    0   2.240     74  0.00
+   22   22     9  39   7   6   3   0   9   0   7   0   1   7   1   7   0   4   0   1   0   0     0    0    0   2.079     69  0.00
+   23   23     1   2   1   1  91   0   2   0   0   0   0   0   3   0   0   0   0   0   0   0     0    0    0   0.467     15  0.00
+   24   24     2   1   0   2   0   0   0  16   8   0  30   4   1   0   5   2   3  22   2   1     0    0    0   2.103     70  0.00
+   25   25     1   1   0   0   0   0   0   1   8  19  12   4   0   1   5  18  19   8   1   1     0    0    0   2.181     72  0.00
+   26   26     5   0   9   1  41   5  20   0  11   0   1   1   1   2   0   0   1   0   0   0     0    0    0   1.828     61  0.00
+   27   27     0   0   0   0   0   0   0  94   1   1   0   1   0   0   0   0   0   0   1   0     0    0    0   0.333     11  0.00
+   28   28     2   0   1   0   1   0   0   2   5  20   3   9   0   1   6  12   2  21  12   5     0    0    0   2.285     76  0.00
+   29   29    41   9  43   0   0   0   0   0   3   1   0   1   1   0   0   0   0   0   0   0     0    0    0   1.242     41  0.00
+   30   30    19  14   6   1   1   1   3   2   3   0   7  13   0   0   3  10   1  12   3   1     0    0    0   2.422     80  0.00
+   31   31     0   0   2   1   1   0   0   3   2   0  43   4   0   1   2   1   2  13   6  19     0    0    0   1.884     62  0.00
+   32   32    22   4  13   0   3   0   0   0  20   0   4   3  30   0   0   0   0   0   0   0     0    0    0   1.789     59  0.00
+   33   33    10   3   1   0   2   0   2   0   2   0   1   6   0   1  20  35   2   5   7   2     0    0    0   2.113     70  0.00
+   34   34    50  22  21   4   0   0   0   0   3   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.252     41  0.00
+   35   35    21   6  21  22   4   0   0   0   6   4   2   0   7   1   0   5   0   0   1   0     0    0    0   2.137     71  0.00
+   36   36     5   5   5   7   1   2   7   0   0   1   1   7   3   0  35  19   1   0   1   0     0    0    0   2.129     71  0.00
+   37   37     0   0   0   0   0   0   0   1   0   0   1   0   0   0   0   1   2   2   7  84     0    0    0   0.725     24  0.00
+   38   38     1   1   0   3   2   1   3   1   4  18   4   1   0   1  21  25   4   7   2   2     0    0    0   2.261     75  0.00
+   39   39    13   5  11   1   1   0   3   2   9   1   4   8   0   1   3   7   8  12   9   4     0    0    0   2.624     87  0.00
+   40   40     0   0   0   0   0   0   0   0   2   0  14  69   0   0   0   2   4   2   4   2     0    0    0   1.201     40  0.00
+   41   41     0   0   0   1   0   0   0  57   2   0   2   1   0   1   7   8   3   0  16   4     0    0    0   1.501     50  0.00
+   42   42     3   7   1   1   0   0   3   4   1   1   1   1   0   2  31  21  16   2   3   1     0    0    0   2.157     72  0.00
+   43   43     1   0   0   0   0   0   0   1   2   6  76   0   5   4   0   0   1   0   3   0     0    0    0   1.038     34  0.00
+   44   44     1  14   0   1   1   0   1   0   1   0   0   0   0   0  36  41   2   1   0   1     0    0    0   1.425     47  0.00
+   45   45     0   0   0   0   0   0   0  89   0   1   1   0   7   0   1   0   0   0   1   0     0    0    0   0.490     16  0.00
+   46   46     2   0   1   0  47   0  43   0   0   0   1   0   5   1   0   0   0   0   0   0     0    0    0   1.131     37  0.00
+   47   47     0   0   0   0   0   0   0  69  25   0   0   0   5   0   0   0   0   0   0   0     0    0    0   0.799     26  0.00
+   48   48     0   0   0   0  89   0  10   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.444     14  0.00
+   49   49    75   3  18   0   0   0   0   0   1   0   0   0   3   0   0   0   0   0   0   0     0    0    0   0.792     26  0.00
+   50   50     2   5   0   0   0   0   0   0   3   0  11  25   1   6   6   2   3  15  16   5     0    0    0   2.246     74  0.00
+   51   51     0   2   1   7  60   0  29   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.028     34  0.00
+   52   52     6   2   3   2   1   0   5   2   9   2  13   5   3   2   2   8   5  19   2  10     0    0    0   2.635     87  0.00
+   53   53     1   0   0   1   1   0   0   1   2   0  17  16   1   1   4   7   4   6  16  22     0    0    0   2.204     73  0.00
+   54   54     7   2   2   1   1   0   2   1   6  26   6   2   0   7  11   6   5  11   1   1     0    0    0   2.435     81  0.00
+   55   55     3   1   2   1   0   1   1   2  16   0   6   3   0   1   4   8   4  35   4   8     0    0    0   2.228     74  0.00
+   56   56     3   2   0   2   0   0   0   2  16   0  17   3   3   1   0   0   1  18   1  31     0    0    0   1.995     66  0.00
+   57   57    13   1   2   1   0   0   0   1  74   0   2   2   1   0   1   0   1   0   0   0     0    0    0   1.036     34  0.00
+   58   58     2   6   2   0   0   0   0   1   9   1   3   2   0   0   2   7  17  26   5  15     0    0    0   2.243     74  0.00
+   59   59     1   3   3   3   0   1   2   0  13   0   3   3   0   1  16  27   3  10   5   6     0    0    0   2.313     77  0.00
+   60   60     9   0   0   0   0   0   0   0  87   0   1   0   0   0   0   0   0   0   0   0     0    0    0   0.532     17  0.00
+   61   61    16  20  38  11   1   0   0   0   3   0   0   1   1   0   1   2   5   0   0   0     0    0    0   1.789     59  0.00
+   62   62     2   1   0   0   1   0   0   1   8   1   7   4   0   3   6   9  10  16  16  14     0    0    0   2.426     80  0.00
+   63   63     3   2   1   1   0   0   0   4  23   0  10  14   0   1   1  10   8  12   5   3     0    0    0   2.369     79  0.00
+   64   64     5  45   2  31   5   0   2   0   1   1   1   0   2   0   1   4   1   0   0   0     0    0    0   1.623     54  0.00
+   65   65     0   0   0   0   0   0   1   1   0   0   2   2   0   8   2   2   2   3  61  14     0    0    0   1.436     47  0.00
+   66   66     0   1   0   1   4   0   2  62   2   2   2   1   0   4   2   2   1   3   9   2     0    0    0   1.610     53  0.00
+   67   67     6   8   8   9   7   0   9   0   3   0   4   6   1   4   9  13   8   1   1   3     0    0    0   2.661     88  0.00
+   68   68     7  11   3   3   1   2   1   3   1   4   4   5   0   1  10  17   7  13   2   6     0    0    0   2.613     87  0.00
+   69   69    15  45  21   5   3   0   1   1   1   1   0   3   2   0   0   0   0   0   0   0     0    0    0   1.720     57  0.00
+   70   70     1   7   0   2   1   0   1  16   2   2   5   0   0   3   7   6   9   9  15  15     0    0    0   2.481     82  0.00
+   71   71     1   1   0   3   0   0   0  44   3   8   7   8   0   1   1   1   0   3   8  10     0    0    0   1.977     65  0.00
+   72   72     2   1   0   0   0   0   0   4   2   0   1   2   0   1  32  45   7   1   1   1     0    0    0   1.593     53  0.00
+   73   73     9   3   3   5   0   0   1   0  10  15   4  14   0   2   9   7   8   5   3   1     0    0    0   2.588     86  0.00
+   74   74    15  28  36   4   2   1   0   1   4   0   1   1   2   2   0   0   0   1   1   0     0    0    0   1.818     60  0.00
+   75   75     1   1   1   1   3   0   8   1   1   1   4   5   0   4  26  28   5   3   3   5     0    0    0   2.221     74  0.00
+   76   76    59   6  10   0   1   0   0   0   2   8   0   3   1   0   3   1   2   2   1   0     0    0    0   1.603     53  0.00
+   77   77     1   0   3   6   2   0   0  12   4   1  16   3   0   1   5   8   8   9  14   5     0    0    0   2.530     84  0.00
+   78   78     6  10   2   2  10  13  11   0   3   2   2   1   0   4  12   7   7   5   2   2     0    0    0   2.641     88  0.00
+   79   79     1   0   1   3   1   0   0   6  54   3  15   1   1   1   2   6   3   1   1   1     0    0    0   1.754     58  0.00
+   80   80     2   1   1   0   2   0   1   4   3   1   5   6   1   1  26  14  21   4   2   5     0    0    0   2.301     76  0.00
+   81   81     1   1   0   1   3   0   0   3   8  50   7   1   0   2   5  12   1   2   2   1     0    0    0   1.881     62  0.00
+   82   82     1   1   0   2   0   0   0   7  10   8  24   4   0   1   8  17   5   4   5   3     0    0    0   2.388     79  0.00
+   83   83     2   5   1   2   0   0   0  11  10   4  21   5   1   1   5   9   4   4   8   5     0    0    0   2.570     85  0.00
+   84   84     1   1   2   1   0   0   0   6  21   2  10   6   0   0  11   7   6  15   3   7     0    0    0   2.419     80  0.00
+   85   85     1   2   0   2   1   0   1   4   8   3  28   3   0   4  11  14   5   5   4   3     0    0    0   2.386     79  0.00
+   86   86    11  11  14   3   1   0   3   3   8   5  10   6   0   0   4   6   4   8   2   2     0    0    0   2.657     88  0.00
+   87   87     1   1   1   1   1   0   2   8   2   5   4   7   0   1  27  17   7   8   3   4     0    0    0   2.351     78  0.00
+   88   88    12   0   0   0   3   0   0   9   3   4  11   4   0   3   2   3   3  11   7  24     0    0    0   2.411     80  0.00
+   89   89     4   3   0   0   3   0   2  13  20   2   6  16   1   2   5  16   0   1   4   1     0    0    0   2.408     80  0.00
+   90   90     0   0   0   0   0   0   0   0   0   1   5   6   0   2   7  26   2   0  47   1     0    0    0   1.577     52  0.00
+   91   91    19  51  26   1   0   0   0   0   2   0   0   0   1   0   0   0   0   0   0   0     0    0    0   1.243     41  0.00
+   92   92     1   2   2   0  55   0  35   0   0   0   0   2   0   1   0   0   1   0   0   0     0    0    0   1.156     38  0.00
+   93   93    66   4  26   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0     0    0    0   0.910     30  0.00
+   94   94     1   0   0   0   0   0   5  48   2   0  12   4   0   0   3  22   0   0   2   0     0    0    0   1.613     53  0.00
+   95   95     0   0   0   4   0   0   2  35   1   0   5   0   0   4   0   1   2   0  41   5     0    0    0   1.569     52  0.00
+   96   96     6  74  15   0   4   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.876     29  0.00
+   97   97     0   1   0   0   0   0   1   4   8  32  20   3   0   3   1   5   0   1   6  15     0    0    0   2.029     67  0.00
+   98   98     1   3   0   0   4  10   2   1   3  14   6   3   0   1   5  17   9  12   0   8     0    0    0   2.486     83  0.00
+   99   99     1   0   0   0   0   0   1   5   6   0  16  13   0   1   1   4   4  16   9  22     0    0    0   2.240     74  0.00
+  100  100    18   8  19  13   6   1   1   0   5   1   0  20   4   2   0   1   1   0   0   0     0    0    0   2.187     73  0.00
+  101  101     0   0   1   0   0   0   0   4   1   2  10  36   0   0   1   0   1   5   9  28     0    0    0   1.797     59  0.00
+  102  102     1   0   0   0   0   1   0   0   1   0   4   3   0   0   1   2   8  35  10  31     0    0    0   1.769     59  0.00
+  103  103     1   1   0   1   0   0   1   2   4   1   4   3   0   4   5  14  12  30   4  13     0    0    0   2.228     74  0.00
+  104  104     1   5   1   3   0   0   1   2   9   0   6   5   1   4   7   9   5  20   2  19     0    0    0   2.460     82  0.00
+  105  105     5  72  16   3   3   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0     0    0    0   0.947     31  0.00
+  106  106     1   6   2   1   2   0   7   2   1   0   2   1   0   4  29  18   3  20   1   1     0    0    0   2.179     72  0.00
+  107  107     2   0   1   0   0   0   1   2   6   2   6   5   0   0   3   7  16  27   5  17     0    0    0   2.231     74  0.00
+  108  108     7  23   8  12   3   0  13   0  13   0   2  11   1   2   0   1   0   5   0   0     0    0    0   2.291     76  0.00
+  109  109     1   3   0   1  94   0   0   0   0   0   0   0   1   1   0   0   0   0   0   0     0    0    0   0.348     11  0.00
+  110  110     1   3   0   3   0   0   0  14   9   0  41   2   1   2   1   5   3  14   2   1     0    0    0   1.993     66  0.00
+  111  111     2   0   0   0   0   0   0   4   9  20   6   4   0   1   4  14  19  13   1   2     0    0    0   2.239     74  0.00
+  112  112     2   1   2   0  52   0  31   0   3   0   2   0   1   3   0   0   1   0   0   0     0    0    0   1.377     45  0.00
+  113  113     1   0   0   0   0   0   0  92   0   2   1   2   0   0   0   0   1   0   0   0     0    0    0   0.416     13  0.00
+  114  114     2   0   0   1   0   0   0   2   3   8   6   9   0   2  11  14   9  18  13   3     0    0    0   2.376     79  0.00
+  115  115    35   3  53   0   1   0   0   2   2   0   0   2   1   0   0   0   0   0   0   0     0    0    0   1.184     39  0.00
+  116  116    20  17  16   2   0   0   0   0   2   0   5  11   0   0   2   5   1  17   1   2     0    0    0   2.186     72  0.00
+  117  117     3   1   0   1   0   0   0   2   2   0  37  10   0   1   3   2   2  17   4  12     0    0    0   2.035     67  0.00
+  118  118    17   2  12   0   1   0   0   1  27   1  12   4  17   0   0   2   0   1   1   2     0    0    0   2.092     69  0.00
+  119  119     7   2   1   1   1   0   1   0   1   1   1   3   1   1  25  35   3  10   6   2     0    0    0   2.023     67  0.00
+  120  120    44  18  35   2   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.228     40  0.00
+  121  121    20  19  14  24   7   0   0   0   6   7   0   0   1   0   1   0   0   0   0   0     0    0    0   1.980     66  0.00
+  122  122    11   6   6  10   2   1   8   0   1   2   2  12   4   0  19   9   1   1   4   0     0    0    0   2.504     83  0.00
+  123  123     0   0   0   0   0   0   0   4   0   0   1   1   0   2   2   2   0   5   3  79     0    0    0   0.987     32  0.00
+  124  124     1   0   0   3   0   0   1   2   2  11   5   2   0   1  25  17  10  11   4   6     0    0    0   2.298     76  0.00
+  125  125    11   4   2   1   1   0   2   6  10   3   2   6   0   1   2   8   9  21   3   7     0    0    0   2.549     85  0.00
+  126  126     1   1   0   0   0   0   1   3   1   0  16  53   0   0   2   4   2   2   5   7     0    0    0   1.688     56  0.00
+  127  127     0   0   0   0   0   0   0  70   0   2   2   0   0   0   1   2   3   0  15   2     0    0    0   1.151     38  0.00
+  128  128     7   9   2   1   1   0   1   3   2   1   3   5   0   1  27  26   6   1   3   0     0    0    0   2.214     73  0.00
+  129  129     0   1   0   1   0   0   0   3   1   8  66   1   1   4   6   7   0   0   2   0     0    0    0   1.395     46  0.00
+  130  130     0   1   0   0   0   0   1   0   0   0   1   1   0   0  51  43   0   0   0   0     0    0    0   0.982     32  0.00
+  131  131     0   0   0   0   0   0   0  90   1   0   1   0   6   0   1   0   0   0   1   0     0    0    0   0.475     15  0.00
+  132  132    11   0   1   0  56   0  22   0   0   0   2   0   7   0   0   2   0   0   0   0     0    0    0   1.314     43  0.00
+  133  133     2   0   0   0   0   0   0  69  22   0   1   0   5   0   0   0   0   0   0   0     0    0    0   0.917     30  0.00
+  134  134     1   1   1   0  94   0   2   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.329     10  0.00
+  135  135    74   3  19   0   0   0   0   0   3   0   0   0   1   0   0   0   0   0   0   0     0    0    0   0.811     27  0.00
+  136  136     0   0   0   0   0   0   1   0   3   0  13  28   5   6  15   4   5   9   6   4     0    0    0   2.229     74  0.00
+  137  137     0   1   0   7  70   0  21   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.825     27  0.00
+  138  138     2   1   1   0   1   0   1   3   8   1  17   4   1   0   1   7   2  24   6  21     0    0    0   2.224     74  0.00
+  139  139     0   0   0   0   0   0   0   1   1   0  27  16   1   0   3  13   1   6  16  14     0    0    0   2.008     67  0.00
+  140  140     3   2   1   0   2   0   1   0   6  15   2   3   0  10  15  11   6  19   0   1     0    0    0   2.390     79  0.00
+  141  141     3   1   4   0   1   1   0   1  10   2   6   2   0   1   2   6   7  41   2   9     0    0    0   2.149     71  0.00
+  142  142     0   0   0   3   0   0   0   1  18   1  19   3   2   0   0   3   1  29   1  18     0    0    0   1.930     64  0.00
+  143  143     6   1   0   7   0   0   0   0  76   0   3   1   3   0   1   0   2   0   0   0     0    0    0   0.989     32  0.00
+  144  144     3   4   2   1   0   0   0   1   7   0   3   7   0   0   6  11  21  22   7   6     0    0    0   2.303     76  0.00
+  145  145     2   2   0   0   0   0   0   0  17   0   5   4   0   2  12  18   4  17   7  10     0    0    0   2.285     76  0.00
+  146  146     3   1   1   0   0   0   0   0  89   3   1   0   1   0   0   0   0   0   0   0     0    0    0   0.536     17  0.00
+  147  147    20  12  53   6   1   0   0   0   2   0   0   1   0   0   1   2   1   0   0   0     0    0    0   1.466     48  0.00
+  148  148     3   1   1   1   0   1   0   2   4   0   9   8   0   0   7  17  11  20   5  10     0    0    0   2.378     79  0.00
+  149  149     1   1   0   1   0   0   0  12  25   0   9   4   0   5   2  11   3  17   4   4     0    0    0   2.262     75  0.00
+  150  150     4  39   3  45   5   0   1   0   1   0   0   1   1   0   1   0   0   0   0   0     0    0    0   1.322     44  0.00
+  151  151     0   1   0   3   0   0   1   1   0   0   1   1   0   7   0   0   1   1  75   8     0    0    0   1.037     34  0.00
+  152  152     0   0   0   1   0   0   0  79   1   0   5   0   0   1   1   0   1   3   6   2     0    0    0   0.924     30  0.00
+  153  153     5   2   1   3   2   0   2   2   2   0   4   8   0   2   9  28  29   1   0   0     0    0    0   2.074     69  0.00
+  154  154     1   3   9   3   0   0   3   0   0   0   5  16   0   1   3  19   4  22   2   7     0    0    0   2.292     76  0.00
+  155  155    13  37  10   8   4   0   1   1   0  20   0   3   1   0   0   1   0   0   0   0     0    0    0   1.862     62  0.00
+  156  156     0   4   0   1   0   0   0   5   4  11  11   1   0   1   2   6   3  18  12  20     0    0    0   2.328     77  0.00
+  157  157     1   0   0   0   0   0   0  94   0   0   2   0   0   0   0   0   0   0   2   0     0    0    0   0.321     10  0.00
+  158  158     8   0   0   2   1   2   1   6  34   2   8   0  17   0  12   5   0   0   0   0     0    0    0   2.068     69  0.00
+  159  159     0   0   0   0   0   0   1   2   9   0  29  45   2   0   0   2   0   1   9   0     0    0    0   1.528     51  0.00
+  160  160     2   2   2   0   0   0   0   0   1   0  13   0   0   2  11  16  14  29   4   3     0    0    0   2.066     68  0.00
+  161  161     2   0   0   0   0   0   0   0   1  80   5   1   0   0   2   3   3   1   0   0     0    0    0   0.907     30  0.00
+  162  162    10  42  41   5   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.174     39  0.00
+  163  163    16   8   5   0   1   0  11   0   1   0   6  32   0   0   7   4   4   1   3   0     0    0    0   2.135     71  0.00
+  164  164    82   5   4   1   0   0   0   0   0   0   0   0   8   0   0   0   0   0   0   0     0    0    0   0.703     23  0.00
+  165  165     1   0   0   0   0   0   0   0  11   0   7   1   0   0  13  55   1   3   7   2     0    0    0   1.522     50  0.00
+  166  166     4  20   3   0  58   7   8   0   0   0   0   0   0   0   0   1   0   0   0   0     0    0    0   1.322     44  0.00
+  167  167     0   0   0   0   0   0   0   0  97   0   3   0   0   0   0   0   0   0   0   0     0    0    0   0.128      4  0.00
+//

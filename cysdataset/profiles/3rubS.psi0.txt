@@ -1,0 +1,446 @@
+ID Pseudo hssp file.
+SEQ 
+SEQ gi|132160|sp|P00866|RBS_TOBAC RIBULOSE BISPHOSPHATE CARBOXYLASE ...   258  2e-68
+SEQ gi|132080|sp|P22433|RBS1_NICSY RIBULOSE BISPHOSPHATE CARBOXYLASE...   255  2e-67
+SEQ gi|132120|sp|P26575|RBSA_SOLTU RIBULOSE BISPHOSPHATE CARBOXYLASE...   253  5e-67
+SEQ gi|132123|sp|P26576|RBSB_SOLTU RIBULOSE BISPHOSPHATE CARBOXYLASE...   253  5e-67
+SEQ gi|132125|sp|P26577|RBSC_SOLTU RIBULOSE BISPHOSPHATE CARBOXYLASE...   253  5e-67
+SEQ gi|170504|gb|AAA34192.1| (M15236) ribulose-1,5-bisphosphate carb...   253  5e-67
+SEQ gi|132095|sp|P07179|RBS2_LYCES RIBULOSE BISPHOSPHATE CARBOXYLASE...   253  7e-67
+SEQ gi|132104|sp|P07180|RBS3_LYCES RIBULOSE BISPHOSPHATE CARBOXYLASE...   251  3e-66
+SEQ gi|132112|sp|P05349|RBS4_LYCES RIBULOSE BISPHOSPHATE CARBOXYLASE...   251  3e-66
+SEQ gi|417593|sp|P32764|RBS3_SOLTU RIBULOSE BISPHOSPHATE CARBOXYLASE...   250  4e-66
+SEQ gi|132118|sp|P26573|RBS8_NICPL RIBULOSE BISPHOSPHATE CARBOXYLASE...   248  3e-65
+SEQ gi|132085|sp|P26574|RBS1_SOLTU RIBULOSE BISPHOSPHATE CARBOXYLASE...   247  5e-65
+SEQ gi|132071|sp|P10647|RBS0_SOLTU RIBULOSE BISPHOSPHATE CARBOXYLASE...   245  1e-64
+SEQ gi|132079|sp|P08706|RBS1_LYCES RIBULOSE BISPHOSPHATE CARBOXYLASE...   245  1e-64
+SEQ gi|170502|gb|AAA34191.1| (M15235) ribulose-1,5-bisphosphate carb...   244  4e-64
+SEQ gi|230922|pdb|3RUB|S Chain S, Ribulose 1,5-Bisphosphate Carboxyl...   242  1e-63
+SEQ gi|231070|pdb|4RUB|S Chain S, Ribulose 1,5-Bisphosphate Carboxyl...   241  3e-63
+SEQ gi|3914586|sp|O65349|RBS_CAPAN RIBULOSE BISPHOSPHATE CARBOXYLASE...   236  8e-62
+SEQ gi|3914606|sp|Q41351|RBS_STELP RIBULOSE BISPHOSPHATE CARBOXYLASE...   235  2e-61
+SEQ gi|223593|prf||0902172A carboxylase/oxygenase,RBP [Nicotiana tab...   233  9e-61
+SEQ gi|132098|sp|P04715|RBS2_PETSP RIBULOSE BISPHOSPHATE CARBOXYLASE...   226  1e-58
+SEQ gi|132083|sp|P04714|RBS1_PETSP RIBULOSE BISPHOSPHATE CARBOXYLASE...   225  2e-58
+SEQ gi|1055368|gb|AAA81328.1| (U39567) ribulose-1,5-bisphosphate car...   219  1e-56
+SEQ gi|10946377|gb|AAG24883.1|AF303940_1 (AF303940) ribulose-1,5-bis...   219  1e-56
+SEQ gi|10946379|gb|AAG24884.1|AF303941_1 (AF303941) ribulose-1,5-bis...   218  3e-56
+SEQ gi|585791|sp|Q08186|RBS6_MESCR RIBULOSE BISPHOSPHATE CARBOXYLASE...   217  4e-56
+SEQ gi|167270|gb|AAA33036.1| (M38316) ribulose 1,5-bisphosphate carb...   217  4e-56
+SEQ gi|585786|sp|P16032|RBS1_MESCR RIBULOSE BISPHOSPHATE CARBOXYLASE...   217  4e-56
+SEQ gi|585788|sp|Q08183|RBS3_MESCR RIBULOSE BISPHOSPHATE CARBOXYLASE...   217  4e-56
+SEQ gi|3914577|sp|Q39744|RBS2_FLAPR RIBULOSE BISPHOSPHATE CARBOXYLAS...   217  5e-56
+SEQ gi|167272|gb|AAA33037.1| (M38317) ribulose 1,5-bisphosphate carb...   217  5e-56
+SEQ gi|3914581|sp|Q39746|RBS4_FLAPR RIBULOSE BISPHOSPHATE CARBOXYLAS...   217  5e-56
+SEQ gi|132086|sp|P00865|RBS1_SOYBN RIBULOSE BISPHOSPHATE CARBOXYLASE...   217  6e-56
+SEQ gi|403160|gb|AAA33866.1| (L24497) ribulose 1,5-bisphosphate carb...   216  6e-56
+SEQ gi|464595|sp|Q02980|RBS_MALSP RIBULOSE BISPHOSPHATE CARBOXYLASE ...   216  1e-55
+SEQ gi|3914576|sp|Q39743|RBS1_FLAPR RIBULOSE BISPHOSPHATE CARBOXYLAS...   215  1e-55
+SEQ gi|3914597|sp|Q39749|RBS7_FLAPR RIBULOSE BISPHOSPHATE CARBOXYLAS...   215  1e-55
+SEQ gi|585787|sp|Q04450|RBS2_MESCR RIBULOSE BISPHOSPHATE CARBOXYLASE...   215  2e-55
+SEQ gi|68052|pir||RKIXS ribulose-bisphosphate carboxylase (EC 4.1.1....   215  2e-55
+SEQ gi|3914580|sp|Q39745|RBS3_FLAPR RIBULOSE BISPHOSPHATE CARBOXYLAS...   215  2e-55
+SEQ gi|585789|sp|Q08184|RBS4_MESCR RIBULOSE BISPHOSPHATE CARBOXYLASE...   215  2e-55
+SEQ gi|3914582|sp|Q39747|RBS5_FLAPR RIBULOSE BISPHOSPHATE CARBOXYLAS...   214  3e-55
+SEQ gi|1079736|gb|AAA82069.1| (U39856) ribulose 1,5-bisphosphate car...   213  8e-55
+SEQ gi|132153|sp|P24007|RBS_PYRPY RIBULOSE BISPHOSPHATE CARBOXYLASE ...   213  1e-54
+SEQ gi|132113|sp|P12468|RBS4_SOYBN RIBULOSE BISPHOSPHATE CARBOXYLASE...   213  1e-54
+SEQ gi|132144|sp|P07089|RBS_FLATR RIBULOSE BISPHOSPHATE CARBOXYLASE ...   212  1e-54
+SEQ gi|3914591|sp|Q42823|RBS_GLYTA RIBULOSE BISPHOSPHATE CARBOXYLASE...   211  2e-54
+SEQ gi|132106|sp|P07689|RBS3_PEA RIBULOSE BISPHOSPHATE CARBOXYLASE S...   211  2e-54
+SEQ gi|132097|sp|P00869|RBS2_PEA RIBULOSE BISPHOSPHATE CARBOXYLASE S...   211  2e-54
+SEQ gi|5002365|gb|AAD37440.1|AF150667_1 (AF150667) ribulose 1,5 bisp...   211  3e-54
+SEQ gi|13241103|gb|AAK16228.1|AF044396_1 (AF044396) ribulose-1,5-bis...   211  3e-54
+SEQ gi|3914596|sp|Q39748|RBS6_FLAPR RIBULOSE BISPHOSPHATE CARBOXYLAS...   211  3e-54
+SEQ gi|585790|sp|Q08185|RBS5_MESCR RIBULOSE BISPHOSPHATE CARBOXYLASE...   211  3e-54
+SEQ gi|13241101|gb|AAK16227.1|AF044395_1 (AF044395) ribulose-1,5-bis...   210  5e-54
+SEQ gi|3914590|sp|Q42822|RBS_GLYTO RIBULOSE BISPHOSPHATE CARBOXYLASE...   210  6e-54
+SEQ gi|81885|pir||S20508 ribulose-bisphosphate carboxylase (EC 4.1.1...   209  1e-53
+SEQ gi|3914589|sp|Q42516|RBS_AMAHP RIBULOSE BISPHOSPHATE CARBOXYLASE...   208  3e-53
+SEQ gi|3928152|emb|CAA10290.1| (AJ131050) ribulose 1,5-bisphosphate ...   208  3e-53
+SEQ gi|4204274|gb|AAD10655.1| (AC004146) ribulose bisphosphate carbo...   207  4e-53
+SEQ gi|169156|gb|AAA33686.1| (J01257) ribulose 1,5-bisphosphate carb...   207  5e-53
+SEQ gi|132145|sp|P08705|RBS_HELAN RIBULOSE BISPHOSPHATE CARBOXYLASE ...   207  5e-53
+SEQ gi|132074|sp|P10795|RBS1_ARATH RIBULOSE BISPHOSPHATE CARBOXYLASE...   207  6e-53
+SEQ gi|295792|emb|CAA31948.1| (X13611) ribulose bisphosphate carboxy...   207  6e-53
+SEQ gi|5002363|gb|AAD37439.1|AF150666_1 (AF150666) ribulose 1,5 bisp...   206  1e-52
+SEQ gi|13241109|gb|AAK16231.1|AF044399_1 (AF044399) ribulose-1,5-bis...   206  1e-52
+SEQ gi|132102|sp|P10797|RBS3_ARATH RIBULOSE BISPHOSPHATE CARBOXYLASE...   205  2e-52
+SEQ gi|132110|sp|P10798|RBS4_ARATH RIBULOSE BISPHOSPHATE CARBOXYLASE...   205  2e-52
+SEQ gi|9758819|dbj|BAB09353.1| (AB005248) ribulose bisphosphate carb...   205  2e-52
+SEQ gi|9758820|dbj|BAB09354.1| (AB005248) ribulose bisphosphate carb...   205  2e-52
+SEQ gi|81883|pir||S20509 ribulose-bisphosphate carboxylase (EC 4.1.1...   205  2e-52
+SEQ gi|12019640|gb|AAA33685.2| (M25613) ribulose 1,5 bisphosphate ca...   205  2e-52
+SEQ gi|132138|sp|P08474|RBS_CUCSA RIBULOSE BISPHOSPHATE CARBOXYLASE ...   205  3e-52
+SEQ gi|11762156|gb|AAG40356.1|AF325004_1 (AF325004) At1g67090 [Arabi...   204  3e-52
+SEQ gi|132090|sp|P10796|RBS2_ARATH RIBULOSE BISPHOSPHATE CARBOXYLASE...   204  4e-52
+SEQ gi|13241111|gb|AAK16232.1|AF044400_1 (AF044400) ribulose-1,5-bis...   204  4e-52
+SEQ gi|13241107|gb|AAK16230.1|AF044398_1 (AF044398) ribulose-1,5-bis...   203  7e-52
+SEQ gi|132154|sp|P08135|RBS_RAPSA RIBULOSE BISPHOSPHATE CARBOXYLASE ...   203  1e-51
+SEQ gi|266892|sp|P29684|RBS_HEVBR RIBULOSE BISPHOSPHATE CARBOXYLASE ...   202  1e-51
+SEQ gi|68064|pir||RKRPS ribulose-bisphosphate carboxylase (EC 4.1.1....   201  2e-51
+SEQ gi|3914592|sp|Q96542|RBS_BETVE RIBULOSE BISPHOSPHATE CARBOXYLASE...   201  3e-51
+SEQ gi|132078|sp|P00872|RBS1_LEMGI RIBULOSE BISPHOSPHATE CARBOXYLASE...   201  3e-51
+SEQ gi|13926229|gb|AAK49590.1|AF372874_1 (AF372874) F1O19.10/F1O19.1...   201  4e-51
+SEQ gi|132155|sp|P18960|RBS_SILPR RIBULOSE BISPHOSPHATE CARBOXYLASE ...   200  5e-51
+SEQ gi|3914583|sp|Q43832|RBS2_SPIOL RIBULOSE BISPHOSPHATE CARBOXYLAS...   200  5e-51
+SEQ gi|2529378|gb|AAB81105.1| (L76557) ribulose 1,5-bisphosphate car...   200  5e-51
+SEQ gi|266891|sp|P05346|RBS1_BRANA RIBULOSE BISPHOSPHATE CARBOXYLASE...   200  6e-51
+SEQ gi|132091|sp|P27985|RBS2_BRANA RIBULOSE BISPHOSPHATE CARBOXYLASE...   200  6e-51
+SEQ gi|3914585|sp|O22077|RBS_FAGCR RIBULOSE BISPHOSPHATE CARBOXYLASE...   199  1e-50
+SEQ gi|3914601|sp|O65194|RBS_MEDSA RIBULOSE BISPHOSPHATE CARBOXYLASE...   199  1e-50
+SEQ gi|68096|pir||RKDWS ribulose-bisphosphate carboxylase (EC 4.1.1....   199  1e-50
+SEQ gi|132117|sp|P19312|RBS6_LEMGI RIBULOSE BISPHOSPHATE CARBOXYLASE...   199  1e-50
+SEQ gi|68098|pir||RKDWSB ribulose-bisphosphate carboxylase (EC 4.1.1...   199  1e-50
+SEQ gi|132116|sp|P19311|RBS5_LEMGI RIBULOSE BISPHOSPHATE CARBOXYLASE...   199  1e-50
+SEQ gi|68100|pir||RKDWS4 ribulose-bisphosphate carboxylase (EC 4.1.1...   199  1e-50
+SEQ gi|132094|sp|P19308|RBS2_LEMGI RIBULOSE BISPHOSPHATE CARBOXYLASE...   199  1e-50
+SEQ gi|3914604|sp|Q40250|RBS_LACSA RIBULOSE BISPHOSPHATE CARBOXYLASE...   199  1e-50
+SEQ gi|4689388|gb|AAD27881.1|AF139469_1 (AF139469) ribulose-1,5-bisp...   199  2e-50
+SEQ gi|1352821|sp|P31333|RBS_GOSHI RIBULOSE BISPHOSPHATE CARBOXYLASE...   198  2e-50
+SEQ gi|1942700|pdb|1BUR|T Chain T, Ribulose 1,5-Bisphosphate Carboxy...   198  3e-50
+SEQ gi|132161|sp|P17673|RBS_TRIRP RIBULOSE BISPHOSPHATE CARBOXYLASE ...   198  3e-50
+SEQ gi|6635351|gb|AAF19793.1|AF162210_1 (AF162210) ribulose-1,5-bisp...   198  3e-50
+SEQ gi|6272548|gb|AAF06098.1| (AF101230) ribulose 1,5-bisphosphate c...   198  3e-50
+SEQ gi|6272550|gb|AAF06100.1| (AF101232) ribulose 1,5-bisphosphate c...   198  3e-50
+SEQ gi|132111|sp|P19310|RBS4_LEMGI RIBULOSE BISPHOSPHATE CARBOXYLASE...   198  3e-50
+SEQ gi|132103|sp|P19309|RBS3_LEMGI RIBULOSE BISPHOSPHATE CARBOXYLASE...   198  3e-50
+SEQ gi|480983|pir||S37575 ribulose-bisphosphate carboxylase (EC 4.1....   197  6e-50
+SEQ gi|1942698|pdb|1BUR|S Chain S, Ribulose 1,5-Bisphosphate Carboxy...   196  8e-50
+SEQ gi|347451|gb|AAA84592.1| (L22155) ribulose 1,5-bisphosphate carb...   195  2e-49
+SEQ gi|3914608|sp|Q42915|RBS_MANES RIBULOSE BISPHOSPHATE CARBOXYLASE...   195  2e-49
+SEQ gi|1827839|pdb|8RUC|I Chain I, Activated Spinach Rubisco Complex...   195  2e-49
+SEQ gi|132096|sp|P18566|RBS2_ORYSA RIBULOSE BISPHOSPHATE CARBOXYLASE...   195  2e-49
+SEQ gi|132105|sp|P18567|RBS3_ORYSA RIBULOSE BISPHOSPHATE CARBOXYLASE...   195  3e-49
+SEQ gi|132082|sp|P00868|RBS1_PEA RIBULOSE BISPHOSPHATE CARBOXYLASE S...   192  2e-48
+SEQ gi|3914599|sp|O48550|RBS_ZANAE RIBULOSE BISPHOSPHATE CARBOXYLASE...   191  2e-48
+SEQ gi|3063524|gb|AAC14064.1| (AF052305) ribulose 1,5-bisphosphate c...   191  3e-48
+SEQ gi|4038667|dbj|BAA35150.1| (AB020931) ribulose-1,5-bisphosphate ...   191  4e-48
+SEQ gi|4038657|dbj|BAA35145.1| (AB020926) ribulose-1,5-bisphosphate ...   190  7e-48
+SEQ gi|4038683|dbj|BAA35158.1| (AB020939) ribulose-1,5-bisphosphate ...   190  7e-48
+SEQ gi|4038697|dbj|BAA35165.1| (AB020946) ribulose-1,5-bisphosphate ...   190  7e-48
+SEQ gi|4038701|dbj|BAA35167.1| (AB020948) ribulose-1,5-bisphosphate ...   190  7e-48
+SEQ gi|3914588|sp|Q40004|RBS_HORVU RIBULOSE BISPHOSPHATE CARBOXYLASE...   190  8e-48
+SEQ gi|3914574|sp|O22572|RBS2_FRIAG RIBULOSE BISPHOSPHATE CARBOXYLAS...   190  9e-48
+SEQ gi|3914578|sp|O22573|RBS3_FRIAG RIBULOSE BISPHOSPHATE CARBOXYLAS...   190  9e-48
+SEQ gi|4038717|dbj|BAA35175.1| (AB020956) ribulose-1,5-bisphosphate ...   189  1e-47
+SEQ gi|4038719|dbj|BAA35176.1| (AB020957) ribulose-1,5-bisphosphate ...   189  1e-47
+SEQ gi|68090|pir||RKWTS ribulose-bisphosphate carboxylase (EC 4.1.1....   189  1e-47
+SEQ gi|4038669|dbj|BAA35151.1| (AB020932) ribulose-1,5-bisphosphate ...   189  1e-47
+SEQ gi|4038673|dbj|BAA35153.1| (AB020934) ribulose-1,5-bisphosphate ...   189  1e-47
+SEQ gi|4038679|dbj|BAA35156.1| (AB020937) ribulose-1,5-bisphosphate ...   189  1e-47
+SEQ gi|4038689|dbj|BAA35161.1| (AB020942) ribulose-1,5-bisphosphate ...   189  1e-47
+SEQ gi|4038705|dbj|BAA35169.1| (AB020950) ribulose-1,5-bisphosphate ...   189  1e-47
+SEQ gi|4038723|dbj|BAA35178.1| (AB020959) ribulose-1,5-bisphosphate ...   189  1e-47
+SEQ gi|11990901|dbj|BAB19814.1| (AB042068) ribulose-1,5-bisphosphate...   189  1e-47
+SEQ gi|132099|sp|P26667|RBS2_WHEAT RIBULOSE BISPHOSPHATE CARBOXYLASE...   189  1e-47
+SEQ gi|11990893|dbj|BAB19810.1| (AB042064) ribulose-1,5-bisphosphate...   189  2e-47
+SEQ gi|11990897|dbj|BAB19812.1| (AB042066) ribulose-1,5-bisphosphate...   189  2e-47
+SEQ gi|3914575|sp|O24634|RBS1_FRIAG RIBULOSE BISPHOSPHATE CARBOXYLAS...   189  2e-47
+SEQ gi|671740|emb|CAA59218.1| (X84730) ribulose-bisphosphate carboxy...   189  2e-47
+SEQ gi|4038691|dbj|BAA35162.1| (AB020943) ribulose-1,5-bisphosphate ...   188  2e-47
+SEQ gi|4090293|emb|CAA10497.1| (AJ131738) hypothetical protein [Seca...   188  3e-47
+SEQ gi|7436565|pir||T02060 ribulose-bisphosphate carboxylase (EC 4.1...   188  3e-47
+SEQ gi|223346|prf||0709274A carboxylase S,RBP [Pisum sativum]             188  4e-47
+SEQ gi|1673456|emb|CAA70416.1| (Y09214) rubisco small subunit [Zea m...   188  4e-47
+SEQ gi|4090291|emb|CAA10496.1| (AJ131737) hypothetical protein [Seca...   187  5e-47
+SEQ gi|19439|emb|CAA24969.1| (X00137) mature ssu polypeptide [Lemna ...   187  5e-47
+SEQ gi|3914598|sp|O24045|RBS_MUSAC RIBULOSE BISPHOSPHATE CARBOXYLASE...   187  5e-47
+SEQ gi|3914579|sp|O22645|RBS5_FRIAG RIBULOSE BISPHOSPHATE CARBOXYLAS...   187  6e-47
+SEQ gi|4038663|dbj|BAA35148.1| (AB020929) ribulose-1,5-bisphosphate ...   187  6e-47
+SEQ gi|4038725|dbj|BAA35179.1| (AB020960) ribulose-1,5-bisphosphate ...   187  6e-47
+SEQ gi|4038707|dbj|BAA35170.1| (AB020951) ribulose-1,5-bisphosphate ...   187  7e-47
+SEQ gi|4038711|dbj|BAA35172.1| (AB020953) ribulose-1,5-bisphosphate ...   186  7e-47
+SEQ gi|132087|sp|P00871|RBS1_WHEAT RIBULOSE BISPHOSPHATE CARBOXYLASE...   186  8e-47
+SEQ gi|4038661|dbj|BAA35147.1| (AB020928) ribulose-1,5-bisphosphate ...   186  8e-47
+SEQ gi|11990899|dbj|BAB19813.1| (AB042067) ribulose-1,5-bisphosphate...   186  1e-46
+SEQ gi|4038713|dbj|BAA35173.1| (AB020954) ribulose-1,5-bisphosphate ...   186  1e-46
+SEQ gi|11990895|dbj|BAB19811.1| (AB042065) ribulose-1,5-bisphosphate...   186  1e-46
+SEQ gi|132150|sp|P10053|RBS_PINTH RIBULOSE BISPHOSPHATE CARBOXYLASE ...   186  1e-46
+SEQ gi|6573202|gb|AAF17589.1|AF202645_1 (AF202645) ribulose-1,5-bisp...   185  2e-46
+SEQ gi|132147|sp|P05348|RBS_MAIZE RIBULOSE BISPHOSPHATE CARBOXYLASE ...   185  2e-46
+SEQ gi|3901432|gb|AAC78643.1| (AF104249) ribulose-1,5-bisphosphate c...   185  3e-46
+SEQ gi|3901434|gb|AAC78644.1| (AF104250) ribulose-1,5-bisphosphate c...   185  3e-46
+SEQ gi|3978515|gb|AAC83374.1| (AF097361) ribulose-1,5-bisphosphate c...   185  3e-46
+SEQ gi|4038695|dbj|BAA35164.1| (AB020945) ribulose-1,5-bisphosphate ...   185  3e-46
+SEQ gi|6409335|gb|AAF07945.1|AF192776_1 (AF192776) ribulose-1,5-bisp...   185  3e-46
+SEQ gi|6409337|gb|AAF07946.1|AF192777_1 (AF192777) ribulose-1,5-bisp...   185  3e-46
+SEQ gi|6573204|gb|AAF17590.1|AF202646_1 (AF202646) ribulose-1,5-bisp...   185  3e-46
+SEQ gi|3790104|gb|AAC67588.1| (AF096617) ribulose-1,5-bisphosphate c...   185  3e-46
+SEQ gi|132146|sp|P16031|RBS_LARLA RIBULOSE BISPHOSPHATE CARBOXYLASE ...   185  3e-46
+SEQ gi|6409343|gb|AAF07949.1|AF192780_1 (AF192780) ribulose-1,5-bisp...   184  3e-46
+SEQ gi|3978511|gb|AAC83372.1| (AF097359) ribulose-1,5-bisphosphate c...   184  5e-46
+SEQ gi|6409339|gb|AAF07947.1|AF192778_1 (AF192778) ribulose-1,5-bisp...   184  6e-46
+SEQ gi|6409329|gb|AAF07942.1|AF192773_1 (AF192773) ribulose-1,5-bisp...   183  6e-46
+SEQ gi|13241105|gb|AAK16229.1|AF044397_1 (AF044397) ribulose-1,5-bis...   182  2e-45
+SEQ gi|12240092|gb|AAG49562.1| (AF312228) ribulose-1,5-bisphosphate ...   182  2e-45
+SEQ gi|6409426|gb|AAF07985.1|AF200303_1 (AF200303) ribulose-1,5-bisp...   182  2e-45
+SEQ gi|6409331|gb|AAF07943.1|AF192774_1 (AF192774) ribulose-1,5-bisp...   181  3e-45
+SEQ gi|132081|sp|P05347|RBS1_ORYSA RIBULOSE BISPHOSPHATE CARBOXYLASE...   181  4e-45
+SEQ gi|19464|emb|CAA38346.1| (X54464) ribulose  bisphosphate carboxy...   181  4e-45
+SEQ gi|132157|sp|P00870|RBS1_SPIOL RIBULOSE BISPHOSPHATE CARBOXYLASE...   181  4e-45
+SEQ gi|3978513|gb|AAC83373.1| (AF097360) ribulose-1,5-bisphosphate c...   180  8e-45
+SEQ gi|169216|gb|AAA33716.1| (M29641) ribulose 1,5-bisphosphate carb...   179  9e-45
+SEQ gi|22465|emb|CAA68419.1| (Y00322) ribulose 1,5-bisphosphate carb...   179  2e-44
+SEQ gi|82257|pir||A05119 ribulose-bisphosphate carboxylase (EC 4.1.1...   178  4e-44
+SEQ gi|4038699|dbj|BAA35166.1| (AB020947) ribulose-1,5-bisphosphate ...   176  7e-44
+SEQ gi|170320|gb|AAA34111.1| (J01308) ribulose-1,5-bisphosphate carb...   176  1e-43
+SEQ gi|3914607|sp|Q41373|RBS_SACHY RIBULOSE BISPHOSPHATE CARBOXYLASE...   174  5e-43
+SEQ gi|3914587|sp|Q38793|RBS_AEGSQ RIBULOSE BISPHOSPHATE CARBOXYLASE...   171  3e-42
+SEQ gi|1204056|emb|CAA63441.1| (X92858) ribulose-1,5-bisphosphate ca...   171  4e-42
+SEQ gi|132107|sp|P07398|RBS3_WHEAT RIBULOSE BISPHOSPHATE CARBOXYLASE...   166  1e-40
+SEQ gi|6272547|gb|AAF06097.1| (AF101228) ribulose 1,5-bisphosphate c...   165  2e-40
+SEQ gi|3914600|sp|O64416|RBS_MARPA RIBULOSE BISPHOSPHATE CARBOXYLASE...   159  1e-38
+SEQ gi|6063022|gb|AAF03096.1|AF162195_1 (AF162195) ribulose-1,5-bisp...   151  3e-36
+SEQ gi|1405796|emb|CAA67061.1| (X98414) ribulose-bisphosphate carbox...   149  1e-35
+SEQ gi|2754835|gb|AAB95211.1| (AF039009) ribulose 1,5 bisphosphate c...   146  1e-34
+SEQ gi|2754837|gb|AAB95212.1| (AF039010) ribulose 1,5 bisphosphate c...   146  1e-34
+SEQ gi|2754843|gb|AAB95215.1| (AF039013) ribulose 1,5 bisphosphate c...   146  1e-34
+SEQ gi|2754847|gb|AAB95217.1| (AF039015) ribulose 1,5 bisphosphate c...   146  1e-34
+SEQ gi|2754833|gb|AAB95210.1| (AF039008) ribulose 1,5 bisphosphate c...   146  2e-34
+SEQ gi|6440788|dbj|BAA78582.1| (AU066498) ribulose-bisphosphate carb...   146  2e-34
+SEQ gi|132143|sp|P16881|RBS_EUGGR RIBULOSE BISPHOSPHATE CARBOXYLASE ...   144  3e-34
+SEQ gi|4098852|gb|AAD00448.1| (U80810) ribulose-1,5-bisphosphate car...   143  7e-34
+SEQ gi|228864|prf||1813208A RuBisCO:SUBUNIT=small [Euglena gracilis]      143  1e-33
+SEQ gi|1084280|pir||S53636 ribulose-bisphosphate carboxylase (EC 4.1...   143  1e-33
+SEQ gi|5777796|emb|CAA47180.2| (X66617) ribulose 1-5 bisphosphate ca...   143  1e-33
+SEQ gi|132136|sp|P17537|RBS_CHLMO RIBULOSE BISPHOSPHATE CARBOXYLASE ...   142  2e-33
+SEQ gi|5763513|dbj|BAA83481.1| (AB026685) ribulose 1,5-bisphosphate ...   141  3e-33
+SEQ gi|2754841|gb|AAB95214.1| (AF039012) ribulose 1,5 bisphosphate c...   141  3e-33
+SEQ gi|132092|sp|P08475|RBS2_CHLRE RIBULOSE BISPHOSPHATE CARBOXYLASE...   139  2e-32
+SEQ gi|132076|sp|P00873|RBS1_CHLRE RIBULOSE BISPHOSPHATE CARBOXYLASE...   137  5e-32
+SEQ gi|762923|emb|CAA28159.1| (X04471) ribulose bisphosphate carboxy...   137  5e-32
+SEQ gi|132156|sp|P13951|RBS_SINAL RIBULOSE BISPHOSPHATE CARBOXYLASE ...   133  7e-31
+SEQ gi|3914594|sp|Q38692|RBS6_ACECL RIBULOSE BISPHOSPHATE CARBOXYLAS...   133  1e-30
+SEQ gi|228356|prf||1803224A RuBisCO:SUBUNIT=small:ISOTYPE=1 [Batopho...   133  1e-30
+SEQ gi|1352820|sp|P26985|RBS_BATOE RIBULOSE BISPHOSPHATE CARBOXYLASE...   132  2e-30
+SEQ gi|99447|pir||S18022 ribulose-bisphosphate carboxylase (EC 4.1.1...   132  2e-30
+SEQ gi|132100|sp|P16131|RBS3_ACECL RIBULOSE BISPHOSPHATE CARBOXYLASE...   132  2e-30
+SEQ gi|132108|sp|P16132|RBS4_ACECL RIBULOSE BISPHOSPHATE CARBOXYLASE...   132  2e-30
+SEQ gi|132114|sp|P16133|RBS5_ACECL RIBULOSE BISPHOSPHATE CARBOXYLASE...   132  2e-30
+SEQ gi|132101|sp|P16136|RBS3_ACEME RIBULOSE BISPHOSPHATE CARBOXYLASE...   131  3e-30
+SEQ gi|132073|sp|P16134|RBS1_ACEME RIBULOSE BISPHOSPHATE CARBOXYLASE...   131  5e-30
+SEQ gi|132089|sp|P16135|RBS2_ACEME RIBULOSE BISPHOSPHATE CARBOXYLASE...   131  5e-30
+SEQ gi|3914595|sp|Q38693|RBS7_ACECL RIBULOSE BISPHOSPHATE CARBOXYLAS...   131  6e-30
+SEQ gi|132109|sp|P16137|RBS4_ACEME RIBULOSE BISPHOSPHATE CARBOXYLASE...   129  2e-29
+SEQ gi|132115|sp|P16138|RBS5_ACEME RIBULOSE BISPHOSPHATE CARBOXYLASE...   129  2e-29
+SEQ gi|169218|gb|AAA33717.1| (M29642) ribulose 1,5-bisphosphate carb...   128  3e-29
+SEQ gi|225465|prf||1303356A RuBisCO small subunit [Euglena gracilis]      127  5e-29
+SEQ gi|99356|pir||A30834 ribulose-bisphosphate carboxylase (EC 4.1.1...   127  6e-29
+SEQ gi|82256|pir||A05118 ribulose-bisphosphate carboxylase (EC 4.1.1...   122  2e-27
+SEQ gi|82619|pir||A05005 ribulose-bisphosphate carboxylase (EC 4.1.1...   120  8e-27
+SEQ gi|388253|emb|CAA37905.1| (X53954) ribulose bisphosphate carboxy...   120  9e-27
+SEQ gi|19462|emb|CAA38345.1| (X54463) ribulose  bisphosphate carboxy...   118  3e-26
+SEQ gi|132072|sp|P16129|RBS1_ACECL RIBULOSE BISPHOSPHATE CARBOXYLASE...   113  1e-24
+SEQ gi|755804|emb|CAA25058.1| (X00235) ribulosebisphosphate carboxyl...   112  2e-24
+SEQ gi|19466|emb|CAA38347.1| (X54465) ribulose  bisphosphate carboxy...   104  4e-22
+SEQ gi|217138|dbj|BAA02739.1| (D13539) ribulosebiphosphate carboxyla...   104  6e-22
+SEQ gi|132151|sp|P27569|RBS_PROHO RIBULOSE BISPHOSPHATE CARBOXYLASE ...   103  1e-21
+SEQ gi|1710044|sp|P54206|RBS_SYNY3 RIBULOSE BISPHOSPHATE CARBOXYLASE...   102  2e-21
+SEQ gi|3914609|sp|Q44178|RBS_SYNP2 RIBULOSE BISPHOSPHATE CARBOXYLASE...    99  2e-20
+SEQ gi|2126548|pir||I39687 ribulose-bisphosphate carboxylase (EC 4.1...    97  9e-20
+SEQ gi|132133|sp|P06514|RBS_ANASP RIBULOSE BISPHOSPHATE CARBOXYLASE ...    97  1e-19
+SEQ gi|132158|sp|P04716|RBS_SYNP6 RIBULOSE BISPHOSPHATE CARBOXYLASE ...    96  2e-19
+SEQ gi|170328|gb|AAA34116.1| (M32419) ribulose-1,5-bisphosphate carb...    94  6e-19
+SEQ gi|1065010|pdb|1RSC|M Chain M, Ribulose-1,5-Bisphosphate Carboxy...    94  6e-19
+SEQ gi|3183157|sp|Q51857|RBS_PSEHY RIBULOSE BISPHOSPHATE CARBOXYLASE...    94  9e-19
+SEQ gi|11467382|ref|NP_043239.1| ribulose 1,5-bisphosphate carboxyla...    94  9e-19
+SEQ gi|576254|pdb|1RBL|M Chain M, Ribulose 1,5 Bisphosphate Carboxyl...    93  2e-18
+SEQ gi|12642577|gb|AAK00292.1|AF307091_2 (AF307091) ribulose bisphos...    92  3e-18
+SEQ gi|13486626|dbj|BAB39865.1| (AB058647) ribulose-1,5-bisphosphate...    91  8e-18
+SEQ gi|132132|sp|P24682|RBS_ALVHS RIBULOSE BISPHOSPHATE CARBOXYLASE ...    87  8e-17
+SEQ gi|1172864|sp|Q07088|RBS2_THIFE RIBULOSE BISPHOSPHATE CARBOXYLAS...    87  9e-17
+SEQ gi|3183149|sp|Q59459|RBS1_HYDMR RIBULOSE BISPHOSPHATE CARBOXYLAS...    87  1e-16
+SEQ gi|1352819|sp|P22850|RBS1_CHRVI RIBULOSE BISPHOSPHATE CARBOXYLAS...    86  1e-16
+SEQ gi|68113|pir||RKKRS1 ribulose-bisphosphate carboxylase (EC 4.1.1...    86  1e-16
+SEQ gi|169220|gb|AAA33718.1| (M29643) ribulose 1,5-bisphosphate carb...    86  2e-16
+SEQ gi|10281010|dbj|BAB13745.1| (AB047542) ribulose 1,5 bisphosphate...    86  2e-16
+SEQ gi|132093|sp|P22860|RBS2_CHRVI RIBULOSE BISPHOSPHATE CARBOXYLASE...    85  3e-16
+SEQ gi|3183151|sp|Q59461|RBS2_HYDMR RIBULOSE BISPHOSPHATE CARBOXYLAS...    85  4e-16
+SEQ gi|132088|sp|P16130|RBS2_ACECL RIBULOSE BISPHOSPHATE CARBOXYLASE...    84  7e-16
+SEQ gi|3183158|sp|Q56260|RBS_THIDE RIBULOSE BISPHOSPHATE CARBOXYLASE...    83  2e-15
+SEQ gi|99448|pir||S18023 ribulose-bisphosphate carboxylase (EC 4.1.1...    82  3e-15
+SEQ gi|228357|prf||1803224B RuBisCO:SUBUNIT=small:ISOTYPE=2 [Batopho...    82  3e-15
+SEQ gi|4097318|gb|AAD10332.1| (U55037) ribulose-1,5-bisphosphate car...    82  3e-15
+SEQ gi|1360708|emb|CAA40539.1| (X57267) ribulose bisphosphate carbox...    82  3e-15
+SEQ gi|6119586|emb|CAB59536.1| (AJ132248) ribulose-1,5-bisphosphate ...    81  6e-15
+SEQ gi|3183155|sp|O32741|RBS_RHOCA RIBULOSE BISPHOSPHATE CARBOXYLASE...    80  1e-14
+SEQ gi|4105519|gb|AAD02446.1| (AF046933) ribulose bisphosphate carbo...    79  3e-14
+SEQ gi|4836661|gb|AAD30509.1|AF129925_3 (AF129925) CbbS [Acidithioba...    76  2e-13
+SEQ gi|132159|sp|P28896|RBS1_THIFE RIBULOSE BISPHOSPHATE CARBOXYLASE...    76  2e-13
+SEQ gi|3183159|sp|Q59614|RBS_NITVU RIBULOSE BISPHOSPHATE CARBOXYLASE...    76  2e-13
+SEQ gi|1172871|sp|P45686|RBS_THINE RIBULOSE BISPHOSPHATE CARBOXYLASE...    75  5e-13
+SEQ gi|7388042|sp|P56890|RBS_RHIME RIBULOSE BISPHOSPHATE CARBOXYLASE...    74  7e-13
+SEQ gi|5230816|gb|AAD41023.1|AF109915_2 (AF109915) ribulose 1,5 bis-...    73  1e-12
+SEQ gi|1345545|emb|CAA37517.1| (X53426) NySS42 protein [Nicotiana sy...    73  1e-12
+SEQ gi|82255|pir||A05117 ribulose-bisphosphate carboxylase (EC 4.1.1...    73  2e-12
+SEQ gi|132084|sp|P27998|RBS1_RHOSH RIBULOSE BISPHOSPHATE CARBOXYLASE...    71  8e-12
+SEQ gi|2781431|gb|AAB97165.1| (AF028707) ribulose 1,5-bisphosphate c...    71  9e-12
+SEQ gi|3183156|sp|P96487|RBS_SYNPW RIBULOSE BISPHOSPHATE CARBOXYLASE...    70  1e-11
+SEQ gi|2541894|dbj|BAA22829.1| (D63676) ribulosebiphosphate carboxyl...    69  2e-11
+SEQ gi|68047|pir||RKALSE ribulose-bisphosphate carboxylase (EC 4.1.1...    68  7e-11
+SEQ gi|6093937|sp|P09658|RBSC_ALCEU RIBULOSE BISPHOSPHATE CARBOXYLAS...    68  7e-11
+SEQ gi|6137327|pdb|1BXN|I Chain I, The Crystal Structure Of Rubisco ...    68  7e-11
+SEQ gi|2120966|pir||I39558 ribulose-bisphosphate carboxylase (EC 4.1...    68  7e-11
+SEQ gi|3183161|sp|Q59102|RBSP_ALCEU RIBULOSE BISPHOSPHATE CARBOXYLAS...    68  7e-11
+SEQ gi|11467654|ref|NP_050706.1| ribulose 1,5-bisphosphate carboxyla...    67  9e-11
+SEQ gi|3914584|sp|O22024|RBS_CYAME RIBULOSE BISPHOSPHATE CARBOXYLASE...    67  1e-10
+SEQ gi|19457|emb|CAA38342.1| (X54460) ribulose bisphosphate carboxyl...    66  2e-10
+SEQ gi|132162|sp|P23012|RBS_XANFL RIBULOSE BISPHOSPHATE CARBOXYLASE ...    66  3e-10
+SEQ gi|730479|sp|Q09125|RBS_PORAE RIBULOSE BISPHOSPHATE CARBOXYLASE ...    65  4e-10
+SEQ gi|6066598|emb|CAB58237.1| (X17597) ribulose bisphosphate carbox...    65  4e-10
+SEQ gi|7388043|sp|Q9ZI33|RBS_BRAJA RIBULOSE BISPHOSPHATE CARBOXYLASE...    65  4e-10
+SEQ gi|4096344|gb|AAD04747.1| (U28421) ribulose-1,5-bisphosphate car...    64  6e-10
+SEQ gi|132134|sp|P25458|RBS_ANTSP RIBULOSE BISPHOSPHATE CARBOXYLASE ...    63  1e-09
+SEQ gi|1334342|emb|CAA38399.1| (X54532) ribulose bisphosphate carbox...    63  1e-09
+SEQ gi|730478|sp|Q08052|RBS_PLECA RIBULOSE BISPHOSPHATE CARBOXYLASE ...    63  2e-09
+SEQ gi|4519904|dbj|BAA75797.1| (AB018008) ribulose-1,5-bisphosphate ...    62  3e-09
+SEQ gi|6137421|pdb|1BWV|S Chain S, Activated Ribulose 1,5-Bisphospha...    62  3e-09
+SEQ gi|11465693|ref|NP_053837.1| Ribulose bisphosphate carboxylase s...    61  6e-09
+SEQ gi|2148038|pir||S73148 ribulose bisphosphate carboxylase small c...    61  6e-09
+SEQ gi|585792|sp|P37394|RBS_CYACA RIBULOSE BISPHOSPHATE CARBOXYLASE ...    61  8e-09
+SEQ gi|132149|sp|P14961|RBS_OLILU RIBULOSE BISPHOSPHATE CARBOXYLASE ...    61  8e-09
+SEQ gi|10716878|gb|AAG21944.1|AF207527_2 (AF207527) ribulose-1,5-bis...    61  8e-09
+SEQ gi|132139|sp|P23756|RBS_GALSU RIBULOSE BISPHOSPHATE CARBOXYLASE ...    60  1e-08
+SEQ gi|567190|gb|AAB41465.1| (L32182) ribulose 1,5-bisphosphate carb...    60  1e-08
+SEQ gi|132142|sp|P24395|RBS_ECTSI RIBULOSE BISPHOSPHATE CARBOXYLASE ...    59  3e-08
+SEQ gi|132152|sp|P23652|RBS_PYLLI RIBULOSE BISPHOSPHATE CARBOXYLASE ...    58  5e-08
+SEQ gi|132141|sp|P24683|RBS_CYLSN RIBULOSE BISPHOSPHATE CARBOXYLASE ...    58  5e-08
+SEQ gi|14285703|sp|O98948|RBS_THANO RIBULOSE BISPHOSPHATE CARBOXYLAS...    57  1e-07
+SEQ gi|1675202|gb|AAB19096.1| (U31876) ribulose-1,5-bisphosphate car...    55  5e-07
+SEQ gi|12751547|ref|NP_043653.2| Rubisco, small subunit [Odontella s...    53  1e-06
+SEQ gi|13517979|gb|AAK29079.1|AF346700_2 (AF346700) ribulose-1,5-bis...    53  1e-06
+SEQ gi|19459|emb|CAA38343.1| (X54461) ribulose bisphosphate carboxyl...    53  2e-06
+SEQ gi|2286117|gb|AAB64251.1| (U83979) ribulose-1,5-bisphosphate car...    52  3e-06
+SEQ gi|436130|emb|CAA54082.1| (X76634) ribulose-1,5-bisphosphate car...    52  3e-06
+SEQ gi|6319189|gb|AAF07201.1|AF195952_2 (AF195952) ribulose-1,5-bisp...    51  1e-05
+SEQ gi|7545285|gb|AAA33683.2| (M21375) ribulose 1,5-bisphosphate car...    50  2e-05
+SEQ gi|14285701|sp|O98946|RBS_DETCO RIBULOSE BISPHOSPHATE CARBOXYLAS...    48  5e-05
+SEQ gi|58299|emb|CAA48415.1| (X68342) modified transit peptide for c...    45  4e-04
+SEQ 
+## SEQUENCE PROFILE AND ENTROPY
+ SeqNo PDBNo   V   L   I   M   F   W   Y   G   A   P   S   T   C   H   R   K   Q   E   N   D  NOCC NDEL NINS ENTROPY RELENT WEIGHT
+    1    1     0   0   1  99   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.067      2  0.00
+    2    2     0   1   0   7   0   0   0   0   0   0   0   0   0   0   0  28  65   0   0   0     0    0    0   0.854     28  0.00
+    3    3    99   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0     0    0    0   0.047      1  0.00
+    4    4     0   1   0   0   0  99   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.047      1  0.00
+    5    5     0   0   0   0   0   0   0   0   0  83   0   1   0   0   0   0   6   1   9   0     0    0    0   0.642     21  0.00
+    6    6     0   0  30   0   0   0   0   0   2  63   0   5   0   0   0   0   0   0   0   0     0    0    0   0.897     29  0.00
+    7    7    24  14  19   0   6   0   4   0   0   0   0   2   0   0   2   0   1  29   0   0     0    0    0   1.761     58  0.00
+    8    8     0   0   0   0   0   0   0  70   1   0   0   0   0   0   0   1   0   0  27   0     0    0    0   0.749     24  0.00
+    9    9     0  14  22   8   0   0   0   0   0   0   1   0   0   0   0  31   1   4  19   0     0    0    0   1.732     57  0.00
+   10   10     0   0   0   0   0   0   0   0   0   1   0   0   0   0   7  91   0   0   0   0     0    0    0   0.389     12  0.00
+   11   11     0   0   0   5   2   0   0   0   0   0   0   0   0   0   7  85   1   0   0   0     0    0    0   0.617     20  0.00
+   12   12     0   0   0   0  74   1  24   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.677     22  0.00
+   13   13     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100   0   0     0    0    0   0.024      0  0.00
+   14   14     0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   15   15     0  74   0   0  26   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.578     19  0.00
+   16   16     0   0   0   0   0   0   0   0   0   0  99   0   1   0   0   0   0   0   0   0     0    0    0   0.081      2  0.00
+   17   17     0   0   0   0  13   0  87   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.423     14  0.00
+   18   18     0  99   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.039      1  0.00
+   19   19     0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   20   20     0   0   0   0   0   0   0   0   3  56   0   4   0   0   1   0   1   3   3  28     0    0    0   1.254     41  0.00
+   21   21     0  94   0   5   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.261      8  0.00
+   22   22     0   0   0   0   0   0   0   1   0   0  50  43   0   0   0   0   0   0   1   3     0    0    0   0.966     32  0.00
+   23   23     9   0   1   0   0   0   0   0   3   3   2  16   0   0   4   1   3  16   2  41     0    0    0   1.847     61  0.00
+   24   24     5   0   0   0   0   0   0   0  16   0   2   2   0   0   1   0   4  61   0  10     0    0    0   1.296     43  0.00
+   25   25     0   0   0   0   0   0   0   0  19   0   7   0   0   0   1   1  57   8   0   7     0    0    0   1.340     44  0.00
+   26   26     2  65  33   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.743     24  0.00
+   27   27     2  38   1   2   0   0   1   2  33   0   6   4   0   0   6   4   1   3   1   0     0    0    0   1.768     59  0.00
+   28   28     0   1   0   0   0   0   0   0   6   0   6   0   0   0   6  80   1   0   0   1     0    0    0   0.832     27  0.00
+   29   29     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  62  38   0   0     0    0    0   0.666     22  0.00
+   30   30    68   3  28   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.757     25  0.00
+   31   31     0   0   0   0   0   0   0   0   5   0   1   0   0   0   0   0   9  29   2  53     0    0    0   1.278     42  0.00
+   32   32     0   0   0   6   5   0  87   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.511     17  0.00
+   33   33     1  66  17   4   0   0   0   0   8   0   0   0   4   0   0   0   0   0   0   0     0    0    0   1.084     36  0.00
+   34   34     7  50  41   2   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.033     34  0.00
+   35   35     1   0   1   0   0   0   0   1  12   1   8   1   0   0  51   8   1   1  11   3     0    0    0   1.678     56  0.00
+   36   36     0   0   0   0   0   0   0   0   0   0  22   0   0   0   1  28   9   0  38   0     0    0    0   1.386     46  0.00
+   37   37     0   0   0   0   0   0   0  53   0   0   4   0   0   0   0  33   0   0   6   3     0    0    0   1.168     38  0.00
+   38   38     0   9   0   0   1  87   3   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.518     17  0.00
+   39   39    50   0  19   0   0   0   0   0  11   0   8   6   0   1   0   0   0   0   5   0     0    0    0   1.501     50  0.00
+   40   40     5   1   3   2   0   0   0   0   1  88   0   0   0   0   0   0   0   0   0   0     0    0    0   0.526     17  0.00
+   41   41     0   1   0   0   0   0   0   5   6   0   4   0  79   0   0   0   0   0   4   0     0    0    0   0.855     28  0.00
+   42   42    16  70  14   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.818     27  0.00
+   43   43     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100   0   0     0    0    0   0.000      0  0.00
+   44   44     1   0   0   0  86   4   6   0   0   0   0   0   0   3   0   0   0   0   0   0     0    0    0   0.565     18  0.00
+   45   45     0   0   0   0   0   0   0   0  14   0  11  14   0   1   0   0   0  56   0   4     0    0    0   1.342     44  0.00
+   46   46     2  28   0   0   0   0   0   0   7   7  26  11   1   0   0   4   0   0   2  10     0    0    0   1.951     65  0.00
+   47   47     1   1   0   0   0   0   0   1   1   0   1   3   0   0   0  22   1  50   0  19     0    0    0   1.367     45  0.00
+   48   48    24   0   0   0   0   0   1   0   0   3   2   1   0  40   3   7   6   0  10   2     0    0    0   1.803     60  0.00
+   49   49     0   0   0   0   0   0   0  76  12   2   8   0   0   0   0   1   0   0   0   1     0    0    0   0.869     28  0.00
+   50   50     0   1   1   0  84   0   7   0   0   0   2   1   0   0   0   0   0   2   1   0     0    0    0   0.732     24  0.00
+   51   51    71   0  20   0   0   0   0   0   4   0   1   2   0   0   0   0   0   0   0   1     0    0    0   0.955     31  0.00
+   52   52     0   0   1   0  20   0  51   4   7   0   7   1   0   6   0   1   0   0   0   0     0    0    0   1.549     51  0.00
+   53   53     0   0   0   0   0   0   0   1   0   4   0   0   0   2  79   0   0   0  14   0     0    0    0   0.735     24  0.00
+   54   54     2   0   0   1   0   0   0   0   1   0   1   1   0   0   3   1   1  75   1  12     0    0    0   1.034     34  0.00
+   55   55     0   0   0   0   0   0   6   1   0   0   2   0   0  42   0   0   0   1  46   1     0    0    0   1.171     39  0.00
+   56   56     0   0   0   0   0   0   0  18   7   0   3   9   4  19   0   0   0   0  35   3     0    0    0   1.860     62  0.00
+   57   57     3   0   5   0   0   0   0   0   9   2  25  10   1   2  16  15   1   0  11   0     0    0    0   2.108     70  0.00
+   58   58     1   1   0   0   0   0   0   0   8   0  64  15   0   1   6   0   0   2   1   0     0    0    0   1.271     42  0.00
+   59   59     0   0   0   5   1   0   0   0   8  82   3   0   0   0   0   0   0   0   0   0     0    0    0   0.707     23  0.00
+   60   60     0   0   0   0   0   0   0  80   1   8   0   3   1   0   2   0   0   2   1   0     0    0    0   0.873     29  0.00
+   61   61     0   0   0   0   1   0  87   0   0   0   0   0   0   9   0   0   0   2   0   0     0    0    0   0.535     17  0.00
+   62   62     0   1   0   0   1   0  80   0   1   8   0   0   0   1   0   0   7   0   0   0     0    0    0   0.810     27  0.00
+   63   63     0   0   0   1   0   0   0   0   0   0   0   0   0   0   9   1   0   1   0  88     0    0    0   0.486     16  0.00
+   64   64     0   0   0   0   0   0   0  72   1   0   1   1   0   0   0   0   0   0  24   1     0    0    0   0.763     25  0.00
+   65   65     0   0   0   0   0   0   0   0   2   0   5   4   0   1  86   0   0   0   1   0     0    0    0   0.633     21  0.00
+   66   66     0   0   0   0   2   0  97   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.166      5  0.00
+   67   67     0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   68   68     2   0   0   0   0   0   5   0   0   0   0  80   0   0   0   0   0  11   0   1     0    0    0   0.774     25  0.00
+   69   69     0   7   1  92   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.333     11  0.00
+   70   70     0   0   0   0   2  98   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.123      4  0.00
+   71   71     0   0   0   0   0   0   0  11   0   0   0   0   0   0   1  88   0   0   0   0     0    0    0   0.405     13  0.00
+   72   72     0  99   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.080      2  0.00
+   73   73     0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   74   74     0  18   0  80   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.564     18  0.00
+   75   75     0   0   0   0  98   0   2   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.081      2  0.00
+   76   76     0   0   0   0   0   0   0  87   0   0   0   0   0   0   0   0   0   0   1  11     0    0    0   0.481     16  0.00
+   77   77     5   3   4   0   0   0   0   1   2   0   0   3  77   0   0   0   0   5   0   0     0    0    0   0.956     31  0.00
+   78   78     0   0   1   0   0   0   0   0   1   1   0  81   0   0   4   7   3   0   2   0     0    0    0   0.807     26  0.00
+   79   79     0   0   0   0   0   0   0   0   1   0   3   1   0   0   0   0   0   2   1  92     0    0    0   0.402     13  0.00
+   80   80     4   0   1   0   0   0   0   6  55  15  17   1   0   0   0   0   0   0   0   0     0    0    0   1.322     44  0.00
+   81   81     1   0   0   1   0   0   0   1  27   0  36  23   0   0   1   1   2   1   2   5     0    0    0   1.605     53  0.00
+   82   82     1   0   0   0   0   0   0   3   6   0   2   3   0   0   0   1  80   2   0   0     0    0    0   0.900     30  0.00
+   83   83    93   1   6   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.268      8  0.00
+   84   84     8  65  12  13   0   0   2   0   1   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.108     36  0.00
+   85   85     0   1   1   2   4   0   4   4  18   0   6   2   0   0   8  35   1   0  13   1     0    0    0   2.064     68  0.00
+   86   86     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100   0   0     0    0    0   0.021      0  0.00
+   87   87    43  31  21   0   0   0   0   0   5   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.236     41  0.00
+   88   88     1   0   0   0   0   0   1   2   8   0   8   0   0   0   3   0  22  42   6   5     0    0    0   1.755     58  0.00
+   89   89     0   0   0   0   0   0   0   0  15   1   2   0   0   0   0   0   1  77   2   1     0    0    0   0.827     27  0.00
+   90   90    19   2   0   0   0   0   0   0  28   0   0   0  51   0   0   0   0   0   0   0     0    0    0   1.109     37  0.00
+   91   91     2   0   3   0   0   0   0   0   2   0   1   7   0   4  22  57   1   1   0   0     0    0    0   1.379     46  0.00
+   92   92     0   0   0   0   1   0   0   0   4   0   4   5   0   0   9  74   1   0   2   0     0    0    0   1.032     34  0.00
+   93   93     2   1   0   0   0   0   0   0  51   0   3   2   0   1   0   1   2  36   0   0     0    0    0   1.224     40  0.00
+   94   94     0   0   0   0  11   0  73   0   1   0   0   0   2   5   1   2   0   0   4   0     0    0    0   1.027     34  0.00
+   95   95     0   0   0   0   0   0   0   2   2  93   3   0   0   0   0   0   0   0   0   0     0    0    0   0.334     11  0.00
+   96   96     0   0   0   0   0   0   0   4   3   0   3   2   0   1   0   1  19  11  21  35     0    0    0   1.752     58  0.00
+   97   97     1   1   0   0   1   0   6   8  61   0   3   0   9   6   1   0   1   0   3   0     0    0    0   1.494     49  0.00
+   98   98     0   1   0   1  32  13  46   1   0   0   0   0   0   5   0   0   0   0   0   0     0    0    0   1.310     43  0.00
+   99   99    43   0  52   0   0   0   0   0   2   0   1   0   0   1   0   0   0   0   0   0     0    0    0   0.977     32  0.00
+  100  100     0   0   0   0   0   0   0   1   0   0   0   0   0   0  92   7   0   0   0   0     0    0    0   0.325     10  0.00
+  101  101    23  19  55   2   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.124     37  0.00
+  102  102    14   3  66   0   0   0   0   0   8   0   1   2   0   0   0   0   0   0   7   0     0    0    0   1.137     37  0.00
+  103  103     0   0   0   0   0   0   0  74  20   0   0   0   6   0   0   0   0   0   0   0     0    0    0   0.715     23  0.00
+  104  104     0   0   0   0  94   0   5   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.230      7  0.00
+  105  105     1   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   3  96     0    0    0   0.230      7  0.00
+  106  106     0   0   0   0   0   0   0   0   9   0  15   0   0   0   0   0   0   0  76   1     0    0    0   0.755     25  0.00
+  107  107    41   8  11   3   2   0   4   0   1   0   3  10   0   0   0   7   1   0   9   0     0    0    0   1.949     65  0.00
+  108  108     0   0   0   0   0   0   2   1   3   0   1   1   0   2  76  14   0   0   0   0     0    0    0   0.913     30  0.00
+  109  109     0   0   0   0   0   0   0   8   0   0   0   3   0   0   0   0  88   2   0   0     0    0    0   0.480     16  0.00
+  110  110    83   0   2   0   0   1   0   0   0   0   6   3   3   0   0   0   0   1   0   0     0    0    0   0.742     24  0.00
+  111  111     0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   1  88  10   0   0     0    0    0   0.461     15  0.00
+  112  112    10   2   8   0   0   0   0   6   1   0   5   3  65   0   0   0   0   0   0   0     0    0    0   1.290     43  0.00
+  113  113    28   5  49   6   0   0   0   0   3   0   7   2   1   1   0   0   0   0   0   0     0    0    0   1.421     47  0.00
+  114  114     0   0   0   1   0   0   0   8   4   0  86   0   0   0   0   0   0   1   1   0     0    0    0   0.591     19  0.00
+  115  115     0   1   0   2  96   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.182      6  0.00
+  116  116    12  11  76   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.755     25  0.00
+  117  117    35   0   3   0   0   0   0   0  60   0   0   1   0   0   0   0   0   0   0   0     0    0    0   0.847     28  0.00
+  118  118     0   0   0   0  18   0  40   0   0   0   6   0   0  14   0   0  11   1   9   0     0    0    0   1.691     56  0.00
+  119  119     0   0   0   0   0   0   0   0   0   0   0   4   0   0  41  54   0   0   0   0     0    0    0   0.872     29  0.00
+  120  120     0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+  121  121     0   0   0   0   0   0   0   1   9  48   3   2   0   0   0   7   1  24   0   4     0    0    0   1.552     51  0.00
+  122  122     1   0   0   0   0   0   0  74   1   0  20   0   0   0   3   0   0   1   1   0     0    0    0   0.778     25  0.00
+  123  123     0   0   0   0  42   1  57   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.730     24  0.00
+//

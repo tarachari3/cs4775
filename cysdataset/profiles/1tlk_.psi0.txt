@@ -1,0 +1,504 @@
+ID Pseudo hssp file.
+SEQ 
+SEQ gi|104786|pir||A35093 myosin-light-chain kinase (EC 2.7.1.117) -...   206  6e-53
+SEQ gi|104787|pir||A37099 myosin-light-chain kinase (EC 2.7.1.117) -...   206  6e-53
+SEQ gi|901819|gb|AAA69964.1| (M14953) myosin light chain kinase [Gal...   206  6e-53
+SEQ gi|2851396|sp|P11799|KMLS_CHICK MYOSIN LIGHT CHAIN KINASE, SMOOT...   206  6e-53
+SEQ gi|992994|emb|CAA37057.1| (X52876) myosin light chain kinase [Ga...   206  6e-53
+SEQ gi|212238|gb|AAB53767.1| (M88284) myosin light chain kinase [Gal...   205  1e-52
+SEQ gi|3024078|sp|P56276|KMLS_MELGA TELOKIN >gi|443284|pdb|1TLK|  Te...   202  1e-51
+SEQ gi|10120811|pdb|1FHG|A Chain A, High Resolution Refinement Of Te...   200  3e-51
+SEQ gi|211372|gb|AAA48647.1| (M88283) kinase related protein [Gallus...   196  5e-50
+SEQ gi|90103|pir||A41674 myosin-light-chain kinase (EC 2.7.1.117), s...   191  3e-48
+SEQ gi|2851405|sp|P29294|KMLS_RABIT MYOSIN LIGHT CHAIN KINASE, SMOOT...   191  3e-48
+SEQ gi|3024085|sp|Q28824|KMLS_BOVIN MYOSIN LIGHT CHAIN KINASE, SMOOT...   191  3e-48
+SEQ gi|1103677|emb|CAA62378.1| (X90870) myosin-light-chain kinase [H...   191  3e-48
+SEQ gi|5174601|ref|NP_005956.1| myosin, light polypeptide kinase; ki...   191  3e-48
+SEQ gi|1587068|prf||2205337A myosin light chain kinase [Ovis aries]       191  3e-48
+SEQ gi|5771403|gb|AAD51380.1| (AF096771) smooth muscle/nonmuscle myo...   191  3e-48
+SEQ gi|12644418|sp|Q15746|KMLS_HUMAN MYOSIN LIGHT CHAIN KINASE, SMOO...   191  3e-48
+SEQ gi|7239698|gb|AAD15921.2| (AF069601) myosin light chain kinase i...   191  3e-48
+SEQ gi|12597190|dbj|BAB21504.1| (AB037663) myosin light chain kinase...   191  3e-48
+SEQ gi|13644728|ref|XP_010988.2| myosin, light polypeptide kinase [H...   191  3e-48
+SEQ gi|3024073|sp|O02827|KMLS_SHEEP MYOSIN LIGHT CHAIN KINASE, SMOOT...   188  2e-47
+SEQ gi|4322022|gb|AAD15922.1| (AF069602) myosin light chain kinase i...   188  2e-47
+SEQ gi|4322024|gb|AAD15923.1| (AF069603) myosin light chain kinase i...   188  2e-47
+SEQ gi|4322026|gb|AAD15924.1| (AF069604) myosin light chain kinase i...   188  2e-47
+SEQ gi|5771404|gb|AAD51381.1| (AF096771) kinase related protein [Hom...   185  1e-46
+SEQ gi|5852346|gb|AAD54017.1|AF096773_1 (AF096773) kinase-related pr...   184  2e-46
+SEQ gi|11321439|gb|AAG34169.1|AF314149_1 (AF314149) telokin [Mus mus...   183  6e-46
+SEQ gi|90148|pir||A41675 telokin - rabbit >gi|165527|gb|AAA31409.1| ...   181  2e-45
+SEQ gi|1655849|gb|AAB41402.1| (U61731) neuronal myosin light chain k...   169  1e-41
+SEQ gi|13365903|dbj|BAB39325.1| (AB056801) hypothetical protein [Mac...    80  8e-15
+SEQ gi|7242949|dbj|BAA92535.1| (AB037718) KIAA1297 protein [Homo sap...    77  8e-14
+SEQ gi|103688|pir||A37982 calcium vector protein - common lancelet         77  8e-14
+SEQ gi|115762|sp|P05548|CAVT_BRALA CAVP-TARGET PROTEIN (CAVPT)             76  2e-13
+SEQ gi|7291711|gb|AAF47133.1| (AE003462) CG18019 gene product [Droso...    74  7e-13
+SEQ gi|11385416|gb|AAG34791.1|AF215896_1 (AF215896) striated muscle-...    74  7e-13
+SEQ gi|14211895|ref|NP_115967.1| myopalladin [Homo sapiens] >gi|1395...    72  2e-12
+SEQ gi|7292195|gb|AAF47606.1| (AE003473) CG1282 gene product [Drosop...    71  5e-12
+SEQ gi|8250181|emb|CAB93524.1| (AJ271740) D-Titin [Drosophila melano...    71  5e-12
+SEQ gi|7706355|ref|NP_057165.1| palladin; CGI-151 protein [Homo sapi...    70  1e-11
+SEQ gi|1160355|gb|AAB00542.1| (U33058) UNC-89 [Caenorhabditis elegans]     69  1e-11
+SEQ gi|7511618|pir||T29757 protein UNC-89 - Caenorhabditis elegans >...    69  1e-11
+SEQ gi|9828173|gb|AAG00078.1|AF205078_1 (AF205078) actin-associated ...    69  1e-11
+SEQ gi|7513113|pir||T13078 KIAA0992 protein - human (fragment) >gi|4...    69  2e-11
+SEQ gi|4689130|gb|AAD27774.1|AF077041_1 (AF077041) SIH002 [Homo sapi...    69  2e-11
+SEQ gi|12730896|ref|XP_011198.1| palladin [Homo sapiens]                   69  2e-11
+SEQ gi|6977825|emb|CAB43739.2| (AJ238577) titin [Drosophila melanoga...    68  4e-11
+SEQ gi|4507721|ref|NP_003310.1| titin [Homo sapiens] >gi|1212992|emb...    68  4e-11
+SEQ gi|2136280|pir||I38344 titin, cardiac muscle [validated] - human       68  4e-11
+SEQ gi|1145880|gb|AAC48494.1| (U28657) titin [Oryctolagus cuniculus]       67  8e-11
+SEQ gi|3928489|emb|CAA77028.1| (Y18102) titin [Oryctolagus cuniculus]      67  8e-11
+SEQ gi|10727235|gb|AAG22226.1| (AE003473) CG18242 gene product [Dros...    67  8e-11
+SEQ gi|7292196|gb|AAF47607.1| (AE003473) CG11850 gene product [Droso...    66  2e-10
+SEQ gi|2134445|pir||A43985 myosin-light-chain kinase (EC 2.7.1.117) ...    66  2e-10
+SEQ gi|12845727|dbj|BAB26871.1| (AK010350) putative [Mus musculus]         66  2e-10
+SEQ gi|7498954|pir||T34416 hypothetical protein F12F3.2 - Caenorhabd...    65  2e-10
+SEQ gi|6815111|dbj|BAA90301.2| (AB026845) kettin [Drosophila melanog...    64  3e-10
+SEQ gi|7292193|gb|AAF47604.1| (AE003473) Ket gene product [Drosophil...    64  3e-10
+SEQ gi|14039490|gb|AAK53241.1|AF335470_1 (AF335470) myosin light cha...    64  4e-10
+SEQ gi|486783|pir||S35341 kettin - fruit fly (Drosophila melanogaste...    63  1e-09
+SEQ gi|11359852|pir||T42633 connectin/titin - chicken (fragment) >gi...    63  1e-09
+SEQ gi|7024535|gb|AAF35436.1|AF159173_1 (AF159173) structural muscle...    63  1e-09
+SEQ gi|4558445|gb|AAD22603.1|AF058332_1 (AF058332) titin [Homo sapiens]    62  2e-09
+SEQ gi|4558446|gb|AAD22604.1|AF058332_2 (AF058332) myocardium-specif...    62  2e-09
+SEQ gi|8249467|emb|CAB93149.1| (AJ277892) titin [Homo sapiens]             62  2e-09
+SEQ gi|6093457|sp|Q05623|MYPH_CHICK MYOSIN-BINDING PROTEIN H (MYBP-H...    62  2e-09
+SEQ gi|12845399|dbj|BAB26738.1| (AK010153) putative [Mus musculus]         62  2e-09
+SEQ gi|7499550|pir||T29340 hypothetical protein F21C10.7 - Caenorhab...    62  3e-09
+SEQ gi|5921676|gb|AAC78203.2| (AF106579) contains similarity to Pfam...    61  3e-09
+SEQ gi|6815113|dbj|BAA90302.2| (AB026846) kettin [Caenorhabditis ele...    61  3e-09
+SEQ gi|7512404|pir||I38346 elastic titin - human (fragment) >gi|1017...    61  4e-09
+SEQ gi|422690|pir||A46611 myosin-binding protein H - chicken               61  4e-09
+SEQ gi|542688|pir||PN0568 connectin 3B - chicken (fragment) >gi|3916...    61  5e-09
+SEQ gi|7159652|emb|CAB76253.1| (AJ245406) kettin [Drosophila melanog...    61  6e-09
+SEQ gi|4454133|emb|CAA09970.1| (AJ012279) Kettin [Drosophila melanog...    60  9e-09
+SEQ gi|2804782|gb|AAC38849.1| (AF040989) roundabout 1 [Drosophila me...    59  1e-08
+SEQ gi|7291461|gb|AAF46887.1| (AE003458) robo gene product [Drosophi...    59  1e-08
+SEQ gi|4758748|ref|NP_004524.1| myosin-binding protein C, fast-type;...    59  2e-08
+SEQ gi|3243131|gb|AAC23966.1| (AF045777) titin [Drosophila melanogas...    59  2e-08
+SEQ gi|4914483|emb|CAB43710.1| (AJ238575) titin [Drosophila melanoga...    59  2e-08
+SEQ gi|4557771|ref|NP_000247.1| protein C, cardiac [Homo sapiens] >g...    58  5e-08
+SEQ gi|2058322|emb|CAA71216.1| (Y10129) myosin binding protein C gen...    58  5e-08
+SEQ gi|2920823|gb|AAC04620.1| (U91629) cardiac myosin binding protei...    58  5e-08
+SEQ gi|13638976|ref|XP_016697.1| similar to protein C, cardiac (H. s...    58  5e-08
+SEQ gi|13639201|ref|XP_016325.1| protein C, cardiac [Homo sapiens]         58  5e-08
+SEQ gi|6678996|ref|NP_032690.1| myomesin 2; skeletal muscle 165kD pr...    57  6e-08
+SEQ gi|4505315|ref|NP_003961.1| myomesin 2; titin-associated protein...    57  8e-08
+SEQ gi|13644356|ref|XP_005198.2| myomesin 2 [Homo sapiens]                 57  8e-08
+SEQ gi|4096872|gb|AAD00021.1| (U42849) titin [Gallus gallus]               57  8e-08
+SEQ gi|4003519|gb|AAC95128.1| (AF056034) F-actin binding protein b-N...    56  1e-07
+SEQ gi|4768675|gb|AAD29607.1|AF114264_1 (AF114264) unknown [Homo sap...    56  2e-07
+SEQ gi|1354321|gb|AAB53338.1| (U51476) titin [Gallus gallus]               56  2e-07
+SEQ gi|4003521|gb|AAC95129.1| (AF056035) s-nexilin [Rattus norvegicus]     56  2e-07
+SEQ gi|10726323|gb|AAF59316.2| (AE003843) bt gene product [Drosophil...    56  2e-07
+SEQ gi|10946892|ref|NP_067459.1| titin immunoglobulin domain protein...    55  2e-07
+SEQ gi|10727236|gb|AAG22227.1| (AE003473) CG18857 gene product [Dros...    55  2e-07
+SEQ gi|7512013|pir||T13931 projectin - fruit fly (Drosophila melanog...    55  2e-07
+SEQ gi|11359853|pir||T42634 connectin/titin - chicken (fragment) >gi...    55  3e-07
+SEQ gi|10726827|gb|AAF56795.2| (AE003765) CG18436 gene product [Dros...    55  3e-07
+SEQ gi|249840|gb|AAB22251.1| LAR, leukocyte common antigen-related p...    55  4e-07
+SEQ gi|10726826|gb|AAF56794.2| (AE003765) CG1540 gene product [Droso...    54  4e-07
+SEQ gi|6680445|ref|NP_032403.1| integral membrane glycoprotein [Mus ...    54  4e-07
+SEQ gi|5031589|ref|NP_005867.1| nuclear protein, marker for differen...    54  4e-07
+SEQ gi|6680694|ref|NP_031489.1| aortic preferentially expressed gene...    54  4e-07
+SEQ gi|6978511|ref|NP_037037.1| aortic preferentially expressed gene...    54  4e-07
+SEQ gi|4506311|ref|NP_002831.1| protein tyrosine phosphatase, recept...    54  4e-07
+SEQ gi|13638537|ref|XP_001466.3| protein tyrosine phosphatase, recep...    54  4e-07
+SEQ gi|9887208|gb|AAG01799.1|AF255672_1 (AF255672) Stretchin-MLCK [D...    54  4e-07
+SEQ gi|1091195|prf||2020397A C protein [Mus musculus]                      54  4e-07
+SEQ gi|6678976|ref|NP_032679.1| myosin binding protein C, cardiac; c...    54  4e-07
+SEQ gi|3747134|gb|AAC64202.1| (AF097333) myosin binding protein-C [M...    54  4e-07
+SEQ gi|14423349|gb|AAK62357.1|AF381545_1 (AF381545) membrane glycopr...    54  5e-07
+SEQ gi|14041955|dbj|BAB55048.1| (AK027343) unnamed protein product [...    54  6e-07
+SEQ gi|9507013|ref|NP_062122.1| protein tyrosine phosphatase, recept...    54  6e-07
+SEQ gi|13537355|dbj|BAB40659.1| (AB050468) membrane glycoprotein LIG...    54  6e-07
+SEQ gi|2636654|gb|AAB86737.1| (U27266) myosin binding protein H [Hom...    54  6e-07
+SEQ gi|6166596|sp|Q13203|MYPH_HUMAN MYOSIN-BINDING PROTEIN H (MYBP-H...    54  6e-07
+SEQ gi|11559520|gb|AAG37995.1|AF205357_1 (AF205357) extracellular ma...    54  7e-07
+SEQ gi|7511105|pir||T29549 hypothetical protein ZK377.3 - Caenorhabd...    54  8e-07
+SEQ gi|7511638|pir||T42405 sax-3 protein - Caenorhabditis elegans >g...    54  8e-07
+SEQ gi|10727341|gb|AAF51031.2| (AE003577) CG15426 gene product [Dros...    53  9e-07
+SEQ gi|14149044|emb|CAC39161.1| (AJ312132) turtle protein, isoform 1...    53  9e-07
+SEQ gi|14149046|emb|CAC39162.1| (AJ312133) turtle protein, isoform 2...    53  9e-07
+SEQ gi|14149048|emb|CAC39163.1| (AJ312134) turtle protein, isoform 3...    53  9e-07
+SEQ gi|14149050|emb|CAC39164.1| (AJ312135) turtle protein, isoform 4...    53  9e-07
+SEQ gi|7949088|ref|NP_058029.1| myosin binding protein H [Mus muscul...    53  9e-07
+SEQ gi|4506569|ref|NP_002932.1| roundabout (axon guidance receptor, ...    53  1e-06
+SEQ gi|7513636|pir||T30805 dutt1 protein - mouse >gi|3688436|emb|CAA...    53  1e-06
+SEQ gi|13645986|ref|XP_003052.3| roundabout (axon guidance receptor,...    53  1e-06
+SEQ gi|4503749|ref|NP_002010.1| fms-related tyrosine kinase 1 (vascu...    53  1e-06
+SEQ gi|4505295|ref|NP_002456.1| myosin-binding protein C, slow-type;...    53  1e-06
+SEQ gi|3132831|gb|AAC16449.1| (AF063657) vascular endothelial growth...    53  1e-06
+SEQ gi|6166597|sp|Q00872|MYPS_HUMAN MYOSIN-BINDING PROTEIN C, SLOW-T...    53  1e-06
+SEQ gi|13628644|ref|XP_007175.2| fms-related tyrosine kinase 1 (vasc...    53  1e-06
+SEQ gi|13652548|ref|XP_017524.1| myosin-binding protein C, slow-type...    53  1e-06
+SEQ gi|547919|sp|Q02173|MPSF_CHICK M-PROTEIN, STRIATED MUSCLE >gi|34...    52  2e-06
+SEQ gi|37195|emb|CAA45938.1| (X64697) titin [Homo sapiens]                 52  2e-06
+SEQ gi|407139|emb|CAA49245.1| (X69490) titin [Homo sapiens]                52  2e-06
+SEQ gi|420108|pir||S20898 titin - human (fragments)                        52  2e-06
+SEQ gi|7106393|ref|NP_035378.1| retinoblastoma inhibiting gene 1 [Mu...    52  2e-06
+SEQ gi|14331137|gb|AAK60496.1|AF338872_1 (AF338872) myocytic inducti...    52  2e-06
+SEQ gi|7292322|gb|AAF47729.1| (AE003477) CG14964 gene product [Droso...    52  2e-06
+SEQ gi|2136094|pir||I58357 receptor tyrosine kinase - human (fragmen...    52  2e-06
+SEQ gi|11321597|ref|NP_002244.1| kinase insert domain receptor (a ty...    52  2e-06
+SEQ gi|3132833|gb|AAC16450.1| (AF063658) vascular endothelial growth...    52  2e-06
+SEQ gi|6164831|gb|AAF04558.1| (AF182037) Robo2 [Rattus norvegicus]         52  2e-06
+SEQ gi|7446386|pir||JC1402 protein-tyrosine kinase (EC 2.7.1.112) KD...    52  2e-06
+SEQ gi|452201|dbj|BAA03004.1| (D13904) MPTPdelta [Mus musculus]            52  2e-06
+SEQ gi|4506309|ref|NP_002830.1| protein tyrosine phosphatase, recept...    52  2e-06
+SEQ gi|1083478|pir||C54689 protein-tyrosine-phosphatase (EC 3.1.3.48...    52  2e-06
+SEQ gi|5031927|ref|NP_005583.1| muscle, skeletal, receptor tyrosine ...    52  2e-06
+SEQ gi|13641262|ref|XP_011817.2| muscle, skeletal, receptor tyrosine...    52  2e-06
+SEQ gi|84477|pir||S07571 twitchin - Caenorhabditis elegans >gi|6898|...    52  2e-06
+SEQ gi|1942207|pdb|1KOA|    Twitchin Kinase Fragment (C.Elegans), Au...    52  2e-06
+SEQ gi|7511243|pir||T27934 hypothetical protein ZK617.1a - Caenorhab...    52  2e-06
+SEQ gi|7511244|pir||T27935 hypothetical protein ZK617.1b - Caenorhab...    52  2e-06
+SEQ gi|7434379|pir||S57242 twitchin [similarity] - Caenorhabditis el...    52  2e-06
+SEQ gi|127855|sp|P16170|NCA1_XENLA NEURAL CELL ADHESION MOLECULE 1, ...    52  2e-06
+SEQ gi|7441746|pir||JE0099 neural cell adhesion molecule 1 - African...    52  2e-06
+SEQ gi|10047201|dbj|BAB13394.1| (AB046788) KIAA1568 protein [Homo sa...    52  3e-06
+SEQ gi|11761808|gb|AAG40194.1|AF300943_1 (AF300943) tyrosine phospha...    52  3e-06
+SEQ gi|4506327|ref|NP_002841.1| protein tyrosine phosphatase, recept...    52  3e-06
+SEQ gi|3702280|gb|AAC62832.1| (AC005790) PTP sigma [AA 1- 126] [Homo...    52  3e-06
+SEQ gi|13651702|ref|XP_017236.1| protein tyrosine phosphatase, recep...    52  3e-06
+SEQ gi|13929156|ref|NP_114001.1| norvegicus myosin binding protein H...    52  3e-06
+SEQ gi|12858264|dbj|BAB31253.1| (AK018522) putative [Mus musculus]         52  3e-06
+SEQ gi|1407625|gb|AAC50567.1| (U40317) PTPsigma [Homo sapiens]             51  3e-06
+SEQ gi|4096822|gb|AAD09360.1| (U41725) PTPsigma-(brain) [Homo sapiens]     51  3e-06
+SEQ gi|9507011|ref|NP_062013.1| protein tyrosine phosphatase, recept...    51  3e-06
+SEQ gi|2118906|pir||I58148 protein-tyrosine-phosphatase (EC 3.1.3.48...    51  3e-06
+SEQ gi|310202|gb|AAA75407.1| (L19180) receptor-linked protein tyrosi...    51  3e-06
+SEQ gi|310204|gb|AAA50568.1| (L19181) receptor-linked protein tyrosi...    51  3e-06
+SEQ gi|440973|gb|AAB28877.1| receptor protein tyrosine phosphatase-s...    51  3e-06
+SEQ gi|1083771|pir||A48758 protein-tyrosine-phosphatase (EC 3.1.3.48...    51  3e-06
+SEQ gi|1083772|pir||B48758 protein-tyrosine-phosphatase (EC 3.1.3.48...    51  3e-06
+SEQ gi|1085568|pir||S46217 protein-tyrosine-phosphatase (EC 3.1.3.48...    51  3e-06
+SEQ gi|5803106|ref|NP_006781.1| titin immunoglobulin domain protein;...    51  4e-06
+SEQ gi|461292|dbj|BAA05887.1| (D28531) PTPT9A, the truncated extrace...    51  4e-06
+SEQ gi|464191|dbj|BAA05886.1| (D28530) protein tyrosine phosphatase ...    51  4e-06
+SEQ gi|1083485|pir||S50893 protein-tyrosine-phosphatase (EC 3.1.3.48...    51  4e-06
+SEQ gi|11138044|dbj|BAB17763.1| (AB042565) twitchin [Mytilus gallopr...    51  4e-06
+SEQ gi|14276865|gb|AAK58427.1|AF337035_1 (AF337035) roundabout2 [Dan...    51  4e-06
+SEQ gi|6005922|ref|NP_009049.1| triple functional domain (PTPRF inte...    51  5e-06
+SEQ gi|8928460|sp|O75962|TRIO_HUMAN TRIPLE FUNCTIONAL DOMAIN PROTEIN...    51  5e-06
+SEQ gi|1504040|dbj|BAA13219.1| (D86983) similar to D.melanogaster pe...    51  5e-06
+SEQ gi|1017827|gb|AAA79203.1| (U37708) muscle localized kinase 1 [Mu...    51  5e-06
+SEQ gi|1017829|gb|AAA79204.1| (U37709) muscle localized kinase 2 [Mu...    51  5e-06
+SEQ gi|7498955|pir||T34418 hypothetical protein F12F3.3 - Caenorhabd...    51  6e-06
+SEQ gi|14574076|gb|AAC25885.2| (U80022) Hypothetical protein F12F3.3...    51  6e-06
+SEQ gi|2137344|pir||I48696 protein-tyrosine kinase (EC 2.7.1.112) ns...    51  6e-06
+SEQ gi|6754896|ref|NP_035074.1| muscle, skeletal, receptor tyrosine ...    51  6e-06
+SEQ gi|7434398|pir||S60738 protein-tyrosine kinase (EC 2.7.1.112) ns...    51  6e-06
+SEQ gi|7434399|pir||S60740 protein-tyrosine kinase (EC 2.7.1.112) ns...    51  6e-06
+SEQ gi|7505648|pir||T23007 hypothetical protein K09C8.5 - Caenorhabd...    51  6e-06
+SEQ gi|7305333|ref|NP_038874.1| neurotrophic tyrosine kinase, recept...    50  7e-06
+SEQ gi|3886051|gb|AAC78200.1| (AF106579) Contains similarity to Pfam...    50  8e-06
+SEQ gi|4758842|ref|NP_004551.1| receptor tyrosine kinase-like orphan...    50  8e-06
+SEQ gi|11559953|ref|NP_071524.1| roundabout homolog 1 (Drosophila) [...    50  8e-06
+SEQ gi|9989696|gb|AAG01184.2| (AF294796) ROR2 protein [Homo sapiens]       50  8e-06
+SEQ gi|11228721|gb|AAG33132.1| (AF279762) ROR2 [Homo sapiens]              50  8e-06
+SEQ gi|7662320|ref|NP_055628.1| KIAA0806 gene product [Homo sapiens]...    50  8e-06
+SEQ gi|12835222|dbj|BAB23193.1| (AK004148) putative [Mus musculus]         50  9e-06
+SEQ gi|4096699|gb|AAD10365.1| (U38275) titin [Oryctolagus cuniculus]       50  1e-05
+SEQ gi|2134173|pir||I51669 tumor suppressor - African clawed frog >g...    50  1e-05
+SEQ gi|6753886|ref|NP_034358.1| FMS-like tyrosine kinase 1; vascular...    49  1e-05
+SEQ gi|2809069|dbj|BAA24498.1| (D88689) flt-1 [Mus musculus]               49  1e-05
+SEQ gi|1110449|dbj|BAA07799.1| (D43697) myosin binding protein C [Ga...    49  1e-05
+SEQ gi|6166593|sp|Q90688|MYPC_CHICK MYOSIN-BINDING PROTEIN C, CARDIA...    49  1e-05
+SEQ gi|478499|pir||PN0689 connectin 1 - chicken (fragment)                 49  1e-05
+SEQ gi|2118907|pir||I50212 protein-tyrosine-phosphatase (EC 3.1.3.48...    49  1e-05
+SEQ gi|7296078|gb|AAF51373.1| (AE003586) CG5481 gene product [Drosop...    49  1e-05
+SEQ gi|7508141|pir||T28715 hypothetical protein T21D12.9b - Caenorha...    49  1e-05
+SEQ gi|7508140|pir||T28714 hypothetical protein T21D12.9a - Caenorha...    49  1e-05
+SEQ gi|10727395|gb|AAF51388.2| (AE003586) CG5423 gene product [Droso...    49  1e-05
+SEQ gi|11907990|gb|AAG41426.1|AF312580_1 (AF312580) roundabout 3 [Dr...    49  1e-05
+SEQ gi|13492012|gb|AAK28043.1|AF304131_1 (AF304131) transmembrane re...    49  2e-05
+SEQ gi|14276867|gb|AAK58428.1|AF337036_1 (AF337036) roundabout3 [Dan...    49  2e-05
+SEQ gi|212659|gb|AAA49068.1| (M31209) skeletal muscle C-protein [Gal...    49  2e-05
+SEQ gi|1706106|sp|P16419|MYPF_CHICK MYOSIN-BINDING PROTEIN C, FAST-T...    49  2e-05
+SEQ gi|6066287|gb|AAF03237.1| (AF180354) flk1 protein [Danio rerio]        49  2e-05
+SEQ gi|109388|pir||S20901 titin - rabbit (fragment)                        49  2e-05
+SEQ gi|1208922|emb|CAA45937.1| (X64696) titin [Oryctolagus cuniculus]      49  2e-05
+SEQ gi|105475|pir||S24614 myosin-binding protein C, skeletal muscle ...    49  2e-05
+SEQ gi|13592003|ref|NP_112323.1| muscle-specific tyrosine kinase rec...    49  2e-05
+SEQ gi|2677772|gb|AAC01930.1| (U70358) unknown [Oreochromis leucosti...    49  2e-05
+SEQ gi|2677756|gb|AAC01922.1| (U70356) unknown [Hemichromis bimacula...    49  2e-05
+SEQ gi|13643758|ref|XP_016250.1| titin [Homo sapiens]                      49  2e-05
+SEQ gi|181493|gb|AAA35751.1| (M32292) colorectal tumor suppressor (p...    48  3e-05
+SEQ gi|4885175|ref|NP_005206.1| deleted in colorectal carcinoma [Hom...    48  3e-05
+SEQ gi|6681139|ref|NP_031857.1| deleted in colorectal carcinoma [Mus...    48  3e-05
+SEQ gi|6978755|ref|NP_036973.1| deleted in colcorectal cancer (rat h...    48  3e-05
+SEQ gi|547997|sp|P36335|NCA2_XENLA NEURAL CELL ADHESION MOLECULE 2, ...    48  3e-05
+SEQ gi|11276093|ref|NP_062179.1| Fms-related tyrosine kinase 1 (vasc...    48  3e-05
+SEQ gi|7441747|pir||JE0100 neural cell adhesion molecule 2 - African...    48  3e-05
+SEQ gi|8671376|emb|CAB95001.1| (AJ401157) titin [Rattus norvegicus]        48  3e-05
+SEQ gi|7248659|gb|AAF43606.1|AF197945_1 (AF197945) receptor protein ...    48  3e-05
+SEQ gi|9623315|gb|AAF90111.1|AF254362_1 (AF254362) stretchin-MLCK [D...    48  3e-05
+SEQ gi|114735|sp|P28685|AXO1_CHICK CONTACTIN 2 PRECURSOR (AXONIN-1) ...    48  4e-05
+SEQ gi|111526|pir||B40098 colorectal cancer suppressor DCC - rat (fr...    47  4e-05
+SEQ gi|2677762|gb|AAC01925.1| (U70341) unknown [Julidochromis regani]      47  4e-05
+SEQ gi|2677768|gb|AAC01928.1| (U70348) unknown [Neolamprologus brich...    47  4e-05
+SEQ gi|2677770|gb|AAC01929.1| (U70350) unknown [Neolamprologus compr...    47  5e-05
+SEQ gi|4630884|dbj|BAA76957.1| (AB026191) BM KETTIN [Bombyx mori]          47  5e-05
+SEQ gi|9623341|gb|AAF90125.1|AF257307_1 (AF257307) stretchin-MLCK [D...    47  6e-05
+SEQ gi|107362|pir||A38442 probable tumor suppressor - human (fragment)     47  6e-05
+SEQ gi|7512940|pir||T17346 hypothetical protein DKFZp586O1624.1 - hu...    47  6e-05
+SEQ gi|7511448|pir||T32186 hypothetical protein ZK994.3 - Caenorhabd...    47  6e-05
+SEQ gi|113687|sp|P15364|AMAL_DROME AMALGAM PROTEIN PRECURSOR >gi|848...    47  6e-05
+SEQ gi|4389427|gb|AAD19797.1| (AE001572) Immunoglobulin-C2-type-doma...    47  6e-05
+SEQ gi|8569490|pdb|1CS6|A Chain A, N-Terminal Fragment Of Axonin-1 F...    47  7e-05
+SEQ gi|6754440|ref|NP_034742.1| kinase insert domain protein recepto...    47  7e-05
+SEQ gi|423436|pir||A46065 endothelial cell-specific receptor tyrosin...    47  7e-05
+SEQ gi|3024083|sp|Q24372|LACH_DROME LACHESIN PRECURSOR >gi|290247|gb...    47  7e-05
+SEQ gi|7303450|gb|AAF58506.1| (AE003822) Lac gene product [Drosophil...    47  7e-05
+SEQ gi|11526691|gb|AAG36740.1| (AF113077) unknown [Bujurquina sp. Fa...    47  7e-05
+SEQ gi|11526703|gb|AAG36746.1| (AF113083) unknown [Acarichthys hecke...    47  8e-05
+SEQ gi|11526709|gb|AAG36749.1| (AF113086) unknown [Teleocichla centr...    47  8e-05
+SEQ gi|12863028|gb|AAC01916.2| (U70335) unknown [Crenicichla saxatilis]    47  8e-05
+SEQ gi|11526695|gb|AAG36742.1| (AF113079) unknown [Laetacara curviceps]    47  8e-05
+SEQ gi|11526713|gb|AAG36751.1| (AF113088) unknown [Geophagus brasili...    47  8e-05
+SEQ gi|11526719|gb|AAG36754.1| (AF113091) unknown [Geophagus altifrons]    47  8e-05
+SEQ gi|11526721|gb|AAG36755.1| (AF113092) unknown [Geophagus argyros...    47  8e-05
+SEQ gi|11526723|gb|AAG36756.1| (AF113093) unknown [Geophagus sp. Far...    47  8e-05
+SEQ gi|11526689|gb|AAG36739.1| (AF113076) unknown [Acaronia nassa]         47  9e-05
+SEQ gi|8393087|ref|NP_059054.1| immunoglobulin superfamily member [R...    47  9e-05
+SEQ gi|10047355|dbj|BAB13465.1| (AB046859) KIAA1639 protein [Homo sa...    47  1e-04
+SEQ gi|4050089|gb|AAC97963.1| (AF109907) hypothetical protein [Homo ...    46  1e-04
+SEQ gi|7304284|gb|AAF59317.1| (AE003843) CG10285 gene product [Droso...    46  1e-04
+SEQ gi|11526727|gb|AAG36758.1| (AF113095) unknown [Apistogramma sp.2...    46  1e-04
+SEQ gi|2677728|gb|AAC01908.1| (U70347) unknown [Astatotilapia callip...    46  1e-04
+SEQ gi|2677764|gb|AAC01926.1| (U70342) unknown [Labidochromis caerul...    46  1e-04
+SEQ gi|2677734|gb|AAC01911.1| (U70345) unknown [Astronotus ocellatus]      46  1e-04
+SEQ gi|11526685|gb|AAG36737.1| (AF113074) unknown [Hoplarchus psitta...    46  1e-04
+SEQ gi|11526707|gb|AAG36748.1| (AF113085) unknown [Gymnogeophagus gy...    46  1e-04
+SEQ gi|103273|pir||A32579 neuroglian - fruit fly (Drosophila melanog...    46  1e-04
+SEQ gi|6760653|gb|AAC28613.2| (AF050085) neuroglian [Drosophila mela...    46  1e-04
+SEQ gi|6760654|gb|AAC28614.2| (AF050085) neuroglian [Drosophila mela...    46  1e-04
+SEQ gi|6760659|gb|AAA28728.2| (M28231) neuroglian precursor [Drosoph...    46  1e-04
+SEQ gi|14286138|sp|P20241|NRG_DROME NEUROGLIAN PRECURSOR                   46  1e-04
+SEQ gi|1083304|pir||S49010 embryonic receptor kinase - mouse >gi|510...    46  1e-04
+SEQ gi|2677798|gb|AAC01943.1| (U70337) unknown [Tylochromis polylepis]     46  1e-04
+SEQ gi|6679571|ref|NP_033014.1| putative neuronal cell adhesion mole...    46  1e-04
+SEQ gi|7248657|gb|AAF43605.1|AF197944_1 (AF197944) receptor protein ...    46  1e-04
+SEQ gi|9623319|gb|AAF90113.1|AF254364_1 (AF254364) stretchin-MLCK [D...    46  1e-04
+SEQ gi|9623327|gb|AAF90117.1|AF254369_1 (AF254369) stretchin-MLCK [D...    46  1e-04
+SEQ gi|3024084|sp|Q26474|LACH_SCHAM LACHESIN PRECURSOR >gi|294841|gb...    46  1e-04
+SEQ gi|11526717|gb|AAG36753.1| (AF113090) unknown [Crenicara sp. Far...    46  1e-04
+SEQ gi|7291709|gb|AAF47131.1| (AE003462) CG18021 gene product [Droso...    46  1e-04
+SEQ gi|13872813|emb|CAC37630.1| (AJ306906) fibulin-6 [Homo sapiens]        46  2e-04
+SEQ gi|2677738|gb|AAC01913.1| (U70357) unknown [Boulengerochromis mi...    46  2e-04
+SEQ gi|11526715|gb|AAG36752.1| (AF113089) unknown [Microgeophagus al...    46  2e-04
+SEQ gi|11526705|gb|AAG36747.1| (AF113084) unknown [Guianacara sp. Fa...    46  2e-04
+SEQ gi|11526725|gb|AAG36757.1| (AF113094) unknown [Taeniacara candidi]     46  2e-04
+SEQ gi|6981128|ref|NP_037194.1| FLK1 kinase insert domain receptor (...    46  2e-04
+SEQ gi|2098761|gb|AAB97509.1| (U93307) C-terminal truncated VEGF rec...    46  2e-04
+SEQ gi|10047333|dbj|BAB13454.1| (AB046848) KIAA1628 protein [Homo sa...    46  2e-04
+SEQ gi|11526701|gb|AAG36745.1| (AF113082) unknown [Biotodoma wavrini]      46  2e-04
+SEQ gi|2677740|gb|AAC01914.1| (U70330) unknown [Cunningtonia longive...    46  2e-04
+SEQ gi|7499208|pir||T20993 hypothetical protein F15G9.4b - Caenorhab...    46  2e-04
+SEQ gi|7499207|pir||T20992 hypothetical protein F15G9.4a - Caenorhab...    46  2e-04
+SEQ gi|1388158|gb|AAC59939.1| (U58204) myomesin [Gallus gallus]            45  2e-04
+SEQ gi|1806276|emb|CAA67711.1| (X99337) glycoprotein 55 [Rattus norv...    45  2e-04
+SEQ gi|9507073|ref|NP_062253.1| stromal cell derived factor receptor...    45  2e-04
+SEQ gi|2677746|gb|AAC01917.1| (U70326) unknown [Dascyllus sp.]             45  3e-04
+SEQ gi|6754920|ref|NP_035084.1| neural cell adhesion molecule 2; olf...    45  3e-04
+SEQ gi|3334269|sp|O35136|NCM2_MOUSE NEURAL CELL ADHESION MOLECULE 2 ...    45  3e-04
+SEQ gi|12833640|dbj|BAB22606.1| (AK003152) putative [Mus musculus]         45  3e-04
+SEQ gi|2677730|gb|AAC01909.1| (U70363) unknown [Acanthurus chirurgus]      45  3e-04
+SEQ gi|4826842|ref|NP_004988.1| myosin-binding protein H [Homo sapie...    45  3e-04
+SEQ gi|2706875|dbj|BAA24032.1| (D85084) NCAM-180 [Cynops pyrrhogaster]     45  3e-04
+SEQ gi|2706876|dbj|BAA24033.1| (D85084) NCAM-140 [Cynops pyrrhogaster]     45  3e-04
+SEQ gi|11526683|gb|AAG36736.1| (AF113073) unknown [Hypselecara coryp...    45  3e-04
+SEQ gi|11526697|gb|AAG36743.1| (AF113080) unknown [Chaetobranchus se...    45  3e-04
+SEQ gi|9623317|gb|AAF90112.1|AF254363_1 (AF254363) stretchin-MLCK [D...    45  3e-04
+SEQ gi|11526711|gb|AAG36750.1| (AF113087) unknown [Crenicichla regani]     45  3e-04
+SEQ gi|2677748|gb|AAC01918.1| (U70352) unknown [Dascyllus sp.]             45  3e-04
+SEQ gi|2677786|gb|AAC01937.1| (U70333) unknown [Sparisoma chrysopterum]    45  3e-04
+SEQ gi|2677788|gb|AAC01938.1| (U70344) unknown [Sparisoma chrysopterum]    45  3e-04
+SEQ gi|11907988|gb|AAG41425.1|AF312579_1 (AF312579) roundabout 2 [Dr...    45  3e-04
+SEQ gi|2677792|gb|AAC01940.1| (U70360) unknown [Sparisoma radians]         45  3e-04
+SEQ gi|2677800|gb|AAC01944.1| (U70329) unknown [Tilapia zillii]            45  3e-04
+SEQ gi|7206822|gb|AAF39981.1| (AC006695) contains similarity to Pfam...    45  3e-04
+SEQ gi|11526693|gb|AAG36741.1| (AF113078) unknown [Aequidens michaeli]     45  3e-04
+SEQ gi|7512917|pir||T08742 hypothetical protein DKFZp586L0518.1 - hu...    45  3e-04
+SEQ gi|7291712|gb|AAF47134.1| (AE003462) CG3901 gene product [Drosop...    45  3e-04
+SEQ gi|2497324|sp|Q62813|LAMP_RAT LIMBIC SYSTEM-ASSOCIATED MEMBRANE ...    45  3e-04
+SEQ gi|4505025|ref|NP_002329.1| limbic system-associated membrane pr...    45  3e-04
+SEQ gi|12719081|ref|XP_003036.2| limbic system-associated membrane p...    45  3e-04
+SEQ gi|13938170|gb|AAH07201.1|AAH07201 (BC007201) Unknown (protein f...    45  3e-04
+SEQ gi|1256818|gb|AAA96526.1| (U51473) A-band associated protein [Dr...    45  4e-04
+SEQ gi|11526699|gb|AAG36744.1| (AF113081) unknown [Chaetobranchopsis...    45  4e-04
+SEQ gi|2677782|gb|AAC01935.1| (U70351) unknown [Pelvicachromis pulcher]    44  4e-04
+SEQ gi|7507903|pir||T33434 hypothetical protein T17A3.1 - Caenorhabd...    44  4e-04
+SEQ gi|6003694|gb|AAF00548.1|AF188751_1 (AF188751) tyrosine kinase r...    44  4e-04
+SEQ gi|2677794|gb|AAC01941.1| (U70334) unknown [Sebastes sp.]              44  4e-04
+SEQ gi|2497570|sp|Q10656|EG15_CAEEL MYOBLAST GROWTH FACTOR RECEPTOR ...    44  4e-04
+SEQ gi|7504579|pir||T22889 hypothetical protein F58A3.2 - Caenorhabd...    44  4e-04
+SEQ gi|2143466|pir||I58365 gene NYK/FLK-1 protein - mouse >gi|264005...    44  4e-04
+SEQ gi|6754788|ref|NP_034997.1| myomesin 1 [Mus musculus] >gi|609429...    44  4e-04
+SEQ gi|11119952|gb|AAG30802.1| (AF244076) unknown [Nomorhamphus ravn...    44  4e-04
+SEQ gi|11119954|gb|AAG30803.1| (AF244077) unknown [Nomorhamphus ravn...    44  4e-04
+SEQ gi|11119956|gb|AAG30804.1| (AF244078) unknown [Dermogenys weberi...    44  4e-04
+SEQ gi|11526663|gb|AAG36726.1| (AF113063) unknown [Cichla sp. Farias...    44  5e-04
+SEQ gi|11526665|gb|AAG36727.1| (AF113064) unknown [Cichla orinocensis]     44  5e-04
+SEQ gi|11526661|gb|AAG36725.1| (AF113062) unknown [Retroculus xingue...    44  5e-04
+SEQ gi|11526667|gb|AAG36728.1| (AF113065) unknown [Pterophyllum scal...    44  5e-04
+SEQ gi|11526671|gb|AAG36730.1| (AF113067) unknown [Heros sp. Farias ...    44  5e-04
+SEQ gi|11526669|gb|AAG36729.1| (AF113066) unknown [Mesonauta insignis]     44  5e-04
+SEQ gi|2677736|gb|AAC01912.1| (U70355) unknown [Abudefduf saxatilis]       44  5e-04
+SEQ gi|11526675|gb|AAG36732.1| (AF113069) unknown [Symphysodon aequi...    44  5e-04
+SEQ gi|11277081|pir||T43027 neural cell adhesion molecule L1 - goldf...    44  5e-04
+SEQ gi|2677778|gb|AAC01933.1| (U70332) unknown [Perca fluviatilis]         44  5e-04
+SEQ gi|11526659|gb|AAG36724.1| (AF113061) unknown [Retroculus sp. Fa...    44  5e-04
+SEQ gi|7303017|gb|AAF58087.1| (AE003808) A(225) gene product [Drosop...    44  5e-04
+SEQ gi|7304236|gb|AAF59271.1| (AE003841) Dscam gene product [Drosoph...    44  5e-04
+SEQ gi|8072217|gb|AAF71926.1|AF260530_1 (AF260530) Dscam [Drosophila...    44  5e-04
+SEQ gi|2677776|gb|AAC01932.1| (U70362) unknown [Pomacanthus arcuatus]      44  5e-04
+SEQ gi|11119844|gb|AAG30748.1| (AF244022) unknown [Cypselurus melanu...    44  5e-04
+SEQ gi|9623321|gb|AAF90114.1|AF254365_1 (AF254365) stretchin-MLCK [D...    44  5e-04
+SEQ gi|9623325|gb|AAF90116.1|AF254368_1 (AF254368) stretchin-MLCK [D...    44  5e-04
+SEQ gi|11037736|gb|AAG27717.1|AF303661_1 (AF303661) FGF receptor [Ha...    44  5e-04
+SEQ gi|14278929|dbj|BAB59007.1| (AB046873) FGFR [Halocynthia roretzi]      44  5e-04
+SEQ gi|11526687|gb|AAG36738.1| (AF113075) unknown [Cichlasoma amazon...    44  5e-04
+SEQ gi|9910464|ref|NP_064427.1| neighbor of Punc e11 protein [Mus mu...    44  6e-04
+SEQ gi|11862939|dbj|BAB19278.1| (AB052620) DDM36 [Mus musculus]            44  6e-04
+SEQ gi|11862941|dbj|BAB19279.1| (AB052621) DDM36E [Mus musculus]           44  6e-04
+SEQ gi|4758764|ref|NP_004531.1| neural cell adhesion molecule 2; neu...    44  6e-04
+SEQ gi|13646468|ref|XP_009705.3| neural cell adhesion molecule 2 [Ho...    44  6e-04
+SEQ gi|103105|pir||S19247 cell adhesion protein Gp160-Dtrk - fruit f...    44  6e-04
+SEQ gi|7303541|gb|AAF58596.1| (AE003823) otk gene product [Drosophil...    44  6e-04
+SEQ gi|11119902|gb|AAG30777.1| (AF244051) unknown [Strongylura kreff...    44  6e-04
+SEQ gi|11526677|gb|AAG36733.1| (AF113070) unknown [Petenia splendida]      44  6e-04
+SEQ gi|9623343|gb|AAF90126.1|AF257308_1 (AF257308) stretchin-MLCK [D...    44  6e-04
+SEQ gi|11079653|ref|NP_032504.2| L1 cell adhesion molecule [Mus musc...    44  6e-04
+SEQ gi|8393820|ref|NP_059041.1| neural cell adhesion molecule L1 [Ra...    44  6e-04
+SEQ gi|226133|prf||1411301A neural adhesion mol L1 [Mus musculus]          44  6e-04
+SEQ gi|423694|pir||S36126 neural cell adhesion molecule L1 - rat           44  6e-04
+SEQ gi|584874|sp|Q05695|CAML_RAT NEURAL CELL ADHESION MOLECULE L1 PR...    44  6e-04
+SEQ gi|6651057|gb|AAF22153.1|AF133093_8 (AF133093) neural cell adhes...    44  6e-04
+SEQ gi|11119864|gb|AAG30758.1| (AF244032) unknown [Belone svetovidovi]     44  7e-04
+SEQ gi|11119948|gb|AAG30800.1| (AF244074) unknown [Chriodorus atheri...    44  7e-04
+SEQ gi|10720132|sp|P97603|NEO1_RAT NEOGENIN PRECURSOR >gi|1785999|gb...    44  7e-04
+SEQ gi|61|emb|CAA34470.1| (X16451) calmodulin-independent adenylate ...    44  7e-04
+SEQ gi|400398|sp|P31836|NCA1_BOVIN NEURAL CELL ADHESION MOLECULE, 14...    44  7e-04
+SEQ gi|11119960|gb|AAG30806.1| (AF244080) unknown [Hemirhamphodon po...    44  7e-04
+SEQ gi|10720134|sp|Q90610|NEO1_CHICK NEOGENIN >gi|2134373|pir||I5060...    44  8e-04
+SEQ gi|6946670|emb|CAB72285.1| (AL138972) /prediction=(method:''gene...    43  8e-04
+SEQ gi|10728428|gb|AAF45786.2| (AE003424) pcan gene product [Drosoph...    43  8e-04
+SEQ gi|2677774|gb|AAC01931.1| (U70336) unknown [Oxylapia polli]            43  9e-04
+SEQ gi|6329826|dbj|BAA86446.1| (AB032958) KIAA1132 protein [Homo sap...    43  0.001
+SEQ gi|11119866|gb|AAG30759.1| (AF244033) unknown [Belone svetovidov...    43  0.001
+SEQ gi|11119916|gb|AAG30784.1| (AF244058) unknown [Belone belone]          43  0.001
+SEQ gi|422541|pir||A47299 ror-related receptor RTK - Pacific electri...    43  0.001
+SEQ gi|11119876|gb|AAG30764.1| (AF244038) unknown [Strongylura stron...    43  0.001
+SEQ gi|11119878|gb|AAG30765.1| (AF244039) unknown [Strongylura stron...    43  0.001
+SEQ gi|11526679|gb|AAG36734.1| (AF113071) unknown [Caquetaia spectab...    43  0.001
+SEQ 
+## SEQUENCE PROFILE AND ENTROPY
+ SeqNo PDBNo   V   L   I   M   F   W   Y   G   A   P   S   T   C   H   R   K   Q   E   N   D  NOCC NDEL NINS ENTROPY RELENT WEIGHT
+    1    1    76  19   4   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.690     23  0.00
+    2    2     4   2   0   0   0   0   0   0  79   3   2   4   0   0   0   1   5   0   1   0     0    0    0   0.917     30  0.00
+    3    3     3   0   0   0   0   0   0   1   9   9   1   1   0   0   1   3   5  55   0  12     0    0    0   1.562     52  0.00
+    4    4     1   5   1   0   0   1   1   0   3   1   5   0   0   0   1   8   3  64   0   8     0    0    0   1.428     47  0.00
+    5    5     1   1   4   2   2   0   0   2   2  13   8   6   0   0   4  44   2  12   0   0     0    0    0   1.917     63  0.00
+    6    6     9   1   0   0   0   0   0   2   3  53   0   5   0   0   2   2   7  13   1   1     0    0    0   1.715     57  0.00
+    7    7     5   3   4   0   1   0   6  11   5   2   5   2   0  29   8   7   6   4   3   0     0    0    0   2.448     81  0.00
+    8    8    35   4  11   6   1   0   3   0   4   0   2  10   0   0   2   4   8   6   2   1     0    0    0   2.234     74  0.00
+    9    9     0   1   0   0   0   0   0   1  22  21   3   2   0   0  10  31   4   4   0   1     0    0    0   1.839     61  0.00
+   10   10     0   1   0   0   0   0   0   1   0  97   1   0   0   0   0   0   0   0   0   0     0    0    0   0.202      6  0.00
+   11   11    13   2   4   3   5   2  11   2   6   0  11   8   0   4   8  10   3   4   1   2     0    0    0   2.688     89  0.00
+   12   12     2   5  11   0  79   1   0   1   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.788     26  0.00
+   13   13    15  11  15   1   1   0   0   1   2   0   8  30   0   0   2   6   1   5   1   2     0    0    0   2.136     71  0.00
+   14   14     3   7   2   2   1   0   1   1   2   0   6   9   0   1  13  23  16  12   1   1     0    0    0   2.341     78  0.00
+   15   15     4   3   2   0   0   0   1   5   3  21   2  10   0   3   8  18   4  10   4   0     0    0    0   2.408     80  0.00
+   16   16     3  52  14   2   4   0   0   0   0  24   0   0   0   0   0   0   0   1   0   0     0    0    0   1.367     45  0.00
+   17   17     7   2   2   1   1   0   1   4   4   1  11   4   0   2  12  18  13  12   3   1     0    0    0   2.530     84  0.00
+   18   18     1   0   1   0   0   0   0   0   2  10  10   2   0   1   1   1   1   2  28  38     0    0    0   1.764     58  0.00
+   19   19    19  15  10   6   2   0   4   0   5   0   3   7   3   2   7   4  12   1   0   0     0    0    0   2.456     81  0.00
+   20   20     7   1   4   0   1   0   3   2   2   1   7  18   1   2   7   8   3  19   6   8     0    0    0   2.517     84  0.00
+   21   21    48   4  13   1   2   0   1   5   9   0   2   7   5   1   1   1   0   1   0   0     0    0    0   1.849     61  0.00
+   22   22    17  11  12   2   5   0   2   1   8   3   6   8   0   1   5   8   4   3   1   2     0    0    0   2.632     87  0.00
+   23   23     7   4   3   1   0   0   1   0   6   1   5   2   0   0   1   3   7  52   1   5     0    0    0   1.875     62  0.00
+   24   24     0   0   0   0   0   0   0  76   1   0   3   1   0   1   0   2   1   1  11   2     0    0    0   0.984     32  0.00
+   25   25     0   2   0   3   0   0   5   8   5   0  14   3   0   2   3   5  16  19   2  14     0    0    0   2.339     78  0.00
+   26   26     6   2   0   2   1   0   0   1  10   8  22  16   1   2   3   4   4   3   7   8     0    0    0   2.464     82  0.00
+   27   27    23  18   8   1   2   0   0   1  39   0   1   4   3   0   0   0   0   0   0   0     0    0    0   1.681     56  0.00
+   28   28     8   4   6   2   0   0   0   0   1   0   5  21   1   8  19  10   4   5   2   2     0    0    0   2.379     79  0.00
+   29   29     2  37   3   6  51   0   2   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.148     38  0.00
+   30   30     5   1   1   0   1   0   9   1   2   2   7   7   2   3   4   4   8  27   2  13     0    0    0   2.444     81  0.00
+   31   31    10   1   1   0   0   0   1   3  15   0   1   1  67   0   0   0   0   0   0   0     0    0    0   1.128     37  0.00
+   32   32     2   1   2   0   0   0   1   0   5   2   4   7   1   4  21  20  12  16   3   1     0    0    0   2.301     76  0.00
+   33   33    57   6  17   1   1   0   0   0  15   0   0   2   0   0   0   0   0   0   0   0     0    0    0   1.287     42  0.00
+   34   34     6   1   4   1   9   0   1   2   5   0  17  16   0   0   7   2   5  15   2   5     0    0    0   2.491     83  0.00
+   35   35     1   0   0   0   0   0   0  84   4   7   3   0   0   0   0   0   0   0   1   0     0    0    0   0.671     22  0.00
+   36   36     7  10   5   0   4   1  11   0   3   0   9   7   0   4   4   5   2   7  12   9     0    0    0   2.625     87  0.00
+   37   37     0   1   0   0   0   0   0   2   1  87   2   2   0   1   1   0   1   1   1   1     0    0    0   0.699     23  0.00
+   38   38     4   3   1   1   1   0   1   0   5  15  11   6   0   1   5  15   3   9   4  16     0    0    0   2.465     82  0.00
+   39   39     1   2   5   1   2   0   0   0   3  86   0   0   0   0   0   0   0   0   0   0     0    0    0   0.665     22  0.00
+   40   40     3   1   1   0   1   0   0   0   3   0   7  12   0   2  10  16   9  28   2   5     0    0    0   2.231     74  0.00
+   41   41    56   4  34   0   2   0   1   0   1   0   0   1   1   0   0   0   0   0   0   0     0    0    0   1.100     36  0.00
+   42   42     7   2   5   3   3   0   2   0   3   0  13  21   0   1   6  13   4  13   3   0     0    0    0   2.407     80  0.00
+   43   43     0   0   0   0   2  98   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.087      2  0.00
+   44   44     1  15   2   5  36   1  20   0   1   0   1   6   0   2   1   4   2   1   3   0     0    0    0   2.023     67  0.00
+   45   45     1   6   2   0   2   1   1   0   0   0   1   0   8   7  17  53   0   0   0   0     0    0    0   1.570     52  0.00
+   46   46     0   0   0   0   1   0   0   7   1   1   1   0   0   0   0   6   0   7  40  34     0    0    0   1.526     50  0.00
+   47   47     1   0   0   0   0   0   0  47   1   0   4   1   1   1   1  13   0   4   9  18     0    0    0   1.682     56  0.00
+   48   48     7   2   2   2   2   0   1   2   3   0   3  13   0   3   7  22  15   8   5   3     0    0    0   2.476     82  0.00
+   49   49     3   4   3   1   0   1   0   0   4  30   4   3   0   0   3   9  17  14   1   2     0    0    0   2.219     74  0.00
+   50   50    19  43  33   2   1   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.270     42  0.00
+   51   51    13   3   2   0   1   0   1   2   4   6  10   8   1   1  13  13  10   9   4   2     0    0    0   2.573     85  0.00
+   52   52     2   3   2   1   0   0   1   2  12  12  14   8   0   3   3   3   4  20   7   6     0    0    0   2.461     82  0.00
+   53   53     0   0   0   0   0   0   0  17   4   1  35   6   0   1   1   0   4   3   5  21     0    0    0   1.911     63  0.00
+   54   54     2   1   1   1   0   0   2   8   6   8  11   3   0   4  20   6   3   8   3  13     0    0    0   2.495     83  0.00
+   55   55     2   0   0   0   4   0   4   5   2   0   2   3   0  11  36  16   0   2   5   7     0    0    0   2.136     71  0.00
+   56   56    19   3  12   1  25   0  22   0   0   1   1   3   2   6   1   0   0   4   0   0     0    0    0   2.075     69  0.00
+   57   57     4   2   5   1   1   0   2   1   0   0  10  11   0   5  17  18  15   4   2   1     0    0    0   2.377     79  0.00
+   58   58     9  11  42  16   4   1   1   0   4   1   2   5   0   0   0   1   2   1   1   0     0    0    0   1.984     66  0.00
+   59   59     4   5   6   2   1   0   2   3   2   0  17  11   0   2   6   5   3  18   2  10     0    0    0   2.516     84  0.00
+   60   60     5   3   3   1  21   1  20   1   2   2   5   2   1   7  13   2   3   3   3   1     0    0    0   2.474     82  0.00
+   61   61     1   4   2   0   3   0   0   1   1   1  13   4   2   2   2   2   4  10   9  41     0    0    0   2.101     70  0.00
+   62   62     4   3   2   0   1   0   0  17   2   3   2   4   0   1   3   9   6  30   5   8     0    0    0   2.313     77  0.00
+   63   63     2   3   0   1   7   0   2   8   3   1   7   2   0   2   3   6   6   8   8  31     0    0    0   2.399     80  0.00
+   64   64     1   0   1   0   2   0   0  67   3   0   8   2   0   0   1   2   0   0   7   5     0    0    0   1.338     44  0.00
+   65   65    12   6   3   1   4   0   8   7   1   0  17   9   0   3   3   2   1   3  15   5     0    0    0   2.556     85  0.00
+   66   66    10   4  12   0   3   0   6   3  17   0   8   4  18   7   2   1   5   0   0   0     0    0    0   2.409     80  0.00
+   67   67     7   2   3   0   1   0   1   2   7   0  37  17   1   2   4   4   3   5   4   1     0    0    0   2.212     73  0.00
+   68   68     2  91   2   2   2   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.432     14  0.00
+   69   69     9   5  10   2   2   1   1   0   2   0   3  23   1   4  13   3   3  10   2   7     0    0    0   2.473     82  0.00
+   70   70     9   7  79   1   3   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0     0    0    0   0.807     26  0.00
+   71   71     3  10   2   2   1   0   1   0   4   3  12   6   0  10  10   6  11   7   8   4     0    0    0   2.618     87  0.00
+   72   72     1   1   0   1   1   0   3   6   3   6  10   3   0   3   6  10   5   9  18  15     0    0    0   2.495     83  0.00
+   73   73    47  10   8   0   1   0   0   0  16   5   3   7   2   0   0   0   0   1   0   0     0    0    0   1.689     56  0.00
+   74   74     5   5   2   2   6   0   6   5   2   0   4  29   6   1   6   5   6   4   3   5     0    0    0   2.538     84  0.00
+   75   75     4   6   3   1   1   0   0   7   9  21   5   4   0   1   6  19   3   6   2   1     0    0    0   2.481     82  0.00
+   76   76     1   2   0   0   3   0   2   4  13   0   8   3   0   1   6   2   3  36   2  15     0    0    0   2.112     70  0.00
+   77   77     0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   1   1   2  94     0    0    0   0.322     10  0.00
+   78   78     4   1   2   2   1   0   1   5  16   0  23   5   1   1   3   2  10  17   0   8     0    0    0   2.310     77  0.00
+   79   79     0   0   0   0   0   0   0  85  11   0   0   0   0   0   0   0   0   0   2   1     0    0    0   0.556     18  0.00
+   80   80    12   4   8   1   2   2   2   0   2   0   2  11   0   1   5  11   5  27   3   2     0    0    0   2.416     80  0.00
+   81   81     2   0   2   0   3   1  92   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.388     12  0.00
+   82   82     6   1  11   3   0   0   0   0   1   0   9  46   1   2   5   4   5   6   0   0     0    0    0   1.943     64  0.00
+   83   83    11   1   4   0   1   0   0   0   3   0   0   0  79   0   0   0   0   0   0   0     0    0    0   0.785     26  0.00
+   84   84    19   4   7   2   1   0   2   0   0   0   3   8   0   0  12  18   4  17   2   0     0    0    0   2.239     74  0.00
+   85   85     6   1   2   1   0   0   0   0  91   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.422     14  0.00
+   86   86    23   1   4   0   1   1   1   0   2   0   9  23   1   1   7   8   6  11   1   1     0    0    0   2.261     75  0.00
+   87   87     0   0   0   0   0   0   1   0   0   0   2   0   0   0   0   0   0   0  97   0     0    0    0   0.168      5  0.00
+   88   88     5   2   3   2   0   0   9   4   6   6  20   3   0   0   4  11   4  13   3   6     0    0    0   2.550     85  0.00
+   89   89    22  18   4   2   3   1   9   2  24   0   4   0   0   3   1   4   3   1   1   0     0    0    0   2.193     73  0.00
+   90   90     0   0   0   0   0   0   0  98   0   0   0   0   0   0   0   1   0   1   0   0     0    0    0   0.146      4  0.00
+   91   91     3   0   1   1   1   0   0   1   3   0  14   7   1   1   4   8  10  42   3   1     0    0    0   1.995     66  0.00
+   92   92    12   1   9   1   0   0   0   0  52   0   4   6   1   0   2   1   1   2   1   9     0    0    0   1.721     57  0.00
+   93   93     4   1   5   1   0   1   0   0   2   0  25  20   1   1  15   2   6  12   2   1     0    0    0   2.204     73  0.00
+   94   94     6   0   3   1   1   0   0   1  13   0  24  17  29   2   0   0   0   1   0   0     0    0    0   1.898     63  0.00
+   95   95    12   0   1   1   1   0   1   1   4   0  32  22   0   4   4   3   3   7   3   3     0    0    0   2.127     71  0.00
+   96   96     7   3   1   0   1   0   1   8  60   0   3   5  10   0   0   0   0   0   0   0     0    0    0   1.465     48  0.00
+   97   97     6  10   2   0   2   1   3   0   1   1   8   9   0   3  10  10   8  16   5   2     0    0    0   2.581     86  0.00
+   98   98    24  68   3   1   2   0   0   0   1   0   0   0   0   1   0   0   0   0   0   0     0    0    0   0.951     31  0.00
+   99   99    14  10  14   2   2   0   2   0   4   0   6  25   0   1   3   6   2   3   3   2     0    0    0   2.375     79  0.00
+  100  100    83   4  11   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0     0    0    0   0.627     20  0.00
+  101  101     0   0   0   0   0   0   2   0   0   0   0   1   0   1   1  18  30  39   1   5     0    0    0   1.523     50  0.00
+  102  102     1   0   2   0   0   0   0   0  11   3  22  53   0   0   6   0   0   2   0   0     0    0    0   1.370     45  0.00
+  103  103    20  25   2  53   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.071     35  0.00
+//

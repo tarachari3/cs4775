@@ -1,0 +1,398 @@
+ID Pseudo hssp file.
+SEQ 
+SEQ gi|67332|pir||NRGT pancreatic ribonuclease (EC 3.1.27.5) - goat       225  2e-58
+SEQ gi|133232|sp|P00658|RNP_TRAOR RIBONUCLEASE PANCREATIC (RNASE 1) ...   221  2e-57
+SEQ gi|133197|sp|P07849|RNP_BOSTR RIBONUCLEASE PANCREATIC (RNASE 1) ...   216  8e-56
+SEQ gi|133210|sp|P00659|RNP_DAMKO RIBONUCLEASE PANCREATIC (RNASE 1) ...   214  3e-55
+SEQ gi|387884|gb|AAA72757.1| (M24888) RNase A [synthetic construct]       212  2e-54
+SEQ gi|133198|sp|P00656|RNP_BOVIN RIBONUCLEASE PANCREATIC PRECURSOR ...   201  2e-51
+SEQ gi|6435672|pdb|1C0B|A Chain A, Bovine Pancreatic Ribonuclease A ...   199  9e-51
+SEQ gi|133212|sp|P07848|RNP_GAZTH RIBONUCLEASE PANCREATIC (RNASE 1) ...   198  2e-50
+SEQ gi|2136813|pir||I45998 ribonuclease A - bovine >gi|94|emb|CAA338...   196  7e-50
+SEQ gi|67326|pir||NRBOB pancreatic ribonuclease (EC 3.1.27.5) - Amer...   196  8e-50
+SEQ gi|443203|pdb|1RAS|    Ribonuclease A (E.C.3.1.27.5) Fluorescent...   195  2e-49
+SEQ gi|1942640|pdb|1LSQ|A Chain A, Ribonuclease A With Asn 67 Replac...   195  3e-49
+SEQ gi|3114268|pdb|3RSP|    Structure Of The P93g Variant Of Ribonuc...   193  6e-49
+SEQ gi|7546371|pdb|1DY5|A Chain A, Deamidated Derivative Of Bovine P...   193  7e-49
+SEQ gi|3212389|pdb|1A5P|    C[40,95]a Variant Of Bovine Pancreatic R...   193  8e-49
+SEQ gi|3402176|pdb|4RSD|    Structure Of The D121a Variant Of Ribonu...   193  8e-49
+SEQ gi|133230|sp|P00661|RNP_SHEEP RIBONUCLEASE PANCREATIC (RNASE 1) ...   193  1e-48
+SEQ gi|3212390|pdb|1A5Q|    P93a Variant Of Bovine Pancreatic Ribonu...   192  1e-48
+SEQ gi|3402173|pdb|3RSD|    Structure Of The D121n Variant Of Ribonu...   191  2e-48
+SEQ gi|12381817|emb|CAC24712.1| (AJ271301) pancreatic ribonuclease [...   191  3e-48
+SEQ gi|133207|sp|P00660|RNP_CONTA RIBONUCLEASE PANCREATIC (RNASE 1) ...   191  3e-48
+SEQ gi|3402174|pdb|3RSK|    Structure Of The K7aR10AK66A VARIANT OF ...   191  4e-48
+SEQ gi|108996|pir||S08549 ribonuclease - domestic water buffalo >gi|...   190  7e-48
+SEQ gi|108994|pir||S08547 pancreatic ribonuclease (EC 3.1.27.5) - ni...   190  7e-48
+SEQ gi|133193|sp|P07847|RNP_AEPME RIBONUCLEASE PANCREATIC (RNASE 1) ...   189  1e-47
+SEQ gi|133199|sp|P00657|RNP_BUBBU RIBONUCLEASE PANCREATIC (RNASE 1) ...   188  2e-47
+SEQ gi|133195|sp|P00668|RNP_ANTAM RIBONUCLEASE PANCREATIC (RNASE 1) ...   188  3e-47
+SEQ gi|5542083|pdb|1B6V|A Chain A, Crystal Structure Of A Hybrid Bet...   185  2e-46
+SEQ gi|67333|pir||NRGF pancreatic ribonuclease (EC 3.1.27.5) - giraf...   185  2e-46
+SEQ gi|109006|pir||S08546 pancreatic ribonuclease (EC 3.1.27.5) - Th...   184  4e-46
+SEQ gi|230333|pdb|1SRN|A Chain A, Semisynthetic Ribonuclease A (RNas...   184  4e-46
+SEQ gi|2507335|sp|P00662|RNP_GIRCA RIBONUCLEASE PANCREATIC (RNASE 1)...   184  5e-46
+SEQ gi|133228|sp|P00666|RNP_RANTA RIBONUCLEASE PANCREATIC (RNASE 1) ...   183  7e-46
+SEQ gi|12381819|emb|CAC24713.1| (AJ271302) brain-type ribonuclease [...   182  1e-45
+SEQ gi|730592|sp|P39873|RNBR_BOVIN RIBONUCLEASE, BRAIN PRECURSOR (BR...   181  3e-45
+SEQ gi|133194|sp|P00667|RNP_ALCAA RIBONUCLEASE PANCREATIC (RNASE 1) ...   181  3e-45
+SEQ gi|133201|sp|P00664|RNP_CAPCA RIBONUCLEASE PANCREATIC (RNASE 1) ...   181  4e-45
+SEQ gi|1438984|gb|AAB36138.1| (S81744) brain-type ribonuclease [catt...   178  2e-44
+SEQ gi|133209|sp|P00665|RNP_DAMDA RIBONUCLEASE PANCREATIC (RNASE 1) ...   178  3e-44
+SEQ gi|133203|sp|P00663|RNP_CEREL RIBONUCLEASE PANCREATIC (RNASE 1) ...   178  3e-44
+SEQ gi|363132|prf||1502268A pyrimidine specific ribonuclease [Bos ta...   177  5e-44
+SEQ gi|3914805|sp|P87351|RNP_AXIPR RIBONUCLEASE PANCREATIC (RNASE 1)...   176  1e-43
+SEQ gi|3914798|sp|P79351|RNBR_CAPCA RIBONUCLEASE, BRAIN (BRB) >gi|18...   176  1e-43
+SEQ gi|3024568|sp|Q29543|RNBR_SHEEP RIBONUCLEASE, BRAIN (BRB) >gi|14...   175  2e-43
+SEQ gi|3914799|sp|P87350|RNBR_AXIPR RIBONUCLEASE, BRAIN (BRB) >gi|18...   175  2e-43
+SEQ gi|10121039|pdb|1FEV|B Chain B, Crystal Structure Of The Ala4aib...   174  3e-43
+SEQ gi|3024567|sp|Q29542|RNBR_GIRCA RIBONUCLEASE, BRAIN (BRB) >gi|14...   174  4e-43
+SEQ gi|67334|pir||NRDER pancreatic ribonuclease (EC 3.1.27.5) - red ...   174  5e-43
+SEQ gi|209302|gb|AAA72269.1| (K02873) ribonuclease S [synthetic cons...   173  6e-43
+SEQ gi|12381828|emb|CAC24721.1| (AJ271297) pancreatic ribonuclease [...   173  9e-43
+SEQ gi|14488579|pdb|1J7Z|B Chain B, Osmolyte Stabilization Of Ribonu...   173  9e-43
+SEQ gi|13124502|sp|Q9WUX6|RNP_URARU RIBONUCLEASE PANCREATIC PRECURSO...   173  1e-42
+SEQ gi|809297|pdb|2RLN|E Chain E, Ribonuclease S (E.C.3.1.27.5) Muta...   171  2e-42
+SEQ gi|13124492|sp|Q9WUR3|RNP_AKOJE RIBONUCLEASE PANCREATIC PRECURSO...   171  3e-42
+SEQ gi|809346|pdb|3SRN|A Chain A, Semisynthetic Ribonuclease A Mutan...   171  3e-42
+SEQ gi|133214|sp|P00672|RNP_HIPAM RIBONUCLEASE PANCREATIC (RNASE 1) ...   171  3e-42
+SEQ gi|999658|pdb|1SSC|A Chain A, Ribonuclease A (Semisynthetic) Cry...   170  6e-42
+SEQ gi|13124490|sp|Q9QYX2|RNP_MUSSA RIBONUCLEASE PANCREATIC PRECURSO...   169  1e-41
+SEQ gi|133218|sp|P04060|RNP_HYSCR RIBONUCLEASE PANCREATIC (RNASE 1) ...   169  2e-41
+SEQ gi|133196|sp|P00673|RNP_BALAC RIBONUCLEASE PANCREATIC (RNASE 1) ...   168  2e-41
+SEQ gi|133237|sp|P00669|RNS_BOVIN RIBONUCLEASE, SEMINAL PRECURSOR (S...   167  4e-41
+SEQ gi|4584401|emb|CAB40705.1| (AJ011842) seminal ribonuclease [Buba...   167  5e-41
+SEQ gi|13124499|sp|Q9WUV5|RNP_PERLE RIBONUCLEASE PANCREATIC PRECURSO...   166  8e-41
+SEQ gi|133185|sp|P00679|RNPB_CAVPO RIBONUCLEASE PANCREATIC B (RNASE ...   166  9e-41
+SEQ gi|133225|sp|P00671|RNP_PIG RIBONUCLEASE PANCREATIC (RNASE 1) (R...   166  9e-41
+SEQ gi|133215|sp|P00674|RNP_HORSE RIBONUCLEASE PANCREATIC (RNASE 1) ...   166  1e-40
+SEQ gi|133200|sp|P00670|RNP_CAMDR RIBONUCLEASE PANCREATIC (RNASE 1) ...   165  2e-40
+SEQ gi|67342|pir||NRCMM pancreatic ribonuclease (EC 3.1.27.5), minor...   165  2e-40
+SEQ gi|13124491|sp|Q9QYX3|RNP_MUSPA RIBONUCLEASE PANCREATIC PRECURSO...   164  3e-40
+SEQ gi|407578|gb|AAB27820.1| (S64559) bovine seminal ribonuclease, B...   164  3e-40
+SEQ gi|6573660|pdb|11BG|A Chain A, A Potential Allosteric Subsite Ge...   164  4e-40
+SEQ gi|9910847|sp|Q9WTT5|RNP_ACOCA RIBONUCLEASE PANCREATIC PRECURSOR...   163  6e-40
+SEQ gi|133208|sp|P24717|RNP_CRILO RIBONUCLEASE PANCREATIC PRECURSOR ...   163  1e-39
+SEQ gi|8515728|gb|AAF76146.1| (AF259554) seminal ribonuclease [Bubal...   162  1e-39
+SEQ gi|6755328|ref|NP_035401.1| ribonuclease 1, pancreatic [Mus musc...   162  1e-39
+SEQ gi|133179|sp|P00678|RNPA_CAVPO RIBONUCLEASE PANCREATIC A (RNASE ...   162  2e-39
+SEQ gi|133205|sp|P00675|RNP_CHIBR RIBONUCLEASE PANCREATIC (RNASE 1) ...   162  2e-39
+SEQ gi|133222|sp|P00676|RNP_MYOCO RIBONUCLEASE PANCREATIC (RNASE 1) ...   161  2e-39
+SEQ gi|133229|sp|P00684|RNP_RAT RIBONUCLEASE PANCREATIC PRECURSOR (R...   161  3e-39
+SEQ gi|13399882|pdb|1DZA|A Chain A, 3-D Structure Of A Hp-Rnase >gi|...   161  3e-39
+SEQ gi|13124493|sp|Q9WUR4|RNP_CLEGL RIBONUCLEASE PANCREATIC PRECURSO...   161  4e-39
+SEQ gi|133220|sp|P00682|RNP_MESAU RIBONUCLEASE PANCREATIC (RNASE 1) ...   161  4e-39
+SEQ gi|13124496|sp|Q9WUS3|RNP_LEOED RIBONUCLEASE PANCREATIC PRECURSO...   161  4e-39
+SEQ gi|13124494|sp|Q9WUS1|RNP_MYOGL RIBONUCLEASE PANCREATIC PRECURSO...   160  5e-39
+SEQ gi|133206|sp|P00685|RNP_CHOHO RIBONUCLEASE PANCREATIC (RNASE 1) ...   160  7e-39
+SEQ gi|938047|emb|CAA44717.1| (X62945) pancreatic ribonuclease [Cric...   159  8e-39
+SEQ gi|133227|sp|P04059|RNP_PROGU RIBONUCLEASE PANCREATIC (RNASE 1) ...   159  9e-39
+SEQ gi|13124498|sp|Q9WUV4|RNP_NIVCR RIBONUCLEASE PANCREATIC PRECURSO...   159  9e-39
+SEQ gi|13124500|sp|Q9WUX3|RNP_RATRT RIBONUCLEASE PANCREATIC PRECURSO...   159  9e-39
+SEQ gi|1360656|pir||NRHU1 pancreatic ribonuclease (EC 3.1.27.5) prec...   159  1e-38
+SEQ gi|133217|sp|P00677|RNP_HYDHY RIBONUCLEASE PANCREATIC (RNASE 1) ...   159  1e-38
+SEQ gi|488413|emb|CAA55817.1| (X79235) pancreatic ribonuclease [Homo...   159  1e-38
+SEQ gi|4506547|ref|NP_002924.1| ribonuclease, RNase A family, 1 (pan...   158  2e-38
+SEQ gi|12381832|emb|CAC24723.1| (AJ271299) brain-type ribonuclease r...   158  3e-38
+SEQ gi|229576|prf||762107A RNase [Camelus sp.]                            158  4e-38
+SEQ gi|4127860|emb|CAA06576.1| (AJ005522) pancreatic ribonuclease [H...   157  5e-38
+SEQ gi|229425|prf||721936A RNase BS1 [Bos taurus]                         157  5e-38
+SEQ gi|13124495|sp|Q9WUS2|RNP_GERNI RIBONUCLEASE PANCREATIC PRECURSO...   157  6e-38
+SEQ gi|133224|sp|P00681|RNP_ONDZI RIBONUCLEASE PANCREATIC (RNASE 1) ...   156  7e-38
+SEQ gi|2135882|pir||I53530 pancreatic ribonuclease (EC 3.1.27.5) pre...   156  1e-37
+SEQ gi|133211|sp|P00680|RNP_GALMU RIBONUCLEASE PANCREATIC (RNASE 1) ...   155  2e-37
+SEQ gi|229252|prf||671049A RNase [Rattus norvegicus]                      155  2e-37
+SEQ gi|6729808|pdb|1RRA|A Chain A, Ribonuclease A From Rattus Norveg...   153  8e-37
+SEQ gi|35281|emb|CAA44718.1| (X62946) pancreatic ribonuclease [Homo ...   152  2e-36
+SEQ gi|4584391|emb|CAB40710.1| (AJ006419) ribonuclease X [Camelus ba...   152  2e-36
+SEQ gi|14278127|pdb|1E21|A Chain A, Ribonuclease 1 Des1-7 Crystal St...   151  2e-36
+SEQ gi|13124497|sp|Q9WUV3|RNP_MICNV RIBONUCLEASE PANCREATIC PRECURSO...   151  3e-36
+SEQ gi|4138341|emb|CAA06578.1| (AJ005524) pancreatic ribonuclease [P...   151  4e-36
+SEQ gi|4138362|emb|CAA06577.1| (AJ005523) pancreatic ribonuclease [P...   150  6e-36
+SEQ gi|133231|sp|P16414|RNP_SPAEH RIBONUCLEASE PANCREATIC (RNASE 1) ...   150  7e-36
+SEQ gi|4584389|emb|CAB40709.1| (AJ006418) pancreatic ribonuclease [C...   149  9e-36
+SEQ gi|4138549|emb|CAA06575.1| (AJ005521) pancreatic ribonuclease [S...   149  9e-36
+SEQ gi|13124501|sp|Q9WUX4|RNP_TATKG RIBONUCLEASE PANCREATIC PRECURSO...   146  7e-35
+SEQ gi|133226|sp|P19644|RNP_PREEN RIBONUCLEASE PANCREATIC (RNASE 1) ...   146  7e-35
+SEQ gi|546055|gb|AAB30297.1| ribonuclease [Spalax leucodon=mole rats...   146  7e-35
+SEQ gi|4584412|emb|CAB40732.1| (AJ006420) ribonuclease X [Lama pacos]     144  4e-34
+SEQ gi|12381834|emb|CAC24724.1| (AJ271300) hybrid ribonuclease [Trag...   142  1e-33
+SEQ gi|12381830|emb|CAC24722.1| (AJ271298) seminal-type ribonuclease...   142  2e-33
+SEQ gi|133219|sp|P00686|RNP_MACRU RIBONUCLEASE PANCREATIC (RNASE 1) ...   139  1e-32
+SEQ gi|3024556|sp|Q29538|RNS_SAITA RIBONUCLEASE, SEMINAL (SEMINAL RN...   138  2e-32
+SEQ gi|410558|gb|AAB27932.1| (S65127) ribonuclease A homolog [Giraff...   130  6e-30
+SEQ gi|7547269|gb|AAB39849.2| (S81554) seminal ribonuclease [Synceru...   126  1e-28
+SEQ gi|2500568|sp|Q29539|RNS_CEPSI RIBONUCLEASE, SEMINAL (SEMINAL RN...   124  3e-28
+SEQ gi|1481018|gb|AAB39848.1| (S81530) seminal ribonuclease|seminal ...   120  7e-27
+SEQ gi|753|emb|CAA26832.1| (X03029) seminal RNase (aa 47-124) [Bos t...   119  1e-26
+SEQ gi|410556|gb|AAB27931.1| (S65126) brain ribonuclease homolog [Gi...   119  2e-26
+SEQ gi|5730368|gb|AAD48530.1|AF078116_1 (AF078116) ribonuclease 4 pr...   115  2e-25
+SEQ gi|2500569|sp|Q29606|RNP_ORYLE RIBONUCLEASE PANCREATIC (RNASE 1)...   114  5e-25
+SEQ gi|10946868|ref|NP_067447.1| ribonuclease, RNase A family 4; rib...   114  6e-25
+SEQ gi|464655|sp|P15467|RNL4_BOVIN RIBONUCLEASE BL4 >gi|89700|pir||J...   114  6e-25
+SEQ gi|5730374|gb|AAD48533.1|AF078119_1 (AF078119) ribonuclease 4 pr...   114  6e-25
+SEQ gi|1350814|sp|P15468|RNL4_PIG RIBONUCLEASE PL3 PRECURSOR (RIBONU...   113  7e-25
+SEQ gi|5730380|gb|AAD48536.1|AF078122_1 (AF078122) ribonuclease 4 pr...   112  2e-24
+SEQ gi|5730376|gb|AAD48534.1|AF078120_1 (AF078120) ribonuclease 4 pr...   111  3e-24
+SEQ gi|4506557|ref|NP_002928.1| ribonuclease, RNase A family, 4 [Hom...   109  1e-23
+SEQ gi|6435549|pdb|1RNF|A Chain A, X-Ray Crystal Structure Of Unliga...   109  1e-23
+SEQ gi|5730370|gb|AAD48531.1|AF078117_1 (AF078117) ribonuclease 4 pr...   109  1e-23
+SEQ gi|481196|pir||S38272 ribonuclease 4 - human (fragment) >gi|4358...   109  2e-23
+SEQ gi|5730372|gb|AAD48532.1|AF078118_1 (AF078118) ribonuclease 4 pr...   109  2e-23
+SEQ gi|2136117|pir||S60163 ribonuclease 4 precursor - human (fragmen...   108  3e-23
+SEQ gi|3024555|sp|Q29535|RNS_GIRCA RIBONUCLEASE, SEMINAL (SEMINAL RN...   106  1e-22
+SEQ gi|9910536|ref|NP_064467.1| ribonuclease 4 [Rattus norvegicus] >...   106  1e-22
+SEQ gi|1096150|prf||2111241A RNase 4 [Homo sapiens]                       106  2e-22
+SEQ gi|5730378|gb|AAD48535.1|AF078121_1 (AF078121) ribonuclease 4 pr...   104  6e-22
+SEQ gi|6226019|sp|P81649|RNK6_PIG RIBONUCLEASE K3 (RNASE K3) >gi|478...    83  1e-15
+SEQ gi|5730384|gb|AAD48538.1|AF078124_1 (AF078124) ribonuclease k6 p...    83  2e-15
+SEQ gi|3914810|sp|O46530|RNK6_SAGOE RIBONUCLEASE K6 PRECURSOR (RNASE...    82  2e-15
+SEQ gi|12861221|dbj|BAB32143.1| (AK020595) putative [Mus musculus]         82  3e-15
+SEQ gi|3914809|sp|O46529|RNK6_SAISC RIBONUCLEASE K6 PRECURSOR (RNASE...    81  4e-15
+SEQ gi|14211885|ref|NP_115961.1| ribonuclease 7 [Homo sapiens] >gi|1...    81  4e-15
+SEQ gi|3914793|sp|O46528|RNK6_AOTTR RIBONUCLEASE K6 PRECURSOR (RNASE...    81  6e-15
+SEQ gi|5730382|gb|AAD48537.1|AF078123_1 (AF078123) ribonuclease k6 p...    80  9e-15
+SEQ gi|3914796|sp|O46533|RNK6_MACMU RIBONUCLEASE K6 PRECURSOR (RNASE...    79  3e-14
+SEQ gi|3914792|sp|O46527|RNK6_PAPHA RIBONUCLEASE K6 PRECURSOR (RNASE...    79  3e-14
+SEQ gi|3914797|sp|O46534|RNK6_CERAE RIBONUCLEASE K6 PRECURSOR (RNASE...    78  6e-14
+SEQ gi|13638468|sp|P08904|RNK6_BOVIN RIBONUCLEASE K6 PRECURSOR (RNAS...    77  8e-14
+SEQ gi|3914790|sp|O46525|RNK6_PANTR RIBONUCLEASE K6 PRECURSOR (RNASE...    76  2e-13
+SEQ gi|5032045|ref|NP_005606.1| ribonuclease, RNase A family, k6 [Ho...    76  2e-13
+SEQ gi|6680688|ref|NP_031473.1| angiogenin [Mus musculus] >gi|113874...    76  2e-13
+SEQ gi|3914795|sp|O46532|RNK6_GORGO RIBONUCLEASE K6 PRECURSOR (RNASE...    76  2e-13
+SEQ gi|7689148|gb|AAF67685.1|AF238385_1 (AF238385) eosinophil-associ...    75  4e-13
+SEQ gi|67362|pir||NRBOK2 pancreatic-type ribonuclease (EC 3.1.27.5) ...    74  5e-13
+SEQ gi|133204|sp|P04061|RNP_CHESE RIBONUCLEASE >gi|67363|pir||NRST p...    74  6e-13
+SEQ gi|2135881|pir||S72361 pancreatic ribonuclease (EC 3.1.27.5) k6 ...    74  7e-13
+SEQ gi|3914794|sp|O46531|RNK6_MIOTA RIBONUCLEASE K6 PRECURSOR (RNASE...    73  1e-12
+SEQ gi|3914791|sp|O46526|RNK6_PONPY RIBONUCLEASE K6 PRECURSOR (RNASE...    73  1e-12
+SEQ gi|7689156|gb|AAF67689.1|AF238389_1 (AF238389) eosinophil-associ...    73  2e-12
+SEQ gi|7689162|gb|AAF67692.1|AF238392_1 (AF238392) eosinophil-associ...    73  2e-12
+SEQ gi|399038|sp|P31346|ANGI_PIG ANGIOGENIN >gi|280889|pir||A43825 a...    72  3e-12
+SEQ gi|445974|prf||1911214C angiogenin [Mus musculus]                      72  3e-12
+SEQ gi|7689160|gb|AAF67691.1|AF238391_1 (AF238391) eosinophil-associ...    72  3e-12
+SEQ gi|7689166|gb|AAF67694.1|AF238394_1 (AF238394) eosinophil-associ...    71  4e-12
+SEQ gi|7689158|gb|AAF67690.1|AF238390_1 (AF238390) eosinophil-associ...    71  4e-12
+SEQ gi|399039|sp|P31347|ANGI_RABIT ANGIOGENIN >gi|280928|pir||B43825...    71  5e-12
+SEQ gi|1350812|sp|P47786|RNKD_SAGOE NONSECRETORY RIBONUCLEASE PRECUR...    70  1e-11
+SEQ gi|464659|sp|P80287|RNP_IGUIG RIBONUCLEASE PANCREATIC (RNASE 1) ...    69  1e-11
+SEQ gi|12043712|gb|AAG47631.1|AF135124_1 (AF135124) angiogenin precu...    68  3e-11
+SEQ gi|632170|pir||A91099 pancreatic ribonuclease (EC 3.1.27.5) - th...    68  5e-11
+SEQ gi|5802404|gb|AAD51668.1|AF171648_1 (AF171648) ribonuclease 14 p...    67  9e-11
+SEQ gi|5802398|gb|AAD51665.1|AF171645_1 (AF171645) ribonuclease 7 pr...    67  9e-11
+SEQ gi|1351940|sp|P10152|ANGI_BOVIN ANGIOGENIN-1 >gi|108522|pir||A32...    67  1e-10
+SEQ gi|5802402|gb|AAD51667.1|AF171647_1 (AF171647) ribonuclease 12 p...    66  1e-10
+SEQ gi|2500561|sp|P80929|ANG2_BOVIN ANGIOGENIN-2                           66  1e-10
+SEQ gi|2500564|sp|P70709|ECP_RAT EOSINOPHIL CATIONIC PROTEIN PRECURS...    66  2e-10
+SEQ gi|4557313|ref|NP_001136.1| angiogenin, ribonuclease, RNase A fa...    66  2e-10
+SEQ gi|208510|gb|AAA72611.1| (M17606) synthetic angiogenin [syntheti...    66  2e-10
+SEQ gi|5802392|gb|AAD51662.1|AF171642_1 (AF171642) ribonuclease 2 pr...    66  2e-10
+SEQ gi|6671547|ref|NP_031475.1| angiogenin related protein [Mus musc...    66  2e-10
+SEQ gi|4699549|pdb|1B1J|A Chain A, Crystal Structure Of Human Angiog...    65  3e-10
+SEQ gi|14189876|dbj|BAB55868.1| (AB062039) angiogenin [Pan troglodyt...    65  3e-10
+SEQ gi|4699548|pdb|1B1I|A Chain A, Crystal Structure Of Human Angiog...    65  3e-10
+SEQ gi|3892018|pdb|1A4Y|B Chain B, Ribonuclease Inhibitor-Angiogenin...    65  3e-10
+SEQ gi|6671545|ref|NP_031474.1| angiogenin related protein 2 [Mus mu...    65  4e-10
+SEQ gi|5802396|gb|AAD51664.1|AF171644_1 (AF171644) ribonuclease 5 pr...    65  4e-10
+SEQ gi|5802390|gb|AAD51661.1|AF171641_1 (AF171641) ribonuclease 1 pr...    65  4e-10
+SEQ gi|3024559|sp|O18937|RNKD_AOTTR NONSECRETORY RIBONUCLEASE PRECUR...    64  5e-10
+SEQ gi|208246|gb|AAA72787.1| (M27787) Leu-30 angiogenin [synthetic c...    64  6e-10
+SEQ gi|4699547|pdb|1B1E|A Chain A, Crystal Structure Of Human Angiog...    64  7e-10
+SEQ gi|5802400|gb|AAD51666.1|AF171646_1 (AF171646) ribonuclease 8 pr...    64  7e-10
+SEQ gi|5802394|gb|AAD51663.1|AF171643_1 (AF171643) ribonuclease 4 pr...    64  8e-10
+SEQ gi|14326597|gb|AAG50116.1| (AY015178) eosinophil-associated ribo...    63  1e-09
+SEQ gi|8393286|ref|NP_059085.1| eosinophil-associated ribonuclease 4...    63  1e-09
+SEQ gi|7689221|gb|AAF67721.1|AF238422_1 (AF238422) eosinophil-associ...    63  2e-09
+SEQ gi|7689209|gb|AAF67715.1|AF238416_1 (AF238416) eosinophil-associ...    63  2e-09
+SEQ gi|7689184|gb|AAF67703.1|AF238403_1 (AF238403) eosinophil-associ...    63  2e-09
+SEQ gi|7689164|gb|AAF67693.1|AF238393_1 (AF238393) eosinophil-associ...    62  3e-09
+SEQ gi|7689192|gb|AAF67707.1|AF238407_1 (AF238407) eosinophil-associ...    62  4e-09
+SEQ gi|7689217|gb|AAF67719.1|AF238420_1 (AF238420) eosinophil-associ...    61  4e-09
+SEQ gi|9506559|ref|NP_062271.1| eosinophil-associated ribonuclease 5...    61  4e-09
+SEQ gi|3914816|sp|P81476|RNL2_CHICK RIBONUCLEASE CL2 (POLY C PREFERE...    61  8e-09
+SEQ gi|7689180|gb|AAF67701.1|AF238401_1 (AF238401) eosinophil-associ...    60  1e-08
+SEQ gi|7435262|pir||S72363 pancreatic ribonuclease (EC 3.1.27.5) k6 ...    59  1e-08
+SEQ gi|7689154|gb|AAF67688.1|AF238388_1 (AF238388) eosinophil-associ...    59  2e-08
+SEQ gi|14326591|gb|AAG50113.1| (AY015175) eosinophil-associated ribo...    59  2e-08
+SEQ gi|7689150|gb|AAF67686.1|AF238386_1 (AF238386) eosinophil-associ...    59  2e-08
+SEQ gi|7689186|gb|AAF67704.1|AF238404_1 (AF238404) eosinophil-associ...    58  4e-08
+SEQ gi|7689215|gb|AAF67718.1|AF238419_1 (AF238419) eosinophil-associ...    58  4e-08
+SEQ gi|5730386|gb|AAD48539.1|AF078125_1 (AF078125) ribonuclease 2 pr...    58  4e-08
+SEQ gi|5802406|gb|AAD51669.1|AF171649_1 (AF171649) ribonuclease 7 pr...    58  5e-08
+SEQ gi|7689176|gb|AAF67699.1|AF238399_1 (AF238399) eosinophil-associ...    58  5e-08
+SEQ gi|7689182|gb|AAF67702.1|AF238402_1 (AF238402) eosinophil-associ...    57  1e-07
+SEQ gi|7689219|gb|AAF67720.1|AF238421_1 (AF238421) eosinophil-associ...    56  1e-07
+SEQ gi|7689188|gb|AAF67705.1|AF238405_1 (AF238405) eosinophil-associ...    56  2e-07
+SEQ gi|1350808|sp|P47783|RNKD_MACFA NONSECRETORY RIBONUCLEASE PRECUR...    56  2e-07
+SEQ gi|7689152|gb|AAF67687.1|AF238387_1 (AF238387) eosinophil-associ...    56  2e-07
+SEQ gi|7689199|gb|AAF67710.1|AF238411_1 (AF238411) eosinophil-associ...    56  2e-07
+SEQ gi|1350809|sp|P47785|RNKD_PANTR NONSECRETORY RIBONUCLEASE PRECUR...    56  2e-07
+SEQ gi|1350811|sp|P47784|RNKD_PONPY NONSECRETORY RIBONUCLEASE PRECUR...    56  3e-07
+SEQ gi|11139038|gb|AAG31588.1| (AF294018) eosinophil-derived neuroto...    55  3e-07
+SEQ gi|1350807|sp|P47782|RNKD_GORGO NONSECRETORY RIBONUCLEASE PRECUR...    54  5e-07
+SEQ gi|7689178|gb|AAF67700.1|AF238400_1 (AF238400) eosinophil-associ...    54  6e-07
+SEQ gi|4506549|ref|NP_002925.1| ribonuclease, RNase A family, 2 (liv...    54  7e-07
+SEQ gi|7689172|gb|AAF67697.1|AF238397_1 (AF238397) eosinophil-associ...    54  7e-07
+SEQ gi|9954420|gb|AAG09050.1|AF294027_1 (AF294027) eosinophil cation...    54  1e-06
+SEQ gi|113872|sp|P27043|ANGI_CHICK ANGIOGENIN PRECURSOR (RIBONUCLEAS...    53  1e-06
+SEQ gi|14488647|pdb|1HI2|A Chain A, Eosinophil-Derived Neurotoxin (E...    53  2e-06
+SEQ gi|1352341|sp|P47780|ECP_PANTR EOSINOPHIL CATIONIC PROTEIN PRECU...    53  2e-06
+SEQ gi|5730388|gb|AAD48540.1|AF078126_1 (AF078126) ribonuclease 2 pr...    52  2e-06
+SEQ gi|6681249|ref|NP_031920.1| eosinophil-associated ribonuclease 1...    52  2e-06
+SEQ gi|266981|sp|P30374|RSFR_CHICK RIBONUCLEASE HOMOLOG PRECURSOR (R...    52  2e-06
+SEQ gi|5730390|gb|AAD48541.1|AF078127_1 (AF078127) ribonuclease 2 pr...    52  3e-06
+SEQ gi|11437442|ref|XP_007497.1| ribonuclease, RNase A family, 3 (eo...    52  3e-06
+SEQ gi|7689170|gb|AAF67696.1|AF238396_1 (AF238396) eosinophil-associ...    52  3e-06
+SEQ gi|5802408|gb|AAD51670.1|AF171650_1 (AF171650) ribonuclease 8 pr...    52  3e-06
+SEQ gi|1352342|sp|P47781|ECP_PONPY EOSINOPHIL CATIONIC PROTEIN PRECU...    52  4e-06
+SEQ gi|11139032|gb|AAG31585.1| (AF294015) eosinophil-derived neuroto...    51  4e-06
+SEQ gi|5802410|gb|AAD51671.1|AF171651_1 (AF171651) ribonuclease 9 pr...    51  4e-06
+SEQ gi|4506551|ref|NP_002926.1| ribonuclease, RNase A family, 3 (eos...    51  4e-06
+SEQ gi|7689211|gb|AAF67716.1|AF238417_1 (AF238417) eosinophil-associ...    51  6e-06
+SEQ gi|7245973|pdb|1QMT|A Chain A, Recombinant Human Eosinophil Cati...    51  8e-06
+SEQ gi|13400006|pdb|1DYT|A Chain A, X-Ray Crystal Structure Of Ecp (...    51  8e-06
+SEQ gi|7689213|gb|AAF67717.1|AF238418_1 (AF238418) eosinophil-associ...    50  1e-05
+SEQ gi|7689168|gb|AAF67695.1|AF238395_1 (AF238395) eosinophil-associ...    50  1e-05
+SEQ gi|6681251|ref|NP_031921.1| eosinophil-associated ribonuclease 2...    50  1e-05
+SEQ gi|1352339|sp|P47778|ECP_GORGO EOSINOPHIL CATIONIC PROTEIN PRECU...    50  1e-05
+SEQ gi|8393283|ref|NP_059084.1| eosinophil-associated ribonuclease 3...    50  1e-05
+SEQ gi|7689197|gb|AAF67709.1|AF238410_1 (AF238410) eosinophil-associ...    49  2e-05
+SEQ gi|14326595|gb|AAG50115.1| (AY015177) eosinophil-associated ribo...    49  2e-05
+SEQ gi|7689207|gb|AAF67714.1|AF238415_1 (AF238415) eosinophil-associ...    49  2e-05
+SEQ gi|7689195|gb|AAF67708.1|AF238409_1 (AF238409) eosinophil-associ...    49  3e-05
+SEQ gi|7689201|gb|AAF67711.1|AF238412_1 (AF238412) eosinophil-associ...    49  3e-05
+SEQ gi|7689190|gb|AAF67706.1|AF238406_1 (AF238406) eosinophil-associ...    48  6e-05
+SEQ gi|7689205|gb|AAF67713.1|AF238414_1 (AF238414) eosinophil-associ...    47  7e-05
+SEQ gi|5306101|gb|AAD41901.1|AF159166_1 (AF159166) FRL2 protein [Xen...    47  9e-05
+SEQ gi|7689203|gb|AAF67712.1|AF238413_1 (AF238413) eosinophil-associ...    47  1e-04
+SEQ gi|1352340|sp|P47779|ECP_MACFA EOSINOPHIL CATIONIC PROTEIN PRECU...    46  2e-04
+SEQ gi|1330317|emb|CAA39461.1| (X55989) eosinophil cationic-related ...    46  2e-04
+SEQ gi|7689174|gb|AAF67698.1|AF238398_1 (AF238398) eosinophil-associ...    46  3e-04
+SEQ 
+## SEQUENCE PROFILE AND ENTROPY
+ SeqNo PDBNo   V   L   I   M   F   W   Y   G   A   P   S   T   C   H   R   K   Q   E   N   D  NOCC NDEL NINS ENTROPY RELENT WEIGHT
+    1    1     0   0   0   0   0   0   0   0   0   0   0   0   0   0  15  83   0   2   0   0     0    0    0   0.506     16  0.00
+    2    2     0   0   0   0   1   0   0   0   0   4   0   0   0   0   0   0   2  94   0   0     0    0    0   0.292      9  0.00
+    3    3     0   0   0   0   0   0   0   0   0   1  47  53   0   0   0   0   0   0   0   0     0    0    0   0.725     24  0.00
+    4    4     0   0   0   0   0   6   0   0  48  13  17   0   0   0  10   6   0   0   0   0     0    0    0   1.486     49  0.00
+    5    5     0   0   0   0   0   0   1   0  88   0  11   0   0   0   0   0   0   0   0   0     0    0    0   0.416     13  0.00
+    6    6     1   0   0  12   0   0   0   0  36   0   1   0   0   7   2   7  22   9   0   3     0    0    0   1.790     59  0.00
+    7    7     0   0   0   0   0  21   0   0   1   0   1   0   0   0   9  68   0   0   0   0     0    0    0   0.888     29  0.00
+    8    8     0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+    9    9     0  15   0   0   0   0   0   0   4   0   1   0   0   0   6   3  15  55   1   1     0    0    0   1.403     46  0.00
+   10   10     0   0  17   0   0   1   1   0   1   0   0   9   0   0  73   0   0   0   1   0     0    0    0   0.855     28  0.00
+   11   11     0   0   0   0   0   0   0   0   0   0   0   1   0   1   0   2  97   0   0   0     0    0    0   0.153      5  0.00
+   12   12     0   0   0   0   0   0   0   0   0   0   0   0   0  99   0   0   0   0   0   1     0    0    0   0.034      1  0.00
+   13   13    15   1  23  58   0   0   2   0   0   0   0   1   0   1   0   0   0   0   0   1     0    0    0   1.159     38  0.00
+   14   14     1   0   0   0   0   0   0   0   0   0   0   4   0   0   2   0   9   0   8  76     0    0    0   0.853     28  0.00
+   15   15     0   1   1   1   0   0   3   1   1  20  53   6   0   6   0   0   0   0   5   1     0    0    0   1.537     51  0.00
+   16   16     0   1   0   0   0   0   2  14   4  10  39   5   0   0   3   5   0   5   3   9     0    0    0   1.999     66  0.00
+   17   17     2   1   0   1   0   0   0  12   3  11  23  28   0   1   1   2   1   7   4   2     0    0    0   2.088     69  0.00
+   18   18     1   9   1   0   0   0   0   4   3   7  58   3   0   1   0   0   1   7   6   0     0    0    0   1.552     51  0.00
+   19   19     0   8   1   0   2   0   2   2  12  16  33  13   0   0   1   2  10   0   0   0     0    0    0   1.956     65  0.00
+   20   20     3   0   1   0   0   0   0  18  25   2  35   0   0   0   3   4   5   0   4   1     0    0    0   1.784     59  0.00
+   21   21     0   2   1   5   0   0   0  12   0   0  63   3   0   1   3   1   0   0  10   1     0    0    0   1.332     44  0.00
+   22   22     0   0   1   1   0   0   0   0   2   0  61   5   0   0   0   0   0   0  24   7     0    0    0   1.119     37  0.00
+   23   23     0   0   0   0   0   0   2   1   5  21  57   2   0   0   1   0   0   0   0  12     0    0    0   1.268     42  0.00
+   24   24     0   0   0   0   0   0   0   1   1   3   2  22   0   1   9   0   4   0  56   2     0    0    0   1.366     45  0.00
+   25   25     0   0   0   0   0   0  93   0   0   0   0   0   0   1   0   1   5   0   0   0     0    0    0   0.299      9  0.00
+   26   26     0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   27   27     0   0   0   0   1   0   0   0   0   0   1   9   0   0   0   0   0   5  80   4     0    0    0   0.766     25  0.00
+   28   28    13  11   4   0   0   0   0   0   5   2   5   2   0   0   6   2  37   3   6   4     0    0    0   2.132     71  0.00
+   29   29     0   0   3  58   0   0   0   0  25   0   0   0   0   0   0   0   0  12   0   0     0    0    0   1.099     36  0.00
+   30   30     0   1   0  98   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.143      4  0.00
+   31   31     3  10   1   2   2   0   0   0   0   0   6   2   2   0  17  35  20   0   1   0     0    0    0   1.897     63  0.00
+   32   32     9   0   0   0   0   0   0  10   5   4  20   0   4   2  42   1   0   0   1   0     0    0    0   1.799     60  0.00
+   33   33    12   0  24   0   0   0   0   0   0   0   0   0   0   0  61   0   2   0   0   0     0    0    0   1.027     34  0.00
+   34   34     0   0   0   0   0   0   0   6   0   0   3   0   0   0   5  15   0   4  64   3     0    0    0   1.239     41  0.00
+   35   35     0  22   1  43   0   0   0   1   0   0   2   0   0   0  12   1   0   0  18   0     0    0    0   1.532     51  0.00
+   36   36     0   0   0   0   7   0  24   0   0   0   0  62   0   3   1   0   0   0   4   0     0    0    0   1.118     37  0.00
+   37   37     0   3   0   0   0   0   0   0   1   0   9  17   0   4  17  16  29   0   1   1     0    0    0   1.924     64  0.00
+   38   38     1   0   0   0   0   3   3  33   0  11   1   1   0   3  15   0   7   2   3  18     0    0    0   2.008     67  0.00
+   39   39     2   0   0   0   0   2   2   0   0   0   8   8   0  13  52   6   4   0   2   0     0    0    0   1.672     55  0.00
+   40   40     0   0   0   0   0   0   0   0   0   0   0   0  99   0   0   0   0   0   0   0     0    0    0   0.074      2  0.00
+   41   41     0   0   0   0   0   0   0   0   0   0   0   1   0   0   0  98   0   0   0   0     0    0    0   0.110      3  0.00
+   42   42     0   0   0   0   1   0   0   9   1  51   1   0   0   3   6   0   0   1  12  13     0    0    0   1.604     53  0.00
+   43   43    49  14   9   0   6   0   0   0   0   0   0   1   0   0   3   3  13   1   0   0     0    0    0   1.620     54  0.00
+   44   44     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100   0     0    0    0   0.000      0  0.00
+   45   45     0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   46   46     0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.025      0  0.00
+   47   47    46  37  16   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.076     35  0.00
+   48   48     0   3   0   0   0   0   0   0   0   0   0   0   0  91   4   0   0   0   1   0     0    0    0   0.380     12  0.00
+   49   49     0   0   0   0   0   0   0   6   2   0   0  31   0   0   0   0   0  54   1   7     0    0    0   1.175     39  0.00
+   50   50     1   0   0   0   0   0   0   1   0  15  56  13   0   1   1   0   0   0   5   7     0    0    0   1.407     46  0.00
+   51   51     0  48   5   0  36   0   1   0   1   1   0   0   0   0   0   6   0   1   0   0     0    0    0   1.286     42  0.00
+   52   52     5   0   2   0   0   5   0   1  58   1   2   2   0   0   4   1   8   7   2   3     0    0    0   1.662     55  0.00
+   53   53     0   0   0   0   0   0   0   0   3   0   7   0   0   0   0   0   0   1  35  53     0    0    0   1.105     36  0.00
+   54   54    75   1  15   0   0   0   0   0   8   0   0   1   0   0   0   0   0   0   0   0     0    0    0   0.789     26  0.00
+   55   55    28   0   0   0   0   0   0   0   8   0   0   2   0   3   6  17  34   0   1   2     0    0    0   1.695     56  0.00
+   56   56     0   0   0   0   0   0   0  14  59   0   6   1   0   1   4   1   0   0  12   2     0    0    0   1.394     46  0.00
+   57   57    79   1  16   0   0   0   0   0   1   0   0   1   0   0   0   0   0   1   0   0     0    0    0   0.706     23  0.00
+   58   58     0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   59   59     0   1   0   0  10   0   2  26   0   0  43   0   0   2   1   0   0   4   2   7     0    0    0   1.660     55  0.00
+   60   60     0   6   0   1   0   0   0   0   1   0   1   7   0   0   2   0  46   2  31   2     0    0    0   1.492     49  0.00
+   61   61     0   5   1   0   0   0   0   3   1  25   1   6   0   0   6  40   3  10   1   0     0    0    0   1.796     59  0.00
+   62   62     0   0   0   0   0   0   0   2   0   0  21   0   0   1   3  10   2   0  59   1     0    0    0   1.286     42  0.00
+   63   63    45   0  28   3   0   0   0  13   0   0   1   6   0   0   1   2   0   0   0   0     0    0    0   1.495     49  0.00
+   64   64     2  13   5   0   0   0   0   0  20   7   0  37   0   0   3   1   7   0   2   0     0    0    0   1.882     62  0.00
+   65   65     0   1   0   0   0   0   2   3   0   1   0   0  93   0   0   0   0   0   0   0     0    0    0   0.356     11  0.00
+   66   66     0   0   0   0   0   0   1   1   0   8  12   0   0   0   6  68   0   0   3   0     0    0    0   1.141     38  0.00
+   67   67     0   0   0   0   0   0   0   0   0   3   5   2   0   3   3   0   0   1  76   7     0    0    0   0.994     33  0.00
+   68   68     0   0   5   0   0   0   1  69   0   1   0   3   0   3   4   3   0   0  10   0     0    0    0   1.236     41  0.00
+   69   69     0   1   0   0   0   0   2   2   1   0  12   2   0   2  21  12  42   0   3   1     0    0    0   1.783     59  0.00
+   70   70     0   1   0   6   0   0   1   3   0   4  13  43   0   6   9   3   5   3   3   0     0    0    0   1.987     66  0.00
+   71   71     0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0  97   0     0    0    0   0.194      6  0.00
+   72   72     0   5   1   0   2   0   0   0   0   0   0   0  91   0   0   0   0   0   0   0     0    0    0   0.391     13  0.00
+   73   73     0   0   0   0   1   0  43   0   0   0   0   0   0  50   6   0   0   0   0   0     0    0    0   0.938     31  0.00
+   74   74     0   0   5   1   0   0   0   0   0   0   0   0   0   4   4  14  41   8  17   5     0    0    0   1.788     59  0.00
+   75   75     0   0   0   0   0   0   0   0   0   0  99   0   0   0   0   0   0   0   0   0     0    0    0   0.052      1  0.00
+   76   76     0   2   0   0   0   0  17   5   1   2  29   3   0   4   9  12   0   0  18   0     0    0    0   1.984     66  0.00
+   77   77     3   0   0   0   3   0   3   6   3   0  70   2   0   0   0   7   0   1   1   0     0    0    0   1.222     40  0.00
+   78   78     6   1   0   0   0   0   0   0  12  11  10  28   0   0  16   3  11   1   2   0     0    0    0   2.043     68  0.00
+   79   79    44  10   1  38   7   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.186     39  0.00
+   80   80     0   0   0   0   0   0   1   0   0  15  25   0   0  25   9   6   8   0  10   1     0    0    0   1.926     64  0.00
+   81   81    15  13  66   6   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.009     33  0.00
+   82   82     0   3   3   0   0   0   0   0   0   0   0  93   0   0   0   0   0   0   0   0     0    0    0   0.316     10  0.00
+   83   83    11   0   5   0   3   0   4   0   0   0   0   6   0   7   0   0   2   2   0  60     0    0    0   1.493     49  0.00
+   84   84     0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   85   85     0   1   0   0   0   0   0   0   0   0   0   1   0   2  59   9   0   0  24   4     0    0    0   1.189     39  0.00
+   86   86     2  42   6   0   2   0   0   0   0   0   0   4   0   4   0   1   5  30   3   3     0    0    0   1.677     55  0.00
+   87   87     1   0   3   0   0   0   0   0   0   3   2  77   0   3   1   9   0   0   0   0     0    0    0   0.933     31  0.00
+   88   88     0   0   0   0   0   0   0  65   0   2  15   7   0   0   2   2   0   0   5   0     0    0    0   1.248     41  0.00
+   89   89     0   0   0   0   0   1   0  15   7   7  47   0   0   0  10   0   1   0  11   0     0    0    0   1.634     54  0.00
+   90   90     0   0   0   0   0   0   0  11   9   0  65   4   0   0   5   0   4   1   0   0     0    0    0   1.238     41  0.00
+   91   91     0   0   1   0   0   0   0   0   0   7   1   1   0   2  24  50   0   0  11   1     0    0    0   1.447     48  0.00
+   92   92     2   0   9   0   1   3  70   0   4   1   1   4   0   1   3   0   0   0   0   0     0    0    0   1.218     40  0.00
+   93   93     0   0   0   0   0   0   0   0   0  74  10  12   0   0   2   0   0   0   0   0     0    0    0   0.891     29  0.00
+   94   94     0   0   0   0   0   0   0   0   0   7   0   1   0   0   0   1  24   0  61   5     0    0    0   1.141     38  0.00
+   95   95     0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0     0    0    0   0.025      0  0.00
+   96   96     4   1   0   0   0   0   0   1  33   1   3   1   0   0  40   2   6   1   1   6     0    0    0   1.644     54  0.00
+   97   97     0   0   0   0   0   0  99   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.049      1  0.00
+   98   98     0   0   0   0   0   0   0   2   6   0   7   4   0   1  19  35  24   0   2   0     0    0    0   1.711     57  0.00
+   99   99     0   0   0   2   0   0   0   1  22   4   2  56   0   0   2   0   4   0   0   6     0    0    0   1.393     46  0.00
+  100  100     0   0   3   2   1   0   0   0   5   0  22  47   0   0  11   6   0   0   2   2     0    0    0   1.592     53  0.00
+  101  101     0   0   0   0   0   0   0   7  16  12   1   2   0   1  14   2  38   2   4   2     0    0    0   1.897     63  0.00
+  102  102     3   6   0   0   1   0   3   9  29   0  24   0   0   1   0   9   8   4   0   2     0    0    0   2.053     68  0.00
+  103  103    11   2   0   1   5   0   7   0   0   0   2   9   0   0   7   4  18  17  17   0     0    0    0   2.248     75  0.00
+  104  104     0   0   0   4   0   0   0   1   0   0   0   0   0   1  20  64   0  10   0   0     0    0    0   1.082     36  0.00
+  105  105     2   1   0   0  20   0  18   0   0   0   5   0   0  38  11   0   2   0   3   0     0    0    0   1.726     57  0.00
+  106  106    11   0  52   0   7   0  30   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.126     37  0.00
+  107  107    18   0  55   0   0   0   0   0   0   0   0  20   0   0   6   1   0   0   0   0     0    0    0   1.205     40  0.00
+  108  108    82   0  17   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.503     16  0.00
+  109  109     0   0   0   0   0   0   0   4  95   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.234      7  0.00
+  110  110     0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+  111  111     0   0   0   0   0   0   0   2   1   0   0   0   0   0   1   0   0  58  13  23     0    0    0   1.195     39  0.00
+  112  112     0   0   0   0   0   0   0  56   0  17   1   0   0   0   0   0   0   0  19   6     0    0    0   1.204     40  0.00
+  113  113     0   0   0   0   0   0   0   9   0   6   6   2   0   0  27   6   0   0  40   5     0    0    0   1.676     55  0.00
+  114  114     0   0   0   0   0   0   0   0   1  97   0   0   0   0   0   0   1   0   0   0     0    0    0   0.171      5  0.00
+  115  115    33   2   0   0   4   0  46   0   0   1   6   0   0   0   0   0   5   2   0   0     0    0    0   1.392     46  0.00
+  116  116    89   8   0   1   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.463     15  0.00
+  117  117     0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0     0    0    0   0.026      0  0.00
+  118  118   100   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.026      0  0.00
+  119  119     0   0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0     0    0    0   0.026      0  0.00
+  120  120     0  45   0   0  50   0   5   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.868     28  0.00
+  121  121     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0  98     0    0    0   0.102      3  0.00
+  122  122     0   0   0   0   0   0   0  31  46   0   7   5   0   0   0   1   4   4   1   1     0    0    0   1.449     48  0.00
+  123  123     1   0   1   0   0   0   1   0   2   0  57  39   0   0   0   0   0   0   0   0     0    0    0   0.850     28  0.00
+  124  124    84   1  16   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.475     15  0.00
+//

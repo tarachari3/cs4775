@@ -1,0 +1,102 @@
+ID Pseudo hssp file.
+SEQ 
+SEQ gi|6755728|ref|NP_035671.1| transcription elongation factor A (S...   107  3e-23
+SEQ gi|107907|pir||JC1170 transcription elongation factor SII - huma...   106  3e-23
+SEQ gi|5803191|ref|NP_006747.1| transcription elongation factor A (S...   106  3e-23
+SEQ gi|423125|pir||S34159 transcription elongation factor IIS - huma...   105  1e-22
+SEQ gi|7451402|pir||S72365 transcription elongation factor TFIIS.oB ...   104  1e-22
+SEQ gi|13648535|ref|XP_003202.2| transcription elongation factor A (...   104  1e-22
+SEQ gi|4507385|ref|NP_003186.1| transcription elongation factor A (S...   104  1e-22
+SEQ gi|1325970|emb|CAA66256.1| (X97666) TFIIS elongation factor [Xen...   104  1e-22
+SEQ gi|284472|pir||S26831 transcription elongation factor IIS - huma...   104  2e-22
+SEQ gi|201937|gb|AAA40418.1| (M18209) transcription factor S-II [Mus...   104  2e-22
+SEQ gi|1373400|gb|AAC60115.1| (U57837) transcription elongation fact...   103  3e-22
+SEQ gi|2134168|pir||JC4809 transcriptional factor TFIIS - African cl...   102  6e-22
+SEQ gi|135664|sp|P23713|TFSL_MOUSE TRANSCRIPTION FACTOR S-II-RELATED...   100  3e-21
+SEQ gi|220592|dbj|BAA00768.1| (D00925) ORF2 [Mus musculus]                100  3e-21
+SEQ gi|628034|pir||A53004 transcription elongation factor S-II - rat...    98  1e-20
+SEQ gi|6678235|ref|NP_033352.1| transcription elongation factor A (S...    98  1e-20
+SEQ gi|3288459|emb|CAA11393.1| (AJ223473) transcription elongation f...    96  9e-20
+SEQ gi|10801727|dbj|BAB16755.1| (AB040437) transcription elongation ...    94  2e-19
+SEQ gi|12832213|dbj|BAB22010.1| (AK002319) putative [Mus musculus]         94  2e-19
+SEQ gi|3288547|emb|CAA11392.1| (AJ223472) transcription elongation f...    94  2e-19
+SEQ gi|91834|pir||PS0180 transcription elongation factor S-II-relate...    94  2e-19
+SEQ gi|6094467|sp|P23881|TFSM_MOUSE TRANSCRIPTION FACTOR S-II-RELATE...    93  7e-19
+SEQ gi|8050580|gb|AAF71710.1|AF220261_1 (AF220261) transcription elo...    89  6e-18
+SEQ gi|3347834|gb|AAC64679.1| (AF039947) transcription elongation fa...    89  9e-18
+SEQ gi|1729914|sp|P52652|TFS2_CAEEL PUTATIVE TRANSCRIPTION ELONGATIO...    88  1e-17
+SEQ gi|135660|sp|P20232|TFS2_DROME TRANSCRIPTION ELONGATION FACTOR S...    88  2e-17
+SEQ gi|7451403|pir||S55899 transcription elongation factor EF-TfIIS ...    88  2e-17
+SEQ gi|7287878|gb|AAF44916.1|AE003406_121 (AE003416) symbol=TfIIS; s...    85  1e-16
+SEQ gi|3347836|gb|AAC64680.1| (AF039948) transcription elongation fa...    85  2e-16
+SEQ gi|1351227|sp|P49373|TFS2_SCHPO TRANSCRIPTION ELONGATION FACTOR ...    75  1e-13
+SEQ gi|443277|pdb|1TFI|    Transcriptional Elongation Factor Sii (Tf...    73  5e-13
+SEQ gi|6321395|ref|NP_011472.1| RNA polymerase II elongation factor;...    73  7e-13
+SEQ gi|171424|gb|AAA34580.1| (M60770) DST1 [Saccharomyces cerevisiae...    72  1e-12
+SEQ gi|3786016|gb|AAC67362.1| (AC005499) putative elongation factor ...    69  6e-12
+SEQ gi|4217|emb|CAA24928.1| (X00047) reading frame PPR2 [Saccharomyc...    65  1e-10
+SEQ gi|7293097|gb|AAF48482.1| (AE003499) CG8117 gene product [Drosop...    61  3e-09
+SEQ gi|1085870|pir||S47663 transcription elongation factor TFIIS hom...    58  2e-08
+SEQ gi|9631693|ref|NP_048472.1| contains a zinc ribbon domain; simil...    58  2e-08
+SEQ gi|7521741|pir||S47662 transcription elongation factor TFIIS hom...    53  6e-07
+SEQ gi|9857927|gb|AAG00938.1|AF272555_1 (AF272555) transcription elo...    51  3e-06
+SEQ gi|9857929|gb|AAG00939.1|AF272556_1 (AF272556) transcription elo...    51  3e-06
+SEQ gi|9628245|ref|NP_042831.1| transcription factor SII homolog [Af...    46  7e-05
+SEQ gi|450740|emb|CAA50848.1| (X71982) transcription factor SII [Afr...    46  8e-05
+SEQ gi|9929973|dbj|BAB12143.1| (AB047619) hypothetical protein [Maca...    45  2e-04
+SEQ gi|13358507|ref|NP_078754.1| orf105 [lymphocystis disease virus 1]     45  2e-04
+SEQ gi|14324969|dbj|BAB59895.1| (AP000993) transcription factor [TFI...    42  0.001
+SEQ 
+## SEQUENCE PROFILE AND ENTROPY
+ SeqNo PDBNo   V   L   I   M   F   W   Y   G   A   P   S   T   C   H   R   K   Q   E   N   D  NOCC NDEL NINS ENTROPY RELENT WEIGHT
+    1    1     0   0   0   0   0   0   0   0   0   0   0   0   0   0  14  86   0   0   0   0     0    0    0   0.401     13  0.00
+    2    2    10   0   0   0   0   0   0   0   0   0   0  90   0   0   0   0   0   0   0   0     0    0    0   0.333     11  0.00
+    3    3     0   0   0   0   0   0   0  90   7   0   0   0   0   0   0   0   3   0   0   0     0    0    0   0.398     13  0.00
+    4    4     0   0   0   0   0   0   0  94   0   0   0   0   0   0   0   0   0   6   0   0     0    0    0   0.219      7  0.00
+    5    5     0   0   0   0   0   0   0   0   0   0   0  94   0   0   0   6   0   0   0   0     0    0    0   0.219      7  0.00
+    6    6     0   0   0   0   0   0   0   0   0   3   0  20   0   0   0  14  54   9   0   0     0    0    0   1.244     41  0.00
+    7    7     0   0   0   0   0   0   0   0   0   0  10  90   0   0   0   0   0   0   0   0     0    0    0   0.325     10  0.00
+    8    8     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   5   0   3  93     0    0    0   0.314     10  0.00
+    9    9     0  72   2  13   0   0   0   0   0   0   0   0   0   0   7   2   4   0   0   0     0    0    0   0.985     32  0.00
+   10   10     0  33   2   0  57   0   9   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.984     32  0.00
+   11   11     0   0   0   0   0   0   0   0   0   0   4  48   0   0   9  24  15   0   0   0     0    0    0   1.330     44  0.00
+   12   12     0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   13   13     0   0   0   0   0   0   0  55   6   6  11   0   0   0   4   0   0  13   4   0     0    0    0   1.449     48  0.00
+   14   14     0   0   0   0   0   0   0   0   0   0   0   0   0   0   9  87   0   0   4   0     0    0    0   0.463     15  0.00
+   15   15     0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   16   16     0   0   0   0   0   0   0   4   0   0   0   0   0   2   6  83   0   2   0   2     0    0    0   0.711     23  0.00
+   17   17     0   0   0   0   0   0   0   0   0   0  11   0   0   2   0  72   9   6   0   0     0    0    0   0.940     31  0.00
+   18   18     0   0   0   0   0   0   2   0   0   0   0   2   0   0  23  72   0   0   0   0     0    0    0   0.738     24  0.00
+   19   19     0   0   0   4   0   0   0   2   0   0   0   0   0   0   0  23   0   0  70   0     0    0    0   0.804     26  0.00
+   20   20     9   0   2   0   0   0   0   0   2   0   0  11  77   0   0   0   0   0   0   0     0    0    0   0.816     27  0.00
+   21   21     0   0   0   0   2   0   0   0   0   0  22  72   0   0   2   2   0   0   0   0     0    0    0   0.820     27  0.00
+   22   22     2   0   0   0   4   0  91   0   0   0   2   0   0   0   0   0   0   0   0   0     0    0    0   0.386     12  0.00
+   23   23     2   0   0   0   0   0  21   0   0   0   2  45   0   0   4   0   0   0  26   0     0    0    0   1.336     44  0.00
+   24   24     0   2   0   0   0   2   0   0   0   0   0   0   0   2   0   0  79  15   0   0     0    0    0   0.718     23  0.00
+   25   25    64  19   0  11   0   0   0   0   0   0   0   0   0   0   0   2   4   0   0   0     0    0    0   1.058     35  0.00
+   26   26     0   0   0   0   0   0   0   0   0   0   0   0   0   2   2   0  96   0   0   0     0    0    0   0.205      6  0.00
+   27   27     0   0   2   0   0   0   0   0   0   0   0  94   2   0   0   0   0   0   2   0     0    0    0   0.308     10  0.00
+   28   28     0   0   0   0   0   0   0   0   0   0   2   0   0   0  98   0   0   0   0   0     0    0    0   0.103      3  0.00
+   29   29     0   0   0   0   0   0   0   0   6   0  89   0   0   0   0   0   0   0   2   2     0    0    0   0.440     14  0.00
+   30   30     0   4   0   0   0   0   0   2  81   2  11   0   0   0   0   0   0   0   0   0     0    0    0   0.708     23  0.00
+   31   31     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100     0    0    0   0.000      0  0.00
+   32   32     0   0   0   0   0   0   0   0   2   0   0   0   0   0   0   0   0  98   0   0     0    0    0   0.103      3  0.00
+   33   33     0   0   0   0   0   0   0   0   0  98   0   0   0   0   0   0   2   0   0   0     0    0    0   0.103      3  0.00
+   34   34     4   6   2  81   0   0   0   0   0   0   4   0   0   0   0   0   0   2   0   0     0    0    0   0.780     26  0.00
+   35   35     0   0   2   2   0   0   0   0   0   0   2  94   0   0   0   0   0   0   0   0     0    0    0   0.308     10  0.00
+   36   36     6   2   4   0   0   0   0   0   0   0   0  85   0   0   0   2   0   0   0   0     0    0    0   0.611     20  0.00
+   37   37     0   0   2   0  89   0   9   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.392     13  0.00
+   38   38    77   0   0   0   0   0   2   0   9   0   0   0  13   0   0   0   0   0   0   0     0    0    0   0.759     25  0.00
+   39   39    32  17   4  11   9   0   0   0   0   0   0  15   0   0   0   6   4   2   0   0     0    0    0   1.924     64  0.00
+   40   40     0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   41   41     2   6   0   0   0   0   2   0   0   0   0   2   0   6   0   4   0   9  66   2     0    0    0   1.297     43  0.00
+   42   42     2   0   0   4   0   0   0   0   6   0   9   0   0   0   0   4   0  70   4   0     0    0    0   1.119     37  0.00
+   43   43     0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   44   44     0   0   0   0   0   0   0  94   0   0   4   0   0   0   0   0   0   0   0   2     0    0    0   0.278      9  0.00
+   45   45     0   0   0   0   0   0   4   0   0   0   6   0   0   9   0   0   0   2  79   0     0    0    0   0.790     26  0.00
+   46   46     0   0   0   0   0   0   0   0   0   0   0   0   0   2  85   2   2   4   4   0     0    0    0   0.652     21  0.00
+   47   47     0   0   0   4   4  91   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.350     11  0.00
+   48   48     0   0   0   0   0   0   0   0   0   0   0   0   0   0   2  98   0   0   0   0     0    0    0   0.110      3  0.00
+   49   49     0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   50   50     0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+//

@@ -1,0 +1,276 @@
+ID Pseudo hssp file.
+SEQ 
+SEQ gi|114063|sp|P14417|APOA_MACMU APOLIPOPROTEIN(A) (APO(A)) (LP(A)...   161  3e-39
+SEQ gi|5031885|ref|NP_005568.1| lipoprotein, Lp(a); Apolipoprotein L...   160  4e-39
+SEQ gi|225794|prf||1313352A apolipoprotein a [Homo sapiens]               160  4e-39
+SEQ gi|6103598|gb|AAF03678.1| (AF158663) apolipoprotein(a) [Homo sap...   148  2e-35
+SEQ gi|6103597|gb|AAF03677.1| (AF158663) apolipoprotein(a) [Homo sap...   148  2e-35
+SEQ gi|2815616|gb|AAB97886.1| (AF029691) apolipoprotein a [Papio ham...   141  2e-33
+SEQ gi|2118101|pir||B61545 plasmin (EC 3.4.21.7) precursor - sheep (...   130  4e-30
+SEQ gi|4262012|gb|AAD14312.1|S79621_1 (S79621) apolipoprotein[a] [Ma...   129  9e-30
+SEQ gi|2507247|sp|P06868|PLMN_BOVIN PLASMINOGEN PRECURSOR >gi|107049...   126  6e-29
+SEQ gi|6103600|gb|AAF03680.1| (AF158663) apolipoprotein(a) [Homo sap...   126  9e-29
+SEQ gi|2118100|pir||A61545 plasmin (EC 3.4.21.7) precursor - horse (...   126  1e-28
+SEQ gi|6103599|gb|AAF03679.1| (AF158663) apolipoprotein(a) [Homo sap...   124  2e-28
+SEQ gi|627772|pir||C61545 plasmin (EC 3.4.21.7) precursor - goat (fr...   124  3e-28
+SEQ gi|13642227|ref|XP_016019.1| apolipoprotein (a) related gene C [...   124  3e-28
+SEQ gi|627678|pir||E61545 plasmin (EC 3.4.21.7) precursor - dog (fra...   123  7e-28
+SEQ gi|130319|sp|P06867|PLMN_PIG PLASMINOGEN >gi|2144494|pir||PLPG p...   120  4e-27
+SEQ gi|13346502|ref|NP_077818.1| apolipoprotein (a) related gene C [...   119  8e-27
+SEQ gi|5107603|pdb|1KIV|    Recombinant Kringle Iv-10M66 VARIANT OF ...   119  8e-27
+SEQ gi|130317|sp|P12545|PLMN_MACMU PLASMINOGEN PRECURSOR >gi|86639|p...   117  4e-26
+SEQ gi|4505881|ref|NP_000292.1| plasminogen [Homo sapiens] >gi|13642...   117  5e-26
+SEQ gi|190026|gb|AAA36451.1| (M74220) plasminogen [Homo sapiens]          117  5e-26
+SEQ gi|625234|pir||PLHU plasmin (EC 3.4.21.7) precursor [validated] ...   117  5e-26
+SEQ gi|387031|gb|AAA60124.1| (K02922) plasminogen [Homo sapiens]          117  5e-26
+SEQ gi|5107767|pdb|4KIV|    Recombinant Kringle Iv-10W72R MUTANT OF ...   116  5e-26
+SEQ gi|5107746|pdb|3KIV|    Recombinant Kringle Iv-10M66 VARIANT OF ...   116  5e-26
+SEQ gi|2305256|gb|AAB65760.1| (AF012297) plasminogen [Macropus eugenii]   115  1e-25
+SEQ gi|6679381|ref|NP_032903.1| plasminogen [Mus musculus] >gi|13031...   114  3e-25
+SEQ gi|1806583|gb|AAC48717.1| (U33171) plasminogen [Erinaceus europa...   114  3e-25
+SEQ gi|2499860|sp|Q29485|PLMN_ERIEU PLASMINOGEN PRECURSOR >gi|213445...   112  8e-25
+SEQ gi|5295890|emb|CAB46014.1| (AJ242649) plasminogen protein [Rattu...   107  3e-23
+SEQ gi|1942630|pdb|1KRN|    Structure Of Kringle 4 At 4c Temperature...   105  2e-22
+SEQ gi|443183|pdb|1PK4|    Plasminogen Kringle 4                          102  9e-22
+SEQ gi|443424|pdb|2PK4|    Human Plasminogen Kringle 4 Complex With ...   102  9e-22
+SEQ gi|280728|pir||A60140 plasmin (EC 3.4.21.7) precursor - chicken ...   102  1e-21
+SEQ gi|266801|sp|Q01177|PLMN_RAT PLASMINOGEN >gi|321331|pir||A40522 ...   100  4e-21
+SEQ gi|422541|pir||A47299 ror-related receptor RTK - Pacific electri...    96  1e-19
+SEQ gi|226566|prf||1602237A hepatocyte growth factor [Rattus norvegi...    93  6e-19
+SEQ gi|433431|emb|CAA51054.1| (X72307) hepatocyte growth factor [Mus...    93  6e-19
+SEQ gi|87647|pir||S06794 hepatocyte growth factor precursor (version...    93  6e-19
+SEQ gi|123116|sp|P14210|HGF_HUMAN HEPATOCYTE GROWTH FACTOR PRECURSOR...    93  6e-19
+SEQ gi|337938|gb|AAA64297.1| (M73240) hepatocyte growth factor [Homo...    93  6e-19
+SEQ gi|8393526|ref|NP_058713.1| hepatocyte growth factor (scatter fa...    93  7e-19
+SEQ gi|632774|gb|AAB31855.1| (S71816) hepatocyte growth factor, scat...    93  7e-19
+SEQ gi|1170269|sp|Q08048|HGF_MOUSE HEPATOCYTE GROWTH FACTOR PRECURSO...    93  7e-19
+SEQ gi|220438|dbj|BAA01065.1| (D10213) hepatocyte growth factor prec...    93  7e-19
+SEQ gi|2135339|pir||I59214 hepatocyte growth factor short form precu...    92  2e-18
+SEQ gi|12583697|dbj|BAB21499.1| (AB046610) hepatocyte growth factor ...    91  2e-18
+SEQ gi|1130680|emb|CAA58864.1| (X84045) hepatocyte growth factor /sc...    91  3e-18
+SEQ gi|2134190|pir||I51283 hepatocyte growth factor precursor - claw...    91  4e-18
+SEQ gi|1095779|prf||2109382A hepatocyte growth factor [Xenopus laevis]     91  4e-18
+SEQ gi|184030|gb|AAA35980.1| (M77227) competitive HGF antagonist [Ho...    90  7e-18
+SEQ gi|7512243|pir||T18518 apolipoprotein(a) - western European hedg...    89  2e-17
+SEQ gi|6573460|pdb|1B2I|A Chain A, Kringle 2 Domain Of Human Plasmin...    89  2e-17
+SEQ gi|2815618|gb|AAB97887.1| (AF029692) plasminogen [Papio hamadryas]     88  2e-17
+SEQ gi|1419544|emb|CAA56430.1| (X80131) HGF/SF [Gallus gallus]             88  4e-17
+SEQ gi|2134350|pir||I51285 hepatocyte growth factor/scatter factor -...    88  4e-17
+SEQ gi|1399751|gb|AAB52574.1| (U57455) growth factor Livertine [Xeno...    87  5e-17
+SEQ gi|5921269|emb|CAB56422.1| (AJ011396) hepatocyte growth factor-l...    86  8e-17
+SEQ gi|1480911|gb|AAB66650.1| (U63517) serine proteinase [Herdmania ...    86  9e-17
+SEQ gi|90615|pir||A40332 macrophage-stimulating protein 1 precursor ...    86  9e-17
+SEQ gi|6680215|ref|NP_032269.1| hepatocyte growth factor-like [Mus m...    86  9e-17
+SEQ gi|1619621|emb|CAA69989.1| (Y08734) hepatocyte growth factor-lik...    86  1e-16
+SEQ gi|13640740|ref|XP_018224.1| macrophage stimulating 1 (hepatocyt...    86  1e-16
+SEQ gi|13242239|ref|NP_077328.1| macrophage stimulating 1 (hepatocyt...    85  2e-16
+SEQ gi|123114|sp|P26927|HGFL_HUMAN HEPATOCYTE GROWTH FACTOR-LIKE PRO...    83  8e-16
+SEQ gi|1311661|gb|AAC50471.1| (U37055) hepatocyte growth factor-like...    83  8e-16
+SEQ gi|10337615|ref|NP_066278.1| macrophage stimulating 1 (hepatocyt...    83  8e-16
+SEQ gi|130314|sp|P80009|PLMN_CANFA PLASMINOGEN                             83  9e-16
+SEQ gi|14134004|gb|AAK54207.1|AF370035_1 (AF370035) hepatocyte growt...    83  9e-16
+SEQ gi|130315|sp|P80010|PLMN_HORSE PLASMINOGEN                             82  2e-15
+SEQ gi|3914364|sp|P81286|PLMN_SHEEP PLASMINOGEN >gi|264603|gb|AAB251...    81  3e-15
+SEQ gi|1130676|emb|CAA58862.1| (X84043) hepatocyte growth factor-lik...    81  4e-15
+SEQ gi|1141775|gb|AAC63092.1| (U28054) hepatocyte growth factor-like...    80  6e-15
+SEQ gi|4389172|pdb|1NK1|A Chain A, Nk1 Fragment Of Human Hepatocyte ...    80  7e-15
+SEQ gi|3891529|pdb|1BHT|A Chain A, Nk1 Fragment Of Human Hepatocyte ...    80  8e-15
+SEQ gi|1378042|gb|AAC50539.1| (U46010) HGF agonist/antagonist [Homo ...    79  1e-14
+SEQ gi|12394255|gb|AAG53459.1| (M75984) hepatocyte growth factor [Ho...    79  1e-14
+SEQ gi|4758842|ref|NP_004551.1| receptor tyrosine kinase-like orphan...    77  5e-14
+SEQ gi|9989696|gb|AAG01184.2| (AF294796) ROR2 protein [Homo sapiens]       77  5e-14
+SEQ gi|11228721|gb|AAG33132.1| (AF279762) ROR2 [Homo sapiens]              77  5e-14
+SEQ gi|6103596|gb|AAF03676.1| (AF158663) apolipoprotein(a) [Homo sap...    76  1e-13
+SEQ gi|11544434|emb|CAC17639.1| (AL137798) dJ1182A14.3 (similar to M...    76  1e-13
+SEQ gi|3114522|pdb|5HPG|A Chain A, Structure And Ligand Determinants...    76  1e-13
+SEQ gi|2921762|gb|AAC40051.1| (AF042856) hepatocyte growth factor NK...    76  1e-13
+SEQ gi|7305333|ref|NP_038874.1| neurotrophic tyrosine kinase, recept...    75  2e-13
+SEQ gi|13636409|ref|XP_002827.3| similar to macrophage stimulating 1...    75  3e-13
+SEQ gi|12394256|gb|AAG53460.1| (M75984) hepatocyte growth factor [Ho...    74  4e-13
+SEQ gi|1421419|pdb|1CEA|B Chain B, The Structure Of The Non-Covalent...    74  4e-13
+SEQ gi|494445|pdb|1PKR|    Plasminogen (Kringle 1 Domain)                  73  7e-13
+SEQ gi|163755|gb|AAA30781.1| (J00041) preprothrombin [Bos taurus]          73  9e-13
+SEQ gi|135806|sp|P00735|THRB_BOVIN PROTHROMBIN PRECURSOR >gi|625233|...    73  9e-13
+SEQ gi|13636413|ref|XP_017811.1| similar to macrophage stimulating 1...    73  1e-12
+SEQ gi|2116554|dbj|BAA20134.1| (AB001420) neurospecific receptor tyr...    73  1e-12
+SEQ gi|4104617|gb|AAD02091.1| (AF037164) receptor tyrosine kinase [D...    73  1e-12
+SEQ gi|7303361|gb|AAF58420.1| (AE003819) Nrk gene product [Drosophil...    73  1e-12
+SEQ gi|6708459|gb|AAF25945.1|AF213397_1 (AF213397) hepatocyte growth...    73  1e-12
+SEQ gi|1942183|pdb|1HPK|    Solution Nmr Structure Of The Human Plas...    73  1e-12
+SEQ gi|4503635|ref|NP_000497.1| coagulation factor II precursor; pro...    72  2e-12
+SEQ gi|4826868|ref|NP_005003.1| receptor tyrosine kinase-like orphan...    71  3e-12
+SEQ gi|7305331|ref|NP_038873.1| neurotrophic tyrosine kinase, recept...    71  3e-12
+SEQ gi|2653563|dbj|BAA23643.1| (D63779) HGF alpha-chain [Gallus gallus]    71  3e-12
+SEQ gi|13632908|ref|XP_001848.3| receptor tyrosine kinase-like orpha...    71  3e-12
+SEQ gi|1335344|emb|CAA23842.1| (V00595) prothrombin [Homo sapiens]         71  4e-12
+SEQ gi|6683108|dbj|BAA89046.1| (AB028871) prothrombin [Struthio came...    71  4e-12
+SEQ gi|289825|gb|AAA21619.1| (M81391) thrombin [Gallus gallus]             71  5e-12
+SEQ gi|12621076|ref|NP_075213.1| coagulation factor II [Rattus norve...    69  2e-11
+SEQ gi|1079221|pir||S33879 plasmin precursor - lamprey (fragments)         68  2e-11
+SEQ gi|494826|pdb|2PF1|    Prothrombin Fragment 1 (Residues 1 - 156)       68  3e-11
+SEQ gi|6753798|ref|NP_034298.1| coagulation factor II; prothrombin [...    68  3e-11
+SEQ gi|13623531|gb|AAH06374.1|AAH06374 (BC006374) Similar to recepto...    68  4e-11
+SEQ gi|1352407|sp|Q04962|FA12_CAVPO COAGULATION FACTOR XII PRECURSOR...    68  4e-11
+SEQ gi|180361|gb|AAA70224.1| (M13147) human factor XII [Homo sapiens]      68  4e-11
+SEQ gi|7435631|pir||JC5878 plasma hyaluronan-binding protein precurs...    68  4e-11
+SEQ gi|576413|pdb|2SPT|    Prothrombin (E.C.3.4.21.5) Fragment 1 Com...    67  5e-11
+SEQ gi|494827|pdb|2PF2|    Prothrombin Fragment 1 (Residues 1 - 156)...    67  5e-11
+SEQ gi|180359|gb|AAA51986.1| (M11723) coagulation factor XII [Homo s...    66  8e-11
+SEQ gi|4503629|ref|NP_000496.1| coagulation factor XII precursor; Ha...    66  9e-11
+SEQ gi|182292|gb|AAA70225.1| (M31315) coagulation factor XII precurs...    66  1e-10
+SEQ gi|4758502|ref|NP_004123.1| hyaluronan-binding protein 2; hyalur...    64  4e-10
+SEQ gi|11432493|ref|XP_005959.1| hyaluronan-binding protein 2 [Homo ...    64  4e-10
+SEQ gi|6679375|ref|NP_032898.1| plasminogen activator, tissue [Mus m...    64  4e-10
+SEQ gi|13094662|gb|AAK11956.1| (AF260825) neonatal thrombolytic agen...    63  8e-10
+SEQ gi|12803897|gb|AAH02795.1|AAH02795 (BC002795) Similar to plasmin...    63  9e-10
+SEQ gi|4505861|ref|NP_000921.1| plasminogen activator, tissue; Plasm...    63  1e-09
+SEQ gi|339834|gb|AAB59510.1| (L00153) plasminogen activator [Homo sa...    63  1e-09
+SEQ gi|267251|sp|P29598|UROK_RAT UROKINASE-TYPE PLASMINOGEN ACTIVATO...    63  1e-09
+SEQ gi|137121|sp|P19637|TPA_RAT TISSUE-TYPE PLASMINOGEN ACTIVATOR PR...    63  1e-09
+SEQ gi|6981366|ref|NP_037283.1| plasminogen activator, tissue [Rattu...    63  1e-09
+SEQ gi|6981368|ref|NP_037217.1| urinary plasminogen activator, uroki...    63  1e-09
+SEQ gi|4165317|dbj|BAA37148.1| (AB022426) FXII [Sus scrofa]                62  1e-09
+SEQ gi|2499868|sp|Q28198|TPA_BOVIN TISSUE-TYPE PLASMINOGEN ACTIVATOR...    62  2e-09
+SEQ gi|441174|dbj|BAA00881.1| (D01096) tissue plasminogen activator ...    62  2e-09
+SEQ gi|10946900|ref|NP_067464.1| coagulation factor XII (Hageman fac...    60  7e-09
+SEQ gi|13124291|sp|Q9R098|HGFA_MOUSE HEPATOCYTE GROWTH FACTOR ACTIVA...    59  1e-08
+SEQ gi|230374|pdb|1TPK|A Chain A, Tissue Plasminogen Activator (Krin...    59  1e-08
+SEQ gi|494443|pdb|1PK2|    Tissue-Type Plasminogen Activator (T-Pa) ...    59  1e-08
+SEQ gi|9506779|ref|NP_062320.1| hepatocyte growth factor activator [...    59  1e-08
+SEQ gi|576247|pdb|1PML|A Chain A, Tissue Plasminogen Activator Kring...    59  1e-08
+SEQ gi|619379|gb|AAB32090.1| (S72666) tissue plasminogen activator, ...    58  2e-08
+SEQ gi|1321710|emb|CAA59796.1| (X85801) unnamed protein product [Bos...    58  3e-08
+SEQ gi|3318967|pdb|1A0H|A Chain A, The X-Ray Crystal Structure Of Pp...    58  3e-08
+SEQ gi|465014|sp|Q05589|UROK_BOVIN UROKINASE-TYPE PLASMINOGEN ACTIVA...    58  3e-08
+SEQ gi|1352406|sp|P98140|FA12_BOVIN COAGULATION FACTOR XII PRECURSOR...    58  3e-08
+SEQ gi|967274|gb|AAA74955.1| (U31988) tissue-type plasminogen activa...    58  3e-08
+SEQ gi|13626375|ref|XP_003313.2| HGF activator [Homo sapiens]              58  4e-08
+SEQ gi|14161700|ref|NP_115772.1| kremen [Mus musculus] >gi|13591618|...    58  4e-08
+SEQ gi|1217636|emb|CAA93803.1| (Z69923) hepatocyte growth factor (HG...    58  4e-08
+SEQ gi|137114|sp|P16227|UROK_PAPCY UROKINASE-TYPE PLASMINOGEN ACTIVA...    57  5e-08
+SEQ gi|6679377|ref|NP_032899.1| plasminogen activator, urokinase [Mu...    57  5e-08
+SEQ gi|4504383|ref|NP_001519.1| HGF activator [Homo sapiens] >gi|547...    57  5e-08
+SEQ gi|12830424|emb|CAC29084.1| (AJ132946) receptor tyrosine kinase ...    57  6e-08
+SEQ gi|6434248|emb|CAA84639.2| (Z35595) similarity with protein-tyro...    57  6e-08
+SEQ gi|58155|emb|CAA38215.1| (X54317) plasminogen activator [synthet...    57  6e-08
+SEQ gi|208893|gb|AAA73054.1| (M69037) urokinase-type plasminogen act...    57  6e-08
+SEQ gi|4835930|gb|AAD30301.1| (AF144761) urokinase plasminogen activ...    57  7e-08
+SEQ gi|7495146|pir||T18840 hypothetical protein C01G6.8 - Caenorhabd...    57  7e-08
+SEQ gi|340146|gb|AAA61252.1| (K02286) urokinase [Homo sapiens]             57  8e-08
+SEQ gi|14042982|ref|NP_114434.1| kringle-containing transmembrane pr...    57  8e-08
+SEQ gi|12735310|ref|XP_011861.1| plasminogen activator, urokinase [H...    56  1e-07
+SEQ gi|494785|pdb|2HPP|P Chain P, Alpha-Thrombin (E.C.3.4.21.5) Comp...    56  1e-07
+SEQ gi|2146965|pir||S65783 plasminogen activator, urokinase-type - h...    56  1e-07
+SEQ gi|4505863|ref|NP_002649.1| plasminogen activator, urokinase [Ho...    56  1e-07
+SEQ gi|313676|emb|CAA25806.1| (X01648) pot. pro-plasminogen activato...    56  1e-07
+SEQ gi|2152|emb|CAA26511.1| (X02724) pot. preproplasminogen activato...    56  1e-07
+SEQ gi|137115|sp|P04185|UROK_PIG UROKINASE-TYPE PLASMINOGEN ACTIVATO...    56  1e-07
+SEQ gi|137112|sp|P00749|UROK_HUMAN UROKINASE-TYPE PLASMINOGEN ACTIVA...    56  1e-07
+SEQ gi|35298|emb|CAA26535.1| (X02760) urokinase precursor [Homo sapi...    56  1e-07
+SEQ gi|224708|prf||1111261A urokinase,pro [Homo sapiens]                   56  1e-07
+SEQ gi|14424737|gb|AAH09383.1|AAH09383 (BC009383) hypothetical prote...    55  2e-07
+SEQ gi|13648516|ref|XP_015631.1| hypothetical protein MGC10791 [Homo...    54  3e-07
+SEQ gi|13375642|ref|NP_078783.1| hypothetical protein MGC10791 [Homo...    54  5e-07
+SEQ gi|13876589|gb|AAK38734.1| (AY029537) urokinase-type plasminogen...    54  6e-07
+SEQ gi|443067|pdb|1KDU|    Plasminogen Activator (Urokinase-Type, Kr...    53  9e-07
+SEQ gi|1351381|sp|P98121|URTB_DESRO SALIVARY PLASMINOGEN ACTIVATOR B...    53  1e-06
+SEQ gi|1065043|pdb|1URK|    Plasminogen Activator (Urokinase-Type) (...    53  1e-06
+SEQ gi|1351380|sp|P15638|URT2_DESRO SALIVARY PLASMINOGEN ACTIVATOR A...    52  1e-06
+SEQ gi|104965|pir||A34369 t-plasminogen activator (EC 3.4.21.68) pre...    52  1e-06
+SEQ gi|1351382|sp|P49150|URTG_DESRO SALIVARY PLASMINOGEN ACTIVATOR G...    52  1e-06
+SEQ gi|190111|gb|AAA60123.1| (K02921) covering first half of fourth ...    52  1e-06
+SEQ gi|290665|gb|AAA21620.1| (M81393) thrombin [Eptatretus stouti]         50  9e-06
+SEQ gi|542586|pir||A48289 neurotrophic receptor ror precursor - frui...    49  1e-05
+SEQ gi|6572269|emb|CAB62959.1| (AL021393) bK747E2.4 (novel Kringle a...    49  2e-05
+SEQ gi|2118099|pir||I38098 t-plasminogen activator precursor, inacti...    48  2e-05
+SEQ gi|1351379|sp|P98119|URT1_DESRO SALIVARY PLASMINOGEN ACTIVATOR A...    48  3e-05
+SEQ gi|3406794|gb|AAC71006.1| (AF080065) prothrombin precursor [Oryc...    47  4e-05
+SEQ gi|13430037|gb|AAK25726.1|AF216782_1 (AF216782) ror [Aplysia cal...    47  4e-05
+SEQ gi|494789|pdb|2HPQ|P Chain P, Alpha-Thrombin (E.C.3.4.21.5) Comp...    46  2e-04
+SEQ 
+## SEQUENCE PROFILE AND ENTROPY
+ SeqNo PDBNo   V   L   I   M   F   W   Y   G   A   P   S   T   C   H   R   K   Q   E   N   D  NOCC NDEL NINS ENTROPY RELENT WEIGHT
+    1    1     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  49  13  39     0    0    0   0.978     32  0.00
+    2    2     0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+    3    3     5  11  12  11   7   0  49   0   2   0   0   0   0   0   1   3   0   0   0   0     0    0    0   1.670     55  0.00
+    4    4     3   3   5   2   4   2   2   0   0   2   1   9   0  29   6   5   7  15   3   1     0    0    0   2.392     79  0.00
+    5    5     1   0   0   0   0   0   0  76   1   0   2   0   9   1   0   0   0   2   2   6     0    0    0   0.965     32  0.00
+    6    6     1   1   2   0   0   0   1   0   1   0   5   8   0   0   6   9   7   0  51   8     0    0    0   1.746     58  0.00
+    7    7     0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+    8    8     5   2   2   2   0   0   1   2   3   0   3   3   0   4   6  11  27  29   1   0     0    0    0   2.108     70  0.00
+    9    9     0   2   0   0   4   0   0  12   3   0  41   4   0   1   1   0   3   4  18   7     0    0    0   1.908     63  0.00
+   10   10     0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   11   11     0   0   0   4   0   0   0   0   0   0   0   0   0   0  83   5   4   2   0   1     0    0    0   0.792     26  0.00
+   12   12     0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.016      0  0.00
+   13   13     2   2   1   1   0   0   0   0   2   2   9  54   0   2   2  13   0   1   7   0     0    0    0   1.667     55  0.00
+   14   14    26   7   5  10   4   3  16   0  12   0   6   2   0   3   3   3   1   0   0   0     0    0    0   2.303     76  0.00
+   15   15     0   0   0   0   2   0   0   0  18   0  59   0   0   0   1   0   0   0  12   7     0    0    0   1.254     41  0.00
+   16   16    17   2   6   0   1   1   1   0   0   0   0  49   0   4   6  10   2   0   0   0     0    0    0   1.685     56  0.00
+   17   17     0   0   3   0   0   0   0   0   3   0   3  86   0   0   0   0   0   0   1   4     0    0    0   0.610     20  0.00
+   18   18    33   2   3   2   0   4   0   1   7   0   1  11   0   0   8  12   0  12   0   0     0    0    0   2.121     70  0.00
+   19   19     0   1   0   3   1   0   0   3   4   0  46  30   0   1   1   4   0   0   6   0     0    0    0   1.553     51  0.00
+   20   20     0   0   0   0   0   0   0  97   0   0   0   0   0   0   1   0   1   0   0   0     0    0    0   0.163      5  0.00
+   21   21     6  11  16   0   0   0   1   0   8   0   1   4   0   9  32  11   0   0   0   0     0    0    0   2.019     67  0.00
+   22   22     0   0   2   0   0   0   0   0   1  22   5  38   0   0   2  10   8  11   0   1     0    0    0   1.851     61  0.00
+   23   23     0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   24   24     0  14   2   0   0   0   0   0   1   0   3   1   0   0   0   0  78   0   0   0     0    0    0   0.788     26  0.00
+   25   25     0   2   0   3   1   0   1   1  27  17  10   0   0   2  22   4   3   2   3   1     0    0    0   2.126     70  0.00
+   26   26     0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   27   27     1   0   1   0   0   0   0   1   8   0  37   2   0   0   9   1   0   1  18  21     0    0    0   1.726     57  0.00
+   28   28     0   6   0   0   0   0   0   0  14   0  61   1   0   3   1   4   2   6   0   1     0    0    0   1.460     48  0.00
+   29   29     0   3   0  35   0   0   0   0   4   1   3   5   0   0   3   3  34   5   4   0     0    0    0   1.788     59  0.00
+   30   30     0   0  11   2   5   0   8   0   4   0  12  39   0   3   4   1   3   5   0   0     0    0    0   2.094     69  0.00
+   31   31     0   2   0   0   0   0   0   0   2  77   1   2   0   0   1   3   6   4   1   0     0    0    0   1.009     33  0.00
+   32   32     0   0   2   1   0   0   1   0   1   2   0   5   0  77   0   3   0   1   3   4     0    0    0   1.072     35  0.00
+   33   33     2   5   2   0   0   4   9   2   4   1  24   3   0   0  16   9   8   6   0   3     0    0    0   2.415     80  0.00
+   34   34     0   3   0   0   0   0   2   1   0   8   2   0   0  76   2   2   0   0   3   0     0    0    0   1.033     34  0.00
+   35   35     3   2   0   2   1   0   0   5   6   3  34   2   0   1  10   9  10   3   7   4     0    0    0   2.281     76  0.00
+   36   36     1   1   5   1  26   3   9   0   0   0   1   1   0   8  33   7   2   0   0   1     0    0    0   1.959     65  0.00
+   37   37     1   9   6   1   0   0   1   0   1   1   6  55   0   2   8   0   1   2   3   1     0    0    0   1.751     58  0.00
+   38   38     2   0   0   0   4   0   0   0   5  70   9   4   0   0   0   1   2   1   0   0     0    0    0   1.242     41  0.00
+   39   39     0   3   1   0   0   2   0   3   4   0   9   8   0   1   0   1   3  51   2  12     0    0    0   1.739     58  0.00
+   40   40     1   1   1   0   4   0  17   0  11   1   7   9   0   1   6  11   2   4  25   1     0    0    0   2.295     76  0.00
+   41   41     0   4   4   1  17   0  48   0   3   5   0   0   0   7   1   0   0   2   6   0     0    0    0   1.800     60  0.00
+   42   42     0   3   0   0   0   0   0   1   4  66   3   2   0   1   8   5   4   0   0   3     0    0    0   1.395     46  0.00
+   43   43     1   9   0   0   0   1   0   8   7   0   5   7  10   2   5   1   2   5  30   9     0    0    0   2.293     76  0.00
+   44   44     3   5   0   0   0   2   0  13  31   0   4   0   0   0   0  30   4   2   3   3     0    0    0   1.886     62  0.00
+   45   45     0   9   1   1   0   0   0  49   3   2   1   0   0   0   0   4   2   0  13  16     0    0    0   1.627     54  0.00
+   46   46     0  84   0   0   4   0   0   9   0   0   0   0   0   0   0   0   0   1   1   0     0    0    0   0.616     20  0.00
+   47   47     6   0  16   0   0   0   0   4   2   1   2  11   0   0   8  11   6  16   6  12     0    0    0   2.406     80  0.00
+   48   48     0   0   0  21   0   0   0   8   1   0   1   0   0  16   6   9   1  30   0   8     0    0    0   1.908     63  0.00
+   49   49     0   0   0   0   0   0   0   0   2   0   1   0   0   1   0   0   0   0  95   0     0    0    0   0.258      8  0.00
+   50   50     0   0   0   0  14   0  86   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.442     14  0.00
+   51   51     0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0     0    0    0   0.016      0  0.00
+   52   52     0   0   0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0     0    0    0   0.031      1  0.00
+   53   53     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100   0     0    0    0   0.031      1  0.00
+   54   54     0   0   0   0   0   0   0   0   1  96   0   3   0   0   0   0   0   0   0   0     0    0    0   0.185      6  0.00
+   55   55     0   0   0   0   0   0   0   6   0   0   0   0   0   0   5   0   0   0   2  88     0    0    0   0.520     17  0.00
+   56   56     0   0   0   0   0   0   0  51  23   2   3   0   0   0   4   0   1   0  13   3     0    0    0   1.454     48  0.00
+   57   57    15   0   0   0   0   0   0   1   2   0  11   0   0   0   3   5   4  25   1  34     0    0    0   1.790     59  0.00
+   58   58     9   2   9   1   0   0   0   0  21  11   7   4   0   0   6   6   1  19   0   1     0    0    0   2.296     76  0.00
+   59   59     0   0   0   0   0   0   0  16  28   0   7   2   0   7  23   7   4   3   3   0     0    0    0   1.969     65  0.00
+   60   60     1   0   0   0   0   0   0   1   2  97   0   0   0   0   0   0   0   0   0   0     0    0    0   0.170      5  0.00
+   61   61     0   0   0   0   0  86  14   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.407     13  0.00
+   62   62     0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0     0    0    0   0.016      0  0.00
+   63   63     0   0   0   0  24   0  71   0   0   0   0   0   0   5   0   0   0   0   0   0     0    0    0   0.757     25  0.00
+   64   64    15   0   0   0   0   0   0   0   0   0   1  84   0   0   0   0   0   0   0   0     0    0    0   0.483     16  0.00
+   65   65     2  10   1  13   2   0   0   3   3   0   6  40   0   0  15   1   2   0   0   2     0    0    0   1.952     65  0.00
+   66   66     0   1   1   0   0   0   0   2   0   0   3   0   0   0   2   4   0   2  27  59     0    0    0   1.219     40  0.00
+   67   67     0   0   0   0   0   0   0   1   3  70  11   0   0   0   5   2   2   3   1   3     0    0    0   1.170     39  0.00
+   68   68     0   3   0   1   1   0   0  18  10   3  13   3   1   2  11   4   6   8  13   4     0    0    0   2.436     81  0.00
+   69   69    50   9  12   4   2   0   2   3   0   0   0   8   0   0   0  11   0   0   0   0     0    0    0   1.684     56  0.00
+   70   70     0   5   1   0   0   0   2   0   0   9   5   4   0   0  66   2   1   4   0   2     0    0    0   1.382     46  0.00
+   71   71     4   1   2   2  13  57   9   0   1   0   2   1   0   2   6   0   0   1   0   0     0    0    0   1.584     52  0.00
+   72   72     0   0   0   0   0   0   0   5   2   0   0   0   0   0   1   1   5  70   0  16     0    0    0   1.024     34  0.00
+   73   73     5   4   0   0  13   0  71   0   0   0   3   0   0   1   0   0   0   3   0   0     0    0    0   1.044     34  0.00
+   74   74     0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   75   75     0   0   0   1   0   0   0   4   8   4  17   0   0   1   2   2   0   2  31  30     0    0    0   1.798     60  0.00
+   76   76    12  41  44   1   0   0   0   0   0   0   0   2   0   0   0   0   0   0   0   0     0    0    0   1.107     36  0.00
+   77   77     0   2   1   0   0   0   0   0   2  44   5  26   0   0   2  14   2   1   3   0     0    0    0   1.611     53  0.00
+   78   78     4   2   0   1   1   0   3   0  13   3  10   5   0   1  16   6  33   3   0   1     0    0    0   2.150     71  0.00
+   79   79     0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0     0    0    0   0.017      0  0.00
+   80   80     2   9   0   0   0   0   0   0   0  35  43   0   0   0   5   0   0   0   0   6     0    0    0   1.328     44  0.00
+   81   81    54   0   0   0   0   0   0   0   4   0   0   0   0   0   0   0   0  43   0   0     0    0    0   0.819     27  0.00
+   82   82    43   0   0  10   0   0   0   0   0   0   0  43   0   0   0   0   5   0   0   0     0    0    0   1.095     36  0.00
+   83   83     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  95   0   5     0    0    0   0.191      6  0.00
+//

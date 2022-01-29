@@ -1,0 +1,774 @@
+ID Pseudo hssp file.
+SEQ 
+SEQ gi|127154|sp|P07291|MLE_AEQIR MYOSIN ESSENTIAL LIGHT CHAIN, STRI...   284  5e-76
+SEQ gi|11514302|pdb|1DFK|Z Chain Z, Nucleotide-Free Scallop Myosin S...   284  5e-76
+SEQ gi|1633079|pdb|1WDC|C Chain C, Scallop Myosin Regulatory Domain ...   284  7e-76
+SEQ gi|5817600|gb|AAD52843.1|AF134173_1 (AF134173) myosin essential ...   283  7e-76
+SEQ gi|127158|sp|P07290|MLE_PATYE MYOSIN, ESSENTIAL LIGHT CHAIN, ADD...   278  3e-74
+SEQ gi|515246|pdb|1SCM|C Chain C, Myosin (Regulatory Domain)              276  1e-73
+SEQ gi|1389843|gb|AAB02928.1| (U59290) myosin essential light chain ...   274  4e-73
+SEQ gi|228388|prf||1803425A myosin:SUBUNIT=essential light chain [Me...   194  7e-49
+SEQ gi|228389|prf||1803425B myosin:SUBUNIT=essential light chain [Ma...   185  3e-46
+SEQ gi|5305329|gb|AAD41591.1| (AF071011) myosin light chain [Schisto...   174  6e-43
+SEQ gi|84596|pir||A25571 myosin LC1 catalytic light chain - Japanese...   173  1e-42
+SEQ gi|127159|sp|P05945|MLE_TODPA MYOSIN CATALYTIC LIGHT CHAIN LC-1,...   173  1e-42
+SEQ gi|1709055|sp|P53014|MLE_CAEEL MYOSIN, ESSENTIAL LIGHT CHAIN (MY...   119  2e-26
+SEQ gi|14572174|gb|AAK50006.2|AF362777_1 (AF362777) myosin light cha...   108  3e-23
+SEQ gi|127140|sp|P17209|MLEF_RAT MYOSIN LIGHT CHAIN 1, ATRIAL ISOFOR...   107  7e-23
+SEQ gi|2498031|sp|Q17133|MLE_BRAFL MYOSIN, ESSENTIAL LIGHT CHAIN (MY...   107  7e-23
+SEQ gi|6754776|ref|NP_034988.1| myosin light chain, alkali, cardiac ...   107  8e-23
+SEQ gi|12850248|dbj|BAB28646.1| (AK013098) putative [Mus musculus]        107  8e-23
+SEQ gi|127137|sp|P02606|MLEC_CHICK MYOSIN LIGHT CHAIN 1, CARDIAC MUS...   106  2e-22
+SEQ gi|1360688|pir||MOCH4E myosin alkali light chain 4, embryonic - ...   106  2e-22
+SEQ gi|4505303|ref|NP_002466.1| myosin, light polypeptide 1, alkali;...   104  5e-22
+SEQ gi|212349|gb|AAA48961.1| (J00888) myosin a2 light chain [Gallus ...   104  8e-22
+SEQ gi|1346552|sp|P08296|MLEN_CHICK MYOSIN LIGHT CHAIN ALKALI, NON-M...   104  1e-21
+SEQ gi|127132|sp|P02605|MLE3_CHICK MYOSIN LIGHT CHAIN 3, SKELETAL MU...   103  1e-21
+SEQ gi|4557038|ref|NP_002467.1| myosin, light polypeptide 4, alkali;...   103  1e-21
+SEQ gi|1197205|emb|CAA32588.1| (X14428) myosin alkali light chain [G...   103  1e-21
+SEQ gi|7428726|pir||MOCHA2 myosin alkali light chain 1, fast skeleta...   103  2e-21
+SEQ gi|127135|sp|P02603|MLE3_RABIT MYOSIN LIGHT CHAIN 3, SKELETAL MU...   102  2e-21
+SEQ gi|1346553|sp|P02607|MLES_CHICK MYOSIN LIGHT CHAIN ALKALI, SMOOT...   102  3e-21
+SEQ gi|2144838|pir||MOCHG2 myosin alkali light chain 6, smooth muscl...   102  3e-21
+SEQ gi|602988|gb|AAB00988.1| (L38596) MLC1f/3f gene product [Xenopus...   102  3e-21
+SEQ gi|13786877|pdb|1I84|T Chain T, Cryo-Em Structure Of The Heavy M...   102  3e-21
+SEQ gi|127152|sp|P09540|MLEX_CHICK MYOSIN LIGHT CHAIN, EMBRYONIC (L2...   102  3e-21
+SEQ gi|1181841|gb|AAA86910.1| (U45430) fast-twitch myosin light chai...   101  4e-21
+SEQ gi|11463954|dbj|BAB18577.1| (AB051824) myosin light chain 3 [The...   101  5e-21
+SEQ gi|602760|gb|AAB00823.1| (L38595) MLC1f/3f gene product [Xenopus...   101  5e-21
+SEQ gi|12737351|ref|XP_012180.1| myosin, light polypeptide 6, alkali...   101  6e-21
+SEQ gi|127134|sp|P05978|MLE3_MOUSE MYOSIN LIGHT CHAIN 3, SKELETAL MU...   101  6e-21
+SEQ gi|127130|sp|P02602|MLE1_RABIT MYOSIN LIGHT CHAIN 1, SKELETAL MU...   100  9e-21
+SEQ gi|1096612|prf||2112200A myosin:SUBUNIT=light chain 1 [Bos taurus]    100  1e-20
+SEQ gi|127133|sp|P06741|MLE3_HUMAN MYOSIN LIGHT CHAIN 3, SKELETAL MU...   100  1e-20
+SEQ gi|2144836|pir||MOCHLA myosin alkali light chain 1, fast skeleta...   100  1e-20
+SEQ gi|1772516|emb|CAA32075.1| (X13864) cardiac myosin alkali light ...   100  1e-20
+SEQ gi|2842632|sp|Q60605|MLEN_MOUSE MYOSIN LIGHT CHAIN ALKALI, NON-M...   100  1e-20
+SEQ gi|91115|pir||B23253 myosin A2 catalytic light chain, skeletal m...   100  1e-20
+SEQ gi|7678722|dbj|BAA95124.1| (AB042035) myosin light chain 3 [Thun...   100  1e-20
+SEQ gi|127127|sp|P02604|MLE1_CHICK MYOSIN LIGHT CHAIN 1, SKELETAL MU...   100  1e-20
+SEQ gi|13487933|ref|NP_064489.1| fast myosin alkali light chain [Rat...   100  2e-20
+SEQ gi|1360692|pir||MOCH6N myosin alkali light chain 6, nonmuscle fo...   100  2e-20
+SEQ gi|6981240|ref|NP_036738.1| myosin light chain 3, alkali, cardia...    99  2e-20
+SEQ gi|1339869|dbj|BAA12733.1| (D85141) fast skeletal myosin light c...    99  2e-20
+SEQ gi|1709054|sp|P54357|MLC2_DROME MYOSIN II ESSENTIAL LIGHT CHAIN ...    99  2e-20
+SEQ gi|189015|gb|AAA59891.1| (M24121) myosin light chain [Homo sapiens]    99  2e-20
+SEQ gi|7678728|dbj|BAA95127.1| (AB042038) myosin light chain 3 [Euth...    99  2e-20
+SEQ gi|1942540|pdb|2MYS|C Chain C, Myosin Subfragment-1, Alpha Carbo...    99  2e-20
+SEQ gi|14029826|gb|AAK52827.1|AF364821_1 (AF364821) myosin light cha...    99  3e-20
+SEQ gi|2119345|pir||I77418 myosin light chain MLC3-f - rat >gi|11384...    99  3e-20
+SEQ gi|127148|sp|P24572|MLES_HUMAN MYOSIN LIGHT CHAIN ALKALI, SMOOTH...    99  3e-20
+SEQ gi|4140270|emb|CAA76405.1| (Y16818) calmodulin [Geodia cydonium]       99  3e-20
+SEQ gi|10440556|ref|NP_066299.1| myosin, light polypeptide 6, alkali...    99  3e-20
+SEQ gi|89245|pir||JX0214 myosin catalytic light chain LC17a - pig >g...    99  4e-20
+SEQ gi|127128|sp|P05976|MLE1_HUMAN MYOSIN LIGHT CHAIN 1, SKELETAL MU...    98  4e-20
+SEQ gi|1360690|pir||MOHU6E myosin alkali light chain 6, eye form - h...    98  5e-20
+SEQ gi|4803698|emb|CAB42646.1| (X05450) myosin light chain-1 [Homo s...    98  5e-20
+SEQ gi|212347|gb|AAA48960.1| (J00887) myosin a1 light chain (partial...    98  5e-20
+SEQ gi|5852836|gb|AAD54228.1| (AF149756) fast skeletal myosin light ...    98  5e-20
+SEQ gi|2119346|pir||I50384 myosin light chain 3f - chicken >gi|21233...    98  6e-20
+SEQ gi|12832202|dbj|BAB22006.1| (AK002312) putative [Mus musculus] >...    98  6e-20
+SEQ gi|2842665|sp|Q64119|MLES_RAT MYOSIN LIGHT CHAIN ALKALI, SMOOTH-...    98  6e-20
+SEQ gi|7678748|dbj|BAA95136.1| (AB042047) myosin light chain 3 [Trac...    98  7e-20
+SEQ gi|7678734|dbj|BAA95130.1| (AB042041) myosin light chain 3 [Penn...    98  8e-20
+SEQ gi|1339867|dbj|BAA12732.1| (D85140) fast skeletal myosin light c...    98  9e-20
+SEQ gi|226007|prf||1405342A ventricular myosin L1 [Homo sapiens]           98  9e-20
+SEQ gi|127129|sp|P05977|MLE1_MOUSE MYOSIN LIGHT CHAIN 1, SKELETAL MU...    98  9e-20
+SEQ gi|34866|emb|CAA30292.1| (X07373) ventricular myosin light chain...    97  1e-19
+SEQ gi|4557777|ref|NP_000249.1| myosin light chain 3 [Homo sapiens] ...    97  1e-19
+SEQ gi|738460|prf||2001201A myosin:SUBUNIT=light chain:ISOTYPE=V/sB ...    97  1e-19
+SEQ gi|8698681|gb|AAF78474.1|AF180891_1 (AF180891) fast skeletal mus...    97  1e-19
+SEQ gi|9651188|gb|AAF91089.1|AF174483_1 (AF174483) cardiac myosin li...    97  2e-19
+SEQ gi|7649818|dbj|BAA94860.1| (AB042028) fast skeletal myosin light...    97  2e-19
+SEQ gi|7678742|dbj|BAA95133.1| (AB042044) myosin light chain 3 [Cyps...    96  2e-19
+SEQ gi|7507732|pir||T24862 hypothetical protein T12D8.6 - Caenorhabd...    96  2e-19
+SEQ gi|91114|pir||A23253 myosin A1 catalytic light chain, skeletal m...    96  2e-19
+SEQ gi|89246|pir||JX0215 myosin catalytic light chain LC17b - pig >g...    96  2e-19
+SEQ gi|496145|gb|AAA39720.1| (M19436) myosin light chain [Mus musculus]    96  2e-19
+SEQ gi|127131|sp|P02600|MLE1_RAT MYOSIN LIGHT CHAIN 1, SKELETAL MUSC...    96  2e-19
+SEQ gi|205474|gb|AAA98533.1| (L00088) myosin light chain [Rattus nor...    96  2e-19
+SEQ gi|71699|pir||MORTA1 myosin alkali light chain 1, fast skeletal ...    96  3e-19
+SEQ gi|5834684|emb|CAA64353.2| (X94689) myosin light chain [Sus scrofa]    96  3e-19
+SEQ gi|2119347|pir||I57590 myosin light chain MLC1-f - rat >gi|20548...    96  3e-19
+SEQ gi|7994633|sp|P82160|MLE3_MUGCA MYOSIN LIGHT CHAIN 3, SKELETAL M...    96  3e-19
+SEQ gi|212330|gb|AAA48955.1| (K02610) myosin light chain 1f [Gallus ...    95  4e-19
+SEQ gi|14335429|gb|AAK60614.1|AF330140_1 (AF330140) myosin light cha...    95  4e-19
+SEQ gi|223916|prf||1004301B myosin LC3 [Gallus gallus]                     95  5e-19
+SEQ gi|160971|gb|AAA29873.1| (L00992) essential myosin light chain [...    94  7e-19
+SEQ gi|7678746|dbj|BAA95135.1| (AB042046) myosin light chain 1 [Trac...    94  8e-19
+SEQ gi|7678762|dbj|BAA95143.1| (AB042054) myosin light chain 1 [Ther...    94  9e-19
+SEQ gi|7678720|dbj|BAA95123.1| (AB042034) myosin light chain 1 [Thun...    94  9e-19
+SEQ gi|14335431|gb|AAK60615.1|AF330141_1 (AF330141) myosin light cha...    94  9e-19
+SEQ gi|7678740|dbj|BAA95132.1| (AB042043) myosin light chain 1 [Cyps...    94  1e-18
+SEQ gi|7678726|dbj|BAA95126.1| (AB042037) myosin light chain 1 [Euth...    94  1e-18
+SEQ gi|1339865|dbj|BAA12731.1| (D85139) fast skeletal myosin light c...    93  2e-18
+SEQ gi|7678752|dbj|BAA95138.1| (AB042049) myosin light chain 1 [Sard...    93  3e-18
+SEQ gi|223915|prf||1004301A myosin LC1 [Gallus gallus]                     92  3e-18
+SEQ gi|7994632|sp|P82159|MLE1_MUGCA MYOSIN LIGHT CHAIN 1, SKELETAL M...    92  4e-18
+SEQ gi|223872|prf||1003191A calmodulin [Oryctolagus cuniculus]             91  7e-18
+SEQ gi|7678732|dbj|BAA95129.1| (AB042040) myosin light chain 1 [Penn...    91  7e-18
+SEQ gi|71676|pir||MCDO calmodulin - slime mold (Dictyostelium discoi...    91  8e-18
+SEQ gi|7678758|dbj|BAA95141.1| (AB042052) myosin light chain 1 [Engr...    91  9e-18
+SEQ gi|7678754|dbj|BAA95139.1| (AB042050) myosin light chain 3 [Sard...    90  1e-17
+SEQ gi|1841960|gb|AAB47548.1| (U64727) similar to nonmuscle myosin e...    90  1e-17
+SEQ gi|115492|sp|P27164|CAL3_PETHY CALMODULIN-RELATED PROTEIN >gi|16...    90  2e-17
+SEQ gi|4033509|sp|P02598|CALM_TETPY CALMODULIN >gi|2144831|pir||MCTE...    90  2e-17
+SEQ gi|3800847|gb|AAC68890.1| (AF081669) VU91B calmodulin [synthetic...    90  2e-17
+SEQ gi|115528|sp|P27166|CALM_STYLE CALMODULIN >gi|102408|pir||JC1309...    89  2e-17
+SEQ gi|115541|sp|P02597|CALS_CHICK CALMODULIN, STRIATED MUSCLE >gi|7...    89  2e-17
+SEQ gi|2498027|sp|Q24756|MLC1_DROVI MYOSIN LIGHT CHAIN ALKALI (CATAL...    89  3e-17
+SEQ gi|127157|sp|P07462|MLE_HALRO MYOSIN CATALYTIC LIGHT CHAIN, SMOO...    89  3e-17
+SEQ gi|1085679|pir||S53019 calmodulin - Macrocystis pyrifera >gi|728...    89  3e-17
+SEQ gi|115510|sp|P11118|CALM_EUGGR CALMODULIN >gi|71681|pir||MCEG ca...    89  4e-17
+SEQ gi|4456144|emb|CAB37336.1| (X00460) myosin light chain [Gallus g...    89  4e-17
+SEQ gi|115519|sp|P27165|CALM_PHYIN CALMODULIN >gi|169306|gb|AAA21424...    88  5e-17
+SEQ gi|115531|sp|P18061|CALM_TRYCR CALMODULIN >gi|71680|pir||MCUTC c...    88  5e-17
+SEQ gi|1345661|sp|P07463|CALM_PARTE CALMODULIN >gi|71678|pir||MCPP c...    88  6e-17
+SEQ gi|115530|sp|P04465|CALM_TRYBB CALMODULIN >gi|71679|pir||MCUTG c...    88  6e-17
+SEQ gi|10835683|pdb|1EXR|A Chain A, The 1.0 Angstrom Crystal Structu...    88  6e-17
+SEQ gi|809298|pdb|1CLM|    Calmodulin (Paramecium Tetraurelia) (Wild...    88  6e-17
+SEQ gi|1565285|emb|CAA69660.1| (Y08373) calmodulin [Toxoplasma gondii]     88  7e-17
+SEQ gi|157950|gb|AAA28711.1| (M10125) larva and adult myosin alkali ...    88  7e-17
+SEQ gi|2498026|sp|Q24654|MLC1_DROSI MYOSIN LIGHT CHAIN ALKALI (CATAL...    88  7e-17
+SEQ gi|2498025|sp|Q24621|MLC1_DROPS MYOSIN LIGHT CHAIN ALKALI (CATAL...    88  9e-17
+SEQ gi|1929046|emb|CAB07851.1| (Z93780) myosin light chain [Takifugu...    88  9e-17
+SEQ gi|157946|gb|AAA28710.1| (K01567) myosin light chain [Drosophila...    88  9e-17
+SEQ gi|13386230|ref|NP_081692.1| RIKEN cDNA 2310068O22 gene [Mus mus...    88  1e-16
+SEQ gi|3041705|sp|P06742|MLC1_DROME MYOSIN LIGHT CHAIN ALKALI (CATAL...    88  1e-16
+SEQ gi|115525|sp|P04353|CALM_SPIOL CALMODULIN >gi|71685|pir||MCSP ca...    87  1e-16
+SEQ gi|461684|sp|P02599|CALM_DICDI CALMODULIN >gi|290034|gb|AAA33172...    87  1e-16
+SEQ gi|3800849|gb|AAC68891.1| (AF081670) VU91C calmodulin [synthetic...    87  1e-16
+SEQ gi|189022|gb|AAA36348.1| (M22920) smooth muscle mysoin light cha...    87  1e-16
+SEQ gi|4200039|dbj|BAA74459.1| (AB022702) calmodulin [Physarum polyc...    87  1e-16
+SEQ gi|2267084|gb|AAB63506.1| (AF007889) calmodulin [Symbiodinium mi...    87  1e-16
+SEQ gi|4959170|gb|AAD34267.1|AF084419_1 (AF084419) calmodulin mutant...    87  1e-16
+SEQ gi|5713202|gb|AAD47843.1|AF170306_1 (AF170306) myosin light chai...    87  1e-16
+SEQ gi|7441477|pir||T10726 calmodulin - green alga (Dunaliella salin...    86  2e-16
+SEQ gi|7301614|gb|AAF56733.1| (AE003761) Mlc1 gene product [Drosophi...    86  2e-16
+SEQ gi|13529455|gb|AAH05457.1|AAH05457 (BC005457) RIKEN cDNA 2310068...    86  2e-16
+SEQ gi|223036|prf||0409298A troponin C-like protein [Bos taurus]           86  2e-16
+SEQ gi|4959590|gb|AAD34408.1|AF084424_1 (AF084424) calmodulin mutant...    86  2e-16
+SEQ gi|71673|pir||MCJZR calmodulin - sea pansy (Renilla reniformis) ...    86  2e-16
+SEQ gi|4959165|gb|AAD34262.1|AF084414_1 (AF084414) calmodulin mutant...    86  2e-16
+SEQ gi|4959155|gb|AAD34252.1|AF084404_1 (AF084404) calmodulin mutant...    86  2e-16
+SEQ gi|4959153|gb|AAD34250.1|AF084402_1 (AF084402) calmodulin mutant...    86  3e-16
+SEQ gi|3121849|sp|P93171|CALM_HELAN CALMODULIN >gi|1773321|gb|AAB683...    86  3e-16
+SEQ gi|4959148|gb|AAD34245.1|AF084397_1 (AF084397) calmodulin mutant...    86  3e-16
+SEQ gi|565166|gb|AAB31200.1| calmodulin {D to N substitution at resi...    86  3e-16
+SEQ gi|4959149|gb|AAD34246.1|AF084398_1 (AF084398) calmodulin mutant...    86  3e-16
+SEQ gi|4959152|gb|AAD34249.1|AF084401_1 (AF084401) calmodulin mutant...    86  3e-16
+SEQ gi|1168749|sp|Q03509|CAL6_ARATH CALMODULIN-6 >gi|1076298|pir||S3...    86  3e-16
+SEQ gi|4959629|gb|AAD34427.1|AF084443_1 (AF084443) calmodulin mutant...    86  3e-16
+SEQ gi|5932428|gb|AAD56955.1|AF187305_1 (AF187305) calmodulin [Myxin...    86  3e-16
+SEQ gi|115486|sp|P25069|CAL2_ARATH CALMODULIN-2/3/5 >gi|99671|pir||S...    86  3e-16
+SEQ gi|11138677|gb|AAG31446.1|AF264065_1 (AF264065) calmodulin [Blas...    86  3e-16
+SEQ gi|11121264|emb|CAC14791.1| (AJ291615) calmodulin [Lumbricus rub...    86  3e-16
+SEQ gi|3786339|dbj|BAA33968.1| (AB018797) calmodulin B [Halocynthia ...    86  4e-16
+SEQ gi|4959602|gb|AAD34414.1|AF084430_1 (AF084430) calmodulin mutant...    86  4e-16
+SEQ gi|189020|gb|AAA36347.1| (M22918) non-muscle myosin light chain ...    85  4e-16
+SEQ gi|4959618|gb|AAD34422.1|AF084438_1 (AF084438) calmodulin mutant...    85  4e-16
+SEQ gi|115506|sp|P04352|CALM_CHLRE CALMODULIN >gi|71688|pir||MCKM ca...    85  4e-16
+SEQ gi|4959614|gb|AAD34418.1|AF084434_1 (AF084434) calmodulin mutant...    85  4e-16
+SEQ gi|162030|gb|AAA30174.1| (K02944) calmodulin A [Trypanosoma bruc...    85  4e-16
+SEQ gi|4959615|gb|AAD34419.1|AF084435_1 (AF084435) calmodulin mutant...    85  4e-16
+SEQ gi|4959616|gb|AAD34420.1|AF084436_1 (AF084436) calmodulin mutant...    85  4e-16
+SEQ gi|4959162|gb|AAD34259.1|AF084411_1 (AF084411) calmodulin mutant...    85  4e-16
+SEQ gi|225024|prf||1206346A calmodulin [Chlamydomonas reinhardtii]         85  4e-16
+SEQ gi|115521|sp|P11120|CALM_PLECO CALMODULIN >gi|71675|pir||MCMRP c...    85  5e-16
+SEQ gi|4335787|gb|AAD17455.1| (U91642) calmodulin [Pleurotus ostreat...    85  5e-16
+SEQ gi|4959146|gb|AAD34243.1|AF084395_1 (AF084395) calmodulin mutant...    85  5e-16
+SEQ gi|4959151|gb|AAD34248.1|AF084400_1 (AF084400) calmodulin mutant...    85  5e-16
+SEQ gi|4959150|gb|AAD34247.1|AF084399_1 (AF084399) calmodulin mutant...    85  5e-16
+SEQ gi|115484|sp|P27162|CAL1_PETHY CALMODULIN 1 >gi|71684|pir||MCPZD...    85  5e-16
+SEQ gi|4959599|gb|AAD34412.1|AF084428_1 (AF084428) calmodulin mutant...    85  6e-16
+SEQ gi|208092|gb|AAA72492.1| (M11334) synthetic calmodulin [syntheti...    85  6e-16
+SEQ gi|4959168|gb|AAD34265.1|AF084417_1 (AF084417) calmodulin mutant...    84  6e-16
+SEQ gi|4959169|gb|AAD34266.1|AF084418_1 (AF084418) calmodulin mutant...    84  6e-16
+SEQ gi|4959164|gb|AAD34261.1|AF084413_1 (AF084413) calmodulin mutant...    84  7e-16
+SEQ gi|2129978|pir||S60237 calmodulin PCM2/PCM4/PCM5/PCM6/PCM7/PCM8 ...    84  7e-16
+SEQ gi|3561059|gb|AAC61858.1| (AF083237) calmodulin mutant SYNCAM28 ...    84  7e-16
+SEQ gi|3561061|gb|AAC61859.1| (AF083238) calmodulin mutant SYNCAM29 ...    84  7e-16
+SEQ gi|4959617|gb|AAD34421.1|AF084437_1 (AF084437) calmodulin mutant...    84  7e-16
+SEQ gi|4959640|gb|AAD34433.1|AF084449_1 (AF084449) calmodulin mutant...    84  7e-16
+SEQ gi|3415119|gb|AAC31608.1| (AF081672) calmodulin [Gallus gallus]        84  8e-16
+SEQ gi|4930156|pdb|1VRK|A Chain A, The 1.9 Angstrom Structure Of E84...    84  8e-16
+SEQ gi|115511|sp|P13565|CALM_HORVU CALMODULIN >gi|231682|sp|P29612|C...    84  8e-16
+SEQ gi|7594877|dbj|BAA94696.1| (AB041711) calmodulin [Chara corallin...    84  8e-16
+SEQ gi|4959163|gb|AAD34260.1|AF084412_1 (AF084412) calmodulin mutant...    84  8e-16
+SEQ gi|4959646|gb|AAD34435.1|AF084451_1 (AF084451) calmodulin mutant...    84  8e-16
+SEQ gi|4885111|ref|NP_005176.1| calmodulin-like 3 [Homo sapiens] >gi...    84  8e-16
+SEQ gi|4959171|gb|AAD34268.1|AF084420_1 (AF084420) calmodulin mutant...    84  9e-16
+SEQ gi|640294|pdb|1CDM|A Chain A, Calmodulin Complexed With Calmodul...    84  9e-16
+SEQ gi|4959630|gb|AAD34428.1|AF084444_1 (AF084444) calmodulin mutant...    84  9e-16
+SEQ gi|115509|sp|P02594|CALM_ELEEL CALMODULIN >gi|71665|pir||MCEE ca...    84  9e-16
+SEQ gi|4959626|gb|AAD34426.1|AF084442_1 (AF084442) calmodulin mutant...    84  9e-16
+SEQ gi|4502549|ref|NP_001734.1| calmodulin 2 (phosphorylase kinase, ...    84  1e-15
+SEQ gi|4150908|emb|CAA77069.1| (Y18166) calmodulin [Suberites domunc...    84  1e-15
+SEQ gi|4959167|gb|AAD34264.1|AF084416_1 (AF084416) calmodulin mutant...    84  1e-15
+SEQ gi|4959648|gb|AAD34437.1|AF084453_1 (AF084453) calmodulin mutant...    84  1e-15
+SEQ gi|289525|gb|AAA16320.1| (L14071) calmodulin [Bryonia dioica]          84  1e-15
+SEQ gi|71662|pir||MCBO calmodulin [validated] - bovine >gi|71664|pir...    84  1e-15
+SEQ gi|157903|gb|AAA28692.1| (L08053) myosin alkali light chain [Dro...    84  1e-15
+SEQ gi|115516|sp|P02596|CALM_METSE CALMODULIN >gi|71672|pir||MCXAM c...    84  1e-15
+SEQ gi|4959144|gb|AAD34241.1|AF084393_1 (AF084393) calmodulin mutant...    84  1e-15
+SEQ gi|4959160|gb|AAD34257.1|AF084409_1 (AF084409) calmodulin mutant...    84  1e-15
+SEQ gi|4959645|gb|AAD34434.1|AF084450_1 (AF084450) calmodulin mutant...    84  1e-15
+SEQ gi|640287|pdb|1CDL|B Chain B, Calmodulin Complexed With Calmodul...    84  1e-15
+SEQ gi|4959147|gb|AAD34244.1|AF084396_1 (AF084396) calmodulin mutant...    84  1e-15
+SEQ gi|7508159|pir||T31737 hypothetical protein T21H3.3 - Caenorhabd...    84  1e-15
+SEQ gi|166655|gb|AAA32765.1| (M73712) calmodulin-3 [Arabidopsis thal...    84  1e-15
+SEQ gi|4959636|gb|AAD34430.1|AF084446_1 (AF084446) calmodulin mutant...    84  1e-15
+SEQ gi|4959647|gb|AAD34436.1|AF084452_1 (AF084452) calmodulin mutant...    84  1e-15
+SEQ gi|4885109|ref|NP_005175.1| calmodulin 3 (phosphorylase kinase, ...    84  1e-15
+SEQ gi|3136336|gb|AAC16663.1| (AF064552) calmodulin; Cam [Apium grav...    84  1e-15
+SEQ gi|4959588|gb|AAD34407.1|AF084423_1 (AF084423) calmodulin mutant...    84  1e-15
+SEQ gi|115508|sp|P07181|CALM_DROME CALMODULIN >gi|71666|pir||MCFF ca...    84  1e-15
+SEQ gi|115515|sp|P17928|CALM_MEDSA CALMODULIN >gi|71683|pir||MCAA ca...    84  1e-15
+SEQ gi|115520|sp|P24044|CALM_PLAFA CALMODULIN >gi|1070616|pir||MCZQF...    84  1e-15
+SEQ gi|2392137|pdb|1AHR|    Calmodulin Mutant With A Two Residue Del...    84  1e-15
+SEQ gi|4959604|gb|AAD34415.1|AF084431_1 (AF084431) calmodulin mutant...    84  1e-15
+SEQ gi|71667|pir||MCLQ calmodulin - migratory locust >gi|230968|pdb|...    84  1e-15
+SEQ gi|4959594|gb|AAD34410.1|AF084426_1 (AF084426) calmodulin mutant...    84  1e-15
+SEQ gi|4959157|gb|AAD34254.1|AF084406_1 (AF084406) calmodulin mutant...    84  1e-15
+SEQ gi|4959613|gb|AAD34417.1|AF084433_1 (AF084433) calmodulin mutant...    84  1e-15
+SEQ gi|3121848|sp|P93087|CALM_CAPAN CALMODULIN >gi|1835521|gb|AAB465...    84  1e-15
+SEQ gi|115522|sp|P11121|CALM_PYUSP CALMODULIN >gi|71670|pir||MCAZS c...    83  1e-15
+SEQ gi|14250065|gb|AAH08437.1|AAH08437 (BC008437) calmodulin 2 (phos...    83  1e-15
+SEQ gi|2181205|emb|CAA73906.1| (Y13578) calmodulin [Ciona intestinalis]    83  1e-15
+SEQ gi|4959154|gb|AAD34251.1|AF084403_1 (AF084403) calmodulin mutant...    83  1e-15
+SEQ gi|4959159|gb|AAD34256.1|AF084408_1 (AF084408) calmodulin mutant...    83  2e-15
+SEQ gi|4959143|gb|AAD34240.1|AF084392_1 (AF084392) calmodulin mutant...    83  2e-15
+SEQ gi|1402947|emb|CAA67054.1| (X98404) calmodulin-2 [Capsicum annuum]     83  2e-15
+SEQ gi|4959161|gb|AAD34258.1|AF084410_1 (AF084410) calmodulin mutant...    83  2e-15
+SEQ gi|1084453|pir||JC1094 calmodulin - rice                               83  2e-15
+SEQ gi|4959600|gb|AAD34413.1|AF084429_1 (AF084429) calmodulin mutant...    83  2e-15
+SEQ gi|4959625|gb|AAD34425.1|AF084441_1 (AF084441) calmodulin mutant...    83  2e-15
+SEQ gi|2809481|gb|AAC36058.1| (AF042839) calmodulin [Oryza sativa]         83  2e-15
+SEQ gi|2147165|pir||S58311 calmodulin - Bidens pilosa >gi|939860|emb...    83  2e-15
+SEQ gi|4959598|gb|AAD34411.1|AF084427_1 (AF084427) calmodulin mutant...    83  2e-15
+SEQ gi|71660|pir||MCRB calmodulin - rabbit (tentative sequence) >gi|...    83  2e-15
+SEQ gi|4959637|gb|AAD34431.1|AF084447_1 (AF084447) calmodulin mutant...    83  2e-15
+SEQ gi|20186|emb|CAA46150.1| (X65016) calmodulin [Oryza sativa] >gi|...    83  2e-15
+SEQ gi|4959612|gb|AAD34416.1|AF084432_1 (AF084432) calmodulin mutant...    83  2e-15
+SEQ gi|100665|pir||S22860 calmodulin 2 (clone lambda DASH) - rice >g...    83  2e-15
+SEQ gi|12851157|dbj|BAB28959.1| (AK013695) putative [Mus musculus]         83  2e-15
+SEQ gi|4959166|gb|AAD34263.1|AF084415_1 (AF084415) calmodulin mutant...    83  2e-15
+SEQ gi|115524|sp|P13868|CALM_SOLTU CALMODULIN >gi|71687|pir||MCPO ca...    83  2e-15
+SEQ gi|4468115|emb|CAB38169.1| (AJ133486) calmodulin 2 [Branchiostom...    83  2e-15
+SEQ gi|115526|sp|P21251|CALM_STIJA CALMODULIN >gi|71669|pir||MCSFCU ...    83  2e-15
+SEQ gi|4959638|gb|AAD34432.1|AF084448_1 (AF084448) calmodulin mutant...    83  2e-15
+SEQ gi|157900|gb|AAA28690.1| (L08052) myosin alkali light chain [Dro...    83  2e-15
+SEQ gi|1754999|gb|AAC49582.1| (U48691) calmodulin TaCaM2-2 [Triticum...    83  3e-15
+SEQ gi|115518|sp|P02595|CALM_PATSP CALMODULIN >gi|71671|pir||MCSW ca...    83  3e-15
+SEQ gi|2623680|gb|AAB86496.1| (AF031482) calmodulin [Zea mays]             83  3e-15
+SEQ gi|3800851|gb|AAC68892.1| (AF081671) VU91D calmodulin [synthetic...    83  3e-15
+SEQ gi|4959635|gb|AAD34429.1|AF084445_1 (AF084445) calmodulin mutant...    83  3e-15
+SEQ gi|4959172|gb|AAD34269.1|AF084421_1 (AF084421) calmodulin mutant...    83  3e-15
+SEQ gi|10177165|dbj|BAB10354.1| (AB016873) calmodulin-like protein [...    83  3e-15
+SEQ gi|1705567|sp|P53440|CALF_NAEGR CALMODULIN, FLAGELLAR (CAM-1) >g...    82  3e-15
+SEQ gi|4959145|gb|AAD34242.1|AF084394_1 (AF084394) calmodulin mutant...    82  3e-15
+SEQ gi|4959156|gb|AAD34253.1|AF084405_1 (AF084405) calmodulin mutant...    82  3e-15
+SEQ gi|2119362|pir||I49567 calmodulin - mouse >gi|469422|gb|AAA66182...    82  3e-15
+SEQ gi|4959622|gb|AAD34424.1|AF084440_1 (AF084440) calmodulin mutant...    82  3e-15
+SEQ gi|4959593|gb|AAD34409.1|AF084425_1 (AF084425) calmodulin mutant...    82  4e-15
+SEQ gi|167676|gb|AAA33171.1| (M13009) calmodulin [Dictyostelium disc...    82  4e-15
+SEQ gi|729012|sp|P41041|CALM_PNECA CALMODULIN >gi|542206|pir||JN0722...    82  4e-15
+SEQ gi|1345660|sp|P48976|CALM_MALDO CALMODULIN >gi|505152|emb|CAA431...    82  4e-15
+SEQ gi|3336912|emb|CAA74111.1| (Y13784) Calmodulin [Mougeotia scalaris]    82  4e-15
+SEQ gi|157897|gb|AAA28688.1| (L08051) myosin alkali light chain [Dro...    82  5e-15
+SEQ gi|4959621|gb|AAD34423.1|AF084439_1 (AF084439) calmodulin mutant...    82  5e-15
+SEQ gi|115513|sp|P27161|CALM_LYCES CALMODULIN >gi|170396|gb|AAA34144...    82  5e-15
+SEQ gi|7270969|emb|CAB40132.2| (AJ133836) calmodulin 2 [Branchiostom...    82  5e-15
+SEQ gi|1076793|pir||S51933 calmodulin cam2 - maize >gi|747917|emb|CA...    82  5e-15
+SEQ gi|6498422|dbj|BAA87825.1| (AP000815) ESTs AU030013(E50493),AU08...    82  5e-15
+SEQ gi|7441481|pir||T02887 probable calmodulin - rice >gi|1235664|gb...    82  5e-15
+SEQ gi|157951|gb|AAA28712.1| (M10125) pupa myosin alkali light chain...    81  6e-15
+SEQ gi|4103959|gb|AAD10245.1| (AF030033) calmodulin [Phaseolus vulga...    81  6e-15
+SEQ gi|576081|pdb|1DEG|    Calmodulin Mutant With Glu 84 Deleted (De...    81  6e-15
+SEQ gi|115503|sp|P15094|CALM_ACHKL CALMODULIN >gi|71674|pir||MCUMAK ...    81  6e-15
+SEQ gi|729010|sp|P41040|CALM_MAIZE CALMODULIN >gi|481907|pir||S40086...    81  6e-15
+SEQ gi|587454|emb|CAA56517.1| (X80231) calmodulin [Leishmania tarent...    81  6e-15
+SEQ gi|3913191|sp|Q39752|CALM_FAGSY CALMODULIN >gi|1296524|emb|CAA66...    81  7e-15
+SEQ gi|4959142|gb|AAD34239.1|AF084391_1 (AF084391) calmodulin mutant...    81  9e-15
+SEQ gi|1168748|sp|Q03510|CAL4_ARATH CALMODULIN-4 >gi|479693|pir||S35...    81  9e-15
+SEQ gi|8131969|gb|AAF73157.1|AF150059_1 (AF150059) calmodulin [Brass...    81  9e-15
+SEQ gi|71692|pir||MCCKA calmodulin - yeast (Candida albicans)              81  1e-14
+SEQ gi|115500|sp|P05932|CALL_ARBPU CALMODULIN BETA >gi|85333|pir||S0...    81  1e-14
+SEQ gi|1168751|sp|P23286|CALM_CANAL CALMODULIN >gi|7597005|gb|AAA343...    81  1e-14
+SEQ gi|223218|prf||0608335A calmodulin [Bos taurus]                        81  1e-14
+SEQ gi|1362058|pir||JC1033 calmodulin - garden pea                         80  1e-14
+SEQ gi|13430172|gb|AAK25753.1|AF334833_1 (AF334833) calmodulin [Cast...    80  1e-14
+SEQ gi|16225|emb|CAA78058.1| (Z12023) calmodulin [Arabidopsis thaliana]    80  1e-14
+SEQ gi|85332|pir||S02690 calmodulin A - sea urchin (Arbacia punctula...    80  1e-14
+SEQ gi|1076792|pir||S51932 calmodulin cam1 - maize >gi|747915|emb|CA...    80  1e-14
+SEQ gi|127141|sp|P11783|MLEG_HUMAN MYOSIN LIGHT CHAIN ALKALI, GT-1 I...    80  2e-14
+SEQ gi|115532|sp|P04464|CALM_WHEAT CALMODULIN >gi|71686|pir||MCWT ca...    80  2e-14
+SEQ gi|4379369|emb|CAA62150.1| (X90560) Calmodulin [Physcomitrella p...    80  2e-14
+SEQ gi|729011|sp|Q02052|CALM_NEUCR CALMODULIN >gi|1360745|pir||S5870...    80  2e-14
+SEQ gi|6630454|gb|AAF19542.1|AC007190_10 (AC007190) F23N19.18 [Arabi...    79  2e-14
+SEQ gi|222925|dbj|BAA01195.1| (D10363) calmodulin [Oryzias latipes] ...    79  2e-14
+SEQ gi|115504|sp|P19533|CALM_EMENI CALMODULIN >gi|71691|pir||MCAS ca...    79  3e-14
+SEQ gi|4028590|gb|AAC96324.1| (AF104986) calmodulin [Magnaporthe gri...    79  3e-14
+SEQ gi|1292710|emb|CAA66159.1| (X97558) calmodulin-1 [Capsicum annuum]     79  3e-14
+SEQ gi|7441484|pir||T06437 calmodulin - garden pea >gi|535428|gb|AAA...    79  3e-14
+SEQ gi|228408|prf||1803520B calmodulin 1 [Arabidopsis thaliana]            79  3e-14
+SEQ gi|8778650|gb|AAF79658.1|AC025416_32 (AC025416) F5O11.4 [Arabido...    79  4e-14
+SEQ gi|4585219|gb|AAD25331.1| (AF103729) calmodulin [Magnaporthe gri...    79  4e-14
+SEQ gi|115489|sp|P27163|CAL2_PETHY CALMODULIN 2 >gi|2129973|pir||S70...    79  5e-14
+SEQ gi|4033343|emb|CAA10472.1| (AJ131662) calmodulin-like protein Ca...    78  5e-14
+SEQ gi|12862373|dbj|BAB32439.1| (AB055386) calmodulin [Clemmys japon...    78  5e-14
+SEQ gi|3913184|sp|O60041|CALM_KLULA CALMODULIN >gi|3115267|emb|CAA05...    78  6e-14
+SEQ gi|9874|emb|CAA40264.1| (X56950) calmodulin [Plasmodium falcipar...    78  6e-14
+SEQ gi|115480|sp|P25854|CAL1_ARATH CALMODULIN-1 >gi|11276989|pir||T5...    78  6e-14
+SEQ gi|2119353|pir||S58314 calmodulin - moss (Physcomitrella patens)       78  1e-13
+SEQ gi|4581213|emb|CAB40133.1| (AJ133837) calmodulin-like protein [B...    77  1e-13
+SEQ gi|7441485|pir||T08585 calmodulin - soybean >gi|170076|gb|AAA340...    77  1e-13
+SEQ gi|189017|gb|AAA59892.1| (M22919) smooth muscle myosin light cha...    77  1e-13
+SEQ gi|11994722|dbj|BAB03038.1| (AP001300) contains similarity to ca...    77  1e-13
+SEQ gi|168777|gb|AAA33569.1| (L02963) calmodulin [Neurospora crassa]       77  1e-13
+SEQ gi|2832598|emb|CAA04527.1| (AJ001092) calmodulin-like protein [B...    76  2e-13
+SEQ gi|484660|pir||JU0232 calmodulin - fungus (Fusarium oxysporum) (...    76  2e-13
+SEQ gi|7161883|emb|CAB76569.1| (AJ271913) putative calmodulin [Oryza...    76  2e-13
+SEQ gi|7441483|pir||T06791 calmodulin TaCaM2-1 - wheat >gi|1754997|g...    76  3e-13
+SEQ gi|7441482|pir||T07122 calmodulin CAM5 - soybean >gi|310563|gb|A...    74  1e-12
+SEQ gi|2119360|pir||S60234 calmodulin (clone PCM2) - potato (fragmen...    74  1e-12
+SEQ gi|115534|sp|P05419|CALN_CHICK NEO-CALMODULIN (NEOCAM) >gi|86214...    74  1e-12
+SEQ gi|3378652|emb|CAA06306.1| (AJ005039) CaM-1 [Nicotiana plumbagin...    74  1e-12
+SEQ gi|14286110|sp|P49258|CALL_DROME CALMODULIN RELATED PROTEIN 97A ...    73  2e-12
+SEQ gi|7505267|pir||T23300 hypothetical protein K04C1.4 - Caenorhabd...    73  2e-12
+SEQ gi|6319585|ref|NP_009667.1| Calmodulin; Cmd1p [Saccharomyces cer...    73  3e-12
+SEQ gi|452435|emb|CAA53630.1| (X76045) calmodulin related [Drosophil...    73  3e-12
+SEQ gi|1292853|emb|CAA66148.1| (X97546) CaMF [Fagus sylvatica]             72  3e-12
+SEQ gi|508526|gb|AAA65934.1| (L31642) calmodulin [Mus musculus]            72  5e-12
+SEQ gi|7495920|pir||T19229 hypothetical protein C13C12.1 - Caenorhab...    71  8e-12
+SEQ gi|7441458|pir||A71409 calmodulin 8 [imported] - Arabidopsis tha...    71  9e-12
+SEQ gi|2119361|pir||S60235 calmodulin PCM3 - potato (fragment) >gi|6...    71  9e-12
+SEQ gi|2677834|gb|AAB88792.1| (AF020781) calmodulin [Symbiodinium mi...    71  1e-11
+SEQ gi|13544110|gb|AAH06182.1|AAH06182 (BC006182) Similar to calmodu...    70  1e-11
+SEQ gi|115523|sp|P05933|CALM_SCHPO CALMODULIN >gi|71693|pir||MCZP ca...    70  2e-11
+SEQ gi|127187|sp|P08053|MLR_PHYPO MYOSIN REGULATORY LIGHT CHAIN (CAL...    70  2e-11
+SEQ gi|161233|gb|AAA29978.1| (J03499) myosin calcium-binding light c...    70  2e-11
+SEQ gi|84163|pir||A29910 myosin calcium-binding light chain - slime ...    70  2e-11
+SEQ gi|14044088|gb|AAH07965.1|AAH07965 (BC007965) calmodulin 2 (phos...    69  4e-11
+SEQ gi|1654359|gb|AAB17871.1| (U67860) myosin IC light chain [Acanth...    68  5e-11
+SEQ gi|1705642|sp|P53441|CATR_NAEGR CALTRACTIN (CENTRIN) >gi|972963|...    68  6e-11
+SEQ gi|3800845|gb|AAC68889.1| (AF081668) VU91A calmodulin [synthetic...    68  6e-11
+SEQ gi|115501|sp|P04630|CALL_CAEEL CALMODULIN-LIKE PROTEIN >gi|84421...    68  1e-10
+SEQ gi|13430170|gb|AAK25752.1|AF334832_1 (AF334832) calmodulin [Cast...    68  1e-10
+SEQ gi|7496296|pir||T19401 hypothetical protein C18E9.1 - Caenorhabd...    68  1e-10
+SEQ gi|9910190|ref|NP_064420.1| DD112 protein [Mus musculus] >gi|770...    67  1e-10
+SEQ gi|2388889|emb|CAA75056.1| (Y14764) calmodulin [Lycopersicon esc...    67  1e-10
+SEQ gi|14285418|sp|Q9JM83|D112_MOUSE PROBABLE CALCIUM-BINDING PROTEI...    67  1e-10
+SEQ gi|115527|sp|P05934|CALM_STRPU CALMODULIN                              66  2e-10
+SEQ gi|2464957|emb|CAA05092.1| (AJ001919) calmodulin [Branchiostoma ...    66  3e-10
+SEQ gi|476851|pir||A45940 calmodulin - sea urchin (Strongylocentrotu...    66  3e-10
+SEQ gi|4103963|gb|AAD10247.1| (AF030035) calmodulin [Phaseolus vulga...    66  3e-10
+SEQ gi|12834444|dbj|BAB22914.1| (AK003648) putative [Mus musculus]         66  3e-10
+SEQ gi|4103965|gb|AAD10248.1| (AF030036) calmodulin [Phaseolus vulga...    66  4e-10
+SEQ gi|10835616|pdb|1F71|A Chain A, Refined Solution Structure Of Ca...    65  4e-10
+SEQ gi|6321332|ref|NP_011409.1| light chain for myosin Myo2p; Mlc1p ...    65  4e-10
+SEQ gi|1311053|pdb|1CMF|    Nmr Solution Structure Of Apo Calmodulin...    65  6e-10
+SEQ gi|2959326|emb|CAA04528.1| (AJ001093) calmodulin-like protein [B...    65  7e-10
+SEQ gi|14278166|pdb|1FW4|A Chain A, Crystal Structure Of E. Coli Fra...    64  8e-10
+SEQ gi|462605|sp|P09402|MLE_DICDI MYOSIN, ESSENTIAL LIGHT CHAIN (MYO...    64  9e-10
+SEQ gi|84131|pir||A28127 myosin light chain, nonmuscle [similarity] ...    64  9e-10
+SEQ gi|8977812|emb|CAB95709.1| (AJ249588) calmodulin-like protein 2 ...    64  9e-10
+SEQ gi|231700|sp|P30187|CBP2_ARATH 22 KDA CALMODULIN-LIKE CALCIUM-BI...    63  2e-09
+SEQ gi|13775556|gb|AAK39364.1| (AC084159) Hypothetical protein Y73B3...    63  2e-09
+SEQ gi|13786970|pdb|1GGW|A Chain A, Cdc4p From Schizosaccharomyces P...    63  3e-09
+SEQ gi|7490520|pir||T39245 ef-hand protein - fission yeast (Schizosa...    63  3e-09
+SEQ gi|7507402|pir||T24672 hypothetical protein T07G12.1 - Caenorhab...    63  3e-09
+SEQ gi|7304941|ref|NP_038906.1| calcium binding protein 2 [Mus muscu...    63  3e-09
+SEQ gi|1582816|prf||2119321A EF hand protein [Schizosaccharomyces po...    63  3e-09
+SEQ gi|4098295|gb|AAD10277.1| (U76703) calmodulin [Acacia mangium x ...    62  4e-09
+SEQ gi|6665648|gb|AAF22954.1|AF119163_1 (AF119163) cardiac mysosin l...    62  5e-09
+SEQ gi|11994750|dbj|BAB03079.1| (AP001313) calmodulin-like protein [...    62  5e-09
+SEQ gi|111238|pir||S25629 myosin alkali light chain, ventricular - m...    61  6e-09
+SEQ gi|1785955|gb|AAB41135.1| (U38786) calmodulin [Trichomonas vagin...    61  7e-09
+SEQ gi|5640002|emb|CAB51566.1| (X05950) calmodulin [Drosophila melan...    61  9e-09
+SEQ gi|4757974|ref|NP_004057.1| centrin 1; Centrin-1; EF-hand protei...    61  9e-09
+SEQ gi|13431342|sp|P57796|CAB4_HUMAN CALCIUM-BINDING PROTEIN CABP4         61  1e-08
+SEQ gi|115390|sp|P14533|CABO_LOLPE SQUIDULIN (OPTIC LOBE CALCIUM-BIN...    61  1e-08
+SEQ gi|127182|sp|P13833|MLR_DICDI MYOSIN REGULATORY LIGHT CHAIN (RML...    60  1e-08
+SEQ gi|7490176|pir||T38484 calmodulin - fission yeast (Schizosacchar...    60  1e-08
+SEQ gi|7705312|ref|NP_057450.1| calcium binding protein 2, isoform 1...    60  1e-08
+SEQ gi|9795603|gb|AAF98421.1|AC026238_13 (AC026238) Similar to calmo...    60  2e-08
+SEQ gi|3021331|emb|CAA11243.1| (AJ223302) calmodulin-like protein [B...    60  2e-08
+SEQ gi|1705641|sp|P54213|CATR_DUNSA CALTRACTIN (CENTRIN) >gi|7441476...    60  2e-08
+SEQ gi|2183227|gb|AAB60882.1| (AF001981) calmodulin-like protein [Di...    60  2e-08
+SEQ gi|543936|sp|Q06827|CATR_SCHDU CALTRACTIN (CENTRIN) >gi|631935|p...    60  2e-08
+SEQ gi|577243|gb|AAA53449.1| (L37317) myosin alkali light chain [Dro...    60  2e-08
+SEQ gi|13431354|sp|Q9N1Q9|CAB2_BOVIN CALCIUM-BINDING PROTEIN CABP2 >...    59  2e-08
+SEQ gi|577234|gb|AAA53445.1| (L37314) myosin alkali light chain [Dro...    59  2e-08
+SEQ gi|6708076|gb|AAF25790.1|AF169156_1 (AF169156) S-CaBP2 [Mus musc...    59  3e-08
+SEQ gi|8920599|gb|AAF81321.1|AC007767_1 (AC007767) Contains similari...    59  3e-08
+SEQ gi|4098293|gb|AAD09590.1| (U76689) calmodulin protein [Pinus taeda]    59  3e-08
+SEQ gi|115745|sp|P05434|CATR_CHLRE CALTRACTIN (CENTRIN) (20 KD CALCI...    59  3e-08
+SEQ gi|1399216|gb|AAB03218.1| (U57550) calmodulin-like myosin-light ...    59  3e-08
+SEQ gi|7441462|pir||JW0063 fast skeletal troponin C beta - African c...    59  4e-08
+SEQ gi|1168797|sp|P43646|CATR_TETST CALTRACTIN (CENTRIN)                   59  4e-08
+SEQ gi|6680838|ref|NP_031619.1| centrin 1 [Mus musculus] >gi|729053|...    59  4e-08
+SEQ gi|2119366|pir||I51690 myosin II regulatory light chain, smooth ...    59  4e-08
+SEQ gi|12838467|dbj|BAB24213.1| (AK005736) putative [Mus musculus]         59  4e-08
+SEQ gi|11067753|ref|NP_062829.1| calcium binding protein 5 [Homo sap...    59  5e-08
+SEQ gi|7441461|pir||JW0062 fast skeletal troponin C alpha - African ...    58  5e-08
+SEQ gi|577228|gb|AAA53441.1| (L37312) myosin alkali light chain [Dro...    58  6e-08
+SEQ gi|10257421|ref|NP_062278.2| caltractin, 20 kDa calcium binding ...    58  6e-08
+SEQ gi|13929436|ref|NP_112481.1| calcium binding protein 2, isoform ...    58  7e-08
+SEQ gi|231093|pdb|4TNC|    Troponin C                                      58  7e-08
+SEQ gi|12840252|dbj|BAB24798.1| (AK006940) putative [Mus musculus]         58  7e-08
+SEQ gi|136042|sp|P02588|TPCS_CHICK TROPONIN C, SKELETAL MUSCLE >gi|7...    58  8e-08
+SEQ gi|229450|prf||731112A troponin C [Oryctolagus cuniculus]              58  8e-08
+SEQ gi|494663|pdb|1TOP|    Troponin C >gi|1942982|pdb|1NCX|  Troponi...    58  8e-08
+SEQ gi|7304128|gb|AAF59165.1| (AE003839) CG11165 gene product [Droso...    58  9e-08
+SEQ gi|2920835|gb|AAC04626.1| (U92973) centrin [Marsilea vestita]          58  9e-08
+SEQ gi|6358509|gb|AAF07221.1|AF072519_1 (AF072519) centrin [Nicotian...    58  1e-07
+SEQ gi|5869979|emb|CAB55606.1| (AJ249456) putative centrin [Trichomo...    58  1e-07
+SEQ gi|666076|emb|CAA58718.1| (X83765) centrin [Micromonas pusilla]        58  1e-07
+SEQ gi|12846064|dbj|BAB27017.1| (AK010541) putative [Mus musculus]         57  1e-07
+SEQ gi|231183|pdb|5TNC|    Troponin-C                                      57  1e-07
+SEQ gi|1017791|gb|AAA79194.1| (U37538) centrin [Xenopus laevis]            57  1e-07
+SEQ gi|13924997|gb|AAK49205.1| (AF255030) calmodulin [Aspergillus le...    57  1e-07
+SEQ gi|5869981|emb|CAB55607.1| (AJ249457) centrin, putative [Trichom...    57  1e-07
+SEQ gi|212778|gb|AAA49097.1| (M19027) troponin C [Gallus gallus]           57  2e-07
+SEQ gi|7301383|gb|AAF56510.1| (AE003753) CG17770 gene product [Droso...    57  2e-07
+SEQ gi|136048|sp|P02589|TPCS_RANES TROPONIN C, SKELETAL MUSCLE >gi|7...    57  2e-07
+SEQ gi|136044|sp|P10246|TPCS_MELGA TROPONIN C, SKELETAL MUSCLE >gi|8...    57  2e-07
+SEQ gi|7289491|gb|AAF45414.1| (AE002910) CG17493 gene product [Droso...    56  2e-07
+SEQ gi|1066376|gb|AAC37285.1| (L49014) larval and non-IFM isoform [D...    56  2e-07
+SEQ gi|1311230|pdb|1TNW|    Ef-Hand Mol_id: 1; Molecule: Troponin C;...    56  2e-07
+SEQ gi|136047|sp|P02586|TPCS_RABIT TROPONIN C, SKELETAL MUSCLE >gi|2...    56  2e-07
+SEQ gi|223032|prf||0408496A troponin C [Oryctolagus cuniculus]             56  2e-07
+SEQ gi|3402179|pdb|1A2X|A Chain A, Complex Of Troponin C With A 47 R...    56  2e-07
+SEQ gi|7304943|ref|NP_038905.1| calcium binding protein 5 [Mus muscu...    56  2e-07
+SEQ gi|1220372|gb|AAA91854.1| (M22307) troponin C [Homo sapiens]           56  2e-07
+SEQ gi|1066364|gb|AAC37276.1| (L49010) larval and non-IFM isoform [D...    56  2e-07
+SEQ gi|4335734|gb|AAD17412.1| (AC006248) putative calmodulin-like pr...    56  2e-07
+SEQ gi|12841867|dbj|BAB25381.1| (AK007972) putative [Mus musculus] >...    56  2e-07
+SEQ gi|71652|pir||TPPGCS troponin C, skeletal muscle - pig                 56  2e-07
+SEQ gi|2506247|sp|P02587|TPCS_PIG TROPONIN C, SKELETAL MUSCLE              56  2e-07
+SEQ gi|6358511|gb|AAF07222.1|AF072520_1 (AF072520) centrin [Nicotian...    56  2e-07
+SEQ gi|13630186|ref|XP_009501.3| myosin regulatory light chain 2, sm...    56  2e-07
+SEQ gi|127173|sp|P29269|MLRN_PIG MYOSIN REGULATORY LIGHT CHAIN 2, SM...    56  2e-07
+SEQ gi|4757902|ref|NP_004335.1| caltractin; caltractin (20kD calcium...    56  2e-07
+SEQ gi|127171|sp|P24032|MLRN_CHICK MYOSIN REGULATORY LIGHT CHAIN 2, ...    56  3e-07
+SEQ gi|577249|gb|AAA53453.1| (L37319) myosin alkali light chain [Dro...    56  3e-07
+SEQ gi|3114409|pdb|1TN4|    Four Calcium Tnc >gi|3212621|pdb|1TCF|  ...    56  3e-07
+SEQ gi|14285585|sp|Q24656|MLC1_DROSE MYOSIN LIGHT CHAIN ALKALI (CATA...    56  3e-07
+SEQ gi|7441463|pir||JW0065 fast skeletal troponin C - Entosphenus ja...    56  3e-07
+SEQ gi|4507617|ref|NP_003270.1| troponin C2, fast [Homo sapiens] >gi...    56  3e-07
+SEQ gi|482690|pir||A61034 myosin regulatory light chain, cellular - ...    56  3e-07
+SEQ gi|7295759|gb|AAF51062.1| (AE003578) CG10022 gene product [Droso...    56  3e-07
+SEQ gi|127168|sp|P02612|MLRM_CHICK MYOSIN REGULATORY LIGHT CHAIN 2, ...    56  4e-07
+SEQ gi|5174603|ref|NP_006088.1| myosin regulatory light chain 2, smo...    56  4e-07
+SEQ gi|577273|gb|AAA53469.1| (L37327) myosin alkali light chain [Dro...    56  4e-07
+SEQ gi|1066373|gb|AAC37283.1| (L49013) larval and non-IFM isoform [D...    56  4e-07
+SEQ gi|2655175|gb|AAB87897.1| (AF025812) myosin alkali light chain 1...    56  4e-07
+SEQ gi|14285584|sp|Q24399|MLC1_DROMA MYOSIN LIGHT CHAIN ALKALI (CATA...    55  4e-07
+SEQ gi|6678371|ref|NP_033420.1| troponin C, fast skeletal [Mus muscu...    55  4e-07
+SEQ gi|1066367|gb|AAC37279.1| (L49011) larval and non-IFM isoform [D...    55  5e-07
+SEQ gi|14285586|sp|Q24695|MLC1_DROTE MYOSIN LIGHT CHAIN ALKALI (CATA...    55  5e-07
+SEQ gi|577261|gb|AAA53461.1| (L37323) myosin alkali light chain [Dro...    55  5e-07
+SEQ gi|2498032|sp|Q64122|MLRN_RAT MYOSIN REGULATORY LIGHT CHAIN 2, S...    55  5e-07
+SEQ gi|577240|gb|AAA56798.1| (L37316) myosin alkali light chain [Dro...    55  5e-07
+SEQ gi|2119350|pir||A56785 calmodulin - pig (fragment)                     55  6e-07
+SEQ gi|11065773|emb|CAC14331.1| (AL445944) possible calmodulin [Leis...    55  6e-07
+SEQ gi|10727284|gb|AAG22243.1| (AE003479) Eip63F-1 gene product [Dro...    55  7e-07
+SEQ gi|1352331|sp|P48593|E631_DROME CALCIUM-BINDING PROTEIN E63-1 >g...    54  8e-07
+SEQ gi|213622|gb|AAA49502.1| (M29722) troponin C [Coturnix coturnix]       54  9e-07
+SEQ gi|8810461|gb|AAF80122.1|AC024174_4 (AC024174) Contains similari...    54  9e-07
+SEQ gi|1168796|sp|P43645|CATR_SPESI CALTRACTIN (CENTRIN)                   54  9e-07
+SEQ gi|13431355|sp|Q9N1R0|CAB1_BOVIN CALCIUM-BINDING PROTEIN CABP1 >...    54  9e-07
+SEQ gi|13431353|sp|Q9N1Q8|CAB5_BOVIN CALCIUM-BINDING PROTEIN CABP5 >...    54  1e-06
+SEQ gi|13929432|ref|NP_112482.1| calcium binding protein 1, isoform ...    54  1e-06
+SEQ gi|577244|gb|AAA53450.1| (L37317) myosin alkali light chain [Dro...    54  1e-06
+SEQ gi|14285798|sp|P81660|TPCS_ANGAN TROPONIN C, SKELETAL MUSCLE (TN...    54  1e-06
+SEQ gi|665656|emb|CAA58719.1| (X83766) centrin [Pterosperma cristatum]     54  1e-06
+SEQ gi|6680922|ref|NP_031710.1| centrin 3 [Mus musculus] >gi|6225101...    54  1e-06
+SEQ gi|12848188|dbj|BAB27862.1| (AK011821) putative [Mus musculus]         54  1e-06
+SEQ gi|577235|gb|AAA53446.1| (L37314) myosin alkali light chain [Dro...    54  1e-06
+SEQ gi|112009|pir||S11632 myosin regulatory light chain B - rat            54  1e-06
+SEQ gi|7672693|gb|AAF66602.1|AF141944_1 (AF141944) centrin [Tetrahym...    54  1e-06
+SEQ gi|2654179|gb|AAB87698.1| (AF034988) calmodulin [Sus scrofa]           54  1e-06
+SEQ gi|13529248|gb|AAH05383.1|AAH05383 (BC005383) centrin, EF-hand p...    54  1e-06
+SEQ gi|2460249|gb|AAB91994.1| (AF020769) cardiac ventricular troponi...    54  1e-06
+SEQ gi|729051|sp|P41210|CATR_ATRNU CALTRACTIN (CENTRIN) >gi|444342|p...    54  1e-06
+SEQ gi|4757976|ref|NP_004356.1| centrin 3; EF-hand protein superfami...    54  1e-06
+SEQ gi|7304939|ref|NP_038907.1| calcium binding protein 1 [Mus muscu...    54  1e-06
+SEQ gi|7291999|gb|AAF47414.1| (AE003469) CG13898 gene product [Droso...    54  1e-06
+SEQ gi|14530752|emb|CAC42417.1| (AJ315657) Caldendrin, isoform S2 [R...    54  2e-06
+SEQ gi|12060826|gb|AAG48255.1|AF308287_1 (AF308287) serologically de...    53  2e-06
+SEQ gi|3212433|pdb|1AJ4|    Structure Of Calcium-Saturated Cardiac T...    53  2e-06
+SEQ gi|1667586|gb|AAC47490.1| (U76540) ICL1d centrin [Paramecium tet...    53  2e-06
+SEQ gi|5453740|ref|NP_006462.1| myosin, light polypeptide, regulator...    53  2e-06
+SEQ gi|136050|sp|P15159|TPC_TACTR TROPONIN C >gi|84675|pir||JX0072 t...    53  2e-06
+SEQ gi|2493443|sp|Q27179|CAT2_PARTE CALTRACTIN ICL1B (CENTRIN) >gi|7...    53  2e-06
+SEQ gi|2493444|sp|Q27178|CAT3_PARTE CALTRACTIN ICL1C (CENTRIN) >gi|7...    53  2e-06
+SEQ gi|1276637|gb|AAC47157.1| (U35396) centrin ICL1c [Paramecium tet...    53  3e-06
+SEQ gi|1276639|gb|AAC47158.1| (U35397) centrin ICL1b [Paramecium tet...    53  3e-06
+SEQ gi|136036|sp|P09860|TPCC_CHICK TROPONIN C, SLOW SKELETAL AND CAR...    53  3e-06
+SEQ gi|11276990|pir||T49012 calmodulin-like protein - Arabidopsis th...    52  3e-06
+SEQ gi|13559989|emb|CAC36110.1| (AL050348) dJ447F3.5.2 (fast troponi...    52  3e-06
+SEQ gi|71708|pir||MOHUL2 myosin regulatory light chain 2, slow ventr...    52  3e-06
+SEQ gi|7484831|pir||T02109 calmodulin-related protein T3K9.13 - Arab...    52  3e-06
+SEQ gi|136037|sp|P05936|TPCC_COTJA TROPONIN C, SLOW SKELETAL AND CAR...    52  3e-06
+SEQ gi|577229|gb|AAA53442.1| (L37312) myosin alkali light chain [Dro...    52  3e-06
+SEQ gi|3123296|sp|P25071|TCH3_ARATH CALMODULIN-RELATED PROTEIN 3, TO...    52  3e-06
+SEQ gi|1176900|sp|Q09665|YS57_CAEEL HYPOTHETICAL CALCIUM-BINDING PRO...    52  3e-06
+SEQ gi|14550532|gb|AAH09516.1|AAH09516 (BC009516) Unknown (protein f...    52  3e-06
+SEQ gi|2493442|sp|Q27177|CAT1_PARTE CALTRACTIN ICL1A (CENTRIN) >gi|7...    52  4e-06
+SEQ gi|14192912|gb|AAK55795.1|AC010555_9 (AC010555) Leishmania Calmo...    52  4e-06
+SEQ gi|228753|prf||1810397A myosin:SUBUNIT=light chain:ISOTYPE=II [A...    52  4e-06
+SEQ gi|7298440|gb|AAF53662.1| (AE003658) CG15158 gene product [Droso...    52  4e-06
+SEQ gi|127170|sp|P13832|MLRA_RAT MYOSIN REGULATORY LIGHT CHAIN 2-A, ...    52  5e-06
+SEQ gi|2464879|emb|CAB16762.1| (Z99707) caltractin-like protein [Ara...    52  5e-06
+SEQ gi|1945537|dbj|BAA19736.1| (AB003080) cardiac troponin C [Xenopu...    52  5e-06
+SEQ gi|6708064|gb|AAF25784.1|AF169150_1 (AF169150) S-CaBP1 [Bos taur...    52  5e-06
+SEQ gi|13929434|ref|NP_004267.2| calcium binding protein 1, isoform ...    52  6e-06
+SEQ gi|6678369|ref|NP_033419.1| troponin C, cardiac/slow skeletal [M...    52  6e-06
+SEQ gi|12856775|dbj|BAB30778.1| (AK017505) putative [Mus musculus]         52  6e-06
+SEQ gi|136038|sp|P02590|TPCC_HUMAN TROPONIN C, SLOW SKELETAL AND CAR...    52  6e-06
+SEQ gi|13431332|sp|O88751|CAB1_RAT CALCIUM-BINDING PROTEIN CABP1 (CA...    51  6e-06
+SEQ gi|6580549|emb|CAB63264.1| (AJ251808) calcium-binding protein [L...    51  6e-06
+SEQ gi|8569581|pdb|1DTL|A Chain A, Crystal Structure Of Calcium-Satu...    51  7e-06
+SEQ gi|2119365|pir||S45709 myosin regulatory light chain 2, brain (c...    51  7e-06
+SEQ gi|4507615|ref|NP_003271.1| troponin C, slow; Troponin-C1, slow;...    51  7e-06
+SEQ gi|7441459|pir||JW0064 slow cardiac troponin C - African clawed ...    51  7e-06
+SEQ gi|13375547|gb|AAK20385.1|AF334107_1 (AF334107) centrin1 [Rattus...    51  7e-06
+SEQ gi|3123295|sp|P25070|TCH2_ARATH CALMODULIN-RELATED PROTEIN 2, TO...    51  7e-06
+SEQ gi|228542|prf||1805343A myosin:SUBUNIT=regulatory light chain [R...    51  8e-06
+SEQ gi|4557775|ref|NP_000423.1| myosin light chain 2 [Homo sapiens] ...    51  9e-06
+SEQ gi|6166556|sp|P10916|MLRV_HUMAN MYOSIN REGULATORY LIGHT CHAIN 2,...    51  1e-05
+SEQ gi|1066365|gb|AAC37277.1| (L49010) indirect flight muscle isofor...    51  1e-05
+SEQ gi|8393159|ref|NP_059118.1| calmodulin-like skin protein [Homo s...    51  1e-05
+SEQ gi|1066377|gb|AAC37284.1| (L49014) indirect flight muscle isofor...    51  1e-05
+SEQ gi|2605594|dbj|BAA23323.1| (D50372) myosin regulatory light chai...    51  1e-05
+SEQ gi|7441468|pir||JC5433 adult muscle troponin C - sea squirt (Hal...    51  1e-05
+SEQ gi|577250|gb|AAA53454.1| (L37319) myosin alkali light chain [Dro...    50  1e-05
+SEQ gi|1666242|gb|AAC47395.1| (U59300) centrin [Giardia intestinalis]      50  2e-05
+SEQ gi|1066362|gb|AAC37274.1| (L49009) indirect flight muscle isofor...    50  2e-05
+SEQ gi|9743349|gb|AAF97973.1|AC000103_23 (AC000103) F21J9.28 [Arabid...    50  2e-05
+SEQ gi|1066353|gb|AAC37268.1| (L49006) indirect flight muscle isofor...    50  2e-05
+SEQ gi|13385562|ref|NP_080340.1| RIKEN cDNA 2900073G15 gene [Mus mus...    50  2e-05
+SEQ gi|5678955|emb|CAB51683.1| (AL109630) /prediction=(method:''gene...    50  2e-05
+SEQ gi|12324399|gb|AAG52166.1|AC020665_11 (AC020665) calmodulin-rela...    50  2e-05
+SEQ gi|12858009|dbj|BAB31172.1| (AK018348) putative [Mus musculus]         50  2e-05
+SEQ gi|577274|gb|AAA53470.1| (L37327) myosin alkali light chain [Dro...    50  2e-05
+SEQ gi|1066374|gb|AAC37282.1| (L49013) putative [Drosophila simulans]      50  2e-05
+SEQ gi|8393781|ref|NP_059039.1| myosin regulatory light chain [Rattu...    50  2e-05
+SEQ gi|14423648|sp|Q9M7R0|ALL8_OLEEU CALCIUM-BINDING ALLERGEN OLE E ...    50  2e-05
+SEQ gi|13359053|dbj|BAB33275.1| (AP003054) hypothetical protein~simi...    49  2e-05
+SEQ gi|1699319|gb|AAB37470.1| myosin light chain 2v, MLC2v=myosin li...    49  2e-05
+SEQ gi|6754778|ref|NP_034991.1| myosin light chain, phosphorylatable...    49  2e-05
+SEQ gi|1066368|gb|AAC37278.1| (L49011) indirect flight muscle isofor...    49  2e-05
+SEQ gi|577262|gb|AAA53462.1| (L37323) myosin alkali light chain [Dro...    49  2e-05
+SEQ gi|1066356|gb|AAC37270.1| (L49007) indirect flight muscle isofor...    49  2e-05
+SEQ gi|127167|sp|P08733|MLRV_RAT MYOSIN REGULATORY LIGHT CHAIN 2, VE...    49  3e-05
+SEQ gi|13652953|ref|XP_007016.3| myosin light chain 2 [Homo sapiens]       49  3e-05
+SEQ gi|577265|gb|AAA53464.1| (L37324) myosin alkali light chain [Dro...    49  3e-05
+SEQ gi|7490519|pir||T41061 EF-hand calcium binding protein, caltract...    49  3e-05
+SEQ gi|11276992|pir||T49071 probable calmodulin [similarity] - Arabi...    49  4e-05
+SEQ gi|730031|sp|P40423|MLRN_DROME MYOSIN REGULATORY LIGHT CHAIN, NO...    49  4e-05
+SEQ gi|627799|pir||A61567 myosin light chain 2, slow skeletal muscle...    49  4e-05
+SEQ gi|11119117|gb|AAG30507.1|AF306722_1 (AF306722) centrin 3 [Xenop...    49  4e-05
+SEQ gi|13640609|ref|XP_012077.2| calcium binding protein 2 [Homo sap...    49  4e-05
+SEQ gi|2921861|gb|AAC04873.1| (AF047329) troponin C [Drosophila silv...    49  5e-05
+SEQ gi|4584563|emb|CAB40791.1| (Y18899) centrin [Euplotes octocarina...    48  5e-05
+SEQ gi|2589016|dbj|BAA23283.1| (AB008556) troponin C [Lampetra japon...    48  6e-05
+SEQ gi|6728961|gb|AAF26959.1|AC018363_4 (AC018363) putative calmodul...    48  6e-05
+SEQ gi|13194672|gb|AAK15501.1|AF325719_1 (AF325719) calmodulin-like ...    48  7e-05
+SEQ gi|136031|sp|P29289|TPC1_HOMAM TROPONIN C, ISOFORM 1 >gi|102751|...    48  7e-05
+SEQ gi|1066385|gb|AAC37289.1| (L49017) indirect flight muscle isofor...    48  7e-05
+SEQ gi|7441469|pir||JC5434 larva muscle troponin C - sea squirt (Hal...    47  9e-05
+SEQ gi|14423843|sp|O64943|POC2_JUNOX POLCALCIN JUN O 2 (CALCIUM-BIND...    47  1e-04
+SEQ gi|7441460|pir||JW0066 slow cardiac troponin C - Entosphenus jap...    47  1e-04
+SEQ gi|6901654|gb|AAF31152.1|AF078680_1 (AF078680) calcium-binding p...    47  1e-04
+SEQ gi|7716840|gb|AAF68570.1|AF252787_1 (AF252787) myosin II regulat...    47  1e-04
+SEQ gi|7505929|pir||T29903 hypothetical protein M02B7.6 - Caenorhabd...    47  1e-04
+SEQ gi|2119367|pir||I52831 myosin regulatory light chain - rat >gi|4...    47  1e-04
+SEQ gi|11276993|pir||T45582 centrin - Arabidopsis thaliana >gi|36881...    47  1e-04
+SEQ gi|9965747|gb|AAG10150.1|AF250344_1 (AF250344) calmodulin-like M...    47  1e-04
+SEQ gi|598112|gb|AAA56799.1| (L37316) myosin alkali light chain [Dro...    47  1e-04
+SEQ gi|7302258|gb|AAF57350.1| (AE003788) TpnC41C gene product [Droso...    47  1e-04
+SEQ gi|284326|pir||S22715 myosin regulatory light chain 2 - human          47  1e-04
+SEQ gi|2129548|pir||S71196 calcium-dependent protein kinase (EC 2.7....    47  2e-04
+SEQ gi|11072103|ref|NP_067624.1| myosin light chain 2, precursor lym...    47  2e-04
+SEQ gi|1785958|gb|AAB41137.1| (U38788) calmodulin [Acrasis rosea]          47  2e-04
+SEQ gi|13375549|gb|AAK20386.1|AF334108_1 (AF334108) centrin2 [Rattus...    47  2e-04
+SEQ gi|1351267|sp|P47947|TPC1_DROME TROPONIN C, ISOFORM 1 >gi|452388...    47  2e-04
+SEQ gi|4176374|gb|AAD08850.1| (AC004953) myosin regulatory light cha...    46  2e-04
+SEQ gi|136049|sp|P06706|TPC_HALRO TROPONIN C, BODY WALL MUSCLE >gi|8...    46  2e-04
+SEQ gi|2129555|pir||S71775 calcium-dependent protein kinase 9 - Arab...    46  2e-04
+SEQ gi|2315983|gb|AAB70706.1| (U82087) calmodulin-like domain protei...    46  4e-04
+SEQ gi|7441478|pir||T07751 calmodulin 2 - tomato (fragment) >gi|2388...    46  4e-04
+SEQ gi|6094655|gb|AAF03511.1|AC004882_3 (AC004882) similar to calmod...    45  5e-04
+SEQ gi|136030|sp|P21797|TPC1_BALNU TROPONIN C, ISOFORM 1 >gi|102742|...    45  5e-04
+SEQ gi|8977814|emb|CAB95710.1| (AJ249589) calmodulin-like protein 3 ...    45  5e-04
+SEQ gi|14530404|emb|CAB02878.2| (Z81053) predicted using Genefinder~...    45  6e-04
+SEQ gi|1785953|gb|AAB41134.1| (U38787) calmodulin [Naegleria fowleri]      45  6e-04
+SEQ gi|266018|gb|AAB25484.1| calmodulin=low affinity vasoactive inte...    45  6e-04
+SEQ gi|4262157|gb|AAD14457.1| (AC005275) putative calmodulin [Arabid...    45  7e-04
+SEQ gi|2288981|gb|AAB64310.1| (AC002335) putative Ca2+-binding prote...    45  7e-04
+SEQ gi|102743|pir||B38397 troponin C-2 - giant barnacle                    45  7e-04
+SEQ gi|3172500|gb|AAC35503.1| (AF065247) centrin 1 [Entodinium cauda...    44  7e-04
+SEQ gi|7302421|gb|AAF57508.1| (AE003793) CG11041 gene product [Droso...    44  8e-04
+SEQ gi|9759474|dbj|BAB10479.1| (AB016888) contains similarity to cal...    44  8e-04
+SEQ gi|136033|sp|P21798|TPC2_BALNU TROPONIN C, ISOFORM 2                   44  8e-04
+SEQ gi|5882721|gb|AAD55274.1|AC008263_5 (AC008263) Strong similarity...    44  9e-04
+SEQ gi|577238|gb|AAA53448.1| (L37315) myosin alkali light chain [Dro...    44  0.001
+SEQ 
+## SEQUENCE PROFILE AND ENTROPY
+ SeqNo PDBNo   V   L   I   M   F   W   Y   G   A   P   S   T   C   H   R   K   Q   E   N   D  NOCC NDEL NINS ENTROPY RELENT WEIGHT
+    1    1     0  98   2   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.107      3  0.00
+    2    2     0   0   0   0   0   0   0   2   0   0  30  62   0   0   3   0   0   1   1   1     0    0    0   0.984     32  0.00
+    3    3     0   0   0   0   0   0   0   0   5   5   0   0   0   0   0   9  12  42   1  23     0    0    0   1.650     55  0.00
+    4    4     0   0   0   0   0   0   0   0   1   0   5   2   0   0   0   2   3  62   0  25     0    0    0   1.129     37  0.00
+    5    5     0   0   0   5   0   0   0   0   0   0   0   0   0   0   0   2  77  14   0   0     0    0    0   0.831     27  0.00
+    6    6     8   3  70   1   0   0   0   0   0   0   0   3   0   0   2   8   4   0   0   0     0    0    0   1.187     39  0.00
+    7    7     1   1   0   0   0   0   0   1  42   0   9   1   0   1   1   1  13  16   4   8     0    0    0   1.841     61  0.00
+    8    8     1   1   0   1   0   0   0   1   0   0   0   0   0   0   0   0   2  80   2  13     0    0    0   0.795     26  0.00
+    9    9     4  11  10   1  69   0   4   0   0   0   0   0   1   0   0   0   0   0   0   0     0    0    0   1.097     36  0.00
+   10   10     0   0   0   0   0   0   0   0   0   0   0   0   0   0  15  77   4   2   0   0     0    0    0   0.804     26  0.00
+   11   11     0   0   1   0   2   0   0   1   8   0   0   1   0   0   2   2   1  76   1   5     0    0    0   1.007     33  0.00
+   12   12     8   0   2   1   0   0   0   0  86   0   1   0   1   0   0   0   0   0   0   0     0    0    0   0.616     20  0.00
+   13   13     0   1   0   0  99   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.098      3  0.00
+   14   14     1   7   0   2   0   0   0   5   2   1  40   3   1   0   3   1   6   7   6  16     0    0    0   2.034     67  0.00
+   15   15     2  72   6  11   0   0   0   0   1   0   1   0   0   0   2   1   0   3   0   0     0    0    0   1.103     36  0.00
+   16   16     0   1   4   5  89   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.493     16  0.00
+   17   17     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  99     0    0    0   0.055      1  0.00
+   18   18    12   3   3   2   9   0   1   0  16   0   3  20   0   1  31   0   0   0   0   1     0    0    0   1.932     64  0.00
+   19   19     7   3   1   0   0   4   0   0   1   0   0   6   0   0   1  66   2   0   0   8     0    0    0   1.322     44  0.00
+   20   20     0   0   0   0   0   0   0  12   1   4   0   3   0   0  10   9   6   1   1  53     0    0    0   1.602     53  0.00
+   21   21     0   0   0   0   0   0   0  59   3   0   0   9   0   1   0   3   0   2  12  11     0    0    0   1.414     47  0.00
+   22   22     0   0   0   0   0   0   0  33   1   0   6   2   2   0  26  16   1   5   6   0     0    0    0   1.797     59  0.00
+   23   23     0   0   0   0   0   0   0   0   1   1   6   5   0   0   0   1   1   4   2  78     0    0    0   0.950     31  0.00
+   24   24     0   0   2   3   0   0   0  84   2   0   3   0   0   0   0   1   1   1   3   0     0    0    0   0.743     24  0.00
+   25   25     1   0   0   0   7   0   3   2   4   0   9  29  12   1   3  20   4   1   1   3     0    0    0   2.166     72  0.00
+   26   26    11   1  88   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.418     13  0.00
+   27   27     0   3   0   0   0   0   0   2   6   1  11  53   0   0   0   2   0   1   3  19     0    0    0   1.549     51  0.00
+   28   28     4   6   2   0   2   0  12   1  10   2   3  44   2   0   0   9   1   0   0   0     0    0    0   1.934     64  0.00
+   29   29     2   1   0   0   2   0   0   3   3   0  11   1   0   2   3  52   1   8   7   3     0    0    0   1.808     60  0.00
+   30   30     1   0   0   1   0   0   0   0   1   0   1   0   0   0   0   3  18  66   0  11     0    0    0   1.084     36  0.00
+   31   31    12  78   3   0   0   0   0   0   0   0   0   0   6   0   0   0   0   0   0   0     0    0    0   0.787     26  0.00
+   32   32     1   0   0   0   0   0   0  72   8   0   1   0   0   4   3   8   1   0   2   0     0    0    0   1.091     36  0.00
+   33   33     8   0   1   0   0   0   0   0   4   0   2  46   0   0   0   3   1   1   2  31     0    0    0   1.519     50  0.00
+   34   34    63   4   9   4   0   0   0   1  12   0   1   2   3   0   0   0   0   0   0   0     0    0    0   1.341     44  0.00
+   35   35     2  23   2  69   2   0   0   0   0   0   0   0   2   0   0   0   0   0   0   0     0    0    0   0.940     31  0.00
+   36   36     0   1   0   0   0   0   0   0   6   0   1   1   0   0  86   4   0   1   0   0     0    0    0   0.632     21  0.00
+   37   37     0   1   0   8   0   0   0   0  32   0  50   4   3   0   0   0   1   0   2   0     0    0    0   1.326     44  0.00
+   38   38     1  92   1   4   1   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0     0    0    0   0.398     13  0.00
+   39   39     0   0   0   0   0   0   0  95   0   0   0   0   0   0   0   0   0   0   2   1     0    0    0   0.263      8  0.00
+   40   40     2   5   4   1   8   0   3   1   0   0   1   3   0   2   1   6  62   1   0   0     0    0    0   1.551     51  0.00
+   41   41     0   0   0   3   1   0   1   0   1   0   2   3   0   0   0   2   1   7  77   2     0    0    0   1.025     34  0.00
+   42   42     4   2   1   1   0   0   0   0   2  88   0   1   0   0   1   0   0   0   0   0     0    0    0   0.608     20  0.00
+   43   43     0   0   0   0   0   0   0   0   0   1   7  76   0   0   3   8   1   1   1   1     0    0    0   0.981     32  0.00
+   44   44     0   3   1   0   0   0   0   0   1   3   1   0   0   0   0  12   3  47  21   7     0    0    0   1.634     54  0.00
+   45   45     0   0   0   3   0   0   0   1  57   0   4   0   0   0   1   7   4  21   0   2     0    0    0   1.400     46  0.00
+   46   46     0   4   0   0   0   0   3   0   0   0   0   2   0   0   0   1   3  76   0  10     0    0    0   0.966     32  0.00
+   47   47    22  58  16   2   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0     0    0    0   1.142     38  0.00
+   48   48     1   8   4   2   2   0   1   0   2   0   1   3   0   2   3  11  43   5   5   8     0    0    0   2.087     69  0.00
+   49   49     0   1   1  39   0   0   1   1  11   0   2   2   0   0   3  23   3  11   0   2     0    0    0   1.840     61  0.00
+   50   50    14   9  64   9   0   0   0   0   0   0   0   0   1   1   0   0   0   1   0   0     0    0    0   1.188     39  0.00
+   51   51     1  20   2   3   0   0   0   6   6   0   8   1   0   0   0   1   1   6  40   4     0    0    0   1.930     64  0.00
+   52   52     0   0   0   0   0   0   0  26   1   0   1   0   0   0   1   4   3  55   2   6     0    0    0   1.342     44  0.00
+   53   53    51   2   7   1   0   0   0   0   6   0   2   7   0   0   1   4   2   3  11   1     0    0    0   1.854     61  0.00
+   54   54     1   0   5   1   1   0   1   1   2   6   0   1   0   3   0   2   1   9   1  62     0    0    0   1.542     51  0.00
+   55   55     1   1   1   0   0   0   0   1  36   0   2   3   0   0   4  19   3  16   3   9     0    0    0   1.941     64  0.00
+   56   56     2   4   2  22   0   0   0   0   1   0   1   0   0   0   3   1   2   7   3  53     0    0    0   1.579     52  0.00
+   57   57     0   0   0   0   0   0   0  64   9   0   3   1   0   0   0   0   0   2  19   1     0    0    0   1.166     38  0.00
+   58   58     3   1   0   0   0   0   0   3   7   3  16   4   0   0   1   1   0  10  44   6     0    0    0   1.839     61  0.00
+   59   59     0   0   0   0   0   0   0  69   3   0   1   1   0   1   1  23   0   0   1   0     0    0    0   0.955     31  0.00
+   60   60     2   1   0   3   1   0   1   1   3   6   4  50   1   1   8  12   3   2   1   0     0    0    0   1.901     63  0.00
+   61   61    11  11  72   2   1   0   1   2   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.001     33  0.00
+   62   62     0   0   0   0   0   0   0   1   1   4   4   4   0   0   0   3   0  10   7  64     0    0    0   1.371     45  0.00
+   63   63     0   4   1   1  92   0   1   0   1   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.423     14  0.00
+   64   64     1   1   0   0   0   0   0   1   2  38   3   7   0   0   0   0   1  31   2  12     0    0    0   1.666     55  0.00
+   65   65     3   0   0   4   0   0   0   2   2   0   1   5   0   2   0   1   6  66   0   8     0    0    0   1.345     44  0.00
+   66   66     0   1   0   1  96   1   0   0   0   0   0   0   0   0   0   0   0   0   0   1     0    0    0   0.246      8  0.00
+   67   67     6  84   1   2   0   0   0   1   1   0   0   0   2   0   0   1   0   1   1   0     0    0    0   0.734     24  0.00
+   68   68     7   0   1   1   0   0   1   1   5  24   4  22   1   1   0   1   2   5  22   1     0    0    0   2.084     69  0.00
+   69   69     5  35   9  44   1   0   0   0   4   0   0   1   0   0   1   1   1   0   0   0     0    0    0   1.402     46  0.00
+   70   70     2  13   2  61   7   0  10   0   1   0   0   1   0   1   0   0   0   0   1   0     0    0    0   1.354     45  0.00
+   71   71     6   1   1   0   1   0   0   7  39   0   7   9   0   1   2   5  16   6   0   0     0    0    0   1.997     66  0.00
+   72   72     1   1   0   1   1   0   0   3  11   3   2   5   0   5  45   7   8   6   1   1     0    0    0   1.982     66  0.00
+   73   73    11   7  11   2   1   1   1   0   2   2   1   0   2   0   2  50   6   1   0   0     0    0    0   1.867     62  0.00
+   74   74     2  12   6  52   1   0   1   1   5   0   4   1   0   0   2   8   1   0   2   3     0    0    0   1.801     60  0.00
+   75   75     0   3   0   0   0   0   0   5   3   0   4   1   0   1   1  42   2   7  19  13     0    0    0   1.840     61  0.00
+   76   76     2   4   1   1   0   0   1   1  20   2  10   5   3   1   3  24   2   5  13   3     0    0    0   2.347     78  0.00
+   77   77     0   0   0   0   0   0   0   0   1   2   1   0   0   0   1   7   3  31   4  50     0    0    0   1.404     46  0.00
+   78   78     1   0   0   0   0   0   0   6   0   2   3  41   0   1   7  10  23   4   1   1     0    0    0   1.809     60  0.00
+   79   79     0   0   0   0   0   0   1  31   8   0   1   2   0   1   0   6   0   4   2  45     0    0    0   1.508     50  0.00
+   80   80     1   0   0   1   0   0   0   4   1   2  42  26   8   1   0   2   2   2   1   4     0    0    0   1.808     60  0.00
+   81   81     1   1   1   5   7   0  20   0   1   1   2   1   0   1   2   6   1  45   0   5     0    0    0   1.867     62  0.00
+   82   82     0   0   1   0   0   0   0   1   6   4   1   0   0   0   1   6   1  75   0   4     0    0    0   1.074     35  0.00
+   83   83     0   0   0   1   0   0   0   2   0   0   0   1   0   0   0   2   1  60   1  32     0    0    0   1.038     34  0.00
+   84   84     2  38  23   3  19   0  10   0   0   0   0   0   0   0   0   0   0   2   0   3     0    0    0   1.615     53  0.00
+   85   85    21  10  11   4   0   0   0   0   4   0   3   0   0   0  18  26   2   1   0   0     0    0    0   1.980     66  0.00
+   86   86     0   0   0   0   0   0   0   0   1   0   0   0   0   0   1   9   0  75   6   6     0    0    0   0.972     32  0.00
+   87   87     1   3   0   0   0   0   0  18  66   0   1   0  10   0   0   0   0   0   0   0     0    0    0   1.066     35  0.00
+   88   88     0  24   0   0  75   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.603     20  0.00
+   89   89     0   0   0   0   0   0   0   0   3   0   1   0   0   0  63  26   1   1   3   0     0    0    0   1.111     37  0.00
+   90   90    64  16   5   3   1   0   0   0   1   0   0   3   3   1   0   0   0   3   0   0     0    0    0   1.313     43  0.00
+   91   91     0   2   1   0  87   0   9   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.496     16  0.00
+   92   92     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  99     0    0    0   0.048      1  0.00
+   93   93     0   1   0   0   0   0   0   0   0   2   1   3   0   0  10  70   2   4   0   5     0    0    0   1.193     39  0.00
+   94   94     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  36  11  52     0    0    0   1.042     34  0.00
+   95   95     0   0   0   0   0   0   0  59   9   0   2   0   0   0   2   1  10  10   4   2     0    0    0   1.459     48  0.00
+   96   96     0   0   1   0   0   0   0   0   1   0   3   7   0   0   0   3   2   0  66  15     0    0    0   1.202     40  0.00
+   97   97     0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.024      0  0.00
+   98   98     3   5   0   1  37   0  18   0   0   0   1  25   0   0   1   7   0   2   0   0     0    0    0   1.744     58  0.00
+   99   99    18   2  72   7   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.844     28  0.00
+  100  100     0   5   0  18   0   0   0   1   1   1  52   9   0   1   0   2   3   0   1   6     0    0    0   1.617     53  0.00
+  101  101     6  12   2   0   4   0   0  19  45   1   1   3   0   0   1   1   0   4   0   0     0    0    0   1.791     59  0.00
+  102  102     1   0   0   0   0   0   0   2  67   0   3   1   0   0   2   5   1   7   1   9     0    0    0   1.304     43  0.00
+  103  103     0   0   0   0   0   0   3   0   0   0   0   0   0   1   0   0   0  83   5   5     0    0    0   0.772     25  0.00
+  104  104     2  91   4   0   2   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.408     13  0.00
+  105  105     0   0   0   0   0   0   0   2   3   0   0   0   0   1  73  11   9   0   0   0     0    0    0   0.996     33  0.00
+  106  106     0   0   5   1   0   0   1   0   2   0   1   1   0  62   6   2   2  11   0   1     0    0    0   1.495     49  0.00
+  107  107    66   6   8   4   1   0   0   0  12   0   1   1   0   0   0   1   0   0   0   0     0    0    0   1.212     40  0.00
+  108  108     0  45   0  44   2   0   0   0   7   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.069     35  0.00
+  109  109     4   8   1   1   0   0   0   0  11   0   5  48   1   0   8   7   2   1   1   1     0    0    0   1.909     63  0.00
+  110  110     0   0   0   1   0   0   0   1  15   0   7  23   0   0   1   3   0   9  37   0     0    0    0   1.749     58  0.00
+  111  111     0  81   3   6   1   0   0   0   0   0   2   4   0   0   0   0   2   0   0   0     0    0    0   0.841     28  0.00
+  112  112     0   0   0   0   0   0   0  96   2   0   0   0   0   0   0   0   0   0   0   1     0    0    0   0.230      7  0.00
+  113  113     0   1   0   1   0   0   0   0   0   0   0   0   0   2   0   0   0  88   0   7     0    0    0   0.543     18  0.00
+  114  114     0   0   0   0   0   0   0   0   1   2   8   4   0   3  12  59   2   0   6   1     0    0    0   1.506     50  0.00
+  115  115     5  63   4  18   7   0   0   0   0   0   0   0   1   0   1   0   1   0   0   0     0    0    0   1.252     41  0.00
+  116  116     0   0   0   0   0   0   0   2   1   0  14  67   0   0   0   3   1   1   2   9     0    0    0   1.210     40  0.00
+  117  117     1   0   0   0   0   0   0   1   1   1   1   1   0   1   0   4   2  24   2  60     0    0    0   1.305     43  0.00
+  118  118     1   0   0   0   0   0   0   0   6   2   2   0   0   0   3   3   2  71   1   7     0    0    0   1.242     41  0.00
+  119  119     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   2   8  79   0   9     0    0    0   0.800     26  0.00
+  120  120    68  12  15   1   1   0   0   0   0   0   0   0   2   0   0   0   0   0   0   0     0    0    0   1.041     34  0.00
+  121  121     0   0   0   0   0   0   0   0   0   0   1   1   0   0   2   2   6  29   1  57     0    0    0   1.185     39  0.00
+  122  122     1   0   0   2   0   0   0   1   7   0   3   7   0   0   0   1   7  65   1   4     0    0    0   1.375     45  0.00
+  123  123     3  32   8  57   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.032     34  0.00
+  124  124     5   8  57  15   9   0   3   0   0   0   0   0   0   0   0   0   0   2   0   0     0    0    0   1.406     46  0.00
+  125  125     1   0   0   1   0   0   0   1  19   0   2   1   0   0  46  17   4   4   1   5     0    0    0   1.644     54  0.00
+  126  126     1   6   1   1   3   0   0   2   1   0   0   0   0   0   2   1   1  61   1  18     0    0    0   1.396     46  0.00
+  127  127     8   1   2   4   1   0   1   5  65   0   2   2   9   0   0   0   0   0   0   0     0    0    0   1.355     45  0.00
+  128  128     0   0   0   8   0   0   0   1   5   4   1   1   0   0   0   0   1   3   1  74     0    0    0   1.065     35  0.00
+  129  129    31   8  19   1   4   0   0  20   1   0   0   1   0   0   1   6   0   0   0   8     0    0    0   1.896     63  0.00
+  130  130     0   0   0   0   0   0   0   1   0  18   2   1   0   6   1   2  31   2  20  15     0    0    0   1.850     61  0.00
+  131  131     0   0   1   0   0   0   0   8   2   4   5   3   0   0   7   6   6  46  11   2     0    0    0   1.889     63  0.00
+  132  132     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   2  97     0    0    0   0.186      6  0.00
+  133  133     3   3   1   0   0   0   0  57   3   0  12   0   0   1   1   4   0   5   2   8     0    0    0   1.624     54  0.00
+  134  134     0   0   0   0   0   0   0   0   0   0   3   2   1   0   0   4   1  12  19  58     0    0    0   1.313     43  0.00
+  135  135     0   0   0   0   0   0   0  97   1   0   1   0   0   0   0   0   0   0   1   0     0    0    0   0.188      6  0.00
+  136  136     2   2   0   2   7   0   1   0   1   0   2   3  15   2   9   3  37   7   8   0     0    0    0   2.132     71  0.00
+  137  137    44   3  49   0   4   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.948     31  0.00
+  138  138     0   0   0   0   0   0   0   0   0   7   3   1   0   2   0   4   1   0  63  18     0    0    0   1.235     41  0.00
+  139  139     1   0   1   0  13   0  79   0   0   0   0   0   0   0   0   0   1   4   0   0     0    0    0   0.787     26  0.00
+  140  140     1   0   2   0   0   0   0   1   0   0   8   1   0   1   1   2   2  65   2  14     0    0    0   1.352     45  0.00
+  141  141     0   0   0   0   0   0   0   0  15   3   1   1   0   0   1   1   4  68   2   5     0    0    0   1.173     39  0.00
+  142  142     0   4   1   0  94   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.272      9  0.00
+  143  143    71  14   4   3   1   0   0   0   1   0   1   4   1   0   0   0   0   0   0   0     0    0    0   1.079     36  0.00
+  144  144     0   0   0   0   0   0   1   0   4   0   0   0   0   2  18  43  25   4   2   1     0    0    0   1.527     50  0.00
+  145  145    28   2   7  22   0   0   1   0   1   0   0   1   0  21  10   4   1   0   1   0     0    0    0   1.912     63  0.00
+  146  146     7  12  27  53   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.155     38  0.00
+  147  147     3   9   2  64   0   0   0   0   0   0   0   9   5   0   0   6   0   0   0   0     0    0    0   1.306     43  0.00
+  148  148     0   1   0   0   0   0   0   1  46   0  36   1   0   7   1   1   0   1   1   4     0    0    0   1.400     46  0.00
+  149  149     0   0   0   0   0   0   0  66   3   0   1   2   0   1  13   1   0   0   0  15     0    0    0   1.099     36  0.00
+  150  150     0   0   0   0   0   0   0   4   6  80   4   0   0   0   1   1   0   0   0   3     0    0    0   0.844     28  0.00
+  151  151     3   0   0   0  38   0  55   0   0   0   0   3   0   0   0   0   0   0   0   0     0    0    0   0.928     30  0.00
+  152  152     0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+//

@@ -1,0 +1,1029 @@
+ID Pseudo hssp file.
+SEQ 
+SEQ gi|128204|sp|P00456|NIF1_CLOPA NITROGENASE IRON PROTEIN (NITROGE...   520  e-147
+SEQ gi|3891564|pdb|1CP2|A Chain A, Nitrogenase Iron Protein From Clo...   520  e-147
+SEQ gi|128216|sp|P09554|NIF5_CLOPA NITROGENASE IRON PROTEIN (NITROGE...   517  e-146
+SEQ gi|128215|sp|P22548|NIF4_CLOPA NITROGENASE IRON PROTEIN (NITROGE...   490  e-138
+SEQ gi|128217|sp|P09555|NIF6_CLOPA NITROGENASE IRON PROTEIN (NITROGE...   483  e-135
+SEQ gi|128209|sp|P09552|NIF2_CLOPA NITROGENASE IRON PROTEIN (NITROGE...   481  e-135
+SEQ gi|8572235|gb|AAF77055.1|AF266462_1 (AF266462) nitrogenase iron ...   452  e-126
+SEQ gi|482686|pir||A61030 nitrogenase (EC 1.18.6.1) iron protein - D...   381  e-105
+SEQ gi|1709270|sp|P54800|NIF2_METBA NITROGENASE IRON PROTEIN 2 (NITR...   381  e-105
+SEQ gi|128203|sp|P00459|NIF1_AZOVI NITROGENASE IRON PROTEIN (NITROGE...   373  e-102
+SEQ gi|13096247|pdb|1G1M|A Chain A, All-Ferrous Nitrogenase Iron Pro...   373  e-102
+SEQ gi|142330|gb|AAA22142.1| (M11579) Fe protein [Azotobacter vinela...   371  e-102
+SEQ gi|548362|sp|P26248|NIF1_AZOCH NITROGENASE IRON PROTEIN (NITROGE...   371  e-102
+SEQ gi|7245830|pdb|1DE0|A Chain A, Modulating The Midpoint Potential...   371  e-102
+SEQ gi|2499206|sp|Q59270|NIFH_CLOCB NITROGENASE IRON PROTEIN (NITROG...   370  e-101
+SEQ gi|12697186|emb|CAA39556.1| (X56073) nitrogenase Mo-Fe protein [...   369  e-101
+SEQ gi|142327|gb|AAA22140.1| (M73020) nitrogenase molybdenum-iron pr...   369  e-101
+SEQ gi|13096253|pdb|1G20|E Chain E, Mgatp-Bound And Nucleotide-Free ...   367  e-100
+SEQ gi|128267|sp|P00458|NIFH_KLEPN NITROGENASE IRON PROTEIN (NITROGE...   364  e-100
+SEQ gi|128207|sp|P06118|NIF2_AZOCH NITROGENASE IRON PROTEIN (NITROGE...   362  4e-99
+SEQ gi|225065|prf||1208261A nitrogenase Fe protein [Azotobacter chro...   361  6e-99
+SEQ gi|2499205|sp|Q44044|NIFH_ALCFA NITROGENASE IRON PROTEIN (NITROG...   361  7e-99
+SEQ gi|1709268|sp|P54799|NIF1_METBA NITROGENASE IRON PROTEIN 1 (NITR...   361  8e-99
+SEQ gi|11493645|gb|AAG35586.1|AF200742_1 (AF200742) dinitrogenase re...   360  1e-98
+SEQ gi|7433385|pir||C69075 nitrogenase (EC 1.18.6.1) iron protein ni...   355  4e-97
+SEQ gi|2499208|sp|Q50785|NIFH_METTM NITROGENASE IRON PROTEIN (NITROG...   354  5e-97
+SEQ gi|128214|sp|P09553|NIF3_CLOPA NITROGENASE IRON PROTEIN (NITROGE...   352  3e-96
+SEQ gi|730149|sp|Q07942|NIF2_RHOCA NITROGENASE IRON PROTEIN (NITROGE...   347  8e-95
+SEQ gi|1709269|sp|P51602|NIF1_METIV NITROGENASE IRON PROTEIN 1 (NITR...   347  1e-94
+SEQ gi|6093497|sp|Q50218|NIFH_METMP NITROGENASE IRON PROTEIN (NITROG...   346  1e-94
+SEQ gi|95060|pir||A35405 nitrogenase (EC 1.18.6.1) 2 iron protein - ...   346  3e-94
+SEQ gi|4103973|gb|AAD05046.1| (AF030414) nitrongenase reductase Fe p...   346  3e-94
+SEQ gi|2209097|gb|AAB61408.1| (AF003336) nitrogenase reductase [Cyan...   345  4e-94
+SEQ gi|1171710|sp|P46034|NIFH_FRASP NITROGENASE IRON PROTEIN (NITROG...   344  1e-93
+SEQ gi|142402|gb|AAA22170.1| (M32371) nitrogenase (vnfH) [Azotobacte...   344  1e-93
+SEQ gi|128208|sp|P15335|NIF2_AZOVI NITROGENASE IRON PROTEIN (NITROGE...   343  1e-93
+SEQ gi|13435000|gb|AAK26105.1|AF194084_1 (AF194084) nitrogenase redu...   343  2e-93
+SEQ gi|128205|sp|P25767|NIF1_METTL NITROGENASE IRON PROTEIN 1 (NITRO...   340  1e-92
+SEQ gi|1236929|gb|AAA93020.1| (U49859) dinitrogenase reductase [Anab...   340  1e-92
+SEQ gi|128266|sp|P08925|NIFH_FRAAL NITROGENASE IRON PROTEIN (NITROGE...   340  2e-92
+SEQ gi|128262|sp|P17303|NIFH_AZOBR NITROGENASE IRON PROTEIN (NITROGE...   339  2e-92
+SEQ gi|1289332|gb|AAC18640.1| (U53362) nitrogenase reductase [Franki...   338  4e-92
+SEQ gi|98864|pir||S26190 nitrogenase (EC 1.18.6.1) iron protein - Fr...   338  5e-92
+SEQ gi|128273|sp|P00462|NIFH_RHIET NITROGENASE IRON PROTEIN (NITROGE...   335  4e-91
+SEQ gi|541294|pir||JN0888 nitrogenase (EC 1.18.6.1) iron protein - R...   335  5e-91
+SEQ gi|128275|sp|P08718|NIF1_RHOCA NITROGENASE IRON PROTEIN (NITROGE...   334  7e-91
+SEQ gi|1294823|gb|AAC64642.1| (U49514) nitrogenase reductase [Fische...   334  8e-91
+SEQ gi|151972|gb|AAA26140.1| (M15270) dinitrogenase reductase [Rhodo...   334  8e-91
+SEQ gi|2506930|sp|P19068|NIFH_RHISN NITROGENASE IRON PROTEIN (NITROG...   333  1e-90
+SEQ gi|1495469|emb|CAA90932.1| (Z54207) nitrogenase iron protein [He...   332  3e-90
+SEQ gi|762780|gb|AAA87251.1| (L34879) nitrogenase iron protein [Anab...   332  3e-90
+SEQ gi|128271|sp|P00461|NIFH_RHILT NITROGENASE IRON PROTEIN (NITROGE...   332  4e-90
+SEQ gi|417362|sp|P33178|NIFH_ANASL NITROGENASE IRON PROTEIN (NITROGE...   332  4e-90
+SEQ gi|78059|pir||JS0238 nitrogenase (EC 1.18.6.1) iron protein [sim...   332  4e-90
+SEQ gi|14523544|gb|AAK65107.1| (AE007235) NifH nitrogenase Fe protei...   330  9e-90
+SEQ gi|1084184|pir||S50135 nitrogenase (EC 1.18.6.1) iron protein ni...   330  1e-89
+SEQ gi|128272|sp|P00460|NIFH_RHIME NITROGENASE IRON PROTEIN (NITROGE...   330  1e-89
+SEQ gi|128264|sp|P00463|NIFH_BRASP NITROGENASE IRON PROTEIN (NITROGE...   330  2e-89
+SEQ gi|128263|sp|P06117|NIFH_BRAJA NITROGENASE IRON PROTEIN (NITROGE...   329  2e-89
+SEQ gi|14547087|emb|CAC42484.1| (AJ302315) NifH protein [Burkholderi...   329  3e-89
+SEQ gi|46286|emb|CAA24526.1| (V01215) reading frame nifH [Sinorhizob...   329  3e-89
+SEQ gi|13474919|ref|NP_106489.1| nitrogenase iron protein, nifH [Mes...   328  6e-89
+SEQ gi|128276|sp|P22921|NIFH_RHORU NITROGENASE IRON PROTEIN (NITROGE...   327  7e-89
+SEQ gi|128261|sp|P00457|NIFH_ANASP NITROGENASE IRON PROTEIN (NITROGE...   327  1e-88
+SEQ gi|128206|sp|P26251|NIF1_AZOCA NITROGENASE IRON PROTEIN (NITROGE...   326  2e-88
+SEQ gi|128212|sp|P26252|NIF2_AZOCA NITROGENASE IRON PROTEIN (NITROGE...   326  2e-88
+SEQ gi|758774|gb|AAA64843.1| (U22146) nitrogenase reductase [Synecho...   325  3e-88
+SEQ gi|2393781|gb|AAB70120.1| (U90952) dinitrogenase reductase [Tric...   325  4e-88
+SEQ gi|2641237|gb|AAB86864.1| (AF031817) NifH [Rhodobacter sphaeroides]   325  4e-88
+SEQ gi|12004629|gb|AAG44125.1|AF218126_1 (AF218126) nitrogenase redu...   323  2e-87
+SEQ gi|1002345|gb|AAA77022.1| (U23507) NifH [Trichodesmium thiebauti...   323  2e-87
+SEQ gi|266624|sp|Q00240|NIFH_PLEBO NITROGENASE IRON PROTEIN (NITROGE...   321  7e-87
+SEQ gi|12657478|emb|CAC27791.1| (AJ299453) NifH protein [Paenibacill...   320  1e-86
+SEQ gi|128277|sp|P06661|NIFH_THIFE NITROGENASE IRON PROTEIN (NITROGE...   320  1e-86
+SEQ gi|6277247|dbj|BAA86278.1| (AB027751) dinitrogenase reductase [n...   319  2e-86
+SEQ gi|1294828|gb|AAC64641.1| (U49515) nitrogenase reductase [Fische...   319  4e-86
+SEQ gi|1709281|sp|P26250|NIFH_NOSCO NITROGENASE IRON PROTEIN (NITROG...   314  1e-84
+SEQ gi|2307008|gb|AAB65801.1| (AF012326) nitrogenase reductase [Nost...   312  3e-84
+SEQ gi|128213|sp|P16269|NIF3_AZOVI NITROGENASE IRON PROTEIN (NITROGE...   311  6e-84
+SEQ gi|7717204|gb|AAF17302.2| (AF111110) nitrogenase reductase [Vibr...   308  6e-83
+SEQ gi|14090816|gb|AAK53548.1|AF275670_1 (AF275670) nitrogenase redu...   300  1e-80
+SEQ gi|7717206|gb|AAF61402.2| (AF134809) nitrogenase reductase iron ...   299  4e-80
+SEQ gi|2499207|sp|Q58289|NIFH_METJA NITROGENASE IRON PROTEIN (NITROG...   273  2e-72
+SEQ gi|5902970|gb|AAD55588.1| (AF082989) nitrogenase reductase [Vibr...   273  2e-72
+SEQ gi|225298|prf||1211324A ORF nifH [Methanococcus voltae]               268  7e-71
+SEQ gi|128268|sp|P06119|NIFH_METVO NITROGENASE IRON PROTEIN (NITROGE...   267  1e-70
+SEQ gi|4584246|emb|CAB40568.1| (AJ132913) putative nitrogenase reduc...   264  7e-70
+SEQ gi|128211|sp|P08625|NIF2_METTL NITROGENASE IRON PROTEIN 2 (NITRO...   264  1e-69
+SEQ gi|3334272|sp|O26739|NIFH_METTH NITROGENASE IRON PROTEIN (NITROG...   261  8e-69
+SEQ gi|12657483|emb|CAC27795.1| (AJ299454) nitrogenase reductase [Pa...   257  1e-67
+SEQ gi|128210|sp|P08624|NIF2_METIV NITROGENASE IRON PROTEIN 2 (NITRO...   248  8e-65
+SEQ gi|13021837|gb|AAK11560.1| (AF303353) nitrogenase iron protein [...   247  1e-64
+SEQ gi|8099518|gb|AAF72158.1|AF230189_1 (AF230189) nitrogenase reduc...   247  1e-64
+SEQ gi|9789569|gb|AAF98357.1|AF285968_1 (AF285968) nitrogenase reduc...   247  1e-64
+SEQ gi|8099514|gb|AAF72156.1|AF230187_1 (AF230187) nitrogenase reduc...   247  1e-64
+SEQ gi|8099516|gb|AAF72157.1|AF230188_1 (AF230188) nitrogenase reduc...   245  5e-64
+SEQ gi|9789567|gb|AAF98356.1| (AF285967) nitrogenase reductase [Sino...   245  6e-64
+SEQ gi|3157602|dbj|BAA28429.1| (AB011894) alpha subunit of dinitroge...   243  2e-63
+SEQ gi|3157648|dbj|BAA28452.1| (AB011918) alpha subunit of dinitroge...   242  4e-63
+SEQ gi|8099512|gb|AAF72155.1|AF230186_1 (AF230186) nitrogenase reduc...   242  4e-63
+SEQ gi|7339869|gb|AAF60984.1| (AF216881) dinitrogenase reductase [Ac...   242  6e-63
+SEQ gi|1255494|dbj|BAA11793.1| (D83103) alpha subunit of dinitrogena...   241  9e-63
+SEQ gi|1255518|dbj|BAA11802.1| (D83112) alpha subunit of dinitrogena...   240  2e-62
+SEQ gi|3157704|dbj|BAA28480.1| (AB011947) alpha subunit of dinitroge...   240  2e-62
+SEQ gi|3157506|dbj|BAA28381.1| (AB011844) alpha subunit of dinitroge...   239  3e-62
+SEQ gi|3157678|dbj|BAA28467.1| (AB011933) alpha subunit of dinitroge...   237  2e-61
+SEQ gi|3157568|dbj|BAA28412.1| (AB011876) alpha subunit of dinitroge...   236  3e-61
+SEQ gi|3157692|dbj|BAA28474.1| (AB011940) alpha subunit of dinitroge...   235  4e-61
+SEQ gi|3157588|dbj|BAA28422.1| (AB011887) alpha subunit of dinitroge...   235  4e-61
+SEQ gi|3157698|dbj|BAA28477.1| (AB011943) alpha subunit of dinitroge...   235  5e-61
+SEQ gi|3135895|emb|CAB08518.1| (Z95214) nifH [Sinorhizobium sp. HAMB...   235  7e-61
+SEQ gi|3135889|emb|CAB08515.1| (Z95211) nifH [Sinorhizobium sp. HAMB...   235  7e-61
+SEQ gi|541468|pir||S39197 nitrogenase (EC 1.18.6.1) iron protein - F...   234  9e-61
+SEQ gi|3135921|emb|CAB08527.1| (Z95223) nifH [Sinorhizobium sp. HAMB...   234  1e-60
+SEQ gi|3135903|emb|CAB08523.1| (Z95219) nifH [Sinorhizobium sp. DWO6...   234  1e-60
+SEQ gi|3135907|emb|CAB08533.1| (Z95229) nifH [Sinorhizobium fredii]       234  1e-60
+SEQ gi|3157682|dbj|BAA28469.1| (AB011935) alpha subunit of dinitroge...   233  1e-60
+SEQ gi|4588472|gb|AAD26118.1|AF107621_1 (AF107621) nitrogenase reduc...   233  2e-60
+SEQ gi|3135891|emb|CAB08516.1| (Z95212) nifH [Sinorhizobium sp. BR827]    233  2e-60
+SEQ gi|3157624|dbj|BAA28440.1| (AB011905) alpha subunit of dinitroge...   233  2e-60
+SEQ gi|3157570|dbj|BAA28413.1| (AB011877) alpha subunit of dinitroge...   233  3e-60
+SEQ gi|3135823|emb|CAB08529.1| (Z95225) nifH [Mesorhizobium sp. HAMB...   233  3e-60
+SEQ gi|3135905|emb|CAB08524.1| (Z95220) nifH [Sinorhizobium sp. BR4007]   233  3e-60
+SEQ gi|541469|pir||S39198 nitrogenase (EC 1.18.6.1) iron protein - F...   233  3e-60
+SEQ gi|3135753|emb|CAB08531.1| (Z95227) nifH [Mesorhizobium sp. BR3804]   232  4e-60
+SEQ gi|3157500|dbj|BAA28378.1| (AB011841) alpha subunit of dinitroge...   232  4e-60
+SEQ gi|3157684|dbj|BAA28470.1| (AB011936) alpha subunit of dinitroge...   232  5e-60
+SEQ gi|3135827|emb|CAB08532.1| (Z95228) nifH [Mesorhizobium sp. INPA...   231  5e-60
+SEQ gi|3135893|emb|CAB08517.1| (Z95213) nifH [Sinorhizobium sp. M6]       231  6e-60
+SEQ gi|3135825|emb|CAB08530.1| (Z95226) nifH [Mesorhizobium sp. DWO366]   231  6e-60
+SEQ gi|1255482|dbj|BAA11787.1| (D83097) alpha subunit of dinitrogena...   231  7e-60
+SEQ gi|3157502|dbj|BAA28379.1| (AB011842) alpha subunit of dinitroge...   231  7e-60
+SEQ gi|3135909|emb|CAB08534.1| (Z95230) nifH [Rhizobium sp. BR6001]       230  1e-59
+SEQ gi|7339945|gb|AAF61022.1| (AF216919) dinitrogenase reductase [un...   230  2e-59
+SEQ gi|1255484|dbj|BAA11788.1| (D83098) alpha subunit of dinitrogena...   230  2e-59
+SEQ gi|12659180|gb|AAK01222.1| (AF325794) dinitrogenase reductase [S...   230  2e-59
+SEQ gi|3157562|dbj|BAA28409.1| (AB011872) alpha subunit of dinitroge...   229  3e-59
+SEQ gi|1255490|dbj|BAA11791.1| (D83101) alpha subunit of dinitrogena...   229  3e-59
+SEQ gi|9843883|emb|CAC03734.1| (AJ297529) nitrogenase reductase [Pse...   228  5e-59
+SEQ gi|7339913|gb|AAF61006.1| (AF216903) dinitrogenase reductase [un...   228  5e-59
+SEQ gi|7339943|gb|AAF61021.1| (AF216918) dinitrogenase reductase [un...   227  1e-58
+SEQ gi|3157604|dbj|BAA28430.1| (AB011895) alpha subunit of dinitroge...   227  1e-58
+SEQ gi|7339957|gb|AAF61028.1| (AF216925) dinitrogenase reductase [un...   226  2e-58
+SEQ gi|1255522|dbj|BAA11805.1| (D83118) alpha subunit of dinitrogena...   226  2e-58
+SEQ gi|3157612|dbj|BAA28434.1| (AB011899) alpha subunit of dinitroge...   226  2e-58
+SEQ gi|3157630|dbj|BAA28443.1| (AB011908) alpha subunit of dinitroge...   226  2e-58
+SEQ gi|1255488|dbj|BAA11790.1| (D83100) alpha subunit of dinitrogena...   226  3e-58
+SEQ gi|1255492|dbj|BAA11809.1| (D83122) alpha subunit of dinitrogena...   225  4e-58
+SEQ gi|6277243|dbj|BAA86276.1| (AB027749) dinitrogenase reductase [n...   225  4e-58
+SEQ gi|3157508|dbj|BAA28382.1| (AB011845) alpha subunit of dinitroge...   225  5e-58
+SEQ gi|3157504|dbj|BAA28380.1| (AB011843) alpha subunit of dinitroge...   225  5e-58
+SEQ gi|7339905|gb|AAF61002.1| (AF216899) dinitrogenase reductase [un...   225  5e-58
+SEQ gi|7339951|gb|AAF61025.1| (AF216922) dinitrogenase reductase [un...   225  5e-58
+SEQ gi|3157608|dbj|BAA28432.1| (AB011897) alpha subunit of dinitroge...   225  6e-58
+SEQ gi|3157530|dbj|BAA28393.1| (AB011856) alpha subunit of dinitroge...   224  1e-57
+SEQ gi|3157514|dbj|BAA28385.1| (AB011848) alpha subunit of dinitroge...   223  2e-57
+SEQ gi|1255504|dbj|BAA11797.1| (D83107) alpha subunit of dinitrogena...   223  2e-57
+SEQ gi|7339949|gb|AAF61024.1| (AF216921) dinitrogenase reductase [un...   222  3e-57
+SEQ gi|7339909|gb|AAF61004.1| (AF216901) dinitrogenase reductase [un...   221  7e-57
+SEQ gi|1255500|dbj|BAA11795.1| (D83105) alpha subunit of dinitrogena...   220  1e-56
+SEQ gi|3157522|dbj|BAA28389.1| (AB011852) alpha subunit of dinitroge...   220  1e-56
+SEQ gi|3157546|dbj|BAA28401.1| (AB011864) alpha subunit of dinitroge...   220  2e-56
+SEQ gi|7339911|gb|AAF61005.1| (AF216902) dinitrogenase reductase [un...   220  2e-56
+SEQ gi|12659182|gb|AAK01223.1| (AF325795) dinitrogenase reductase [S...   220  2e-56
+SEQ gi|3157510|dbj|BAA28383.1| (AB011846) alpha subunit of dinitroge...   219  3e-56
+SEQ gi|3157520|dbj|BAA28388.1| (AB011851) alpha subunit of dinitroge...   219  3e-56
+SEQ gi|1255506|dbj|BAA11798.1| (D83108) alpha subunit of dinitrogena...   219  3e-56
+SEQ gi|12659198|gb|AAK01231.1| (AF325803) dinitrogenase reductase [T...   219  4e-56
+SEQ gi|12659194|gb|AAK01229.1| (AF325801) dinitrogenase reductase [T...   218  5e-56
+SEQ gi|3157516|dbj|BAA28386.1| (AB011849) alpha subunit of dinitroge...   218  5e-56
+SEQ gi|3157688|dbj|BAA28472.1| (AB011938) alpha subunit of dinitroge...   218  9e-56
+SEQ gi|7339925|gb|AAF61012.1| (AF216909) dinitrogenase reductase [un...   217  1e-55
+SEQ gi|7339955|gb|AAF61027.1| (AF216924) dinitrogenase reductase [un...   217  1e-55
+SEQ gi|1255478|dbj|BAA11785.1| (D83095) alpha subunit of dinitrogena...   216  2e-55
+SEQ gi|7339897|gb|AAF60998.1| (AF216895) dinitrogenase reductase [un...   216  3e-55
+SEQ gi|6277219|dbj|BAA86270.1| (AB027743) dinitrogenase reductase [n...   216  3e-55
+SEQ gi|7339915|gb|AAF61007.1| (AF216904) dinitrogenase reductase [un...   216  3e-55
+SEQ gi|3157586|dbj|BAA28421.1| (AB011886) alpha subunit of dinitroge...   216  3e-55
+SEQ gi|1255534|dbj|BAA11784.1| (D83094) alpha subunit of dinitrogena...   215  4e-55
+SEQ gi|1255486|dbj|BAA11789.1| (D83099) alpha subunit of dinitrogena...   215  5e-55
+SEQ gi|3157512|dbj|BAA28384.1| (AB011847) alpha subunit of dinitroge...   213  3e-54
+SEQ gi|7339927|gb|AAF61013.1| (AF216910) dinitrogenase reductase [un...   211  9e-54
+SEQ gi|1813636|gb|AAC24160.1| (U78306) nitrogenase reductase [Franki...   208  8e-53
+SEQ gi|7339893|gb|AAF60996.1| (AF216893) dinitrogenase reductase [un...   204  1e-51
+SEQ gi|7339891|gb|AAF60995.1| (AF216892) dinitrogenase reductase [un...   203  2e-51
+SEQ gi|7339867|gb|AAF60983.1| (AF216880) dinitrogenase reductase [ni...   202  3e-51
+SEQ gi|7339875|gb|AAF60987.1| (AF216884) dinitrogenase reductase [un...   202  5e-51
+SEQ gi|7339961|gb|AAF61030.1| (AF216927) dinitrogenase reductase [un...   202  5e-51
+SEQ gi|7339861|gb|AAF60980.1| (AF216877) dinitrogenase reductase [ni...   201  9e-51
+SEQ gi|3157606|dbj|BAA28431.1| (AB011896) alpha subunit of dinitroge...   201  9e-51
+SEQ gi|7339879|gb|AAF60989.1| (AF216886) dinitrogenase reductase [un...   201  9e-51
+SEQ gi|7339877|gb|AAF60988.1| (AF216885) dinitrogenase reductase [un...   201  1e-50
+SEQ gi|7339885|gb|AAF60992.1| (AF216889) dinitrogenase reductase [un...   201  1e-50
+SEQ gi|7339919|gb|AAF61009.1| (AF216906) dinitrogenase reductase [un...   200  1e-50
+SEQ gi|1816463|emb|CAA43132.1| (X60727) iron  nitrogenase [Clostridi...   200  2e-50
+SEQ gi|7339903|gb|AAF61001.1| (AF216898) dinitrogenase reductase [un...   200  2e-50
+SEQ gi|7339873|gb|AAF60986.1| (AF216883) dinitrogenase reductase [Az...   200  3e-50
+SEQ gi|7339929|gb|AAF61014.1| (AF216911) dinitrogenase reductase [un...   200  3e-50
+SEQ gi|7339967|gb|AAF61033.1| (AF216930) dinitrogenase reductase [un...   199  3e-50
+SEQ gi|7339947|gb|AAF61023.1| (AF216920) dinitrogenase reductase [un...   199  3e-50
+SEQ gi|6523525|emb|CAB62269.1| (AJ010282) dinitrogenase reductase [u...   199  4e-50
+SEQ gi|7339863|gb|AAF60981.1| (AF216878) dinitrogenase reductase [ni...   198  9e-50
+SEQ gi|1255480|dbj|BAA11786.1| (D83096) alpha subunit of dinitrogena...   197  1e-49
+SEQ gi|6523537|emb|CAB62275.1| (AJ010288) dinitrogenase reductase [u...   197  1e-49
+SEQ gi|6523527|emb|CAB62270.1| (AJ010283) dinitrogenase reductase [u...   197  1e-49
+SEQ gi|1255474|dbj|BAA11781.1| (D83091) alpha subunit of dinitrogena...   196  2e-49
+SEQ gi|7339969|gb|AAF61034.1| (AF216931) dinitrogenase reductase [un...   196  2e-49
+SEQ gi|7339921|gb|AAF61010.1| (AF216907) dinitrogenase reductase [un...   196  3e-49
+SEQ gi|7339973|gb|AAF61036.1| (AF216933) dinitrogenase reductase [un...   196  3e-49
+SEQ gi|1255508|dbj|BAA11799.1| (D83109) alpha subunit of dinitrogena...   196  3e-49
+SEQ gi|3157580|dbj|BAA28418.1| (AB011883) alpha subunit of dinitroge...   195  8e-49
+SEQ gi|7339857|gb|AAF60978.1| (AF216875) dinitrogenase reductase [un...   194  1e-48
+SEQ gi|7339975|gb|AAF61037.1| (AF216934) dinitrogenase reductase [un...   194  1e-48
+SEQ gi|7339953|gb|AAF61026.1| (AF216923) dinitrogenase reductase [un...   194  1e-48
+SEQ gi|3157576|dbj|BAA28416.1| (AB011881) alpha subunit of dinitroge...   193  2e-48
+SEQ gi|7339907|gb|AAF61003.1| (AF216900) dinitrogenase reductase [un...   193  2e-48
+SEQ gi|7339971|gb|AAF61035.1| (AF216932) dinitrogenase reductase [un...   193  2e-48
+SEQ gi|3157550|dbj|BAA28403.1| (AB011866) alpha subunit of dinitroge...   193  3e-48
+SEQ gi|7339981|gb|AAF61040.1| (AF216937) dinitrogenase reductase [un...   193  3e-48
+SEQ gi|3157560|dbj|BAA28408.1| (AB011871) alpha subunit of dinitroge...   192  4e-48
+SEQ gi|3157536|dbj|BAA28396.1| (AB011859) alpha subunit of dinitroge...   192  4e-48
+SEQ gi|7339959|gb|AAF61029.1| (AF216926) dinitrogenase reductase [un...   192  4e-48
+SEQ gi|7339977|gb|AAF61038.1| (AF216935) dinitrogenase reductase [un...   191  6e-48
+SEQ gi|3157600|dbj|BAA28428.1| (AB011893) alpha subunit of dinitroge...   191  8e-48
+SEQ gi|3157578|dbj|BAA28417.1| (AB011882) alpha subunit of dinitroge...   191  8e-48
+SEQ gi|12659186|gb|AAK01225.1| (AF325797) dinitrogenase reductase [T...   190  2e-47
+SEQ gi|6277225|dbj|BAA86271.1| (AB027744) dinitrogenase reductase [n...   190  2e-47
+SEQ gi|3157556|dbj|BAA28406.1| (AB011869) alpha subunit of dinitroge...   190  2e-47
+SEQ gi|12659178|gb|AAK01221.1| (AF325793) dinitrogenase reductase [S...   190  2e-47
+SEQ gi|3157628|dbj|BAA28442.1| (AB011907) alpha subunit of dinitroge...   189  4e-47
+SEQ gi|3157618|dbj|BAA28437.1| (AB011902) alpha subunit of dinitroge...   189  4e-47
+SEQ gi|1255466|dbj|BAA11777.1| (D83087) alpha subunit of dinitrogena...   189  5e-47
+SEQ gi|12659184|gb|AAK01224.1| (AF325796) dinitrogenase reductase [T...   188  5e-47
+SEQ gi|3372167|gb|AAC36027.1| (AF016598) dinitrogenase reductase [un...   188  6e-47
+SEQ gi|3157622|dbj|BAA28439.1| (AB011904) alpha subunit of dinitroge...   188  7e-47
+SEQ gi|7339865|gb|AAF60982.1| (AF216879) dinitrogenase reductase [ni...   188  8e-47
+SEQ gi|3372185|gb|AAC36033.1| (AF016604) dinitrogenase reductase [un...   187  1e-46
+SEQ gi|3157598|dbj|BAA28427.1| (AB011892) alpha subunit of dinitroge...   186  2e-46
+SEQ gi|3372170|gb|AAC36028.1| (AF016599) dinitrogenase reductase [un...   186  3e-46
+SEQ gi|3157660|dbj|BAA28458.1| (AB011924) alpha subunit of dinitroge...   186  3e-46
+SEQ gi|3157634|dbj|BAA28445.1| (AB011910) alpha subunit of dinitroge...   185  5e-46
+SEQ gi|3157644|dbj|BAA28450.1| (AB011916) alpha subunit of dinitroge...   185  5e-46
+SEQ gi|497892|dbj|BAA05354.1| (D26292) alpha subunit of dinitrogenas...   185  6e-46
+SEQ gi|7339937|gb|AAF61018.1| (AF216915) dinitrogenase reductase [un...   185  8e-46
+SEQ gi|780717|gb|AAA65425.1| (U23637) nifH [unidentified marine euba...   184  1e-45
+SEQ gi|3157638|dbj|BAA28447.1| (AB011913) alpha subunit of dinitroge...   184  1e-45
+SEQ gi|7339871|gb|AAF60985.1| (AF216882) dinitrogenase reductase [Az...   184  1e-45
+SEQ gi|6523539|emb|CAB62276.1| (AJ010289) dinitrogenase reductase [u...   184  1e-45
+SEQ gi|10863139|gb|AAG23907.1| (AF227940) dinitrogenase reductase Ni...   183  2e-45
+SEQ gi|7339985|gb|AAF61042.1| (AF216939) dinitrogenase reductase [un...   183  3e-45
+SEQ gi|3372161|gb|AAC36025.1| (AF016596) dinitrogenase reductase [un...   183  3e-45
+SEQ gi|499742|dbj|BAA05347.1| (D26285) alpha subunit of dinitrogenas...   182  4e-45
+SEQ gi|3372191|gb|AAC36035.1| (AF016606) dinitrogenase reductase [un...   182  4e-45
+SEQ gi|3157636|dbj|BAA28446.1| (AB011911) alpha subunit of dinitroge...   182  5e-45
+SEQ gi|780715|gb|AAA65424.1| (U23636) nifH [unidentified marine euba...   182  6e-45
+SEQ gi|7339855|gb|AAF60977.1| (AF216874) dinitrogenase reductase [un...   181  6e-45
+SEQ gi|7339939|gb|AAF61019.1| (AF216916) dinitrogenase reductase [un...   181  8e-45
+SEQ gi|497862|dbj|BAA05355.1| (D26293) alpha subunit of dinitrogenas...   181  8e-45
+SEQ gi|1255456|dbj|BAA11772.1| (D83082) alpha subunit of dinitrogena...   181  9e-45
+SEQ gi|7339935|gb|AAF61017.1| (AF216914) dinitrogenase reductase [un...   181  1e-44
+SEQ gi|780723|gb|AAA65428.1| (U23640) nifH [unidentified marine euba...   181  1e-44
+SEQ gi|10863109|gb|AAG23892.1| (AF227925) dinitrogenase reductase Ni...   180  2e-44
+SEQ gi|12001892|gb|AAG43089.1| (AF035514) dinitrogenase reductase; F...   180  2e-44
+SEQ gi|13173331|gb|AAK14360.1|AF331995_1 (AF331995) dinitrogenase re...   179  3e-44
+SEQ gi|13173325|gb|AAK14357.1|AF331992_1 (AF331992) dinitrogenase re...   179  3e-44
+SEQ gi|3372194|gb|AAC36036.1| (AF016607) dinitrogenase reductase [un...   179  3e-44
+SEQ gi|12659176|gb|AAK01220.1| (AF325792) dinitrogenase reductase [S...   179  3e-44
+SEQ gi|1255468|dbj|BAA11778.1| (D83088) alpha subunit of dinitrogena...   179  4e-44
+SEQ gi|1255452|dbj|BAA11782.1| (D83092) alpha subunit of dinitrogena...   179  5e-44
+SEQ gi|780725|gb|AAA65429.1| (U23641) nifH [unidentified marine euba...   178  6e-44
+SEQ gi|13173329|gb|AAK14359.1|AF331994_1 (AF331994) dinitrogenase re...   178  8e-44
+SEQ gi|7339941|gb|AAF61020.1| (AF216917) dinitrogenase reductase [un...   178  9e-44
+SEQ gi|507854|dbj|BAA05346.1| (D26284) alpha subunit of dinitrogenas...   178  1e-43
+SEQ gi|780709|gb|AAA65421.1| (U23633) nifH [unidentified marine euba...   177  1e-43
+SEQ gi|10863129|gb|AAG23902.1| (AF227935) dinitrogenase reductase Ni...   177  2e-43
+SEQ gi|497866|dbj|BAA05357.1| (D26295) alpha subunit of dinitrogenas...   176  3e-43
+SEQ gi|1805233|gb|AAC04925.1| (U43436) dinitrogenase reductase [unid...   176  3e-43
+SEQ gi|12001840|gb|AAG43063.1| (AF035488) dinitrogenase reductase; F...   176  4e-43
+SEQ gi|13182897|gb|AAK14976.1| (AF230964) NifH-related protein [cyan...   176  4e-43
+SEQ gi|497864|dbj|BAA05356.1| (D26294) alpha subunit of dinitrogenas...   176  4e-43
+SEQ gi|780713|gb|AAA65423.1| (U23635) nifH [unidentified marine euba...   175  4e-43
+SEQ gi|128278|sp|P26254|NIFH_TRITH NITROGENASE IRON PROTEIN (NITROGE...   175  4e-43
+SEQ gi|497886|dbj|BAA05351.1| (D26289) alpha subunit of dinitrogenas...   175  5e-43
+SEQ gi|13182895|gb|AAK14975.1| (AF230963) NifH-related protein [cyan...   175  6e-43
+SEQ gi|12659174|gb|AAK01219.1| (AF325791) dinitrogenase reductase [S...   175  6e-43
+SEQ gi|2984659|gb|AAC07989.1| (AF049033) dinitogenase reductase [unc...   174  8e-43
+SEQ gi|10863111|gb|AAG23893.1| (AF227926) dinitrogenase reductase Ni...   174  8e-43
+SEQ gi|4529864|gb|AAD21801.1| (AF065619) dinitrogenase reductase [De...   174  8e-43
+SEQ gi|10863135|gb|AAG23905.1| (AF227938) dinitrogenase reductase Ni...   174  9e-43
+SEQ gi|780729|gb|AAA65431.1| (U23643) nifH [unidentified marine euba...   174  9e-43
+SEQ gi|3157544|dbj|BAA28400.1| (AB011863) alpha subunit of dinitroge...   174  1e-42
+SEQ gi|780731|gb|AAA65432.1| (U23644) nifH [unidentified marine euba...   174  1e-42
+SEQ gi|10863131|gb|AAG23903.1| (AF227936) dinitrogenase reductase Ni...   173  2e-42
+SEQ gi|142054|gb|AAA16807.1| (M63689) nitrogenase reductase [uncultu...   173  2e-42
+SEQ gi|13173333|gb|AAK14361.1|AF331996_1 (AF331996) dinitrogenase re...   173  2e-42
+SEQ gi|3372153|gb|AAC36022.1| (AF016593) dinitrogenase reductase [un...   173  2e-42
+SEQ gi|1255464|dbj|BAA11776.1| (D83086) alpha subunit of dinitrogena...   173  2e-42
+SEQ gi|497882|dbj|BAA05349.1| (D26287) alpha subunit of dinitrogenas...   173  3e-42
+SEQ gi|497880|dbj|BAA05348.1| (D26286) alpha subunit of dinitrogenas...   173  3e-42
+SEQ gi|543635|pir||D49831 nitrogenase (EC 1.18.6.1) iron protein Nif...   173  3e-42
+SEQ gi|4529862|gb|AAD21800.1| (AF065618) dinitrogenase reductase [De...   172  6e-42
+SEQ gi|13936679|gb|AAK49890.1|AF286691_1 (AF286691) dinitrogenase re...   171  7e-42
+SEQ gi|3372188|gb|AAC36034.1| (AF016605) dinitrogenase reductase [un...   171  7e-42
+SEQ gi|780711|gb|AAA65422.1| (U23634) nifH [unidentified marine euba...   171  7e-42
+SEQ gi|12744286|gb|AAK06563.1|AF315428_1 (AF315428) dinitrogenase re...   171  1e-41
+SEQ gi|12744288|gb|AAK06564.1|AF315429_1 (AF315429) dinitrogenase re...   171  1e-41
+SEQ gi|780735|gb|AAA65434.1| (U23646) nifH [unidentified marine euba...   170  2e-41
+SEQ gi|3372159|gb|AAC36024.1| (AF016595) dinitrogenase reductase [un...   170  2e-41
+SEQ gi|12744292|gb|AAK06566.1|AF315431_1 (AF315431) dinitrogenase re...   170  2e-41
+SEQ gi|10863141|gb|AAG23908.1| (AF227941) dinitrogenase reductase Ni...   170  2e-41
+SEQ gi|12744282|gb|AAK06561.1|AF315426_1 (AF315426) dinitrogenase re...   169  2e-41
+SEQ gi|780719|gb|AAA65426.1| (U23638) nifH [unidentified marine euba...   169  3e-41
+SEQ gi|497884|dbj|BAA05350.1| (D26288) alpha subunit of dinitrogenas...   169  4e-41
+SEQ gi|12744284|gb|AAK06562.1|AF315427_1 (AF315427) dinitrogenase re...   169  4e-41
+SEQ gi|12744294|gb|AAK06567.1|AF315432_1 (AF315432) dinitrogenase re...   168  7e-41
+SEQ gi|12744296|gb|AAK06568.1|AF315433_1 (AF315433) dinitrogenase re...   168  1e-40
+SEQ gi|2897672|emb|CAA11936.1| (AJ224426) nitrogenase [Paenibacillus...   168  1e-40
+SEQ gi|4529866|gb|AAD21802.1| (AF065620) dinitrogenase reductase [De...   168  1e-40
+SEQ gi|2897680|emb|CAA11932.1| (AJ224422) nitrogenase [Paenibacillus...   167  1e-40
+SEQ gi|12744290|gb|AAK06565.1|AF315430_1 (AF315430) dinitrogenase re...   167  2e-40
+SEQ gi|13173335|gb|AAK14362.1|AF331997_1 (AF331997) dinitrogenase re...   166  2e-40
+SEQ gi|5701922|emb|CAB52206.1| (AJ223995) nitrogenase reductase [Pae...   166  4e-40
+SEQ gi|13173327|gb|AAK14358.1|AF331993_1 (AF331993) dinitrogenase re...   166  4e-40
+SEQ gi|3372164|gb|AAC36026.1| (AF016597) dinitrogenase reductase [un...   166  4e-40
+SEQ gi|6523543|emb|CAB62278.1| (AJ010291) dinitrogenase reductase [u...   164  1e-39
+SEQ gi|4808890|gb|AAD29988.1|AF117977_1 (AF117977) NifH [Pseudomonas...   163  4e-39
+SEQ gi|12001894|gb|AAG43090.1| (AF035515) dinitrogenase reductase; F...   162  6e-39
+SEQ gi|499740|dbj|BAA05364.1| (D26302) alpha subunit of dinitrogenas...   161  7e-39
+SEQ gi|497870|dbj|BAA05359.1| (D26297) alpha subunit of dinitrogenas...   161  8e-39
+SEQ gi|3157708|dbj|BAA28482.1| (AB011949) alpha subunit of dinitroge...   161  8e-39
+SEQ gi|2897682|emb|CAA11933.1| (AJ224423) nitrogenase [Paenibacillus...   161  1e-38
+SEQ gi|12001844|gb|AAG43065.1| (AF035490) dinitrogenase reductase; F...   161  1e-38
+SEQ gi|5701916|emb|CAB52208.1| (AJ223992) nitrogenase reductase [Pae...   161  1e-38
+SEQ gi|12001888|gb|AAG43087.1| (AF035512) dinitrogenase reductase; F...   160  2e-38
+SEQ gi|13173337|gb|AAK14363.1|AF331998_1 (AF331998) dinitrogenase re...   160  2e-38
+SEQ gi|3157616|dbj|BAA28436.1| (AB011901) alpha subunit of dinitroge...   160  2e-38
+SEQ gi|13936675|gb|AAK49888.1|AF286689_1 (AF286689) dinitrogenase re...   160  2e-38
+SEQ gi|499738|dbj|BAA05363.1| (D26301) alpha subunit of dinitrogenas...   160  2e-38
+SEQ gi|9295204|gb|AAF86886.1|AF212872_1 (AF212872) nitrogenase Fe pr...   160  2e-38
+SEQ gi|13173301|gb|AAK14345.1|AF331980_1 (AF331980) dinitrogenase re...   160  2e-38
+SEQ gi|3157712|dbj|BAA28484.1| (AB011951) alpha subunit of dinitroge...   159  3e-38
+SEQ gi|497876|dbj|BAA05367.1| (D26305) alpha subunit of dinitrogenas...   159  3e-38
+SEQ gi|10863143|gb|AAG23909.1| (AF227942) dinitrogenase reductase Ni...   159  3e-38
+SEQ gi|5701920|emb|CAB52207.1| (AJ223994) nitrogenase reductase [Pae...   159  3e-38
+SEQ gi|4808889|gb|AAD29987.1|AF117976_1 (AF117976) NifH [Pseudomonas...   159  4e-38
+SEQ gi|13173303|gb|AAK14346.1|AF331981_1 (AF331981) dinitrogenase re...   159  4e-38
+SEQ gi|13173343|gb|AAK14366.1|AF332001_1 (AF332001) dinitrogenase re...   158  6e-38
+SEQ gi|12001832|gb|AAG43059.1| (AF035484) dinitrogenase reductase; F...   158  7e-38
+SEQ gi|780733|gb|AAA65433.1| (U23645) nifH [unidentified marine euba...   158  9e-38
+SEQ gi|497868|dbj|BAA05358.1| (D26296) alpha subunit of dinitrogenas...   158  1e-37
+SEQ gi|12001864|gb|AAG43075.1| (AF035500) dinitrogenase reductase; F...   158  1e-37
+SEQ gi|4529860|gb|AAD21799.1| (AF065617) dinitrogenase reductase [Ch...   157  1e-37
+SEQ gi|780707|gb|AAA65420.1| (U23648) nifH [Methanobrevibacter arbor...   157  1e-37
+SEQ gi|5701924|emb|CAB52205.1| (AJ223996) nitrogenase reductase [Pae...   157  1e-37
+SEQ gi|1805239|gb|AAC04927.1| (U43439) dinitrogenase reductase [unid...   157  2e-37
+SEQ gi|3157730|dbj|BAA28493.1| (AB011960) alpha subunit of dinitroge...   157  2e-37
+SEQ gi|6277245|dbj|BAA86277.1| (AB027750) dinitrogenase reductase [n...   156  2e-37
+SEQ gi|9295234|gb|AAF86901.1|AF212887_1 (AF212887) nitrogenase Fe pr...   156  2e-37
+SEQ gi|3617907|gb|AAC36088.1| (AF059643) dinitrogenase reductase [Un...   156  2e-37
+SEQ gi|4565922|gb|AAD23110.1| (AF046837) nitrogenase reductase [mari...   156  3e-37
+SEQ gi|497878|dbj|BAA05368.1| (D26306) alpha subunit of dinitrogenas...   156  3e-37
+SEQ gi|12001908|gb|AAG43097.1| (AF035522) dinitrogenase reductase; F...   156  3e-37
+SEQ gi|3157614|dbj|BAA28435.1| (AB011900) alpha subunit of dinitroge...   156  3e-37
+SEQ gi|10863147|gb|AAG23911.1| (AF227944) dinitrogenase reductase Ni...   156  3e-37
+SEQ gi|12001836|gb|AAG43061.1| (AF035486) dinitrogenase reductase; F...   156  3e-37
+SEQ gi|780737|gb|AAA65435.1| (U23650) nifH [Vibrio diazotrophicus] >...   156  4e-37
+SEQ gi|11875063|dbj|BAB19359.1| (AB052653) dinitrogenase reductase [...   156  4e-37
+SEQ gi|3157676|dbj|BAA28466.1| (AB011932) alpha subunit of dinitroge...   156  4e-37
+SEQ gi|2984671|gb|AAC07995.1| (AF049039) dinitogenase reductase [unc...   156  4e-37
+SEQ gi|499736|dbj|BAA05362.1| (D26300) alpha subunit of dinitrogenas...   155  7e-37
+SEQ gi|4565930|gb|AAD23114.1| (AF046841) nitrogenase reductase [mari...   155  7e-37
+SEQ gi|780727|gb|AAA65430.1| (U23642) nifH [unidentified marine euba...   154  9e-37
+SEQ gi|2984673|gb|AAC07996.1| (AF049040) dinitogenase reductase [unc...   154  9e-37
+SEQ gi|4838422|gb|AAD30985.1|AF124377_1 (AF124377) nitrogenase reduc...   154  9e-37
+SEQ gi|543636|pir||B49831 nitrogenase (EC 1.18.6.1) iron protein nif...   154  1e-36
+SEQ gi|1805245|gb|AAC13996.1| (U43444) dinitrogenase reductase [mari...   154  1e-36
+SEQ gi|13173317|gb|AAK14353.1|AF331988_1 (AF331988) dinitrogenase re...   154  1e-36
+SEQ gi|4565904|gb|AAD23101.1| (AF046828) nitrogenase reductase [mari...   154  1e-36
+SEQ gi|1805243|gb|AAC13995.1| (U43443) dinitrogenase reductase [mari...   154  1e-36
+SEQ gi|4336635|gb|AAD17868.1| (AF099781) nitrogenase iron protein [u...   154  1e-36
+SEQ gi|3617858|gb|AAC36066.1| (AF059621) dinitrogenase reductase [Un...   154  1e-36
+SEQ gi|497888|dbj|BAA05352.1| (D26290) alpha subunit of dinitrogenas...   154  2e-36
+SEQ gi|3617874|gb|AAC36074.1| (AF059629) dinitrogenase reductase [Un...   154  2e-36
+SEQ gi|497872|dbj|BAA05360.1| (D26298) alpha subunit of dinitrogenas...   153  2e-36
+SEQ gi|1805237|gb|AAC04930.1| (U43438) dinitrogenase reductase [mari...   153  2e-36
+SEQ gi|3372179|gb|AAC36031.1| (AF016602) dinitrogenase reductase [un...   153  2e-36
+SEQ gi|499734|dbj|BAA05361.1| (D26299) alpha subunit of dinitrogenas...   153  2e-36
+SEQ gi|497890|dbj|BAA05353.1| (D26291) alpha subunit of dinitrogenas...   153  2e-36
+SEQ gi|1805247|gb|AAC04929.1| (U43445) dinitrogenase reductase [mari...   153  2e-36
+SEQ gi|12001856|gb|AAG43071.1| (AF035496) dinitrogenase reductase; F...   153  2e-36
+SEQ gi|9295212|gb|AAF86890.1|AF212876_1 (AF212876) nitrogenase Fe pr...   153  3e-36
+SEQ gi|3617862|gb|AAC36068.1| (AF059623) dinitrogenase reductase [Un...   153  3e-36
+SEQ gi|12001858|gb|AAG43072.1| (AF035497) dinitrogenase reductase; F...   153  3e-36
+SEQ gi|3372227|gb|AAC36047.1| (AF016618) dinitrogenase reductase [un...   153  3e-36
+SEQ gi|2984679|gb|AAC07999.1| (AF049043) dinitogenase reductase [unc...   153  4e-36
+SEQ gi|3157610|dbj|BAA28433.1| (AB011898) alpha subunit of dinitroge...   152  4e-36
+SEQ gi|1698860|gb|AAB37309.1| (U73132) dinitrogenase reductase [Phor...   152  4e-36
+SEQ gi|3157542|dbj|BAA28399.1| (AB011862) alpha subunit of dinitroge...   152  5e-36
+SEQ gi|4336629|gb|AAD17865.1| (AF099778) nitrogenase iron protein [u...   152  5e-36
+SEQ gi|9295198|gb|AAF86883.1|AF212869_1 (AF212869) nitrogenase Fe pr...   152  5e-36
+SEQ gi|1255454|dbj|BAA11771.1| (D83081) alpha subunit of dinitrogena...   152  5e-36
+SEQ gi|12001880|gb|AAG43083.1| (AF035508) dinitrogenase reductase; F...   152  5e-36
+SEQ gi|13878343|sp|Q9F714|BCHL_CHLTE PROTOCHLOROPHYLLIDE REDUCTASE I...   152  5e-36
+SEQ gi|3617872|gb|AAC36073.1| (AF059628) dinitrogenase reductase [Un...   152  5e-36
+SEQ gi|12001886|gb|AAG43086.1| (AF035511) dinitrogenase reductase; F...   152  6e-36
+SEQ gi|46469|emb|CAA26313.1| (X02478) nitrogenase subunit H (aa 1-12...   151  7e-36
+SEQ gi|13936673|gb|AAK49887.1|AF286688_1 (AF286688) dinitrogenase re...   151  7e-36
+SEQ gi|3372215|gb|AAC36043.1| (AF016614) dinitrogenase reductase [un...   151  8e-36
+SEQ gi|13173323|gb|AAK14356.1|AF331991_1 (AF331991) dinitrogenase re...   151  8e-36
+SEQ gi|1805241|gb|AAC04928.1| (U43442) dinitrogenase reductase [mari...   151  9e-36
+SEQ gi|3157720|dbj|BAA28488.1| (AB011955) alpha subunit of dinitroge...   151  9e-36
+SEQ gi|3157718|dbj|BAA28487.1| (AB011954) alpha subunit of dinitroge...   151  9e-36
+SEQ gi|497874|dbj|BAA05366.1| (D26304) alpha subunit of dinitrogenas...   151  1e-35
+SEQ gi|543634|pir||C49831 nitrogenase (EC 1.18.6.1) iron protein Nif...   151  1e-35
+SEQ gi|9295216|gb|AAF86892.1|AF212878_1 (AF212878) nitrogenase Fe pr...   151  1e-35
+SEQ gi|13173319|gb|AAK14354.1|AF331989_1 (AF331989) dinitrogenase re...   151  1e-35
+SEQ gi|13173311|gb|AAK14350.1|AF331985_1 (AF331985) dinitrogenase re...   151  1e-35
+SEQ gi|3157582|dbj|BAA28419.1| (AB011884) alpha subunit of dinitroge...   151  1e-35
+SEQ gi|13878918|sp|Q02431|BCHX_RHOSH CHLOROPHYLLIDE REDUCTASE 35.5 K...   150  1e-35
+SEQ gi|3372182|gb|AAC36032.1| (AF016603) dinitrogenase reductase [un...   150  2e-35
+SEQ gi|13878340|sp|Q9F6X3|BCHL_CHLAU PROTOCHLOROPHYLLIDE REDUCTASE I...   150  2e-35
+SEQ gi|3810903|dbj|BAA34069.1| (AB019139) nitrogenase iron protein [...   150  2e-35
+SEQ gi|3157724|dbj|BAA28490.1| (AB011957) alpha subunit of dinitroge...   150  2e-35
+SEQ gi|1255496|dbj|BAA11792.1| (D83102) alpha subunit of dinitrogena...   150  2e-35
+SEQ gi|4336639|gb|AAD17870.1| (AF099783) nitrogenase iron protein [u...   150  2e-35
+SEQ gi|12001854|gb|AAG43070.1| (AF035495) dinitrogenase reductase; F...   150  2e-35
+SEQ gi|4336625|gb|AAD17863.1| (AF099776) nitrogenase iron protein [u...   150  2e-35
+SEQ gi|3617917|gb|AAC36093.1| (AF059648) dinitrogenase reductase [Ma...   150  2e-35
+SEQ gi|12001846|gb|AAG43066.1| (AF035491) dinitrogenase reductase; F...   149  2e-35
+SEQ gi|3157700|dbj|BAA28478.1| (AB011945) alpha subunit of dinitroge...   149  3e-35
+SEQ gi|13878353|sp|Q9RFD6|BCHL_RHOSH PROTOCHLOROPHYLLIDE REDUCTASE I...   149  3e-35
+SEQ gi|4336623|gb|AAD17862.1| (AF099775) nitrogenase iron protein [u...   149  3e-35
+SEQ gi|1255516|dbj|BAA11804.1| (D83114) alpha subunit of dinitrogena...   149  3e-35
+SEQ gi|12001834|gb|AAG43060.1| (AF035485) dinitrogenase reductase; F...   149  3e-35
+SEQ gi|4565912|gb|AAD23105.1| (AF046832) nitrogenase reductase [mari...   149  3e-35
+SEQ gi|10863125|gb|AAG23900.1| (AF227933) dinitrogenase reductase Ni...   149  3e-35
+SEQ gi|12001900|gb|AAG43093.1| (AF035518) dinitrogenase reductase; F...   149  3e-35
+SEQ gi|4336655|gb|AAD17878.1| (AF099791) nitrogenase iron protein [u...   149  3e-35
+SEQ gi|12001870|gb|AAG43078.1| (AF035503) dinitrogenase reductase; F...   149  4e-35
+SEQ gi|10863113|gb|AAG23894.1| (AF227927) dinitrogenase reductase Ni...   149  4e-35
+SEQ gi|13936687|gb|AAK49894.1|AF286695_1 (AF286695) dinitrogenase re...   149  4e-35
+SEQ gi|10863153|gb|AAG23914.1| (AF227947) dinitrogenase reductase Ni...   149  4e-35
+SEQ gi|4565939|gb|AAD23118.1| (AF046846) nitrogenase reductase [mari...   149  4e-35
+SEQ gi|12001882|gb|AAG43084.1| (AF035509) dinitrogenase reductase; F...   149  5e-35
+SEQ gi|13936683|gb|AAK49892.1|AF286693_1 (AF286693) dinitrogenase re...   149  5e-35
+SEQ gi|1805235|gb|AAC04926.1| (U43437) dinitrogenase reductase [unid...   149  5e-35
+SEQ gi|3157736|dbj|BAA28496.1| (AB011963) alpha subunit of dinitroge...   149  5e-35
+SEQ gi|3372224|gb|AAC36046.1| (AF016617) dinitrogenase reductase [un...   149  5e-35
+SEQ gi|4565949|gb|AAD23123.1| (AF046851) nitrogenase reductase [mari...   148  6e-35
+SEQ gi|4565914|gb|AAD23106.1| (AF046833) nitrogenase reductase [mari...   148  6e-35
+SEQ gi|4336643|gb|AAD17872.1| (AF099785) nitrogenase iron protein [u...   148  6e-35
+SEQ gi|3617919|gb|AAC36094.1| (AF059649) dinitrogenase reductase [Ma...   148  6e-35
+SEQ gi|4565937|gb|AAD23117.1| (AF046845) nitrogenase reductase [mari...   148  7e-35
+SEQ gi|13936685|gb|AAK49893.1|AF286694_1 (AF286694) dinitrogenase re...   148  7e-35
+SEQ gi|4490572|emb|CAB38722.1| (AJ010302) protochlorphyllide reducta...   148  7e-35
+SEQ gi|4838424|gb|AAD30986.1|AF124378_1 (AF124378) nitrogenase reduc...   148  7e-35
+SEQ gi|2266410|emb|CAA73143.1| (Y12545) Fe subunit of nitrogenase [A...   148  8e-35
+SEQ gi|1698870|gb|AAB37314.1| (U73137) dinitrogenase reductase [uncu...   148  8e-35
+SEQ gi|3372200|gb|AAC36038.1| (AF016609) dinitrogenase reductase [un...   148  8e-35
+SEQ gi|4336633|gb|AAD17867.1| (AF099780) nitrogenase iron protein [u...   148  8e-35
+SEQ gi|114863|sp|P26237|BCHL_RHOCA PROTOCHLOROPHYLLIDE REDUCTASE IRO...   148  9e-35
+SEQ gi|9295210|gb|AAF86889.1|AF212875_1 (AF212875) nitrogenase Fe pr...   148  9e-35
+SEQ gi|4565947|gb|AAD23122.1| (AF046850) nitrogenase reductase [mari...   148  9e-35
+SEQ gi|4336663|gb|AAD17882.1| (AF099795) nitrogenase iron protein [u...   148  9e-35
+SEQ gi|4565941|gb|AAD23119.1| (AF046847) nitrogenase reductase [mari...   148  1e-34
+SEQ gi|4336627|gb|AAD17864.1| (AF099777) nitrogenase iron protein [u...   148  1e-34
+SEQ gi|4336637|gb|AAD17869.1| (AF099782) nitrogenase iron protein [u...   148  1e-34
+SEQ gi|3157552|dbj|BAA28404.1| (AB011867) alpha subunit of dinitroge...   147  1e-34
+SEQ gi|13936667|gb|AAK49884.1|AF286685_1 (AF286685) dinitrogenase re...   147  1e-34
+SEQ gi|4565945|gb|AAD23121.1| (AF046849) nitrogenase reductase [mari...   147  1e-34
+SEQ gi|3157668|dbj|BAA28462.1| (AB011928) alpha subunit of dinitroge...   147  1e-34
+SEQ gi|3157674|dbj|BAA28465.1| (AB011931) alpha subunit of dinitroge...   147  2e-34
+SEQ gi|4565906|gb|AAD23102.1| (AF046829) nitrogenase reductase [mari...   147  2e-34
+SEQ gi|12001898|gb|AAG43092.1| (AF035517) dinitrogenase reductase; F...   147  2e-34
+SEQ gi|3157592|dbj|BAA28424.1| (AB011889) alpha subunit of dinitroge...   147  2e-34
+SEQ gi|13936649|gb|AAK49875.1|AF286675_1 (AF286675) dinitrogenase re...   147  2e-34
+SEQ gi|1698868|gb|AAB37313.1| (U73136) dinitrogenase reductase [Pseu...   147  2e-34
+SEQ gi|2984667|gb|AAC07993.1| (AF049037) dinitogenase reductase [unc...   147  2e-34
+SEQ gi|1255512|dbj|BAA11801.1| (D83111) alpha subunit of dinitrogena...   147  2e-34
+SEQ gi|4565916|gb|AAD23107.1| (AF046834) nitrogenase reductase [mari...   147  2e-34
+SEQ gi|13878348|sp|Q9JPA5|BCHL_RHOGE PROTOCHLOROPHYLLIDE REDUCTASE I...   146  2e-34
+SEQ gi|13878359|sp|Q9ZGF0|BCHL_HELMO PROTOCHLOROPHYLLIDE REDUCTASE I...   146  2e-34
+SEQ gi|12001890|gb|AAG43088.1| (AF035513) dinitrogenase reductase; F...   146  2e-34
+SEQ gi|3617913|gb|AAC36091.1| (AF059646) dinitrogenase reductase [Un...   146  2e-34
+SEQ gi|9295218|gb|AAF86893.1|AF212879_1 (AF212879) nitrogenase Fe pr...   146  2e-34
+SEQ gi|4565910|gb|AAD23104.1| (AF046831) nitrogenase reductase [mari...   146  2e-34
+SEQ gi|13173299|gb|AAK14344.1|AF331979_1 (AF331979) dinitrogenase re...   146  3e-34
+SEQ gi|3157590|dbj|BAA28423.1| (AB011888) alpha subunit of dinitroge...   146  3e-34
+SEQ gi|12001850|gb|AAG43068.1| (AF035493) dinitrogenase reductase; F...   146  3e-34
+SEQ gi|3372197|gb|AAC36037.1| (AF016608) dinitrogenase reductase [un...   146  3e-34
+SEQ gi|13936671|gb|AAK49886.1|AF286687_1 (AF286687) dinitrogenase re...   146  3e-34
+SEQ gi|2253691|gb|AAB63035.1| (U97118) nitrogenase iron protein [Azo...   146  4e-34
+SEQ gi|2984683|gb|AAC08001.1| (AF049045) dinitogenase reductase [unc...   146  4e-34
+SEQ gi|4838426|gb|AAD30987.1|AF124379_1 (AF124379) nitrogenase reduc...   146  4e-34
+SEQ gi|2565233|gb|AAB81940.1| (AF013025) dinitrogenase reductase alp...   146  4e-34
+SEQ gi|4565902|gb|AAD23100.1| (AF046827) nitrogenase reductase [mari...   146  4e-34
+SEQ gi|9295196|gb|AAF86882.1|AF212868_1 (AF212868) nitrogenase Fe pr...   146  5e-34
+SEQ gi|12659192|gb|AAK01228.1| (AF325800) dinitrogenase reductase [T...   145  5e-34
+SEQ gi|2253695|gb|AAB63037.1| (U97120) nitrogenase iron protein [Azo...   145  5e-34
+SEQ gi|4565924|gb|AAD23111.1| (AF046838) nitrogenase reductase [mari...   145  5e-34
+SEQ gi|9295236|gb|AAF86902.1|AF212888_1 (AF212888) nitrogenase Fe pr...   145  5e-34
+SEQ gi|13173305|gb|AAK14347.1|AF331982_1 (AF331982) dinitrogenase re...   145  5e-34
+SEQ gi|3372209|gb|AAC36041.1| (AF016612) dinitrogenase reductase [un...   145  5e-34
+SEQ gi|13936669|gb|AAK49885.1|AF286686_1 (AF286686) dinitrogenase re...   145  6e-34
+SEQ gi|9295208|gb|AAF86888.1|AF212874_1 (AF212874) nitrogenase Fe pr...   145  6e-34
+SEQ gi|9295206|gb|AAF86887.1|AF212873_1 (AF212873) nitrogenase Fe pr...   145  6e-34
+SEQ gi|2253687|gb|AAB63033.1| (U97116) nitrogenase iron protein [Azo...   145  6e-34
+SEQ gi|3617915|gb|AAC36092.1| (AF059647) dinitrogenase reductase [Un...   145  6e-34
+SEQ gi|3157666|dbj|BAA28461.1| (AB011927) alpha subunit of dinitroge...   145  7e-34
+SEQ gi|9295232|gb|AAF86900.1|AF212886_1 (AF212886) nitrogenase Fe pr...   145  7e-34
+SEQ gi|12001876|gb|AAG43081.1| (AF035506) dinitrogenase reductase; F...   145  7e-34
+SEQ gi|12001896|gb|AAG43091.1| (AF035516) dinitrogenase reductase; F...   145  7e-34
+SEQ gi|10863123|gb|AAG23899.1| (AF227932) dinitrogenase reductase Ni...   145  8e-34
+SEQ gi|10863127|gb|AAG23901.1| (AF227934) dinitrogenase reductase Ni...   145  8e-34
+SEQ gi|12001868|gb|AAG43077.1| (AF035502) dinitrogenase reductase; F...   144  8e-34
+SEQ gi|3810899|dbj|BAA34067.1| (AB019137) nitrogenase iron protein [...   144  9e-34
+SEQ gi|2984681|gb|AAC08000.1| (AF049044) dinitogenase reductase [unc...   144  1e-33
+SEQ gi|1255472|dbj|BAA11780.1| (D83090) alpha subunit of dinitrogena...   144  1e-33
+SEQ gi|4336665|gb|AAD17883.1| (AF099796) nitrogenase iron protein [u...   144  1e-33
+SEQ gi|2253693|gb|AAB63036.1| (U97119) nitrogenase iron protein [Azo...   144  1e-33
+SEQ gi|12001884|gb|AAG43085.1| (AF035510) dinitrogenase reductase; F...   144  1e-33
+SEQ gi|2984669|gb|AAC07994.1| (AF049038) dinitogenase reductase [unc...   144  1e-33
+SEQ gi|3165370|dbj|BAA28599.1| (AB011874) alpha subunit of dinitroge...   144  1e-33
+SEQ gi|4336645|gb|AAD17873.1| (AF099786) nitrogenase iron protein [u...   144  1e-33
+SEQ gi|13878351|sp|Q9L8J5|BCHL_RHORU PROTOCHLOROPHYLLIDE REDUCTASE I...   144  2e-33
+SEQ gi|10863115|gb|AAG23895.1| (AF227928) dinitrogenase reductase Ni...   144  2e-33
+SEQ gi|6523529|emb|CAB62271.1| (AJ010284) dinitrogenase reductase [u...   144  2e-33
+SEQ gi|2117688|pir||I39612 nitrogen fixation protein - Anabaena sp. ...   144  2e-33
+SEQ gi|4565920|gb|AAD23109.1| (AF046836) nitrogenase reductase [mari...   144  2e-33
+SEQ gi|6523541|emb|CAB62277.1| (AJ010290) dinitrogenase reductase [u...   144  2e-33
+SEQ gi|3372203|gb|AAC36039.1| (AF016610) dinitrogenase reductase [un...   144  2e-33
+SEQ gi|3372156|gb|AAC36023.1| (AF016594) dinitrogenase reductase [un...   143  3e-33
+SEQ gi|4336649|gb|AAD17875.1| (AF099788) nitrogenase iron protein [u...   143  3e-33
+SEQ gi|3157726|dbj|BAA28491.1| (AB011958) alpha subunit of dinitroge...   143  3e-33
+SEQ gi|543633|pir||A49831 nitrogenase (EC 1.18.6.1) iron protein Nif...   143  3e-33
+SEQ gi|3372206|gb|AAC36040.1| (AF016611) dinitrogenase reductase [un...   143  3e-33
+SEQ gi|1709282|sp|Q09158|NIFH_NOSMU NITROGENASE IRON PROTEIN (NITROG...   143  3e-33
+SEQ gi|3157686|dbj|BAA28471.1| (AB011937) alpha subunit of dinitroge...   143  3e-33
+SEQ gi|1698876|gb|AAC64640.1| (U73140) dinitrogenase reductase [Fisc...   143  4e-33
+SEQ gi|4565943|gb|AAD23120.1| (AF046848) nitrogenase reductase [mari...   143  4e-33
+SEQ gi|9295238|gb|AAF86903.1|AF212889_1 (AF212889) nitrogenase Fe pr...   143  4e-33
+SEQ gi|2984663|gb|AAC07991.1| (AF049035) dinitogenase reductase [unc...   143  4e-33
+SEQ gi|12001838|gb|AAG43062.1| (AF035487) dinitrogenase reductase; F...   143  4e-33
+SEQ gi|9295226|gb|AAF86897.1|AF212883_1 (AF212883) nitrogenase Fe pr...   142  4e-33
+SEQ gi|4097904|gb|AAD10226.1| (U72053) dinitrogenase reductase [Anab...   142  4e-33
+SEQ gi|1805229|gb|AAB41483.1| (U43440) dinitrogenase reductase [uncu...   142  4e-33
+SEQ gi|3157594|dbj|BAA28425.1| (AB011890) alpha subunit of dinitroge...   142  4e-33
+SEQ gi|13173295|gb|AAK14342.1|AF331977_1 (AF331977) dinitrogenase re...   142  5e-33
+SEQ gi|4336651|gb|AAD17876.1| (AF099789) nitrogenase iron protein [u...   142  5e-33
+SEQ gi|12001878|gb|AAG43082.1| (AF035507) dinitrogenase reductase; F...   142  5e-33
+SEQ gi|4565908|gb|AAD23103.1| (AF046830) nitrogenase reductase [mari...   142  5e-33
+SEQ gi|2984685|gb|AAC08002.1| (AF049046) dinitogenase reductase [unc...   142  6e-33
+SEQ gi|2897678|emb|CAA11931.1| (AJ224421) nitrogenase [Paenibacillus...   142  6e-33
+SEQ gi|3157532|dbj|BAA28394.1| (AB011857) alpha subunit of dinitroge...   142  6e-33
+SEQ gi|12001910|gb|AAG43098.1| (AF035523) dinitrogenase reductase; F...   142  6e-33
+SEQ gi|3372221|gb|AAC36045.1| (AF016616) dinitrogenase reductase [un...   141  7e-33
+SEQ gi|13936657|gb|AAK49879.1|AF286680_1 (AF286680) dinitrogenase re...   141  7e-33
+SEQ gi|6523533|emb|CAB62273.1| (AJ010286) dinitrogenase reductase [u...   141  8e-33
+SEQ gi|12001866|gb|AAG43076.1| (AF035501) dinitrogenase reductase; F...   141  8e-33
+SEQ gi|12659196|gb|AAK01230.1| (AF325802) dinitrogenase reductase [T...   141  8e-33
+SEQ gi|1805231|gb|AAB41484.1| (U43441) dinitrogenase reductase [uncu...   141  8e-33
+SEQ gi|4336659|gb|AAD17880.1| (AF099793) nitrogenase iron protein [u...   141  8e-33
+SEQ gi|9295202|gb|AAF86885.1|AF212871_1 (AF212871) nitrogenase Fe pr...   141  8e-33
+SEQ gi|1698858|gb|AAB37308.1| (U73131) dinitrogenase reductase [Scyt...   141  8e-33
+SEQ gi|1698854|gb|AAB37306.1| (U73129) dinitrogenase reductase [Calo...   141  9e-33
+SEQ gi|1805227|gb|AAB41482.1| (U41507) NifH [uncultured cyanobacterium]   141  9e-33
+SEQ gi|3157680|dbj|BAA28468.1| (AB011934) alpha subunit of dinitroge...   141  9e-33
+SEQ gi|4336669|gb|AAD17885.1| (AF099798) nitrogenase iron protein [u...   141  1e-32
+SEQ gi|1698872|gb|AAB37315.1| (U73138) dinitrogenase reductase [Chlo...   141  1e-32
+SEQ gi|3157662|dbj|BAA28459.1| (AB011925) alpha subunit of dinitroge...   141  1e-32
+SEQ gi|3157702|dbj|BAA28479.1| (AB011946) alpha subunit of dinitroge...   141  1e-32
+SEQ gi|3157632|dbj|BAA28444.1| (AB011909) alpha subunit of dinitroge...   141  1e-32
+SEQ gi|3157690|dbj|BAA28473.1| (AB011939) alpha subunit of dinitroge...   141  1e-32
+SEQ gi|3617909|gb|AAC36089.1| (AF059644) dinitrogenase reductase [Un...   141  1e-32
+SEQ gi|3617870|gb|AAC36072.1| (AF059627) dinitrogenase reductase [Un...   141  1e-32
+SEQ gi|450375|gb|AAA19030.1| (L15551) nitrogen fixation protein [Nos...   141  1e-32
+SEQ gi|4565918|gb|AAD23108.1| (AF046835) nitrogenase reductase [mari...   141  1e-32
+SEQ gi|780703|gb|AAA65418.1| (U23649) nifH [Paenibacillus azotofixan...   141  1e-32
+SEQ gi|3617911|gb|AAC36090.1| (AF059645) dinitrogenase reductase [Un...   140  2e-32
+SEQ gi|3617866|gb|AAC36070.1| (AF059625) dinitrogenase reductase [Un...   140  2e-32
+SEQ gi|9295220|gb|AAF86894.1|AF212880_1 (AF212880) nitrogenase Fe pr...   140  2e-32
+SEQ gi|12025439|gb|AAG45925.1| (AF312947) NifH protein [uncultured s...   140  2e-32
+SEQ gi|13173297|gb|AAK14343.1|AF331978_1 (AF331978) dinitrogenase re...   140  2e-32
+SEQ gi|9295240|gb|AAF86904.1|AF212890_1 (AF212890) nitrogenase Fe pr...   140  2e-32
+SEQ gi|3617903|gb|AAC36086.1| (AF059641) dinitrogenase reductase [Un...   140  2e-32
+SEQ gi|4336661|gb|AAD17881.1| (AF099794) nitrogenase iron protein [u...   140  2e-32
+SEQ gi|4336647|gb|AAD17874.1| (AF099787) nitrogenase iron protein [u...   140  2e-32
+SEQ gi|2984661|gb|AAC07990.1| (AF049034) dinitogenase reductase [unc...   140  2e-32
+SEQ gi|9295228|gb|AAF86898.1|AF212884_1 (AF212884) nitrogenase Fe pr...   140  2e-32
+SEQ gi|2897665|emb|CAA11935.1| (AJ224425) nitrogenase [Paenibacillus...   140  3e-32
+SEQ gi|3165372|dbj|BAA28600.1| (AB011880) alpha subunit of dinitroge...   139  3e-32
+SEQ gi|6523531|emb|CAB62272.1| (AJ010285) dinitrogenase reductase [u...   139  3e-32
+SEQ gi|14422483|gb|AAK62050.1| (AF001432) alpha subunit of dinitroge...   139  3e-32
+SEQ gi|13936643|gb|AAK49872.1|AF286672_1 (AF286672) dinitrogenase re...   139  3e-32
+SEQ gi|13936653|gb|AAK49877.1|AF286678_1 (AF286678) dinitrogenase re...   139  3e-32
+SEQ gi|3617893|gb|AAC36081.1| (AF059636) dinitrogenase reductase [Un...   139  3e-32
+SEQ gi|2897661|emb|CAA11928.1| (AJ224418) nitrogenase [Paenibacillus...   139  3e-32
+SEQ gi|12001860|gb|AAG43073.1| (AF035498) dinitrogenase reductase; F...   139  3e-32
+SEQ gi|499744|dbj|BAA05365.1| (D26303) alpha subunit of dinitrogenas...   139  3e-32
+SEQ gi|2897676|emb|CAA11930.1| (AJ224420) nitrogenase [Paenibacillus...   139  4e-32
+SEQ gi|9295222|gb|AAF86895.1|AF212881_1 (AF212881) nitrogenase Fe pr...   139  4e-32
+SEQ gi|3157620|dbj|BAA28438.1| (AB011903) alpha subunit of dinitroge...   139  4e-32
+SEQ gi|3157528|dbj|BAA28392.1| (AB011855) alpha subunit of dinitroge...   139  4e-32
+SEQ gi|10863145|gb|AAG23910.1| (AF227943) dinitrogenase reductase Ni...   139  4e-32
+SEQ gi|780721|gb|AAA65427.1| (U23639) nifH [unidentified marine euba...   139  4e-32
+SEQ gi|3617887|gb|AAC36079.1| (AF059634) dinitrogenase reductase [Un...   139  4e-32
+SEQ gi|3157694|dbj|BAA28475.1| (AB011941) alpha subunit of dinitroge...   139  4e-32
+SEQ gi|4336653|gb|AAD17877.1| (AF099790) nitrogenase iron protein [u...   139  4e-32
+SEQ gi|290894|gb|AAA19028.1| (L15554) nitrogen fixation protein [Glo...   139  4e-32
+SEQ gi|2984675|gb|AAC07997.1| (AF049041) dinitogenase reductase [unc...   139  5e-32
+SEQ gi|1698856|gb|AAB37307.1| (U73130) dinitrogenase reductase [Calo...   139  5e-32
+SEQ gi|142048|gb|AAA22011.1| (M63686) nitrogenase reductase [Anabaen...   139  5e-32
+SEQ gi|12659200|gb|AAK01232.1| (AF325804) dinitrogenase reductase [T...   138  7e-32
+SEQ gi|4336667|gb|AAD17884.1| (AF099797) nitrogenase iron protein [u...   138  7e-32
+SEQ gi|833843|gb|AAA67562.1| (U26186) nitrogenase reductase [unident...   138  8e-32
+SEQ gi|3617889|gb|AAC36080.1| (AF059635) dinitrogenase reductase [Un...   138  8e-32
+SEQ gi|3617901|gb|AAC36085.1| (AF059640) dinitrogenase reductase [Un...   138  8e-32
+SEQ gi|3617868|gb|AAC36071.1| (AF059626) dinitrogenase reductase [Un...   138  9e-32
+SEQ gi|3157626|dbj|BAA28441.1| (AB011906) alpha subunit of dinitroge...   138  9e-32
+SEQ gi|3372218|gb|AAC36044.1| (AF016615) dinitrogenase reductase [un...   138  9e-32
+SEQ gi|12001862|gb|AAG43074.1| (AF035499) dinitrogenase reductase; F...   138  9e-32
+SEQ gi|9295242|gb|AAF86905.1|AF212891_1 (AF212891) nitrogenase Fe pr...   138  1e-31
+SEQ gi|114867|sp|P26177|BCHX_RHOCA CHLOROPHYLLIDE REDUCTASE 35.5 KD ...   138  1e-31
+SEQ gi|3157664|dbj|BAA28460.1| (AB011926) alpha subunit of dinitroge...   138  1e-31
+SEQ gi|3157722|dbj|BAA28489.1| (AB011956) alpha subunit of dinitroge...   137  1e-31
+SEQ gi|3617878|gb|AAC36076.1| (AF059631) dinitrogenase reductase [Un...   137  1e-31
+SEQ gi|3157670|dbj|BAA28463.1| (AB011929) alpha subunit of dinitroge...   137  1e-31
+SEQ gi|4565951|gb|AAD23124.1| (AF046852) nitrogenase reductase [mari...   137  2e-31
+SEQ gi|2984665|gb|AAC07992.1| (AF049036) dinitogenase reductase [unc...   137  2e-31
+SEQ gi|3617860|gb|AAC36067.1| (AF059622) dinitrogenase reductase [Un...   137  2e-31
+SEQ gi|9295224|gb|AAF86896.1|AF212882_1 (AF212882) nitrogenase Fe pr...   136  2e-31
+SEQ gi|9295230|gb|AAF86899.1|AF212885_1 (AF212885) nitrogenase Fe pr...   136  3e-31
+SEQ gi|2253697|gb|AAB63038.1| (U97121) nitrogenase iron protein [Her...   136  3e-31
+SEQ gi|4565935|gb|AAD23116.1| (AF046844) nitrogenase reductase [mari...   136  3e-31
+SEQ gi|3810901|dbj|BAA34068.1| (AB019138) nitrogenase iron protein [...   136  3e-31
+SEQ gi|12001848|gb|AAG43067.1| (AF035492) dinitrogenase reductase; F...   136  5e-31
+SEQ gi|6523535|emb|CAB62274.1| (AJ010287) dinitrogenase reductase [u...   135  5e-31
+SEQ gi|1698874|gb|AAB37316.1| (U73139) dinitrogenase reductase [Chlo...   135  5e-31
+SEQ gi|541283|pir||B49850 chlorin reductase subunit BchX - Rhodobact...   135  8e-31
+SEQ gi|13936681|gb|AAK49891.1|AF286692_1 (AF286692) dinitrogenase re...   135  8e-31
+SEQ gi|12001842|gb|AAG43064.1| (AF035489) dinitrogenase reductase; F...   134  8e-31
+SEQ gi|3617864|gb|AAC36069.1| (AF059624) dinitrogenase reductase [Un...   134  1e-30
+SEQ gi|1255462|dbj|BAA11775.1| (D83085) alpha subunit of dinitrogena...   134  1e-30
+SEQ gi|13936651|gb|AAK49876.1|AF286676_1 (AF286676) dinitrogenase re...   134  1e-30
+SEQ gi|3617876|gb|AAC36075.1| (AF059630) dinitrogenase reductase [Un...   134  1e-30
+SEQ gi|6523545|emb|CAB62279.1| (AJ010292) dinitrogenase reductase [u...   134  1e-30
+SEQ gi|2253685|gb|AAB63032.1| (U97115) nitrogenase iron protein [Azo...   134  1e-30
+SEQ gi|3617895|gb|AAC36082.1| (AF059637) dinitrogenase reductase [Un...   134  2e-30
+SEQ gi|3372176|gb|AAC36030.1| (AF016601) dinitrogenase reductase [un...   134  2e-30
+SEQ gi|3372150|gb|AAC36021.1| (AF016592) dinitrogenase reductase [un...   133  2e-30
+SEQ gi|13936677|gb|AAK49889.1|AF286690_1 (AF286690) dinitrogenase re...   133  2e-30
+SEQ gi|3372173|gb|AAC36029.1| (AF016600) dinitrogenase reductase [un...   133  2e-30
+SEQ gi|3157714|dbj|BAA28485.1| (AB011952) alpha subunit of dinitroge...   133  2e-30
+SEQ gi|419609|pir||S30915 protochlorophyllide reductase (EC 1.3.1.33...   133  2e-30
+SEQ gi|3617899|gb|AAC36084.1| (AF059639) dinitrogenase reductase [Un...   133  3e-30
+SEQ gi|11256537|pir||T50882 chlorophillide reductase subunit [import...   131  7e-30
+SEQ gi|2253699|gb|AAB63039.1| (U97122) nitrogenase iron protein [Azo...   131  1e-29
+SEQ gi|10863151|gb|AAG23913.1| (AF227946) dinitrogenase reductase Ni...   131  1e-29
+SEQ gi|12025443|gb|AAG45927.1| (AF312949) NifH protein [uncultured s...   131  1e-29
+SEQ gi|5701918|emb|CAB52203.1| (AJ223993) nitrogenase reductase [Pae...   131  1e-29
+SEQ gi|12025427|gb|AAG45919.1| (AF312941) NifH protein [uncultured s...   131  1e-29
+SEQ gi|1698864|gb|AAB37311.1| (U73134) dinitrogenase reductase [Derm...   131  1e-29
+SEQ gi|13936663|gb|AAK49882.1|AF286683_1 (AF286683) dinitrogenase re...   131  1e-29
+SEQ gi|12025431|gb|AAG45921.1| (AF312943) NifH protein [uncultured s...   131  2e-29
+SEQ gi|13936655|gb|AAK49878.1|AF286679_1 (AF286679) dinitrogenase re...   130  2e-29
+SEQ gi|120544|sp|Q00237|CHLL_PLEBO PROTOCHLOROPHYLLIDE REDUCTASE IRO...   129  3e-29
+SEQ gi|10863133|gb|AAG23904.1| (AF227937) dinitrogenase reductase Ni...   129  3e-29
+SEQ gi|3157738|dbj|BAA28497.1| (AB011964) alpha subunit of dinitroge...   129  3e-29
+SEQ gi|4336641|gb|AAD17871.1| (AF099784) nitrogenase iron protein [u...   129  3e-29
+SEQ gi|12025429|gb|AAG45920.1| (AF312942) NifH protein [uncultured s...   129  3e-29
+SEQ gi|10863149|gb|AAG23912.1| (AF227945) dinitrogenase reductase Ni...   129  3e-29
+SEQ gi|13936647|gb|AAK49874.1|AF286674_1 (AF286674) dinitrogenase re...   129  4e-29
+SEQ gi|294102|gb|AAA19031.1| (L15552) nitrogen fixation protein [Ple...   129  4e-29
+SEQ gi|12025433|gb|AAG45922.1| (AF312944) NifH protein [uncultured s...   129  4e-29
+SEQ gi|1698866|gb|AAB37312.1| (U73135) dinitrogenase reductase [Xeno...   128  6e-29
+SEQ gi|12001852|gb|AAG43069.1| (AF035494) dinitrogenase reductase; F...   128  7e-29
+SEQ gi|10863119|gb|AAG23897.1| (AF227930) dinitrogenase reductase Ni...   128  8e-29
+SEQ gi|10863121|gb|AAG23898.1| (AF227931) dinitrogenase reductase Ni...   128  1e-28
+SEQ gi|293107|gb|AAA19029.1| (L15550) nitrogen fixation protein [Lyn...   128  1e-28
+SEQ gi|10863117|gb|AAG23896.1| (AF227929) dinitrogenase reductase Ni...   127  1e-28
+SEQ gi|1698862|gb|AAB37310.1| (U73133) dinitrogenase reductase [Myxo...   127  1e-28
+SEQ gi|7433387|pir||S76833 protochlorophyllide reductase (EC 1.3.1.3...   127  2e-28
+SEQ gi|1255498|dbj|BAA11794.1| (D83104) alpha subunit of dinitrogena...   126  3e-28
+SEQ gi|12001874|gb|AAG43080.1| (AF035505) dinitrogenase reductase; F...   126  3e-28
+SEQ gi|13936661|gb|AAK49881.1|AF286682_1 (AF286682) dinitrogenase re...   126  4e-28
+SEQ gi|120545|sp|P28373|CHLL_SYNY3 PROTOCHLOROPHYLLIDE REDUCTASE IRO...   124  9e-28
+SEQ gi|217092|dbj|BAA01274.1| (D10474) frxC protein [Synechocystis sp.]   124  9e-28
+SEQ gi|9295214|gb|AAF86891.1|AF212877_1 (AF212877) nitrogenase Fe pr...   124  1e-27
+SEQ gi|11467428|ref|NP_043285.1| ChlL [Cyanophora paradoxa] >gi|1345...   124  2e-27
+SEQ gi|13936645|gb|AAK49873.1|AF286673_1 (AF286673) dinitrogenase re...   124  2e-27
+SEQ gi|1502381|gb|AAB06593.1| (U32183) dinitrogenase reductase [Kleb...   124  2e-27
+SEQ gi|1705820|sp|P54207|CHLL_SYNP7 PROTOCHLOROPHYLLIDE REDUCTASE IR...   123  2e-27
+SEQ gi|11465653|ref|NP_053797.1| protochlorophyllide reductase iron-...   123  3e-27
+SEQ gi|2984687|gb|AAC08003.1| (AF049047) dinitogenase reductase [unc...   121  1e-26
+SEQ gi|11466432|ref|NP_038438.1| ATP-binding subunit of protochlorop...   121  1e-26
+SEQ gi|3157706|dbj|BAA28481.1| (AB011948) alpha subunit of dinitroge...   119  5e-26
+SEQ gi|1168937|sp|P41645|CHLL_PINTH PROTOCHLOROPHYLLIDE REDUCTASE IR...   119  5e-26
+SEQ gi|7524731|ref|NP_042485.1| protochlorophyllide reductase Fe pro...   119  5e-26
+SEQ gi|2764581|emb|CAA04482.1| (AJ001025) Protochlorophyllide reduct...   119  5e-26
+SEQ gi|3913244|sp|O47041|CHLL_PICAB PROTOCHLOROPHYLLIDE REDUCTASE IR...   119  5e-26
+SEQ gi|120541|sp|Q00469|CHLL_CHLRE PROTOCHLOROPHYLLIDE REDUCTASE IRO...   118  8e-26
+SEQ gi|320106|pir||JQ1675 frxC protein - Chlamydomonas reinhardtii c...   117  1e-25
+SEQ gi|120543|sp|P26181|CHLL_PINCO PROTOCHLOROPHYLLIDE REDUCTASE IRO...   117  1e-25
+SEQ gi|11466762|ref|NP_039358.1| frxC [Marchantia polymorpha] >gi|12...   117  2e-25
+SEQ gi|1255460|dbj|BAA11774.1| (D83084) alpha subunit of dinitrogena...   117  2e-25
+SEQ gi|4098454|gb|AAD00271.1| (U78044) dinitrogenase reductase [Gluc...   116  3e-25
+SEQ gi|7524882|ref|NP_045884.1| light-independent protochlorophyllid...   116  5e-25
+SEQ gi|11467861|ref|NP_050912.1| ATP-binding subunit of protochlorop...   114  2e-24
+SEQ gi|12025441|gb|AAG45926.1| (AF312948) NifH protein [uncultured s...   113  2e-24
+SEQ gi|9279957|dbj|BAB01537.1| (AB030108) light-indepedent protochlo...   110  2e-23
+SEQ gi|5701926|emb|CAB52204.1| (AJ223997) nitrogenase reductase [Pae...   108  1e-22
+SEQ gi|9279933|dbj|BAB01525.1| (AB030096) light-indepedent protochlo...   107  2e-22
+SEQ gi|9279967|dbj|BAB01542.1| (AB030113) light-indepedent protochlo...   107  2e-22
+SEQ gi|9279953|dbj|BAB01535.1| (AB030106) light-indepedent protochlo...   107  2e-22
+SEQ gi|9279925|dbj|BAB01521.1| (AB030092) light-indepedent protochlo...   107  2e-22
+SEQ gi|9279955|dbj|BAB01536.1| (AB030107) light-indepedent protochlo...   107  2e-22
+SEQ gi|9279913|dbj|BAB01515.1| (AB030086) light-indepedent protochlo...   107  2e-22
+SEQ gi|9279963|dbj|BAB01540.1| (AB030111) light-indepedent protochlo...   107  2e-22
+SEQ gi|9279969|dbj|BAB01543.1| (AB030114) light-indepedent protochlo...   107  2e-22
+SEQ gi|9279939|dbj|BAB01528.1| (AB030099) light-indepedent protochlo...   107  2e-22
+SEQ gi|9279961|dbj|BAB01539.1| (AB030110) light-indepedent protochlo...   106  3e-22
+SEQ gi|9279931|dbj|BAB01524.1| (AB030095) light-indepedent protochlo...   105  6e-22
+SEQ gi|9279921|dbj|BAB01519.1| (AB030090) light-indepedent protochlo...   105  7e-22
+SEQ gi|9279959|dbj|BAB01538.1| (AB030109) light-indepedent protochlo...   102  4e-21
+SEQ gi|9279965|dbj|BAB01541.1| (AB030112) light-indepedent protochlo...    99  6e-20
+SEQ gi|152290|gb|AAA21773.1| (L11085) nitrogenase iron protein [Rhiz...    97  3e-19
+SEQ gi|14211512|gb|AAK57462.1| (AF380275) FrxC [Metasequoia glyptost...    96  6e-19
+SEQ gi|14211516|gb|AAK57464.1| (AF380277) FrxC [Fokienia hodginsii]        95  8e-19
+SEQ gi|14211518|gb|AAK57465.1| (AF380278) FrxC [Taiwania flousiana]        95  8e-19
+SEQ gi|14211506|gb|AAK57459.1| (AF380272) FrxC [Platycladus orientalis]    95  9e-19
+SEQ gi|14211510|gb|AAK57461.1| (AF380274) FrxC [Cupressus funebris]        94  1e-18
+SEQ gi|14211514|gb|AAK57463.1| (AF380276) FrxC [Juniperus chinensis]       94  1e-18
+SEQ gi|14211508|gb|AAK57460.1| (AF380273) FrxC [Taxodium distichum]        93  4e-18
+SEQ gi|14211522|gb|AAK57467.1| (AF380280) FrxC [Taxodium distichum v...    93  4e-18
+SEQ gi|14211530|gb|AAK57471.1| (AF380284) FrxC [Cunninghamia lanceol...    93  4e-18
+SEQ gi|14211504|gb|AAK57458.1| (AF380271) FrxC [Juniperus communis]        92  7e-18
+SEQ gi|544021|sp|P36439|CHLL_POLAC PROTOCHLOROPHYLLIDE REDUCTASE IRO...    92  8e-18
+SEQ gi|2897669|emb|CAA11938.1| (AJ224428) nitrogenase [Paenibacillus...    92  1e-17
+SEQ gi|14211526|gb|AAK57469.1| (AF380282) FrxC [Glyptostrobus pensilis]    91  1e-17
+SEQ gi|14211520|gb|AAK57466.1| (AF380279) FrxC [Sequoia sempervirens]      91  1e-17
+SEQ gi|14211532|gb|AAK57472.1| (AF380285) FrxC [Cryptomeria japonica]      91  1e-17
+SEQ gi|14211524|gb|AAK57468.1| (AF380281) FrxC [Thuja occidentalis]        87  2e-16
+SEQ gi|14211528|gb|AAK57470.1| (AF380283) FrxC [Sciadopitys verticil...    84  2e-15
+SEQ gi|1709283|sp|P52336|NIFH_NOSSN NITROGENASE IRON PROTEIN (NITROG...    78  2e-13
+SEQ gi|152321|gb|AAA26324.1| (K02676) nitrogenase (nifH) [Rhizobium ...    72  1e-11
+SEQ gi|3913254|sp|Q53450|CHLL_SYNP2 PROTOCHLOROPHYLLIDE REDUCTASE IR...    66  4e-10
+SEQ gi|2338767|gb|AAB67239.1| (AF018954) chlorin reductase subunit [...    63  4e-09
+SEQ gi|46471|emb|CAA26314.1| (X02479) unidentified reading frame [Rh...    58  1e-07
+SEQ gi|152318|gb|AAA26323.1| (M15401) dinitrogenase reductase [Rhizo...    58  2e-07
+SEQ gi|128265|sp|P26249|NIFH_ENTAG NITROGENASE IRON PROTEIN (NITROGE...    50  4e-05
+SEQ gi|79773|pir||A28186 nitrogenase (EC 1.18.6.1) iron protein nifH...    50  4e-05
+SEQ gi|4378866|gb|AAD19734.1| (AF124349) ATP-binding protein [Zymomo...    49  6e-05
+SEQ gi|2833531|sp|Q58098|Y685_METJA HYPOTHETICAL ATP-BINDING PROTEIN...    46  5e-04
+SEQ gi|2495840|sp|Q57633|Y169_METJA HYPOTHETICAL ATP-BINDING PROTEIN...    46  5e-04
+SEQ 
+## SEQUENCE PROFILE AND ENTROPY
+ SeqNo PDBNo   V   L   I   M   F   W   Y   G   A   P   S   T   C   H   R   K   Q   E   N   D  NOCC NDEL NINS ENTROPY RELENT WEIGHT
+    1    1     4  39  16  40   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.164     38  0.00
+    2    2     0   0   0   0   0   0   0   0   0   0   0   0   0   0  95   5   0   0   0   0     0    0    0   0.203      6  0.00
+    3    3     1   0   0   0   0   0   0   0   0   0   0   0   0   0   2  26  72   0   0   0     0    0    0   0.701     23  0.00
+    4    4     8  12  62   0   3   0   0   0   0   0   0   0  15   0   0   0   0   0   0   0     0    0    0   1.151     38  0.00
+    5    5     0   0   0   0   0   0   0   0  96   0   1   0   2   0   0   0   0   0   0   0     0    0    0   0.178      5  0.00
+    6    6    19   1  41   0  40   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.080     36  0.00
+    7    7     0   0   0   0   0   0  99   0   0   0   1   0   0   0   0   0   0   0   0   0     0    0    0   0.042      1  0.00
+    8    8     0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+    9    9     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0     0    0    0   0.000      0  0.00
+   10   10     0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+   11   11     0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.030      1  0.00
+   12   12     2   0  97   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0     0    0    0   0.162      5  0.00
+   13   13     0   0   0   0   0   0   0  99   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.055      1  0.00
+   14   14     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0     0    0    0   0.027      0  0.00
+   15   15     0   0   0   0   0   0   0   0   0   0  99   1   0   0   0   0   0   0   0   0     0    0    0   0.066      2  0.00
+   16   16     0   0   0   0   1   0   0   0   0   0   1  97   0   0   0   0   0   0   0   0     0    0    0   0.187      6  0.00
+   17   17     2   0   6   0   0   0   0   0   1   0   0  89   0   0   0   0   0   0   1   0     0    0    0   0.493     16  0.00
+   18   18     3   1   0   0   0   0   0   0   4   0  35  48   1   0   0   0   7   0   0   0     0    0    0   1.264     42  0.00
+   19   19     0   0   0   0   0   0   0   1  11   0   8   0   9   0   0   0  70   0   0   0     0    0    0   0.977     32  0.00
+   20   20     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  99   0     0    0    0   0.054      1  0.00
+   21   21     2  40  18   2   0   0   0   0   0   0   0  38   0   0   0   0   0   0   0   0     0    0    0   1.199     40  0.00
+   22   22    28  16   1   2   0   0   0   0  14   0  25  13   0   0   0   0   0   0   1   0     0    0    0   1.716     57  0.00
+   23   23     4   0   8   0   0   0   1   0  82   0   2   1   0   1   0   0   0   0   0   0     0    0    0   0.739     24  0.00
+   24   24     1   0   0   1   0   0   0  24  72   0   2   0   0   0   0   0   0   0   0   0     0    0    0   0.779     26  0.00
+   25   25     0  83   1  13   1   0   1   0   0   0   0   0   1   0   0   0   0   0   0   0     0    0    0   0.579     19  0.00
+   26   26    10   0   0   0   0   0   2   5  65   0   8   1   0   7   0   0   0   0   1   0     0    0    0   1.246     41  0.00
+   27   27     2   2   1   0   7   0   1   0   3   0   3   3   0   0  11   6   2  53   1   6     0    0    0   1.771     59  0.00
+   28   28     0  21   2  31   1   0   3   1   9   0   4   0   0   5  14   3   2   1   1   1     0    0    0   2.098     70  0.00
+   29   29     0   0   0   0   0   0   0  87   1   0   0   1   0   0   0   2   1   0   5   4     0    0    0   0.592     19  0.00
+   30   30     0   2   0   1   0   0   4   0   1   0   0   0   1   2   5  50  23   8   5   0     0    0    0   1.555     51  0.00
+   31   31     1   0   0   0   0   0   0   0   0   0   1   2   0   1  18  68   5   0   5   0     0    0    0   1.069     35  0.00
+   32   32    65   0  33   1   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0     0    0    0   0.733     24  0.00
+   33   33     0  43   1  48   7   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.966     32  0.00
+   34   34    19   4  49   0   0   0   0   0   0   0   0   0   0   0   0   0  27   0   0   0     0    0    0   1.195     39  0.00
+   35   35    62   1  26   0   3   0   0   0   0   0   0   0   0   8   0   0   0   0   0   0     0    0    0   0.989     33  0.00
+   36   36     0   0   0   0   0   0   0  99   0   0   0   0   0   0   0   0   0   0   0   1     0    0    0   0.056      1  0.00
+   37   37     0   0   0   0   0   0   0   0   0   0   0   0  99   0   0   0   0   0   0   0     0    0    0   0.048      1  0.00
+   38   38     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100     0    0    0   0.017      0  0.00
+   39   39     0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0     0    0    0   0.034      1  0.00
+   40   40     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  99   0   0   0   0     0    0    0   0.099      3  0.00
+   41   41     0   0   0   0   0   0   0   0  71   0   8   0   0  21   0   0   0   0   0   0     0    0    0   0.837     27  0.00
+   42   42     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  99     0    0    0   0.065      2  0.00
+   43   43     0   0   0   0   0   0   0   0   0   0  97   1   1   0   0   0   0   0   0   0     0    0    0   0.170      5  0.00
+   44   44     0   0   0   0   0   0   0   0   0   0   1  98   0   0   0   0   0   0   0   0     0    0    0   0.112      3  0.00
+   45   45     0   0   1   0   8   0   0   0   0   0   1   0   0   0  87   0   0   0   2   0     0    0    0   0.553     18  0.00
+   46   46     0  82   0   4   1   0   0   0   0   0   0  10   0   0   0   0   0   0   1   0     0    0    0   0.713     23  0.00
+   47   47     2  35  46  15   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0     0    0    0   1.130     37  0.00
+   48   48     0  84   1   1   1   0   0   0   0   0   0  10   1   0   2   0   0   0   0   0     0    0    0   0.674     22  0.00
+   49   49     0   0   0   0   0   0   0  37   0   0   0   0   0  48   1   0   0   0  11   1     0    0    0   1.170     39  0.00
+   50   50     0   0   0   0   7   0   0  36  18   0  23   7   4   0   1   1   0   1   0   0     0    0    0   1.779     59  0.00
+   51   51     1  29   0   3   0   0   0   0   2   0   0   1   0   0   2  59   0   2   0   0     0    0    0   1.169     39  0.00
+   52   52     1   1   8   5   0   0   2   0  64   3   2   1   0   3   2   1   1   1   4   1     0    0    0   1.531     51  0.00
+   53   53     0   1   7   0   0   0   0   0   0   1   0   0   1   0   1   0  88   0   0   0     0    0    0   0.571     19  0.00
+   54   54     1   0   0   0   0   0   0   1   1  13   2  19   0   0   3  19   3   4  18  14     0    0    0   2.085     69  0.00
+   55   55     0   0   0   0   0   0   0   0   0   1   9  89   0   0   0   0   0   0   0   0     0    0    0   0.400     13  0.00
+   56   56    57   3  38   1   0   0   0   0   1   0   0   1   0   0   0   0   0   0   0   0     0    0    0   0.936     31  0.00
+   57   57     0  59   9  30   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.958     31  0.00
+   58   58     0   0   0   0   0   0   0   0   0   0  10   0   0  20   0   0   8  16   0  45     0    0    0   1.448     48  0.00
+   59   59     3  37   1  16   0   0   4   0   2   0   1  35   0   0   0   1   0   0   0   0     0    0    0   1.495     49  0.00
+   60   60     3  37   4   2   1   0   0   0  52   0   1   0   0   0   0   0   0   0   0   0     0    0    0   1.111     37  0.00
+   61   61     0   0   0   0   0   0   0   0  50   0   2   0   0   1  36   3   7   0   0   0     0    0    0   1.203     40  0.00
+   62   62     0   0   0   0   0   0   0   0   3   0   9   2   0   0   1   2   4  62   1  15     0    0    0   1.369     45  0.00
+   63   63     1   3   0   2   0   0   0   1  29   0   1   4   0   1  15  14   1  23   3   2     0    0    0   1.990     66  0.00
+   64   64     0   0   0   0   0   0   0  83   2   2   2   1   0   0   1   1   0   0   1   7     0    0    0   0.804     26  0.00
+   65   65     1   0   0   0   0   0   0   1   1   2   1   1   0   0   0   2   3  85   0   2     0    0    0   0.771     25  0.00
+   66   66     1   1   0   1   0   0   0   2   0   0   0   0   0   0   1   2   0   7   2  81     0    0    0   0.872     29  0.00
+   67   67    28  42  23   1   0   0   1   0   1   1   0   0   2   0   1   0   0   1   0   0     0    0    0   1.399     46  0.00
+   68   68     0   0   0   0   0   7   0   1   1   0   1   8   0   0   3   2   2  69   2   5     0    0    0   1.269     42  0.00
+   69   69     3  77   4   1   0   0   0   0   4   4   5   0   0   0   0   0   0   0   2   0     0    0    0   1.010     33  0.00
+   70   70     0   0   0   0   0   0   0   2   1   0   3   0   0   3   0   1   1  65   1  23     0    0    0   1.101     36  0.00
+   71   71     1   1   0   0   0   0   0   0   2   0   2   2   0   1   1   5   3  15   2  65     0    0    0   1.364     45  0.00
+   72   72    79   5  13   0   1   0   0   0   1   0   0   0   0   0   0   0   0   1   0   0     0    0    0   0.748     24  0.00
+   73   73    15  39  16  19   0   0   0   0   1   0   0   0   2   0   5   0   1   1   0   0     0    0    0   1.683     56  0.00
+   74   74     2  14   2   0   4   0   4   0   1   0   6   0   0   7   5  49   4   1   1   0     0    0    0   1.830     61  0.00
+   75   75    22   3  11   1   0   0   1   1   4   6   2  22   0   1   2  10   1  11   1   2     0    0    0   2.271     75  0.00
+   76   76     0   0   0   0   0   0   0  98   0   0   1   0   0   0   0   0   0   0   0   0     0    0    0   0.102      3  0.00
+   77   77     1   0   0   0  36   1  57   0   2   0   0   0   0   0   0   0   1   1   0   0     0    0    0   1.039     34  0.00
+   78   78     0   2   0   1   2   1   0  45   4   0   3   1   0   0  14  17   2   1   6   1     0    0    0   1.803     60  0.00
+   79   79     0   0   0   0   0   0   0  53   1   0   1   0   0   0   0   1   0   2  11  30     0    0    0   1.235     41  0.00
+   80   80    41   0  45   0   0   0   0   0   0   0   2  10   2   0   0   0   0   0   0   0     0    0    0   1.138     38  0.00
+   81   81     0   8   1   3   1   1   2   1   1   0   2   0   0   2  26  41   1   0   0   8     0    0    0   1.801     60  0.00
+   82   82     0   0   0   0   0   0   0   2   1   0   1   0  95   0   0   0   0   0   1   0     0    0    0   0.314     10  0.00
+   83   83    87   1   1   1   0   0   0   0   2   0   0   6   2   0   0   0   0   0   0   0     0    0    0   0.602     20  0.00
+   84   84     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100   0   0     0    0    0   0.010      0  0.00
+   85   85     0   1   0   0   0   0   0   0  14   0  83   0   1   0   0   0   0   0   0   0     0    0    0   0.567     18  0.00
+   86   86     0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.019      0  0.00
+   87   87     0   0   0   0   0   0   0  99   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.040      1  0.00
+   88   88     0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0     0    0    0   0.010      0  0.00
+   89   89     1   0   0   0   0   0   0   0   1   8   1   0   0   0   0   1   0  88   0   0     0    0    0   0.529     17  0.00
+   90   90     1   0   0   0   0   0   0   0   8  91   0   0   0   0   0   0   0   0   0   0     0    0    0   0.343     11  0.00
+   91   91     0   0   0   0   0   0   0  99   1   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.044      1  0.00
+   92   92    88   0   3   0   0   0   0   0   7   0   0   1   0   0   1   0   0   0   0   0     0    0    0   0.515     17  0.00
+   93   93     0   0   0   0   0   0   0  99   1   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.100      3  0.00
+   94   94     0   0   0   0   0   1   0   0   0   0   0   0  99   0   0   0   0   0   0   0     0    0    0   0.101      3  0.00
+   95   95     0   0   0   0   0   0   0   9  90   1   0   0   0   0   0   0   0   0   0   0     0    0    0   0.354     11  0.00
+   96   96     0   0   0   0   0   0   0  99   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.075      2  0.00
+   97   97     0   0   0   0   0   0   8   0   0   0   0   0   0   0  90   0   0   0   0   0     0    0    0   0.401     13  0.00
+   98   98     8   0   0   0   0   0   0  91   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.329     10  0.00
+   99   99    55   0  44   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.738     24  0.00
+  100  100     0   3  88   0   0   0   0   8   0   0   0   0   0   0   0   0   0   0   1   0     0    0    0   0.502     16  0.00
+  101  101     1   0   0   0   0   0   0   0   1   0   2  87   0   1   0   0   1   7   0   0     0    0    0   0.590     19  0.00
+  102  102     1   0   0   0   0   0   0   1  51   0  37  10   0   0   0   0   0   0   0   0     0    0    0   1.042     34  0.00
+  103  103    11   0  83   1   5   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.618     20  0.00
+  104  104     0   0   0   0   0   0   0   4   0   0   2   3   0   0   0   8   0   7  69   8     0    0    0   1.173     39  0.00
+  105  105     0  32   0   9  55   0   1   0   1   0   0   1   0   0   0   1   0   0   0   0     0    0    0   1.117     37  0.00
+  106  106     0  92   0   6   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.330     11  0.00
+  107  107     0   0   0   0   0   0   0   1   0   0   0   0   0   0   1  10   1  85   0   2     0    0    0   0.569     18  0.00
+  108  108     0   0   0   0   0   0   0   0   0   0   3   1   0   1   6   3  16  64   5   1     0    0    0   1.280     42  0.00
+  109  109     0  35   1   1   1   0   0   0   1   0   0   0   0   2   0   1   4  27  28   0     0    0    0   1.503     50  0.00
+  110  110     0   0   0   0   0   0   0  87   0   0   0   0   0   1   1   1   0   0   8   0     0    0    0   0.581     19  0.00
+  111  111     2   2   3   0   1   0   0   0  89   0   0   0   0   1   0   0   0   0   0   0     0    0    0   0.563     18  0.00
+  112  112     0   1   0   0  11   1  82   0   0   0   0   0   0   1   1   1   0   0   0   1     0    0    0   0.739     24  0.00
+  113  113     1   1   0   0   0   0   8   1   5   1   6  25   0   0   1   3   0  24   1  22     0    0    0   1.989     66  0.00
+  114  114     0   0   0   0   0   1   1   0   1   5   1   0   0   0   1   1   4  45   2  37     0    0    0   1.439     48  0.00
+  115  115     0   0   0   0   0   0   0   8   0   0   2   0   0   0   1   2   1  15   7  64     0    0    0   1.227     40  0.00
+  116  116    14  63   5   1   2   0  10   0   0   1   0   2   0   0   0   0   0   0   0   0     0    0    0   1.292     43  0.00
+  117  117     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   4  94     0    0    0   0.318     10  0.00
+  118  118     5   1   6   0  44   0  41   0   1   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.254     41  0.00
+  119  119    81   1  12   0   0   0   0   0   3   0   0   2   0   0   0   0   0   0   0   0     0    0    0   0.689     22  0.00
+  120  120     1  10   6   0  49   0   0   0   0   0  32   1   0   0   0   0   0   0   0   0     0    0    0   1.261     42  0.00
+  121  121     0   1   0   0  12   0  87   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.465     15  0.00
+  122  122     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100     0    0    0   0.020      0  0.00
+  123  123    98   0   1   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.142      4  0.00
+  124  124     0  99   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0     0    0    0   0.086      2  0.00
+  125  125     0   0   0   0   0   0   0  99   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.041      1  0.00
+  126  126     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  99     0    0    0   0.049      1  0.00
+  127  127    99   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.062      2  0.00
+  128  128    99   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.041      1  0.00
+  129  129     0   0   0   0   0   0   0   0   0   0   0   0  99   0   0   0   0   0   0   0     0    0    0   0.094      3  0.00
+  130  130     0   0   0   0   0   0   0  99   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.051      1  0.00
+  131  131     0   0   0   0   0   0   0  98   1   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.130      4  0.00
+  132  132     0   0   0   0  99   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.091      3  0.00
+  133  133     0   0   0   0   0   0   0   1  97   0   1   0   0   0   0   0   0   0   0   0     0    0    0   0.168      5  0.00
+  134  134     6   1   0  83   0   0   0   0   8   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.652     21  0.00
+  135  135     0   0   0   0   0   0   0   0   0  99   0   0   0   0   0   0   0   0   0   0     0    0    0   0.061      2  0.00
+  136  136     1  11  86   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.487     16  0.00
+  137  137     0   0   0   0   0   0   0   0   1   0   0   0   0   0  96   1   1   0   0   0     0    0    0   0.219      7  0.00
+  138  138     0   0   0   0   0   0   0   2   0   0   0   0   0   1   3   2   1  77   2  12     0    0    0   0.911     30  0.00
+  139  139     0   0   0   0   0   0   0  47   1   0   0   0   0   0   0   1   0   2  47   2     0    0    0   0.975     32  0.00
+  140  140     0   1   2   1   1   0  12   0   0   0   0   0   0   0   0  82   0   0   0   0     0    0    0   0.685     22  0.00
+  141  141     1   0   0   0   0   0   0   0  97   0   0   1   0   0   0   0   0   0   0   0     0    0    0   0.175      5  0.00
+  142  142     0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   7  69  10   1  13     0    0    0   1.017     33  0.00
+  143  143     0   0   0   0   0   0   7   0   0   0   0   1   0   2   1   3   1  84   0   1     0    0    0   0.747     24  0.00
+  144  144    16   0  75   0   0   0   0   0   1   0   0   0   7   0   0   0   0   0   0   0     0    0    0   0.804     26  0.00
+  145  145     3   4   3   0   2   0  87   0   0   0   0   0   1   0   0   0   0   0   0   0     0    0    0   0.625     20  0.00
+  146  146     4   1  93   0   0   0   0   0   0   0   0   2   0   0   0   0   0   0   0   0     0    0    0   0.339     11  0.00
+  147  147    90   1   9   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.367     12  0.00
+  148  148    11   0   0  16   0   0   0   1  12   0   3  29  26   0   0   0   0   0   0   0     0    0    0   1.690     56  0.00
+  149  149     0   0   0   0   0   0   0   0   1   0  90   1   0   0   0   0   0   0   0   8     0    0    0   0.388     12  0.00
+  150  150     0   0   0   0   0   0   0  76   2   0   2   0   1   0   0   0   0   0  18   0     0    0    0   0.777     25  0.00
+  151  151     0   0   0   0   0   0   0  15   0   0   0   0   0   0   0   0   0  75   0  10     0    0    0   0.726     24  0.00
+  152  152     0   3   0  63  29   0   3   0   0   1   0   0   0   0   0   0   0   0   0   0     0    0    0   0.968     32  0.00
+  153  153     0   0   0  79   0   0   0   0   0   0   0   1   0   0   0   0   2   0   0  18     0    0    0   0.614     20  0.00
+  154  154     0   0   0   0   0   0   0   0  83   1  16   0   0   0   0   0   0   0   0   0     0    0    0   0.528     17  0.00
+  155  155     6  56  13  24   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.160     38  0.00
+  156  156     0   0   1   1  29   0  69   0   0   0   0   0   0   0   0   1   0   0   0   0     0    0    0   0.697     23  0.00
+  157  157     3   0   0   0   0   0   0   0  95   0   0   0   0   0   1   0   0   0   0   1     0    0    0   0.237      7  0.00
+  158  158     1   0   0   2   0   0   0   1  96   0   0   1   0   0   0   0   0   0   0   0     0    0    0   0.238      7  0.00
+  159  159     1   1   0   0   0   0   1   0   0   0   0   0   0   0   0   1   0   0  97   0     0    0    0   0.162      5  0.00
+  160  160     0   0   0   0   0   0   0   1   1   0   0   0   0   0  31   0   0   0  68   0     0    0    0   0.686     22  0.00
+  161  161     3   3  93   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0     0    0    0   0.305     10  0.00
+  162  162     1   0   2   0   1   0   0   0  45   1  17  19  14   0   0   0   0   0   0   0     0    0    0   1.445     48  0.00
+  163  163     0   1   0   1   0   0   0   0  28   0   2   0   0   0  15  50   1   1   2   0     0    0    0   1.258     42  0.00
+  164  164     0   1   0   0   0   0   0  64   8   0  27   0   0   0   1   0   0   0   0   0     0    0    0   0.894     29  0.00
+  165  165    15   5  76   2   0   0   0   0   1   0   1   0   0   0   0   0   0   0   0   0     0    0    0   0.784     26  0.00
+  166  166    14  38   0   0   0   1   0   1   2   0   2   1   2   1  27   3   7   3   1   0     0    0    0   1.756     58  0.00
+  167  167     0   1   0   0   0   0   3   0   3   0   0   0   0   0   2  62   1  28   0   0     0    0    0   1.026     34  0.00
+  168  168     0   2   0   0   5   0  61   0   0   0   1   0   0   0   0  31   0   1   0   0     0    0    0   0.949     31  0.00
+  169  169     1   0   0   0   0   0   1   2  87   0   4   1   0   0   3   1   0   0   1   0     0    0    0   0.599     20  0.00
+  170  170     1   0   0   1   0   0   0   1   1   0   2   2   0  32  28  14   2   3  14   1     0    0    0   1.759     58  0.00
+  171  171     1   3   0   1   0   0   0   0   4   0  45  32   0   0   4   0   6   1   3   0     0    0    0   1.497     49  0.00
+  172  172     0   1   0   0   0   0   3  62   1   0   6   0   0  27   0   0   0   0   0   0     0    0    0   0.994     33  0.00
+  173  173     0   0   0   0   0   0   0  54   1  23  12   1   0   0   0   6   1   1   1   2     0    0    0   1.328     44  0.00
+  174  174    69  27   2   0   0   0   0   0   2   0   1   1   0   0   0   0   0   0   0   0     0    0    0   0.806     26  0.00
+  175  175     0   1   0   0   0   0   0   4   2   1   0   0   0   0  90   3   1   0   0   0     0    0    0   0.477     15  0.00
+  176  176     4  95   1   1   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.264      8  0.00
+  177  177     1   0   0   1   0   0   0  64  33   0   0   0   0   0   0   1   0   0   0   0     0    0    0   0.778     25  0.00
+  178  178     0   0   0   0   0   0   0  99   0   0   0   0   0   0   0   0   0   1   0   1     0    0    0   0.068      2  0.00
+  179  179     2  77  18   1   0   0   0   0   0   0   0   0   2   0   0   0   0   0   0   0     0    0    0   0.705     23  0.00
+  180  180    30   1  69   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.672     22  0.00
+  181  181     1   1   3   0   0   0   2  27   4   0   0   0  61   0   0   0   0   0   0   0     0    0    0   1.067     35  0.00
+  182  182     1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  99   0     0    0    0   0.061      2  0.00
+  183  183     1   0   0   0   0   0   0   2   1   0  35   1   1   0  30   3   1  26   0   1     0    0    0   1.478     49  0.00
+  184  184     0   0   1   0   0   0   1   0   0   0   3   2   0   0  88   0   0   0   2   5     0    0    0   0.561     18  0.00
+  185  185     0   0   0   1   0   0   0   2   0   0   4   1   0   1   4  26  31   0  23   5     0    0    0   1.731     57  0.00
+  186  186    29   0   3   0   0   0   0   4   4   0   1  57   0   0   0   1   0   1   0   0     0    0    0   1.154     38  0.00
+  187  187     1   0   1   1   0   0   1   1   4   1   0  31   1   0   2   1   0   1   1  55     0    0    0   1.268     42  0.00
+  188  188     0   1   0   0   0   0   1   9   1   1  24   1   1   0  43   6   0   0   6   6     0    0    0   1.681     56  0.00
+  189  189     0   0   0   0   0   0   0   1   2   0   0   0   0   0   3  21   3  70   0   1     0    0    0   0.927     30  0.00
+  190  190     3  25   3   0   1   2   7   0   7   2   1   2   0   0  29   3   1   0   0  16     0    0    0   2.012     67  0.00
+  191  191     0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   2   3  44   1  49     0    0    0   0.960     32  0.00
+  192  192     0  91   5   1   2   0   0   1   0   0   1   0   0   0   0   0   0   1   0   0     0    0    0   0.448     14  0.00
+  193  193     6  10  55   2   0   0   0   0  22   0   5   0   0   0   1   0   0   0   0   0     0    0    0   1.300     43  0.00
+  194  194     0   1   6   8   0   0   0   0   0   0   3   1   0   0   0   2   1  38  20  20     0    0    0   1.685     56  0.00
+  195  195     0   1   1   0   0   0   0   0  44   0   0   2   0   0   3  28   2  14   6   1     0    0    0   1.508     50  0.00
+  196  196     1  49   1   0  23   0  28   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.100     36  0.00
+  197  197    25   0   3   0   0   0   0   0  63   0   1   2   4   0   0   0   0   1   1   0     0    0    0   1.068     35  0.00
+  198  198     1   0   0   1   0   0   0   2  28   0   4   0   0   0   8  14   1  36   3   4     0    0    0   1.717     57  0.00
+  199  199     1   1   0   1   1   0   0   1  29   0   1   0   1   1  25  31   1   8   1   0     0    0    0   1.598     53  0.00
+  200  200     7  51  14   1   0   0   0   0   3   0   1   2  23   0   0   0   0   0   0   0     0    0    0   1.356     45  0.00
+  201  201     0   0   0   0   0   0   0  38   0  27   1   0   0   1   0   1   0   1  32   1     0    0    0   1.249     41  0.00
+  202  202     0   1   4  27   2   0   0   1   1   0  28  35   3   0   0   0   0   0   0   0     0    0    0   1.477     49  0.00
+  203  203     0   0   0   0   0   0   0   0   0  29   1   0   0   2   8  23  36   0   1   0     0    0    0   1.432     47  0.00
+  204  204    30  33   5  30   0   0   0   0   0   0   1   1   0   0   2   0   0   0   0   0     0    0    0   1.363     45  0.00
+  205  205     1  14  82   2   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0     0    0    0   0.599     19  0.00
+  206  206     1   0   0   0   0   0   3   6   7   0   0   0   0  57   0   0   1  27   0   0     0    0    0   1.167     38  0.00
+  207  207    25   1   2   0  57   1   3   0   2   0   1   1   0   2   1   3   0   1   0   0     0    0    0   1.365     45  0.00
+  208  208    61  27   9   2   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.981     32  0.00
+  209  209     0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+  210  210     0  24   3   2   0   0   2   1   3   0   0   0   0   0  63   0   0   1   1   2     0    0    0   1.149     38  0.00
+  211  211     0   3  27   0   0   0   0   0   1   0   9   1   0   1   0   1   0   0   6  53     0    0    0   1.311     43  0.00
+  212  212     1   0   0   1   1   0   0   0   0   4   1   0   0   1   0   2   0  31  57   3     0    0    0   1.141     38  0.00
+  213  213    16   2  40   4   0   0   0   1   2   0   2   0   0   1   1   0   2   3   1  27     0    0    0   1.679     56  0.00
+  214  214    63   1  36   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0     0    0    0   0.740     24  0.00
+  215  215     0   0   0   0   0   0   0   0   1   1   0   6   0   0  35   0  58   0   0   0     0    0    0   0.916     30  0.00
+  216  216    20   0   7   0   0   0   0   0   0   0   1   0   0  40  15  12   1   4   0   0     0    0    0   1.633     54  0.00
+  217  217     0   0   0   0   0   0   1   0  64   0  33   0   1   0   1   2   0   0   0   0     0    0    0   0.809     27  0.00
+  218  218     1   0   0   0   0   0   0   0   1   0   2   0   0   0  32   1   0  64   0   1     0    0    0   0.834     27  0.00
+  219  219    26  45  21   0   6   0   0   0   2   0   1   0   0   0   0   0   0   0   0   0     0    0    0   1.311     43  0.00
+  220  220     0   0   1   1   0   0   1   0   2   0   0   0   1   1  49  31   1   1  11   1     0    0    0   1.327     44  0.00
+  221  221     0   0   0   0   0   0   2  31   1   0   0   0   0   0  31  34   0   1   0   0     0    0    0   1.244     41  0.00
+  222  222     0   1   1  44   0   0   1   0   1   0   1   0   0   0   3  39   8   2   0   1     0    0    0   1.295     43  0.00
+  223  223     0   0   2   1   0   0   0   0   1   1   4  91   1   0   0   0   1   0   0   0     0    0    0   0.428     14  0.00
+  224  224    66  32   0   0   0   0   0   0   0   0   0   2   1   0   0   0   0   0   0   0     0    0    0   0.740     24  0.00
+  225  225     3   3  51   1  32   1   0   0   1   0   1   2   0   0   0   0   0   1   5   0     0    0    0   1.323     44  0.00
+  226  226     0   0   0   0   0   0   0   0   1   0   0   1   0   0   1   0  23  71   1   4     0    0    0   0.816     27  0.00
+  227  227     0   2   0  27  12   0  56   2   1   0   0   0   0   0   1   1   0   0   0   0     0    0    0   1.183     39  0.00
+  228  228     1   0   1   0   2   0   0   0  38   1   3   1   0   0   1   0   1  22   1  30     0    0    0   1.524     50  0.00
+  229  229     0   0   0   0   0   0   0   1   1  91   0   1   0   0   0   1   0   4   0   2     0    0    0   0.414     13  0.00
+  230  230     1   0   1   1   0   0   0   2   2   0  24  12   0   0   1   9   1  20   5  23     0    0    0   1.957     65  0.00
+  231  231     0  23   0   0   0   0   0   0   9   1  40   2  11   4   0   1   1   2   3   4     0    0    0   1.797     59  0.00
+  232  232     1   0   0   0   0   0   0   2   1   4   5   2   0   0   1  29   6  10  35   2     0    0    0   1.818     60  0.00
+  233  233     1   1   2   1   0   2  23   0   2   0   1   0   0   0   0   1  65   1   1   0     0    0    0   1.137     37  0.00
+  234  234    21   1   0   0   0   0   1   5  63   0   4   1   4   0   1   0   0   0   0   0     0    0    0   1.159     38  0.00
+  235  235     0   1   0   1   0   0   0  12  11   2   1   0   0   1   1   4  15  22  11  20     0    0    0   2.063     68  0.00
+  236  236     2   2   1   0   2   0  23   0   1   1   0   1   0   2   0   2   1  61   0   0     0    0    0   1.261     42  0.00
+  237  237     1   0   0   0   5   0  93   0   0   0   0   0   0   0   0   0   1   0   0   0     0    0    0   0.286      9  0.00
+  238  238     0  27   1   1   0   0   0   1   1   0   1   0   0   0  59   3   1   4   1   1     0    0    0   1.210     40  0.00
+  239  239     0   0   2   0   0   1   0   4  26   0   1  11   0   0   1   3   7  20  12  14     0    0    0   2.035     67  0.00
+  240  240     0  71  27   1   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.685     22  0.00
+  241  241     0   1   0   0   0   0   0   1  98   0   1   0   0   0   0   0   0   0   0   0     0    0    0   0.140      4  0.00
+  242  242     0   0   0   0   0   0   0   1   1   0   1   3   0   3  21   9   6  20   5  29     0    0    0   1.900     63  0.00
+  243  243     0   1   1   0   0   0   1   0   2   0   2   1   0   0   2  60  26   0   3   1     0    0    0   1.195     39  0.00
+  244  244    16   5  78   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.676     22  0.00
+  245  245    11  31  13   0   0   0   4   0   1   1   1   0   0  28   0   1   1   3   1   6     0    0    0   1.874     62  0.00
+  246  246     1   0   0   0   0   0   0   4  26   0  24   1   0   1   1   0   1  16  16   9     0    0    0   1.835     61  0.00
+  247  247     1   0   0   0   0   0   0   1   0   0   1   0   0   1   2   2  22   3  69   0     0    0    0   0.974     32  0.00
+  248  248     0   0   0   0   0   0   0   3   4  28  23   6   0   0   0  14   1  11   1  10     0    0    0   1.921     64  0.00
+  249  249     0   9   1  10   1   0   0   1   0   3   0   0   0   0   2  15  19  29   7   3     0    0    0   1.992     66  0.00
+  250  250     0  21   0   1  13   0   1  56   1   2   1   1   0   0   1   3   0   0   1   0     0    0    0   1.386     46  0.00
+  251  251    34   1  26   1   0   0   0   0   3   0   1  34   0   0   0   1   0   0   0   0     0    0    0   1.327     44  0.00
+  252  252    43   0  53   0   0   0   0   0   0   0   0   1   0   0   2   1   0   0   0   0     0    0    0   0.836     27  0.00
+  253  253     0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+  254  254     1   1   0   0   0   0   0   0   0   0   0  48   0   0   1  36   1   3  10   1     0    0    0   1.220     40  0.00
+  255  255     0   0   0   0   0   0   0   0   1  88   0   0   0   0   0   0   0   8   0   4     0    0    0   0.470     15  0.00
+  256  256     4  15  57  14   0   0   0   1   8   0   0   0   1   0   0   0   0   0   0   0     0    0    0   1.295     43  0.00
+  257  257     0   1   0   0   0   0   0   2   4   6  17  56   0   0   1   2   2   7   1   2     0    0    0   1.530     51  0.00
+  258  258     1   0   2  68   0   0   0   0   0   0   0   1   0   0   1   0  10   2   1  15     0    0    0   1.083     36  0.00
+  259  259     0   0   0   0   0   0   0   0   0   0   1   0   0   0  14   0   2  48   0  36     0    0    0   1.103     36  0.00
+  260  260     0   0   0   1   0   0   0   3   0   0   0   0   0   1   7   0   4  75   0   8     0    0    0   0.932     31  0.00
+  261  261     0  94   2   2   2   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.282      9  0.00
+  262  262     0   2   0   0  14   0   0   0   0   0   0   0   0   0   1   0   0  79   0   4     0    0    0   0.698     23  0.00
+  263  263     0   0   0   0   0   0   0   0  13   0  12   2   0   0   0   3   3  33   0  37     0    0    0   1.496     49  0.00
+  264  264     0  48  10  41   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.989     33  0.00
+  265  265    10  86   0   2   0   0   0   0   1   0   0   1   0   0   0   1   0   0   0   0     0    0    0   0.551     18  0.00
+  266  266    14  27  10  35   0   0   0   0   0   0  12   0   0   0   0   1   0   1   0   0     0    0    0   1.574     52  0.00
+  267  267     0   0   0   0   0   0   0   0   0   0   1   1   0   0   1   7   5  36   2  47     0    0    0   1.266     42  0.00
+  268  268     0   0   0   0  69   1  21   0   0   0   0   0   0   9   0   0   0   0   0   0     0    0    0   0.850     28  0.00
+  269  269     0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+//

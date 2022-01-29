@@ -1,0 +1,838 @@
+ID Pseudo hssp file.
+SEQ 
+SEQ gi|7245496|pdb|1EDQ|A Chain A, Crystal Structure Of Chitinase A ...  1075  0.0
+SEQ gi|13399661|pdb|1EHN|A Chain A, Crystal Structure Of Chitinase A...  1074  0.0
+SEQ gi|999631|pdb|1CTN|    Chitinase A (E.C.3.2.1.14) (Ph 5.5, 4 Deg...  1072  0.0
+SEQ gi|3308994|dbj|BAA31567.1| (AB015996) chitinase A precursor [Ser...  1072  0.0
+SEQ gi|13399645|pdb|1EIB|A Chain A, Crystal Structure Of Chitinase A...  1072  0.0
+SEQ gi|2126178|pir||S60651 chitinase precursor - Serratia marcescens...  1070  0.0
+SEQ gi|729133|sp|P07254|CHIA_SERMA CHITINASE A PRECURSOR                 1067  0.0
+SEQ gi|2811113|gb|AAB97779.1| (U35121) chitinase [Enterobacter sp.]      1066  0.0
+SEQ gi|12746408|gb|AAK07482.1| (AF334683) endochitinase A [Serratia ...  1026  0.0
+SEQ gi|152818|gb|AAA26551.1| (L01455) chitinase [Serratia marcescens]    1021  0.0
+SEQ gi|96882|pir||A25090 chitinase (EC 3.2.1.14) - Serratia marcesce...  1001  0.0
+SEQ gi|6652804|gb|AAF22480.1|AF085718_1 (AF085718) chitinase [Serrat...   979  0.0
+SEQ gi|1899048|gb|AAB49933.1| (U59304) chitinase Chia_Entag [Pantoea...   936  0.0
+SEQ gi|9957618|gb|AAG09437.1|AF181852_1 (AF181852) chitinase 92 [Aer...   815  0.0
+SEQ gi|483820|gb|AAA93130.1| (U09139) chitinase protein precursor [A...   812  0.0
+SEQ gi|7804919|gb|AAF70180.1|AF251793_1 (AF251793) extracellular chi...   802  0.0
+SEQ gi|9630926|ref|NP_047523.1| CHITINASE=CHI-A=AcMNPV orf126 [Bomby...   648  0.0
+SEQ gi|9627869|ref|NP_054156.1| chitinase [Autographa californica nu...   648  0.0
+SEQ gi|12597526|ref|NP_075110.1| chitinase [Heliocoverpa armigera nu...   637  0.0
+SEQ gi|13506814|gb|AAK28347.1|AF243498_1 (AF243498) chitinase [Helic...   634  0.0
+SEQ gi|4559269|gb|AAD22958.1|AF114795_1 (AF114795) chitinase [Helico...   631  e-180
+SEQ gi|4884637|gb|AAD31762.1|AF121457_1 (AF121457) chitinase precurs...   626  e-178
+SEQ gi|9630062|ref|NP_046280.1| chitinase [Orgyia pseudotsugata nucl...   624  e-177
+SEQ gi|9635353|ref|NP_059251.1| ORF103 [Xestia c-nigrum granulovirus...   619  e-176
+SEQ gi|9631037|ref|NP_047707.1| chitinase [Lymantria dispar nucleopo...   616  e-175
+SEQ gi|2351556|gb|AAB68594.1| (U72030) chitinase [Choristoneura fumi...   607  e-172
+SEQ gi|9634240|ref|NP_037779.1| ORF19 chitinase [Spodoptera exigua n...   581  e-165
+SEQ gi|6006710|gb|AAF00578.1|AF099928_1 (AF099928) chitinase [Aeromo...   575  e-163
+SEQ gi|3273311|dbj|BAA31200.1| (AB010886) chitinase [Cydia pomonella...   567  e-161
+SEQ gi|9937250|gb|AAG02378.1|AF246707_4 (AF246707) chitinase [Spodop...   562  e-159
+SEQ gi|2078320|gb|AAB54004.1| (U67265) chitinase [Helicoverpa zea nu...   559  e-158
+SEQ gi|11354465|pir||D82510 chitinase VCA0027 [imported] - Vibrio ch...   530  e-149
+SEQ gi|416794|sp|P32823|CHIA_ALTSO CHITINASE A PRECURSOR (CHI-A) >gi...   506  e-142
+SEQ gi|13021902|gb|AAK11576.1|AF323180_1 (AF323180) chitinase A prec...   505  e-142
+SEQ gi|423799|pir||A40633 chitinase (EC 3.2.1.14) Chi-85 precursor -...   505  e-142
+SEQ gi|2120572|pir||PC4106 chitinase (EC 3.2.1.14) A - Alteromonas s...   505  e-142
+SEQ gi|12697608|dbj|BAB21607.1| (AB055155) chitinase B [Vibrio algin...   505  e-142
+SEQ gi|11360554|pir||T44440 chitinase (EC 3.2.1.14) c [validated] - ...   484  e-135
+SEQ gi|4972285|dbj|BAA78114.1| (AB004934) chitinase [Listonella angu...   446  e-124
+SEQ gi|4972287|dbj|BAA78115.1| (AB004935) chitinase [Vibrio parahaem...   406  e-112
+SEQ gi|6646931|gb|AAF21124.1|AF193506_1 (AF193506) group I chitinase...   405  e-112
+SEQ gi|6646929|gb|AAF21122.1|AF193504_1 (AF193504) group I chitinase...   296  4e-79
+SEQ gi|6646914|gb|AAF21107.1|AF193489_1 (AF193489) group I chitinase...   294  2e-78
+SEQ gi|6646926|gb|AAF21119.1|AF193501_1 (AF193501) group I chitinase...   293  4e-78
+SEQ gi|6646916|gb|AAF21109.1|AF193491_1 (AF193491) group I chitinase...   291  2e-77
+SEQ gi|6646925|gb|AAF21118.1|AF193500_1 (AF193500) group I chitinase...   290  2e-77
+SEQ gi|6646928|gb|AAF21121.1|AF193503_1 (AF193503) group I chitinase...   290  4e-77
+SEQ gi|6646920|gb|AAF21113.1|AF193495_1 (AF193495) group I chitinase...   289  6e-77
+SEQ gi|6646918|gb|AAF21111.1|AF193493_1 (AF193493) group I chitinase...   285  9e-76
+SEQ gi|6646913|gb|AAF21106.1|AF193488_1 (AF193488) group I chitinase...   284  3e-75
+SEQ gi|6646917|gb|AAF21110.1|AF193492_1 (AF193492) group I chitinase...   284  3e-75
+SEQ gi|6646919|gb|AAF21112.1|AF193494_1 (AF193494) group I chitinase...   283  4e-75
+SEQ gi|6646921|gb|AAF21114.1|AF193496_1 (AF193496) group I chitinase...   279  6e-74
+SEQ gi|6646922|gb|AAF21115.1|AF193497_1 (AF193497) group I chitinase...   279  7e-74
+SEQ gi|6646924|gb|AAF21117.1|AF193499_1 (AF193499) group I chitinase...   278  9e-74
+SEQ gi|6646923|gb|AAF21116.1|AF193498_1 (AF193498) group I chitinase...   278  1e-73
+SEQ gi|6646915|gb|AAF21108.1|AF193490_1 (AF193490) group I chitinase...   273  4e-72
+SEQ gi|6646930|gb|AAF21123.1|AF193505_1 (AF193505) group I chitinase...   257  3e-67
+SEQ gi|10173531|dbj|BAB04635.1| (AP001510) chitinase [Bacillus halod...   203  3e-51
+SEQ gi|458468|gb|AAA83223.1| (U07025) chitinase [Janthinobacterium l...   196  8e-49
+SEQ gi|3193265|gb|AAC23715.1| (AF069131) chitinase [Bacillus subtilis]    193  7e-48
+SEQ gi|8347777|gb|AAF74782.1| (AF265220) chitinase [Bacillus circulans]   190  6e-47
+SEQ gi|6649589|gb|AAF21468.1|U81007_1 (U81007) chitinase Chi67 [Dooh...   188  2e-46
+SEQ gi|6683784|gb|AAF23368.1|AF154827_1 (AF154827) chitinase [Bacill...   187  3e-46
+SEQ gi|10944304|dbj|BAB16891.1| (AB041932) chitinase B [Bacillus cer...   186  6e-46
+SEQ gi|116300|sp|P20533|CHI1_BACCI CHITINASE A1 PRECURSOR >gi|98111|...   185  1e-45
+SEQ gi|11360555|pir||T43916 chitinase A [imported] - Pyrococcus koda...   184  2e-45
+SEQ gi|927653|dbj|BAA09831.1| (D63702) chitinase [Kurthia zopfii]         177  3e-43
+SEQ gi|2429326|gb|AAB70917.1| (AF014950) chitinase A [Stenotrophomon...   172  9e-42
+SEQ gi|1845337|gb|AAB47847.1| (U71214) chitinase [Bacillus lichenifo...   164  2e-39
+SEQ gi|484528|pir||JQ1975 chitinase (EC 3.2.1.14) 1 precursor - impe...   164  3e-39
+SEQ gi|1418680|emb|CAA93150.1| (Z68924) Chitinase [Clostridium therm...   164  4e-39
+SEQ gi|13516873|dbj|BAB40588.1| (AB041750) endochitinase-G2 [Trichod...   163  5e-39
+SEQ gi|13516885|dbj|BAB40594.1| (AB041756) endochitinase-P [Trichode...   163  5e-39
+SEQ gi|1345774|sp|P32470|CHI1_APHAL CHITINASE 1 PRECURSOR >gi|429026...   162  1e-38
+SEQ gi|6630946|gb|AAF19617.1| (AF188923) 42 kDa endochitinase [Hypoc...   159  8e-38
+SEQ gi|6630938|gb|AAF19613.1| (AF188919) 42 kDa endochitinase [Trich...   159  1e-37
+SEQ gi|6630942|gb|AAF19615.1| (AF188921) 42 kDa endochitinase [Trich...   159  1e-37
+SEQ gi|2738109|gb|AAC60385.1| (U88560) endochitinase [Trichoderma ha...   158  1e-37
+SEQ gi|6630948|gb|AAF19618.1| (AF188924) 42 kDa endochitinase [Trich...   158  1e-37
+SEQ gi|6630950|gb|AAF19619.1| (AF188925) 42 kDa endochitinase [Trich...   158  1e-37
+SEQ gi|6630958|gb|AAF19623.1| (AF188929) 42 kDa endochitinase [Trich...   158  2e-37
+SEQ gi|6630966|gb|AAF19627.1| (AF188933) 42 kDa endochitinase [Trich...   158  2e-37
+SEQ gi|6630952|gb|AAF19620.1| (AF188926) 42 kDa endochitinase [Trich...   158  2e-37
+SEQ gi|6630960|gb|AAF19624.1| (AF188930) 42 kDa endochitinase [Trich...   158  2e-37
+SEQ gi|6630956|gb|AAF19622.1| (AF188928) 42 kDa endochitinase [Trich...   158  2e-37
+SEQ gi|9957724|gb|AAG09447.1|AF208842_1 (AF208842) chitinase [Tricho...   158  2e-37
+SEQ gi|6630954|gb|AAF19621.1| (AF188927) 42 kDa endochitinase [Trich...   158  2e-37
+SEQ gi|630419|pir||S47133 chitinase (EC 3.2.1.14) - fungus (Trichode...   158  2e-37
+SEQ gi|6630940|gb|AAF19614.1| (AF188920) 42 kDa endochitinase [Trich...   158  2e-37
+SEQ gi|6630944|gb|AAF19616.1| (AF188922) 42 kDa endochitinase [Hypoc...   157  3e-37
+SEQ gi|6630964|gb|AAF19626.1| (AF188932) 42 kDa endochitinase [Hypoc...   157  5e-37
+SEQ gi|7480551|pir||T42074 probable chitinase D - Streptomyces coeli...   156  9e-37
+SEQ gi|6630936|gb|AAF19612.1| (AF188918) 42 kDa endochitinase [Trich...   154  3e-36
+SEQ gi|311041|gb|AAA30341.1| (L18869) chitinase-like protein [Wucher...   154  3e-36
+SEQ gi|6630962|gb|AAF19625.1| (AF188931) 42 kDa endochitinase [Hypoc...   153  7e-36
+SEQ gi|13516875|dbj|BAB40589.1| (AB041751) endochitinase-HAR1 [Trich...   150  4e-35
+SEQ gi|13516883|dbj|BAB40593.1| (AB041755) endochitinase-VIRI [Trich...   150  4e-35
+SEQ gi|14041727|emb|CAC38398.1| (AJ308438) putative chitinase [Xenor...   150  5e-35
+SEQ gi|2133296|pir||S68121 chitinase I precursor - fungus (Trichoder...   149  7e-35
+SEQ gi|116350|sp|P11220|CHIT_STRPL CHITINASE 63 PRECURSOR >gi|80844|...   148  2e-34
+SEQ gi|4038642|dbj|BAA35140.1| (D87063) chitinase [Emericella nidulans]   148  2e-34
+SEQ gi|1345775|sp|P48827|CHI4_TRIHA 42 KD ENDOCHITINASE PRECURSOR >g...   148  2e-34
+SEQ gi|1419324|emb|CAA96021.1| (Z71415) endochitinase [Trichoderma h...   146  8e-34
+SEQ gi|1565203|dbj|BAA13489.1| (D87894) chitinase [Rhizopus microspo...   146  9e-34
+SEQ gi|7480550|pir||T42073 probable chitinase C - Streptomyces coeli...   146  9e-34
+SEQ gi|13516877|dbj|BAB40590.1| (AB041752) endochitinase-HAR2 [Trich...   146  9e-34
+SEQ gi|13516881|dbj|BAB40592.1| (AB041754) endochitinase-HAM [Tricho...   145  1e-33
+SEQ gi|11496171|gb|AAG27061.1| (AY008839) chitinase A [Cellulomonas ...   145  2e-33
+SEQ gi|2967701|gb|AAC05829.1| (AF050098) chitinase [Trichoderma virens]   144  2e-33
+SEQ gi|13516871|dbj|BAB40587.1| (AB041749) endochitinase-G1 [Trichod...   144  2e-33
+SEQ gi|544014|sp|P36909|CHIT_STRLI CHITINASE C PRECURSOR >gi|391910|...   144  3e-33
+SEQ gi|10580386|gb|AAG19274.1| (AE005023) chitinase; Chi [Halobacter...   144  4e-33
+SEQ gi|11935134|gb|AAG41982.1|AF315588_1 (AF315588) chitinase [Ajell...   143  7e-33
+SEQ gi|7514380|pir||T00323 chitinase (EC 3.2.1.14) B - Clostridium p...   141  2e-32
+SEQ gi|5042254|emb|CAB44709.1| (AJ243014) chitinase [Metarhizium fla...   141  2e-32
+SEQ gi|7248705|gb|AAF43629.1|AF206633_1 (AF206633) chitinase C precu...   141  3e-32
+SEQ gi|625938|pir||JC2135 chitinase (EC 3.2.1.14) precursor - Strept...   139  8e-32
+SEQ gi|1711282|dbj|BAA13974.1| (D89568) chitinase C [Bacillus circul...   138  2e-31
+SEQ gi|2565425|gb|AAB81998.1| (AF027497) chitinase CHIT42 [Metarhizi...   137  4e-31
+SEQ gi|1079185|pir||A53918 chitinase (EC 3.2.1.14) precursor - braco...   137  5e-31
+SEQ gi|1685364|gb|AAB52724.1| (U78320) chitinase [Entamoeba invadens]     136  6e-31
+SEQ gi|2541918|dbj|BAA22854.1| (AB008027) Pjchi-3 [Penaeus japonicus]     136  6e-31
+SEQ gi|7292150|gb|AAF47562.1| (AE003472) Cht2 gene product [Drosophi...   135  2e-30
+SEQ gi|2842409|emb|CAA72201.1| (Y11391) exochitinase [Sodalis glossi...   134  4e-30
+SEQ gi|1457963|gb|AAB48567.1| (U60807) complement fixation-chitinase...   133  5e-30
+SEQ gi|2118035|pir||JC4565 chitinase (EC 3.2.1.14) 1 precursor - Coc...   133  5e-30
+SEQ gi|10835498|pdb|1D2K|A Chain A, C. Immitis Chitinase 1 At 2.2 An...   133  5e-30
+SEQ gi|6562005|emb|CAB62499.1| (AJ250586) chitinase [Arthrobacter sp.]    133  7e-30
+SEQ gi|1255728|gb|AAB06687.1| (U33265) complement fixation antigen [...   133  7e-30
+SEQ gi|11496137|gb|AAG35111.1| (AY009149) chitinase [Ustilago maydis]     133  8e-30
+SEQ gi|9837268|gb|AAG00504.1|AF285086_1 (AF285086) chitinase [Coniot...   132  1e-29
+SEQ gi|8886078|gb|AAF80371.1|AF159367_1 (AF159367) bacterial-type ch...   130  4e-29
+SEQ gi|9631828|ref|NP_048613.1| PBCV-1 chitinase [Paramecium bursari...   129  9e-29
+SEQ gi|2113832|emb|CAA73685.1| (Y13233) chitinase [Chironomus tentans]    129  9e-29
+SEQ gi|2113834|emb|CAA73686.1| (Y13234) chitinase [Chironomus tentans]    129  9e-29
+SEQ gi|8886076|gb|AAF80370.1|AF159366_1 (AF159366) chitinase [Ajello...   127  3e-28
+SEQ gi|1705804|sp|P54196|CHI1_COCIM ENDOCHITINASE 1 PRECURSOR (COMPL...   123  7e-27
+SEQ gi|3986115|dbj|BAA34922.1| (AB012764) Chitinase A [Clostridium p...   122  1e-26
+SEQ gi|11359827|pir||T44445 chitinase (EC 3.2.1.14) [imported] - Afr...   122  1e-26
+SEQ gi|5815436|gb|AAD52672.1|AF178772_1 (AF178772) 98kDa HDM allerge...   121  2e-26
+SEQ gi|2493673|sp|Q11174|CHIT_CAEEL PUTATIVE ENDOCHITINASE >gi|74953...   117  3e-25
+SEQ gi|2564719|gb|AAB81849.1| (AF026491) chitinase [Aedes aegypti]        116  7e-25
+SEQ gi|7292307|gb|AAF47714.1| (AE003477) CG1869 gene product [Drosop...   116  7e-25
+SEQ gi|4558458|gb|AAD22610.1| (AF062038) glycoprotein-39 precursor [...   116  8e-25
+SEQ gi|7291233|gb|AAF46665.1| (AE003452) CG10531 gene product [Droso...   116  8e-25
+SEQ gi|12597291|gb|AAG60018.1|AF290003_1 (AF290003) acidic mammalian...   116  9e-25
+SEQ gi|7507805|pir||T24898 hypothetical protein T13H5.3 - Caenorhabd...   115  1e-24
+SEQ gi|6934190|gb|AAF31644.1|AF154571_1 (AF154571) putative chitinas...   115  2e-24
+SEQ gi|12842942|dbj|BAB25795.1| (AK008633) putative [Mus musculus]        115  2e-24
+SEQ gi|4502809|ref|NP_003456.1| chitotriosidase; plasma methylumbell...   114  3e-24
+SEQ gi|9988476|gb|AAG10644.1|U62662_1 (U62662) chitotriosidase precu...   114  3e-24
+SEQ gi|7479170|pir||T35719 chitinase - Streptomyces coelicolor >gi|2...   114  3e-24
+SEQ gi|1084129|pir||S52422 chitinase (EC 3.2.1.14) B precursor - Ser...   114  3e-24
+SEQ gi|7291231|gb|AAF46663.1| (AE003452) CG9357 gene product [Drosop...   114  3e-24
+SEQ gi|116336|sp|P11797|CHIB_SERMA CHITINASE B PRECURSOR >gi|79148|p...   113  6e-24
+SEQ gi|11496139|gb|AAG35112.1| (AY009150) chitinase [Candida albicans]    112  8e-24
+SEQ gi|4210812|emb|CAA77014.1| (Y18011) chitinase [Phaedon cochleariae]   112  1e-23
+SEQ gi|1685362|gb|AAB52723.1| (U78319) chitinase [Entamoeba histolyt...   112  1e-23
+SEQ gi|1685360|gb|AAB52722.1| (U78318) chitinase [Entamoeba dispar]       112  2e-23
+SEQ gi|1276432|gb|AAC47022.1| (U14638) chitinase [Acanthocheilonema ...   111  3e-23
+SEQ gi|544013|sp|P36362|CHIT_MANSE ENDOCHITINASE PRECURSOR >gi|10790...   110  6e-23
+SEQ gi|7299808|gb|AAF54987.1| (AE003701) CG9307 gene product [Drosop...   109  7e-23
+SEQ gi|974697|gb|AAC37122.1| (L38484) chitinase [Serratia marcescens]     109  7e-23
+SEQ gi|804649|gb|AAB68959.1| (L42010) chitinase [Acanthocheilonema v...   109  8e-23
+SEQ gi|777385|gb|AAA87227.1| (L41653) chitinase [Acanthocheilonema v...   109  9e-23
+SEQ gi|7158964|gb|AAF37580.1|AF059494_1 (AF059494) chitinase A [Aero...   109  1e-22
+SEQ gi|12597293|gb|AAG60019.1|AF290004_1 (AF290004) acidic mammalian...   108  2e-22
+SEQ gi|12082999|gb|AAG48700.1|AF326596_1 (AF326596) chitinase [Bomby...   108  2e-22
+SEQ gi|1841851|gb|AAB47538.1| (U86876) chitinase-like protein [Bomby...   107  3e-22
+SEQ gi|10119784|dbj|BAB13481.1| (AB048355) chitinase precursor [Bomb...   107  3e-22
+SEQ gi|11994959|dbj|BAB20017.1| (AB052914) chitinase precursor [Bomb...   107  3e-22
+SEQ gi|7498573|pir||T03884 hypothetical protein F07G11.9 - Caenorhab...   107  4e-22
+SEQ gi|4557018|ref|NP_001267.1| chitinase 3-like 1; cartilage glycop...   107  5e-22
+SEQ gi|13637652|ref|XP_001685.2| chitotriosidase [Homo sapiens]           107  5e-22
+SEQ gi|13637650|ref|XP_015434.1| chitinase 3-like 1 [Homo sapiens]        106  6e-22
+SEQ gi|6753416|ref|NP_034022.1| chitinase 3-like 3 [Mus musculus] >g...   106  8e-22
+SEQ gi|11140877|gb|AAB62394.2|AAB62394 (M94584) secretory protein pr...   106  8e-22
+SEQ gi|13399536|pdb|1E9L|A Chain A, The Crystal Structure Of Novel M...   106  8e-22
+SEQ gi|2149596|gb|AAB58579.1| (U89796) chitinase [Bacillus thuringie...   106  1e-21
+SEQ gi|1841853|gb|AAB47539.1| (U86877) chitinase protein [Hyphantria...   106  1e-21
+SEQ gi|9971609|dbj|BAB12678.1| (AB032107) endchitinase [Spodoptera l...   105  2e-21
+SEQ gi|11528083|gb|AAG37105.1|AF273695_1 (AF273695) chitinase [Bomby...   105  2e-21
+SEQ gi|10580387|gb|AAG19275.1| (AE005023) Vng0818c [Halobacterium sp...   104  4e-21
+SEQ gi|7291109|gb|AAF46544.1| (AE003449) CG2989 gene product [Drosop...   103  6e-21
+SEQ gi|2286219|gb|AAB64304.1| (AF011373) chitinase-like protein 1 [B...   101  3e-20
+SEQ gi|11354466|pir||D82428 chitodextrinase VCA0700 [imported] - Vib...   101  3e-20
+SEQ gi|804800|gb|AAB68960.1| (L42021) chitinase [Onchocerca volvulus]     100  4e-20
+SEQ gi|1085431|pir||S51327 heparin-binding glycoprotein 38K - pig >g...    99  9e-20
+SEQ gi|6523073|emb|CAB62382.1| (AJ250585) chitinase [Arthrobacter sp.]     99  1e-19
+SEQ gi|7673688|gb|AAF66988.1| (AF250997) cuticular endochitinase [Wu...    98  2e-19
+SEQ gi|7521919|pir||T30933 chitinase (EC 3.2.1.14) A - Pseudoalterom...    98  2e-19
+SEQ gi|12843548|dbj|BAB26025.1| (AK009012) putative [Mus musculus]         98  4e-19
+SEQ gi|7506843|pir||T29275 hypothetical protein T01C4.1 - Caenorhabd...    97  6e-19
+SEQ gi|11141867|ref|NP_068569.1| eosinophil chemotactic cytokine [Ho...    97  7e-19
+SEQ gi|13637990|ref|XP_010672.2| eosinophil chemotactic cytokine [Ho...    96  9e-19
+SEQ gi|7209204|emb|CAB76866.1| (AL159139) putative chitinase precurs...    96  1e-18
+SEQ gi|13508934|emb|CAC35202.1| (AJ276119) endochitinase [Amanita mu...    96  1e-18
+SEQ gi|285015|pir||S27879 secretory protein YM-1 precursor - mouse         94  3e-18
+SEQ gi|7340815|emb|CAB83055.1| (AJ276990) chitinase [Streptomyces ol...    94  5e-18
+SEQ gi|13277777|gb|AAH03780.1|AAH03780 (BC003780) Similar to chitina...    94  5e-18
+SEQ gi|13637984|ref|XP_015642.1| chitinase 3-like 2 [Homo sapiens] >...    92  2e-17
+SEQ gi|1439568|gb|AAB04534.1| (U58515) chitinase [Homo sapiens]            92  2e-17
+SEQ gi|11993935|ref|NP_003991.1| chitinase 3-like 2; chondrocyte pro...    92  2e-17
+SEQ gi|7511793|pir||T14075 chitinase (EC 3.2.1.14) - yellow fever mo...    92  2e-17
+SEQ gi|13124008|sp|Q61362|C3L1_MOUSE CHITINASE-3 LIKE PROTEIN 1 PREC...    91  3e-17
+SEQ gi|11355866|pir||D82246 probable chitinase VC1073 [imported] - V...    91  5e-17
+SEQ gi|11321444|gb|AAG34171.1|AF314225_1 (AF314225) chitinase [Asper...    90  7e-17
+SEQ gi|7289365|gb|AAF45397.1| (AE002743) CG18117 gene product [Droso...    90  7e-17
+SEQ gi|6320579|ref|NP_010659.1| Ydr371wp [Saccharomyces cerevisiae] ...    89  1e-16
+SEQ gi|116344|sp|P29030|CHIT_BRUMA ENDOCHITINASE PRECURSOR (MF1 ANTI...    89  1e-16
+SEQ gi|1401266|gb|AAC47324.1| (U59690) microfilarial chitinase [Brug...    89  1e-16
+SEQ gi|1401264|gb|AAC47323.1| (U59689) microfilarial chitinase [Brug...    89  1e-16
+SEQ gi|13562108|ref|NP_075675.1| putative chitinase precursor; RIKEN...    89  2e-16
+SEQ gi|2493675|sp|Q28042|OGP_BOVIN OVIDUCT-SPECIFIC GLYCOPROTEIN PRE...    87  6e-16
+SEQ gi|2493677|sp|Q60557|OGP_MESAU OVIDUCT-SPECIFIC GLYCOPROTEIN PRE...    87  7e-16
+SEQ gi|6981723|gb|AAC53584.2| (U15048) oviductin precursor [Mesocric...    87  7e-16
+SEQ gi|505267|emb|CAA54374.1| (X77111) chitinase, class V [Nicotiana...    87  7e-16
+SEQ gi|5921751|sp|P96156|CHID_VIBFU CHITODEXTRINASE PRECURSOR >gi|75...    86  1e-15
+SEQ gi|602294|gb|AAB01052.1| (U17988) 92kD oestrus-associated oviduc...    86  1e-15
+SEQ gi|7435373|pir||S61551 breast-regressing protein brp39 precursor...    85  2e-15
+SEQ gi|2493680|sp|Q28542|OGP_SHEEP OVIDUCT-SPECIFIC GLYCOPROTEIN PRE...    85  2e-15
+SEQ gi|7435380|pir||T04762 chitinase homolog T16H5.170 - Arabidopsis...    85  2e-15
+SEQ gi|7158966|gb|AAF37581.1|AF059495_1 (AF059495) chitinase A [Vibr...    85  2e-15
+SEQ gi|5114426|gb|AAD40313.1|AF157503_1 (AF157503) chitinase 1 [Pena...    85  3e-15
+SEQ gi|1071874|pir||S51591 chitinase (EC 3.2.1.14) / lysozyme (EC 3....    84  3e-15
+SEQ gi|899342|emb|CAA54373.1| (X77110) chitinase, class V [Nicotiana...    84  3e-15
+SEQ gi|2493678|sp|Q62010|OGP_MOUSE OVIDUCT-SPECIFIC GLYCOPROTEIN PRE...    84  4e-15
+SEQ gi|2506282|sp|P36718|OGP_PAPAN OVIDUCT-SPECIFIC GLYCOPROTEIN PRE...    83  1e-14
+SEQ gi|13537190|dbj|BAB40771.1| (AB046385) chitinase-related protein...    83  1e-14
+SEQ gi|1256180|dbj|BAA12287.1| (D84250) chitinase [Penaeus japonicus]      82  2e-14
+SEQ gi|7435379|pir||T04761 chitinase homolog T16H5.160 - Arabidopsis...    81  3e-14
+SEQ gi|2408217|gb|AAB70664.1| (U87259) oviductal glycoprotein [Macac...    81  4e-14
+SEQ gi|7289364|gb|AAF45396.1| (AE002743) Cht1 gene product [Drosophi...    81  5e-14
+SEQ gi|7158970|gb|AAF37583.1|AF059497_1 (AF059497) chitinase A [Vibr...    80  7e-14
+SEQ gi|7158968|gb|AAF37582.1|AF059496_1 (AF059496) chitinase A [Ples...    79  1e-13
+SEQ gi|1336166|gb|AAB01230.1| (U56900) chitinase-related protein MCR...    79  2e-13
+SEQ gi|4505535|ref|NP_002548.1| oviductal glycoprotein 1, 120kD (muc...    78  3e-13
+SEQ gi|1438920|gb|AAB04126.1| (U58010) oviductal glycoprotein [Homo ...    78  3e-13
+SEQ gi|7513225|pir||I38605 oviductal glycoprotein - human                  78  3e-13
+SEQ gi|7289363|gb|AAF45395.1| (AE002743) Cht3 gene product [Drosophi...    78  3e-13
+SEQ gi|7290767|gb|AAF46212.1| (AE003439) CG3044 gene product [Drosop...    78  3e-13
+SEQ gi|14029543|gb|AAK52727.1| (AF347052) development promoting fact...    78  5e-13
+SEQ gi|7158980|gb|AAF37588.1|AF059502_1 (AF059502) chitinase A [Vibr...    77  5e-13
+SEQ gi|7435381|pir||T04763 chitinase homolog T16H5.180 - Arabidopsis...    72  2e-11
+SEQ gi|7158974|gb|AAF37585.1|AF059499_1 (AF059499) chitinase A [Vibr...    70  6e-11
+SEQ gi|7495711|pir||T19114 hypothetical protein C08H9.13 - Caenorhab...    68  3e-10
+SEQ gi|7495708|pir||T19109 hypothetical protein C08H9.10 - Caenorhab...    68  5e-10
+SEQ gi|7158976|gb|AAF37586.1|AF059500_1 (AF059500) chitinase A [Vibr...    67  5e-10
+SEQ gi|7506504|pir||T24072 hypothetical protein R09D1.1 - Caenorhabd...    66  8e-10
+SEQ gi|7158978|gb|AAF37587.1|AF059501_1 (AF059501) chitinase A [Vibr...    66  8e-10
+SEQ gi|13637994|ref|XP_001932.2| oviductal glycoprotein 1, 120kD (mu...    66  9e-10
+SEQ gi|2493679|sp|Q28990|OGP_PIG OVIDUCT-SPECIFIC GLYCOPROTEIN PRECU...    65  3e-09
+SEQ gi|4092089|gb|AAC99418.1| (AF102237) imaginal disc growth factor...    64  4e-09
+SEQ gi|7506509|pir||T24073 hypothetical protein R09D1.2 - Caenorhabd...    64  6e-09
+SEQ gi|7495717|pir||T19116 hypothetical protein C08H9.6 - Caenorhabd...    64  6e-09
+SEQ gi|7287979|gb|AAF45017.1|AE003406_222 (AE003416) symbol=Idgf2; s...    63  1e-08
+SEQ gi|7506512|pir||T24076 hypothetical protein R09D1.5 - Caenorhabd...    62  2e-08
+SEQ gi|7507613|pir||T33546 hypothetical protein T10D4.3 - Caenorhabd...    62  2e-08
+SEQ gi|7505864|pir||T23643 hypothetical protein M01B2.6 - Caenorhabd...    60  7e-08
+SEQ gi|1731857|dbj|BAA14014.1| (D89751) Pjchi-2 [Penaeus japonicus]        59  1e-07
+SEQ gi|1488033|gb|AAB48566.1| (U60806) complement-fixation chitinase...    59  1e-07
+SEQ gi|540275|gb|AAC47023.1| (U14639) chitinase [Onchocerca volvulus]      59  2e-07
+SEQ gi|6467179|dbj|BAA86981.1| (AB025009) novel member of chitinase ...    59  2e-07
+SEQ gi|7511429|pir||T28113 hypothetical protein ZK938.6 - Caenorhabd...    58  2e-07
+SEQ gi|7495712|pir||T19115 hypothetical protein C08H9.14 - Caenorhab...    58  3e-07
+SEQ gi|5814093|gb|AAD52097.1|AF088885_1 (AF088885) receptor-like kin...    58  4e-07
+SEQ gi|7435374|pir||T04754 hypothetical protein T16H5.90 - Arabidops...    57  8e-07
+SEQ gi|7435377|pir||T04757 chitinase homolog T16H5.120 - Arabidopsis...    56  1e-06
+SEQ gi|7435376|pir||T04756 chitinase homolog T16H5.110 - Arabidopsis...    55  2e-06
+SEQ gi|7506505|pir||T24081 hypothetical protein R09D1.10 - Caenorhab...    55  3e-06
+SEQ gi|125727|sp|P09805|KTXA_KLULA KILLER TOXIN ALPHA/BETA SUBUNITS ...    54  4e-06
+SEQ gi|7160725|emb|CAA93868.2| (Z70035) contains similarity to Pfam ...    54  4e-06
+SEQ gi|7506515|pir||T24079 hypothetical protein R09D1.8 - Caenorhabd...    54  4e-06
+SEQ gi|7435378|pir||T04758 hypothetical protein T16H5.130 - Arabidop...    54  7e-06
+SEQ gi|7506513|pir||T24077 hypothetical protein R09D1.6 - Caenorhabd...    54  7e-06
+SEQ gi|7495710|pir||T19111 hypothetical protein C08H9.12 - Caenorhab...    53  1e-05
+SEQ gi|7508011|pir||T25012 hypothetical protein T19H5.1 - Caenorhabd...    52  1e-05
+SEQ gi|7435382|pir||T04753 hypothetical protein T16H5.80 - Arabidops...    52  2e-05
+SEQ gi|6425199|emb|CAA93869.2| (Z70035) contains similarity to Pfam ...    52  3e-05
+SEQ gi|7495709|pir||T19110 hypothetical protein C08H9.11 - Caenorhab...    52  3e-05
+SEQ gi|7495718|pir||T19112 hypothetical protein C08H9.7 - Caenorhabd...    51  4e-05
+SEQ gi|2564739|gb|AAB81859.1| (AF026501) chitinase [Drosophila melan...    50  7e-05
+SEQ gi|2564727|gb|AAB81853.1| (AF026495) chitinase [Anopheles freebo...    50  1e-04
+SEQ gi|12831957|emb|CAC29128.1| (AJ408862) putative chitinase [Cocci...    49  1e-04
+SEQ gi|12831959|emb|CAC29129.1| (AJ408863) putative chitinase [Cocci...    49  1e-04
+SEQ gi|2564743|gb|AAB81861.1| (AF026503) chitinase [Drosophila melan...    49  2e-04
+SEQ gi|1362542|pir||S57715 chitinase (EC 3.2.1.14) - imperfect fungu...    49  2e-04
+SEQ gi|7499155|pir||T20950 hypothetical protein F15A4.8 - Caenorhabd...    48  3e-04
+SEQ gi|4758092|ref|NP_004379.1| chitobiase, di-N-acetyl- [Homo sapie...    48  3e-04
+SEQ gi|7506506|pir||T24085 hypothetical protein R09D1.11 - Caenorhab...    48  4e-04
+SEQ gi|13591934|ref|NP_112285.1| di-N-acetylchitobiase [Rattus norve...    46  9e-04
+SEQ 
+## SEQUENCE PROFILE AND ENTROPY
+ SeqNo PDBNo   V   L   I   M   F   W   Y   G   A   P   S   T   C   H   R   K   Q   E   N   D  NOCC NDEL NINS ENTROPY RELENT WEIGHT
+    1    1     0   0   0   0   0   0   0   0  92   0   8   0   0   0   0   0   0   0   0   0     0    0    0   0.276      9  0.00
+    2    2     0   0   5   0   0   0   0   8  67  13   8   0   0   0   0   0   0   0   0   0     0    0    0   1.081     36  0.00
+    3    3     0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+    4    4     0   0   0   0   0   0   0  79   5   0  12   5   0   0   0   0   0   0   0   0     0    0    0   0.733     24  0.00
+    5    5    14   0   0   0   0   0   0   0  12   0   7  24   0   0   0  43   0   0   0   0     0    0    0   1.425     47  0.00
+    6    6     0   0   0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+    7    7    16   0   0   0   0   0   0   0   0   0  25  57   0   0   0   0   2   0   0   0     0    0    0   1.046     34  0.00
+    8    8     9  25  66   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.839     28  0.00
+    9    9     0   2   0   0   0   0   0  16  32   0   2   2   0   0   5   0   0   2   7  32     0    0    0   1.689     56  0.00
+   10   10     0   0   0   0   0  80   0   7   0   0  14   0   0   0   0   0   0   0   0   0     0    0    0   0.637     21  0.00
+   11   11     2   0   0   0   0   0   0  50  30   0   2   0   0   0   0   0   7   2   7   0     0    0    0   1.331     44  0.00
+   12   12     0   0   0   0   0   0   0   0   0  14   7   2   0   0   2   0   0   9  39  27     0    0    0   1.567     52  0.00
+   13   13     0   7   2   0   0   0   0   0   2   0   0  41   7  14  18   0   9   0   0   0     0    0    0   1.704     56  0.00
+   14   14     0   0   2   0   0   0   0   0   0   0  11   0   0   0   0  48  14   0  18   7     0    0    0   1.451     48  0.00
+   15   15     0   0   0   0  48   0  43   7   2   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.985     32  0.00
+   16   16     0   0   0   0   0   0   0   2  70   0  23   5   0   0   0   0   0   0   0   0     0    0    0   0.810     27  0.00
+   17   17     0  30  41   0  14   0   0   0   0   0   9   0   0   0   0   7   0   0   0   0     0    0    0   1.399     46  0.00
+   18   18    84   2  11   0   0   0   0   0   0   0   0   0   0   2   0   0   0   0   0   0     0    0    0   0.565     18  0.00
+   19   19     0   0   0   0   0   0   0   0   0   7   2   2   0   2   0  11  14  59   0   2     0    0    0   1.357     45  0.00
+   20   20    59  11  20   0   2   0   0   7   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.152     38  0.00
+   21   21     0   0   0   0   0   0   0   0   7   0   5   0   0   0   0   2   0   0  41  45     0    0    0   1.134     37  0.00
+   22   22     0   0   0   7   0   0   5   0   9   2   5   0   0  11   0   2  43   5   0  11     0    0    0   1.851     61  0.00
+   23   23     2   0   0   0   0   0   0  11  48   0   0   2   0   0   0   0  14  16   0   7     0    0    0   1.519     50  0.00
+   24   24     0   7   0   0   0   0   0   0  75   7   0   7   0   0   2   0   2   0   0   0     0    0    0   0.937     31  0.00
+   25   25     5   2   0   0   0   0   0   9   0   0  11  70   0   0   0   0   2   0   0   0     0    0    0   1.024     34  0.00
+   26   26     2   0   0   0   0   0   0   0  68   0  27   0   0   0   0   0   0   0   0   2     0    0    0   0.787     26  0.00
+   27   27     0   0   2   0   0   0  89   0   0   7   0   0   0   0   0   0   0   0   2   0     0    0    0   0.462     15  0.00
+   28   28     0   0   0   0   0   0   2   7   0   0   0   2   0   0   0   9   0  27  52   0     0    0    0   1.267     42  0.00
+   29   29     0   0   0   0   0   0   0   0   0   0  16   9   0   0   2  11  14   0  43   5     0    0    0   1.618     54  0.00
+   30   30     0  86   0   7   0   0   0   0   0   7   0   0   0   0   0   0   0   0   0   0     0    0    0   0.501     16  0.00
+   31   31    81   0  12   0   0   0   0   0   0   0   0   7   0   0   0   0   0   0   0   0     0    0    0   0.604     20  0.00
+   32   32     0   0   0   0   0   0   0   0   2   0   0  15   0   0   0  66   2   5  10   0     0    0    0   1.112     37  0.00
+   33   33    45   5   2   0   0   0   9   0  14   2   9   0   0   0  14   0   0   0   0   0     0    0    0   1.650     55  0.00
+   34   34     0   0   0   0   0   0   2   0   0   0   9   5   0  11   0  59   9   2   2   0     0    0    0   1.392     46  0.00
+   35   35     0   0   0   0   0   0   0   0   2   9   9   2   0   0   0   2   0  16  36  23     0    0    0   1.691     56  0.00
+   36   36     9   2   7   0   9   0   0   9  32   0   7   2   0   2   2   2  11   2   2   0     0    0    0   2.234     74  0.00
+   37   37    40   0   0   0   0   0   0   0  51   0   0   7   0   0   2   0   0   0   0   0     0    0    0   0.975     32  0.00
+   38   38     0   0   0   0   0   0   0   0   0  16   2  13   0   0   2   4   0   4   7  51     0    0    0   1.528     50  0.00
+   39   39    63   0  30   0   0   0   0   0   0   0   0   7   0   0   0   0   0   0   0   0     0    0    0   0.831     27  0.00
+   40   40     0   0   0   0   0   0   0   0   4   4  57   9   0   2   0  11   6   2   4   0     0    0    0   1.509     50  0.00
+   41   41    79   4  15   0   0   0   0   0   0   0   2   0   0   0   0   0   0   0   0   0     0    0    0   0.688     22  0.00
+   42   42     2   0   0   0   0   0   0   0   0   0  66  11   0   0   2  17   0   2   0   0     0    0    0   1.060     35  0.00
+   43   43     2   2   2   0   9  85   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.593     19  0.00
+   44   44     0   0   0   0   0   0   0   0   0   0  17   2   0   0   0   0   0   0  72   9     0    0    0   0.827     27  0.00
+   45   45    28  40   2   0   0   0   0   0  19   0   0   0   0   0   0   0  11   0   0   0     0    0    0   1.358     45  0.00
+   46   46     0   2   0   0   0  83   2   0   6   0   4   0   0   0   0   0   0   0   0   2     0    0    0   0.711     23  0.00
+   47   47     2   0   0   0   0   0   2   2   0   0  42  10   0   0   0   0   0   2  40   0     0    0    0   1.290     43  0.00
+   48   48     0   0   0   0   0   0   0  84   0   0   2   2   0   0   4   0   0   0   2   6     0    0    0   0.689     22  0.00
+   49   49     2   0   2   0   0   0   0   6   2   0   6   8   0   0   4   0   0  12   0  59     0    0    0   1.455     48  0.00
+   50   50    16   0   4   0   0   0   0  10  16   6   2  27   0   0   2   8  10   0   0   0     0    0    0   2.039     68  0.00
+   51   51     0   0   0   0   0   0   0  92   4   0   2   0   0   0   0   0   0   0   0   2     0    0    0   0.356     11  0.00
+   52   52     6   0   0   0   0   0   0   0   0   0   2  35   0   2   0   0   6   8   8  33     0    0    0   1.621     54  0.00
+   53   53     4   0  12   6   0   0   0   2   0   2   6  49   0   2   2   2   0   2  12   0     0    0    0   1.776     59  0.00
+   54   54     8   0   0   0   0   0  24   2  57   2   2   4   0   0   0   0   0   0   2   0     0    0    0   1.296     43  0.00
+   55   55     2   0   0   0   0   0  18   6   0   0   2   0   0   2   0  53   8   0   6   4     0    0    0   1.534     51  0.00
+   56   56    61  10  20   0   0   0   2   0   0   0   2   2   0   0   0   0   0   0   0   4     0    0    0   1.208     40  0.00
+   57   57     8  51   0   2   2   0  27   0   2   0   0   2   2   0   0   2   0   2   0   0     0    0    0   1.456     48  0.00
+   58   58     0  48   0   0  38   2   0   0   0   0   2   2   0   0   4   0   0   0   0   4     0    0    0   1.227     40  0.00
+   59   59     0   0   0   2   2   0   0   2   0   0   2   2   0   0   0   0   0   9  34  47     0    0    0   1.341     44  0.00
+   60   60     4   0   0   0   0   0   4  55   2   0   0   0   0   0   0   0   4   6  11  13     0    0    0   1.489     49  0.00
+   61   61    10   6   0   0   0   0   0   0   6   0   2   0   0   0   6  49   8   4   6   2     0    0    0   1.760     58  0.00
+   62   62     4  10   2   0   0   4   0   2   0   0   0   0   0   0   0  14  16  37   8   2     0    0    0   1.879     62  0.00
+   63   63    59   0   0   2   0   0   0   2  31   0   6   0   0   0   0   0   0   0   0   0     0    0    0   0.997     33  0.00
+   64   64     0   0   0   0   4  65   2   2  12   0   2   0   0   0   0   4   0   0   8   0     0    0    0   1.239     41  0.00
+   65   65     4   0   0   0   0   0   0   4   2   2  40  23   0   0   0  13   6   4   0   2     0    0    0   1.777     59  0.00
+   66   66     2   0   0   0   0   0   0  78  12   0   2   0   0   0   2   0   0   0   0   4     0    0    0   0.812     27  0.00
+   67   67     0   0   0   0   0   0   2   6  18  50   2   6   0   0   2   0   2   2   0  10     0    0    0   1.614     53  0.00
+   68   68     4   0  12   0   0   0   0   0  33   0  33  16   0   0   0   0   2   0   0   0     0    0    0   1.479     49  0.00
+   69   69     2   0   0   0   0   0   0   8   8   2  10  50   2   0   0   2   8   2   0   6     0    0    0   1.743     58  0.00
+   70   70     2   0   0   0   0   0   0  54  10   2   4  10   0   0   0   0   0   4   0  13     0    0    0   1.489     49  0.00
+   71   71     0   0   0   0   0   0   0  10  10   2  33   6   0   0  10  24   0   2   2   2     0    0    0   1.865     62  0.00
+   72   72     2   2   0   0   8   0   0   4   4   0  39  12   0   0  10   8  10   2   0   0     0    0    0   1.959     65  0.00
+   73   73     4   0   0   0   0   0   4  49  20   2   0  12   0   0   0   2   6   0   0   0     0    0    0   1.522     50  0.00
+   74   74    12   0   0   0   0   0   2   0   0   0   4  76   0   0   2   2   2   0   0   0     0    0    0   0.918     30  0.00
+   75   75    11   0  11   0   2   2   0   0  63   0   2   2   0   0   0   2   0   0   0   4     0    0    0   1.326     44  0.00
+   76   76     2   0   2   0   0   0   0   4   2   0   9   9   0   0   2   2   9   0  53   4     0    0    0   1.680     56  0.00
+   77   77     7   0   4   0  69   0  13   0   0   0   0   0   0   4   0   0   0   0   2   0     0    0    0   1.067     35  0.00
+   78   78     2   2   2   0   0   0   0   6   0   9   2   9   2   0   2  38   0   4   2  19     0    0    0   1.987     66  0.00
+   79   79    56   6   4   0   0   0  30   0   2   0   0   2   0   0   0   0   0   0   0   0     0    0    0   1.140     38  0.00
+   80   80     2   4   0   0   0   0   4   8   2   2  10  22   0   0   2   0   0   0  35  10     0    0    0   1.916     63  0.00
+   81   81     2   0   0   0   0   0   0   0   4   0   6   8   0   0   8  60  12   0   0   0     0    0    0   1.341     44  0.00
+   82   82     0   0   0   0   0   0   0  64   6   2  24   0   0   0   0   0   0   0   2   2     0    0    0   1.032     34  0.00
+   83   83     0   0   0   0   0   0   0  90   0   2   0   6   0   0   0   0   0   0   0   2     0    0    0   0.420     14  0.00
+   84   84     4   6   0   0   2   0   0   0   6   0   4   2   0   0  52   2  10   4   6   2     0    0    0   1.776     59  0.00
+   85   85     0   4   0   0  16   0  62   0   2   0   2   4   0  10   0   0   0   0   0   0     0    0    0   1.234     41  0.00
+   86   86     2   0   0   0   0   0   0   2   2   0  20   4   0   0   2   0  56   2   6   4     0    0    0   1.464     48  0.00
+   87   87     2  10   4  64   2   0   6   0   4   4   0   2   0   0   0   2   0   0   0   0     0    0    0   1.384     46  0.00
+   88   88     2   0   0   0   0   0  14   2   4   0  12   8   0   2  12   0  34  10   0   0     0    0    0   1.947     64  0.00
+   89   89    71  12  12   0   0   0   0   2   2   0   0   2   0   0   0   0   0   0   0   0     0    0    0   0.981     32  0.00
+   90   90     2   0   0   0   0   0   0   2  38   0   2   8   2   0   4  24   0  18   0   0     0    0    0   1.663     55  0.00
+   91   91     8  68   0   0   0   0   2   0  12   0   0   4   0   0   0   2   2   0   2   0     0    0    0   1.160     38  0.00
+   92   92     2   0   0   0   0   2   2   0   2   0   0   8  81   0   2   2   0   0   0   0     0    0    0   0.826     27  0.00
+   93   93     0   2   0   0   0   0   0   0   0   2   0   8   0   0   4   0   2   6  56  21     0    0    0   1.369     45  0.00
+   94   94     6   0   0   0   0   0   0  15  54   6   0   4   0   0   0   0   0   6   2   8     0    0    0   1.514     50  0.00
+   95   95     0   0   0   0   0   0   0   6   2   0   2  17   0   0   0   4   0   2   0  67     0    0    0   1.088     36  0.00
+   96   96     8   2   0   0   0   0   0  87   0   0   0   2   0   0   0   0   0   0   0   2     0    0    0   0.550     18  0.00
+   97   97     0   8   0   0   2   0   0   0   2   0   2   6  79   0   0   0   2   0   0   0     0    0    0   0.853     28  0.00
+   98   98     0   0   0   0   0   2   4   0   9   0  37  43   0   0   0   4   0   2   0   0     0    0    0   1.344     44  0.00
+   99   99    11   6   2   0   0   2   0   6  42   2   2   2   0   0   8   9   4   0   0   6     0    0    0   2.015     67  0.00
+  100  100     0   0   0   0   0   0   0   2   2   4  80   9   0   0   4   0   0   0   0   0     0    0    0   0.783     26  0.00
+  101  101     2   0   0   0   0   0   0   2  21   2   4   7   2   0   0   0   7  13   0  41     0    0    0   1.739     58  0.00
+  102  102     4   0   0   0   0   0   2   9  32  23   9  13   0   0   0   5   2   2   0   0     0    0    0   1.887     62  0.00
+  103  103    31   2   0   0   0   0   4   2   7   2   6  30   0   0   0  13   4   0   0   0     0    0    0   1.808     60  0.00
+  104  104     0   4   0   0   0   0   2   0   0   2   6  17   0   0   2   4   7  56   0   2     0    0    0   1.518     50  0.00
+  105  105    26   9  51   2   2   0   2   0   0   0   0   4   0   0   2   0   0   0   2   0     0    0    0   1.416     47  0.00
+  106  106    46   4   2   6   0   0   0   0   0   4   4  19   2   0   2  11   0   0   2   0     0    0    0   1.735     57  0.00
+  107  107    56   0  30   0   2   2   0   0   2   0   0   6   0   0   0   0   2   2   0   0     0    0    0   1.217     40  0.00
+  108  108     0   0   0   2   0   2   4   2  79   2   0   5   0   0   5   0   0   0   0   0     0    0    0   0.910     30  0.00
+  109  109     0   0   2   0   0   0   0   2   2   0   2   4   0   0   2   2   2   0   0  84     0    0    0   0.769     25  0.00
+  110  110     2   0   0   0   0   0   0   2   4   4   4  77   0   0   2   0   4   0   2   2     0    0    0   1.038     34  0.00
+  111  111     0   0   0   0   0   0   0   5   2   3   2   7   0   0   0   0   0   0   3  78     0    0    0   0.907     30  0.00
+  112  112     0   0   0   0   0   0   0  88   2   0   2   5   0   0   0   0   0   0   2   2     0    0    0   0.554     18  0.00
+  113  113     0   0   0   0   0   0   0  14   9   4  52   4   0   0   2   7   0   0   4   5     0    0    0   1.609     53  0.00
+  114  114     0   0   0   0   0   0   0   2   5   4   4   2   0  78   0   0   2   2   0   2     0    0    0   0.956     31  0.00
+  115  115     0  73   0   2   0   0   0   2   0   0   5   7   2   0   2   4   2   0   2   0     0    0    0   1.139     38  0.00
+  116  116     2   2   0   2   0   0   0   7  48   2   5   5   0   0   4  16   0   2   2   4     0    0    0   1.817     60  0.00
+  117  117     0   0   0   0   0   0   0   4   4  80   2   0   2   0   2   2   2   0   2   2     0    0    0   0.917     30  0.00
+  118  118     8  68   2   2   2   0   0   0   5   2   5   3   0   0   0   2   0   0   2   0     0    0    0   1.305     43  0.00
+  119  119     3   0   0   0   0   0   2   2   5  16   2   9   0   0   3  31   7  12   7   2     0    0    0   2.153     71  0.00
+  120  120     2   0   0  16   0   0  21   2   5   3   3   9   0   2   0   0   2  33   2   2     0    0    0   1.997     66  0.00
+  121  121     3   0   2   0   0   0   0   3   7  43   0  16   0   0   2   2   0   2  19   2     0    0    0   1.734     57  0.00
+  122  122    16  34   5   0   0  21   2   0   5   2   4   7   0   0   2   0   2   0   0   0     0    0    0   1.899     63  0.00
+  123  123     5  32   2   0   2   2   4   9   2   0   4   2   0   0   5   4  11   2   2  16     0    0    0   2.265     75  0.00
+  124  124     2   2   0   0   0   0   0   3   2  14   5   3   0   2   2   2   3  64   0   0     0    0    0   1.399     46  0.00
+  125  125     0   0   0   0   0   0   0   3   1   0   6   6   0   1   3  24   0  13  42   0     0    0    0   1.648     55  0.00
+  126  126     1   0   0   0   0   0   0   0   6   3   4   3   0   4   9   0   0   1  62   6     0    0    0   1.438     47  0.00
+  127  127    10   1   0   1   0   0   0   8   3   0  11   4   0   0   6  50   1   3   1   0     0    0    0   1.754     58  0.00
+  128  128    12   0   0   1   0   0   1   4   1  59   3   5   0   0   1   1   1   0   5   3     0    0    0   1.555     51  0.00
+  129  129     0   0   0   0   3   0  45  11   4   3   1   5   0   4   0   1   0  12   8   3     0    0    0   1.887     62  0.00
+  130  130     2   0   1   0   0   0   1   6   9   7   2   9   0   0   7  52   1   1   3   0     0    0    0   1.742     58  0.00
+  131  131     0   0   2   0   0   0   4   5   6   1   4  11   0   1  39   5  14   3   4   3     0    0    0   2.088     69  0.00
+  132  132     0   0   3   0   0   0   0   6  31   6   4   4   2   4   0   5   3   2  19  14     0    0    0   2.127     70  0.00
+  133  133     0   0   0   1   2   0   0  10   2  10  43   9   1   0   0   2   1   4  12   4     0    0    0   1.897     63  0.00
+  134  134     0   0   0   1   1   0   2  66   4   1   4   1   0   1   2   3   2   0   4  10     0    0    0   1.409     47  0.00
+  135  135     2   0   1   0   5   0  27   1   0   1   3   3   0   3  16  37   0   2   0   0     0    0    0   1.739     58  0.00
+  136  136    44   0  15   0   0   0   0   1  22   0   0   8   0   0   2   4   2   1   2   0     0    0    0   1.596     53  0.00
+  137  137    46   2  11   2   1   0   0   0   1   0   1   3   0   0   5   4   0   0  26   0     0    0    0   1.575     52  0.00
+  138  138     8   2   2   2   0   0   0  47  31   0   6   0   0   0   0   1   0   0   1   0     0    0    0   1.408     46  0.00
+  139  139    30   0   0   0   0   0   2   9  21   0  15   4  17   0   0   0   0   0   0   1     0    0    0   1.748     58  0.00
+  140  140     0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+  141  141     1   0   1   1  77   1  17   0   0   1   0   0   0   1   0   0   1   0   0   0     0    0    0   0.766     25  0.00
+  142  142    32   0   1   1   0   0   0   4   4   6   9  41   1   0   0   0   0   1   0   0     0    0    0   1.539     51  0.00
+  143  143     0   0   0   0   0   1   0   2   2   0  12   4   0   0   1   0   4  27  47   1     0    0    0   1.502     50  0.00
+  144  144     0   0   0   1   1  98   0   1   0   0   0   0   0   0   0   1   0   0   0   0     0    0    0   0.148      4  0.00
+  145  145     0   0   0   0   0   0   0  59  30   1   6   1   0   0   2   0   0   0   1   0     0    0    0   1.027     34  0.00
+  146  146    36   0  41   0   1   4   1   1   5   1   1   2   1   0   1   1   6   0   1   0     0    0    0   1.562     52  0.00
+  147  147     1   0   0   0   1   1  93   1   0   0   1   1   0   0   0   0   0   0   1   1     0    0    0   0.387     12  0.00
+  148  148     0   1   0   0   0   0   0  69   1   0   2   1   0   1  10   1   1   2   1  11     0    0    0   1.171     39  0.00
+  149  149     0   0   0   0   0   0   1   3   2   2   0   0   0   0  78   4   6   2   0   2     0    0    0   0.955     31  0.00
+  150  150     0   0   0   0   0   0   0  10   3   1   5   1   0   0   1  18   2   1  52   7     0    0    0   1.550     51  0.00
+  151  151     1   0   1   0  56   0  36   0   0   0   1   1   0   5   0   0   0   0   0   0     0    0    0   0.996     33  0.00
+  152  152     1   8   0   0   2   0   2   6   0   9   2  18   0   4   2   0  25   1  11   8     0    0    0   2.224     74  0.00
+  153  153    39   2  11   1   1   0   0   0   5  40   0   0   0   0   0   0   0   1   0   0     0    0    0   1.348     44  0.00
+  154  154     1   1   0   0   0   2   0   2  11   1   4   5   0   1   0   8  21  15   2  26     0    0    0   2.088     69  0.00
+  155  155     0   0   0   0   0   0   0   1   1   0   0   0   0   1   0  22   4   0  20  51     0    0    0   1.249     41  0.00
+  156  156    12  37  44   4   1   0   0   0   1   0   0   0   1   0   0   1   0   0   0   1     0    0    0   1.276     42  0.00
+  157  157    18   0   0   0   0   0   0   0   2  51   5   1   0   1   1   5   1   1   2  13     0    0    0   1.556     51  0.00
+  158  158     8   5   4   0   1   5   1   2  57   9   1   4   0   0   1   1   0   0   1   0     0    0    0   1.617     53  0.00
+  159  159     0   0   0   0   1   0   1   5   2   8  26   4   1   2   1   5  13   7   3  23     0    0    0   2.176     72  0.00
+  160  160     0  18   1   2   0   0   1   0   1   0   1   1   0   0   0  21  10   2  25  18     0    0    0   1.856     61  0.00
+  161  161    12  38  20   0   6   0   1   0   0   0   0   1  21   0   0   0   0   1   0   0     0    0    0   1.556     51  0.00
+  162  162     0   0   0   0   0   0   0   0   0   0  13  85   0   0   1   0   0   0   0   2     0    0    0   0.499     16  0.00
+  163  163     1   0   1   0   1   0   0   0   0   0   0   1   0  93   1   1   0   0   0   2     0    0    0   0.385     12  0.00
+  164  164    29  24  45   0   1   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.147     38  0.00
+  165  165     4  40  33   1   1   0   1   0   0   0   1   0   0   0   1   0   1   0  18   0     0    0    0   1.404     46  0.00
+  166  166     0   1   0   1   4   0  94   0   0   0   0   0   0   0   0   0   0   0   1   0     0    0    0   0.282      9  0.00
+  167  167     0   1   0   0   0   0   0  29  36   0  33   0   0   0   1   0   0   0   0   0     0    0    0   1.176     39  0.00
+  168  168     0   0   0   0  99   0   1   0   0   0   1   0   0   0   0   0   0   0   0   0     0    0    0   0.073      2  0.00
+  169  169     6   4  31  23   3   0   0   6  25   1   0   3   0   0   0   0   0   0   0   0     0    0    0   1.724     57  0.00
+  170  170     1   1   0   0   0   0   0   5   3  37   2   1   0   2   0   7   0   0  31   9     0    0    0   1.693     56  0.00
+  171  171    25  13  54   2   0   0   0   0   1   0   2   1   0   0   0   1   0   1   0   0     0    0    0   1.289     43  0.00
+  172  172     2   0   0   0   0   0   3   2   3   0   3   9  57   2   2   0   5   0   5   5     0    0    0   1.671     55  0.00
+  173  173     0   0   0   0   0   0   0  73   7   6   3   0   0   2   0   0   1   2   3   1     0    0    0   1.092     36  0.00
+  174  174     1   2   0   0   0   2   0  53   2  10   1   0   0   0   4   4   2   6   3   8     0    0    0   1.753     58  0.00
+  175  175     3   1   3   0   1   0   0   6   0   0   3   8   0   5   0  10   1   0  36  24     0    0    0   1.898     63  0.00
+  176  176     2   2   3   0   0   0   1  68   2   2   2   9   0   1   1   3   0   2   0   0     0    0    0   1.363     45  0.00
+  177  177    17  15  44   0   2   0   0   2   4   0   2   0   0   0   1   1   0   0   7   2     0    0    0   1.736     57  0.00
+  178  178     0   0   1   0   0   0   2  10   0   8   5  11   0   2   2   2   0   0  53   3     0    0    0   1.652     55  0.00
+  179  179     1   1   0   0   1   0   0   2   1   1   3   2   0   0   1   0   2  21   4  59     0    0    0   1.431     47  0.00
+  180  180     2   1   0   0   0   0   1   3  15   4  47   2   2   0   2   9   2   4   4   0     0    0    0   1.877     62  0.00
+  181  181     6  45   5   2   1   3   8   3   1   2   9   7   1   1   0   1   0   0   1   1     0    0    0   2.049     68  0.00
+  182  182     1   0   1   1   0   2   1   5   9   1   7   2   0   1   4  56   0   1   5   2     0    0    0   1.732     57  0.00
+  183  183     0   0   3   0   0   0   0   1   3  11  14   6   1   0   9   2   4  31   0  14     0    0    0   2.073     69  0.00
+  184  184    16   3  52   0   0   0   8   0   0   1   1   1   1   0   0   1   2   3   6   2     0    0    0   1.672     55  0.00
+  185  185     8   0   6   0   0   0   0   7   3  16   5   5   0   2   0   5   1  31   2   9     0    0    0   2.194     73  0.00
+  186  186     0   0   1   1   0   1   0  65   5   1   2   0   0   0   1  10   6   1   5   1     0    0    0   1.401     46  0.00
+  187  187     3   0   0   0   0   0   8   2   7   1  40   7   1   2   0   0   1   3  20   5     0    0    0   1.894     63  0.00
+  188  188     1   2   1   0  63   9  11   1   0   2   4   2   2   1   0   1   0   0   1   0     0    0    0   1.433     47  0.00
+  189  189     1   0   0   4   3   0   1   1   4   3   2   7   0   0   6   7  37  16  10   0     0    0    0   2.082     69  0.00
+  190  190     0   0   0   0   0   0   0   3  75   6   4   2   0   1   2   0   0   4   2   2     0    0    0   1.074     35  0.00
+  191  191     3  54   1   1  10   1   1   0   1   0   3  10   1   0   0   0   1   3   3   8     0    0    0   1.741     58  0.00
+  192  192     1   0   0   1   0   0   0   3   1   0   6   3   0   0   0   4  61  13   4   4     0    0    0   1.464     48  0.00
+  193  193     3   1   0   1   0  10   1   3   1   3   1  17   0   0  40   6   0   3  10   0     0    0    0   1.974     65  0.00
+  194  194     0   1   0   0   0   0   0   2  20   2  57   5   0   1   0   1   1   0   9   0     0    0    0   1.387     46  0.00
+  195  195    16   1   2   0   0   1   1   4   5   1   5   2  59   0   0   0   0   1   0   1     0    0    0   1.525     50  0.00
+  196  196     1  12   5   0   0   0   1   2  18   4   2   2   0   0   5   7  28   1   2   8     0    0    0   2.249     75  0.00
+  197  197     1   0   2   0   0   0   0  63   1   0   3   7   1   0   0   0   0   0   6  16     0    0    0   1.286     42  0.00
+  198  198     9   0   0   0   0   0   3   2   2   1   5   1   0   1  46   7  11   7   3   3     0    0    0   1.921     64  0.00
+  199  199     2   0   4   0   0   0   0   3  18  10   3   0   0   0   1   9   4  30   5  11     0    0    0   2.117     70  0.00
+  200  200     0   0   1   0   0   1   0   1   1   2  10   1   0   1   1   0   5   1  10  66     0    0    0   1.300     43  0.00
+  201  201     2   8   0   0  27   1   9  40   4   4   1   0   0   0   0   0   1   0   1   1     0    0    0   1.719     57  0.00
+  202  202     1   1   1   0   1   1   0   2   2   1   5  32   3   1   2  24   4  18   1   2     0    0    0   2.010     67  0.00
+  203  203    64   6  13   6   0   1   0   0   3   0   0   3   2   0   0   2   0   0   1   1     0    0    0   1.329     44  0.00
+  204  204    26  13   2   0   3   0   7   2   8   1  19   1   2   0   2   4   2   1   3   4     0    0    0   2.320     77  0.00
+  205  205     9  11  36   4   2   0   2   1   1   1  22   9   0   0   0   0   0   1   0   1     0    0    0   1.891     63  0.00
+  206  206     0   4  10   0   1   0   1  27   1   1   9   3   0  39   1   0   1   1   2   1     0    0    0   1.788     59  0.00
+  207  207     0   2   2   1   1   1   2   1   3   0   0   1   0   1   1   1   1   1   1  80     0    0    0   1.000     33  0.00
+  208  208     5   1   6   0   0   0   1   1  15  49   3  15   0   0   0   2   0   2   1   0     0    0    0   1.633     54  0.00
+  209  209     0   1   1   1  25  33  29   1   1   0   1   1   0   0   0   0   0   6   2   0     0    0    0   1.571     52  0.00
+  210  210     2   9   4   0   0   0   0   4  70   1   3   1   1   1   1   0   1   1   1   1     0    0    0   1.279     42  0.00
+  211  211     1   1   0   0   9   0   1   7  34   0   2   1   0   0   0   1   0   1   2  40     0    0    0   1.567     52  0.00
+  212  212    14  19  11   6   3   0  21   3   9   1   0  10   1   0   1   0   0   1   0   2     0    0    0   2.188     73  0.00
+  213  213     0   0   1   1   1   0   1   6   1   1   4   3   0   2   2   2  49  13   4  11     0    0    0   1.830     61  0.00
+  214  214     1   1   1  10   0   1   0   1   3   5   3   1   0   0   3  60   1   2   8   0     0    0    0   1.566     52  0.00
+  215  215     4   1   0   1   1   0   1   5  12  12  11   8   0  27   0   3   5   3   6   1     0    0    0   2.305     76  0.00
+  216  216     1   2   1   2   3   1  24   0   1   2   5   1   0   8   1   2  25   6  11   3     0    0    0   2.247     74  0.00
+  217  217     1   3   4   0   1   0   9   8   8  14   8   5   0   0   1  18   1   1   5  13     0    0    0   2.420     80  0.00
+  218  218     3   0   1   0   0   0   1  50   9   2   6   5   0   0   0   1   0   3   5  15     0    0    0   1.706     56  0.00
+  219  219    35  10   9   2   1   0   0   2   5   2   2  14   0   3   0   1   0   1   0  14     0    0    0   2.041     68  0.00
+  220  220     0   6   4   0   0   1   0   0   3   0  14  26   0   3   1   1   1   1   1  40     0    0    0   1.696     56  0.00
+  221  221     1   2   1   0   1   0   2   1  21   2  31   9   1   1   1   7   4  13   2   1     0    0    0   2.127     71  0.00
+  222  222     0   1   2   1   4  75   6   2   2   1   1   2   1   0   1   0   0   0   1   1     0    0    0   1.145     38  0.00
+  223  223     1   1   1   0   0   1   0   3   3   0   7   0   0   3   0   4   2   5  36  34     0    0    0   1.722     57  0.00
+  224  224     1   0   1   1   0   2   1   1   1   1   2   2   0   1   0   1   7  22   3  57     0    0    0   1.469     49  0.00
+  225  225    29   3   4   1   0   0   1   1   3  42   2   2   1   0   1   2   4   1   4   1     0    0    0   1.827     60  0.00
+  226  226     1   8   9   1   2   0  24  27   3   1   2   5   0   1   0   3   1   2   1  12     0    0    0   2.134     71  0.00
+  227  227     0   6   0   0   1   0   0   0   2   0   1   7   0   1  14  37   2   6  20   0     0    0    0   1.942     64  0.00
+  228  228     0   0   0   0   0   0   0  49   2   0   6   2   0   1   5   1   1   1  28   0     0    0    0   1.497     49  0.00
+  229  229     9   3   1   5   4   0   0  10  16   0   0   2   1   5   3   2   1   0  33   2     0    0    0   2.233     74  0.00
+  230  230     0   5   4   0  43   0  46   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.093     36  0.00
+  231  231     0   1   0   0   0   0   0  42   3   0  10   4   0   0   6   6   4   9  11   3     0    0    0   1.926     64  0.00
+  232  232     0   2   0   4   0   0   0   1   7   0   1   1   0   0  12   7  49   6   9   0     0    0    0   1.785     59  0.00
+  233  233     9  63   2   8  15   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.218     40  0.00
+  234  234     6   4   4  19  16   0   6   0   2   0   0  16   0   0   5   7   1   0  14   0     0    0    0   2.280     76  0.00
+  235  235     1   9   0   0   0   0   0   6  26   0   9   5   0   0   2  30   2   5   2   3     0    0    0   2.043     68  0.00
+  236  236     9  72   2   2   2   0   4   0   7   0   0   0   0   1   0   0   0   0   0   0     0    0    0   1.086     36  0.00
+  237  237     0   0   0   0   0   0   0   0   1   0   0   0   0   0  13  84   1   0   0   0     0    0    0   0.559     18  0.00
+  238  238     0   4   0   0   0   0   0   0   8   0   5   4   0   0   6  33  16  12   7   2     0    0    0   2.090     69  0.00
+  239  239     2   0   0   1   0   0   1   1  30   0   4   4   0   2  18  19   6   2   6   1     0    0    0   2.098     70  0.00
+  240  240     0   0   0   0   0   0  10   1   0   0   2   1   0  18   2   0   0   0  61   3     0    0    0   1.323     44  0.00
+  241  241     0   0   0   0   0   0   0   0   1  57   7   4   0   1  27   2   0   1   0   0     0    0    0   1.230     41  0.00
+  242  242     0   0   0   0   0   0   0  11   2   0   4   4   0  13   1   8   4   7  26  20     0    0    0   2.084     69  0.00
+  243  243    17  70   4   4   1   0   0   0   2   0   0   2   0   0   0   0   0   0   0   0     0    0    0   0.991     33  0.00
+  244  244     0   0   0   0   0   0   0   0   0   0   1   1   0   0   3  91   2   1   0   0     0    0    0   0.491     16  0.00
+  245  245    35   5  23   1   4   0   0   0   1   0   0  30   0   0   0   0   0   0   0   0     0    0    0   1.520     50  0.00
+  246  246     0  60   5  25   2   0   0   0   0   0   2   2   0   0   0   0   0   0   1   0     0    0    0   1.252     41  0.00
+  247  247     8  47  17   1   5   2   2   0   5  14   0   0   0   0   0   0   0   0   0   0     0    0    0   1.596     53  0.00
+  248  248     1   0   0   0   0   0   0   0  18   0  80   0   0   0   0   0   0   0   0   0     0    0    0   0.614     20  0.00
+  249  249    30   4  59   0   3   0   3   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.046     34  0.00
+  250  250     0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.024      0  0.00
+  251  251     0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.000      0  0.00
+  252  252     0   0   0   0   1  84   5   1   0   1   0   0   0   1   1   2   1   0   1   1     0    0    0   0.820     27  0.00
+  253  253     0   1   0   0   0   0   2   2   8   0   4  48   0   1   0   3   0   1  22   6     0    0    0   1.635     54  0.00
+  254  254     0  23   1   1  20  20   7   1   3   0   1   0   0   1   0   0   0  12   6   4     0    0    0   2.067     68  0.00
+  255  255     0   0   1   0   0   0   0  25   1   0  64   4   0   0   0   0   0   0   3   1     0    0    0   1.081     36  0.00
+  256  256     0   0   0   0   0   0   0  12   2   6  12  22   0   1   2   5   4   3   6  25     0    0    0   2.159     72  0.00
+  257  257     0   1   0   0   1   0   3   6   5  28  12   2   0   2   6   4   3   2  22   1     0    0    0   2.239     74  0.00
+  258  258     1   2   1   0  66   0   3   1   1   0   1   2   0   1   9   8   0   0   2   1     0    0    0   1.392     46  0.00
+  259  259     1   2   1   0  29   0  22   0   7   1  26   3   0   2   0   3   0   1   0   0     0    0    0   1.818     60  0.00
+  260  260     8   5   7  17  10   0   2   3  19   2   6   7   0   2   0   1   2   1   1   9     0    0    0   2.467     82  0.00
+  261  261    16   9   1  21  12   0   0   0  31   3   1   0   0   0   1   0   1   1   2   0     0    0    0   1.933     64  0.00
+  262  262     2   1   3   1   0   0   0  17  27   1  30   7   0   4   1   2   0   0   1   2     0    0    0   1.960     65  0.00
+  263  263     5   0   0   0   0   0   0   1   2   0  14  27   0   0   0   0   4   4  13  29     0    0    0   1.862     62  0.00
+  264  264     1   1   0   1   4   0   0   1  13  11   8   6   0   1   2  29   2   5   2  12     0    0    0   2.252     75  0.00
+  265  265    13   2   0   1   0   0   3   1  35   1   8  10   0   0   1   4   7  10   1   2     0    0    0   2.164     72  0.00
+  266  266     0   2   0   0   0   0   0   0   5   0  13  10   0   1   8  22   1   3  33   1     0    0    0   1.934     64  0.00
+  267  267     0   0   1   0   0   0   0   1   0   0   1   1   0   1  85   3   2   0   2   1     0    0    0   0.744     24  0.00
+  268  268     0   1   1   3   0   0   0   2   6   2   4   2   0   0   7  24  12  11   5  19     0    0    0   2.239     74  0.00
+  269  269    11   3   4   1   0   0   0   1   8   0   6  21   0   2  15  13   1   1  14   0     0    0    0   2.262     75  0.00
+  270  270     1   2   0   0  95   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.265      8  0.00
+  271  271    36   1  33   0   1   0   0   0  28   0   0   1   0   0   0   0   0   0   1   0     0    0    0   1.312     43  0.00
+  272  272     0   0   0   0   0   0   0   6  17   0   6   4   0   0   8  21   7   7  10  13     0    0    0   2.213     73  0.00
+  273  273     0   0   0   0   0   0   0   0   1   0  75  16   1   1   0   0   1   0   3   1     0    0    0   0.877     29  0.00
+  274  274    41   2  11   2   0   0   0   0  31   0   5   4   4   0   0   0   0   0   0   0     0    0    0   1.536     51  0.00
+  275  275    23   7  31   1   0   0   2   0   4   1   1   2   0   1   3  20   0   1   0   1     0    0    0   1.974     65  0.00
+  276  276     0   2   0   0   0   0   0   3   6   4  14  17   0   0   5  12   4  20   4  10     0    0    0   2.289     76  0.00
+  277  277     1  13   4   1  76   0   2   0   0   1   0   0   0   0   0   0   0   0   1   0     0    0    0   0.939     31  0.00
+  278  278     9  55  10  19   1   0   0   0   4   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.327     44  0.00
+  279  279     1   3   0   0   0   0   0   0   1   1   0   1   0   0  33  31  17   7   3   1     0    0    0   1.705     56  0.00
+  280  280     3   1   1   1   0   0   1   0   3   0   3  31   0   0   3  19   9   2   4  20     0    0    0   2.004     66  0.00
+  281  281     0   4   0   0   2  39  36   1   2   2   1   0   0  10   0   1   0   0   1   0     0    0    0   1.614     53  0.00
+  282  282     0   0   0   0   0   0   0  31   0   1   1   0   0   7   3  27   1   2  14  11     0    0    0   1.825     60  0.00
+  283  283     2   3   3   1  55   5   1  18   0   0   2   0   0   1   0   0   1   1   6   3     0    0    0   1.596     53  0.00
+  284  284     0   6   5   1  78   0  10   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.803     26  0.00
+  285  285     0   0   0   0   0   0   0   0   0   0   1   0   0   4   0   0   0   1   1  92     0    0    0   0.423     14  0.00
+  286  286     0   0   0   0   0   0   0  98   0   0   1   0   0   0   0   0   0   0   0   0     0    0    0   0.113      3  0.00
+  287  287    35  32  27   0   5   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.237     41  0.00
+  288  288     0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   1   2  96     0    0    0   0.237      7  0.00
+  289  289    11  41  45   1   2   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.115     37  0.00
+  290  290     0   0   0   0  11   0   1   0   6   0   1   0   0   0   0   0   0   0   1  79     0    0    0   0.797     26  0.00
+  291  291     0   0   0   0   5  91   3   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.382     12  0.00
+  292  292     0   8   1   0   0   0   0   0   0   0   0   1   0   0   0   5   3  80   1   0     0    0    0   0.864     28  0.00
+  293  293     0   0   0   0  21   8  70   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.860     28  0.00
+  294  294     0   0   0   0   0   0   0   0   0  99   1   0   0   0   0   0   0   0   0   0     0    0    0   0.090      3  0.00
+  295  295     8   1   1   0   0   0   0  52  15   0   5   5   0   0   1   3   0   3   4   2     0    0    0   1.708     57  0.00
+  296  296     1   6   0   0   0   0   0  33   5   0  16   1   3   0   1   3   5   1   5  18     0    0    0   2.115     70  0.00
+  297  297     1   0   0   2   0   3   0  13   7   0   3   3   3   0  18  15   8   5   2  15     0    0    0   2.389     79  0.00
+  298  298     2   0   0   0   0   0   0  61   3   0   3  19   0   1   0   0   4   1   0   4     0    0    0   1.380     46  0.00
+  299  299     5   7   2   1   0   0   0   7  34   2  11   1   0   0   0   2  20   4   1   1     0    0    0   2.073     69  0.00
+  300  300     1   1   0   6   0   0   0   3  33   6   5   3   0   1   0   1   0   3  35   4     0    0    0   1.782     59  0.00
+  301  301     1   1   1   0   0   1   2   8   7  37   6  14   8   0   1   0   2   4   0   8     0    0    0   2.075     69  0.00
+  302  302     0   2   0   0   0   0   1   2   2   0   4   3   0   1   8   6   1   1  53  18     0    0    0   1.600     53  0.00
+  303  303     6  32   4  18   4   0   1   7   1   1   6   3   2   1   1   9   1   2   1   1     0    0    0   2.249     75  0.00
+  304  304     3   1   1   0   1   1   2  73   2   1   5   3   1   0   2   4   1   1   1   1     0    0    0   1.283     42  0.00
+  305  305     2   0   0   0   2   0   0   4   4   9  27   4   0   2   9   4   3   2   6  21     0    0    0   2.233     74  0.00
+  306  306     1   2   1   0   5   0   2   1  11  56   3   1   0   0   1   2   0   6   0   4     0    0    0   1.712     57  0.00
+  307  307     2   0   0   0   0   0   1   1   8   1   8   3   0   4  10  12  15  14  13   6     0    0    0   2.379     79  0.00
+  308  308     0   1   0   0   0   0   1   0   0   0   1   0   0   0   1   0   4  10   3  78     0    0    0   0.878     29  0.00
+  309  309     2   0   0   1   0   0   1  28  11   1   1   1   0   2  11  33   0   1   4   0     0    0    0   1.896     63  0.00
+  310  310     0   1   0   0   1   6   0   0  11  10   2   2   0   6   5   5  10  16   5  18     0    0    0   2.434     81  0.00
+  311  311     0   6   1   0   1   0   2   5  14   0   3  24   0   4   4   5   0   3  25   3     0    0    0   2.175     72  0.00
+  312  312     1   4   0   2  41   1  48   0   0   0   0   0   0   3   0   0   0   0   0   0     0    0    0   1.125     37  0.00
+  313  313    33  12  15   1   1   0   0   0   8   1   9  15   0   1   1   1   1   0   1   0     0    0    0   1.986     66  0.00
+  314  314     8  30   6   1   5   0   3   0  18   0   5   7   0   1   0   5   4   4   1   1     0    0    0   2.241     74  0.00
+  315  315     0  82   1   2  12   1   0   0   2   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.665     22  0.00
+  316  316    18  39  14  26   0   0   0   0   0   0   0   1   0   0   0   1   0   0   0   0     0    0    0   1.474     49  0.00
+  317  317     0   0   0   0   0   0   1   2   9   0   2   0   0   2  10  40  18  10   3   0     0    0    0   1.856     61  0.00
+  318  318     1   2   0   0   0   0   0   0   6   0   0   4   0   0   1   2   1  73   0   8     0    0    0   1.137     37  0.00
+  319  319     8  58  12   9   4   4   0   0   0   0   0   1   2   0   0   0   0   0   0   0     0    0    0   1.417     47  0.00
+  320  320     0   4   0   0   1   0   0   0   2   0   3   1   0   0  74  11   1   1   1   0     0    0    0   1.062     35  0.00
+  321  321     4   2   1   0   4   0   3   1  27   0  14   6   0   0   4   6   4  19   4   1     0    0    0   2.261     75  0.00
+  322  322     1   1   0  24   4   0   0   1  32   0   1   1   0   0   2  11  12   9   0   1     0    0    0   1.932     64  0.00
+  323  323     5  59   3   1  29   0   0   0   0   0   0   0   0   0   1   0   1   0   0   0     0    0    0   1.143     38  0.00
+  324  324     3   0   2   0   0   0   0   1   1   0   1   4   0   1   4   4   5  12   9  52     0    0    0   1.733     57  0.00
+  325  325     2   0   0   1   0   0   0   4  22   4   3   2   0   0   6  11  14  24   2   4     0    0    0   2.168     72  0.00
+  326  326     3  32   1   2   2   0  19   0  12   0   0   0   0   1   0   0   3  23   0   2     0    0    0   1.869     62  0.00
+  327  327     1   0   0   0   0   0   0  11  36   1  19   4   0   0   0   4   7  17   0   0     0    0    0   1.828     61  0.00
+  328  328     8   9   8   0   1   0   0   2  42   0   3   2   0   1   3   9   7   2   0   2     0    0    0   2.055     68  0.00
+  329  329     2   6   0   0   0   0   0   1   5   2   7   3   0   0   7   7  22  33   3   0     0    0    0   2.069     69  0.00
+  330  330     1   2   3   0   2   0   0   5   4  12  11  34   0   1   0   5   2   2   7   9     0    0    0   2.221     74  0.00
+  331  331     0   1   0   3   0   0   0  63   1   0   2   2   0   1   2   8   2   1  10   3     0    0    0   1.488     49  0.00
+  332  332     0   1   2   0   0   0  12   0   1   1   2   2   0   3  46  22   4   3   0   0     0    0    0   1.732     57  0.00
+  333  333     1   0   0   0   0   0   1   8   1  11   1  15   0  14  13  18   8   2   2   4     0    0    0   2.315     77  0.00
+  334  334     0  17   0   1  16   5  42   0   1   1   1   1   0   0   9   1   0   1   2   1     0    0    0   1.829     61  0.00
+  335  335     1  49   5   3   0   0   2   0   1   0   0   1   0   1   0   1   6  29   0   1     0    0    0   1.526     50  0.00
+  336  336     4  82   8   2   2   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.735     24  0.00
+  337  337     2  13   2   0   0   0   0   1   0   0  24  58   0   0   0   0   0   0   0   0     0    0    0   1.124     37  0.00
+  338  338     6   2  26   1   1   0   0   0  22   0  30  11   1   0   0   0   0   0   0   0     0    0    0   1.682     56  0.00
+  339  339     2   2   1   0   0   0   0   1  86   0   4   0   0   0   0   0   0   0   0   1     0    0    0   0.675     22  0.00
+  340  340    29   6  24   0   1   0   0   2  26   0   7   3   1   0   0   0   0   0   0   0     0    0    0   1.735     57  0.00
+  341  341    12   0   1   0   0   0   1  22   7  32  23   2   0   0   1   0   0   0   0   0     0    0    0   1.685     56  0.00
+  342  342    11   3   0   0   1   1   2   4  58   5  12   0   1   0   0   0   0   0   0   1     0    0    0   1.531     51  0.00
+  343  343     1   0   0   0   1   0   4  67   7   4  12   0   0   0   0   0   0   0   1   2     0    0    0   1.237     41  0.00
+  344  344     5   0   6   0   1   0  10   6   4  20   7   0   0   4   3  22   2   2   4   4     0    0    0   2.404     80  0.00
+  345  345     3   0   3   3   6   3   3   3   2   7   4   3   0   1   1   4   4  12   1  34     0    0    0   2.407     80  0.00
+  346  346     4   3   0   1   1   1   7   2   2   0   5   6   0  11   6  31   1   1  14   3     0    0    0   2.320     77  0.00
+  347  347     9  14  49   1   1   0  17   0   4   0   0   0   0   0   0   0   0   0   2   0     0    0    0   1.593     53  0.00
+  348  348     3   1   6   3   0   1   1   1   9   0  13   0   0   0   5   2   4  16   8  27     0    0    0   2.276     75  0.00
+  349  349     5   0   1   1   5   0   3   9   9   0   4   0   0   2   5  21   8   9   6  12     0    0    0   2.472     82  0.00
+  350  350    31  22   6   4   3   0   3   1   9   0   6  10   0   0   1   1   0   2   0   1     0    0    0   2.108     70  0.00
+  351  351     1   1   1   0   0   0   1  20  10   2  12   0   1   8   5   5   1   7  11  15     0    0    0   2.373     79  0.00
+  352  352     2  12   3   7   3   1  62   1   1   1   1   2   0   1   1   0   0   1   0   1     0    0    0   1.503     50  0.00
+  353  353     0   1   1   1   2   0   0   5  19   3   8   2   0   5   2   6   6   6  13  21     0    0    0   2.377     79  0.00
+  354  354    26   8  11   0   0   0   1   2   7   0   1   2   0   0   2   4   3   9   2  20     0    0    0   2.214     73  0.00
+  355  355     4  15   6   6   2   0   2   0  34  13   1   2   0   0   4   3   2   3   1   1     0    0    0   2.204     73  0.00
+  356  356     7   1   2   1   1   0   0  17  10   0   8   5   0   2   2   4  23  11   1   5     0    0    0   2.370     79  0.00
+  357  357     1   6   4   0   0   0   0   0   1   6   2   1   0   1   6  16  36   5  11   3     0    0    0   2.112     70  0.00
+  358  358    14   7   4   0   1   0  31   0   3   1  21   1   0   5   1   1   1   3   5   1     0    0    0   2.124     70  0.00
+  359  359     8  61   3  19   5   0   0   0   1   0   0   0   1   0   0   1   0   0   0   0     0    0    0   1.261     42  0.00
+  360  360     0   1   0   0   0   0   0   0   0   1   1   0   0   0   0   0   0   1   1  94     0    0    0   0.326     10  0.00
+  361  361     1   4   0   0  27  14  33   0   5   0   1   1   0   8   1   3   0   1   2   0     0    0    0   1.907     63  0.00
+  362  362    18   6  63   1   1   3   3   0   1   0   0   0   0   0   0   0   0   1   0   1     0    0    0   1.282     42  0.00
+  363  363     0   1   1   1  29   0   1   0   2   0   4   0   0   8   0   0   2   0  51   1     0    0    0   1.393     46  0.00
+  364  364    28  44  12   1   1   0   0   0  10   1   1   0   0   0   0   0   0   0   0   0     0    0    0   1.477     49  0.00
+  365  365     1   8   1  83   2   0   1   0   0   0   0   1   0   0   0   1   1   0   1   0     0    0    0   0.759     25  0.00
+  366  366     1   0   0   0   1   1   0   1  25   0  33  37   1   0   0   0   0   0   1   0     0    0    0   1.353     45  0.00
+  367  367     1   0   0   3   1   0  92   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.401     13  0.00
+  368  368     0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0  98     0    0    0   0.114      3  0.00
+  369  369     0  24   1   1  46   0  27   0   0   0   0   0   0   0   0   0   0   1   0   0     0    0    0   1.172     39  0.00
+  370  370     0   2   0   0   6   0  23   0  15   0   6   0   0  33   4   5   1   0   4   0     0    0    0   1.907     63  0.00
+  371  371     0   0   0   0   0   0   0  91   0   0   2   0   0   0   0   0   0   1   3   2     0    0    0   0.472     15  0.00
+  372  372     2   1   3   0   0   0   0  13  26  11  35   2   0   2   0   1   2   0   1   0     0    0    0   1.838     61  0.00
+  373  373     1   1   1   0  13  75   2   2   0   0   1   0   0   0   1   2   0   0   0   0     0    0    0   0.983     32  0.00
+  374  374     1   0   0   0   0   3   0   0   0   1  23   2   0   0   3   0   3  22  14  27     0    0    0   1.834     61  0.00
+  375  375     1  16   1   4   4   1   1   3  11  10  18   7   0   1   0   4   3   0  14   2     0    0    0   2.416     80  0.00
+  376  376     2   4   2   0   3   0   7   3   2   4   2  11   0   0   4  28   3   4  17   3     0    0    0   2.377     79  0.00
+  377  377    17   2   2   0   6   1   4   4   1   0  13  11   1   2   1   3   1   4  20   6     0    0    0   2.460     82  0.00
+  378  378    12  21   5   0   3   9   1   4   5   3   6  27   0   0   0   0   0   0   1   2     0    0    0   2.223     74  0.00
+  379  379     1   1   0   0   0   0   0  69  13   1   2   1   0   5   0   0   0   1   3   3     0    0    0   1.244     41  0.00
+  380  380     0   3   0   0   0   0   4  10   2   5   4   1   0  60   1   2   0   1   3   2     0    0    0   1.604     53  0.00
+  381  381     3   2   1   2   4   0   7   0   4   4   4   1   0  12   0   0  31   1  11  12     0    0    0   2.259     75  0.00
+  382  382     3   0   3   1   0   0   0   3  33   2  15  37   0   0   0   0   0   0   2   0     0    0    0   1.613     53  0.00
+  383  383     0   7   0   0   0   0   0  18  25  16   1   2   0   0   0   2   0   2  20   5     0    0    0   1.978     66  0.00
+  384  384     7  61   4   1   6   0   2   0   1   7   2   1   0   2   0   0   0   5   0   0     0    0    0   1.558     51  0.00
+  385  385     0   0   2   0  20   0  17   3   2   2   3   3   0  10   2   1   1   1  30   2     0    0    0   2.118     70  0.00
+  386  386     3   0   0   0   0   0   1   9  37   6  24   1   6   1   1   0   1   1   3   5     0    0    0   1.941     64  0.00
+  387  387     0   5   1   0   0   0   3   6   2  48   7   3   0   1   0   2   3   4  11   3     0    0    0   1.918     64  0.00
+  388  388     0  22   2   2   0   0   3   6  12  19  17   3   0   0   3   4   1   0   2   3     0    0    0   2.254     75  0.00
+  389  389     1   2   1   0   7  15  25   7   4   2  11   3   0   4   0   4   2   5   5   3     0    0    0   2.469     82  0.00
+  390  390     1   1   3   0   0   0   2   7   3   3   4   2   0   1  10  24   3   4  16  15     0    0    0   2.332     77  0.00
+  391  391     2   1   0   0   0   0   0   5   2  54   6   1   0   1   4   5   0   6   6   6     0    0    0   1.796     59  0.00
+  392  392     2   1   1   0   1   0   1  12   5   2  10   4   0   1   2   7   7   9  16  20     0    0    0   2.426     80  0.00
+  393  393     1   3   3   0   1   4   0   5   7   7  18  21   0   0   2   4   5   8   5   6     0    0    0   2.487     83  0.00
+  394  394     1   4   2   0   4   0   2  12  25  14  15   3   0   2   5   3   2   2   2   3     0    0    0   2.352     78  0.00
+  395  395     1   3   2   2  18   0  49   1   7   1   1   1   0   3   3   3   1   2   1   1     0    0    0   1.872     62  0.00
+  396  396     1   1   1   0   2   1   5   2   2   3  14  26   0   1   1   0   1   6  30   2     0    0    0   2.100     70  0.00
+  397  397    10   3   3   0   0   0   0   6  14   0   8  40   0   0   1   4   0   1   6   1     0    0    0   1.994     66  0.00
+  398  398    10  10   2   5   3   0   1   2   8   0   2   1   0   3   1   1   1  10   3  38     0    0    0   2.180     72  0.00
+  399  399     1   3   0   0   3   1   6   2   3   0   8   5   0   5   2   5   8   4  31  10     0    0    0   2.409     80  0.00
+  400  400     1   0   0   0   0   0   6  35  41   0   4   7   0   1   0   0   0   1   3   0     0    0    0   1.523     50  0.00
+  401  401    38   8  27   6   1   5   1   0   7   0   3   2   0   0   0   0   0   1   0   0     0    0    0   1.813     60  0.00
+  402  402     1   1   0   0   0   0   0   3   3   0   4   1   0   2   9  26  14   2  22  11     0    0    0   2.114     70  0.00
+  403  403     1  15   1   1   1   0  20   3  22   0   3   2   1   1   3   6   4   2   1  11     0    0    0   2.326     77  0.00
+  404  404     2  31   3   4   4  19  30   1   1   0   0   0   0   1   0   1   0   1   0   1     0    0    0   1.794     59  0.00
+  405  405     3  38  30   5   1   1   0   1   4   0   2   5   1   0   1   4   0   2   0   0     0    0    0   1.862     62  0.00
+  406  406     0   0   1   1   0   0   1   6  19   0  11   1   7   1   5  15   6  12  13   2     0    0    0   2.350     78  0.00
+  407  407     1   6   1   3   1   0   1  15  11   1   1   0   0   2   5  20  25   3   5   0     0    0    0   2.266     75  0.00
+  408  408     0   0   0   0   0   1   0  85   1   0   1   6   0   1   2   1   0   0   1   0     0    0    0   0.702     23  0.00
+  409  409    51   4   3   6   2   0   0   2  18   0   1   2   5   0   3   2   0   1   0   0     0    0    0   1.750     58  0.00
+  410  410     1   0   0   1   0   0   0   0   4  60   2   4   0   0   1  10   5   1   3   6     0    0    0   1.550     51  0.00
+  411  411     0   1   0   0   1   0   0   1  40  29  15   5   0   0   3   4   0   1   0   0     0    0    0   1.589     53  0.00
+  412  412     0   0   0   0   0   0   1  13   5   0  19   1   0   1   4   8   3  14  23   8     0    0    0   2.126     70  0.00
+  413  413     0   0   1   0   0   0   0   0   0   0   0   0   0   0   3  92   3   0   1   0     0    0    0   0.394     13  0.00
+  414  414     4  49  39   1   4   0   0   0   3   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.108     36  0.00
+  415  415    58   7  16   1   1   0   0   0   1   0   0   1   0   1   0   0   0   0  11   0     0    0    0   1.367     45  0.00
+  416  416    28  40  10  20   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0     0    0    0   1.350     45  0.00
+  417  417     3   0   1   1   0   0   0  92   2   0   1   0   0   0   0   0   0   0   0   0     0    0    0   0.387     12  0.00
+  418  418    19   6  23  23  10   0   0   0   6   0   0  12   0   0   0   0   0   0   0   0     0    0    0   1.865     62  0.00
+  419  419     0   0   0   0   0   0   0   4  27  64   3   0   0   0   0   0   0   1   0   0     0    0    0   0.977     32  0.00
+  420  420     0   7  13  23  25   1   6   0   5   0   0  14   0   1   1   0   0   1   1   0     0    0    0   2.023     67  0.00
+  421  421     1   0   0   0   4   0  91   0   0   0   0   0   1   2   0   0   0   0   0   0     0    0    0   0.432     14  0.00
+  422  422     2   0   0   0   0   0   0  86   5   0   2   4   0   0   0   0   0   0   0   0     0    0    0   0.621     20  0.00
+  423  423     0   0   1   0   0   2   3   0   1   0   0   3   1   6  75   2   4   0   1   0     0    0    0   1.085     36  0.00
+  424  424     0   3   1   0   2   0   3  39  12   0  26  10   0   0   0   1   0   0   2   1     0    0    0   1.724     57  0.00
+  425  425     0   0   0   0  44  49   3   0   0   0   0   1   1   0   0   0   0   0   0   0     0    0    0   1.011     33  0.00
+  426  426     0   0   5   0   0   0   0   2   4   0   5  42   1   3   4   6   6  18   2   1     0    0    0   1.968     65  0.00
+  427  427     1  27   1   0   1   0   0  38   2   0  11   0   1   0   0   1   2   1  11   2     0    0    0   1.757     58  0.00
+  428  428    41   8   1   0   0   0   0   1  11   0   9  17   3   0   1   1   0   2   3   1     0    0    0   1.901     63  0.00
+  429  429     0   1   0   0   0   0   0   8   5   0  14  12   0   2   2   5   3   5  29  13     0    0    0   2.190     73  0.00
+  430  430     0   3   0   0   0   0   0  40  11  13   9   2   0   0   1   2   2   7   9   2     0    0    0   1.954     65  0.00
+  431  431     0   1  15   0   3   0  20   6  13   4  19   6   0   1   0   3   1   3   4   1     0    0    0   2.298     76  0.00
+  432  432     1   2   4   0   0   0   0  20   4   1   6   6   0   0   2   9  15   5  11  14     0    0    0   2.342     78  0.00
+  433  433     0   5   2   4   0   0   0   6   4   7   2  10   1   5   1   4  13   0  28   6     0    0    0   2.387     79  0.00
+  434  434     1   0   0   0   0   0   0  36   3   1  12   6   0   1   3   2   0   4  18  12     0    0    0   2.007     67  0.00
+  435  435     6  17  16   1   1   0   4   2  14   0   2   7   0   1   3   2   3   0  11   8     0    0    0   2.449     81  0.00
+  436  436     0   2   0   0   1   1   7  13   1  58   3   0   0   0   1   1   2   2   5   1     0    0    0   1.639     54  0.00
+  437  437     2   3  11  12  25   0   7   5  16   1   5   3   0   0   2   0   1   1   1   3     0    0    0   2.387     79  0.00
+  438  438     3   0   2   1   1   0   4   8   2   8  18  26   1   2   3   4   4   2   8   2     0    0    0   2.430     81  0.00
+  439  439     1   0   0   0   1   1   0  51  16   2   4   8   1   1   1   6   3   1   1   2     0    0    0   1.785     59  0.00
+  440  440    11   0   5   2   1   1   1   6   6   7  12  26   1   0   3   1   1   7   3   3     0    0    0   2.457     82  0.00
+  441  441     1   1   0   0   1   0   8  32  32   4   5   6   0   1   1   3   0   1   0   1     0    0    0   1.910     63  0.00
+  442  442     5   2   5   0   0   1   0  11  10   4  10  23   2   0   4   4   1   3  13   3     0    0    0   2.466     82  0.00
+  443  443     0   1   0   0   0   0   0  76   5   0   6   1   0   0   0   3   0   1   4   1     0    0    0   1.069     35  0.00
+  444  444     3   1   7   0   1   0   0   5   3  57   2   2   0   1   0  11   0   2   1   2     0    0    0   1.686     56  0.00
+  445  445    15   9  10   2   1   0   3  20  26   3   4   2   1   0   1   1   1   1   1   0     0    0    0   2.193     73  0.00
+  446  446     0   0   2   0   0   0   1   9   7  10  14   7   0   0   8  27   5   5   2   2     0    0    0   2.289     76  0.00
+  447  447     0   0   0   0   6   0  13  65   2   2   3   0   1   0   0   0   1   2   1   2     0    0    0   1.382     46  0.00
+  448  448     6   1   2   0   0   0   2   1   3   3  22  53   0   0   1   3   0   0   1   1     0    0    0   1.588     53  0.00
+  449  449     1   0   1   0   5  52   8   2   2   0   2   0   0   0   7  11   1   1   4   2     0    0    0   1.813     60  0.00
+  450  450     0   2   0   0   0   0   0   1   7   0   3   2   0   0   2   2  11  66   1   5     0    0    0   1.349     45  0.00
+  451  451     1   0   0   0   0   0   1   6  21   4   8   4   0   0   2   5   2   4  27  14     0    0    0   2.174     72  0.00
+  452  452     0   0   1   0   1   0   0  91   1   0   1   0   0   0   1   0   0   0   1   2     0    0    0   0.542     18  0.00
+  453  453    26   6  30   3  17   0   3   0   2   0   6   3   1   0   0   0   0   1   1   0     0    0    0   1.969     65  0.00
+  454  454    19  23  12   5   3  22   1   0   3   0   0   1   3   0   0   1   0   4   0   0     0    0    0   2.116     70  0.00
+  455  455     0   0   1   1   0   0   0   7  25   1   5   2   0   1   0   3   1   1   1  51     0    0    0   1.579     52  0.00
+  456  456     1   0   1   0   4   3  84   1   0   0   1   0   0   0   1   1   1   1   1   0     0    0    0   0.824     27  0.00
+  457  457     1   3   0   0   4   1  23   2   3   0   3   1   0   0  18  34   0   0   6   1     0    0    0   1.948     65  0.00
+  458  458    12   0   1   0   1   0   1   6   7   1   3   1   0   0   2   5  14  31   3  11     0    0    0   2.203     73  0.00
+  459  459    11  28  47   3   1   0   0   0   1   1   1   0   0   0   0   0   0   3   0   0     0    0    0   1.514     50  0.00
+  460  460     7   1   1   1   0   0   0   5  14  16   3   1  27   0   3  11   1   4   1   1     0    0    0   2.269     75  0.00
+  461  461     0   3   0   0   1   0   2  14   8   1   6  14   0   1   3  22   6   6   8   5     0    0    0   2.392     79  0.00
+  462  462     1   2   0   3   7   1   3   2  13   0  11   6   0   1   2   5  19   8  10   4     0    0    0   2.524     84  0.00
+  463  463     8  12  10   6  21   1  10  19   1   0   1   1   0   0   3   3   1   0   1   0     0    0    0   2.294     76  0.00
+  464  464     9  16   5  12   0   2   0   4  19   1   1   2   0   0   5   7   4   6   2   5     0    0    0   2.487     83  0.00
+  465  465     0   3   2   0   1   2   1   9   5   1  17  15   0   1   4   7   7   2  16   6     0    0    0   2.467     82  0.00
+  466  466    11   1   0   0   0   0   1  29  10   3  10   1   2   1   1   9   3   9   6   2     0    0    0   2.291     76  0.00
+  467  467     0   2   1   0   0   0   1  14  20   2   2   5   0   1   5   7  14  13  10   4     0    0    0   2.359     78  0.00
+  468  468     2   1   1   0   9  30  17   7  11   0   2   6   0   0   0   8   0   3   1   0     0    0    0   2.139     71  0.00
+  469  469     8   0   0   0   0   0   0   3   4   2   2  20   0   2   5  12  14  18   4   3     0    0    0   2.330     77  0.00
+  470  470    18   4   4   2   2   3  27   2   1   2   3   5   0   5   7   6   2   6   1   1     0    0    0   2.461     82  0.00
+  471  471    17   2   5   0   1   3   5  12   4   0   6  21   0   2   7   9   4   0   1   0     0    0    0   2.410     80  0.00
+  472  472     3   2   4   0   9  20  42   0   0   0   0   1   1   4   4   0   2   2   2   1     0    0    0   1.958     65  0.00
+  473  473     0   3   0   0   0   0   0   2   2   2   1   1   0   4   1   1   0   1  10  73     0    0    0   1.132     37  0.00
+  474  474     1   1   0   0   0   0   3   4  16   5  16   3   0   0   1   3   4  21   4  16     0    0    0   2.284     76  0.00
+  475  475    20   4   2   2   2   0   2   3   5   3   5  19   0   1   1   6   9   7   3   6     0    0    0   2.536     84  0.00
+  476  476     3   1   4   1   0   0   3   9  44   1   7   8   1   0   0   2  12   1   1   0     0    0    0   1.990     66  0.00
+  477  477     9   2   2   1   0   0   2   3   3   0   0   0   1   1   6  29  18  22   1   1     0    0    0   2.070     69  0.00
+  478  478    24   0   0   0   0   0   0  16  42   0   4   7   3   0   1   0   0   0   1   0     0    0    0   1.590     53  0.00
+  479  479     0   1   0   1   1   0  12   0  14  53  11   1   1   0   0   0   0   0   1   3     0    0    0   1.560     52  0.00
+  480  480     1   0   0   0   9  11  75   0   1   0   0   1   0   0   0   0   0   0   0   0     0    0    0   0.936     31  0.00
+  481  481    20  11   8   4   0   0   1   2  26   0  18   2   5   0   0   2   0   0   0   1     0    0    0   2.041     68  0.00
+  482  482     6   1   0   1  17  18  50   1   0   0   0   3   0   1   0   0   0   0   2   0     0    0    0   1.475     49  0.00
+  483  483     1   0   2   0   0   0   0   1   5   0   1   1   0   2   4  28   6   0  25  23     0    0    0   1.860     62  0.00
+  484  484     0   1   1   0   0   0   0  23  12  24  10   0   0   2  10   7   1   1   2   4     0    0    0   2.132     71  0.00
+  485  485     0   0   0   0   0   0   0   3   5   1  33  18   3   0   1   8   2   6  17   3     0    0    0   1.999     66  0.00
+  486  486     2   0   2   0   0   0   0   9   3   2  20  31   0   0   1   8   0   4  14   1     0    0    0   2.025     67  0.00
+  487  487     0   0   0   0   0   0   0  44   0   1   4   3   0   0   9  25   2   2   5   2     0    0    0   1.693     56  0.00
+  488  488     3   2   3   0   0   0   2   0   1   0   1   5   0   1   4   5  20  26   7  20     0    0    0   2.122     70  0.00
+  489  489     1  38   0   2  18  37   2   0   0   0   0   0   0   0   0   0   1   0   0   0     0    0    0   1.319     44  0.00
+  490  490    33  10  44   1   2   6   2   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.425     47  0.00
+  491  491     0   0   0   0   0   1   0  28   1   0  40  29   0   0   0   0   0   0   0   0     0    0    0   1.216     40  0.00
+  492  492     0   3   1   0  38   0  56   0   0   0   0   1   0   0   0   0   0   0   0   0     0    0    0   0.924     30  0.00
+  493  493     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  18   0  81     0    0    0   0.522     17  0.00
+  494  494     0   0   0   0   0   0   0   0   0   0   8  25   0   1   0   0   0   1  20  44     0    0    0   1.373     45  0.00
+  495  495    13   1   3   0   0   0   0   0  14  31   0   3   0   2   0   7   3  14   3   6     0    0    0   2.094     69  0.00
+  496  496     1   0   4   0   0   0   0   0   9   1   1   2   0   0  31  11   9  15   0  15     0    0    0   2.016     67  0.00
+  497  497     0   0   4  14   0   0   0   0   3   0  68  10   0   0   0   0   0   0   1   0     0    0    0   1.092     36  0.00
+  498  498    38   7  34   1  15   0   0   0   3   0   0   1   0   0   0   0   0   0   0   0     0    0    0   1.463     48  0.00
+  499  499     4   8   1   3   0   0   0   7   7   0  10   1   0   0   9  21   9   7   9   3     0    0    0   2.421     80  0.00
+  500  500     3   5   9   1   0   0  10   1  27   0   3  15   1   3   1   7   1   7   6   1     0    0    0   2.337     77  0.00
+  501  501     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 100   0   0   0   0     0    0    0   0.024      0  0.00
+  502  502    27   2   3  14   0   0   0  21  21   0   2   8   1   0   0   0   0   0   2   0     0    0    0   1.866     62  0.00
+  503  503     1   0   1   1   1   2   0   3  13   0  12   1   0   0   4  18  14   8   7  13     0    0    0   2.374     79  0.00
+  504  504     0   1   0   0  13  15  71   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.848     28  0.00
+  505  505    36  27  21   0   0   0   0   0  16   0   0   0   0   0   0   0   0   0   0   0     0    0    0   1.379     46  0.00
+  506  506     3  11   4   2   0   0   0   0   3   0   0   4   1   1  11  52   3   1   4   1     0    0    0   1.789     59  0.00
+  507  507     1   0   0   0   0   0   0   2   6   0  18   1   0   2   6   6  13  12  13  19     0    0    0   2.224     74  0.00
+  508  508     0  22   0   3   0   0   1   0   0   0   1   0   0   6  10  28   6   7  15   0     0    0    0   1.984     66  0.00
+  509  509     0   1   1   0   0   0   0  51   0   0   0   0   0   5   3   5  12   1  17   2     0    0    0   1.630     54  0.00
+  510  510     0  76   6   2   8   0   8   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.876     29  0.00
+  511  511     0   8   0   0   0   0   0  72  16   0   1   0   0   0   2   0   0   0   0   0     0    0    0   0.887     29  0.00
+  512  512     0   0   0   0   0   0   0 100   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.024      0  0.00
+  513  513    13  22   6   1   1   0   4   6  32   0  13   1   0   0   0   0   0   0   0   0     0    0    0   1.861     62  0.00
+  514  514     3   1   1  51  34   4   0   1   2   0   0   2   1   0   0   0   0   0   0   0     0    0    0   1.279     42  0.00
+  515  515    17   1  16   5  23   5   0   1  13   0  13   4   0   0   0   0   0   0   0   0     0    0    0   2.055     68  0.00
+  516  516     0   0   0   0   2  97   0   0   0   0   0   0   0   0   0   0   0   0   0   0     0    0    0   0.166      5  0.00
+  517  517     0   1   0   0   0   0   0   0  18   2   8  11   0   5   0   0   1  48   0   4     0    0    0   1.649     55  0.00
+  518  518    11  27  36   2   4   0   0   0  15   0   3   0   0   0   0   0   0   0   0   0     0    0    0   1.656     55  0.00
+  519  519     0   0   0   0   0   0   0   4   3   0  27   2   0   0   0   0   0   2   1  60     0    0    0   1.117     37  0.00
+  520  520     0  11   0  15   4   0   1  15  39   0   3   4   0   0   0   1   5   0   1   0     0    0    0   1.883     62  0.00
+  521  521     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  99     0    0    0   0.076      2  0.00
+  522  522     0   0   0   0   0   0   1   0   0   0   2   2   0   1   0   1   0   0  40  51     0    0    0   1.082     36  0.00
+  523  523     0   0   0   0   1   0   0  71   2   1   1   0   0   1   1   3   1   6   6   7     0    0    0   1.179     39  0.00
+  524  524     0   2   0   0   0   0   0   1   1   1  11  11   0   0   0   2   0   9   2  62     0    0    0   1.328     44  0.00
+  525  525     5  55  30   0   0   0   0   1   0   0   0   1   2   0   1   1   0   2   0   0     0    0    0   1.210     40  0.00
+  526  526    11  71   9   0   0   0   0   0   2   0   0   0   0   0   0   1   3   0   0   2     0    0    0   1.027     34  0.00
+  527  527     0   1   0   0   0   0   0   9   4   0  10   2   0   0   1   2   1   2  63   3     0    0    0   1.401     46  0.00
+  528  528     2   0   0   0   0   0   0   0  51   0  24  13   0   0   1   7   0   0   2   0     0    0    0   1.359     45  0.00
+  529  529    13  15  12  47   1   0   0   0   7   0   5   0   0   0   0   0   0   0   0   0     0    0    0   1.541     51  0.00
+  530  530     8   0   0   0   0   0   1   3   6   0   5   1   0  24   3   4   0   0  38   8     0    0    0   1.849     61  0.00
+  531  531     1   0   4   0   0   0   0   0  34   0  18   3   0   0   1   1   4  18   9   4     0    0    0   1.909     63  0.00
+  532  532     3   0   0   0   0   0   0  52   6   0  24   2   0   0   0   0   2   3   0   8     0    0    0   1.419     47  0.00
+  533  533     2  88   2   7   0   0   0   0   0   0   0   0   2   0   0   0   0   0   0   0     0    0    0   0.501     16  0.00
+  534  534     0   0   0   0   0   0   0  91   0   0   5   2   0   0   0   2   0   0   0   0     0    0    0   0.399     13  0.00
+  535  535     3   0   0   0   3   0   0  17   0   3   6   3   0   8   0   0   0   0  58   0     0    0    0   1.379     46  0.00
+  536  536     3   6   0   0   0   0   0  18   6   0  47  15   0   0   0   0   6   0   0   0     0    0    0   1.546     51  0.00
+  537  537     3   0   0   0   0   0   0  24  42   3   0   0   0   0   0   0   0   6   3  18     0    0    0   1.505     50  0.00
+  538  538     0   0   0   0   0   0   0  66   0   0  13   6   0   0   0  16   0   0   0   0     0    0    0   1.000     33  0.00
+  539  539    58  21   0   0   0   0   0   0   4   0   0  17   0   0   0   0   0   0   0   0     0    0    0   1.072     35  0.00
+  540  540     0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  78  22   0   0     0    0    0   0.524     17  0.00
+//
